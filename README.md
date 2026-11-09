@@ -106,8 +106,8 @@ node tools/validate.js
 cd ~/Documents/readers_atlas
 git init -b main
 git add -A && git commit -m "The Reader's Atlas: UK version, multi-country data layer"
-git remote add origin git@github.com:<你的账号>/readers-atlas.git
+git remote add origin https://github.com/Ayla711/readers-atlas.git
 git push -u origin main
 ```
 
-以后每批改动一个 commit。GitHub Pages：仓库 Settings → Pages → Source 选 `main` / 根目录，几分钟后地址是 `https://<账号>.github.io/readers-atlas/`。本地双击 `index.html` 仍然能用。`_to_delete/`、`cache/` 不进 git（见 `.gitignore`）。
+以后每批改动一个 commit。GitHub Pages：仓库 Settings → Pages → Source 选 `main` / 根目录，几分钟后地址是 `https://ayla711.github.io/readers-atlas/`。本地双击 `index.html` 仍然能用。`_to_delete/`、`cache/` 不进 git（见 `.gitignore`）。
