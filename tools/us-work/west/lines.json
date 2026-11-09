@@ -1,0 +1,441 @@
+[
+  {
+    "id": "ri-1",
+    "book_id": "roughing-it",
+    "place_ids": [
+      "marysville"
+    ],
+    "location": "Chapter 3",
+    "location_zh": "第3章",
+    "text_en": "By and by we passed through Marysville, and over the Big Blue and Little\r\nSandy; thence about a mile, and entered Nebraska.",
+    "text_zh": "不久我们经过马里斯维尔，越过大蓝河和小桑迪河；再走大约一英里，就进入了内布拉斯加。",
+    "highlight_en": [
+      "Marysville"
+    ],
+    "highlight_zh": [
+      "马里斯维尔"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 3177
+    },
+    "status": "draft"
+  },
+  {
+    "id": "ri-2",
+    "book_id": "roughing-it",
+    "place_ids": [
+      "salt-lake-city"
+    ],
+    "location": "Chapter 13",
+    "location_zh": "第13章",
+    "text_en": "Seen from one of these dizzy heights, twelve or fifteen miles off, Great\r\nSalt Lake City is toned down and diminished till it is suggestive of a\r\nchild’s toy-village reposing under the majestic protection of the\r\nChinese wall.",
+    "text_zh": "从十二或十五英里外的一处眩目高地望去，大盐湖城的色彩变得柔和，身形也缩小了，仿佛一座玩具村庄，安卧在中国长城般雄伟的屏障之下。",
+    "highlight_en": [
+      "Salt Lake City"
+    ],
+    "highlight_zh": [
+      "盐湖城"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 3177
+    },
+    "status": "draft"
+  },
+  {
+    "id": "ri-3",
+    "book_id": "roughing-it",
+    "place_ids": [
+      "virginia-city"
+    ],
+    "location": "Chapter 42",
+    "location_zh": "第42章",
+    "text_en": "I canvassed the city again and found one wretched old hay truck dragging\r\nin from the country. But I made affluent use of it. I multiplied it by\r\nsixteen, brought it into town from sixteen different directions, made\r\nsixteen separate items out of it, and got up such another sweat about\r\nhay as Virginia City had never seen in the world before.",
+    "text_zh": "我又在城里四处搜寻，只见一辆破旧的运草车从乡下驶来。我却把它利用得十足：将它变成十六辆，从十六个方向进城，编出十六条新闻，让弗吉尼亚城为干草忙得热火朝天，这可是从未有过的事。",
+    "highlight_en": [
+      "Virginia City"
+    ],
+    "highlight_zh": [
+      "弗吉尼亚城"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 3177
+    },
+    "status": "draft"
+  },
+  {
+    "id": "ri-4",
+    "book_id": "roughing-it",
+    "place_ids": [
+      "honolulu"
+    ],
+    "location": "Chapter 63",
+    "location_zh": "第63章",
+    "text_en": "We had an abundance of fruit in Honolulu, of course. Oranges, pine-\r\napples, bananas, strawberries, lemons, limes, mangoes, guavas, melons,\r\nand a rare and curious luxury called the chirimoya, which is\r\ndeliciousness itself.",
+    "text_zh": "当然，我们在檀香山有许多水果：橙子、菠萝、香蕉、草莓、柠檬、酸橙、芒果、番石榴、甜瓜，还有一种罕见而奇特的美味，叫作秘鲁番荔枝，简直就是美味本身。",
+    "highlight_en": [
+      "Honolulu"
+    ],
+    "highlight_zh": [
+      "檀香山"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 3177
+    },
+    "status": "draft"
+  },
+  {
+    "id": "tia-1",
+    "book_id": "travels-in-alaska",
+    "place_ids": [
+      "mount-hood"
+    ],
+    "location": "Chapter 1, Puget Sound and British Columbia",
+    "location_zh": "第1章，普吉特海湾与不列颠哥伦比亚",
+    "text_en": "Mt. Baker, to the northward, is about 10,700 feet\r\nhigh, a noble mountain. So also are Mt. Adams, Mt. St. Helens, and Mt.\r\nHood. The latter, overlooking the town of Portland, is perhaps the best\r\nknown.",
+    "text_zh": "北面的贝克山高约一万零七百英尺，是一座雄伟的山。亚当斯山、圣海伦斯山和胡德山也同样雄伟。其中俯瞰波特兰的胡德山，也许最为人熟知。",
+    "highlight_en": [
+      "Hood"
+    ],
+    "highlight_zh": [
+      "胡德山"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 7345
+    },
+    "status": "draft"
+  },
+  {
+    "id": "tia-2",
+    "book_id": "travels-in-alaska",
+    "place_ids": [
+      "seattle",
+      "tacoma"
+    ],
+    "location": "Chapter 1, Puget Sound and British Columbia",
+    "location_zh": "第1章，普吉特海湾与不列颠哥伦比亚",
+    "text_en": "Seattle was famed for\r\nits coal-mines, and claimed to be the coming town of the North Pacific\r\nCoast. So also did its rival, Tacoma, which had been selected as the\r\nterminus of the much-talked-of Northern Pacific Railway.",
+    "text_zh": "西雅图以煤矿闻名，自称将成为北太平洋海岸的新兴重镇。它的对手塔科马也这样宣称；人们议论纷纷的北太平洋铁路已选定那里作为终点。",
+    "highlight_en": [
+      "Seattle",
+      "Tacoma"
+    ],
+    "highlight_zh": [
+      "西雅图",
+      "塔科马"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 7345
+    },
+    "status": "draft"
+  },
+  {
+    "id": "tia-3",
+    "book_id": "travels-in-alaska",
+    "place_ids": [
+      "wrangell"
+    ],
+    "location": "Chapter 9, A Canoe Voyage to Northward",
+    "location_zh": "第9章，乘独木舟北行",
+    "text_en": "I arrived at Wrangell in a canoe with a party of Cassiar miners in\r\nOctober while the icy regions to the northward still burned in my mind.",
+    "text_zh": "十月，我与一队卡西亚矿工乘独木舟抵达兰格尔，心中仍热切惦念着北方的冰雪世界。",
+    "highlight_en": [
+      "Wrangell"
+    ],
+    "highlight_zh": [
+      "兰格尔"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 7345
+    },
+    "status": "draft"
+  },
+  {
+    "id": "vir-1",
+    "book_id": "virginian",
+    "place_ids": [
+      "medicine-bow"
+    ],
+    "location": "Chapter 1, Enter the Man",
+    "location_zh": "第1章，人物登场",
+    "text_en": "We had plenty of time\r\nto watch this sport, for our train had stopped that the engine might\r\ntake water at the tank before it pulled us up beside the station\r\nplatform of Medicine Bow.",
+    "text_zh": "我们有充足的时间观看这番较量，因为列车停了下来，让机车先在水塔旁加水，然后才把我们拉到梅迪辛博的站台边。",
+    "highlight_en": [
+      "Medicine Bow"
+    ],
+    "highlight_zh": [
+      "梅迪辛博"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 1298
+    },
+    "status": "draft"
+  },
+  {
+    "id": "myan-1",
+    "book_id": "my-antonia",
+    "place_ids": [
+      "lincoln-nebraska"
+    ],
+    "location": "Book 3, Lena Lingard, Chapter 1",
+    "location_zh": "第三卷《莉娜·林加德》，第1章",
+    "text_en": "I did not go home for my first summer vacation, but stayed in Lincoln,\r\nworking off a year’s Greek, which had been my only condition on\r\nentering the freshman class.",
+    "text_zh": "第一个暑假我没有回家，而是留在林肯，补修一整年的希腊语；这是我进入一年级时唯一需要补足的条件。",
+    "highlight_en": [
+      "Lincoln"
+    ],
+    "highlight_zh": [
+      "林肯"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 242
+    },
+    "status": "draft"
+  },
+  {
+    "id": "opion-1",
+    "book_id": "o-pioneers",
+    "place_ids": [
+      "omaha"
+    ],
+    "location": "Part 2, Neighboring Fields, Chapter 7",
+    "location_zh": "第二部《毗邻的田野》，第7章",
+    "text_en": "Marie’s father, Albert Tovesky, was one of the more intelligent\r\nBohemians who came West in the early seventies. He settled in Omaha and\r\nbecame a leader and adviser among his people there.",
+    "text_zh": "玛丽的父亲阿尔伯特·托韦斯基，是十九世纪七十年代初来到西部的波希米亚人中较有见识的一位。他在奥马哈定居，成为当地同乡的领袖和顾问。",
+    "highlight_en": [
+      "Omaha"
+    ],
+    "highlight_zh": [
+      "奥马哈"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 24
+    },
+    "status": "draft"
+  },
+  {
+    "id": "mtr-1",
+    "book_id": "main-travelled-roads",
+    "place_ids": [
+      "ordway"
+    ],
+    "location": "Foreword",
+    "location_zh": "前言",
+    "text_en": "In the summer of 1887, after having been three years in Boston, and six\r\nyears absent from my old home in northern Iowa, I found myself with\r\nmoney enough to pay my railway fare to Ordway, South Dakota, where my\r\nfather and mother were living, and as it cost very little extra to go by\r\nway of Dubuque and Charles City, I planned to visit Osage, Iowa, and the\r\nfarm we had opened on Dry Run prairie in 1871.",
+    "text_zh": "一八八七年夏天，我在波士顿住了三年，离开爱荷华北部的旧家也已有六年，终于有钱买车票去南达科他的奥德韦看望父母。绕道迪比克和查尔斯城所费无几，我便打算顺路看看爱荷华的奥塞奇，以及我们一八七一年在德赖兰草原开辟的农场。",
+    "highlight_en": [
+      "Ordway"
+    ],
+    "highlight_zh": [
+      "奥德韦"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 2809
+    },
+    "status": "draft"
+  },
+  {
+    "id": "gow-s1",
+    "kind": "scene",
+    "book_id": "grapes-of-wrath",
+    "place_ids": [
+      "gallup",
+      "flagstaff"
+    ],
+    "location": "Chapter 12",
+    "location_zh": "第12章",
+    "text_en": "The account of westward migration follows Route 66 through Gallup and Flagstaff. Families face breakdowns and desert travel while learning to help one another.",
+    "text_zh": "描写西迁的章节沿着六十六号公路经过盖洛普和弗拉格斯塔夫。各家面对车辆故障和沙漠旅途，也逐渐学会相互扶持。",
+    "highlight_en": [
+      "Gallup",
+      "Flagstaff"
+    ],
+    "highlight_zh": [
+      "盖洛普",
+      "弗拉格斯塔夫"
+    ],
+    "status": "draft",
+    "fact_source": "https://americanliterature.com/author/john-steinbeck/book/the-grapes-of-wrath/chapter-12"
+  },
+  {
+    "id": "gow-s2",
+    "kind": "scene",
+    "book_id": "grapes-of-wrath",
+    "place_ids": [
+      "sallisaw"
+    ],
+    "location": "Opening chapters",
+    "location_zh": "开篇数章",
+    "text_en": "Returning from prison to the countryside near Sallisaw, Tom meets Jim Casy. At home they discover that the family has been forced off its land.",
+    "text_zh": "汤姆出狱后回到萨利索附近的乡间，遇见吉姆·凯西。他们回家后发现，家人已被迫离开土地。",
+    "highlight_en": [
+      "Sallisaw"
+    ],
+    "highlight_zh": [
+      "萨利索"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Grapes_of_Wrath"
+  },
+  {
+    "id": "gow-s3",
+    "kind": "scene",
+    "book_id": "grapes-of-wrath",
+    "place_ids": [
+      "weedpatch-camp"
+    ],
+    "location": "Government camp episode",
+    "location_zh": "政府营地片段",
+    "text_en": "At the government camp associated with Weedpatch, the Joads find washing facilities and a community governed by its residents. The improvement in daily life cannot solve their shortage of paid work.",
+    "text_zh": "在以威德帕奇为背景的政府营地，乔德一家找到了洗浴设施，也见到由居民自治的社区。生活条件改善了，却仍解决不了缺少有酬工作的困境。",
+    "highlight_en": [
+      "Weedpatch"
+    ],
+    "highlight_zh": [
+      "威德帕奇"
+    ],
+    "status": "draft",
+    "fact_source": "https://www.steinbeckintheschools.com/the-grapes-of-wrath-reading-guides/setting"
+  },
+  {
+    "id": "otr-s1",
+    "kind": "scene",
+    "book_id": "on-the-road",
+    "place_ids": [
+      "denver"
+    ],
+    "location": "Part 1",
+    "location_zh": "第一部",
+    "text_en": "On his first trip west, Sal reaches Denver and joins Dean, Carlo and their friends. Their parties and restless plans draw him further into Dean’s circle.",
+    "text_zh": "第一次西行时，萨尔抵达丹佛，与迪安、卡洛及朋友们会合。聚会和不断变动的计划让他更深地融入迪安的圈子。",
+    "highlight_en": [
+      "Denver"
+    ],
+    "highlight_zh": [
+      "丹佛"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/On_the_Road"
+  },
+  {
+    "id": "otr-s2",
+    "kind": "scene",
+    "book_id": "on-the-road",
+    "place_ids": [
+      "san-francisco"
+    ],
+    "location": "Part 1",
+    "location_zh": "第一部",
+    "text_en": "In San Francisco, Sal stays with Remi and Lee Ann. Remi finds him work guarding a camp for merchant sailors, but Sal soon moves on.",
+    "text_zh": "在旧金山，萨尔与雷米和莉安住在一起。雷米替他找到看守商船海员营地的工作，但萨尔很快又上路了。",
+    "highlight_en": [
+      "San Francisco"
+    ],
+    "highlight_zh": [
+      "旧金山"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/On_the_Road"
+  },
+  {
+    "id": "twc-s1",
+    "kind": "scene",
+    "book_id": "travels-with-charley",
+    "place_ids": [
+      "fargo"
+    ],
+    "location": "Part 3, North Dakota",
+    "location_zh": "第三部，北达科他",
+    "text_en": "Steinbeck arrives in Fargo with a vivid imagined city already in mind. Its everyday bustle differs from that private picture, which he chooses to keep.",
+    "text_zh": "斯坦贝克抵达法戈时，心中早已有了一座鲜明的想象之城。眼前日常的繁忙景象与之不同，但他仍愿意保留那个私人想象。",
+    "highlight_en": [
+      "Fargo"
+    ],
+    "highlight_zh": [
+      "法戈"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Travels_with_Charley"
+  },
+  {
+    "id": "twc-s2",
+    "kind": "scene",
+    "book_id": "travels-with-charley",
+    "place_ids": [
+      "billings"
+    ],
+    "location": "Part 3, Montana",
+    "location_zh": "第三部，蒙大拿",
+    "text_en": "In Billings, Steinbeck buys a hat. Shopping gives him another reason to linger in a state whose towns and people have won his affection.",
+    "text_zh": "在比灵斯，斯坦贝克买了一顶帽子。这个州的城镇和居民令他喜爱，购物又给了他一个多逗留片刻的理由。",
+    "highlight_en": [
+      "Billings"
+    ],
+    "highlight_zh": [
+      "比灵斯"
+    ],
+    "status": "draft",
+    "fact_source": "https://gutenbergcanada.ca/ebooks/steinbeckj-travelswithcharley/steinbeckj-travelswithcharley-00-h.html"
+  },
+  {
+    "id": "aor-s1",
+    "kind": "scene",
+    "book_id": "angle-of-repose",
+    "place_ids": [
+      "kuna"
+    ],
+    "location": "Idaho section, Kuna",
+    "location_zh": "爱达荷部分，库纳",
+    "text_en": "The account of the Wards’ Idaho years turns to Kuna. The small settlement becomes a way of conveying the isolation of their western life.",
+    "text_zh": "叙述沃德一家在爱达荷的岁月时，故事转向库纳。这个小聚落让人感受到他们西部生活中的孤寂。",
+    "highlight_en": [
+      "Kuna"
+    ],
+    "highlight_zh": [
+      "库纳"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Kuna,_Idaho"
+  },
+  {
+    "id": "aor-s2",
+    "kind": "scene",
+    "book_id": "angle-of-repose",
+    "place_ids": [
+      "leadville"
+    ],
+    "location": "Colorado section, Leadville",
+    "location_zh": "科罗拉多部分，莱德维尔",
+    "text_en": "The family’s western history includes Leadville, where mining work shapes their circumstances. Lyman reconstructs this world while trying to understand his grandparents’ marriage.",
+    "text_zh": "家族的西部经历包括莱德维尔，矿业工作塑造了他们的生活处境。莱曼重建这个世界，试图理解祖父母的婚姻。",
+    "highlight_en": [
+      "Leadville"
+    ],
+    "highlight_zh": [
+      "莱德维尔"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Angle_of_Repose"
+  }
+]

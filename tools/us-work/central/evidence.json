@@ -1,0 +1,836 @@
+{
+  "places": {
+    "hannibal": {
+      "state": "MO",
+      "coord_source": "https://en.wikipedia.org/wiki/Hannibal,_Missouri",
+      "raw_coordinates": "39.70972; -91.39389",
+      "cache": "cache/hannibal.html",
+      "fact_source": "https://www.gutenberg.org/ebooks/245"
+    },
+    "memphis": {
+      "state": "TN",
+      "coord_source": "https://en.wikipedia.org/wiki/Memphis,_Tennessee",
+      "raw_coordinates": "35.14611; -90.05194",
+      "cache": "cache/memphis.html",
+      "fact_source": "https://www.gutenberg.org/ebooks/245"
+    },
+    "helena": {
+      "state": "AR",
+      "coord_source": "https://en.wikipedia.org/wiki/Helena,_Arkansas",
+      "raw_coordinates": "34.52917; -90.58611",
+      "cache": "cache/helena.html",
+      "fact_source": "https://www.gutenberg.org/ebooks/245"
+    },
+    "dubuque": {
+      "state": "IA",
+      "coord_source": "https://en.wikipedia.org/wiki/Dubuque,_Iowa",
+      "raw_coordinates": "42.49972; -90.72361",
+      "cache": "cache/dubuque.html",
+      "fact_source": "https://www.gutenberg.org/ebooks/245"
+    },
+    "burlington": {
+      "state": "IA",
+      "coord_source": "https://en.wikipedia.org/wiki/Burlington,_Iowa",
+      "raw_coordinates": "40.81056; -91.10139",
+      "cache": "cache/burlington.html",
+      "fact_source": "https://www.gutenberg.org/ebooks/245"
+    },
+    "davenport": {
+      "state": "IA",
+      "coord_source": "https://en.wikipedia.org/wiki/Davenport,_Iowa",
+      "raw_coordinates": "41.55682; -90.603948",
+      "cache": "cache/davenport.html",
+      "fact_source": "https://www.gutenberg.org/ebooks/245"
+    },
+    "minneapolis": {
+      "state": "MN",
+      "coord_source": "https://en.wikipedia.org/wiki/Minneapolis",
+      "raw_coordinates": "44.98194; -93.26917",
+      "cache": "cache/minneapolis.html",
+      "fact_source": "https://www.gutenberg.org/ebooks/245"
+    },
+    "saint-paul": {
+      "state": "MN",
+      "coord_source": "https://en.wikipedia.org/wiki/Saint_Paul,_Minnesota",
+      "raw_coordinates": "44.94778; -93.10389",
+      "cache": "cache/saint-paul.html",
+      "fact_source": "https://www.gutenberg.org/ebooks/245"
+    },
+    "new-orleans": {
+      "state": "LA",
+      "coord_source": "https://en.wikipedia.org/wiki/New_Orleans",
+      "raw_coordinates": "29.9761; -90.0783",
+      "cache": "cache/new-orleans.html",
+      "fact_source": "https://www.gutenberg.org/ebooks/245"
+    },
+    "cairo": {
+      "state": "IL",
+      "coord_source": "https://en.wikipedia.org/wiki/Cairo,_Illinois",
+      "raw_coordinates": "37.01306; -89.18028",
+      "cache": "cache/cairo.html",
+      "fact_source": "https://www.gutenberg.org/ebooks/245"
+    },
+    "louisville": {
+      "state": "KY",
+      "coord_source": "https://en.wikipedia.org/wiki/Louisville,_Kentucky",
+      "raw_coordinates": "38.25611; -85.75139",
+      "cache": "cache/louisville.html",
+      "fact_source": "https://www.gutenberg.org/ebooks/203"
+    },
+    "chicago": {
+      "state": "IL",
+      "coord_source": "https://en.wikipedia.org/wiki/Chicago",
+      "raw_coordinates": "41.88194; -87.62778",
+      "cache": "cache/chicago.html",
+      "fact_source": "https://www.gutenberg.org/ebooks/233"
+    },
+    "indianapolis": {
+      "state": "IN",
+      "coord_source": "https://en.wikipedia.org/wiki/Indianapolis",
+      "raw_coordinates": "39.76861; -86.15806",
+      "cache": "cache/indianapolis.html",
+      "fact_source": "https://www.gutenberg.org/ebooks/233"
+    },
+    "pepin": {
+      "state": "WI",
+      "coord_source": "https://en.wikipedia.org/wiki/Pepin,_Wisconsin",
+      "raw_coordinates": "44.44250; -92.14778",
+      "cache": "cache/pepin.html",
+      "fact_source": "https://www.storychasers.com/big-woods"
+    },
+    "monroeville": {
+      "state": "AL",
+      "coord_source": "https://en.wikipedia.org/wiki/Monroeville,_Alabama",
+      "raw_coordinates": "31.50417; -87.32583",
+      "cache": "cache/monroeville.html",
+      "fact_source": "https://alabama.travel/plan-your-trip/road-trips/monroeville-the-to-kill-a-mockingbird-experience/"
+    },
+    "eatonton": {
+      "state": "GA",
+      "coord_source": "https://en.wikipedia.org/wiki/Eatonton,_Georgia",
+      "raw_coordinates": "33.32639; -83.38778",
+      "cache": "cache/eatonton.html",
+      "fact_source": "https://catalog.afi.com/Film/67174-THE-COLOR-PURPLE?cxt=ymal"
+    },
+    "eatonville": {
+      "state": "FL",
+      "coord_source": "https://en.wikipedia.org/wiki/Eatonville,_Florida",
+      "raw_coordinates": "28.61667; -81.39056",
+      "cache": "cache/eatonville.html",
+      "fact_source": "https://en.wikipedia.org/wiki/Their_Eyes_Were_Watching_God"
+    },
+    "jacksonville": {
+      "state": "FL",
+      "coord_source": "https://en.wikipedia.org/wiki/Jacksonville,_Florida",
+      "raw_coordinates": "30.32611; -81.65806",
+      "cache": "cache/jacksonville.html",
+      "fact_source": "https://en.wikipedia.org/wiki/Their_Eyes_Were_Watching_God"
+    },
+    "seney": {
+      "state": "MI",
+      "coord_source": "https://en.wikipedia.org/wiki/Seney,_Michigan",
+      "raw_coordinates": "46.34556; -85.94556",
+      "cache": "cache/seney.html",
+      "fact_source": "https://en.wikipedia.org/wiki/Big_Two-Hearted_River"
+    },
+    "fox-river": {
+      "state": "MI",
+      "coord_source": "https://en.wikipedia.org/wiki/Fox_River_(Michigan)",
+      "raw_coordinates": "\"coordinates\":[-85.87861111,46.26]",
+      "cache": "cache/fox-river.html",
+      "fact_source": "https://www.michiganhemingwaysociety.org/publications/hemingway-in-seney/"
+    },
+    "fort-smith": {
+      "state": "AR",
+      "coord_source": "https://en.wikipedia.org/wiki/Fort_Smith,_Arkansas",
+      "raw_coordinates": "35.37972; -94.38194",
+      "cache": "cache/fort-smith.html",
+      "fact_source": "https://en.wikipedia.org/wiki/Lonesome_Dove"
+    },
+    "san-antonio": {
+      "state": "TX",
+      "coord_source": "https://en.wikipedia.org/wiki/San_Antonio",
+      "raw_coordinates": "29.425; -98.4939",
+      "cache": "cache/san-antonio.html",
+      "fact_source": "https://en.wikipedia.org/wiki/Lonesome_Dove"
+    },
+    "oxford-mississippi": {
+      "state": "MS",
+      "coord_source": "https://en.wikipedia.org/wiki/Oxford,_Mississippi",
+      "raw_coordinates": "34.37222; -89.50806",
+      "cache": "cache/oxford.html",
+      "fact_source": "https://en.wikipedia.org/wiki/Oxford,_Mississippi"
+    }
+  },
+  "quotations": {
+    "lom-1": {
+      "cache": "cache/pg245.txt",
+      "sha256": "91388a58a49f9c321fc5b1611560b0302d043a7e955c2f3f6c619d91befc8f01",
+      "exact_substring": true,
+      "start_char": 655681,
+      "end_char": 655764,
+      "source_url": "https://www.gutenberg.org/cache/epub/245/pg245.txt"
+    },
+    "lom-2": {
+      "cache": "cache/pg245.txt",
+      "sha256": "91388a58a49f9c321fc5b1611560b0302d043a7e955c2f3f6c619d91befc8f01",
+      "exact_substring": true,
+      "start_char": 283823,
+      "end_char": 284091,
+      "source_url": "https://www.gutenberg.org/cache/epub/245/pg245.txt"
+    },
+    "lom-3": {
+      "cache": "cache/pg245.txt",
+      "sha256": "91388a58a49f9c321fc5b1611560b0302d043a7e955c2f3f6c619d91befc8f01",
+      "exact_substring": true,
+      "start_char": 611030,
+      "end_char": 611147,
+      "source_url": "https://www.gutenberg.org/cache/epub/245/pg245.txt"
+    },
+    "lom-4": {
+      "cache": "cache/pg245.txt",
+      "sha256": "91388a58a49f9c321fc5b1611560b0302d043a7e955c2f3f6c619d91befc8f01",
+      "exact_substring": true,
+      "start_char": 737818,
+      "end_char": 737952,
+      "source_url": "https://www.gutenberg.org/cache/epub/245/pg245.txt"
+    },
+    "lom-5": {
+      "cache": "cache/pg245.txt",
+      "sha256": "91388a58a49f9c321fc5b1611560b0302d043a7e955c2f3f6c619d91befc8f01",
+      "exact_substring": true,
+      "start_char": 713425,
+      "end_char": 713733,
+      "source_url": "https://www.gutenberg.org/cache/epub/245/pg245.txt"
+    },
+    "lom-6": {
+      "cache": "cache/pg245.txt",
+      "sha256": "91388a58a49f9c321fc5b1611560b0302d043a7e955c2f3f6c619d91befc8f01",
+      "exact_substring": true,
+      "start_char": 716519,
+      "end_char": 716865,
+      "source_url": "https://www.gutenberg.org/cache/epub/245/pg245.txt"
+    },
+    "lom-7": {
+      "cache": "cache/pg245.txt",
+      "sha256": "91388a58a49f9c321fc5b1611560b0302d043a7e955c2f3f6c619d91befc8f01",
+      "exact_substring": true,
+      "start_char": 246012,
+      "end_char": 246150,
+      "source_url": "https://www.gutenberg.org/cache/epub/245/pg245.txt"
+    },
+    "utc-1": {
+      "cache": "cache/pg203.txt",
+      "sha256": "95e4ce1153f8506d9903df84541cfa99c8ac6ad3ad69bcf5ea37d042d01a0a98",
+      "exact_substring": true,
+      "start_char": 599359,
+      "end_char": 599840,
+      "source_url": "https://www.gutenberg.org/cache/epub/203/pg203.txt"
+    },
+    "sc-1": {
+      "cache": "cache/pg233.txt",
+      "sha256": "091801ae1f03d45e9f3bff3daff1fde3d44318fe3ced10c481f9822274a88e68",
+      "exact_substring": true,
+      "start_char": 3798,
+      "end_char": 4151,
+      "source_url": "https://www.gutenberg.org/cache/epub/233/pg233.txt"
+    },
+    "sc-2": {
+      "cache": "cache/pg233.txt",
+      "sha256": "091801ae1f03d45e9f3bff3daff1fde3d44318fe3ced10c481f9822274a88e68",
+      "exact_substring": true,
+      "start_char": 573774,
+      "end_char": 573959,
+      "source_url": "https://www.gutenberg.org/cache/epub/233/pg233.txt"
+    }
+  },
+  "books": {
+    "life-on-mississippi": {
+      "death_year": 1910,
+      "living_if_null": true,
+      "copyright_rule": "UK life + 70, cutoff 1955 for 2026",
+      "author_source": "https://en.wikipedia.org/wiki/Mark_Twain",
+      "author_cache": "cache/author-Mark_Twain.html",
+      "canon_author": {
+        "name": "Mark Twain",
+        "tier": 1,
+        "why": [
+          "residence: Mark Twain House, Hartford, CT",
+          "residence: Mark Twain Boyhood Home, Hannibal, MO",
+          "residence: Quarry Farm, Elmira, NY",
+          "Great American Read: The Adventures of Tom Sawyer"
+        ]
+      },
+      "canon_books": [
+        {
+          "title": "The Adventures of Tom Sawyer",
+          "author": "Mark Twain",
+          "src": "GAR",
+          "rank": null
+        }
+      ],
+      "death_evidence": "Died  April 21, 1910 (1910-04-21)"
+    },
+    "uncle-toms-cabin": {
+      "death_year": 1896,
+      "living_if_null": true,
+      "copyright_rule": "UK life + 70, cutoff 1955 for 2026",
+      "author_source": "https://en.wikipedia.org/wiki/Harriet_Beecher_Stowe",
+      "author_cache": "cache/author-Harriet_Beecher_Stowe.html",
+      "canon_author": {
+        "name": "Harriet Beecher Stowe",
+        "tier": 1,
+        "why": [
+          "residence: Harriet Beecher Stowe House, Hartford, CT",
+          "residence: Harriet Beecher Stowe House, Brunswick, ME",
+          "residence: Harriet Beecher Stowe House, Cincinnati, OH"
+        ]
+      },
+      "canon_books": [],
+      "death_evidence": "Died  July 1, 1896 (1896-07-01)"
+    },
+    "sister-carrie": {
+      "death_year": 1945,
+      "living_if_null": true,
+      "copyright_rule": "UK life + 70, cutoff 1955 for 2026",
+      "author_source": "https://en.wikipedia.org/wiki/Theodore_Dreiser",
+      "author_cache": "cache/author-Theodore_Dreiser.html",
+      "canon_author": {
+        "name": "Theodore Dreiser",
+        "tier": 1,
+        "why": [
+          "Modern Library #16: An American Tragedy",
+          "Modern Library #33: Sister Carrie"
+        ]
+      },
+      "canon_books": [
+        {
+          "title": "An American Tragedy",
+          "author": "Theodore Dreiser",
+          "src": "ML",
+          "rank": 16
+        },
+        {
+          "title": "Sister Carrie",
+          "author": "Theodore Dreiser",
+          "src": "ML",
+          "rank": 33
+        }
+      ],
+      "death_evidence": "Died  December 28, 1945 (1945-12-28)"
+    },
+    "little-house-in-big-woods": {
+      "death_year": 1957,
+      "living_if_null": true,
+      "copyright_rule": "UK life + 70, cutoff 1955 for 2026",
+      "author_source": "https://en.wikipedia.org/wiki/Laura_Ingalls_Wilder",
+      "author_cache": "cache/author-Laura_Ingalls_Wilder.html",
+      "canon_author": {
+        "name": "Laura Ingalls Wilder",
+        "tier": 1,
+        "why": [
+          "residence: Laura Ingalls Wilder House (Rocky Ridge Farm), Mansfield, MO"
+        ]
+      },
+      "canon_books": [],
+      "death_evidence": "Died  February 10, 1957 (1957-02-10)"
+    },
+    "to-kill-a-mockingbird": {
+      "death_year": 2016,
+      "living_if_null": true,
+      "copyright_rule": "UK life + 70, cutoff 1955 for 2026",
+      "author_source": "https://en.wikipedia.org/wiki/Harper_Lee",
+      "author_cache": "cache/author-Harper_Lee.html",
+      "canon_author": {
+        "name": "Harper Lee",
+        "tier": 1,
+        "why": [
+          "Great American Read #1: To Kill a Mockingbird"
+        ]
+      },
+      "canon_books": [
+        {
+          "title": "To Kill a Mockingbird",
+          "author": "Harper Lee",
+          "src": "GAR",
+          "rank": 1
+        }
+      ],
+      "death_evidence": "Died  February 19, 2016 (2016-02-19)"
+    },
+    "color-purple": {
+      "death_year": null,
+      "living_if_null": true,
+      "copyright_rule": "UK life + 70, cutoff 1955 for 2026",
+      "author_source": "https://en.wikipedia.org/wiki/Alice_Walker",
+      "author_cache": "cache/author-Alice_Walker.html",
+      "canon_author": {
+        "name": "Alice Walker",
+        "tier": 2,
+        "why": [
+          "Great American Read: The Color Purple"
+        ]
+      },
+      "canon_books": [
+        {
+          "title": "The Color Purple",
+          "author": "Alice Walker",
+          "src": "GAR",
+          "rank": null
+        }
+      ],
+      "death_evidence": "Fetched biography has no death field; treated as living and copyrighted."
+    },
+    "sound-and-fury": {
+      "death_year": 1962,
+      "living_if_null": true,
+      "copyright_rule": "UK life + 70, cutoff 1955 for 2026",
+      "author_source": "https://en.wikipedia.org/wiki/William_Faulkner",
+      "author_cache": "cache/author-William_Faulkner.html",
+      "canon_author": {
+        "name": "William Faulkner",
+        "tier": 1,
+        "why": [
+          "residence: Rowan Oak, Oxford, MS",
+          "Modern Library #6: The Sound and the Fury",
+          "Modern Library #35: As I Lay Dying",
+          "Modern Library #54: Light in August"
+        ]
+      },
+      "canon_books": [
+        {
+          "title": "The Sound and the Fury",
+          "author": "William Faulkner",
+          "src": "ML",
+          "rank": 6
+        },
+        {
+          "title": "As I Lay Dying",
+          "author": "William Faulkner",
+          "src": "ML",
+          "rank": 35
+        },
+        {
+          "title": "Light in August",
+          "author": "William Faulkner",
+          "src": "ML",
+          "rank": 54
+        }
+      ],
+      "death_evidence": "Died  July 6, 1962 (1962-07-06)"
+    },
+    "their-eyes-were-watching-god": {
+      "death_year": 1960,
+      "living_if_null": true,
+      "copyright_rule": "UK life + 70, cutoff 1955 for 2026",
+      "author_source": "https://en.wikipedia.org/wiki/Zora_Neale_Hurston",
+      "author_cache": "cache/author-Zora_Neale_Hurston.html",
+      "canon_author": {
+        "name": "Zora Neale Hurston",
+        "tier": 1,
+        "why": [
+          "residence: Zora Neale Hurston House, Fort Pierce, FL",
+          "Great American Read: Their Eyes Were Watching God"
+        ]
+      },
+      "canon_books": [
+        {
+          "title": "Their Eyes Were Watching God",
+          "author": "Zora Neale Hurston",
+          "src": "GAR",
+          "rank": null
+        }
+      ],
+      "death_evidence": "Died  January 28, 1960 (1960-01-28)"
+    },
+    "nick-adams-stories": {
+      "death_year": 1961,
+      "living_if_null": true,
+      "copyright_rule": "UK life + 70, cutoff 1955 for 2026",
+      "author_source": "https://en.wikipedia.org/wiki/Ernest_Hemingway",
+      "author_cache": "cache/author-Ernest_Hemingway.html",
+      "canon_author": {
+        "name": "Ernest Hemingway",
+        "tier": 1,
+        "why": [
+          "residence: Ernest Hemingway Home, Key West, FL",
+          "residence: Ernest Hemingway Birthplace, Oak Park, IL",
+          "residence: Windemere Cottage, Petoskey, MI",
+          "Modern Library #45: The Sun Also Rises",
+          "Modern Library #74: A Farewell to Arms",
+          "Great American Read: The Sun Also Rises"
+        ]
+      },
+      "canon_books": [
+        {
+          "title": "The Sun Also Rises",
+          "author": "Ernest Hemingway",
+          "src": "ML",
+          "rank": 45
+        },
+        {
+          "title": "A Farewell to Arms",
+          "author": "Ernest Hemingway",
+          "src": "ML",
+          "rank": 74
+        },
+        {
+          "title": "The Sun Also Rises",
+          "author": "Ernest Hemingway",
+          "src": "GAR",
+          "rank": null
+        }
+      ],
+      "death_evidence": "Died  July 2, 1961 (1961-07-02)"
+    },
+    "lonesome-dove": {
+      "death_year": 2021,
+      "living_if_null": true,
+      "copyright_rule": "UK life + 70, cutoff 1955 for 2026",
+      "author_source": "https://en.wikipedia.org/wiki/Larry_McMurtry",
+      "author_cache": "cache/author-Larry_McMurtry.html",
+      "canon_author": {
+        "name": "Larry McMurtry",
+        "tier": 2,
+        "why": [
+          "Great American Read: Lonesome Dove"
+        ]
+      },
+      "canon_books": [
+        {
+          "title": "Lonesome Dove",
+          "author": "Larry McMurtry",
+          "src": "GAR",
+          "rank": null
+        }
+      ],
+      "death_evidence": "Died  March 25, 2021 (2021-03-25)"
+    }
+  },
+  "source_caches": [
+    {
+      "file": "cache/hannibal.html",
+      "url": "https://en.wikipedia.org/wiki/Hannibal,_Missouri",
+      "sha256": "f9f203cefbeca8caaeae8f19cbf4b814cd36b856327a17c788320055ffcdb6c1",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/memphis.html",
+      "url": "https://en.wikipedia.org/wiki/Memphis,_Tennessee",
+      "sha256": "89a09b808a235187c527d3af327c205444f496cbd87275a1f8018b3af5011028",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/helena.html",
+      "url": "https://en.wikipedia.org/wiki/Helena,_Arkansas",
+      "sha256": "26a136d9ec5c229064caec79f080b1d9d108ba3f8575ffe792f738f9256046b1",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/dubuque.html",
+      "url": "https://en.wikipedia.org/wiki/Dubuque,_Iowa",
+      "sha256": "9790c9b2f9708229608f0ed3043101bb777bccdf48d0fb847eb05d3957de109c",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/burlington.html",
+      "url": "https://en.wikipedia.org/wiki/Burlington,_Iowa",
+      "sha256": "db84d01019b92fae78f4d7ccd0955b05a31f59b634fc602a52e52ba2dc96c908",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/davenport.html",
+      "url": "https://en.wikipedia.org/wiki/Davenport,_Iowa",
+      "sha256": "4106840ec672d3fe3c27837e8c06aad47be5c63221ca72816e01ccec209467b7",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/minneapolis.html",
+      "url": "https://en.wikipedia.org/wiki/Minneapolis",
+      "sha256": "4b7b517e7b87bec52cc5580d0df37d1fd5242caea9ffb28fa6bf0922129ab42e",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/saint-paul.html",
+      "url": "https://en.wikipedia.org/wiki/Saint_Paul,_Minnesota",
+      "sha256": "f002119fb40b842366d9f5f933a80889683981c441b9c98b409b7118c03dee35",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/new-orleans.html",
+      "url": "https://en.wikipedia.org/wiki/New_Orleans",
+      "sha256": "5fb830ef0113c6d003816af5b2ddf6ddd5e3a3c36ebc26b95e5321113ba52a5b",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/cairo.html",
+      "url": "https://en.wikipedia.org/wiki/Cairo,_Illinois",
+      "sha256": "8eeb1fe5c1704f15d176e65fdef43a842beaddade5e0de02106a658018e65588",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/louisville.html",
+      "url": "https://en.wikipedia.org/wiki/Louisville,_Kentucky",
+      "sha256": "55c94e5f45390eee2ed8f568d1ca2b7c435f5dc03e343fdfaf85abbc70d80ac0",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/chicago.html",
+      "url": "https://en.wikipedia.org/wiki/Chicago",
+      "sha256": "c8f326bee2a2a693634605089c7d49c9984b3b4bef04b3da13f98a65aaf04116",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/indianapolis.html",
+      "url": "https://en.wikipedia.org/wiki/Indianapolis",
+      "sha256": "01fcfeaaf3abc5e6fccee3d4b0da6b4b26be0cc224404133079742ccd4d5ae40",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/pepin.html",
+      "url": "https://en.wikipedia.org/wiki/Pepin,_Wisconsin",
+      "sha256": "9c24ec3483b44a9cb037c94d6461367ce5b7404b0c05e893a65de411f0e76932",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/monroeville.html",
+      "url": "https://en.wikipedia.org/wiki/Monroeville,_Alabama",
+      "sha256": "75d8ff956bfe02722cf9ff5ac3af9abd2c4fdf66572a03481172ca14d9cc4fa8",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/eatonton.html",
+      "url": "https://en.wikipedia.org/wiki/Eatonton,_Georgia",
+      "sha256": "7f185ade77bc85c755a908b1763defdada2f5a0127f6c4f4dd5c9c0c45c58d9d",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/oxford.html",
+      "url": "https://en.wikipedia.org/wiki/Oxford,_Mississippi",
+      "sha256": "7a5f81378070155b7fb2892f185b661b2a99558c5224a419564152f3902c53ef",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/eatonville.html",
+      "url": "https://en.wikipedia.org/wiki/Eatonville,_Florida",
+      "sha256": "1ddce6bdf55030fc01fcbf9c334d8bfbf09c9a1ed76634c85d26f05c4c3c35db",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/jacksonville.html",
+      "url": "https://en.wikipedia.org/wiki/Jacksonville,_Florida",
+      "sha256": "21080a119619ee7d7e9eb73a883a6e5f2a23e0edd9e75ab9e327a06905979e22",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/seney.html",
+      "url": "https://en.wikipedia.org/wiki/Seney,_Michigan",
+      "sha256": "e69b6bb818f3248f6b344fde4b111701407a7e4d6406142bdfdffd98b8812e18",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/fox-river.html",
+      "url": "https://en.wikipedia.org/wiki/Fox_River_(Michigan)",
+      "sha256": "61bf79a09a28c66eb6a41e6bdf5224c4842fd4ce993a5de9b0d4bc120a20ed31",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/fort-smith.html",
+      "url": "https://en.wikipedia.org/wiki/Fort_Smith,_Arkansas",
+      "sha256": "ea342234dd0c515084e03e61bc331f16735f339e29b5336ca12f49c651e7f313",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/san-antonio.html",
+      "url": "https://en.wikipedia.org/wiki/San_Antonio",
+      "sha256": "69983dc21a18f20b29afd18c87630f0df67c142ba7ce0f39ec1fd8fb1293f050",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/author-Mark_Twain.html",
+      "url": "https://en.wikipedia.org/wiki/Mark_Twain",
+      "sha256": "90317d8a6097a075d9f36612857bca14129ac6231448dcd0c2dfcec292ea04e2",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/author-Harriet_Beecher_Stowe.html",
+      "url": "https://en.wikipedia.org/wiki/Harriet_Beecher_Stowe",
+      "sha256": "74c0fafb2d701867562c7929496f55f6ca77691c67a23bce6b547190ac47ce2c",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/author-Theodore_Dreiser.html",
+      "url": "https://en.wikipedia.org/wiki/Theodore_Dreiser",
+      "sha256": "42a04168a7e00215097bff0c523b6d1f6e0bb64f4589e8b016a78a71b70463aa",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/author-Laura_Ingalls_Wilder.html",
+      "url": "https://en.wikipedia.org/wiki/Laura_Ingalls_Wilder",
+      "sha256": "823fedd17d319e193b08422be437b1140e179c67ed7d0b28c92b036ab8b5200a",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/author-Harper_Lee.html",
+      "url": "https://en.wikipedia.org/wiki/Harper_Lee",
+      "sha256": "2c8a7fd260eeab71c59a1603ce27dbb27f6b1417304e3a9ba6b38272811c7288",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/author-Alice_Walker.html",
+      "url": "https://en.wikipedia.org/wiki/Alice_Walker",
+      "sha256": "4c7fc55d423594d231d185f98270ea6e73924286a1f213979358b1c79a8c421e",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/author-William_Faulkner.html",
+      "url": "https://en.wikipedia.org/wiki/William_Faulkner",
+      "sha256": "47306957615cd2aba6168d74cd09d026c578bc6a66599d1b9ec53d5b543f8a21",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/author-Zora_Neale_Hurston.html",
+      "url": "https://en.wikipedia.org/wiki/Zora_Neale_Hurston",
+      "sha256": "45e7882b93fbffd7155e6db414bc7c11735346fddd92bda2304fc13bf0b5efaa",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/author-Ernest_Hemingway.html",
+      "url": "https://en.wikipedia.org/wiki/Ernest_Hemingway",
+      "sha256": "2e26b85d1c77729cee4575b8e0954604962c5d4d9dce18e42a61757df04c1fa3",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/author-Larry_McMurtry.html",
+      "url": "https://en.wikipedia.org/wiki/Larry_McMurtry",
+      "sha256": "9d2190f9b28caf9085e87dfc659449401681b46c4f918f94cd83812893f46bb3",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/pg245.txt",
+      "url": "https://www.gutenberg.org/cache/epub/245/pg245.txt",
+      "sha256": "91388a58a49f9c321fc5b1611560b0302d043a7e955c2f3f6c619d91befc8f01",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/pg203.txt",
+      "url": "https://www.gutenberg.org/cache/epub/203/pg203.txt",
+      "sha256": "95e4ce1153f8506d9903df84541cfa99c8ac6ad3ad69bcf5ea37d042d01a0a98",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/pg233.txt",
+      "url": "https://www.gutenberg.org/cache/epub/233/pg233.txt",
+      "sha256": "091801ae1f03d45e9f3bff3daff1fde3d44318fe3ced10c481f9822274a88e68",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/little-house.html",
+      "url": "https://en.wikipedia.org/wiki/Little_House_in_the_Big_Woods",
+      "sha256": "0c8a86530742b22a584e58b6f5ab1332a05170fe5aee2b50182741a4a184de54",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/mockingbird.html",
+      "url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird",
+      "sha256": "abcc29a35b46c75f9eab3b44f46441b0799689933f307e6eca7d44a12d43f0bb",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/color-purple.html",
+      "url": "https://en.wikipedia.org/wiki/The_Color_Purple",
+      "sha256": "c5fd1c7878ad63088a45e563f7b73e1718006b8b22b504a59faceaa82a986881",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/sound-fury.html",
+      "url": "https://en.wikipedia.org/wiki/The_Sound_and_the_Fury",
+      "sha256": "93f13231453da47e3e67608eadb4bc2326fdb0f3bcc8d0f917ec77d5d0650ce5",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/their-eyes.html",
+      "url": "https://en.wikipedia.org/wiki/Their_Eyes_Were_Watching_God",
+      "sha256": "4204a0ff8559a335ad68e61c88f4b9c031ec0ec959517eeb413f2d776772dff7",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/lonesome-dove.html",
+      "url": "https://en.wikipedia.org/wiki/Lonesome_Dove",
+      "sha256": "31e631eeb1c20f50c942ac3f8f13445b5202bdcb40b45fc488cc026c54ca623f",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/nick-adams.html",
+      "url": "https://www.michiganhemingwaysociety.org/publications/hemingway-in-seney/",
+      "sha256": "d33a78f75af2704a6c44158defb2c6acc9efad9b815eba79e4fd706822b49fa9",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/nick-scene.html",
+      "url": "https://en.wikipedia.org/wiki/Big_Two-Hearted_River",
+      "sha256": "afc006518f5d569607cdd5d1443d60f1b058d76d999dadab11019f601341fc7d",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/pepin-scene.html",
+      "url": "https://www.storychasers.com/big-woods",
+      "sha256": "540defb3ab3e04c295b2c90db2ec784b7753f39635bb72a66b43fe47a4fe1db6",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/maycomb-prototype.html",
+      "url": "https://alabama.travel/plan-your-trip/road-trips/monroeville-the-to-kill-a-mockingbird-experience/",
+      "sha256": "ef59c77ff66f6d51f932b6b382e6034baf1ee37a47c6e8f575f7e2c42390a8e8",
+      "fetched_date": "2026-11-09"
+    },
+    {
+      "file": "cache/eatonton-prototype.html",
+      "url": "https://catalog.afi.com/Film/67174-THE-COLOR-PURPLE?cxt=ymal",
+      "sha256": "0a09d65f1b3c4fc9b0a461c16c379b8de46e2cf0fd8cdfc6978fcf9f4e5f46df",
+      "fetched_date": "2026-11-09"
+    }
+  ],
+  "scene_sources": {
+    "lhbw-s1": {
+      "url": "https://www.storychasers.com/big-woods",
+      "cache": "cache/pepin-scene.html"
+    },
+    "tkam-s1": {
+      "url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird",
+      "cache": "cache/mockingbird.html"
+    },
+    "tcp-s1": {
+      "url": "https://en.wikipedia.org/wiki/The_Color_Purple",
+      "cache": "cache/color-purple.html"
+    },
+    "saf-s1": {
+      "url": "https://en.wikipedia.org/wiki/The_Sound_and_the_Fury",
+      "cache": "cache/sound-fury.html"
+    },
+    "tewwg-s1": {
+      "url": "https://en.wikipedia.org/wiki/Their_Eyes_Were_Watching_God",
+      "cache": "cache/their-eyes.html"
+    },
+    "tewwg-s2": {
+      "url": "https://en.wikipedia.org/wiki/Their_Eyes_Were_Watching_God",
+      "cache": "cache/their-eyes.html"
+    },
+    "nas-s1": {
+      "url": "https://en.wikipedia.org/wiki/Big_Two-Hearted_River",
+      "cache": "cache/nick-scene.html"
+    },
+    "nas-s2": {
+      "url": "https://www.michiganhemingwaysociety.org/publications/hemingway-in-seney/",
+      "cache": "cache/nick-adams.html"
+    },
+    "ld-s1": {
+      "url": "https://en.wikipedia.org/wiki/Lonesome_Dove",
+      "cache": "cache/lonesome-dove.html"
+    },
+    "ld-s2": {
+      "url": "https://en.wikipedia.org/wiki/Lonesome_Dove",
+      "cache": "cache/lonesome-dove.html"
+    }
+  }
+}

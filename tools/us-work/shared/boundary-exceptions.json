@@ -1,0 +1,7 @@
+{
+  "honolulu": {
+    "state": "Hawaii",
+    "source": "https://en.wikipedia.org/wiki/Honolulu_Hale",
+    "reason": "The sourced point 21.304650, -157.857217 is Honolulu Hale, Honolulu's city hall on land. The coarse PublicaMundi Hawaii polygon omits this coastal civic-center point. The pack uses the rounded source coordinates 21.3047, -157.8572 as a clearly labelled representative point for the citywide passage; it does not claim that Twain's scene took place inside city hall. Do not move the coordinate to fit the simplified polygon. Final imported boundary verification remains required."
+  }
+}

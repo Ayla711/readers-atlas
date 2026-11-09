@@ -1,0 +1,402 @@
+[
+  {
+    "id": "usmd-1",
+    "book_id": "moby-dick",
+    "place_ids": [
+      "new-bedford"
+    ],
+    "location": "Chapter 7, The Chapel",
+    "location_zh": "第7章：礼拜堂",
+    "text_en": "In this same New Bedford there stands a Whaleman’s Chapel, and few are\r\nthe moody fishermen, shortly bound for the Indian Ocean or Pacific, who\r\nfail to make a Sunday visit to the spot. I am sure that I did not.",
+    "text_zh": "在这同一座新贝德福德城里，有一座捕鲸人的礼拜堂；那些即将驶往印度洋或太平洋、心事重重的渔人，很少有谁不在星期天来此一访。我知道自己也没有错过。",
+    "highlight_en": [
+      "New Bedford"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 2701
+    },
+    "status": "draft"
+  },
+  {
+    "id": "usmd-2",
+    "book_id": "moby-dick",
+    "place_ids": [
+      "nantucket-island"
+    ],
+    "location": "Chapter 14, Nantucket",
+    "location_zh": "第14章：楠塔基特",
+    "text_en": "Nantucket! Take out your map and look at it. See what a real corner of\r\nthe world it occupies; how it stands there, away off shore, more lonely\r\nthan the Eddystone lighthouse. Look at it—a mere hillock, and elbow of\r\nsand; all beach, without a background.",
+    "text_zh": "楠塔基特！拿出地图看看吧。看它占据了世界怎样偏僻的一角；它远离海岸，比埃迪斯通灯塔还孤独。瞧，它不过是一个小沙丘、一块弯曲的沙地，尽是海滩，后面再无陆地。",
+    "highlight_en": [
+      "Nantucket"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 2701
+    },
+    "status": "draft"
+  },
+  {
+    "id": "uswal-1",
+    "book_id": "walden",
+    "place_ids": [
+      "walden-pond"
+    ],
+    "location": "Economy",
+    "location_zh": "经济篇",
+    "text_en": "When I wrote the following pages, or rather the bulk of them, I lived\r\nalone, in the woods, a mile from any neighbor, in a house which I had\r\nbuilt myself, on the shore of Walden Pond, in Concord, Massachusetts,\r\nand earned my living by the labor of my hands only. I lived there two\r\nyears and two months.",
+    "text_zh": "我写下后面这些文字，或者说其中的大部分时，独自住在树林里，离最近的邻居一英里，住的是自己搭建的房屋，坐落在马萨诸塞州康科德的瓦尔登湖畔，完全靠双手劳动谋生。我在那里住了两年两个月。",
+    "highlight_en": [
+      "Walden Pond"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 205
+    },
+    "status": "draft"
+  },
+  {
+    "id": "ussd-1",
+    "book_id": "specimen-days",
+    "place_ids": [
+      "washington-whitman"
+    ],
+    "location": "Back to Washington",
+    "location_zh": "重返华盛顿",
+    "text_en": "I am now remaining in and around Washington, daily visiting the\r\nhospitals. Am much in Patent-office, Eighth street, H street,\r\nArmory-square, and others. Am now able to do a little good, having\r\nmoney, (as almoner of others home,) and getting experience.",
+    "text_zh": "我现在留在华盛顿及周边，每天探望医院。我常去专利局、第八街、H街、军械库广场及其他医院。如今手头有些钱，替家乡的朋友施助，也渐有经验，能够做一点好事了。",
+    "highlight_en": [
+      "Washington"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 8813
+    },
+    "status": "draft"
+  },
+  {
+    "id": "ussd-2",
+    "book_id": "specimen-days",
+    "place_ids": [
+      "falmouth-whitman"
+    ],
+    "location": "Back to Washington",
+    "location_zh": "重返华盛顿",
+    "text_en": "_January, '63_.--Left camp at Falmouth, with some wounded, a few days\r\nsince, and came here by Aquia creek railroad, and so on government\r\nsteamer up the Potomac. Many wounded were with us on the cars and boat.",
+    "text_zh": "一八六三年一月。几天前，我与一些伤兵离开法尔茅斯军营，乘阿奎亚溪铁路，再转乘政府轮船沿波托马克河来到这里。火车和船上都有许多伤兵与我们同行。",
+    "highlight_en": [
+      "Falmouth"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 8813
+    },
+    "status": "draft"
+  },
+  {
+    "id": "ussd-3",
+    "book_id": "specimen-days",
+    "place_ids": [
+      "camden-whitman"
+    ],
+    "location": "An Ossianic Night—Dearest Friends",
+    "location_zh": "奥西安式的夜晚——最亲爱的朋友",
+    "text_en": "_Nov., '81_.--Again back in Camden. As I cross the Delaware in long trips\r\ntonight, between 9 and 11, the scene overhead is a peculiar one--swift\r\nsheets of flitting vapor-gauze, follow'd by dense clouds throwing an\r\ninky pall on everything.",
+    "text_zh": "一八八一年十一月。又回到了卡姆登。今晚九点至十一点，我长时间横渡特拉华河，头顶的景象十分奇特：薄纱似的雾气飞快掠过，后面跟着浓云，给一切罩上漆黑的帷幕。",
+    "highlight_en": [
+      "Camden"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 8813
+    },
+    "status": "draft"
+  },
+  {
+    "id": "ussd-4",
+    "book_id": "specimen-days",
+    "place_ids": [
+      "pittsburgh-whitman"
+    ],
+    "location": "Begin a Long Jaunt West",
+    "location_zh": "开始向西的长途旅行",
+    "text_en": "at Pittsburgh in the morning to breakfast. Pretty good\r\nview of the city and Birmingham--fog and damp, smoke, coke-furnaces,\r\nflames, discolor'd wooden houses, and vast collections of coal-barges.",
+    "text_zh": "早晨抵达匹兹堡吃早餐。城市与伯明翰区尽收眼底：雾气与湿气、烟雾、炼焦炉、火焰、变色的木屋，还有大批运煤驳船。",
+    "highlight_en": [
+      "Pittsburgh"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 8813
+    },
+    "status": "draft"
+  },
+  {
+    "id": "ussd-5",
+    "book_id": "specimen-days",
+    "place_ids": [
+      "weirton-panhandle"
+    ],
+    "location": "Begin a Long Jaunt West",
+    "location_zh": "开始向西的长途旅行",
+    "text_en": "Presently a bit of fine region, West Virginia, the Panhandle, and\r\ncrossing the river, the Ohio.",
+    "text_zh": "接着是一片美好的地区，西弗吉尼亚的狭长地带，然后渡过俄亥俄河。",
+    "highlight_en": [
+      "West Virginia"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 8813
+    },
+    "status": "draft"
+  },
+  {
+    "id": "uslw-1",
+    "book_id": "little-women",
+    "place_ids": [
+      "concord-orchard-house"
+    ],
+    "location": "Chapter 1, Playing Pilgrims",
+    "location_zh": "第1章：扮演朝圣者",
+    "text_en": "It was a comfortable\r\nroom, though the carpet was faded and the furniture very plain, for a\r\ngood picture or two hung on the walls, books filled the recesses,\r\nchrysanthemums and Christmas roses bloomed in the windows, and a\r\npleasant atmosphere of home peace pervaded it.",
+    "text_zh": "这是一间舒适的屋子，虽然地毯已经褪色，家具也很简朴，墙上却挂着一两幅好画，壁龛里放满书，窗边盛开着菊花和圣诞玫瑰，满屋洋溢着家庭安宁的愉悦气息。",
+    "highlight_en": [
+      "comfortable"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 514
+    },
+    "status": "draft"
+  },
+  {
+    "id": "usgg-1",
+    "book_id": "great-gatsby",
+    "place_ids": [
+      "great-neck-west-egg"
+    ],
+    "location": "Chapter 1",
+    "location_zh": "第1章",
+    "text_en": "I lived at West Egg, the—well, the less fashionable of the two, though\r\nthis is a most superficial tag to express the bizarre and not a little\r\nsinister contrast between them. My house was at the very tip of the\r\negg, only fifty yards from the Sound, and squeezed between two huge\r\nplaces that rented for twelve or fifteen thousand a season.",
+    "text_zh": "我住在西卵，就是两地中不那么时髦的一处——不过，这个说法太肤浅，无法表达两者间古怪而颇为阴森的差别。我家位于卵形半岛最尖的一端，距海湾只有五十码，夹在两座每季租金高达一万二到一万五千的巨宅之间。",
+    "highlight_en": [
+      "West Egg"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 64317
+    },
+    "status": "draft"
+  },
+  {
+    "id": "usgg-2",
+    "book_id": "great-gatsby",
+    "place_ids": [
+      "manhattan-plaza-hotel"
+    ],
+    "location": "Chapter 4",
+    "location_zh": "第4章",
+    "text_en": "(said Jordan Baker that afternoon, sitting up very straight on a\r\nstraight chair in the tea-garden at the Plaza Hotel)",
+    "text_zh": "那天下午，乔丹·贝克挺直身子坐在广场饭店茶园的一把直背椅上，这样说道。",
+    "highlight_en": [
+      "Plaza Hotel"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 64317
+    },
+    "status": "draft"
+  },
+  {
+    "id": "usgb-1",
+    "book_id": "gold-bug",
+    "place_ids": [
+      "sullivans-island"
+    ],
+    "location": "Opening, Legrand’s retreat",
+    "location_zh": "开篇：勒格朗的隐居处",
+    "text_en": "To\r\n      avoid the mortification consequent upon his disasters, he left\r\n      New Orleans, the city of his forefathers, and took up his\r\n      residence at Sullivan’s Island, near Charleston, South Carolina.",
+    "text_zh": "为了避免遭受厄运后的羞辱，他离开了祖先居住的新奥尔良，搬到南卡罗来纳州查尔斯顿附近的沙利文岛居住。",
+    "highlight_en": [
+      "Sullivan’s Island"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 2147
+    },
+    "status": "draft"
+  },
+  {
+    "id": "usgb-2",
+    "book_id": "gold-bug",
+    "place_ids": [
+      "charleston-gold-bug"
+    ],
+    "location": "Opening, the October visit",
+    "location_zh": "开篇：十月的拜访",
+    "text_en": "my\r\n      residence being, at that time, in Charleston, a distance of nine\r\n      miles from the island, while the facilities of passage and\r\n      re-passage were very far behind those of the present day.",
+    "text_zh": "我当时住在查尔斯顿，离岛九英里，而往返交通的便利程度远远不及今天。",
+    "highlight_en": [
+      "Charleston"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 2147
+    },
+    "status": "draft"
+  },
+  {
+    "id": "usmt-1",
+    "book_id": "marrow-of-tradition",
+    "place_ids": [
+      "wilmington-wellington"
+    ],
+    "location": "Chapter 15, Mrs. Carteret Seeks an Explanation",
+    "location_zh": "第15章：卡特雷特夫人寻求解释",
+    "text_en": "Twenty years before, Wellington had been the world's greatest\r\nshipping port for naval stores. But as the turpentine industry had moved\r\nsouthward, leaving a trail of devastated forests in its rear, the city\r\nhad fallen to a poor fifth or sixth place in this trade, relying now\r\nalmost entirely upon cotton for its export business.",
+    "text_zh": "二十年前，威灵顿曾是世界上最大的船用物资出口港。可是松节油产业一路南移，身后留下遭毁坏的森林，城市在这项贸易中已跌至第五或第六位，如今出口几乎完全依靠棉花。",
+    "highlight_en": [
+      "Wellington"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 11228
+    },
+    "status": "draft"
+  },
+  {
+    "id": "uswo-1",
+    "book_id": "winesburg-ohio",
+    "place_ids": [
+      "clyde-winesburg"
+    ],
+    "location": "Hands",
+    "location_zh": "手",
+    "text_en": "Upon the half decayed veranda of a small frame house that stood near\r\nthe edge of a ravine near the town of Winesburg, Ohio, a fat little old\r\nman walked nervously up and down.",
+    "text_zh": "在俄亥俄州温斯堡镇附近的一道沟壑边，有一座小木屋；一个矮胖的老人正在它半朽的门廊上，紧张地来回踱步。",
+    "highlight_en": [
+      "Winesburg, Ohio"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 416
+    },
+    "status": "draft"
+  },
+  {
+    "id": "usnh-s1",
+    "kind": "scene",
+    "book_id": "new-hampshire",
+    "place_ids": [
+      "franconia-frost"
+    ],
+    "location": "New Hampshire, title poem",
+    "location_zh": "标题诗《新罕布什尔》",
+    "text_en": "At a film screening in Franconia, the speaker recalls the audience laughing at a tiny nearby town’s election tally. The moment becomes a meditation on how larger communities look down on smaller ones.",
+    "text_zh": "叙述者回忆在弗兰科尼亚看电影时，观众看到邻近小镇的选举票数而发笑。这一幕引出他对大社区如何轻视小社区的思考。",
+    "highlight_en": [
+      "Franconia"
+    ],
+    "highlight_zh": [
+      "弗兰科尼亚"
+    ],
+    "status": "draft",
+    "fact_source": "https://www.gutenberg.org/ebooks/58611"
+  },
+  {
+    "id": "useh-1",
+    "book_id": "entailed-hat",
+    "place_ids": [
+      "princess-anne-entailed-hat"
+    ],
+    "location": "Chapter 1, Two Hat Wearers",
+    "location_zh": "第1章：两个戴帽子的人",
+    "text_en": "Princess Anne, as its royal name implies, is an old seat of justice, and\r\ngentle-minded town on the Eastern Shore.",
+    "text_zh": "安妮公主镇，正如它带有王室意味的名字所示，是东岸一座古老的司法中心，也是一座气质温和的城镇。",
+    "highlight_en": [
+      "Princess Anne"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 19146
+    },
+    "status": "draft"
+  },
+  {
+    "id": "useh-2",
+    "book_id": "entailed-hat",
+    "place_ids": [
+      "georgetown-entailed-hat"
+    ],
+    "location": "Chapter 44, The Death of Patty Cannon",
+    "location_zh": "第44章：帕蒂·坎农之死",
+    "text_en": "The evidence of Cy James and other cowardly companions in her sins was\r\nquickly given, and the procession started through the woods and sands to\r\nGeorgetown, twelve miles to the eastward, where Patty Cannon was\r\nreceived by all the town, waiting up for her, and the jail immediately\r\nclosed her in.",
+    "text_zh": "赛·詹姆斯和其他胆怯的同伙很快作了证，队伍穿过树林和沙地，向东面十二英里外的乔治敦进发。全镇人熬夜等候帕蒂·坎农的到来，她一到便被关进监狱。",
+    "highlight_en": [
+      "Georgetown"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 19146
+    },
+    "status": "draft"
+  },
+  {
+    "id": "useh-3",
+    "book_id": "entailed-hat",
+    "place_ids": [
+      "laurel-entailed-hat"
+    ],
+    "location": "Chapter 25, The Broad Creek",
+    "location_zh": "第25章：布罗德溪",
+    "text_en": "Take this old woods road\r\nalong Broad Creek and walk to Laurel, five miles; it's a little town on\r\nthe creek.",
+    "text_zh": "沿着这条旧林间小路，顺布罗德溪走五英里，就到劳雷尔了；那是溪边的一座小镇。",
+    "highlight_en": [
+      "Laurel"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 19146
+    },
+    "status": "draft"
+  },
+  {
+    "id": "useh-4",
+    "book_id": "entailed-hat",
+    "place_ids": [
+      "dover-entailed-hat"
+    ],
+    "location": "Chapter 23, A Terrible Crime",
+    "location_zh": "第23章：可怕的罪行",
+    "text_en": "\"To Dover, in Delaware,\" Vesta answered. \"You can ride to Laurel by\r\ndark, Samson, and get to Dover to-morrow afternoon.\"",
+    "text_zh": "“到特拉华州的多佛去，”维斯塔回答，“萨姆森，你天黑前可以骑到劳雷尔，明天下午就能到多佛。”",
+    "highlight_en": [
+      "Dover"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 19146
+    },
+    "status": "draft"
+  }
+]

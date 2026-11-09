@@ -1,0 +1,369 @@
+{
+  "books": {
+    "moby-dick": {
+      "death_year": 1891,
+      "author_source": "https://en.wikipedia.org/wiki/Herman_Melville",
+      "death_evidence": "Died September 28, 1891 (1891-09-28) (aged 72) New York City, U.S. Resting place Woodlawn Cemetery in The Bron",
+      "cache": "/Users/liuyuanqian/Documents/readers_atlas/tools/us-work/east/cache/Herman_Melville.html"
+    },
+    "walden": {
+      "death_year": 1862,
+      "author_source": "https://en.wikipedia.org/wiki/Henry_David_Thoreau",
+      "death_evidence": "Died May 6, 1862 (1862-05-06) (aged 44) Concord, Massachusetts, U.S. Education Education Harvard College Philo",
+      "cache": "/Users/liuyuanqian/Documents/readers_atlas/tools/us-work/east/cache/Henry_David_Thoreau.html"
+    },
+    "specimen-days": {
+      "death_year": 1892,
+      "author_source": "https://en.wikipedia.org/wiki/Walt_Whitman",
+      "death_evidence": "Died March 26, 1892 (1892-03-26) (aged 72) Camden, New Jersey , U.S. Burial place Harleigh Cemetery, Camden , ",
+      "cache": "/Users/liuyuanqian/Documents/readers_atlas/tools/us-work/east/cache/Walt_Whitman.html"
+    },
+    "little-women": {
+      "death_year": 1888,
+      "author_source": "https://en.wikipedia.org/wiki/Louisa_May_Alcott",
+      "death_evidence": "Died March 6, 1888 (1888-03-06) (aged 55) Boston , Massachusetts, U.S. Resting place Sleepy Hollow Cemetery , ",
+      "cache": "/Users/liuyuanqian/Documents/readers_atlas/tools/us-work/east/cache/Louisa_May_Alcott.html"
+    },
+    "great-gatsby": {
+      "death_year": 1940,
+      "author_source": "https://en.wikipedia.org/wiki/F._Scott_Fitzgerald",
+      "death_evidence": "Died December 21, 1940 (1940-12-21) (aged 44) Los Angeles, California, U.S. Resting place Saint Mary's Cemeter",
+      "cache": "/Users/liuyuanqian/Documents/readers_atlas/tools/us-work/east/cache/F._Scott_Fitzgerald.html"
+    },
+    "gold-bug": {
+      "death_year": 1849,
+      "author_source": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe",
+      "death_evidence": "Died October 7, 1849 (1849-10-07) (aged 40) Baltimore , Maryland, US Resting place Westminster Hall and Buryin",
+      "cache": "/Users/liuyuanqian/Documents/readers_atlas/tools/us-work/east/cache/Edgar_Allan_Poe.html"
+    },
+    "marrow-of-tradition": {
+      "death_year": 1932,
+      "author_source": "https://en.wikipedia.org/wiki/Charles_W._Chesnutt",
+      "death_evidence": "Died November 15, 1932 (aged 74) Cleveland, Ohio, U.S. Resting place Lake View Cemetery Occupations Writer, po",
+      "cache": "/Users/liuyuanqian/Documents/readers_atlas/tools/us-work/east/cache/Charles_W._Chesnutt.html"
+    },
+    "winesburg-ohio": {
+      "death_year": 1941,
+      "author_source": "https://en.wikipedia.org/wiki/Sherwood_Anderson",
+      "death_evidence": "Died March 8, 1941 (1941-03-08) (aged 64) Colón, Panama Occupation Author Spouse(s) Cornelia Pratt Lane (1904–",
+      "cache": "/Users/liuyuanqian/Documents/readers_atlas/tools/us-work/east/cache/Sherwood_Anderson.html"
+    },
+    "new-hampshire": {
+      "death_year": 1963,
+      "author_source": "https://en.wikipedia.org/wiki/Robert_Frost",
+      "death_evidence": "Died January 29, 1963 (1963-01-29) (aged 88) Boston , Massachusetts, U.S. Education Harvard University (attend",
+      "cache": "/Users/liuyuanqian/Documents/readers_atlas/tools/us-work/east/cache/Robert_Frost.html"
+    },
+    "entailed-hat": {
+      "death_year": 1914,
+      "author_source": "https://en.wikipedia.org/wiki/George_Alfred_Townsend",
+      "death_evidence": "Died April 15, 1914 (1914-04-15) (aged 73) Manhattan , New York , U.S. Resting place Laurel Hill Cemetery , Ph",
+      "cache": "/Users/liuyuanqian/Documents/readers_atlas/tools/us-work/east/cache/George_Alfred_Townsend.html"
+    }
+  },
+  "coordinates": {
+    "new-bedford": {
+      "raw": "41.63611; -70.93472",
+      "source": "https://en.wikipedia.org/wiki/New_Bedford,_Massachusetts",
+      "cache": "New_Bedford,_Massachusetts.html"
+    },
+    "nantucket-island": {
+      "raw": "41.28278; -70.09944",
+      "source": "https://en.wikipedia.org/wiki/Nantucket",
+      "cache": "Nantucket.html"
+    },
+    "walden-pond": {
+      "raw": "42.4392; -71.3397",
+      "source": "https://en.wikipedia.org/wiki/Walden_Pond",
+      "cache": "Walden_Pond.html"
+    },
+    "washington-whitman": {
+      "raw": "38.90472; -77.01639",
+      "source": "https://en.wikipedia.org/wiki/Washington,_D.C.",
+      "cache": "Washington,_D.C..html"
+    },
+    "falmouth-whitman": {
+      "raw": "38.33167; -77.46139",
+      "source": "https://en.wikipedia.org/wiki/Falmouth,_Virginia",
+      "cache": "Falmouth,_Virginia.html"
+    },
+    "camden-whitman": {
+      "raw": "39.94; -75.105",
+      "source": "https://en.wikipedia.org/wiki/Camden,_New_Jersey",
+      "cache": "Camden,_New_Jersey.html"
+    },
+    "pittsburgh-whitman": {
+      "raw": "40.43972; -79.97639",
+      "source": "https://en.wikipedia.org/wiki/Pittsburgh",
+      "cache": "Pittsburgh.html"
+    },
+    "weirton-panhandle": {
+      "raw": "40.41889; -80.58944",
+      "source": "https://en.wikipedia.org/wiki/Weirton,_West_Virginia",
+      "cache": "Weirton,_West_Virginia.html"
+    },
+    "concord-orchard-house": {
+      "raw": "42.4589; -71.3351",
+      "source": "https://en.wikipedia.org/wiki/Orchard_House",
+      "cache": "Orchard_House.html"
+    },
+    "great-neck-west-egg": {
+      "raw": "40.78722; -73.72722",
+      "source": "https://en.wikipedia.org/wiki/Great_Neck,_New_York",
+      "cache": "Great_Neck,_New_York.html"
+    },
+    "manhattan-plaza-hotel": {
+      "raw": "40.7645; -73.9744",
+      "source": "https://en.wikipedia.org/wiki/Plaza_Hotel",
+      "cache": "Plaza_Hotel.html"
+    },
+    "sullivans-island": {
+      "raw": "32.76806; -79.83639",
+      "source": "https://en.wikipedia.org/wiki/Sullivan's_Island,_South_Carolina",
+      "cache": "Sullivan's_Island,_South_Carolina.html"
+    },
+    "charleston-gold-bug": {
+      "raw": "32.81389; -79.93194",
+      "source": "https://en.wikipedia.org/wiki/Charleston,_South_Carolina",
+      "cache": "Charleston,_South_Carolina.html"
+    },
+    "wilmington-wellington": {
+      "raw": "34.21000; -77.88667",
+      "source": "https://en.wikipedia.org/wiki/Wilmington,_North_Carolina",
+      "cache": "Wilmington,_North_Carolina.html"
+    },
+    "clyde-winesburg": {
+      "raw": "41.31000; -82.99056",
+      "source": "https://en.wikipedia.org/wiki/Clyde,_Ohio",
+      "cache": "Clyde,_Ohio.html"
+    },
+    "franconia-frost": {
+      "raw": "44.18417; -71.66139",
+      "source": "https://en.wikipedia.org/wiki/Franconia,_New_Hampshire",
+      "cache": "Franconia,_New_Hampshire.html"
+    },
+    "georgetown-entailed-hat": {
+      "raw": "38.69000; -75.38556",
+      "source": "https://en.wikipedia.org/wiki/Georgetown,_Delaware",
+      "cache": "Georgetown,_Delaware.html"
+    },
+    "laurel-entailed-hat": {
+      "raw": "38.55639; -75.57139",
+      "source": "https://en.wikipedia.org/wiki/Laurel,_Delaware",
+      "cache": "Laurel,_Delaware.html"
+    },
+    "princess-anne-entailed-hat": {
+      "raw": "38.20972; -75.69500",
+      "source": "https://en.wikipedia.org/wiki/Princess_Anne,_Maryland",
+      "cache": "Princess_Anne,_Maryland.html"
+    },
+    "dover-entailed-hat": {
+      "raw": "39.15806; -75.52444",
+      "source": "https://en.wikipedia.org/wiki/Dover,_Delaware",
+      "cache": "Dover,_Delaware.html"
+    },
+    "hartford-stowe-house": {
+      "raw": "41.7669833; -72.7007806",
+      "source": "https://en.wikipedia.org/wiki/Harriet_Beecher_Stowe_House_(Hartford,_Connecticut)",
+      "cache": "Harriet_Beecher_Stowe_House_(Hartford,_Connecticut).html"
+    },
+    "brunswick-stowe-house": {
+      "raw": "43.91278; -69.96083",
+      "source": "https://en.wikipedia.org/wiki/Harriet_Beecher_Stowe_House_(Brunswick,_Maine)",
+      "cache": "Harriet_Beecher_Stowe_House_(Brunswick,_Maine).html"
+    },
+    "providence-athenaeum-poe": {
+      "raw": "41.8256975; -71.406499",
+      "source": "https://en.wikipedia.org/wiki/Providence_Athenaeum",
+      "cache": "Providence_Athenaeum.html"
+    },
+    "shaftsbury-frost-stone-house": {
+      "raw": "42.9345; -73.21016",
+      "source": "https://mapcarta.com/W1128346439",
+      "cache": "Robert_Frost_Stone_House_Museum.html"
+    }
+  },
+  "quotes": {
+    "usmd-1": {
+      "start_offset": 100465,
+      "end_offset": 100676,
+      "sha256": "e6335d9bc54790a17624e9558d2cb4149d4c6e66fe82c683fd4c965fc7fa2566",
+      "source_url": "https://www.gutenberg.org/cache/epub/2701/pg2701.txt",
+      "cache": "pg2701.txt"
+    },
+    "usmd-2": {
+      "start_offset": 159356,
+      "end_offset": 159611,
+      "sha256": "3d3d4440f9d482691a84e9bc578129bc3341d5ffb2ea411b5b696d5eb0ec4d0e",
+      "source_url": "https://www.gutenberg.org/cache/epub/2701/pg2701.txt",
+      "cache": "pg2701.txt"
+    },
+    "uswal-1": {
+      "start_offset": 1623,
+      "end_offset": 1928,
+      "sha256": "bb74e784083d6988fe1da89cab02161afceaa7242df6b46fab6be0bee417ed3f",
+      "source_url": "https://www.gutenberg.org/cache/epub/205/pg205.txt",
+      "cache": "pg205.txt"
+    },
+    "ussd-1": {
+      "start_offset": 69977,
+      "end_offset": 70232,
+      "sha256": "8a4aedd65e3ae4c74105984023f21e40a9595d625032212ed6fd89e94ff68517",
+      "source_url": "https://www.gutenberg.org/cache/epub/8813/pg8813.txt",
+      "cache": "pg8813.txt"
+    },
+    "ussd-2": {
+      "start_offset": 69060,
+      "end_offset": 69270,
+      "sha256": "c182ae859a2a9a1a57b16b098eba5e94f8d6b12d01f752b8ffe111106c8c98c4",
+      "source_url": "https://www.gutenberg.org/cache/epub/8813/pg8813.txt",
+      "cache": "pg8813.txt"
+    },
+    "ussd-3": {
+      "start_offset": 518119,
+      "end_offset": 518360,
+      "sha256": "9e8c737b39a4f3ba218360147903c2c97686fbd914bd90fa0b6780f1984c3a24",
+      "source_url": "https://www.gutenberg.org/cache/epub/8813/pg8813.txt",
+      "cache": "pg8813.txt"
+    },
+    "ussd-4": {
+      "start_offset": 374463,
+      "end_offset": 374659,
+      "sha256": "4fa5e59cc56ecae9f0216c97378ee5d972558442534c6d0f55fcbe93c46611f0",
+      "source_url": "https://www.gutenberg.org/cache/epub/8813/pg8813.txt",
+      "cache": "pg8813.txt"
+    },
+    "ussd-5": {
+      "start_offset": 374661,
+      "end_offset": 374757,
+      "sha256": "a8d9c1cf6a3ca591130967b4b08c42a81e15348e72f85a6c19f6feac6c16e684",
+      "source_url": "https://www.gutenberg.org/cache/epub/8813/pg8813.txt",
+      "cache": "pg8813.txt"
+    },
+    "uslw-1": {
+      "start_offset": 8995,
+      "end_offset": 9267,
+      "sha256": "55cc2c5bdeecf8f9f2c0ca69bfd178cad2f06ea3855ca9fd6c676cf08f9f2708",
+      "source_url": "https://www.gutenberg.org/cache/epub/514/pg514.txt",
+      "cache": "pg514.txt"
+    },
+    "usgg-1": {
+      "start_offset": 8748,
+      "end_offset": 9089,
+      "sha256": "b2b60434a94b6b72d7529631e9120b4b131009bdba1a24c9756ccb826998234b",
+      "source_url": "https://www.gutenberg.org/cache/epub/64317/pg64317.txt",
+      "cache": "pg64317.txt"
+    },
+    "usgg-2": {
+      "start_offset": 114345,
+      "end_offset": 114463,
+      "sha256": "f1dee9a7896ba2ffc4fe34d555baabadf376929829b07e83542258618bc66af5",
+      "source_url": "https://www.gutenberg.org/cache/epub/64317/pg64317.txt",
+      "cache": "pg64317.txt"
+    },
+    "usgb-1": {
+      "start_offset": 193207,
+      "end_offset": 193416,
+      "sha256": "21a191c5839100a006950036c0edce2e695d07d1dbf898a4c5b8225620569483",
+      "source_url": "https://www.gutenberg.org/cache/epub/2147/pg2147.txt",
+      "cache": "pg2147.txt"
+    },
+    "usgb-2": {
+      "start_offset": 196396,
+      "end_offset": 196601,
+      "sha256": "efc68c2330b32ab381aa605ae447c57b08fd5689eaa4faaf3919906a575f06ff",
+      "source_url": "https://www.gutenberg.org/cache/epub/2147/pg2147.txt",
+      "cache": "pg2147.txt"
+    },
+    "usmt-1": {
+      "start_offset": 222640,
+      "end_offset": 222971,
+      "sha256": "fe417bd8001b23ed0a915371ed4a07813c3ccefa218a34ab3e3608ab3663f460",
+      "source_url": "https://www.gutenberg.org/cache/epub/11228/pg11228.txt",
+      "cache": "pg11228.txt"
+    },
+    "uswo-1": {
+      "start_offset": 27739,
+      "end_offset": 27915,
+      "sha256": "b894e1804ad6c71a78221920ba7ea9a8fb05acf2683fe12ad16b149c332ba323",
+      "source_url": "https://www.gutenberg.org/cache/epub/416/pg416.txt",
+      "cache": "pg416.txt"
+    },
+    "useh-1": {
+      "start_offset": 8903,
+      "end_offset": 9017,
+      "sha256": "879c9fb27d5db175b480eb6fb9248e579280ed660cec8b5ce20935f4dfcafdb8",
+      "source_url": "https://www.gutenberg.org/cache/epub/19146/pg19146.txt",
+      "cache": "pg19146.txt"
+    },
+    "useh-2": {
+      "start_offset": 942886,
+      "end_offset": 943184,
+      "sha256": "8ef2081adab5c61bc0d57ff811aec8323198cc452de3a4575bee0f9fe6f5c296",
+      "source_url": "https://www.gutenberg.org/cache/epub/19146/pg19146.txt",
+      "cache": "pg19146.txt"
+    },
+    "useh-3": {
+      "start_offset": 528616,
+      "end_offset": 528725,
+      "sha256": "9eb749d294dc9f1b6c641c3064f5e44567c936ee06a69b5ce4c5df9573fc5dec",
+      "source_url": "https://www.gutenberg.org/cache/epub/19146/pg19146.txt",
+      "cache": "pg19146.txt"
+    },
+    "useh-4": {
+      "start_offset": 456007,
+      "end_offset": 456128,
+      "sha256": "07ed6542fe9f96c0879f56301e1ae82b2d7125705c0e2f1773fefa00b5037af2",
+      "source_url": "https://www.gutenberg.org/cache/epub/19146/pg19146.txt",
+      "cache": "pg19146.txt"
+    }
+  },
+  "photos": {
+    "hartford-stowe-house": {
+      "file_page": "https://commons.wikimedia.org/wiki/File:Stowe_Center_for_Literary_Activism_%2855618577734%29.jpg",
+      "license": "CC BY 4.0",
+      "cache": "photo0.html"
+    },
+    "brunswick-stowe-house": {
+      "file_page": "https://commons.wikimedia.org/wiki/File:Whitmore_House%2C_Brunswick%2C_ME.jpg",
+      "license": "Public domain",
+      "cache": "photo1.html"
+    },
+    "providence-athenaeum-poe": {
+      "file_page": "https://commons.wikimedia.org/wiki/File:Providence_Athenaeum_2024-07-13.jpg",
+      "license": "CC BY 4.0",
+      "cache": "photo2.html"
+    },
+    "shaftsbury-frost-stone-house": {
+      "file_page": "https://commons.wikimedia.org/wiki/File:Robert_Frost_Stone_House_Museum_Shaftsbury_2006.jpg",
+      "license": "CC BY-SA 3.0",
+      "cache": "photo3.html"
+    }
+  },
+  "state_by_place": {
+    "new-bedford": "MA",
+    "nantucket-island": "MA",
+    "walden-pond": "MA",
+    "washington-whitman": "DC",
+    "falmouth-whitman": "VA",
+    "camden-whitman": "NJ",
+    "pittsburgh-whitman": "PA",
+    "weirton-panhandle": "WV",
+    "concord-orchard-house": "MA",
+    "great-neck-west-egg": "NY",
+    "manhattan-plaza-hotel": "NY",
+    "sullivans-island": "SC",
+    "charleston-gold-bug": "SC",
+    "wilmington-wellington": "NC",
+    "clyde-winesburg": "OH",
+    "franconia-frost": "NH",
+    "georgetown-entailed-hat": "DE",
+    "laurel-entailed-hat": "DE",
+    "princess-anne-entailed-hat": "MD",
+    "dover-entailed-hat": "DE",
+    "hartford-stowe-house": "CT",
+    "brunswick-stowe-house": "ME",
+    "providence-athenaeum-poe": "RI",
+    "shaftsbury-frost-stone-house": "VT"
+  }
+}

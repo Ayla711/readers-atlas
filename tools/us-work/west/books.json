@@ -1,0 +1,115 @@
+[
+  {
+    "id": "roughing-it",
+    "title": "Roughing It",
+    "title_zh": "苦行记",
+    "author": "Mark Twain",
+    "author_zh": "马克·吐温",
+    "year": "1872",
+    "orig_lang": "en",
+    "public_domain": true,
+    "source_url": "https://www.gutenberg.org/ebooks/3177"
+  },
+  {
+    "id": "travels-in-alaska",
+    "title": "Travels in Alaska",
+    "title_zh": "阿拉斯加游记",
+    "author": "John Muir",
+    "author_zh": "约翰·缪尔",
+    "year": "1915",
+    "orig_lang": "en",
+    "public_domain": true,
+    "source_url": "https://www.gutenberg.org/ebooks/7345"
+  },
+  {
+    "id": "virginian",
+    "title": "The Virginian: A Horseman of the Plains",
+    "title_zh": "弗吉尼亚人",
+    "author": "Owen Wister",
+    "author_zh": "欧文·威斯特",
+    "year": "1902",
+    "orig_lang": "en",
+    "public_domain": true,
+    "source_url": "https://www.gutenberg.org/ebooks/1298"
+  },
+  {
+    "id": "my-antonia",
+    "title": "My Ántonia",
+    "title_zh": "我的安东妮亚",
+    "author": "Willa Cather",
+    "author_zh": "薇拉·凯瑟",
+    "year": "1918",
+    "orig_lang": "en",
+    "public_domain": true,
+    "source_url": "https://www.gutenberg.org/ebooks/242",
+    "aliases": [
+      "My Antonia"
+    ]
+  },
+  {
+    "id": "o-pioneers",
+    "title": "O Pioneers!",
+    "title_zh": "啊，拓荒者！",
+    "author": "Willa Cather",
+    "author_zh": "薇拉·凯瑟",
+    "year": "1913",
+    "orig_lang": "en",
+    "public_domain": true,
+    "source_url": "https://www.gutenberg.org/ebooks/24"
+  },
+  {
+    "id": "main-travelled-roads",
+    "title": "Main-Travelled Roads",
+    "title_zh": "大路",
+    "author": "Hamlin Garland",
+    "author_zh": "哈姆林·加兰",
+    "year": "1891",
+    "orig_lang": "en",
+    "public_domain": true,
+    "source_url": "https://www.gutenberg.org/ebooks/2809"
+  },
+  {
+    "id": "grapes-of-wrath",
+    "title": "The Grapes of Wrath",
+    "title_zh": "愤怒的葡萄",
+    "author": "John Steinbeck",
+    "author_zh": "约翰·斯坦贝克",
+    "year": "1939",
+    "orig_lang": "en",
+    "public_domain": false,
+    "source_url": "https://en.wikipedia.org/wiki/The_Grapes_of_Wrath"
+  },
+  {
+    "id": "on-the-road",
+    "title": "On the Road",
+    "title_zh": "在路上",
+    "author": "Jack Kerouac",
+    "author_zh": "杰克·凯鲁亚克",
+    "year": "1957",
+    "orig_lang": "en",
+    "public_domain": false,
+    "source_url": "https://en.wikipedia.org/wiki/On_the_Road"
+  },
+  {
+    "id": "travels-with-charley",
+    "title": "Travels with Charley: In Search of America",
+    "title_zh": "与查理同行",
+    "author": "John Steinbeck",
+    "author_zh": "约翰·斯坦贝克",
+    "year": "1962",
+    "orig_lang": "en",
+    "public_domain": false,
+    "source_url": "https://en.wikipedia.org/wiki/Travels_with_Charley"
+  },
+  {
+    "id": "angle-of-repose",
+    "title": "Angle of Repose",
+    "title_zh": "安息角",
+    "author": "Wallace Stegner",
+    "author_zh": "华莱士·斯特格纳",
+    "year": "1971",
+    "orig_lang": "en",
+    "public_domain": false,
+    "source_url": "https://en.wikipedia.org/wiki/Angle_of_Repose"
+  }
+]

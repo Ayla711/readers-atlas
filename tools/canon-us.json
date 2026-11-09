@@ -1,0 +1,3029 @@
+{
+ "note": "Outside checklist for the United States, same shape as canon.json. Pick new content from the gaps in this list, not from memory; write decisions not to do something into coverage-decisions.json with a reason.",
+ "checked": "2026-11-08",
+ "country": "us",
+ "sources": {
+  "WR": [
+   "List of residences of American writers (Wikipedia)",
+   "https://en.wikipedia.org/wiki/List_of_residences_of_American_writers"
+  ],
+  "ML": [
+   "Modern Library 100 Best Novels, Board's list (American authors only)",
+   "https://sites.prh.com/modern-library-top-100"
+  ],
+  "GAR": [
+   "PBS The Great American Read, 100 titles, 2018 (American authors only; top 10 ranked)",
+   "https://www.pbs.org/the-great-american-read/books/"
+  ]
+ },
+ "existing_authors_spelling": [
+  "Henry James",
+  "Jack London",
+  "Rudyard Kipling",
+  "T. S. Eliot",
+  "Washington Irving"
+ ],
+ "authors": [
+  {
+   "name": "Alex Haley",
+   "tier": 1,
+   "why": [
+    "residence: Alex Haley House and Museum, Henning, TN"
+   ]
+  },
+  {
+   "name": "Carl Sandburg",
+   "tier": 1,
+   "why": [
+    "residence: Carl Sandburg State Historic Site, Galesburg, IL",
+    "residence: Carl Sandburg Home, Flat Rock, NC"
+   ]
+  },
+  {
+   "name": "Carson McCullers",
+   "tier": 1,
+   "why": [
+    "residence: Carson McCullers Childhood Home, Columbus, GA",
+    "residence: Carson McCullers House, South Nyack, NY",
+    "Modern Library #17: The Heart Is a Lonely Hunter"
+   ]
+  },
+  {
+   "name": "E. B. White",
+   "tier": 1,
+   "why": [
+    "Great American Read #7: Charlotte's Web"
+   ]
+  },
+  {
+   "name": "E. E. Cummings",
+   "tier": 1,
+   "why": [
+    "residence: E. E. Cummings House, Cambridge, MA"
+   ]
+  },
+  {
+   "name": "Edgar Allan Poe",
+   "tier": 1,
+   "why": [
+    "residence: Edgar Allan Poe House and Museum, Baltimore, MD",
+    "residence: Edgar Allan Poe Cottage, The Bronx, New York, NY"
+   ]
+  },
+  {
+   "name": "Edith Wharton",
+   "tier": 1,
+   "why": [
+    "residence: The Mount, Lenox, MA",
+    "Modern Library #58: The Age of Innocence",
+    "Modern Library #69: The House of Mirth"
+   ]
+  },
+  {
+   "name": "Edna St. Vincent Millay",
+   "tier": 1,
+   "why": [
+    "residence: Steepletop, Austerlitz, NY"
+   ]
+  },
+  {
+   "name": "Edward Gorey",
+   "tier": 1,
+   "why": [
+    "residence: Edward Gorey House, Yarmouth Port, MA"
+   ]
+  },
+  {
+   "name": "Ellen Glasgow",
+   "tier": 1,
+   "why": [
+    "residence: Ellen Glasgow House, Richmond, VA"
+   ]
+  },
+  {
+   "name": "Emily Dickinson",
+   "tier": 1,
+   "why": [
+    "residence: Emily Dickinson Museum, Amherst, MA"
+   ]
+  },
+  {
+   "name": "Ernest Hemingway",
+   "tier": 1,
+   "why": [
+    "residence: Ernest Hemingway Home, Key West, FL",
+    "residence: Ernest Hemingway Birthplace, Oak Park, IL",
+    "residence: Windemere Cottage, Petoskey, MI",
+    "Modern Library #45: The Sun Also Rises",
+    "Modern Library #74: A Farewell to Arms",
+    "Great American Read: The Sun Also Rises"
+   ]
+  },
+  {
+   "name": "Eudora Welty",
+   "tier": 1,
+   "why": [
+    "residence: Eudora Welty House, Jackson, MS"
+   ]
+  },
+  {
+   "name": "Eugene O'Neill",
+   "tier": 1,
+   "why": [
+    "residence: Tao House, Danville, CA",
+    "residence: Monte Cristo Cottage, New London, CT"
+   ]
+  },
+  {
+   "name": "F. Scott Fitzgerald",
+   "tier": 1,
+   "why": [
+    "residence: The Scott and Zelda Fitzgerald Museum, Montgomery, AL",
+    "residence: F. Scott Fitzgerald House (Summit Terrace), Saint Paul, MN",
+    "Modern Library #2: The Great Gatsby",
+    "Modern Library #28: Tender Is the Night",
+    "Great American Read: The Great Gatsby"
+   ]
+  },
+  {
+   "name": "Flannery O'Connor",
+   "tier": 1,
+   "why": [
+    "residence: Flannery O'Connor Childhood Home, Savannah, GA",
+    "residence: Andalusia, Milledgeville, GA"
+   ]
+  },
+  {
+   "name": "Frederick Douglass",
+   "tier": 1,
+   "why": [
+    "residence: Frederick Douglass National Historic Site, Washington, DC"
+   ]
+  },
+  {
+   "name": "Gertrude Stein",
+   "tier": 1,
+   "why": [
+    "residence: David Bachrach House, Baltimore, MD"
+   ]
+  },
+  {
+   "name": "H. A. Rey",
+   "tier": 1,
+   "why": [
+    "residence: Curious George Cottage, Waterville Valley, NH"
+   ]
+  },
+  {
+   "name": "H. L. Mencken",
+   "tier": 1,
+   "why": [
+    "residence: H. L. Mencken House, Baltimore, MD"
+   ]
+  },
+  {
+   "name": "Harper Lee",
+   "tier": 1,
+   "why": [
+    "Great American Read #1: To Kill a Mockingbird"
+   ]
+  },
+  {
+   "name": "Harriet Beecher Stowe",
+   "tier": 1,
+   "why": [
+    "residence: Harriet Beecher Stowe House, Hartford, CT",
+    "residence: Harriet Beecher Stowe House, Brunswick, ME",
+    "residence: Harriet Beecher Stowe House, Cincinnati, OH"
+   ]
+  },
+  {
+   "name": "Henry David Thoreau",
+   "tier": 1,
+   "why": [
+    "residence: Thoreau–Alcott House, Concord, MA"
+   ]
+  },
+  {
+   "name": "Henry James",
+   "tier": 1,
+   "why": [
+    "Modern Library #26: The Wings of the Dove",
+    "Modern Library #27: The Ambassadors",
+    "Modern Library #32: The Golden Bowl"
+   ]
+  },
+  {
+   "name": "Henry Miller",
+   "tier": 1,
+   "why": [
+    "Modern Library #50: Tropic of Cancer"
+   ]
+  },
+  {
+   "name": "Henry Wadsworth Longfellow",
+   "tier": 1,
+   "why": [
+    "residence: Wadsworth-Longfellow House, Portland, ME",
+    "residence: Longfellow House–Washington's Headquarters, Cambridge, MA"
+   ]
+  },
+  {
+   "name": "Herman Melville",
+   "tier": 1,
+   "why": [
+    "residence: Arrowhead, Pittsfield, MA",
+    "residence: Herman Melville House, Lansingburgh, NY",
+    "Great American Read: Moby-Dick"
+   ]
+  },
+  {
+   "name": "Jack Kerouac",
+   "tier": 1,
+   "why": [
+    "residence: Jack Kerouac House, Orlando, FL",
+    "Modern Library #55: On the Road"
+   ]
+  },
+  {
+   "name": "Jack London",
+   "tier": 1,
+   "why": [
+    "residence: Wolf House and Beauty Ranch (Jack London State Historic Park), Glen Ellen, CA",
+    "Modern Library #88: The Call of the Wild",
+    "Great American Read: The Call of the Wild"
+   ]
+  },
+  {
+   "name": "James Baldwin",
+   "tier": 1,
+   "why": [
+    "residence: James Baldwin Residence, New York, NY",
+    "Modern Library #39: Go Tell It on the Mountain",
+    "Great American Read: Another Country"
+   ]
+  },
+  {
+   "name": "James Dickey",
+   "tier": 1,
+   "why": [
+    "Modern Library #42: Deliverance"
+   ]
+  },
+  {
+   "name": "James T. Farrell",
+   "tier": 1,
+   "why": [
+    "Modern Library #29: The Studs Lonigan Trilogy"
+   ]
+  },
+  {
+   "name": "James Thurber",
+   "tier": 1,
+   "why": [
+    "residence: Thurber House, Columbus, OH"
+   ]
+  },
+  {
+   "name": "James Weldon Johnson",
+   "tier": 1,
+   "why": [
+    "residence: James Weldon Johnson Residence, New York, NY"
+   ]
+  },
+  {
+   "name": "Joel Chandler Harris",
+   "tier": 1,
+   "why": [
+    "residence: Wren's Nest, Atlanta, GA"
+   ]
+  },
+  {
+   "name": "John Dos Passos",
+   "tier": 1,
+   "why": [
+    "Modern Library #23: U.S.A."
+   ]
+  },
+  {
+   "name": "John Kennedy Toole",
+   "tier": 1,
+   "why": [
+    "residence: Toole-Hecker House, New Orleans, LA",
+    "Great American Read: A Confederacy of Dunces"
+   ]
+  },
+  {
+   "name": "John O'Hara",
+   "tier": 1,
+   "why": [
+    "Modern Library #22: Appointment in Samarra"
+   ]
+  },
+  {
+   "name": "John Steinbeck",
+   "tier": 1,
+   "why": [
+    "residence: Steinbeck House, Salinas, CA",
+    "Modern Library #10: The Grapes of Wrath",
+    "Great American Read: The Grapes of Wrath"
+   ]
+  },
+  {
+   "name": "John Updike",
+   "tier": 1,
+   "why": [
+    "residence: John Updike Childhood Home, Shillington, PA"
+   ]
+  },
+  {
+   "name": "Joseph Heller",
+   "tier": 1,
+   "why": [
+    "Modern Library #7: Catch-22",
+    "Great American Read: Catch-22"
+   ]
+  },
+  {
+   "name": "Kate Chopin",
+   "tier": 1,
+   "why": [
+    "residence: Kate Chopin House, St. Louis, MO"
+   ]
+  },
+  {
+   "name": "Katherine Anne Porter",
+   "tier": 1,
+   "why": [
+    "residence: Katherine Anne Porter House, Kyle, TX"
+   ]
+  },
+  {
+   "name": "Kurt Vonnegut",
+   "tier": 1,
+   "why": [
+    "Modern Library #18: Slaughterhouse-Five",
+    "Great American Read: The Sirens of Titan"
+   ]
+  },
+  {
+   "name": "Langston Hughes",
+   "tier": 1,
+   "why": [
+    "residence: Langston Hughes House, New York, NY",
+    "residence: Langston Hughes House (12th Street), Washington, DC"
+   ]
+  },
+  {
+   "name": "Laura Ingalls Wilder",
+   "tier": 1,
+   "why": [
+    "residence: Laura Ingalls Wilder House (Rocky Ridge Farm), Mansfield, MO"
+   ]
+  },
+  {
+   "name": "Louisa May Alcott",
+   "tier": 1,
+   "why": [
+    "residence: The Wayside, Concord, MA",
+    "residence: Orchard House, Concord, MA",
+    "Great American Read #8: Little Women"
+   ]
+  },
+  {
+   "name": "Margaret Mitchell",
+   "tier": 1,
+   "why": [
+    "residence: Margaret Mitchell House and Museum, Atlanta, GA",
+    "Great American Read #6: Gone with the Wind"
+   ]
+  },
+  {
+   "name": "Marjorie Kinnan Rawlings",
+   "tier": 1,
+   "why": [
+    "residence: Cross Creek, Cross Creek, FL"
+   ]
+  },
+  {
+   "name": "Mark Twain",
+   "tier": 1,
+   "why": [
+    "residence: Mark Twain House, Hartford, CT",
+    "residence: Mark Twain Boyhood Home, Hannibal, MO",
+    "residence: Quarry Farm, Elmira, NY",
+    "Great American Read: The Adventures of Tom Sawyer"
+   ]
+  },
+  {
+   "name": "Maya Angelou",
+   "tier": 1,
+   "why": [
+    "residence: Maya Angelou Birthplace, St. Louis, MO"
+   ]
+  },
+  {
+   "name": "Nathaniel Hawthorne",
+   "tier": 1,
+   "why": [
+    "residence: Nathaniel Hawthorne Birthplace, Salem, MA",
+    "residence: The Wayside, Concord, MA"
+   ]
+  },
+  {
+   "name": "Noah Webster",
+   "tier": 1,
+   "why": [
+    "residence: Noah Webster House, West Hartford, CT"
+   ]
+  },
+  {
+   "name": "O. Henry",
+   "tier": 1,
+   "why": [
+    "residence: O. Henry House, Austin, TX"
+   ]
+  },
+  {
+   "name": "Paul Laurence Dunbar",
+   "tier": 1,
+   "why": [
+    "residence: Paul Laurence Dunbar House, Dayton, OH"
+   ]
+  },
+  {
+   "name": "Pearl S. Buck",
+   "tier": 1,
+   "why": [
+    "residence: Pearl S. Buck House (Green Hills Farm), Perkasie, PA",
+    "residence: Pearl S. Buck Birthplace, Hillsboro, WV"
+   ]
+  },
+  {
+   "name": "Rachel Carson",
+   "tier": 1,
+   "why": [
+    "residence: Rachel Carson House, Colesville, MD",
+    "residence: Rachel Carson Homestead, Springdale, PA"
+   ]
+  },
+  {
+   "name": "Ralph Ellison",
+   "tier": 1,
+   "why": [
+    "Modern Library #19: Invisible Man",
+    "Great American Read: Invisible Man"
+   ]
+  },
+  {
+   "name": "Ralph Waldo Emerson",
+   "tier": 1,
+   "why": [
+    "residence: Ralph Waldo Emerson House, Concord, MA"
+   ]
+  },
+  {
+   "name": "Richard Wright",
+   "tier": 1,
+   "why": [
+    "Modern Library #20: Native Son"
+   ]
+  },
+  {
+   "name": "Robert Frost",
+   "tier": 1,
+   "why": [
+    "residence: Robert Frost Farm, Derry, NH",
+    "residence: The Frost Place, Franconia, NH",
+    "residence: Homer Noble Farm, Ripton, VT",
+    "residence: Robert Frost Stone House Museum, Shaftsbury, VT"
+   ]
+  },
+  {
+   "name": "Robert Penn Warren",
+   "tier": 1,
+   "why": [
+    "residence: Robert Penn Warren House (Twin Oaks), Prairieville, LA",
+    "Modern Library #36: All the King's Men"
+   ]
+  },
+  {
+   "name": "Robinson Jeffers",
+   "tier": 1,
+   "why": [
+    "residence: Tor House, Carmel, CA"
+   ]
+  },
+  {
+   "name": "Rudyard Kipling",
+   "tier": 1,
+   "why": [
+    "residence: Naulakha, Dummerston, VT"
+   ]
+  },
+  {
+   "name": "Sarah Orne Jewett",
+   "tier": 1,
+   "why": [
+    "residence: Sarah Orne Jewett House, South Berwick, ME"
+   ]
+  },
+  {
+   "name": "Saul Bellow",
+   "tier": 1,
+   "why": [
+    "Modern Library #21: Henderson the Rain King",
+    "Modern Library #81: The Adventures of Augie March"
+   ]
+  },
+  {
+   "name": "Sherwood Anderson",
+   "tier": 1,
+   "why": [
+    "Modern Library #24: Winesburg, Ohio"
+   ]
+  },
+  {
+   "name": "Sinclair Lewis",
+   "tier": 1,
+   "why": [
+    "residence: Sinclair Lewis Boyhood Home, Sauk Centre, MN",
+    "Modern Library #68: Main Street"
+   ]
+  },
+  {
+   "name": "Stephen Crane",
+   "tier": 1,
+   "why": [
+    "residence: Arbutus Cottage, Asbury Park, NJ"
+   ]
+  },
+  {
+   "name": "Stephen King",
+   "tier": 1,
+   "why": [
+    "residence: Stephen and Tabitha King home, Bangor, ME",
+    "Great American Read: The Stand"
+   ]
+  },
+  {
+   "name": "Theodore Dreiser",
+   "tier": 1,
+   "why": [
+    "Modern Library #16: An American Tragedy",
+    "Modern Library #33: Sister Carrie"
+   ]
+  },
+  {
+   "name": "Theodore Roethke",
+   "tier": 1,
+   "why": [
+    "residence: Roethke Houses, Saginaw, MI"
+   ]
+  },
+  {
+   "name": "Thomas Wolfe",
+   "tier": 1,
+   "why": [
+    "residence: Thomas Wolfe House, Asheville, NC"
+   ]
+  },
+  {
+   "name": "Thornton Wilder",
+   "tier": 1,
+   "why": [
+    "Modern Library #37: The Bridge of San Luis Rey"
+   ]
+  },
+  {
+   "name": "Truman Capote",
+   "tier": 1,
+   "why": [
+    "residence: Faulk home site, Monroeville, AL"
+   ]
+  },
+  {
+   "name": "Upton Sinclair",
+   "tier": 1,
+   "why": [
+    "residence: Upton Sinclair House, Monrovia, CA"
+   ]
+  },
+  {
+   "name": "Vachel Lindsay",
+   "tier": 1,
+   "why": [
+    "residence: Vachel Lindsay House, Springfield, IL"
+   ]
+  },
+  {
+   "name": "Virginia Lee Burton",
+   "tier": 1,
+   "why": [
+    "residence: Virginia Lee Burton Writing Cottage, Gloucester, MA"
+   ]
+  },
+  {
+   "name": "Vladimir Nabokov",
+   "tier": 1,
+   "why": [
+    "Modern Library #4: Lolita",
+    "Modern Library #53: Pale Fire"
+   ]
+  },
+  {
+   "name": "Walt Whitman",
+   "tier": 1,
+   "why": [
+    "residence: Walt Whitman House, Camden, NJ",
+    "residence: Walt Whitman Birthplace, West Hills, NY"
+   ]
+  },
+  {
+   "name": "Washington Irving",
+   "tier": 1,
+   "why": [
+    "residence: Sunnyside, Tarrytown, NY"
+   ]
+  },
+  {
+   "name": "Willa Cather",
+   "tier": 1,
+   "why": [
+    "residence: Willa Cather Childhood Home, Red Cloud, NE",
+    "residence: Willa Cather Birthplace, Gore, VA",
+    "residence: Willow Shade, Winchester, VA",
+    "Modern Library #61: Death Comes for the Archbishop"
+   ]
+  },
+  {
+   "name": "William Carlos Williams",
+   "tier": 1,
+   "why": [
+    "residence: William Carlos Williams House, Rutherford, NJ"
+   ]
+  },
+  {
+   "name": "William Faulkner",
+   "tier": 1,
+   "why": [
+    "residence: Rowan Oak, Oxford, MS",
+    "Modern Library #6: The Sound and the Fury",
+    "Modern Library #35: As I Lay Dying",
+    "Modern Library #54: Light in August"
+   ]
+  },
+  {
+   "name": "Zane Grey",
+   "tier": 1,
+   "why": [
+    "residence: Zane Grey Cabin, Rogue River, OR"
+   ]
+  },
+  {
+   "name": "Zora Neale Hurston",
+   "tier": 1,
+   "why": [
+    "residence: Zora Neale Hurston House, Fort Pierce, FL",
+    "Great American Read: Their Eyes Were Watching God"
+   ]
+  },
+  {
+   "name": "Alice Sebold",
+   "tier": 2,
+   "why": [
+    "Great American Read: The Lovely Bones"
+   ]
+  },
+  {
+   "name": "Alice Walker",
+   "tier": 2,
+   "why": [
+    "Great American Read: The Color Purple"
+   ]
+  },
+  {
+   "name": "Amy Tan",
+   "tier": 2,
+   "why": [
+    "Great American Read: The Joy Luck Club"
+   ]
+  },
+  {
+   "name": "Andy Weir",
+   "tier": 2,
+   "why": [
+    "Great American Read: The Martian"
+   ]
+  },
+  {
+   "name": "Armistead Maupin",
+   "tier": 2,
+   "why": [
+    "Great American Read: Tales of the City"
+   ]
+  },
+  {
+   "name": "Arthur Golden",
+   "tier": 2,
+   "why": [
+    "Great American Read: Memoirs of a Geisha"
+   ]
+  },
+  {
+   "name": "Ayn Rand",
+   "tier": 2,
+   "why": [
+    "Great American Read: Atlas Shrugged"
+   ]
+  },
+  {
+   "name": "Betty Smith",
+   "tier": 2,
+   "why": [
+    "Great American Read: A Tree Grows in Brooklyn"
+   ]
+  },
+  {
+   "name": "Booth Tarkington",
+   "tier": 2,
+   "why": [
+    "Modern Library #100: The Magnificent Ambersons"
+   ]
+  },
+  {
+   "name": "Colson Whitehead",
+   "tier": 2,
+   "why": [
+    "Great American Read: The Intuitionist"
+   ]
+  },
+  {
+   "name": "Dan Brown",
+   "tier": 2,
+   "why": [
+    "Great American Read: The Da Vinci Code"
+   ]
+  },
+  {
+   "name": "Dashiell Hammett",
+   "tier": 2,
+   "why": [
+    "Modern Library #56: The Maltese Falcon"
+   ]
+  },
+  {
+   "name": "Dave Hunt",
+   "tier": 2,
+   "why": [
+    "Great American Read: Mind Invaders"
+   ]
+  },
+  {
+   "name": "Dean Koontz",
+   "tier": 2,
+   "why": [
+    "Great American Read: Watchers"
+   ]
+  },
+  {
+   "name": "E. L. Doctorow",
+   "tier": 2,
+   "why": [
+    "Modern Library #86: Ragtime"
+   ]
+  },
+  {
+   "name": "Ernest Cline",
+   "tier": 2,
+   "why": [
+    "Great American Read: Ready Player One"
+   ]
+  },
+  {
+   "name": "Erskine Caldwell",
+   "tier": 2,
+   "why": [
+    "Modern Library #91: Tobacco Road"
+   ]
+  },
+  {
+   "name": "Frank E. Peretti",
+   "tier": 2,
+   "why": [
+    "Great American Read: This Present Darkness"
+   ]
+  },
+  {
+   "name": "Frank Herbert",
+   "tier": 2,
+   "why": [
+    "Great American Read: Dune"
+   ]
+  },
+  {
+   "name": "Gary Paulsen",
+   "tier": 2,
+   "why": [
+    "Great American Read: Hatchet"
+   ]
+  },
+  {
+   "name": "George R. R. Martin",
+   "tier": 2,
+   "why": [
+    "Great American Read: A Game of Thrones"
+   ]
+  },
+  {
+   "name": "Gillian Flynn",
+   "tier": 2,
+   "why": [
+    "Great American Read: Gone Girl"
+   ]
+  },
+  {
+   "name": "Isaac Asimov",
+   "tier": 2,
+   "why": [
+    "Great American Read: Foundation"
+   ]
+  },
+  {
+   "name": "J. D. Salinger",
+   "tier": 2,
+   "why": [
+    "Modern Library #64: The Catcher in the Rye",
+    "Great American Read: The Catcher in the Rye"
+   ]
+  },
+  {
+   "name": "James Jones",
+   "tier": 2,
+   "why": [
+    "Modern Library #62: From Here to Eternity"
+   ]
+  },
+  {
+   "name": "James M. Cain",
+   "tier": 2,
+   "why": [
+    "Modern Library #98: The Postman Always Rings Twice"
+   ]
+  },
+  {
+   "name": "Jason Reynolds",
+   "tier": 2,
+   "why": [
+    "Great American Read: Ghost"
+   ]
+  },
+  {
+   "name": "Jean M. Auel",
+   "tier": 2,
+   "why": [
+    "Great American Read: The Clan of the Cave Bear"
+   ]
+  },
+  {
+   "name": "John Cheever",
+   "tier": 2,
+   "why": [
+    "Modern Library #63: The Wapshot Chronicle"
+   ]
+  },
+  {
+   "name": "John Green",
+   "tier": 2,
+   "why": [
+    "Great American Read: Looking for Alaska"
+   ]
+  },
+  {
+   "name": "John Irving",
+   "tier": 2,
+   "why": [
+    "Great American Read: A Prayer for Owen Meany"
+   ]
+  },
+  {
+   "name": "John Knowles",
+   "tier": 2,
+   "why": [
+    "Great American Read: A Separate Peace"
+   ]
+  },
+  {
+   "name": "Junot Díaz",
+   "tier": 2,
+   "why": [
+    "Great American Read: The Brief Wondrous Life of Oscar Wao"
+   ]
+  },
+  {
+   "name": "Kathryn Stockett",
+   "tier": 2,
+   "why": [
+    "Great American Read: The Help"
+   ]
+  },
+  {
+   "name": "Larry McMurtry",
+   "tier": 2,
+   "why": [
+    "Great American Read: Lonesome Dove"
+   ]
+  },
+  {
+   "name": "Lois Lowry",
+   "tier": 2,
+   "why": [
+    "Great American Read: The Giver"
+   ]
+  },
+  {
+   "name": "Marilynne Robinson",
+   "tier": 2,
+   "why": [
+    "Great American Read: Gilead"
+   ]
+  },
+  {
+   "name": "Mario Puzo",
+   "tier": 2,
+   "why": [
+    "Great American Read: The Godfather"
+   ]
+  },
+  {
+   "name": "Michael Crichton",
+   "tier": 2,
+   "why": [
+    "Great American Read: Jurassic Park"
+   ]
+  },
+  {
+   "name": "Nathanael West",
+   "tier": 2,
+   "why": [
+    "Modern Library #73: The Day of the Locust"
+   ]
+  },
+  {
+   "name": "Nicholas Sparks",
+   "tier": 2,
+   "why": [
+    "Great American Read: The Notebook"
+   ]
+  },
+  {
+   "name": "Norman Mailer",
+   "tier": 2,
+   "why": [
+    "Modern Library #51: The Naked and the Dead"
+   ]
+  },
+  {
+   "name": "Paul Bowles",
+   "tier": 2,
+   "why": [
+    "Modern Library #97: The Sheltering Sky"
+   ]
+  },
+  {
+   "name": "Philip Roth",
+   "tier": 2,
+   "why": [
+    "Modern Library #52: Portnoy's Complaint"
+   ]
+  },
+  {
+   "name": "Robert R. McCammon",
+   "tier": 2,
+   "why": [
+    "Great American Read: Swan Song"
+   ]
+  },
+  {
+   "name": "Rudolfo Anaya",
+   "tier": 2,
+   "why": [
+    "Great American Read: Bless Me, Ultima"
+   ]
+  },
+  {
+   "name": "S. E. Hinton",
+   "tier": 2,
+   "why": [
+    "Great American Read: The Outsiders"
+   ]
+  },
+  {
+   "name": "Sister Souljah",
+   "tier": 2,
+   "why": [
+    "Great American Read: The Coldest Winter Ever"
+   ]
+  },
+  {
+   "name": "Stephenie Meyer",
+   "tier": 2,
+   "why": [
+    "Great American Read: The Twilight Saga"
+   ]
+  },
+  {
+   "name": "Suzanne Collins",
+   "tier": 2,
+   "why": [
+    "Great American Read: The Hunger Games"
+   ]
+  },
+  {
+   "name": "Tim LaHaye",
+   "tier": 2,
+   "why": [
+    "Great American Read: Left Behind"
+   ]
+  },
+  {
+   "name": "Tom Clancy",
+   "tier": 2,
+   "why": [
+    "Great American Read: The Hunt for Red October"
+   ]
+  },
+  {
+   "name": "Toni Morrison",
+   "tier": 2,
+   "why": [
+    "Great American Read: Beloved"
+   ]
+  },
+  {
+   "name": "V. C. Andrews",
+   "tier": 2,
+   "why": [
+    "Great American Read: Flowers in the Attic"
+   ]
+  },
+  {
+   "name": "Walker Percy",
+   "tier": 2,
+   "why": [
+    "Modern Library #60: The Moviegoer"
+   ]
+  },
+  {
+   "name": "Wallace Stegner",
+   "tier": 2,
+   "why": [
+    "Modern Library #82: Angle of Repose"
+   ]
+  },
+  {
+   "name": "William Kennedy",
+   "tier": 2,
+   "why": [
+    "Modern Library #92: Ironweed"
+   ]
+  },
+  {
+   "name": "William P. Young",
+   "tier": 2,
+   "why": [
+    "Great American Read: The Shack"
+   ]
+  },
+  {
+   "name": "William Styron",
+   "tier": 2,
+   "why": [
+    "Modern Library #96: Sophie's Choice"
+   ]
+  },
+  {
+   "name": "Wilson Rawls",
+   "tier": 2,
+   "why": [
+    "Great American Read: Where the Red Fern Grows"
+   ]
+  }
+ ],
+ "sites": [
+  {
+   "name": "The Scott and Zelda Fitzgerald Museum, Montgomery",
+   "state": "AL",
+   "authors": [
+    "F. Scott Fitzgerald"
+   ],
+   "status": "museum",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Faulk home site, Monroeville",
+   "state": "AL",
+   "authors": [
+    "Truman Capote"
+   ],
+   "status": "",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Tor House, Carmel",
+   "state": "CA",
+   "authors": [
+    "Robinson Jeffers"
+   ],
+   "status": "",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Wolf House and Beauty Ranch (Jack London State Historic Park), Glen Ellen",
+   "state": "CA",
+   "authors": [
+    "Jack London"
+   ],
+   "status": "state park",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Tao House, Danville",
+   "state": "CA",
+   "authors": [
+    "Eugene O'Neill"
+   ],
+   "status": "NPS site",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Upton Sinclair House, Monrovia",
+   "state": "CA",
+   "authors": [
+    "Upton Sinclair"
+   ],
+   "status": "",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Steinbeck House, Salinas",
+   "state": "CA",
+   "authors": [
+    "John Steinbeck"
+   ],
+   "status": "",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Monte Cristo Cottage, New London",
+   "state": "CT",
+   "authors": [
+    "Eugene O'Neill"
+   ],
+   "status": "",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Mark Twain House, Hartford",
+   "state": "CT",
+   "authors": [
+    "Mark Twain"
+   ],
+   "status": "museum",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Harriet Beecher Stowe House, Hartford",
+   "state": "CT",
+   "authors": [
+    "Harriet Beecher Stowe"
+   ],
+   "status": "museum",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Noah Webster House, West Hartford",
+   "state": "CT",
+   "authors": [
+    "Noah Webster"
+   ],
+   "status": "",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Ernest Hemingway Home, Key West",
+   "state": "FL",
+   "authors": [
+    "Ernest Hemingway"
+   ],
+   "status": "museum",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Zora Neale Hurston House, Fort Pierce",
+   "state": "FL",
+   "authors": [
+    "Zora Neale Hurston"
+   ],
+   "status": "",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Jack Kerouac House, Orlando",
+   "state": "FL",
+   "authors": [
+    "Jack Kerouac"
+   ],
+   "status": "",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Cross Creek, Cross Creek",
+   "state": "FL",
+   "authors": [
+    "Marjorie Kinnan Rawlings"
+   ],
+   "status": "state park",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Wren's Nest, Atlanta",
+   "state": "GA",
+   "authors": [
+    "Joel Chandler Harris"
+   ],
+   "status": "museum",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Carson McCullers Childhood Home, Columbus",
+   "state": "GA",
+   "authors": [
+    "Carson McCullers"
+   ],
+   "status": "",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Margaret Mitchell House and Museum, Atlanta",
+   "state": "GA",
+   "authors": [
+    "Margaret Mitchell"
+   ],
+   "status": "museum",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Flannery O'Connor Childhood Home, Savannah",
+   "state": "GA",
+   "authors": [
+    "Flannery O'Connor"
+   ],
+   "status": "museum",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Andalusia, Milledgeville",
+   "state": "GA",
+   "authors": [
+    "Flannery O'Connor"
+   ],
+   "status": "",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Ernest Hemingway Birthplace, Oak Park",
+   "state": "IL",
+   "authors": [
+    "Ernest Hemingway"
+   ],
+   "status": "museum",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Vachel Lindsay House, Springfield",
+   "state": "IL",
+   "authors": [
+    "Vachel Lindsay"
+   ],
+   "status": "",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Carl Sandburg State Historic Site, Galesburg",
+   "state": "IL",
+   "authors": [
+    "Carl Sandburg"
+   ],
+   "status": "state historic site",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Toole-Hecker House, New Orleans",
+   "state": "LA",
+   "authors": [
+    "John Kennedy Toole"
+   ],
+   "status": "private",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Robert Penn Warren House (Twin Oaks), Prairieville",
+   "state": "LA",
+   "authors": [
+    "Robert Penn Warren"
+   ],
+   "status": "private",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Stephen and Tabitha King home, Bangor",
+   "state": "ME",
+   "authors": [
+    "Stephen King"
+   ],
+   "status": "private",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Sarah Orne Jewett House, South Berwick",
+   "state": "ME",
+   "authors": [
+    "Sarah Orne Jewett"
+   ],
+   "status": "museum",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Harriet Beecher Stowe House, Brunswick",
+   "state": "ME",
+   "authors": [
+    "Harriet Beecher Stowe"
+   ],
+   "status": "",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Wadsworth-Longfellow House, Portland",
+   "state": "ME",
+   "authors": [
+    "Henry Wadsworth Longfellow"
+   ],
+   "status": "museum",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "H. L. Mencken House, Baltimore",
+   "state": "MD",
+   "authors": [
+    "H. L. Mencken"
+   ],
+   "status": "museum",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Rachel Carson House, Colesville",
+   "state": "MD",
+   "authors": [
+    "Rachel Carson"
+   ],
+   "status": "",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Edgar Allan Poe House and Museum, Baltimore",
+   "state": "MD",
+   "authors": [
+    "Edgar Allan Poe"
+   ],
+   "status": "museum",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "David Bachrach House, Baltimore",
+   "state": "MD",
+   "authors": [
+    "Gertrude Stein"
+   ],
+   "status": "private",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Virginia Lee Burton Writing Cottage, Gloucester",
+   "state": "MA",
+   "authors": [
+    "Virginia Lee Burton"
+   ],
+   "status": "",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "E. E. Cummings House, Cambridge",
+   "state": "MA",
+   "authors": [
+    "E. E. Cummings"
+   ],
+   "status": "",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Edward Gorey House, Yarmouth Port",
+   "state": "MA",
+   "authors": [
+    "Edward Gorey"
+   ],
+   "status": "museum",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Emily Dickinson Museum, Amherst",
+   "state": "MA",
+   "authors": [
+    "Emily Dickinson"
+   ],
+   "status": "museum",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "The Wayside, Concord",
+   "state": "MA",
+   "authors": [
+    "Louisa May Alcott"
+   ],
+   "status": "NPS site",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Orchard House, Concord",
+   "state": "MA",
+   "authors": [
+    "Louisa May Alcott"
+   ],
+   "status": "museum",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Ralph Waldo Emerson House, Concord",
+   "state": "MA",
+   "authors": [
+    "Ralph Waldo Emerson"
+   ],
+   "status": "museum",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Longfellow House–Washington's Headquarters, Cambridge",
+   "state": "MA",
+   "authors": [
+    "Henry Wadsworth Longfellow"
+   ],
+   "status": "NPS site",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Arrowhead, Pittsfield",
+   "state": "MA",
+   "authors": [
+    "Herman Melville"
+   ],
+   "status": "museum",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Nathaniel Hawthorne Birthplace, Salem",
+   "state": "MA",
+   "authors": [
+    "Nathaniel Hawthorne"
+   ],
+   "status": "museum",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "The Wayside, Concord",
+   "state": "MA",
+   "authors": [
+    "Nathaniel Hawthorne"
+   ],
+   "status": "NPS site",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Thoreau–Alcott House, Concord",
+   "state": "MA",
+   "authors": [
+    "Henry David Thoreau"
+   ],
+   "status": "private",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "The Mount, Lenox",
+   "state": "MA",
+   "authors": [
+    "Edith Wharton"
+   ],
+   "status": "museum",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Windemere Cottage, Petoskey",
+   "state": "MI",
+   "authors": [
+    "Ernest Hemingway"
+   ],
+   "status": "private",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Roethke Houses, Saginaw",
+   "state": "MI",
+   "authors": [
+    "Theodore Roethke"
+   ],
+   "status": "",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "F. Scott Fitzgerald House (Summit Terrace), Saint Paul",
+   "state": "MN",
+   "authors": [
+    "F. Scott Fitzgerald"
+   ],
+   "status": "private",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Sinclair Lewis Boyhood Home, Sauk Centre",
+   "state": "MN",
+   "authors": [
+    "Sinclair Lewis"
+   ],
+   "status": "museum",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Rowan Oak, Oxford",
+   "state": "MS",
+   "authors": [
+    "William Faulkner"
+   ],
+   "status": "museum",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Eudora Welty House, Jackson",
+   "state": "MS",
+   "authors": [
+    "Eudora Welty"
+   ],
+   "status": "museum",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Maya Angelou Birthplace, St. Louis",
+   "state": "MO",
+   "authors": [
+    "Maya Angelou"
+   ],
+   "status": "",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Kate Chopin House, St. Louis",
+   "state": "MO",
+   "authors": [
+    "Kate Chopin"
+   ],
+   "status": "",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Mark Twain Boyhood Home, Hannibal",
+   "state": "MO",
+   "authors": [
+    "Mark Twain"
+   ],
+   "status": "museum",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Laura Ingalls Wilder House (Rocky Ridge Farm), Mansfield",
+   "state": "MO",
+   "authors": [
+    "Laura Ingalls Wilder"
+   ],
+   "status": "museum",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Willa Cather Childhood Home, Red Cloud",
+   "state": "NE",
+   "authors": [
+    "Willa Cather"
+   ],
+   "status": "museum",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Robert Frost Farm, Derry",
+   "state": "NH",
+   "authors": [
+    "Robert Frost"
+   ],
+   "status": "state historic site",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "The Frost Place, Franconia",
+   "state": "NH",
+   "authors": [
+    "Robert Frost"
+   ],
+   "status": "museum",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Curious George Cottage, Waterville Valley",
+   "state": "NH",
+   "authors": [
+    "H. A. Rey"
+   ],
+   "status": "",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Arbutus Cottage, Asbury Park",
+   "state": "NJ",
+   "authors": [
+    "Stephen Crane"
+   ],
+   "status": "",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Walt Whitman House, Camden",
+   "state": "NJ",
+   "authors": [
+    "Walt Whitman"
+   ],
+   "status": "museum",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "William Carlos Williams House, Rutherford",
+   "state": "NJ",
+   "authors": [
+    "William Carlos Williams"
+   ],
+   "status": "",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "James Baldwin Residence, New York",
+   "state": "NY",
+   "authors": [
+    "James Baldwin"
+   ],
+   "status": "",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Sunnyside, Tarrytown",
+   "state": "NY",
+   "authors": [
+    "Washington Irving"
+   ],
+   "status": "museum",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Langston Hughes House, New York",
+   "state": "NY",
+   "authors": [
+    "Langston Hughes"
+   ],
+   "status": "",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "James Weldon Johnson Residence, New York",
+   "state": "NY",
+   "authors": [
+    "James Weldon Johnson"
+   ],
+   "status": "",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Herman Melville House, Lansingburgh",
+   "state": "NY",
+   "authors": [
+    "Herman Melville"
+   ],
+   "status": "",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Carson McCullers House, South Nyack",
+   "state": "NY",
+   "authors": [
+    "Carson McCullers"
+   ],
+   "status": "",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Steepletop, Austerlitz",
+   "state": "NY",
+   "authors": [
+    "Edna St. Vincent Millay"
+   ],
+   "status": "not open",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Edgar Allan Poe Cottage, The Bronx, New York",
+   "state": "NY",
+   "authors": [
+    "Edgar Allan Poe"
+   ],
+   "status": "museum",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Quarry Farm, Elmira",
+   "state": "NY",
+   "authors": [
+    "Mark Twain"
+   ],
+   "status": "scholars' retreat",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Walt Whitman Birthplace, West Hills",
+   "state": "NY",
+   "authors": [
+    "Walt Whitman"
+   ],
+   "status": "museum",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Carl Sandburg Home, Flat Rock",
+   "state": "NC",
+   "authors": [
+    "Carl Sandburg"
+   ],
+   "status": "NPS site",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Thomas Wolfe House, Asheville",
+   "state": "NC",
+   "authors": [
+    "Thomas Wolfe"
+   ],
+   "status": "museum",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Paul Laurence Dunbar House, Dayton",
+   "state": "OH",
+   "authors": [
+    "Paul Laurence Dunbar"
+   ],
+   "status": "museum",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Harriet Beecher Stowe House, Cincinnati",
+   "state": "OH",
+   "authors": [
+    "Harriet Beecher Stowe"
+   ],
+   "status": "museum",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Thurber House, Columbus",
+   "state": "OH",
+   "authors": [
+    "James Thurber"
+   ],
+   "status": "museum",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Zane Grey Cabin, Rogue River",
+   "state": "OR",
+   "authors": [
+    "Zane Grey"
+   ],
+   "status": "",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Rachel Carson Homestead, Springdale",
+   "state": "PA",
+   "authors": [
+    "Rachel Carson"
+   ],
+   "status": "museum",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Pearl S. Buck House (Green Hills Farm), Perkasie",
+   "state": "PA",
+   "authors": [
+    "Pearl S. Buck"
+   ],
+   "status": "museum",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "John Updike Childhood Home, Shillington",
+   "state": "PA",
+   "authors": [
+    "John Updike"
+   ],
+   "status": "",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Alex Haley House and Museum, Henning",
+   "state": "TN",
+   "authors": [
+    "Alex Haley"
+   ],
+   "status": "museum",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Katherine Anne Porter House, Kyle",
+   "state": "TX",
+   "authors": [
+    "Katherine Anne Porter"
+   ],
+   "status": "",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "O. Henry House, Austin",
+   "state": "TX",
+   "authors": [
+    "O. Henry"
+   ],
+   "status": "museum",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Frederick Douglass National Historic Site, Washington",
+   "state": "DC",
+   "authors": [
+    "Frederick Douglass"
+   ],
+   "status": "NPS site",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Langston Hughes House (12th Street), Washington",
+   "state": "DC",
+   "authors": [
+    "Langston Hughes"
+   ],
+   "status": "",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Homer Noble Farm, Ripton",
+   "state": "VT",
+   "authors": [
+    "Robert Frost"
+   ],
+   "status": "",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Robert Frost Stone House Museum, Shaftsbury",
+   "state": "VT",
+   "authors": [
+    "Robert Frost"
+   ],
+   "status": "museum",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Naulakha, Dummerston",
+   "state": "VT",
+   "authors": [
+    "Rudyard Kipling"
+   ],
+   "status": "",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Willa Cather Birthplace, Gore",
+   "state": "VA",
+   "authors": [
+    "Willa Cather"
+   ],
+   "status": "",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Willow Shade, Winchester",
+   "state": "VA",
+   "authors": [
+    "Willa Cather"
+   ],
+   "status": "",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Ellen Glasgow House, Richmond",
+   "state": "VA",
+   "authors": [
+    "Ellen Glasgow"
+   ],
+   "status": "",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  },
+  {
+   "name": "Pearl S. Buck Birthplace, Hillsboro",
+   "state": "WV",
+   "authors": [
+    "Pearl S. Buck"
+   ],
+   "status": "museum",
+   "src": [
+    "WR"
+   ],
+   "ids": [],
+   "tier": 1
+  }
+ ],
+ "big_read": [
+  {
+   "title": "The Great Gatsby",
+   "author": "F. Scott Fitzgerald",
+   "src": "ML",
+   "rank": 2
+  },
+  {
+   "title": "Lolita",
+   "author": "Vladimir Nabokov",
+   "src": "ML",
+   "rank": 4
+  },
+  {
+   "title": "The Sound and the Fury",
+   "author": "William Faulkner",
+   "src": "ML",
+   "rank": 6
+  },
+  {
+   "title": "Catch-22",
+   "author": "Joseph Heller",
+   "src": "ML",
+   "rank": 7
+  },
+  {
+   "title": "The Grapes of Wrath",
+   "author": "John Steinbeck",
+   "src": "ML",
+   "rank": 10
+  },
+  {
+   "title": "An American Tragedy",
+   "author": "Theodore Dreiser",
+   "src": "ML",
+   "rank": 16
+  },
+  {
+   "title": "The Heart Is a Lonely Hunter",
+   "author": "Carson McCullers",
+   "src": "ML",
+   "rank": 17
+  },
+  {
+   "title": "Slaughterhouse-Five",
+   "author": "Kurt Vonnegut",
+   "src": "ML",
+   "rank": 18
+  },
+  {
+   "title": "Invisible Man",
+   "author": "Ralph Ellison",
+   "src": "ML",
+   "rank": 19
+  },
+  {
+   "title": "Native Son",
+   "author": "Richard Wright",
+   "src": "ML",
+   "rank": 20
+  },
+  {
+   "title": "Henderson the Rain King",
+   "author": "Saul Bellow",
+   "src": "ML",
+   "rank": 21
+  },
+  {
+   "title": "Appointment in Samarra",
+   "author": "John O'Hara",
+   "src": "ML",
+   "rank": 22
+  },
+  {
+   "title": "U.S.A.",
+   "author": "John Dos Passos",
+   "src": "ML",
+   "rank": 23
+  },
+  {
+   "title": "Winesburg, Ohio",
+   "author": "Sherwood Anderson",
+   "src": "ML",
+   "rank": 24
+  },
+  {
+   "title": "The Wings of the Dove",
+   "author": "Henry James",
+   "src": "ML",
+   "rank": 26
+  },
+  {
+   "title": "The Ambassadors",
+   "author": "Henry James",
+   "src": "ML",
+   "rank": 27
+  },
+  {
+   "title": "Tender Is the Night",
+   "author": "F. Scott Fitzgerald",
+   "src": "ML",
+   "rank": 28
+  },
+  {
+   "title": "The Studs Lonigan Trilogy",
+   "author": "James T. Farrell",
+   "src": "ML",
+   "rank": 29
+  },
+  {
+   "title": "The Golden Bowl",
+   "author": "Henry James",
+   "src": "ML",
+   "rank": 32
+  },
+  {
+   "title": "Sister Carrie",
+   "author": "Theodore Dreiser",
+   "src": "ML",
+   "rank": 33
+  },
+  {
+   "title": "As I Lay Dying",
+   "author": "William Faulkner",
+   "src": "ML",
+   "rank": 35
+  },
+  {
+   "title": "All the King's Men",
+   "author": "Robert Penn Warren",
+   "src": "ML",
+   "rank": 36
+  },
+  {
+   "title": "The Bridge of San Luis Rey",
+   "author": "Thornton Wilder",
+   "src": "ML",
+   "rank": 37
+  },
+  {
+   "title": "Go Tell It on the Mountain",
+   "author": "James Baldwin",
+   "src": "ML",
+   "rank": 39
+  },
+  {
+   "title": "Deliverance",
+   "author": "James Dickey",
+   "src": "ML",
+   "rank": 42
+  },
+  {
+   "title": "The Sun Also Rises",
+   "author": "Ernest Hemingway",
+   "src": "ML",
+   "rank": 45
+  },
+  {
+   "title": "Tropic of Cancer",
+   "author": "Henry Miller",
+   "src": "ML",
+   "rank": 50
+  },
+  {
+   "title": "The Naked and the Dead",
+   "author": "Norman Mailer",
+   "src": "ML",
+   "rank": 51
+  },
+  {
+   "title": "Portnoy's Complaint",
+   "author": "Philip Roth",
+   "src": "ML",
+   "rank": 52
+  },
+  {
+   "title": "Pale Fire",
+   "author": "Vladimir Nabokov",
+   "src": "ML",
+   "rank": 53
+  },
+  {
+   "title": "Light in August",
+   "author": "William Faulkner",
+   "src": "ML",
+   "rank": 54
+  },
+  {
+   "title": "On the Road",
+   "author": "Jack Kerouac",
+   "src": "ML",
+   "rank": 55
+  },
+  {
+   "title": "The Maltese Falcon",
+   "author": "Dashiell Hammett",
+   "src": "ML",
+   "rank": 56
+  },
+  {
+   "title": "The Age of Innocence",
+   "author": "Edith Wharton",
+   "src": "ML",
+   "rank": 58
+  },
+  {
+   "title": "The Moviegoer",
+   "author": "Walker Percy",
+   "src": "ML",
+   "rank": 60
+  },
+  {
+   "title": "Death Comes for the Archbishop",
+   "author": "Willa Cather",
+   "src": "ML",
+   "rank": 61
+  },
+  {
+   "title": "From Here to Eternity",
+   "author": "James Jones",
+   "src": "ML",
+   "rank": 62
+  },
+  {
+   "title": "The Wapshot Chronicle",
+   "author": "John Cheever",
+   "src": "ML",
+   "rank": 63
+  },
+  {
+   "title": "The Catcher in the Rye",
+   "author": "J. D. Salinger",
+   "src": "ML",
+   "rank": 64
+  },
+  {
+   "title": "Main Street",
+   "author": "Sinclair Lewis",
+   "src": "ML",
+   "rank": 68
+  },
+  {
+   "title": "The House of Mirth",
+   "author": "Edith Wharton",
+   "src": "ML",
+   "rank": 69
+  },
+  {
+   "title": "The Day of the Locust",
+   "author": "Nathanael West",
+   "src": "ML",
+   "rank": 73
+  },
+  {
+   "title": "A Farewell to Arms",
+   "author": "Ernest Hemingway",
+   "src": "ML",
+   "rank": 74
+  },
+  {
+   "title": "The Adventures of Augie March",
+   "author": "Saul Bellow",
+   "src": "ML",
+   "rank": 81
+  },
+  {
+   "title": "Angle of Repose",
+   "author": "Wallace Stegner",
+   "src": "ML",
+   "rank": 82
+  },
+  {
+   "title": "Ragtime",
+   "author": "E. L. Doctorow",
+   "src": "ML",
+   "rank": 86
+  },
+  {
+   "title": "The Call of the Wild",
+   "author": "Jack London",
+   "src": "ML",
+   "rank": 88
+  },
+  {
+   "title": "Tobacco Road",
+   "author": "Erskine Caldwell",
+   "src": "ML",
+   "rank": 91
+  },
+  {
+   "title": "Ironweed",
+   "author": "William Kennedy",
+   "src": "ML",
+   "rank": 92
+  },
+  {
+   "title": "Sophie's Choice",
+   "author": "William Styron",
+   "src": "ML",
+   "rank": 96
+  },
+  {
+   "title": "The Sheltering Sky",
+   "author": "Paul Bowles",
+   "src": "ML",
+   "rank": 97
+  },
+  {
+   "title": "The Postman Always Rings Twice",
+   "author": "James M. Cain",
+   "src": "ML",
+   "rank": 98
+  },
+  {
+   "title": "The Magnificent Ambersons",
+   "author": "Booth Tarkington",
+   "src": "ML",
+   "rank": 100
+  },
+  {
+   "title": "To Kill a Mockingbird",
+   "author": "Harper Lee",
+   "src": "GAR",
+   "rank": 1
+  },
+  {
+   "title": "Gone with the Wind",
+   "author": "Margaret Mitchell",
+   "src": "GAR",
+   "rank": 6
+  },
+  {
+   "title": "Charlotte's Web",
+   "author": "E. B. White",
+   "src": "GAR",
+   "rank": 7
+  },
+  {
+   "title": "Little Women",
+   "author": "Louisa May Alcott",
+   "src": "GAR",
+   "rank": 8
+  },
+  {
+   "title": "A Confederacy of Dunces",
+   "author": "John Kennedy Toole",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "A Prayer for Owen Meany",
+   "author": "John Irving",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "A Separate Peace",
+   "author": "John Knowles",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "A Tree Grows in Brooklyn",
+   "author": "Betty Smith",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "The Adventures of Tom Sawyer",
+   "author": "Mark Twain",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "Another Country",
+   "author": "James Baldwin",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "Atlas Shrugged",
+   "author": "Ayn Rand",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "Beloved",
+   "author": "Toni Morrison",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "Bless Me, Ultima",
+   "author": "Rudolfo Anaya",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "The Brief Wondrous Life of Oscar Wao",
+   "author": "Junot Díaz",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "The Call of the Wild",
+   "author": "Jack London",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "Catch-22",
+   "author": "Joseph Heller",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "The Catcher in the Rye",
+   "author": "J. D. Salinger",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "The Color Purple",
+   "author": "Alice Walker",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "Dune",
+   "author": "Frank Herbert",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "Flowers in the Attic",
+   "author": "V. C. Andrews",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "Foundation",
+   "author": "Isaac Asimov",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "A Game of Thrones",
+   "author": "George R. R. Martin",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "Ghost",
+   "author": "Jason Reynolds",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "Gilead",
+   "author": "Marilynne Robinson",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "The Giver",
+   "author": "Lois Lowry",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "The Godfather",
+   "author": "Mario Puzo",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "Gone Girl",
+   "author": "Gillian Flynn",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "The Grapes of Wrath",
+   "author": "John Steinbeck",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "The Great Gatsby",
+   "author": "F. Scott Fitzgerald",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "Hatchet",
+   "author": "Gary Paulsen",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "The Help",
+   "author": "Kathryn Stockett",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "The Hunger Games",
+   "author": "Suzanne Collins",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "The Hunt for Red October",
+   "author": "Tom Clancy",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "The Intuitionist",
+   "author": "Colson Whitehead",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "Invisible Man",
+   "author": "Ralph Ellison",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "The Joy Luck Club",
+   "author": "Amy Tan",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "Jurassic Park",
+   "author": "Michael Crichton",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "Lonesome Dove",
+   "author": "Larry McMurtry",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "Looking for Alaska",
+   "author": "John Green",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "The Lovely Bones",
+   "author": "Alice Sebold",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "The Martian",
+   "author": "Andy Weir",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "Memoirs of a Geisha",
+   "author": "Arthur Golden",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "Moby-Dick",
+   "author": "Herman Melville",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "The Notebook",
+   "author": "Nicholas Sparks",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "The Outsiders",
+   "author": "S. E. Hinton",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "Ready Player One",
+   "author": "Ernest Cline",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "The Sirens of Titan",
+   "author": "Kurt Vonnegut",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "The Stand",
+   "author": "Stephen King",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "The Sun Also Rises",
+   "author": "Ernest Hemingway",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "Swan Song",
+   "author": "Robert R. McCammon",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "Tales of the City",
+   "author": "Armistead Maupin",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "Their Eyes Were Watching God",
+   "author": "Zora Neale Hurston",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "Watchers",
+   "author": "Dean Koontz",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "Where the Red Fern Grows",
+   "author": "Wilson Rawls",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "The Da Vinci Code",
+   "author": "Dan Brown",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "The Clan of the Cave Bear",
+   "author": "Jean M. Auel",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "The Coldest Winter Ever",
+   "author": "Sister Souljah",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "Left Behind",
+   "author": "Tim LaHaye",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "This Present Darkness",
+   "author": "Frank E. Peretti",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "The Twilight Saga",
+   "author": "Stephenie Meyer",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "The Shack",
+   "author": "William P. Young",
+   "src": "GAR",
+   "rank": null
+  },
+  {
+   "title": "Mind Invaders",
+   "author": "Dave Hunt",
+   "src": "GAR",
+   "rank": null
+  }
+ ]
+}

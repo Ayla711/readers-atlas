@@ -1,0 +1,884 @@
+{
+ "stoke-poges": {
+  "commons_file": "File:St._Giles_Stoke_Poges_1.jpg",
+  "alt_en": "St Giles' Church, Stoke Poges",
+  "alt_zh": "斯托克波吉斯的圣贾尔斯教堂",
+  "crop": null
+ },
+ "st-cross-winchester": {
+  "commons_file": "File:View_across_the_water_meadows_towards_St_Cross_-_geograph.org.uk_-_1072500.jpg",
+  "alt_en": "Frosty water meadows looking towards St Cross, Winchester",
+  "alt_zh": "冬日清晨的水草甸，远处是温彻斯特的圣克罗斯",
+  "crop": null
+ },
+ "top-withens": {
+  "commons_file": "File:TopWithens.jpg",
+  "alt_en": "The ruins of Top Withens on Haworth Moor",
+  "alt_zh": "霍沃斯荒原上的托普威森斯废墟",
+  "crop": null
+ },
+ "poets-corner": {
+  "commons_file": "File:View_of_Poets'_Corner_in_Westminster_Abbey_03.jpg",
+  "alt_en": "Monuments in Poets' Corner, Westminster Abbey",
+  "alt_zh": "威斯敏斯特教堂诗人角的纪念碑",
+  "crop": null
+ },
+ "shakespeare-birthplace": {
+  "commons_file": "File:Shakespeare's_Birthplace_in_Henley_Street_-_geograph.org.uk_-_6545711.jpg",
+  "alt_en": "Shakespeare's Birthplace on Henley Street, Stratford-upon-Avon",
+  "alt_zh": "埃文河畔斯特拉特福亨利街的莎士比亚故居",
+  "crop": null
+ },
+ "dove-cottage": {
+  "commons_file": "File:Dove_Cottage,_Grasmere_-_geograph.org.uk_-_7093961.jpg",
+  "alt_en": "Dove Cottage, Grasmere",
+  "alt_zh": "格拉斯米尔的鸽舍",
+  "crop": null
+ },
+ "keats-house": {
+  "commons_file": "File:Keats_House,_Hampstead_-_geograph.org.uk_-_2287033.jpg",
+  "alt_en": "Keats House, Hampstead",
+  "alt_zh": "汉普斯特德的济慈故居",
+  "crop": null
+ },
+ "chawton": {
+  "commons_file": "File:Chawton_-_Jane_Austen's_House_-_geograph.org.uk_-_4668223.jpg",
+  "alt_en": "Jane Austen's House, Chawton",
+  "alt_zh": "乔顿的简·奥斯汀故居",
+  "crop": null
+ },
+ "bronte-parsonage": {
+  "commons_file": "File:Brontë_Parsonage.jpg",
+  "alt_en": "The Brontë Parsonage in Haworth",
+  "alt_zh": "霍沃斯的勃朗特故居",
+  "crop": null
+ },
+ "dickens-museum": {
+  "commons_file": "File:Charles_Dickens_Museum_and_bicycle,_Doughty_Street_-_geograph.org.uk_-_3569238.jpg",
+  "alt_en": "The Charles Dickens Museum on Doughty Street",
+  "alt_zh": "道蒂街的狄更斯博物馆",
+  "crop": null
+ },
+ "sherlock-museum": {
+  "commons_file": "File:221B_Baker_Street,_London_-_Sherlock_Holmes_Museum.jpg",
+  "alt_en": "The Sherlock Holmes Museum at 221B Baker Street",
+  "alt_zh": "贝克街 221B 的福尔摩斯博物馆",
+  "crop": null
+ },
+ "xu-zhimo-stone": {
+  "commons_file": "File:Xu_Zhimo_memorial_stone_Kings_College_Cambridge_2_of_2.JPG",
+  "alt_en": "The Xu Zhimo poem stone at King's College, Cambridge",
+  "alt_zh": "剑桥国王学院的徐志摩诗碑",
+  "crop": null
+ },
+ "lao-she-plaque": {
+  "commons_file": "File:Lao_She_English_Heritage_Plaque.jpg",
+  "alt_en": "Lao She's blue plaque",
+  "alt_zh": "老舍故居的蓝色纪念牌",
+  "crop": null
+ },
+ "cuckmere-cottages": {
+  "commons_file": "File:Coastguard_Cottages_at_Cuckmere_Haven_with_the_Seven_Sisters_beyond_-_geograph.org.uk_-_6450880.jpg",
+  "alt_en": "The Coastguard Cottages at Cuckmere Haven, with the Seven Sisters cliffs",
+  "alt_zh": "卡克米尔港的海岸警卫小屋和七姐妹白崖",
+  "crop": null
+ },
+ "leadenhall-market": {
+  "commons_file": "File:Mercado_Leadenhall,_Londres,_Inglaterra,_2014-08-07,_DD_049.JPG",
+  "alt_en": "Leadenhall Market",
+  "alt_zh": "利德贺市场",
+  "crop": null
+ },
+ "christ-church": {
+  "commons_file": "File:Christ_Church,_Oxford,_The_Grand_Staircase.jpg",
+  "alt_en": "The Grand Staircase at Christ Church, Oxford",
+  "alt_zh": "牛津基督堂学院的大楼梯",
+  "crop": null
+ },
+ "alnwick-castle": {
+  "commons_file": "File:Alnwick_Castle_2011.JPG",
+  "alt_en": "Alnwick Castle",
+  "alt_zh": "阿尼克城堡",
+  "crop": null
+ },
+ "glenfinnan": {
+  "commons_file": "File:Glenfinnan_Viaduct.jpg",
+  "alt_en": "A steam train crossing the Glenfinnan Viaduct",
+  "alt_zh": "蒸汽火车驶过格伦芬南高架桥",
+  "crop": null
+ },
+ "dyrham-park": {
+  "commons_file": "File:West_elevation,_Dyrham_House,_Dyrham_Park_(geograph_2630073).jpg",
+  "alt_en": "The west front of Dyrham House",
+  "alt_zh": "德汉姆庄园西立面",
+  "crop": null
+ },
+ "chalcot-crescent": {
+  "commons_file": "File:32-40_Chalcot_Crescent,_Primrose_Hill,_April_2026.jpg",
+  "alt_en": "Chalcot Crescent, Primrose Hill",
+  "alt_zh": "樱草山的查尔科特新月街",
+  "crop": null
+ },
+ "doune-castle": {
+  "commons_file": "File:Doune_Castle_-_geograph.org.uk_-_4293414.jpg",
+  "alt_en": "Doune Castle",
+  "alt_zh": "杜恩城堡",
+  "crop": null
+ },
+ "glencoyne-bay": {
+  "commons_file": "File:Ullswater_from_Glencoyne_Bay_-_geograph.org.uk_-_4939307.jpg",
+  "alt_en": "Ullswater from Glencoyne Bay",
+  "alt_zh": "从格伦科因湾望阿尔斯沃特湖",
+  "crop": null
+ },
+ "manchester": {
+  "commons_file": "File:Rochdale_Canal,_Murrays'_Mills_-_geograph.org.uk_-_6553704.jpg",
+  "alt_en": "Murrays' Mills beside the Rochdale Canal in Ancoats, Manchester",
+  "alt_zh": "曼彻斯特安科茨，罗奇代尔运河边的默里纺织厂",
+  "crop": null
+ },
+ "chatsworth": {
+  "commons_file": "File:Chatsworth_house.jpg",
+  "alt_en": "Chatsworth House",
+  "alt_zh": "查茨沃斯庄园",
+  "crop": null
+ },
+ "preston": {
+  "commons_file": "File:Harris_Museum,_Preston_-_geograph.org.uk_-_5974880.jpg",
+  "alt_en": "The Harris Museum, Preston",
+  "alt_zh": "普雷斯顿的哈里斯博物馆",
+  "crop": null
+ },
+ "cooling-church": {
+  "commons_file": "File:St._James,_Cooling_2.jpg",
+  "alt_en": "St James' Church, Cooling",
+  "alt_zh": "库林的圣詹姆斯教堂",
+  "crop": null
+ },
+ "knutsford": {
+  "commons_file": "File:8–14,_King_Street,_Knutsford.jpg",
+  "alt_en": "King Street, Knutsford",
+  "alt_zh": "纳茨福德的国王街",
+  "crop": null
+ },
+ "gainsborough": {
+  "commons_file": "File:Gainsborough_-_railway_crossing_of_River_Trent_(geograph_1811738).jpg",
+  "alt_en": "The River Trent at Gainsborough",
+  "alt_zh": "盖恩斯伯勒的特伦特河",
+  "crop": null
+ },
+ "eastwood": {
+  "commons_file": "File:D_H_Lawrence_Birthplace_Museum,_Eastwood_-_geograph.org.uk_-_7641153.jpg",
+  "alt_en": "The D. H. Lawrence Birthplace Museum, Eastwood",
+  "alt_zh": "伊斯特伍德的劳伦斯出生地博物馆",
+  "crop": null
+ },
+ "burslem": {
+  "commons_file": "File:Royal_Doulton_factory,_Burslem_-_geograph.org.uk_-_3628875.jpg",
+  "alt_en": "The Royal Doulton factory, Burslem",
+  "alt_zh": "伯斯勒姆的皇家道尔顿陶瓷厂",
+  "crop": null
+ },
+ "whitby": {
+  "commons_file": "File:Whitby_Harbour,_ship.jpg",
+  "alt_en": "Whitby harbour, with the abbey on the cliff above",
+  "alt_zh": "惠特比港，崖上是修道院",
+  "crop": null
+ },
+ "scarborough": {
+  "commons_file": "File:Scarborough_South_Bay.jpg",
+  "alt_en": "Scarborough's South Bay at night",
+  "alt_zh": "夜晚的斯卡伯勒南湾",
+  "crop": null
+ },
+ "clava-cairns": {
+  "commons_file": "File:Clava_Cairns_-_geograph.org.uk_-_2304452.jpg",
+  "alt_en": "A cairn and standing stone at Clava",
+  "alt_zh": "克拉瓦的石冢和立石",
+  "crop": null
+ },
+ "torquay": {
+  "commons_file": "File:Torquay_Harbour,_2006_(01).jpg",
+  "alt_en": "Torquay harbour",
+  "alt_zh": "托基港",
+  "crop": null
+ },
+ "greenway": {
+  "commons_file": "File:Greenway_House,_near_Kingswear,_Devon_-_geograph.org.uk_-_4681552.jpg",
+  "alt_en": "Greenway House above the River Dart",
+  "alt_zh": "达特河畔的格林威庄园",
+  "crop": null
+ },
+ "cholsey-church": {
+  "commons_file": "File:St._Mary's_Church,_Cholsey_16.jpg",
+  "alt_en": "St Mary's Church, Cholsey",
+  "alt_zh": "乔尔西圣玛丽教堂",
+  "crop": null
+ },
+ "burgh-island": {
+  "commons_file": "File:Burgh_Island_from_mainland.jpg",
+  "alt_en": "Burgh Island and its hotel, seen from the mainland",
+  "alt_zh": "从岸上望伯格岛和岛上的酒店",
+  "crop": null
+ },
+ "st-martins-theatre": {
+  "commons_file": "File:St_Martin's_Theatre.jpg",
+  "alt_en": "St Martin's Theatre at night, with the sign for The Mousetrap",
+  "alt_zh": "夜晚的圣马丁剧院和《捕鼠器》招牌",
+  "crop": null
+ },
+ "lyme-park": {
+  "commons_file": "File:South_facade_of_Lyme_Park_house,_2013.jpg",
+  "alt_en": "The south front of Lyme Park reflected in the lake",
+  "alt_zh": "倒映在湖中的莱姆庄园南立面",
+  "crop": null
+ },
+ "castle-howard": {
+  "commons_file": "File:Castle_Howard_2013.jpg",
+  "alt_en": "Castle Howard and its dome",
+  "alt_zh": "霍华德城堡和它的穹顶",
+  "crop": null
+ },
+ "dark-hedges": {
+  "commons_file": "File:Dark_Hedges_near_Armoy,_Co_Antrim_(cropped).jpg",
+  "alt_en": "The avenue of beech trees on Bregagh Road",
+  "alt_zh": "布雷加路两旁的山毛榉林荫道",
+  "crop": null
+ },
+ "dylan-thomas-boathouse": {
+  "commons_file": "File:Dylan_Thomas'_boathouse_at_Laugharne_-_geograph.org.uk_-_2374692.jpg",
+  "alt_en": "The Boathouse above the Taf estuary at Laugharne",
+  "alt_zh": "拉恩塔夫河口上方的船屋",
+  "crop": null
+ },
+ "abbotsford": {
+  "commons_file": "File:Frontage_of_Abbotsford_House_-_geograph.org.uk_-_6407172.jpg",
+  "alt_en": "The front of Abbotsford House",
+  "alt_zh": "阿博茨福德宅第正面",
+  "crop": null
+ },
+ "dr-johnsons-house": {
+  "commons_file": "File:Gough_Square_and_Dr_Johnson's_house_-_geograph.org.uk_-_763829.jpg",
+  "alt_en": "Gough Square, with Dr Johnson's House",
+  "alt_zh": "高夫广场和约翰生博士故居",
+  "crop": null
+ },
+ "gloucester-cathedral": {
+  "commons_file": "File:The_Cloisters_at_Gloucester_Cathedral.jpg",
+  "alt_en": "The fan-vaulted cloisters of Gloucester Cathedral",
+  "alt_zh": "格洛斯特大教堂扇形拱顶的回廊",
+  "crop": null
+ },
+ "clachaig-gully": {
+  "commons_file": "File:The_road_from_Clachaig_Inn,_Glencoe_-_geograph.org.uk_-_6281232.jpg",
+  "alt_en": "The road from the Clachaig Inn into Glen Coe",
+  "alt_zh": "从克拉哈格旅店通往格伦科的路",
+  "crop": null
+ },
+ "steall-falls": {
+  "commons_file": "File:Steall_Falls_and_upper_Glen_Nevis_-_geograph.org.uk_-_2839383.jpg",
+  "alt_en": "Steall Falls in upper Glen Nevis",
+  "alt_zh": "尼维斯谷上游的斯蒂尔瀑布",
+  "crop": null
+ },
+ "claremont-square": {
+  "commons_file": "File:Claremont_square,_Islington_(4)_-_geograph.org.uk_-_1523975.jpg",
+  "alt_en": "The terraced houses of Claremont Square",
+  "alt_zh": "克莱蒙特广场的排屋",
+  "crop": null
+ },
+ "millennium-bridge": {
+  "commons_file": "File:05_2023_London_Millennium_Bridge_with_St_Paul's_IMG_7483.jpg",
+  "alt_en": "The Millennium Bridge, with St Paul's Cathedral behind",
+  "alt_zh": "千禧桥，后面是圣保罗大教堂",
+  "crop": null
+ },
+ "freshwater-west": {
+  "commons_file": "File:Northern_end_of_Freshwater_West_beach_and_Gravel_Bay_-_geograph.org.uk_-_860144.jpg",
+  "alt_en": "The northern end of Freshwater West beach",
+  "alt_zh": "弗雷什沃特西海滩北端",
+  "crop": null
+ },
+ "malham-cove": {
+  "commons_file": "File:Malham_Cove_1.jpg",
+  "alt_en": "The limestone cliff of Malham Cove",
+  "alt_zh": "马勒姆湾的石灰岩崖壁",
+  "crop": null
+ },
+ "lavenham": {
+  "commons_file": "File:The_De_Vere_house,_Lavenham_-_geograph.org.uk_-_4075334.jpg",
+  "alt_en": "De Vere House, Lavenham",
+  "alt_zh": "拉文纳姆的德维尔宅",
+  "crop": null
+ },
+ "godstow": {
+  "commons_file": "File:Godstow_Abbey_ruins_-_geograph.org.uk_-_1779065.jpg",
+  "alt_en": "The ruins of Godstow Abbey by the Thames",
+  "alt_zh": "泰晤士河边的戈斯托修道院遗址",
+  "crop": null
+ },
+ "daresbury": {
+  "commons_file": "File:All_Saints'_Church,_Daresbury_-_geograph.org.uk_-_2779946.jpg",
+  "alt_en": "All Saints' Church, Daresbury, and its churchyard",
+  "alt_zh": "达斯伯里诸圣堂和墓园",
+  "crop": null
+ },
+ "carroll-grave": {
+  "commons_file": "File:Dodgson_Family_Graves_2015.jpg",
+  "alt_en": "The Dodgson family graves in the Mount Cemetery, Guildford",
+  "alt_zh": "吉尔福德山丘公墓里的道奇森家族墓",
+  "crop": null
+ },
+ "north-lees-hall": {
+  "commons_file": "File:North_Lees_Hall_in_February_-_geograph.org.uk_-_3861558.jpg",
+  "alt_en": "North Lees Hall, a stone tower house above Hathersage",
+  "alt_zh": "哈瑟塞奇山坡上的石砌塔楼诺斯利斯庄园",
+  "crop": null
+ },
+ "cowan-bridge": {
+  "commons_file": "File:The_\"Brontë_School\",_Cowan_Bridge_-_geograph.org.uk_-_5510866.jpg",
+  "alt_en": "The former Clergy Daughters' School building at Cowan Bridge",
+  "alt_zh": "考恩桥牧师女儿学校的旧校舍",
+  "crop": null
+ },
+ "quarry-wood": {
+  "commons_file": "File:Ascent_through_Quarry_Wood,_Cookham_Dean_-_geograph.org.uk_-_6988003.jpg",
+  "alt_en": "A path climbing through Quarry Wood, Cookham Dean",
+  "alt_zh": "穿过库克姆迪恩采石场林的上坡小路",
+  "crop": null
+ },
+ "peter-pan-statue": {
+  "commons_file": "File:Peter_Pan_Statue_in_Kensington_Gardens_(01).jpg",
+  "alt_en": "George Frampton's Peter Pan statue in Kensington Gardens",
+  "alt_zh": "肯辛顿公园里乔治·弗兰普顿塑造的彼得·潘雕像",
+  "crop": null
+ },
+ "hardys-cottage": {
+  "commons_file": "File:Hardy's_Cottage,_Higher_Bockhampton,_Dorset_-_geograph.org.uk_-_1936648.jpg",
+  "alt_en": "Hardy's Cottage, the thatched house where he was born",
+  "alt_zh": "哈代出生的茅草顶小屋",
+  "crop": null
+ },
+ "bedford-gaol": {
+  "commons_file": "File:Plaque_commemorating_John_Bunyan_-_geograph.org.uk_-_1380790.jpg",
+  "alt_en": "The plaque in Silver Street marking the site of the Bedford County Gaol",
+  "alt_zh": "银街上标出贝德福德郡监狱旧址的纪念牌",
+  "crop": null
+ },
+ "elephant-house": {
+  "commons_file": "File:Elephant_House_Front,_Edinburgh,_Scotland.jpg",
+  "alt_en": "The red shopfront of the Elephant House on George IV Bridge",
+  "alt_zh": "乔治四世桥上大象咖啡馆的红色店面",
+  "crop": null
+ },
+ "greyfriars-kirkyard": {
+  "commons_file": "File:Greyfriars_Kirkyard,_east_wall.jpg",
+  "alt_en": "Monuments along the east wall of Greyfriars Kirkyard",
+  "alt_zh": "灰衣修士教堂墓园东墙边的墓碑",
+  "crop": null
+ },
+ "monks-house": {
+  "commons_file": "File:Monk's_House,_Rodmell,_UK.jpg",
+  "alt_en": "Monk's House, the Woolfs' weatherboarded cottage in Rodmell",
+  "alt_zh": "罗德梅尔的僧舍，伍尔夫夫妇住过的护墙板小屋",
+  "crop": null
+ },
+ "carroll-christ-church": {
+  "commons_file": "File:Tom_Quad,_Christ_Church,_Oxford_2025-05-04.jpg",
+  "alt_en": "Tom Quad, the great quadrangle of Christ Church, with Tom Tower",
+  "alt_zh": "基督教堂学院的汤姆方庭和汤姆塔",
+  "crop": null
+ },
+ "alices-shop": {
+  "commons_file": "File:Shops_on_St_Aldates_-_geograph.org.uk_-_5233100.jpg",
+  "alt_en": "Alice's Shop, the small shop with the red door, on St Aldate's",
+  "alt_zh": "圣奥尔代茨街上红门的那家小店就是爱丽丝小店",
+  "crop": null
+ },
+ "talland-house": {
+  "commons_file": "File:Talland_House,_c1882–1894.jpg",
+  "alt_en": "Talland House around 1882, when the Stephens first rented it",
+  "alt_zh": "1882 年前后的塔兰德宅，斯蒂芬一家刚租下它的时候",
+  "crop": null
+ },
+ "gordon-square-46": {
+  "commons_file": "File:46_Gordon_Square_London.jpg",
+  "alt_en": "The front of 46 Gordon Square, with the door and a blue plaque",
+  "alt_zh": "戈登广场 46 号的正门和门边的蓝牌",
+  "crop": "(cropped; box not recorded)"
+ },
+ "hogarth-house": {
+  "commons_file": "File:Leonard_and_Virginia_Woolf_plaque.jpg",
+  "alt_en": "The blue plaque on Hogarth House: Leonard and Virginia Woolf lived here 1915–1924 and founded the Hogarth Press 1917",
+  "alt_zh": "霍加斯宅门口的蓝牌：伍尔夫夫妇 1915—1924 年住在这里，1917 年创办霍加斯出版社",
+  "crop": null
+ },
+ "godrevy": {
+  "commons_file": "File:Godrevy_Lighthouse_2024_05.jpg",
+  "alt_en": "Godrevy Lighthouse on its island in St Ives Bay",
+  "alt_zh": "圣艾夫斯湾小岛上的戈德雷维灯塔",
+  "crop": null
+ },
+ "senate-house": {
+  "commons_file": "File:Senate_House,_University_of_London_-_geograph.org.uk_-_2855085.jpg",
+  "alt_en": "Senate House, the University of London's Art Deco tower on Malet Street",
+  "alt_zh": "马利特街上伦敦大学参议院大楼的装饰艺术风格塔楼",
+  "crop": null
+ },
+ "barnhill-jura": {
+  "commons_file": "File:Barnhill,_North_Jura_-_geograph.org.uk_-_939595.jpg",
+  "alt_en": "Barnhill, the farmhouse in the north of Jura",
+  "alt_zh": "朱拉岛北部的巴恩希尔农舍",
+  "crop": null
+ },
+ "orwell-grave": {
+  "commons_file": "File:GeorgeOrwellGrave.jpg",
+  "alt_en": "The headstone of Eric Arthur Blair (George Orwell) in All Saints' churchyard, Sutton Courtenay",
+  "alt_zh": "萨顿考特尼诸圣堂墓园里埃里克·亚瑟·布莱尔（乔治·奥威尔）的墓碑",
+  "crop": null
+ },
+ "wallington-orwell": {
+  "commons_file": "File:GOC_Weston-Bygrave_114_2_Kits_Lane,_Wallington_(18982349146).jpg",
+  "alt_en": "Orwell's cottage, The Stores, at 2 Kits Lane, Wallington",
+  "alt_zh": "沃灵顿村基茨巷 2 号，奥威尔住过的“杂货铺”小屋",
+  "crop": null
+ },
+ "coventry-middlemarch": {
+  "commons_file": "File:Two_spires_-_geograph.org.uk_-_1065743.jpg",
+  "alt_en": "The spires of Holy Trinity and St Michael's, Coventry",
+  "alt_zh": "考文垂圣三一教堂和圣米迦勒教堂的尖塔",
+  "crop": null
+ },
+ "dorchester-casterbridge": {
+  "commons_file": "File:Dorchester,_View_of_High_West_Street_-_geograph.org.uk_-_1834521.jpg",
+  "alt_en": "High West Street, Dorchester",
+  "alt_zh": "多切斯特的高西街",
+  "crop": null
+ },
+ "great-maytham": {
+  "commons_file": "File:Great_Maytham_Hall_Garden_-_geograph.org.uk_-_228928.jpg",
+  "alt_en": "The garden at Great Maytham Hall",
+  "alt_zh": "大梅瑟姆庄园的花园",
+  "crop": null
+ },
+ "ashdown-pooh": {
+  "commons_file": "File:Poohsticks_Bridge_-_geograph.org.uk_-_5998340.jpg",
+  "alt_en": "Poohsticks Bridge over a stream near Hartfield",
+  "alt_zh": "哈特菲尔德附近小溪上的噗噗棍桥",
+  "crop": null
+ },
+ "menabilly": {
+  "commons_file": "File:The_pool_at_Polridmouth_-_geograph.org.uk_-_6002515.jpg",
+  "alt_en": "Polridmouth, the cove and pool below Menabilly",
+  "alt_zh": "梅纳比利下方的波利德茅斯海湾和水塘",
+  "crop": null
+ },
+ "sarehole-mill": {
+  "commons_file": "File:Reflections_on_Sarehole_Mill_-_geograph.org.uk_-_3686443.jpg",
+  "alt_en": "Sarehole Mill reflected in its mill pond",
+  "alt_zh": "倒映在磨坊水塘里的萨尔霍尔磨坊",
+  "crop": null
+ },
+ "rostrevor": {
+  "commons_file": "File:Rostrevor_and_Carlingford_Lough._-_geograph.org.uk_-_687576.jpg",
+  "alt_en": "Rostrevor and Carlingford Lough from the forest above",
+  "alt_zh": "从山上的林子里俯瞰罗斯特雷沃和卡林福德湾",
+  "crop": null
+ },
+ "hill-top-sawrey": {
+  "commons_file": "File:Hill_Top_House_and_Garden_-_geograph.org.uk_-_4007817.jpg",
+  "alt_en": "Hill Top and its garden",
+  "alt_zh": "山顶农场和它的花园",
+  "crop": null
+ },
+ "burns-cottage": {
+  "commons_file": "File:Burns_Cottage,_Alloway_428032.jpg",
+  "alt_en": "Burns Cottage, the long thatched cottage in Alloway",
+  "alt_zh": "阿洛韦那座长长的茅草屋彭斯故居",
+  "crop": null
+ },
+ "writers-museum": {
+  "commons_file": "File:Edinburgh_-_Edinburgh,_Lawnmarket,_Lady_Stair's_Close,_Lady_Stair's_House_-_20140421142708.jpg",
+  "alt_en": "Lady Stair's House in Lady Stair's Close, Edinburgh",
+  "alt_zh": "爱丁堡莱迪·斯泰尔小巷里的莱迪·斯泰尔宅",
+  "crop": null
+ },
+ "gaskell-house": {
+  "commons_file": "File:Gaskell_House_Plymouth_Grove_front.JPG",
+  "alt_en": "The front of Elizabeth Gaskell's House on Plymouth Grove",
+  "alt_zh": "普利茅斯林荫路上盖斯凯尔故居的正面",
+  "crop": null
+ },
+ "lawrence-birthplace": {
+  "commons_file": "File:D_H_Lawrence_Birthplace_Museum,_Eastwood_-_geograph.org.uk_-_7641153.jpg",
+  "alt_en": "The D. H. Lawrence Birthplace Museum on Victoria Street, Eastwood",
+  "alt_zh": "伊斯特伍德维多利亚街上的劳伦斯出生地博物馆",
+  "crop": null
+ },
+ "eliot-grave": {
+  "commons_file": "File:George_Eliot_grave_-Highgate_Cemetery,_London,_England-25May2009.jpg",
+  "alt_en": "George Eliot's headstone, inscribed George Eliot and Mary Ann Cross",
+  "alt_zh": "刻着“乔治·艾略特”和“玛丽·安·克罗斯”的墓碑",
+  "crop": null
+ },
+ "reading-gaol": {
+  "commons_file": "File:Reading_Prison_1.JPG",
+  "alt_en": "The red-brick buildings of Reading Prison",
+  "alt_zh": "雷丁监狱的红砖建筑",
+  "crop": null
+ },
+ "tolkien-grave": {
+  "commons_file": "File:Grave_of_JRR_Tolkien_-_geograph.org.uk_-_186590.jpg",
+  "alt_en": "The Tolkiens' grave in Wolvercote Cemetery",
+  "alt_zh": "沃尔弗科特公墓里托尔金夫妇的墓",
+  "crop": null
+ },
+ "the-kilns": {
+  "commons_file": "File:The_Kilns,_home_of_C.S._Lewis_-_geograph.org.uk_-_7925307.jpg",
+  "alt_en": "The Kilns, C. S. Lewis's house in Headington",
+  "alt_zh": "黑丁顿的窑屋，刘易斯的住所",
+  "crop": null
+ },
+ "bunhill-fields": {
+  "commons_file": "File:Defoe_and_Blake_memorials,_Bunhill_Fields_-_geograph.org.uk_-_3710090.jpg",
+  "alt_en": "Defoe's obelisk, with Blake's memorial beyond, in Bunhill Fields",
+  "alt_zh": "邦希尔墓园里笛福的方尖碑，后面是布莱克的纪念碑",
+  "crop": null
+ },
+ "st-olaves": {
+  "commons_file": "File:St_Olave_Church.jpg",
+  "alt_en": "St Olave's Church, Hart Street",
+  "alt_zh": "哈特街的圣奥拉夫教堂",
+  "crop": null
+ },
+ "mary-shelley-grave": {
+  "commons_file": "File:Grave_of_Mary_Wollstonecraft_Shelley_-_geograph.org.uk_-_1861397.jpg",
+  "alt_en": "The Shelley tomb in St Peter's churchyard, Bournemouth",
+  "alt_zh": "伯恩茅斯圣彼得教堂墓园里的雪莱家族墓",
+  "crop": null
+ },
+ "newstead-abbey": {
+  "commons_file": "File:Newstead_Abbey_(4974019812).jpg",
+  "alt_en": "Newstead Abbey, the house beside the ruined west front of the priory church",
+  "alt_zh": "纽斯特德修道院：宅邸和旁边修道院教堂残存的西立面",
+  "crop": null
+ },
+ "byron-hucknall": {
+  "commons_file": "File:Church_of_St._Mary_Magdalene,_Hucknall_-_geograph.org.uk_-_1802589.jpg",
+  "alt_en": "The Church of St Mary Magdalene, Hucknall",
+  "alt_zh": "哈克诺尔的圣玛利亚·抹大拉教堂",
+  "crop": null
+ },
+ "harrow-peachey": {
+  "commons_file": "File:The_Peachey_tomb_in_St_Mary's_Churchyard,_Harrow_on_the_Hill_-_geograph.org.uk_-_4730479.jpg",
+  "alt_en": "The railed Peachey Tomb, with the 1905 stone carrying Byron's poem in front",
+  "alt_zh": "围着铁栏的皮奇墓，前面是 1905 年刻着拜伦诗句的石碑",
+  "crop": null
+ },
+ "lochnagar": {
+  "commons_file": "File:Lochnagar_-_Mountain_and_Corrie_Lochan._-_geograph.org.uk_-_113301.jpg",
+  "alt_en": "The cliffs of Lochnagar above the corrie loch",
+  "alt_zh": "洛赫纳加山的峭壁和下面的冰斗湖",
+  "crop": null
+ },
+ "shelley-memorial": {
+  "commons_file": "File:UK-2014-Oxford-University_College_02_(Shelley_Memorial).jpg",
+  "alt_en": "Onslow Ford's marble figure of the drowned Shelley in its domed room",
+  "alt_zh": "带穹顶的小屋里，昂斯洛·福特雕的溺水雪莱大理石像",
+  "crop": null
+ },
+ "albion-house": {
+  "commons_file": "File:Plaque_at_Shelley_Cottages,_West_Street,_Marlow_-_geograph.org.uk_-_3723753.jpg",
+  "alt_en": "The plaque on Shelley Cottages, West Street, Marlow",
+  "alt_zh": "马洛西街雪莱小屋墙上的纪念牌",
+  "crop": null
+ },
+ "peterloo": {
+  "commons_file": "File:The_Peterloo_Memorial,_Manchester_-_geograph.org.uk_-_8393214.jpg",
+  "alt_en": "Jeremy Deller's Peterloo Memorial, a stepped mound of stone rings",
+  "alt_zh": "杰里米·德勒设计的彼得卢纪念碑，由一圈圈石阶叠成",
+  "crop": null
+ },
+ "milton-cottage": {
+  "commons_file": "File:Milton's_Cottage,_Chalfont_St._Giles_-_geograph.org.uk_-_8063115.jpg",
+  "alt_en": "Milton's Cottage on the village street in Chalfont St Giles",
+  "alt_zh": "查尔芬特圣贾尔斯村街边的弥尔顿小屋",
+  "crop": null
+ },
+ "coleridge-cottage": {
+  "commons_file": "File:Coleridge_Cottage_-_Nether_Stowey_-_Somerset,_England_-_DSC01217.jpg",
+  "alt_en": "Coleridge Cottage on Lime Street, Nether Stowey",
+  "alt_zh": "下斯托伊石灰街上的柯勒律治小屋",
+  "crop": null
+ },
+ "porlock": {
+  "commons_file": "File:Porlock_village_-_geograph.org.uk_-_7269948.jpg",
+  "alt_en": "The main street of Porlock",
+  "alt_zh": "波洛克村的主街",
+  "crop": null
+ },
+ "farringford": {
+  "commons_file": "File:Farringford_House,_once_the_home_of_Tennyson_-_geograph.org.uk_-_6241159.jpg",
+  "alt_en": "Farringford House, Tennyson's home at Freshwater",
+  "alt_zh": "弗雷什沃特的法林福德宅，丁尼生的家",
+  "crop": null
+ },
+ "clevedon-st-andrews": {
+  "commons_file": "File:St._Andrew's_church,_Clevedon_-_geograph.org.uk_-_6980031.jpg",
+  "alt_en": "St Andrew's Church, Clevedon, on its hill above the shore",
+  "alt_zh": "海边小山上的克利夫登圣安德鲁教堂",
+  "crop": null
+ },
+ "st-marylebone-church": {
+  "commons_file": "File:St._Marylebone_Parish_Church_51.jpg",
+  "alt_en": "Inside St Marylebone Parish Church, looking towards the organ",
+  "alt_zh": "圣马里波恩教区教堂内景，望向管风琴",
+  "crop": null
+ },
+ "temple-church": {
+  "commons_file": "File:Temple_Church,_Temple,_London_EC4.jpeg",
+  "alt_en": "The Temple Church among the Inns of Court",
+  "alt_zh": "律师学院建筑之间的圣殿教堂",
+  "crop": null
+ },
+ "clare-cottage": {
+  "commons_file": "File:John_Clare_Cottage,_Helpston_-_geograph.org.uk_-_3945475.jpg",
+  "alt_en": "John Clare's thatched cottage in Helpston",
+  "alt_zh": "赫尔普斯顿的约翰·克莱尔茅草屋",
+  "crop": null
+ },
+ "shandy-hall": {
+  "commons_file": "File:ShandyHallCoxwold(GordonHatton)Apr2007.jpg",
+  "alt_en": "Shandy Hall, Sterne's house in Coxwold",
+  "alt_zh": "考克斯沃尔德的项狄府，斯特恩的家",
+  "crop": null
+ },
+ "carlyles-house": {
+  "commons_file": "File:Thomas_Carlyle_House_-_24_Cheyne_Row_Chelsea_London_SW3_5HL.jpg",
+  "alt_en": "The front of 24 Cheyne Row, Carlyle's House",
+  "alt_zh": "切恩街 24 号卡莱尔故居的正面",
+  "crop": "(cropped; box not recorded)"
+ },
+ "cowper-museum": {
+  "commons_file": "File:Cowper_&_Newton_Museum,_Market_Place,_Olney_(geograph_6856872).jpg",
+  "alt_en": "Orchard Side on the Market Place, Olney: the Cowper and Newton Museum",
+  "alt_zh": "奥尔尼集市广场边的果园居，柯珀与牛顿博物馆",
+  "crop": null
+ },
+ "yr-ysgwrn": {
+  "commons_file": "File:Yr_Ysgwrn,_cartref_y_bardd_Hedd_Wyn_-_Yr_Ysgwrn,_home_of_the_poet_Hedd_Wyn_(geograph_3663491).jpg",
+  "alt_en": "The farmhouse at Yr Ysgwrn",
+  "alt_zh": "伊斯古恩农场的农舍",
+  "crop": null
+ },
+ "heaney-homeplace": {
+  "commons_file": "File:Seamus_Heaney_HomePlace_entrance.jpg",
+  "alt_en": "The entrance to the Seamus Heaney HomePlace in Bellaghy",
+  "alt_zh": "贝拉希的谢默斯·希尼故里中心入口",
+  "crop": null
+ },
+ "dahl-museum": {
+  "commons_file": "File:Roald-Dahl-Museum-Great-Missenden.jpg",
+  "alt_en": "The Roald Dahl Museum and Story Centre on the High Street, Great Missenden",
+  "alt_zh": "大米森登高街上的罗尔德·达尔博物馆",
+  "crop": null
+ },
+ "llandaff-sweetshop": {
+  "commons_file": "File:Roald_dahl_mrs_pratchetts_sweetshop_llandaff_(cropped).jpg",
+  "alt_en": "11 High Street, Llandaff, with its blue plaque",
+  "alt_zh": "兰达夫高街 11 号和墙上的蓝色纪念牌",
+  "crop": null
+ },
+ "repton-school": {
+  "commons_file": "File:Repton_School_-_geograph.org.uk_-_1303684.jpg",
+  "alt_en": "Repton School",
+  "alt_zh": "雷普顿公学",
+  "crop": null
+ },
+ "exeter-college-jordan": {
+  "commons_file": "File:Exeter_College_Quad.jpg",
+  "alt_en": "The front quad of Exeter College, Oxford",
+  "alt_zh": "牛津埃克塞特学院的前方庭",
+  "crop": null
+ },
+ "botanic-garden-bench": {
+  "commons_file": "File:Will's_Bench_2004-01-21.jpg",
+  "alt_en": "Will and Lyra's bench in the Oxford Botanic Garden, in winter",
+  "alt_zh": "冬天牛津植物园里威尔和莱拉的长椅",
+  "crop": null
+ },
+ "watership-down-hill": {
+  "commons_file": "File:That_is_Watership_Down_-_geograph.org.uk_-_3415780.jpg",
+  "alt_en": "Watership Down seen across the fields",
+  "alt_zh": "隔着田野望见的沃特希普高地",
+  "crop": null
+ },
+ "herriot-thirsk": {
+  "commons_file": "File:World-of-James-Herriot-2013.jpg",
+  "alt_en": "The entrance to The World of James Herriot, 23 Kirkgate, Thirsk",
+  "alt_zh": "瑟斯克柯克盖特 23 号，吉米·哈利博物馆的入口",
+  "crop": null
+ },
+ "dickens-birthplace": {
+  "commons_file": "File:Charles_Dickens_Birthplace_Museum_-_geograph.org.uk_-_6573986.jpg",
+  "alt_en": "The Charles Dickens Birthplace Museum at dusk",
+  "alt_zh": "暮色中的狄更斯出生地博物馆",
+  "crop": null
+ },
+ "max-gate": {
+  "commons_file": "File:Max_Gate,_Dorchester,_April_2015.jpg",
+  "alt_en": "Max Gate, the red-brick house Hardy designed",
+  "alt_zh": "哈代自己设计的红砖房子马克斯门",
+  "crop": null
+ },
+ "johnson-birthplace": {
+  "commons_file": "File:Johnsons_Birthplace.jpg",
+  "alt_en": "Johnson's birthplace on the corner of Market Street, Lichfield",
+  "alt_zh": "利奇菲尔德市场街拐角的约翰逊出生地",
+  "crop": null
+ },
+ "batemans": {
+  "commons_file": "File:Bateman's.jpg",
+  "alt_en": "Bateman's, Kipling's stone house at Burwash",
+  "alt_zh": "伯沃什的石头房子贝特曼庄园，吉卜林的家",
+  "crop": null
+ },
+ "rydal-mount": {
+  "commons_file": "File:Rydal_Mount_-_geograph.org.uk_-_3707259.jpg",
+  "alt_en": "Rydal Mount, Wordsworth's last home",
+  "alt_zh": "华兹华斯最后的家赖德尔山庄",
+  "crop": null
+ },
+ "burns-house-dumfries": {
+  "commons_file": "File:Robert_Burns_House,_Dumfries.jpg",
+  "alt_en": "Robert Burns House, Dumfries",
+  "alt_zh": "邓弗里斯的彭斯故居",
+  "crop": null
+ },
+ "barrie-birthplace": {
+  "commons_file": "File:J._M._Barrie's_birthplace,_Kirriemuir_-_geograph.org.uk_-_2513632.jpg",
+  "alt_en": "Barrie's birthplace, with the wash-house in front",
+  "alt_zh": "巴里出生的房子，前面是那间洗衣房",
+  "crop": null
+ },
+ "dylan-thomas-birthplace": {
+  "commons_file": "File:Birthplace_of_Dylan_Thomas_in_Swansea_-_geograph.org.uk_-_4091841.jpg",
+  "alt_en": "5 Cwmdonkin Drive, Dylan Thomas's birthplace",
+  "alt_zh": "迪伦·托马斯出生的库姆唐金路 5 号",
+  "crop": null
+ },
+ "cs-lewis-square": {
+  "commons_file": "File:C_S_Lewis_Square_and_sculpture_trail,_Belfast_12.jpg",
+  "alt_en": "The cracked Stone Table, one of the Narnia sculptures in C. S. Lewis Square",
+  "alt_zh": "刘易斯广场上的纳尼亚雕塑之一：裂开的石桌",
+  "crop": null
+ },
+ "moseley-bog": {
+  "commons_file": "File:Moseley_Bog_Nature_Reserve_-_geograph.org.uk_-_2370311.jpg",
+  "alt_en": "A boardwalk through the old woods of Moseley Bog",
+  "alt_zh": "莫斯利沼泽老树林里的木栈道",
+  "crop": null
+ },
+ "northmoor-road-20": {
+  "commons_file": "File:20_Northmoor_Road,_Oxford,_former_home_of_J._R._R._Tolkien_-_geograph.org.uk_-_5380432.jpg",
+  "alt_en": "20 Northmoor Road, Tolkien's house in north Oxford",
+  "alt_zh": "牛津北部北沼路 20 号，托尔金的家",
+  "crop": null
+ },
+ "anna-sewell-house": {
+  "commons_file": "File:-2020-08-17_Anna_Sewell’s_House,_Church_Plain,_Great_Yarmouth,_Norfolk.jpg",
+  "alt_en": "Anna Sewell's House on Church Plain, Great Yarmouth",
+  "alt_zh": "大雅茅斯教堂广场上的安娜·休厄尔故居",
+  "crop": null
+ },
+ "adams-grave": {
+  "commons_file": "File:Douglas_Adams_-_geograph.org.uk_-_5847972.jpg",
+  "alt_en": "Douglas Adams's grave at Highgate, with its pot of pens",
+  "alt_zh": "海格特公墓里道格拉斯·亚当斯的墓，墓前有一罐笔",
+  "crop": null
+ },
+ "guildford": {
+  "commons_file": "File:Guildford_High_Street_-_geograph.org.uk_-_3968888.jpg",
+  "alt_en": "Guildford High Street, with the Guildhall clock",
+  "alt_zh": "吉尔福德高街和市政厅的大钟",
+  "crop": null
+ },
+ "wells-cathedral": {
+  "commons_file": "File:Wells_Cathedral_-_West_Front_-_geograph.org.uk_-_7155004.jpg",
+  "alt_en": "The west front of Wells Cathedral",
+  "alt_zh": "韦尔斯大教堂西立面",
+  "crop": null
+ },
+ "deptford": {
+  "commons_file": "File:Deptford_High_Street,_SE8_(2)_-_geograph.org.uk_-_1498383.jpg",
+  "alt_en": "Deptford High Street",
+  "alt_zh": "德特福德高街",
+  "crop": null
+ },
+ "lelant": {
+  "commons_file": "File:Lelant_Church_-_geograph.org.uk_-_1890942.jpg",
+  "alt_en": "St Uny's Church, Lelant",
+  "alt_zh": "莱兰特的圣尤尼教堂",
+  "crop": null
+ },
+ "peel-island": {
+  "commons_file": "File:Peel_Island_on_Coniston_Water_-_geograph.org.uk_-_1737812.jpg",
+  "alt_en": "Peel Island on Coniston Water",
+  "alt_zh": "科尼斯顿湖上的皮尔岛",
+  "crop": null
+ },
+ "hastings": {
+  "commons_file": "File:Hastings_Seafront_-_geograph.org.uk_-_2686976.jpg",
+  "alt_en": "Hastings seafront",
+  "alt_zh": "黑斯廷斯海滨",
+  "crop": null
+ },
+ "globe-borough": {
+  "commons_file": "File:Globe,_Borough,_SE1_(2386237082).jpg",
+  "alt_en": "The Globe tavern on Bedale Street, Borough",
+  "alt_zh": "博罗贝代尔街上的环球酒馆",
+  "crop": null
+ },
+ "platts-lane": {
+  "commons_file": "File:Platt's_Lane,_Hampstead_-_geograph.org.uk_-_6459811.jpg",
+  "alt_en": "Platt's Lane, Hampstead",
+  "alt_zh": "汉普斯特德的普拉茨巷",
+  "crop": null
+ },
+ "wingfield-castle": {
+  "commons_file": "File:Wingfield_Castle_-_geograph.org.uk_-_354164.jpg",
+  "alt_en": "Wingfield Castle seen across the fields",
+  "alt_zh": "隔着田野望见的温菲尔德城堡",
+  "crop": null
+ },
+ "puttenham-common": {
+  "commons_file": "File:Puttenham_Common_-_geograph.org.uk_-_81623.jpg",
+  "alt_en": "Heath and woods on Puttenham Common",
+  "alt_zh": "帕特纳姆公地上的荒地和树林",
+  "crop": null
+ },
+ "the-lady-offices": {
+  "commons_file": "File:38_to_40_Bedford_Street,_City_of_Westminster.jpg",
+  "alt_en": "38–40 Bedford Street, Covent Garden",
+  "alt_zh": "考文特花园贝德福德街 38–40 号",
+  "crop": null
+ },
+ "lincoln-cathedral": {
+  "commons_file": "File:Lincoln_Cathedral_-_west_front_-_geograph.org.uk_-_7514891.jpg",
+  "alt_en": "The west front of Lincoln Cathedral",
+  "alt_zh": "林肯大教堂西立面",
+  "crop": null
+ },
+ "crown-house-missenden": {
+  "commons_file": "File:Cown_House,_70_High_Street,_Great_Missenden,_April_2020.jpg",
+  "alt_en": "Crown House and the High Street, Great Missenden",
+  "alt_zh": "大米森登高街和皇冠屋",
+  "crop": null
+ },
+ "missenden-library": {
+  "commons_file": "File:Great_Missenden_Library,_September_2021_01.jpg",
+  "alt_en": "Great Missenden Library",
+  "alt_zh": "大米森登图书馆",
+  "crop": null
+ }
+}

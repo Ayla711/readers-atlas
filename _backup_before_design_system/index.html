@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Reader's Atlas</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=Spectral:ital,wght@0,400;0,600;1,400&family=Noto+Serif+SC:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <h1 class="brand"><span class="brand-en">The Reader's Atlas</span><span class="brand-zh" data-i18n="brandSub"></span></h1>
+    <div class="search">
+      <label for="search-input" class="visually-hidden" data-i18n="searchLabel"></label>
+      <input id="search-input" type="search" autocomplete="off" data-i18n-placeholder="searchPlaceholder">
+      <ul id="search-results" class="search-results" role="listbox" hidden></ul>
+    </div>
+    <nav class="tabs" data-i18n-aria="tabsLabel">
+      <button class="tab is-active" data-view="map" data-i18n="tabMap"></button>
+      <button class="tab" data-view="travel" data-i18n="tabTravel"></button>
+      <button class="tab" data-view="reading" data-i18n="tabReading"></button>
+    </nav>
+    <button id="lang-toggle" class="lang-toggle" data-i18n="toggle" data-i18n-aria="toggleLabel"></button>
+  </header>
+
+  <main class="layout">
+    <section class="map-pane" data-i18n-aria="mapLabel">
+      <div class="crumbs" id="crumbs"></div>
+      <svg id="map" role="img" data-i18n-aria="mapLabel"></svg>
+      <div class="map-controls">
+        <button id="zoom-in" data-i18n-aria="zoomIn">+</button>
+        <button id="zoom-out" data-i18n-aria="zoomOut">−</button>
+        <button id="zoom-uk" class="wide" data-i18n="zoomUK"></button>
+      </div>
+      <fieldset class="legend" id="legend">
+        <legend class="visually-hidden" data-i18n="legendLabel"></legend>
+      </fieldset>
+      <div class="tooltip" id="tooltip" hidden></div>
+    </section>
+
+    <aside class="reader" id="reader" aria-live="polite"></aside>
+  </main>
+
+  <dialog id="trip-dialog" class="trip-dialog">
+    <form method="dialog" id="trip-form">
+      <h2 id="trip-title"></h2>
+      <label><span data-i18n="date"></span> <input type="date" name="date" required></label>
+      <label><span data-i18n="note"></span> <input type="text" name="note" data-i18n-placeholder="notePlaceholder"></label>
+      <div class="dialog-actions">
+        <button value="cancel" formnovalidate class="ghost" data-i18n="cancel"></button>
+        <button value="ok" class="solid" data-i18n="confirmTrip"></button>
+      </div>
+    </form>
+  </dialog>
+
+  <script src="data/geo.js"></script>
+  <script src="data/books.js"></script>
+  <script src="data/places.js"></script>
+  <script src="data/lines.js"></script>
+  <script src="data/intro-geo.js"></script>
+  <script src="js/i18n.js"></script>
+  <script src="js/intro.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+{
+ "country": "uk",
+ "country_name": "United Kingdom",
+ "country_name_zh": "英国",
+ "region_scheme": "itl1",
+ "produced_by": "exported from data/*.js",
+ "produced_at": "2026-11-08",
+ "notes": "Sample pack: the UK data exported in content-pack form. Photos appear as Commons file titles in photos.json; the source of each verified excerpt is derived from its checked field."
+}

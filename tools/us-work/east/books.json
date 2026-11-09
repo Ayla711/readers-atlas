@@ -1,0 +1,122 @@
+[
+  {
+    "id": "moby-dick",
+    "title": "Moby-Dick",
+    "title_zh": "白鲸",
+    "author": "Herman Melville",
+    "author_zh": "赫尔曼·梅尔维尔",
+    "year": "1851",
+    "orig_lang": "en",
+    "public_domain": true,
+    "source_url": "https://www.gutenberg.org/ebooks/2701",
+    "aliases": []
+  },
+  {
+    "id": "walden",
+    "title": "Walden",
+    "title_zh": "瓦尔登湖",
+    "author": "Henry David Thoreau",
+    "author_zh": "亨利·戴维·梭罗",
+    "year": "1854",
+    "orig_lang": "en",
+    "public_domain": true,
+    "source_url": "https://www.gutenberg.org/ebooks/205",
+    "aliases": []
+  },
+  {
+    "id": "specimen-days",
+    "title": "Specimen Days",
+    "title_zh": "草叶集外集·典型的日子",
+    "author": "Walt Whitman",
+    "author_zh": "沃尔特·惠特曼",
+    "year": "1882",
+    "orig_lang": "en",
+    "public_domain": true,
+    "source_url": "https://www.gutenberg.org/ebooks/8813",
+    "aliases": []
+  },
+  {
+    "id": "little-women",
+    "title": "Little Women",
+    "title_zh": "小妇人",
+    "author": "Louisa May Alcott",
+    "author_zh": "路易莎·梅·奥尔科特",
+    "year": "1868–1869",
+    "orig_lang": "en",
+    "public_domain": true,
+    "source_url": "https://www.gutenberg.org/ebooks/514",
+    "aliases": []
+  },
+  {
+    "id": "great-gatsby",
+    "title": "The Great Gatsby",
+    "title_zh": "了不起的盖茨比",
+    "author": "F. Scott Fitzgerald",
+    "author_zh": "F. 斯科特·菲茨杰拉德",
+    "year": "1925",
+    "orig_lang": "en",
+    "public_domain": true,
+    "source_url": "https://www.gutenberg.org/ebooks/64317",
+    "aliases": []
+  },
+  {
+    "id": "gold-bug",
+    "title": "The Gold-Bug",
+    "title_zh": "金甲虫",
+    "author": "Edgar Allan Poe",
+    "author_zh": "埃德加·爱伦·坡",
+    "year": "1843",
+    "orig_lang": "en",
+    "public_domain": true,
+    "source_url": "https://www.gutenberg.org/ebooks/2147",
+    "aliases": []
+  },
+  {
+    "id": "marrow-of-tradition",
+    "title": "The Marrow of Tradition",
+    "title_zh": "传统的精髓",
+    "author": "Charles W. Chesnutt",
+    "author_zh": "查尔斯·W. 切斯纳特",
+    "year": "1901",
+    "orig_lang": "en",
+    "public_domain": true,
+    "source_url": "https://www.gutenberg.org/ebooks/11228",
+    "aliases": []
+  },
+  {
+    "id": "winesburg-ohio",
+    "title": "Winesburg, Ohio",
+    "title_zh": "小城畸人",
+    "author": "Sherwood Anderson",
+    "author_zh": "舍伍德·安德森",
+    "year": "1919",
+    "orig_lang": "en",
+    "public_domain": true,
+    "source_url": "https://www.gutenberg.org/ebooks/416",
+    "aliases": []
+  },
+  {
+    "id": "new-hampshire",
+    "title": "New Hampshire",
+    "title_zh": "新罕布什尔",
+    "author": "Robert Frost",
+    "author_zh": "罗伯特·弗罗斯特",
+    "year": "1923",
+    "orig_lang": "en",
+    "public_domain": false,
+    "source_url": "https://www.gutenberg.org/ebooks/58611",
+    "aliases": []
+  },
+  {
+    "id": "entailed-hat",
+    "title": "The Entailed Hat; Or, Patty Cannon’s Times",
+    "title_zh": "世袭的帽子：帕蒂·坎农的时代",
+    "author": "George Alfred Townsend",
+    "author_zh": "乔治·阿尔弗雷德·汤森",
+    "year": "1884",
+    "orig_lang": "en",
+    "public_domain": true,
+    "source_url": "https://www.gutenberg.org/ebooks/19146",
+    "aliases": []
+  }
+]

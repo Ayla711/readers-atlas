@@ -1,0 +1,429 @@
+{
+  "checked": "2026-11-09",
+  "coordinates": {
+    "marysville": {
+      "state": "KS",
+      "url": "https://en.wikipedia.org/wiki/Marysville,_Kansas",
+      "source_lat": 39.84306,
+      "source_lon": -96.63861,
+      "method": "public Wikipedia coordinate field; rounded to four decimals",
+      "cache": "cache/coordinate-web-evidence*.json"
+    },
+    "salt-lake-city": {
+      "state": "UT",
+      "url": "https://en.wikipedia.org/wiki/Salt_Lake_City",
+      "source_lat": 40.76083,
+      "source_lon": -111.89111,
+      "method": "public Wikipedia coordinate field; rounded to four decimals",
+      "cache": "cache/coordinate-web-evidence*.json"
+    },
+    "virginia-city": {
+      "state": "NV",
+      "url": "https://en.wikipedia.org/wiki/Virginia_City,_Nevada",
+      "source_lat": 39.3075,
+      "source_lon": -119.64833,
+      "method": "public Wikipedia coordinate field; rounded to four decimals",
+      "cache": "cache/coordinate-web-evidence*.json"
+    },
+    "honolulu": {
+      "state": "HI",
+      "url": "https://en.wikipedia.org/wiki/Honolulu_Hale",
+      "source_lat": 21.30465,
+      "source_lon": -157.857217,
+      "method": "public Wikipedia coordinate field; rounded to four decimals",
+      "cache": "cache/coordinate-web-evidence*.json"
+    },
+    "mount-hood": {
+      "state": "OR",
+      "url": "https://en.wikipedia.org/wiki/Mount_Hood",
+      "source_lat": 45.37361,
+      "source_lon": -121.69583,
+      "method": "public Wikipedia coordinate field; rounded to four decimals",
+      "cache": "cache/coordinate-web-evidence*.json"
+    },
+    "seattle": {
+      "state": "WA",
+      "url": "https://en.wikipedia.org/wiki/Seattle",
+      "source_lat": 47.60389,
+      "source_lon": -122.33,
+      "method": "public Wikipedia coordinate field; rounded to four decimals",
+      "cache": "cache/coordinate-web-evidence*.json"
+    },
+    "tacoma": {
+      "state": "WA",
+      "url": "https://en.wikipedia.org/wiki/Tacoma,_Washington",
+      "source_lat": 47.24583,
+      "source_lon": -122.45944,
+      "method": "public Wikipedia coordinate field; rounded to four decimals",
+      "cache": "cache/coordinate-web-evidence*.json"
+    },
+    "wrangell": {
+      "state": "AK",
+      "url": "https://en.wikipedia.org/wiki/Wrangell,_Alaska",
+      "source_lat": 56.385,
+      "source_lon": -132.08639,
+      "method": "public Wikipedia coordinate field; rounded to four decimals",
+      "cache": "cache/coordinate-web-evidence*.json"
+    },
+    "medicine-bow": {
+      "state": "WY",
+      "url": "https://en.wikipedia.org/wiki/Medicine_Bow,_Wyoming",
+      "source_lat": 41.89944,
+      "source_lon": -106.20194,
+      "method": "public Wikipedia coordinate field; rounded to four decimals",
+      "cache": "cache/coordinate-web-evidence*.json"
+    },
+    "lincoln-nebraska": {
+      "state": "NE",
+      "url": "https://en.wikipedia.org/wiki/Lincoln,_Nebraska",
+      "source_lat": 40.81028,
+      "source_lon": -96.67472,
+      "method": "public Wikipedia coordinate field; rounded to four decimals",
+      "cache": "cache/coordinate-web-evidence*.json"
+    },
+    "omaha": {
+      "state": "NE",
+      "url": "https://en.wikipedia.org/wiki/Omaha,_Nebraska",
+      "source_lat": 41.25861,
+      "source_lon": -95.9375,
+      "method": "public Wikipedia coordinate field; rounded to four decimals",
+      "cache": "cache/coordinate-web-evidence*.json"
+    },
+    "ordway": {
+      "state": "SD",
+      "url": "https://en.wikipedia.org/wiki/Ordway,_South_Dakota",
+      "source_lat": 45.578611111111115,
+      "source_lon": -98.41194444444444,
+      "method": "public Wikipedia coordinate field; rounded to four decimals",
+      "cache": "cache/Ordway.html"
+    },
+    "gallup": {
+      "state": "NM",
+      "url": "https://en.wikipedia.org/wiki/Gallup,_New_Mexico",
+      "source_lat": 35.51389,
+      "source_lon": -108.74306,
+      "method": "public Wikipedia coordinate field; rounded to four decimals",
+      "cache": "cache/coordinate-web-evidence*.json"
+    },
+    "flagstaff": {
+      "state": "AZ",
+      "url": "https://en.wikipedia.org/wiki/Flagstaff,_Arizona",
+      "source_lat": 35.18056,
+      "source_lon": -111.62,
+      "method": "public Wikipedia coordinate field; rounded to four decimals",
+      "cache": "cache/coordinate-web-evidence*.json"
+    },
+    "sallisaw": {
+      "state": "OK",
+      "url": "https://en.wikipedia.org/wiki/Sallisaw,_Oklahoma",
+      "source_lat": 35.46056,
+      "source_lon": -94.80722,
+      "method": "public Wikipedia coordinate field; rounded to four decimals",
+      "cache": "cache/coordinate-web-evidence*.json"
+    },
+    "weedpatch-camp": {
+      "state": "CA",
+      "url": "https://en.wikipedia.org/wiki/Weedpatch_Camp",
+      "source_lat": 35.22306,
+      "source_lon": -118.90528,
+      "method": "public Wikipedia coordinate field; rounded to four decimals",
+      "cache": "cache/coordinate-web-evidence*.json"
+    },
+    "denver": {
+      "state": "CO",
+      "url": "https://en.wikipedia.org/wiki/Denver",
+      "source_lat": 39.74,
+      "source_lon": -104.99,
+      "method": "public Wikipedia coordinate field; rounded to four decimals",
+      "cache": "cache/coordinate-web-evidence*.json"
+    },
+    "san-francisco": {
+      "state": "CA",
+      "url": "https://en.wikipedia.org/wiki/San_Francisco",
+      "source_lat": 37.7775,
+      "source_lon": -122.41639,
+      "method": "public Wikipedia coordinate field; rounded to four decimals",
+      "cache": "cache/coordinate-web-evidence*.json"
+    },
+    "fargo": {
+      "state": "ND",
+      "url": "https://en.wikipedia.org/wiki/Fargo,_North_Dakota",
+      "source_lat": 46.87333,
+      "source_lon": -96.82722,
+      "method": "public Wikipedia coordinate field; rounded to four decimals",
+      "cache": "cache/coordinate-web-evidence*.json"
+    },
+    "billings": {
+      "state": "MT",
+      "url": "https://en.wikipedia.org/wiki/Billings,_Montana",
+      "source_lat": 45.78361,
+      "source_lon": -108.50611,
+      "method": "public Wikipedia coordinate field; rounded to four decimals",
+      "cache": "cache/coordinate-web-evidence*.json"
+    },
+    "kuna": {
+      "state": "ID",
+      "url": "https://en.wikipedia.org/wiki/Kuna,_Idaho",
+      "source_lat": 43.49028,
+      "source_lon": -116.37167,
+      "method": "public Wikipedia coordinate field; rounded to four decimals",
+      "cache": "cache/coordinate-web-evidence*.json"
+    },
+    "leadville": {
+      "state": "CO",
+      "url": "https://en.wikipedia.org/wiki/Leadville,_Colorado",
+      "source_lat": 39.25056,
+      "source_lon": -106.29111,
+      "method": "public Wikipedia coordinate field; rounded to four decimals",
+      "cache": "cache/coordinate-web-evidence*.json"
+    }
+  },
+  "quotes": {
+    "ri-1": {
+      "url": "https://www.gutenberg.org/cache/epub/3177/pg3177.txt",
+      "sha256": "510fbf11300ad9daefa93e4c85cbc8fafc93d1fba0f586fa1a022eb8ba7ef45d",
+      "start": "By and by we passed",
+      "end": "entered Nebraska.",
+      "location": "Chapter 3",
+      "location_zh": "第3章",
+      "character_start": 44601,
+      "character_end": 44724,
+      "exact_substring": true,
+      "preserved_crlf": true
+    },
+    "ri-2": {
+      "url": "https://www.gutenberg.org/cache/epub/3177/pg3177.txt",
+      "sha256": "510fbf11300ad9daefa93e4c85cbc8fafc93d1fba0f586fa1a022eb8ba7ef45d",
+      "start": "Seen from one of these dizzy heights",
+      "end": "Chinese wall.",
+      "location": "Chapter 13",
+      "location_zh": "第13章",
+      "character_start": 172314,
+      "character_end": 172540,
+      "exact_substring": true,
+      "preserved_crlf": true
+    },
+    "ri-3": {
+      "url": "https://www.gutenberg.org/cache/epub/3177/pg3177.txt",
+      "sha256": "510fbf11300ad9daefa93e4c85cbc8fafc93d1fba0f586fa1a022eb8ba7ef45d",
+      "start": "I canvassed the city again",
+      "end": "world before.",
+      "location": "Chapter 42",
+      "location_zh": "第42章",
+      "character_start": 463148,
+      "character_end": 463492,
+      "exact_substring": true,
+      "preserved_crlf": true
+    },
+    "ri-4": {
+      "url": "https://www.gutenberg.org/cache/epub/3177/pg3177.txt",
+      "sha256": "510fbf11300ad9daefa93e4c85cbc8fafc93d1fba0f586fa1a022eb8ba7ef45d",
+      "start": "We had an abundance of fruit",
+      "end": "deliciousness itself.",
+      "location": "Chapter 63",
+      "location_zh": "第63章",
+      "character_start": 728101,
+      "character_end": 728325,
+      "exact_substring": true,
+      "preserved_crlf": true
+    },
+    "tia-1": {
+      "url": "https://www.gutenberg.org/cache/epub/7345/pg7345.txt",
+      "sha256": "bd57e838aceeaffd5f2da03404988f942eab71ee4bfc7001c33073aa9381b363",
+      "start": "Mt. Baker, to the northward",
+      "end": "perhaps the best\r\nknown.",
+      "location": "Chapter 1, Puget Sound and British Columbia",
+      "location_zh": "第1章，普吉特海湾与不列颠哥伦比亚",
+      "character_start": 18641,
+      "character_end": 18843,
+      "exact_substring": true,
+      "preserved_crlf": true
+    },
+    "tia-2": {
+      "url": "https://www.gutenberg.org/cache/epub/7345/pg7345.txt",
+      "sha256": "bd57e838aceeaffd5f2da03404988f942eab71ee4bfc7001c33073aa9381b363",
+      "start": "Seattle was famed",
+      "end": "Northern Pacific Railway.",
+      "location": "Chapter 1, Puget Sound and British Columbia",
+      "location_zh": "第1章，普吉特海湾与不列颠哥伦比亚",
+      "character_start": 20418,
+      "character_end": 20639,
+      "exact_substring": true,
+      "preserved_crlf": true
+    },
+    "tia-3": {
+      "url": "https://www.gutenberg.org/cache/epub/7345/pg7345.txt",
+      "sha256": "bd57e838aceeaffd5f2da03404988f942eab71ee4bfc7001c33073aa9381b363",
+      "start": "I arrived at Wrangell",
+      "end": "burned in my mind.",
+      "location": "Chapter 9, A Canoe Voyage to Northward",
+      "location_zh": "第9章，乘独木舟北行",
+      "character_start": 177118,
+      "character_end": 177257,
+      "exact_substring": true,
+      "preserved_crlf": true
+    },
+    "vir-1": {
+      "url": "https://www.gutenberg.org/cache/epub/1298/pg1298.txt",
+      "sha256": "4090aaf433dec0eaed7186010ff393f7b3305435c2771d58b09880b5bb97d12b",
+      "start": "We had plenty of time",
+      "end": "platform of Medicine Bow.",
+      "location": "Chapter 1, Enter the Man",
+      "location_zh": "第1章，人物登场",
+      "character_start": 6647,
+      "character_end": 6831,
+      "exact_substring": true,
+      "preserved_crlf": true
+    },
+    "myan-1": {
+      "url": "https://www.gutenberg.org/cache/epub/242/pg242.txt",
+      "sha256": "d078445e530bad6c0b1f33bd23a71a2f6fa717e8b30a57b9343a01c8510533c5",
+      "start": "I did not go home for my first summer vacation",
+      "end": "entering the freshman class.",
+      "location": "Book 3, Lena Lingard, Chapter 1",
+      "location_zh": "第三卷《莉娜·林加德》，第1章",
+      "character_start": 315827,
+      "character_end": 315992,
+      "exact_substring": true,
+      "preserved_crlf": true
+    },
+    "opion-1": {
+      "url": "https://www.gutenberg.org/cache/epub/24/pg24.txt",
+      "sha256": "0bc23f5b916792d8dbefac034c2fbf06810ff82b1e780a393d61f1c7a69fcfd3",
+      "start": "Marie’s father, Albert Tovesky",
+      "end": "adviser among his people there.",
+      "location": "Part 2, Neighboring Fields, Chapter 7",
+      "location_zh": "第二部《毗邻的田野》，第7章",
+      "character_start": 145494,
+      "character_end": 145683,
+      "exact_substring": true,
+      "preserved_crlf": true
+    },
+    "mtr-1": {
+      "url": "https://www.gutenberg.org/cache/epub/2809/pg2809.txt",
+      "sha256": "3bf5950c4b140c7b47c320bc4d80cd480c284d0fd4c3697c1144584174896d9b",
+      "start": "In the summer of 1887",
+      "end": "farm we had opened on Dry Run prairie in 1871.",
+      "location": "Foreword",
+      "location_zh": "前言",
+      "character_start": 3703,
+      "character_end": 4110,
+      "exact_substring": true,
+      "preserved_crlf": true
+    }
+  },
+  "scenes": {
+    "gow-s1": {
+      "url": "https://americanliterature.com/author/john-steinbeck/book/the-grapes-of-wrath/chapter-12",
+      "method": "Original bilingual synopsis; no book quotation"
+    },
+    "gow-s2": {
+      "url": "https://en.wikipedia.org/wiki/The_Grapes_of_Wrath",
+      "method": "Original bilingual synopsis; no book quotation"
+    },
+    "gow-s3": {
+      "url": "https://www.steinbeckintheschools.com/the-grapes-of-wrath-reading-guides/setting",
+      "method": "Original bilingual synopsis; no book quotation"
+    },
+    "otr-s1": {
+      "url": "https://en.wikipedia.org/wiki/On_the_Road",
+      "method": "Original bilingual synopsis; no book quotation"
+    },
+    "otr-s2": {
+      "url": "https://en.wikipedia.org/wiki/On_the_Road",
+      "method": "Original bilingual synopsis; no book quotation"
+    },
+    "twc-s1": {
+      "url": "https://en.wikipedia.org/wiki/Travels_with_Charley",
+      "method": "Original bilingual synopsis; no book quotation"
+    },
+    "twc-s2": {
+      "url": "https://gutenbergcanada.ca/ebooks/steinbeckj-travelswithcharley/steinbeckj-travelswithcharley-00-h.html",
+      "method": "Original bilingual synopsis; no book quotation"
+    },
+    "aor-s1": {
+      "url": "https://en.wikipedia.org/wiki/Kuna,_Idaho",
+      "method": "Original bilingual synopsis; no book quotation"
+    },
+    "aor-s2": {
+      "url": "https://en.wikipedia.org/wiki/Angle_of_Repose",
+      "method": "Original bilingual synopsis; no book quotation"
+    }
+  },
+  "copyright": {
+    "roughing-it": {
+      "author_death_year": 1910,
+      "source": "https://marktwainmuseum.org/learn-with-us/twain-faqs/",
+      "rule": "UK life plus 70; project cutoff death <=1955"
+    },
+    "travels-in-alaska": {
+      "author_death_year": 1914,
+      "source": "https://www.nps.gov/jomu/learn/news/100th-anniversary-of-john-muirs-death.htm",
+      "rule": "UK life plus 70; project cutoff death <=1955"
+    },
+    "virginian": {
+      "author_death_year": 1938,
+      "source": "https://www.penguinrandomhouse.com/authors/2049062/owen-wister/",
+      "rule": "UK life plus 70; project cutoff death <=1955"
+    },
+    "my-antonia": {
+      "author_death_year": 1947,
+      "source": "https://www.nps.gov/people/willa-cather.htm",
+      "rule": "UK life plus 70; project cutoff death <=1955"
+    },
+    "o-pioneers": {
+      "author_death_year": 1947,
+      "source": "https://www.nps.gov/people/willa-cather.htm",
+      "rule": "UK life plus 70; project cutoff death <=1955"
+    },
+    "main-travelled-roads": {
+      "author_death_year": 1940,
+      "source": "https://poets.org/poet/hamlin-garland",
+      "rule": "UK life plus 70; project cutoff death <=1955"
+    },
+    "grapes-of-wrath": {
+      "author_death_year": 1968,
+      "source": "https://sjsu.edu/steinbeck/resources/biography/index.php",
+      "rule": "UK life plus 70; project cutoff death <=1955"
+    },
+    "on-the-road": {
+      "author_death_year": 1969,
+      "source": "https://en.wikipedia.org/wiki/Jack_Kerouac",
+      "rule": "UK life plus 70; project cutoff death <=1955"
+    },
+    "travels-with-charley": {
+      "author_death_year": 1968,
+      "source": "https://sjsu.edu/steinbeck/resources/biography/index.php",
+      "rule": "UK life plus 70; project cutoff death <=1955"
+    },
+    "angle-of-repose": {
+      "author_death_year": 1993,
+      "source": "https://en.wikipedia.org/wiki/Wallace_Stegner",
+      "rule": "UK life plus 70; project cutoff death <=1955"
+    }
+  },
+  "canon": {
+    "tier1_authors": [
+      "Mark Twain",
+      "John Steinbeck",
+      "Jack Kerouac",
+      "Willa Cather"
+    ],
+    "tier2_authors": [
+      "Wallace Stegner"
+    ],
+    "outside_canon": {
+      "John Muir": "https://www.nps.gov/jomu/index.htm",
+      "Owen Wister": "https://travelwyoming.com/listing/medicine-bow-museum/735/",
+      "Hamlin Garland": "https://poets.org/poet/hamlin-garland"
+    }
+  },
+  "photos": {
+    "weedpatch-camp": {
+      "file_page": "https://commons.wikimedia.org/wiki/File:2009-0820-WeedpatchCamp-CommunityHall.jpg",
+      "license": "CC BY 3.0",
+      "author": "Bobak Ha’Eri",
+      "verified": "2026-11-09"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+# scratch and caches
+_to_delete/
+cache/
+__pycache__/
+*.pyc
+.DS_Store
+# check outputs
+tools/checks/*.json
+tools/checks/*.log
+/contrast.json
+/contrast_pixels.json
+/wave.json

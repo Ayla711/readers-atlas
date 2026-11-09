@@ -1,0 +1,82 @@
+{
+ "note": "Things on the checklist (tools/canon.json) the user decided to leave out or to handle differently. kind is author, site, link, book or books; name is the name shown in the report (for link and books, the place id).",
+ "example": {
+  "kind": "author",
+  "name": "John Gay",
+  "decision": "skip",
+  "reason": "no UK place in his work worth a marker",
+  "date": "2026-11-05"
+ },
+ "decisions": [
+  {
+   "kind": "books",
+   "name": "st-martins-theatre",
+   "decision": "keep as is",
+   "reason": "the theatre where The Mousetrap has run since 1974; it belongs to that play, not to Christie's other books",
+   "date": "2026-11-05"
+  },
+  {
+   "kind": "books",
+   "name": "elephant-house",
+   "decision": "keep as is",
+   "reason": "the café where Rowling wrote early Harry Potter chapters; linked to the first book only",
+   "date": "2026-11-05"
+  },
+  {
+   "kind": "books",
+   "name": "greyfriars-kirkyard",
+   "decision": "keep as is",
+   "reason": "graves whose names Rowling is said to have borrowed; linked to the books where those characters first appear",
+   "date": "2026-11-05"
+  },
+  {
+   "kind": "books",
+   "name": "talland-house",
+   "decision": "keep as is",
+   "reason": "the Stephens' summer house, behind To the Lighthouse; Mrs Dalloway has nothing to do with it",
+   "date": "2026-11-05"
+  },
+  {
+   "kind": "books",
+   "name": "barnhill-jura",
+   "decision": "keep as is",
+   "reason": "where Orwell finished Nineteen Eighty-Four; Animal Farm was written in London",
+   "date": "2026-11-05"
+  },
+  {
+   "kind": "books",
+   "name": "albion-house",
+   "decision": "keep as is",
+   "reason": "where Shelley wrote The Revolt of Islam and Mary finished Frankenstein; The Mask of Anarchy was written in Italy",
+   "date": "2026-11-05"
+  },
+  {
+   "kind": "author",
+   "name": "Richard Brinsley Sheridan",
+   "decision": "skip",
+   "reason": "buried in Poets' Corner, but his plays give the map little to point at; user decided 11-05",
+   "date": "2026-11-05"
+  },
+  {
+   "kind": "author",
+   "name": "John Gay",
+   "decision": "skip",
+   "reason": "buried in Poets' Corner, but little tie to a UK place worth a marker; user decided 11-05",
+   "date": "2026-11-05"
+  },
+  {
+   "kind": "author",
+   "name": "John Masefield",
+   "decision": "skip",
+   "reason": "buried in Poets' Corner, but little tie to a UK place worth a marker; user decided 11-05",
+   "date": "2026-11-05"
+  },
+  {
+   "kind": "site",
+   "name": "Roald Dahl Plass and the Norwegian Church, Cardiff Bay",
+   "decision": "covered elsewhere",
+   "reason": "Dahl's Cardiff childhood is on the map through the Llandaff sweet shop from Boy; the museum in Great Missenden is his main site",
+   "date": "2026-11-05"
+  }
+ ]
+}

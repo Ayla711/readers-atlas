@@ -1,0 +1,2537 @@
+{
+ "note": "Outside checklist for tools/check_coverage.js. Built by build_canon.py from the sources below; do not add entries from memory without marking them.",
+ "checked": "2026-11-09",
+ "sources": {
+  "PC": [
+   "Poets' Corner, Westminster Abbey (Wikipedia)",
+   "https://en.wikipedia.org/wiki/Poets%27_Corner"
+  ],
+  "WH": [
+   "Writer's home (Wikipedia)",
+   "https://en.wikipedia.org/wiki/Writer%27s_home"
+  ],
+  "ST": [
+   "Historic writers' houses you can visit in England (Slow Travel UK)",
+   "https://www.slow-travel.uk/post/historic-writers-houses-you-can-visit-in-england"
+  ],
+  "SC": [
+   "Language & literature museums in Scotland (Which Museum)",
+   "https://whichmuseum.co.uk/place/scotland-6/t-language-literature"
+  ],
+  "WA": [
+   "Welsh writing spots (Visit Wales)",
+   "https://www.visitwales.com/explore/literature/welsh-writing-spots"
+  ],
+  "NI": [
+   "A book lover's guide to Northern Ireland (Discover Northern Ireland)",
+   "https://discovernorthernireland.com/blog/post/a-book-lovers-guide-to-northern-ireland/"
+  ],
+  "BR": [
+   "BBC Big Read top 100, 2003",
+   "https://www.nicholaswhyte.info/100books/bbcbigread.htm"
+  ],
+  "LG": [
+   "Legends and medieval anonymous works set in Britain (the Matter of Britain and after): compiled 2026-11-09 after the user found the Arthurian legend missing; the published lists above are author- and bestseller-based and never reach anonymous or legendary material",
+   "https://en.wikipedia.org/wiki/Matter_of_Britain"
+  ],
+  "FV": [
+   "Foreign-language works about Britain: shortlist compiled 2026-11-09 from the chat (famous works, any genre, that name real British places), ranked by the user; the five tier-1 titles were the user's pick",
+   "docs/week1-uk-spec.md 6.4.1"
+  ]
+ },
+ "authors": [
+  {
+   "name": "A. A. Milne",
+   "tier": 1
+  },
+  {
+   "name": "Agatha Christie",
+   "tier": 1
+  },
+  {
+   "name": "Alexandre Dumas",
+   "tier": 1
+  },
+  {
+   "name": "Alfred, Lord Tennyson",
+   "tier": 1
+  },
+  {
+   "name": "Anne Brontë",
+   "tier": 1
+  },
+  {
+   "name": "Anonymous (the Gawain Poet)",
+   "tier": 1
+  },
+  {
+   "name": "Beatrix Potter",
+   "tier": 1
+  },
+  {
+   "name": "C. S. Lewis",
+   "tier": 1
+  },
+  {
+   "name": "Charles Dickens",
+   "tier": 1
+  },
+  {
+   "name": "Charlotte Brontë",
+   "tier": 1
+  },
+  {
+   "name": "D. H. Lawrence",
+   "tier": 1
+  },
+  {
+   "name": "Daphne du Maurier",
+   "tier": 1
+  },
+  {
+   "name": "Dylan Thomas",
+   "tier": 1
+  },
+  {
+   "name": "Edmund Spenser",
+   "tier": 1
+  },
+  {
+   "name": "Elizabeth Gaskell",
+   "tier": 1
+  },
+  {
+   "name": "Emily Brontë",
+   "tier": 1
+  },
+  {
+   "name": "Evelyn Waugh",
+   "tier": 1
+  },
+  {
+   "name": "Geoffrey Chaucer",
+   "tier": 1
+  },
+  {
+   "name": "George Eliot",
+   "tier": 1
+  },
+  {
+   "name": "George Orwell",
+   "tier": 1
+  },
+  {
+   "name": "Hedd Wyn",
+   "tier": 1
+  },
+  {
+   "name": "Howard Pyle",
+   "tier": 1
+  },
+  {
+   "name": "J. K. Rowling",
+   "tier": 1
+  },
+  {
+   "name": "J. M. Barrie",
+   "tier": 1
+  },
+  {
+   "name": "J. R. R. Tolkien",
+   "tier": 1
+  },
+  {
+   "name": "James Herriot",
+   "tier": 1
+  },
+  {
+   "name": "Jane Austen",
+   "tier": 1
+  },
+  {
+   "name": "John Clare",
+   "tier": 1
+  },
+  {
+   "name": "John Dryden",
+   "tier": 1
+  },
+  {
+   "name": "John Gay",
+   "tier": 1
+  },
+  {
+   "name": "John Keats",
+   "tier": 1
+  },
+  {
+   "name": "John Masefield",
+   "tier": 1
+  },
+  {
+   "name": "John Milton",
+   "tier": 1
+  },
+  {
+   "name": "Jules Verne",
+   "tier": 1
+  },
+  {
+   "name": "Julius Caesar",
+   "tier": 1
+  },
+  {
+   "name": "Kenneth Grahame",
+   "tier": 1
+  },
+  {
+   "name": "Laurence Sterne",
+   "tier": 1
+  },
+  {
+   "name": "Lewis Carroll",
+   "tier": 1
+  },
+  {
+   "name": "Lord Byron",
+   "tier": 1
+  },
+  {
+   "name": "Philip Pullman",
+   "tier": 1
+  },
+  {
+   "name": "Richard Adams",
+   "tier": 1
+  },
+  {
+   "name": "Richard Brinsley Sheridan",
+   "tier": 1
+  },
+  {
+   "name": "Roald Dahl",
+   "tier": 1
+  },
+  {
+   "name": "Robert Browning",
+   "tier": 1
+  },
+  {
+   "name": "Robert Burns",
+   "tier": 1
+  },
+  {
+   "name": "Robert Louis Stevenson",
+   "tier": 1
+  },
+  {
+   "name": "Rudyard Kipling",
+   "tier": 1
+  },
+  {
+   "name": "Samuel Johnson",
+   "tier": 1
+  },
+  {
+   "name": "Samuel Taylor Coleridge",
+   "tier": 1
+  },
+  {
+   "name": "Seamus Heaney",
+   "tier": 1
+  },
+  {
+   "name": "T. H. White",
+   "tier": 1
+  },
+  {
+   "name": "Thomas Carlyle",
+   "tier": 1
+  },
+  {
+   "name": "Thomas Hardy",
+   "tier": 1
+  },
+  {
+   "name": "Thomas Malory",
+   "tier": 1
+  },
+  {
+   "name": "Victor Hugo",
+   "tier": 1
+  },
+  {
+   "name": "Virginia Woolf",
+   "tier": 1
+  },
+  {
+   "name": "Wace",
+   "tier": 1
+  },
+  {
+   "name": "Walter Scott",
+   "tier": 1
+  },
+  {
+   "name": "William Cowper",
+   "tier": 1
+  },
+  {
+   "name": "William Shakespeare",
+   "tier": 1
+  },
+  {
+   "name": "William Wordsworth",
+   "tier": 1
+  },
+  {
+   "name": "Yana Toboso",
+   "tier": 1
+  },
+  {
+   "name": "A. E. Housman",
+   "tier": 2
+  },
+  {
+   "name": "Abraham Cowley",
+   "tier": 2
+  },
+  {
+   "name": "Aldous Huxley",
+   "tier": 2
+  },
+  {
+   "name": "Alexander Herzen",
+   "tier": 2
+  },
+  {
+   "name": "Alexander Pope",
+   "tier": 2
+  },
+  {
+   "name": "Anna Sewell",
+   "tier": 2
+  },
+  {
+   "name": "Anne Lister",
+   "tier": 2
+  },
+  {
+   "name": "Anonymous (Anglo-Saxon Chronicle)",
+   "tier": 2
+  },
+  {
+   "name": "Anonymous (Welsh)",
+   "tier": 2
+  },
+  {
+   "name": "Anthony Trollope",
+   "tier": 2
+  },
+  {
+   "name": "Anya Seton",
+   "tier": 2
+  },
+  {
+   "name": "Arthur Ransome",
+   "tier": 2
+  },
+  {
+   "name": "Bede",
+   "tier": 2
+  },
+  {
+   "name": "Ben Jonson",
+   "tier": 2
+  },
+  {
+   "name": "Charles Kingsley",
+   "tier": 2
+  },
+  {
+   "name": "Christopher Marlowe",
+   "tier": 2
+  },
+  {
+   "name": "Dodie Smith",
+   "tier": 2
+  },
+  {
+   "name": "Douglas Adams",
+   "tier": 2
+  },
+  {
+   "name": "Edward Lear",
+   "tier": 2
+  },
+  {
+   "name": "Edward Thomas",
+   "tier": 2
+  },
+  {
+   "name": "Elizabeth Barrett Browning",
+   "tier": 2
+  },
+  {
+   "name": "Enid Blyton",
+   "tier": 2
+  },
+  {
+   "name": "Erasmus",
+   "tier": 2
+  },
+  {
+   "name": "Fanny Burney",
+   "tier": 2
+  },
+  {
+   "name": "Frances Hodgson Burnett",
+   "tier": 2
+  },
+  {
+   "name": "Francis Beaumont",
+   "tier": 2
+  },
+  {
+   "name": "Fyodor Dostoevsky",
+   "tier": 2
+  },
+  {
+   "name": "Geoffrey of Monmouth",
+   "tier": 2
+  },
+  {
+   "name": "George Bernard Shaw",
+   "tier": 2
+  },
+  {
+   "name": "Gerard Manley Hopkins",
+   "tier": 2
+  },
+  {
+   "name": "Gilbert White",
+   "tier": 2
+  },
+  {
+   "name": "Gottfried von Strassburg",
+   "tier": 2
+  },
+  {
+   "name": "Hans Christian Andersen",
+   "tier": 2
+  },
+  {
+   "name": "Heinrich Heine",
+   "tier": 2
+  },
+  {
+   "name": "Helen Fielding",
+   "tier": 2
+  },
+  {
+   "name": "Henry James",
+   "tier": 2
+  },
+  {
+   "name": "Horace Walpole",
+   "tier": 2
+  },
+  {
+   "name": "Izaak Walton",
+   "tier": 2
+  },
+  {
+   "name": "Jean Froissart",
+   "tier": 2
+  },
+  {
+   "name": "John Betjeman",
+   "tier": 2
+  },
+  {
+   "name": "John Ruskin",
+   "tier": 2
+  },
+  {
+   "name": "Kaoru Mori",
+   "tier": 2
+  },
+  {
+   "name": "Karel Čapek",
+   "tier": 2
+  },
+  {
+   "name": "Ken Follett",
+   "tier": 2
+  },
+  {
+   "name": "Layamon",
+   "tier": 2
+  },
+  {
+   "name": "Marie de France",
+   "tier": 2
+  },
+  {
+   "name": "Matthew Arnold",
+   "tier": 2
+  },
+  {
+   "name": "Matthew Prior",
+   "tier": 2
+  },
+  {
+   "name": "Michelle Magorian",
+   "tier": 2
+  },
+  {
+   "name": "Miguel de Cervantes",
+   "tier": 2
+  },
+  {
+   "name": "Natsume Sōseki",
+   "tier": 2
+  },
+  {
+   "name": "Neil M. Gunn",
+   "tier": 2
+  },
+  {
+   "name": "Oliver Goldsmith",
+   "tier": 2
+  },
+  {
+   "name": "Oscar Wilde",
+   "tier": 2
+  },
+  {
+   "name": "Percy Bysshe Shelley",
+   "tier": 2
+  },
+  {
+   "name": "Philip Larkin",
+   "tier": 2
+  },
+  {
+   "name": "Philip Sidney",
+   "tier": 2
+  },
+  {
+   "name": "R. S. Thomas",
+   "tier": 2
+  },
+  {
+   "name": "Rabindranath Tagore",
+   "tier": 2
+  },
+  {
+   "name": "Richard Jefferies",
+   "tier": 2
+  },
+  {
+   "name": "Robert Graves",
+   "tier": 2
+  },
+  {
+   "name": "Robert Herrick",
+   "tier": 2
+  },
+  {
+   "name": "Robert Southey",
+   "tier": 2
+  },
+  {
+   "name": "Robert Tressell",
+   "tier": 2
+  },
+  {
+   "name": "Rosamunde Pilcher",
+   "tier": 2
+  },
+  {
+   "name": "Rupert Brooke",
+   "tier": 2
+  },
+  {
+   "name": "Siegfried Sassoon",
+   "tier": 2
+  },
+  {
+   "name": "Stefan Zweig",
+   "tier": 2
+  },
+  {
+   "name": "Stella Gibbons",
+   "tier": 2
+  },
+  {
+   "name": "T. E. Lawrence",
+   "tier": 2
+  },
+  {
+   "name": "T. S. Eliot",
+   "tier": 2
+  },
+  {
+   "name": "Tacitus",
+   "tier": 2
+  },
+  {
+   "name": "Ted Hughes",
+   "tier": 2
+  },
+  {
+   "name": "Terry Pratchett",
+   "tier": 2
+  },
+  {
+   "name": "Theodor Fontane",
+   "tier": 2
+  },
+  {
+   "name": "Thomas Gray",
+   "tier": 2
+  },
+  {
+   "name": "Thomas Macaulay",
+   "tier": 2
+  },
+  {
+   "name": "Vita Sackville-West",
+   "tier": 2
+  },
+  {
+   "name": "Voltaire",
+   "tier": 2
+  },
+  {
+   "name": "W. H. Auden",
+   "tier": 2
+  },
+  {
+   "name": "Wilfred Owen",
+   "tier": 2
+  },
+  {
+   "name": "Wilkie Collins",
+   "tier": 2
+  },
+  {
+   "name": "William Blake",
+   "tier": 2
+  },
+  {
+   "name": "William Langland",
+   "tier": 2
+  },
+  {
+   "name": "William Makepeace Thackeray",
+   "tier": 2
+  },
+  {
+   "name": "William Morris",
+   "tier": 2
+  },
+  {
+   "name": "Xiao Qian",
+   "tier": 2
+  }
+ ],
+ "sites": [
+  {
+   "name": "Poets' Corner, Westminster Abbey",
+   "name_zh": "西敏寺诗人角",
+   "authors": [
+    "Geoffrey Chaucer",
+    "Edmund Spenser",
+    "John Dryden",
+    "Robert Browning",
+    "Alfred, Lord Tennyson",
+    "Charles Dickens",
+    "Thomas Hardy",
+    "Samuel Johnson",
+    "Rudyard Kipling",
+    "Richard Brinsley Sheridan",
+    "John Gay",
+    "John Masefield",
+    "Francis Beaumont",
+    "Abraham Cowley",
+    "Matthew Prior",
+    "Thomas Macaulay",
+    "Joseph Addison",
+    "Matthew Arnold",
+    "Jane Austen",
+    "W. H. Auden",
+    "John Betjeman",
+    "William Blake",
+    "Charlotte Brontë",
+    "Anne Brontë",
+    "Emily Brontë",
+    "Elizabeth Barrett Browning",
+    "Fanny Burney",
+    "Robert Burns",
+    "Samuel Butler",
+    "Lord Byron",
+    "Lewis Carroll",
+    "John Clare",
+    "Samuel Taylor Coleridge",
+    "George Eliot",
+    "T. S. Eliot",
+    "Elizabeth Gaskell",
+    "Oliver Goldsmith",
+    "Thomas Gray",
+    "Robert Herrick",
+    "Gerard Manley Hopkins",
+    "A. E. Housman",
+    "Ted Hughes",
+    "Henry James",
+    "Ben Jonson",
+    "John Keats",
+    "Charles Kingsley",
+    "Philip Larkin",
+    "D. H. Lawrence",
+    "Edward Lear",
+    "C. S. Lewis",
+    "Christopher Marlowe",
+    "John Milton",
+    "Alexander Pope",
+    "John Ruskin",
+    "Walter Scott",
+    "William Shakespeare",
+    "Percy Bysshe Shelley",
+    "Robert Southey",
+    "William Makepeace Thackeray",
+    "James Thomson",
+    "Dylan Thomas",
+    "Anthony Trollope",
+    "Oscar Wilde",
+    "William Wordsworth",
+    "Rupert Brooke",
+    "Robert Graves",
+    "Ivor Gurney",
+    "Wilfred Owen",
+    "Isaac Rosenberg",
+    "Siegfried Sassoon",
+    "Edward Thomas",
+    "Laurence Binyon",
+    "Edmund Blunden"
+   ],
+   "src": [
+    "PC"
+   ],
+   "ids": [
+    "poets-corner"
+   ],
+   "names": [],
+   "tier": 1
+  },
+  {
+   "name": "Brontë Parsonage Museum, Haworth",
+   "name_zh": null,
+   "authors": [
+    "Charlotte Brontë",
+    "Emily Brontë",
+    "Anne Brontë"
+   ],
+   "src": [
+    "WH",
+    "ST"
+   ],
+   "ids": [
+    "bronte-parsonage"
+   ],
+   "names": [],
+   "tier": 1
+  },
+  {
+   "name": "Jane Austen's House, Chawton",
+   "name_zh": null,
+   "authors": [
+    "Jane Austen"
+   ],
+   "src": [
+    "WH",
+    "ST"
+   ],
+   "ids": [
+    "chawton"
+   ],
+   "names": [],
+   "tier": 1
+  },
+  {
+   "name": "Newstead Abbey",
+   "name_zh": null,
+   "authors": [
+    "Lord Byron"
+   ],
+   "src": [
+    "WH",
+    "ST"
+   ],
+   "ids": [
+    "newstead-abbey"
+   ],
+   "names": [],
+   "tier": 1
+  },
+  {
+   "name": "Carlyle's House, Chelsea",
+   "name_zh": null,
+   "authors": [
+    "Thomas Carlyle"
+   ],
+   "src": [
+    "WH",
+    "ST"
+   ],
+   "ids": [],
+   "names": [
+    "Carlyle"
+   ],
+   "tier": 1
+  },
+  {
+   "name": "Greenway",
+   "name_zh": null,
+   "authors": [
+    "Agatha Christie"
+   ],
+   "src": [
+    "WH",
+    "ST"
+   ],
+   "ids": [
+    "greenway"
+   ],
+   "names": [],
+   "tier": 1
+  },
+  {
+   "name": "John Clare Cottage, Helpston",
+   "name_zh": null,
+   "authors": [
+    "John Clare"
+   ],
+   "src": [
+    "WH",
+    "ST"
+   ],
+   "ids": [],
+   "names": [
+    "Clare Cottage",
+    "Helpston"
+   ],
+   "tier": 1
+  },
+  {
+   "name": "Coleridge Cottage, Nether Stowey",
+   "name_zh": null,
+   "authors": [
+    "Samuel Taylor Coleridge"
+   ],
+   "src": [
+    "WH",
+    "ST"
+   ],
+   "ids": [],
+   "names": [
+    "Coleridge",
+    "Nether Stowey"
+   ],
+   "tier": 1
+  },
+  {
+   "name": "Cowper and Newton Museum, Olney",
+   "name_zh": null,
+   "authors": [
+    "William Cowper"
+   ],
+   "src": [
+    "WH"
+   ],
+   "ids": [],
+   "names": [
+    "Cowper",
+    "Olney"
+   ],
+   "tier": 1
+  },
+  {
+   "name": "Charles Dickens Museum, Doughty Street",
+   "name_zh": null,
+   "authors": [
+    "Charles Dickens"
+   ],
+   "src": [
+    "WH",
+    "ST"
+   ],
+   "ids": [
+    "dickens-museum"
+   ],
+   "names": [],
+   "tier": 1
+  },
+  {
+   "name": "Charles Dickens Birthplace Museum, Portsmouth",
+   "name_zh": null,
+   "authors": [
+    "Charles Dickens"
+   ],
+   "src": [
+    "ST"
+   ],
+   "ids": [],
+   "names": [
+    "Dickens Birthplace",
+    "Portsmouth"
+   ],
+   "tier": 1
+  },
+  {
+   "name": "Elizabeth Gaskell's House, Manchester",
+   "name_zh": null,
+   "authors": [
+    "Elizabeth Gaskell"
+   ],
+   "src": [
+    "WH",
+    "ST"
+   ],
+   "ids": [
+    "gaskell-house"
+   ],
+   "names": [],
+   "tier": 1
+  },
+  {
+   "name": "Hardy's Cottage, Higher Bockhampton",
+   "name_zh": null,
+   "authors": [
+    "Thomas Hardy"
+   ],
+   "src": [
+    "WH",
+    "ST"
+   ],
+   "ids": [
+    "hardys-cottage"
+   ],
+   "names": [],
+   "tier": 1
+  },
+  {
+   "name": "Max Gate, Dorchester",
+   "name_zh": null,
+   "authors": [
+    "Thomas Hardy"
+   ],
+   "src": [
+    "WH",
+    "ST"
+   ],
+   "ids": [],
+   "names": [
+    "Max Gate"
+   ],
+   "tier": 1
+  },
+  {
+   "name": "World of James Herriot, Thirsk",
+   "name_zh": null,
+   "authors": [
+    "James Herriot"
+   ],
+   "src": [
+    "WH",
+    "ST"
+   ],
+   "ids": [],
+   "names": [
+    "Herriot",
+    "Thirsk"
+   ],
+   "tier": 1
+  },
+  {
+   "name": "Dr Johnson's House, Gough Square",
+   "name_zh": null,
+   "authors": [
+    "Samuel Johnson"
+   ],
+   "src": [
+    "WH",
+    "ST"
+   ],
+   "ids": [
+    "dr-johnsons-house"
+   ],
+   "names": [],
+   "tier": 1
+  },
+  {
+   "name": "Samuel Johnson Birthplace Museum, Lichfield",
+   "name_zh": null,
+   "authors": [
+    "Samuel Johnson"
+   ],
+   "src": [
+    "WH"
+   ],
+   "ids": [],
+   "names": [
+    "Lichfield"
+   ],
+   "tier": 1
+  },
+  {
+   "name": "Keats House, Hampstead",
+   "name_zh": null,
+   "authors": [
+    "John Keats"
+   ],
+   "src": [
+    "WH",
+    "ST"
+   ],
+   "ids": [
+    "keats-house"
+   ],
+   "names": [],
+   "tier": 1
+  },
+  {
+   "name": "Bateman's, Burwash",
+   "name_zh": null,
+   "authors": [
+    "Rudyard Kipling"
+   ],
+   "src": [
+    "WH",
+    "ST"
+   ],
+   "ids": [],
+   "names": [
+    "Bateman"
+   ],
+   "tier": 1
+  },
+  {
+   "name": "Clouds Hill",
+   "name_zh": null,
+   "authors": [
+    "T. E. Lawrence"
+   ],
+   "src": [
+    "WH",
+    "ST"
+   ],
+   "ids": [],
+   "names": [
+    "Clouds Hill"
+   ],
+   "tier": 2
+  },
+  {
+   "name": "Milton's Cottage, Chalfont St Giles",
+   "name_zh": null,
+   "authors": [
+    "John Milton"
+   ],
+   "src": [
+    "WH",
+    "ST"
+   ],
+   "ids": [],
+   "names": [
+    "Milton's Cottage",
+    "Chalfont"
+   ],
+   "tier": 1
+  },
+  {
+   "name": "Shakespeare's Birthplace, Stratford-upon-Avon",
+   "name_zh": null,
+   "authors": [
+    "William Shakespeare"
+   ],
+   "src": [
+    "WH",
+    "ST"
+   ],
+   "ids": [
+    "shakespeare-birthplace"
+   ],
+   "names": [],
+   "tier": 1
+  },
+  {
+   "name": "Shandy Hall, Coxwold",
+   "name_zh": null,
+   "authors": [
+    "Laurence Sterne"
+   ],
+   "src": [
+    "WH"
+   ],
+   "ids": [],
+   "names": [
+    "Shandy Hall",
+    "Coxwold"
+   ],
+   "tier": 1
+  },
+  {
+   "name": "Farringford, Isle of Wight",
+   "name_zh": null,
+   "authors": [
+    "Alfred, Lord Tennyson"
+   ],
+   "src": [
+    "WH"
+   ],
+   "ids": [],
+   "names": [
+    "Farringford"
+   ],
+   "tier": 1
+  },
+  {
+   "name": "Strawberry Hill House, Twickenham",
+   "name_zh": null,
+   "authors": [
+    "Horace Walpole"
+   ],
+   "src": [
+    "WH",
+    "ST"
+   ],
+   "ids": [],
+   "names": [
+    "Strawberry Hill"
+   ],
+   "tier": 2
+  },
+  {
+   "name": "Monk's House, Rodmell",
+   "name_zh": null,
+   "authors": [
+    "Virginia Woolf"
+   ],
+   "src": [
+    "WH",
+    "ST"
+   ],
+   "ids": [
+    "monks-house"
+   ],
+   "names": [],
+   "tier": 1
+  },
+  {
+   "name": "Dove Cottage, Grasmere",
+   "name_zh": null,
+   "authors": [
+    "William Wordsworth"
+   ],
+   "src": [
+    "WH",
+    "ST"
+   ],
+   "ids": [
+    "dove-cottage"
+   ],
+   "names": [],
+   "tier": 1
+  },
+  {
+   "name": "Rydal Mount",
+   "name_zh": null,
+   "authors": [
+    "William Wordsworth"
+   ],
+   "src": [
+    "WH",
+    "ST"
+   ],
+   "ids": [],
+   "names": [
+    "Rydal"
+   ],
+   "tier": 1
+  },
+  {
+   "name": "Hill Top, Near Sawrey",
+   "name_zh": null,
+   "authors": [
+    "Beatrix Potter"
+   ],
+   "src": [
+    "WH",
+    "ST"
+   ],
+   "ids": [
+    "hill-top-sawrey"
+   ],
+   "names": [],
+   "tier": 1
+  },
+  {
+   "name": "D. H. Lawrence Birthplace Museum, Eastwood",
+   "name_zh": null,
+   "authors": [
+    "D. H. Lawrence"
+   ],
+   "src": [
+    "ST"
+   ],
+   "ids": [
+    "lawrence-birthplace"
+   ],
+   "names": [],
+   "tier": 1
+  },
+  {
+   "name": "Shaw's Corner, Ayot St Lawrence",
+   "name_zh": null,
+   "authors": [
+    "George Bernard Shaw"
+   ],
+   "src": [
+    "ST"
+   ],
+   "ids": [],
+   "names": [
+    "Shaw's Corner"
+   ],
+   "tier": 2
+  },
+  {
+   "name": "Gilbert White's House, Selborne",
+   "name_zh": null,
+   "authors": [
+    "Gilbert White"
+   ],
+   "src": [
+    "ST"
+   ],
+   "ids": [],
+   "names": [
+    "Selborne"
+   ],
+   "tier": 2
+  },
+  {
+   "name": "Knole",
+   "name_zh": null,
+   "authors": [
+    "Vita Sackville-West",
+    "Virginia Woolf"
+   ],
+   "src": [
+    "ST"
+   ],
+   "ids": [],
+   "names": [
+    "Knole"
+   ],
+   "tier": 2
+  },
+  {
+   "name": "Izaak Walton's Cottage, Shallowford",
+   "name_zh": null,
+   "authors": [
+    "Izaak Walton"
+   ],
+   "src": [
+    "ST"
+   ],
+   "ids": [],
+   "names": [
+    "Walton"
+   ],
+   "tier": 2
+  },
+  {
+   "name": "Shibden Hall, Halifax",
+   "name_zh": null,
+   "authors": [
+    "Anne Lister"
+   ],
+   "src": [
+    "ST"
+   ],
+   "ids": [],
+   "names": [
+    "Shibden"
+   ],
+   "tier": 2
+  },
+  {
+   "name": "Richard Jefferies Museum, Swindon",
+   "name_zh": null,
+   "authors": [
+    "Richard Jefferies"
+   ],
+   "src": [
+    "ST"
+   ],
+   "ids": [],
+   "names": [
+    "Jefferies"
+   ],
+   "tier": 2
+  },
+  {
+   "name": "Lamb House, Rye",
+   "name_zh": null,
+   "authors": [
+    "Henry James"
+   ],
+   "src": [
+    "ST"
+   ],
+   "ids": [],
+   "names": [
+    "Lamb House"
+   ],
+   "tier": 2
+  },
+  {
+   "name": "Penshurst Place",
+   "name_zh": null,
+   "authors": [
+    "Philip Sidney"
+   ],
+   "src": [
+    "ST"
+   ],
+   "ids": [],
+   "names": [
+    "Penshurst"
+   ],
+   "tier": 2
+  },
+  {
+   "name": "Kelmscott Manor",
+   "name_zh": null,
+   "authors": [
+    "William Morris"
+   ],
+   "src": [
+    "ST"
+   ],
+   "ids": [],
+   "names": [
+    "Kelmscott"
+   ],
+   "tier": 2
+  },
+  {
+   "name": "Burns Cottage, Alloway",
+   "name_zh": null,
+   "authors": [
+    "Robert Burns"
+   ],
+   "src": [
+    "WH",
+    "SC"
+   ],
+   "ids": [
+    "burns-cottage"
+   ],
+   "names": [],
+   "tier": 1
+  },
+  {
+   "name": "Burns House, Dumfries",
+   "name_zh": null,
+   "authors": [
+    "Robert Burns"
+   ],
+   "src": [
+    "SC"
+   ],
+   "ids": [],
+   "names": [
+    "Dumfries"
+   ],
+   "tier": 1
+  },
+  {
+   "name": "Abbotsford, Melrose",
+   "name_zh": null,
+   "authors": [
+    "Walter Scott"
+   ],
+   "src": [
+    "WH",
+    "SC"
+   ],
+   "ids": [
+    "abbotsford"
+   ],
+   "names": [],
+   "tier": 1
+  },
+  {
+   "name": "Writers' Museum, Edinburgh",
+   "name_zh": null,
+   "authors": [
+    "Robert Burns",
+    "Walter Scott",
+    "Robert Louis Stevenson"
+   ],
+   "src": [
+    "SC"
+   ],
+   "ids": [
+    "writers-museum"
+   ],
+   "names": [],
+   "tier": 1
+  },
+  {
+   "name": "J. M. Barrie's Birthplace, Kirriemuir",
+   "name_zh": null,
+   "authors": [
+    "J. M. Barrie"
+   ],
+   "src": [
+    "SC"
+   ],
+   "ids": [],
+   "names": [
+    "Kirriemuir",
+    "Barrie's Birthplace"
+   ],
+   "tier": 1
+  },
+  {
+   "name": "Dunbeath Heritage Centre",
+   "name_zh": null,
+   "authors": [
+    "Neil M. Gunn"
+   ],
+   "src": [
+    "SC"
+   ],
+   "ids": [],
+   "names": [
+    "Dunbeath"
+   ],
+   "tier": 2
+  },
+  {
+   "name": "Dylan Thomas Boathouse, Laugharne",
+   "name_zh": null,
+   "authors": [
+    "Dylan Thomas"
+   ],
+   "src": [
+    "WH",
+    "WA"
+   ],
+   "ids": [
+    "dylan-thomas-boathouse"
+   ],
+   "names": [],
+   "tier": 1
+  },
+  {
+   "name": "Dylan Thomas Birthplace, 5 Cwmdonkin Drive, Swansea",
+   "name_zh": null,
+   "authors": [
+    "Dylan Thomas"
+   ],
+   "src": [
+    "WA"
+   ],
+   "ids": [],
+   "names": [
+    "Cwmdonkin",
+    "Swansea"
+   ],
+   "tier": 1
+  },
+  {
+   "name": "Yr Ysgwrn, Trawsfynydd",
+   "name_zh": null,
+   "authors": [
+    "Hedd Wyn"
+   ],
+   "src": [
+    "WH"
+   ],
+   "ids": [],
+   "names": [
+    "Ysgwrn",
+    "Trawsfynydd"
+   ],
+   "tier": 1
+  },
+  {
+   "name": "Plas yn Rhiw",
+   "name_zh": null,
+   "authors": [
+    "R. S. Thomas"
+   ],
+   "src": [
+    "WA"
+   ],
+   "ids": [],
+   "names": [
+    "Plas yn Rhiw"
+   ],
+   "tier": 2
+  },
+  {
+   "name": "Roald Dahl Plass and the Norwegian Church, Cardiff Bay",
+   "name_zh": null,
+   "authors": [
+    "Roald Dahl"
+   ],
+   "src": [
+    "WA"
+   ],
+   "ids": [],
+   "names": [
+    "Norwegian Church"
+   ],
+   "tier": 1
+  },
+  {
+   "name": "Alice Town Trail, Llandudno",
+   "name_zh": null,
+   "authors": [
+    "Lewis Carroll"
+   ],
+   "src": [
+    "WA"
+   ],
+   "ids": [],
+   "names": [
+    "Llandudno"
+   ],
+   "tier": 2
+  },
+  {
+   "name": "Plas Tan yr Allt, Porthmadog",
+   "name_zh": null,
+   "authors": [
+    "Percy Bysshe Shelley"
+   ],
+   "src": [
+    "WA"
+   ],
+   "ids": [],
+   "names": [
+    "Tan yr Allt",
+    "Tan-yr-Allt"
+   ],
+   "tier": 2
+  },
+  {
+   "name": "Seamus Heaney HomePlace, Bellaghy",
+   "name_zh": null,
+   "authors": [
+    "Seamus Heaney"
+   ],
+   "src": [
+    "NI"
+   ],
+   "ids": [],
+   "names": [
+    "Heaney",
+    "Bellaghy"
+   ],
+   "tier": 1
+  },
+  {
+   "name": "C. S. Lewis Square, Belfast",
+   "name_zh": null,
+   "authors": [
+    "C. S. Lewis"
+   ],
+   "src": [
+    "NI"
+   ],
+   "ids": [],
+   "names": [
+    "C. S. Lewis Square",
+    "C.S. Lewis Square",
+    "Dundela"
+   ],
+   "tier": 1
+  },
+  {
+   "name": "Kilbroney Park, Rostrevor",
+   "name_zh": null,
+   "authors": [
+    "C. S. Lewis"
+   ],
+   "src": [
+    "NI"
+   ],
+   "ids": [
+    "rostrevor"
+   ],
+   "names": [],
+   "tier": 1
+  }
+ ],
+ "big_read": [
+  {
+   "rank": 1,
+   "title": "The Lord of the Rings",
+   "author": "J. R. R. Tolkien",
+   "also": [],
+   "tier": 1,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 2,
+   "title": "Pride and Prejudice",
+   "author": "Jane Austen",
+   "also": [],
+   "tier": 1,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 3,
+   "title": "His Dark Materials",
+   "author": "Philip Pullman",
+   "also": [
+    "Northern Lights",
+    "The Amber Spyglass",
+    "The Subtle Knife"
+   ],
+   "tier": 1,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 4,
+   "title": "The Hitchhiker's Guide to the Galaxy",
+   "author": "Douglas Adams",
+   "also": [],
+   "tier": 2,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 5,
+   "title": "Harry Potter and the Goblet of Fire",
+   "author": "J. K. Rowling",
+   "also": [],
+   "tier": 1,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 7,
+   "title": "Winnie-the-Pooh",
+   "author": "A. A. Milne",
+   "also": [],
+   "tier": 1,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 8,
+   "title": "Nineteen Eighty-Four",
+   "author": "George Orwell",
+   "also": [
+    "1984"
+   ],
+   "tier": 1,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 9,
+   "title": "The Lion, the Witch and the Wardrobe",
+   "author": "C. S. Lewis",
+   "also": [],
+   "tier": 1,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 10,
+   "title": "Jane Eyre",
+   "author": "Charlotte Brontë",
+   "also": [],
+   "tier": 1,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 12,
+   "title": "Wuthering Heights",
+   "author": "Emily Brontë",
+   "also": [],
+   "tier": 1,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 14,
+   "title": "Rebecca",
+   "author": "Daphne du Maurier",
+   "also": [],
+   "tier": 1,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 16,
+   "title": "The Wind in the Willows",
+   "author": "Kenneth Grahame",
+   "also": [],
+   "tier": 1,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 17,
+   "title": "Great Expectations",
+   "author": "Charles Dickens",
+   "also": [],
+   "tier": 1,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 22,
+   "title": "Harry Potter and the Philosopher's Stone",
+   "author": "J. K. Rowling",
+   "also": [],
+   "tier": 1,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 23,
+   "title": "Harry Potter and the Chamber of Secrets",
+   "author": "J. K. Rowling",
+   "also": [],
+   "tier": 1,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 24,
+   "title": "Harry Potter and the Prisoner of Azkaban",
+   "author": "J. K. Rowling",
+   "also": [],
+   "tier": 1,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 25,
+   "title": "The Hobbit",
+   "author": "J. R. R. Tolkien",
+   "also": [],
+   "tier": 1,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 26,
+   "title": "Tess of the d'Urbervilles",
+   "author": "Thomas Hardy",
+   "also": [],
+   "tier": 1,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 28,
+   "title": "Middlemarch",
+   "author": "George Eliot",
+   "also": [],
+   "tier": 1,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 30,
+   "title": "Alice's Adventures in Wonderland",
+   "author": "Lewis Carroll",
+   "also": [],
+   "tier": 1,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 33,
+   "title": "The Pillars of the Earth",
+   "author": "Ken Follett",
+   "also": [],
+   "tier": 2,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 34,
+   "title": "David Copperfield",
+   "author": "Charles Dickens",
+   "also": [],
+   "tier": 1,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 35,
+   "title": "Charlie and the Chocolate Factory",
+   "author": "Roald Dahl",
+   "also": [],
+   "tier": 2,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 36,
+   "title": "Treasure Island",
+   "author": "Robert Louis Stevenson",
+   "also": [],
+   "tier": 1,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 38,
+   "title": "Persuasion",
+   "author": "Jane Austen",
+   "also": [],
+   "tier": 1,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 40,
+   "title": "Emma",
+   "author": "Jane Austen",
+   "also": [],
+   "tier": 1,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 42,
+   "title": "Watership Down",
+   "author": "Richard Adams",
+   "also": [],
+   "tier": 1,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 45,
+   "title": "Brideshead Revisited",
+   "author": "Evelyn Waugh",
+   "also": [],
+   "tier": 1,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 46,
+   "title": "Animal Farm",
+   "author": "George Orwell",
+   "also": [],
+   "tier": 1,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 47,
+   "title": "A Christmas Carol",
+   "author": "Charles Dickens",
+   "also": [],
+   "tier": 1,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 48,
+   "title": "Far from the Madding Crowd",
+   "author": "Thomas Hardy",
+   "also": [],
+   "tier": 1,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 49,
+   "title": "Goodnight Mister Tom",
+   "author": "Michelle Magorian",
+   "also": [],
+   "tier": 2,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 50,
+   "title": "The Shell Seekers",
+   "author": "Rosamunde Pilcher",
+   "also": [],
+   "tier": 2,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 51,
+   "title": "The Secret Garden",
+   "author": "Frances Hodgson Burnett",
+   "also": [],
+   "tier": 2,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 56,
+   "title": "The BFG",
+   "author": "Roald Dahl",
+   "also": [],
+   "tier": 2,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 57,
+   "title": "Swallows and Amazons",
+   "author": "Arthur Ransome",
+   "also": [],
+   "tier": 2,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 58,
+   "title": "Black Beauty",
+   "author": "Anna Sewell",
+   "also": [],
+   "tier": 2,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 63,
+   "title": "A Tale of Two Cities",
+   "author": "Charles Dickens",
+   "also": [],
+   "tier": 2,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 66,
+   "title": "The Magic Faraway Tree",
+   "author": "Enid Blyton",
+   "also": [],
+   "tier": 2,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 68,
+   "title": "Good Omens",
+   "author": "Terry Pratchett",
+   "also": [],
+   "tier": 2,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 72,
+   "title": "The Ragged Trousered Philanthropists",
+   "author": "Robert Tressell",
+   "also": [],
+   "tier": 2,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 74,
+   "title": "Matilda",
+   "author": "Roald Dahl",
+   "also": [],
+   "tier": 2,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 75,
+   "title": "Bridget Jones's Diary",
+   "author": "Helen Fielding",
+   "also": [],
+   "tier": 2,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 77,
+   "title": "The Woman in White",
+   "author": "Wilkie Collins",
+   "also": [],
+   "tier": 2,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 79,
+   "title": "Bleak House",
+   "author": "Charles Dickens",
+   "also": [],
+   "tier": 2,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 82,
+   "title": "I Capture the Castle",
+   "author": "Dodie Smith",
+   "also": [],
+   "tier": 2,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 86,
+   "title": "Brave New World",
+   "author": "Aldous Huxley",
+   "also": [],
+   "tier": 2,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 88,
+   "title": "Cold Comfort Farm",
+   "author": "Stella Gibbons",
+   "also": [],
+   "tier": 2,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 95,
+   "title": "Katherine",
+   "author": "Anya Seton",
+   "also": [],
+   "tier": 2,
+   "src": [
+    "BR"
+   ]
+  },
+  {
+   "rank": 0,
+   "title": "The Three Musketeers",
+   "author": "Alexandre Dumas",
+   "also": [
+    "Les Trois Mousquetaires"
+   ],
+   "tier": 1,
+   "src": [
+    "FV"
+   ]
+  },
+  {
+   "rank": 0,
+   "title": "Around the World in Eighty Days",
+   "author": "Jules Verne",
+   "also": [],
+   "tier": 1,
+   "src": [
+    "FV"
+   ]
+  },
+  {
+   "rank": 0,
+   "title": "Commentaries on the Gallic War",
+   "author": "Julius Caesar",
+   "also": [
+    "De Bello Gallico",
+    "The Gallic War"
+   ],
+   "tier": 1,
+   "src": [
+    "FV"
+   ]
+  },
+  {
+   "rank": 0,
+   "title": "The Man Who Laughs",
+   "author": "Victor Hugo",
+   "also": [
+    "L'Homme qui rit"
+   ],
+   "tier": 1,
+   "src": [
+    "FV"
+   ]
+  },
+  {
+   "rank": 0,
+   "title": "Black Butler",
+   "author": "Yana Toboso",
+   "also": [
+    "Kuroshitsuji"
+   ],
+   "tier": 1,
+   "src": [
+    "FV"
+   ]
+  },
+  {
+   "rank": 0,
+   "title": "Twenty Years After",
+   "author": "Alexandre Dumas",
+   "also": [],
+   "tier": 2,
+   "src": [
+    "FV"
+   ]
+  },
+  {
+   "rank": 0,
+   "title": "The Underground City",
+   "author": "Jules Verne",
+   "also": [
+    "Les Indes noires",
+    "The Child of the Cavern"
+   ],
+   "tier": 2,
+   "src": [
+    "FV"
+   ]
+  },
+  {
+   "rank": 0,
+   "title": "The Green Ray",
+   "author": "Jules Verne",
+   "also": [
+    "Le Rayon vert"
+   ],
+   "tier": 2,
+   "src": [
+    "FV"
+   ]
+  },
+  {
+   "rank": 0,
+   "title": "The Spanish-English Lady",
+   "author": "Miguel de Cervantes",
+   "also": [
+    "La española inglesa"
+   ],
+   "tier": 2,
+   "src": [
+    "FV"
+   ]
+  },
+  {
+   "rank": 0,
+   "title": "Agricola",
+   "author": "Tacitus",
+   "also": [],
+   "tier": 2,
+   "src": [
+    "FV"
+   ]
+  },
+  {
+   "rank": 0,
+   "title": "Winter Notes on Summer Impressions",
+   "author": "Fyodor Dostoevsky",
+   "also": [],
+   "tier": 2,
+   "src": [
+    "FV"
+   ]
+  },
+  {
+   "rank": 0,
+   "title": "My Past and Thoughts",
+   "author": "Alexander Herzen",
+   "also": [],
+   "tier": 2,
+   "src": [
+    "FV"
+   ]
+  },
+  {
+   "rank": 0,
+   "title": "Letters on England",
+   "author": "Voltaire",
+   "also": [
+    "Letters Concerning the English Nation",
+    "Lettres philosophiques"
+   ],
+   "tier": 2,
+   "src": [
+    "FV"
+   ]
+  },
+  {
+   "rank": 0,
+   "title": "The Carlyle Museum",
+   "author": "Natsume Sōseki",
+   "also": [
+    "カーライル博物館"
+   ],
+   "tier": 2,
+   "src": [
+    "FV"
+   ]
+  },
+  {
+   "rank": 0,
+   "title": "Letters from England",
+   "author": "Karel Čapek",
+   "also": [
+    "Anglické listy"
+   ],
+   "tier": 2,
+   "src": [
+    "FV"
+   ]
+  },
+  {
+   "rank": 0,
+   "title": "Mary Stuart",
+   "author": "Stefan Zweig",
+   "also": [
+    "Maria Stuart"
+   ],
+   "tier": 2,
+   "src": [
+    "FV"
+   ]
+  },
+  {
+   "rank": 0,
+   "title": "Gitanjali",
+   "author": "Rabindranath Tagore",
+   "also": [],
+   "tier": 2,
+   "src": [
+    "FV"
+   ]
+  },
+  {
+   "rank": 0,
+   "title": "A Visit to Charles Dickens",
+   "author": "Hans Christian Andersen",
+   "also": [],
+   "tier": 2,
+   "src": [
+    "FV"
+   ]
+  },
+  {
+   "rank": 0,
+   "title": "English Fragments",
+   "author": "Heinrich Heine",
+   "also": [
+    "Englische Fragmente"
+   ],
+   "tier": 2,
+   "src": [
+    "FV"
+   ]
+  },
+  {
+   "rank": 0,
+   "title": "Beyond the Tweed",
+   "author": "Theodor Fontane",
+   "also": [
+    "Jenseits des Tweed"
+   ],
+   "tier": 2,
+   "src": [
+    "FV"
+   ]
+  },
+  {
+   "rank": 0,
+   "title": "In Praise of Folly",
+   "author": "Erasmus",
+   "also": [
+    "Moriae Encomium"
+   ],
+   "tier": 2,
+   "src": [
+    "FV"
+   ]
+  },
+  {
+   "rank": 0,
+   "title": "Emma",
+   "author": "Kaoru Mori",
+   "also": [
+    "エマ",
+    "Emma: A Victorian Romance"
+   ],
+   "tier": 2,
+   "src": [
+    "FV"
+   ]
+  },
+  {
+   "rank": 0,
+   "title": "Silver Kites over London",
+   "author": "Xiao Qian",
+   "also": [
+    "银风筝下的伦敦"
+   ],
+   "tier": 2,
+   "src": [
+    "FV"
+   ]
+  },
+  {
+   "rank": 0,
+   "title": "Le Morte d'Arthur",
+   "author": "Thomas Malory",
+   "also": [
+    "Morte Darthur"
+   ],
+   "tier": 1,
+   "src": [
+    "LG"
+   ]
+  },
+  {
+   "rank": 0,
+   "title": "Idylls of the King",
+   "author": "Alfred, Lord Tennyson",
+   "also": [],
+   "tier": 1,
+   "src": [
+    "LG"
+   ]
+  },
+  {
+   "rank": 0,
+   "title": "Sir Gawain and the Green Knight",
+   "author": "Anonymous (the Gawain Poet)",
+   "also": [],
+   "tier": 1,
+   "src": [
+    "LG"
+   ]
+  },
+  {
+   "rank": 0,
+   "title": "Roman de Brut",
+   "author": "Wace",
+   "also": [
+    "Arthurian Chronicles"
+   ],
+   "tier": 1,
+   "src": [
+    "LG"
+   ]
+  },
+  {
+   "rank": 0,
+   "title": "The Once and Future King",
+   "author": "T. H. White",
+   "also": [
+    "The Sword in the Stone"
+   ],
+   "tier": 1,
+   "src": [
+    "LG"
+   ]
+  },
+  {
+   "rank": 0,
+   "title": "The Canterbury Tales",
+   "author": "Geoffrey Chaucer",
+   "also": [],
+   "tier": 1,
+   "src": [
+    "LG"
+   ]
+  },
+  {
+   "rank": 0,
+   "title": "The Merry Adventures of Robin Hood",
+   "author": "Howard Pyle",
+   "also": [
+    "Robin Hood"
+   ],
+   "tier": 1,
+   "src": [
+    "LG"
+   ]
+  },
+  {
+   "rank": 0,
+   "title": "History of the Kings of Britain",
+   "author": "Geoffrey of Monmouth",
+   "also": [
+    "Historia Regum Britanniae"
+   ],
+   "tier": 2,
+   "src": [
+    "LG"
+   ]
+  },
+  {
+   "rank": 0,
+   "title": "Brut",
+   "author": "Layamon",
+   "also": [],
+   "tier": 2,
+   "src": [
+    "LG"
+   ]
+  },
+  {
+   "rank": 0,
+   "title": "The Mabinogion",
+   "author": "Anonymous (Welsh)",
+   "also": [
+    "Mabinogi"
+   ],
+   "tier": 2,
+   "src": [
+    "LG"
+   ]
+  },
+  {
+   "rank": 0,
+   "title": "Piers Plowman",
+   "author": "William Langland",
+   "also": [],
+   "tier": 2,
+   "src": [
+    "LG"
+   ]
+  },
+  {
+   "rank": 0,
+   "title": "Pearl",
+   "author": "Anonymous (the Gawain Poet)",
+   "also": [],
+   "tier": 2,
+   "src": [
+    "LG"
+   ]
+  },
+  {
+   "rank": 0,
+   "title": "Bede's Ecclesiastical History",
+   "author": "Bede",
+   "also": [
+    "Historia ecclesiastica gentis Anglorum"
+   ],
+   "tier": 2,
+   "src": [
+    "LG"
+   ]
+  },
+  {
+   "rank": 0,
+   "title": "The Anglo-Saxon Chronicle",
+   "author": "Anonymous (Anglo-Saxon Chronicle)",
+   "also": [],
+   "tier": 2,
+   "src": [
+    "LG"
+   ]
+  },
+  {
+   "rank": 0,
+   "title": "The Lais of Marie de France",
+   "author": "Marie de France",
+   "also": [
+    "Lanval",
+    "Chevrefoil"
+   ],
+   "tier": 2,
+   "src": [
+    "LG"
+   ]
+  },
+  {
+   "rank": 0,
+   "title": "Tristan",
+   "author": "Gottfried von Strassburg",
+   "also": [],
+   "tier": 2,
+   "src": [
+    "LG"
+   ]
+  },
+  {
+   "rank": 0,
+   "title": "Chronicles",
+   "author": "Jean Froissart",
+   "also": [
+    "Froissart's Chronicles"
+   ],
+   "tier": 2,
+   "src": [
+    "LG"
+   ]
+  }
+ ]
+}

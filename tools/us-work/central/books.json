@@ -1,0 +1,122 @@
+[
+  {
+    "id": "life-on-mississippi",
+    "title": "Life on the Mississippi",
+    "title_zh": "密西西比河上的生活",
+    "author": "Mark Twain",
+    "author_zh": "马克·吐温",
+    "year": "1883",
+    "orig_lang": "en",
+    "public_domain": true,
+    "source_url": "https://www.gutenberg.org/ebooks/245",
+    "aliases": []
+  },
+  {
+    "id": "uncle-toms-cabin",
+    "title": "Uncle Tom’s Cabin",
+    "title_zh": "汤姆叔叔的小屋",
+    "author": "Harriet Beecher Stowe",
+    "author_zh": "哈丽特·比彻·斯托",
+    "year": "1852",
+    "orig_lang": "en",
+    "public_domain": true,
+    "source_url": "https://www.gutenberg.org/ebooks/203",
+    "aliases": []
+  },
+  {
+    "id": "sister-carrie",
+    "title": "Sister Carrie",
+    "title_zh": "嘉莉妹妹",
+    "author": "Theodore Dreiser",
+    "author_zh": "西奥多·德莱塞",
+    "year": "1900",
+    "orig_lang": "en",
+    "public_domain": true,
+    "source_url": "https://www.gutenberg.org/ebooks/233",
+    "aliases": []
+  },
+  {
+    "id": "little-house-in-big-woods",
+    "title": "Little House in the Big Woods",
+    "title_zh": "大森林里的小木屋",
+    "author": "Laura Ingalls Wilder",
+    "author_zh": "劳拉·英格尔斯·怀尔德",
+    "year": "1932",
+    "orig_lang": "en",
+    "public_domain": false,
+    "source_url": "https://en.wikipedia.org/wiki/Little_House_in_the_Big_Woods",
+    "aliases": []
+  },
+  {
+    "id": "to-kill-a-mockingbird",
+    "title": "To Kill a Mockingbird",
+    "title_zh": "杀死一只知更鸟",
+    "author": "Harper Lee",
+    "author_zh": "哈珀·李",
+    "year": "1960",
+    "orig_lang": "en",
+    "public_domain": false,
+    "source_url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird",
+    "aliases": []
+  },
+  {
+    "id": "color-purple",
+    "title": "The Color Purple",
+    "title_zh": "紫色",
+    "author": "Alice Walker",
+    "author_zh": "艾丽斯·沃克",
+    "year": "1982",
+    "orig_lang": "en",
+    "public_domain": false,
+    "source_url": "https://en.wikipedia.org/wiki/The_Color_Purple",
+    "aliases": []
+  },
+  {
+    "id": "sound-and-fury",
+    "title": "The Sound and the Fury",
+    "title_zh": "喧哗与骚动",
+    "author": "William Faulkner",
+    "author_zh": "威廉·福克纳",
+    "year": "1929",
+    "orig_lang": "en",
+    "public_domain": false,
+    "source_url": "https://en.wikipedia.org/wiki/The_Sound_and_the_Fury",
+    "aliases": []
+  },
+  {
+    "id": "their-eyes-were-watching-god",
+    "title": "Their Eyes Were Watching God",
+    "title_zh": "他们眼望上苍",
+    "author": "Zora Neale Hurston",
+    "author_zh": "佐拉·尼尔·赫斯顿",
+    "year": "1937",
+    "orig_lang": "en",
+    "public_domain": false,
+    "source_url": "https://en.wikipedia.org/wiki/Their_Eyes_Were_Watching_God",
+    "aliases": []
+  },
+  {
+    "id": "nick-adams-stories",
+    "title": "The Nick Adams Stories",
+    "title_zh": "尼克·亚当斯故事集",
+    "author": "Ernest Hemingway",
+    "author_zh": "欧内斯特·海明威",
+    "year": "1972",
+    "orig_lang": "en",
+    "public_domain": false,
+    "source_url": "https://en.wikipedia.org/wiki/The_Nick_Adams_Stories",
+    "aliases": []
+  },
+  {
+    "id": "lonesome-dove",
+    "title": "Lonesome Dove",
+    "title_zh": "孤鸽镇",
+    "author": "Larry McMurtry",
+    "author_zh": "拉里·麦克默特里",
+    "year": "1985",
+    "orig_lang": "en",
+    "public_domain": false,
+    "source_url": "https://en.wikipedia.org/wiki/Lonesome_Dove",
+    "aliases": []
+  }
+]
