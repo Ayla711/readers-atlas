@@ -2,7 +2,7 @@
 """Validate the batch-one pack without modifying the UK application data.
 
 Usage: python3 tools/validate_us_pack.py [packs/us]
-Source downloads and a coarse independent state-boundary check are in tools/us-work.
+Source downloads and official Census state-boundary data are in tools/us-work.
 The official importer remains the authority for final region assignment/licences.
 """
 import collections
@@ -74,16 +74,25 @@ def validate():
         check(isinstance(b.get('public_domain'), bool), f"{b['id']}: public_domain boolean")
         check(b.get('orig_lang') == 'en', f"{b['id']}: non-English requires extra review")
     copyright_evidence = {}
+    expected_states = {}
+    coordinate_evidence = {}
+    photo_evidence = {}
     for region in ['east', 'central', 'west']:
         ev = read(WORK/region/'evidence.json')
+        photo_evidence.update(ev.get('photos', {}))
+        expected_states.update(ev.get('state_by_place', {}))
+        for pid, value in ev.get('coordinates', ev.get('places', {})).items():
+            coordinate_evidence[pid] = value
+            if value.get('state'):
+                expected_states[pid] = value['state']
         for key in ['books', 'copyright']:
             for bid, value in ev.get(key, {}).items():
-                if isinstance(value, dict) and ('death_year' in value or 'author_death' in value):
+                if isinstance(value, dict) and any(k in value for k in ['death_year', 'author_death', 'author_death_year']):
                     copyright_evidence[bid] = value
     for b in books:
         ev = copyright_evidence.get(b['id'], {})
         check(bool(ev), f"{b['id']}: missing copyright evidence")
-        year = ev.get('death_year', ev.get('author_death'))
+        year = ev.get('death_year', ev.get('author_death', ev.get('author_death_year')))
         check(b['public_domain'] == (isinstance(year, int) and year <= 1955), f"{b['id']}: copyright mismatch with death evidence")
         check(bool(ev.get('author_source', ev.get('source'))), f"{b['id']}: copyright source absent")
     linked_places = set()
@@ -93,6 +102,21 @@ def validate():
         check(p.get('place_type') in ['original', 'prototype', 'pilgrimage', 'film_location'], f'{label}: invalid type')
         check(' — https://' in p.get('coord_checked', ''), f'{label}: coordinate source format')
         check('state' not in p and 'region' not in p, f'{label}: region must be importer assigned')
+        ev = coordinate_evidence.get(label, {})
+        check(bool(ev), f'{label}: coordinate evidence absent')
+        if 'source_lat' in ev:
+            lat, lon = ev['source_lat'], ev['source_lon']
+        else:
+            raw = ev.get('raw', ev.get('raw_coordinates', ''))
+            nums = re.findall(r'-?\d+(?:\.\d+)?', raw)
+            check(len(nums) == 2, f'{label}: could not parse coordinate evidence')
+            if len(nums) == 2:
+                lat, lon = map(float, nums)
+                if 'coordinates' in raw:
+                    lat, lon = lon, lat
+            else:
+                lat, lon = 0, 0
+        check(abs(p['lat']-lat) <= 0.000050001 and abs(p['lon']-lon) <= 0.000050001, f'{label}: coordinate changed from published source')
         for field, limit in [('lat', 90), ('lon', 180)]:
             value = p.get(field)
             check(isinstance(value, (int, float)) and abs(value) <= limit, f'{label}: invalid {field}')
@@ -155,34 +179,38 @@ def validate():
         check(pid in place_map, f'photo: unknown place {pid}')
         required(photo, ['commons_file', 'alt_en', 'alt_zh'], f'photo {pid}')
         check(photo.get('commons_file', '').startswith('File:'), f'photo {pid}: Commons title missing File:')
+        ev = photo_evidence.get(pid, {})
+        check(bool(ev.get('file_page')), f'photo {pid}: verified file-page evidence missing')
+        check(bool(re.fullmatch(r'(CC BY(?:-SA)? [0-9.]+|CC0|Public domain)', ev.get('license', ''))), f'photo {pid}: licence evidence invalid')
     english = {'title', 'author', 'name', 'note_en', 'prototype_of_en', 'scene_en', 'location', 'text_en', 'alt_en'}
     for row in books + places + lines + list(photos.values()):
         for key in english & row.keys():
             check(not re.search(r'[\u3040-\u30ff\u3400-\u9fff]', str(row[key])), f"{row.get('id', 'photo')}: CJK in {key}")
-    features = read(WORK/'shared/us-states.geojson')['features']
-    states = {f['properties']['name']: [] for f in features if f['properties']['name'] != 'Puerto Rico'}
+    boundary = read(WORK/'shared/census-states.json')
+    features = boundary['states']
+    territories = {'PR', 'VI', 'GU', 'MP', 'AS'}
+    states = {f['name']: [] for f in features if f['abbr'] not in territories}
+    state_abbreviations = {f['name']: f['abbr'] for f in features}
     unresolved = []
     for p in places:
-        matches = [f['properties']['name'] for f in features if in_geometry(p['lon'], p['lat'], f['geometry'])]
+        matches = []
+        x, y = p['lon'], p['lat']
+        for f in features:
+            a, b, c, d = f['bbox']
+            if a <= x <= c and b <= y <= d and sum(in_ring(x, y, ring) for ring in f['rings']) % 2:
+                matches.append(f['name'])
         if len(matches) == 1 and matches[0] in states:
             states[matches[0]].append(p['id'])
+            check(expected_states.get(p['id']) == state_abbreviations[matches[0]], f"{p['id']}: polygon state differs from source evidence")
         else:
             unresolved.append({'id': p['id'], 'matches': matches})
-    # A coarse boundary is an independent check, not a licence to move a sourced point.
-    # Coastal or river-boundary exceptions must be documented with higher-resolution evidence.
-    overrides_path = WORK/'shared/boundary-exceptions.json'
-    overrides = read(overrides_path) if overrides_path.exists() else {}
     for item in unresolved:
-        override = overrides.get(item['id'], {})
-        if override.get('state') in states and override.get('source') and override.get('reason'):
-            states[override['state']].append(item['id'])
-        else:
-            check(False, f"{item['id']}: unresolved coarse state boundary {item['matches']}")
+        check(False, f"{item['id']}: unresolved Census state boundary {item['matches']}")
     for state, ids in states.items():
         check(bool(ids), f'coverage: no place in {state}')
     result = {'books': len(books), 'places': len(places), 'lines': len(lines), 'quotations': quoted,
               'scenes': len(lines)-quoted, 'photos': len(photos), 'states_covered': sum(bool(v) for v in states.values()),
-              'state_places': states, 'coarse_boundary_exceptions': unresolved, 'errors': errors}
+              'state_places': states, 'boundary_source': boundary['source'], 'boundary_unresolved': unresolved, 'errors': errors}
     (WORK/'shared/fresh-source-check.json').write_text(json.dumps(fresh_evidence, indent=2)+'\n', encoding='utf-8')
     (WORK/'shared/validation.json').write_text(json.dumps(result, ensure_ascii=False, indent=2)+'\n', encoding='utf-8')
     print(json.dumps({k:v for k,v in result.items() if k not in ['state_places']}, ensure_ascii=False, indent=2))

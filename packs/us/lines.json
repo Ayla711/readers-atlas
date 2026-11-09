@@ -1,0 +1,1217 @@
+[
+  {
+    "id": "usmd-1",
+    "book_id": "moby-dick",
+    "place_ids": [
+      "new-bedford"
+    ],
+    "location": "Chapter 7, The Chapel",
+    "location_zh": "第7章：礼拜堂",
+    "text_en": "In this same New Bedford there stands a Whaleman’s Chapel, and few are\r\nthe moody fishermen, shortly bound for the Indian Ocean or Pacific, who\r\nfail to make a Sunday visit to the spot. I am sure that I did not.",
+    "text_zh": "在这同一座新贝德福德城里，有一座捕鲸人的礼拜堂；那些即将驶往印度洋或太平洋、心事重重的渔人，很少有谁不在星期天来此一访。我知道自己也没有错过。",
+    "highlight_en": [
+      "New Bedford"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 2701
+    },
+    "status": "draft"
+  },
+  {
+    "id": "usmd-2",
+    "book_id": "moby-dick",
+    "place_ids": [
+      "nantucket-island"
+    ],
+    "location": "Chapter 14, Nantucket",
+    "location_zh": "第14章：楠塔基特",
+    "text_en": "Nantucket! Take out your map and look at it. See what a real corner of\r\nthe world it occupies; how it stands there, away off shore, more lonely\r\nthan the Eddystone lighthouse. Look at it—a mere hillock, and elbow of\r\nsand; all beach, without a background.",
+    "text_zh": "楠塔基特！拿出地图看看吧。看它占据了世界怎样偏僻的一角；它远离海岸，比埃迪斯通灯塔还孤独。瞧，它不过是一个小沙丘、一块弯曲的沙地，尽是海滩，后面再无陆地。",
+    "highlight_en": [
+      "Nantucket"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 2701
+    },
+    "status": "draft"
+  },
+  {
+    "id": "uswal-1",
+    "book_id": "walden",
+    "place_ids": [
+      "walden-pond"
+    ],
+    "location": "Economy",
+    "location_zh": "经济篇",
+    "text_en": "When I wrote the following pages, or rather the bulk of them, I lived\r\nalone, in the woods, a mile from any neighbor, in a house which I had\r\nbuilt myself, on the shore of Walden Pond, in Concord, Massachusetts,\r\nand earned my living by the labor of my hands only. I lived there two\r\nyears and two months.",
+    "text_zh": "我写下后面这些文字，或者说其中的大部分时，独自住在树林里，离最近的邻居一英里，住的是自己搭建的房屋，坐落在马萨诸塞州康科德的瓦尔登湖畔，完全靠双手劳动谋生。我在那里住了两年两个月。",
+    "highlight_en": [
+      "Walden Pond"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 205
+    },
+    "status": "draft"
+  },
+  {
+    "id": "ussd-1",
+    "book_id": "specimen-days",
+    "place_ids": [
+      "washington-whitman"
+    ],
+    "location": "Back to Washington",
+    "location_zh": "重返华盛顿",
+    "text_en": "I am now remaining in and around Washington, daily visiting the\r\nhospitals. Am much in Patent-office, Eighth street, H street,\r\nArmory-square, and others. Am now able to do a little good, having\r\nmoney, (as almoner of others home,) and getting experience.",
+    "text_zh": "我现在留在华盛顿及周边，每天探望医院。我常去专利局、第八街、H街、军械库广场及其他医院。如今手头有些钱，替家乡的朋友施助，也渐有经验，能够做一点好事了。",
+    "highlight_en": [
+      "Washington"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 8813
+    },
+    "status": "draft"
+  },
+  {
+    "id": "ussd-2",
+    "book_id": "specimen-days",
+    "place_ids": [
+      "falmouth-whitman"
+    ],
+    "location": "Back to Washington",
+    "location_zh": "重返华盛顿",
+    "text_en": "_January, '63_.--Left camp at Falmouth, with some wounded, a few days\r\nsince, and came here by Aquia creek railroad, and so on government\r\nsteamer up the Potomac. Many wounded were with us on the cars and boat.",
+    "text_zh": "一八六三年一月。几天前，我与一些伤兵离开法尔茅斯军营，乘阿奎亚溪铁路，再转乘政府轮船沿波托马克河来到这里。火车和船上都有许多伤兵与我们同行。",
+    "highlight_en": [
+      "Falmouth"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 8813
+    },
+    "status": "draft"
+  },
+  {
+    "id": "ussd-3",
+    "book_id": "specimen-days",
+    "place_ids": [
+      "camden-whitman"
+    ],
+    "location": "An Ossianic Night—Dearest Friends",
+    "location_zh": "奥西安式的夜晚——最亲爱的朋友",
+    "text_en": "_Nov., '81_.--Again back in Camden. As I cross the Delaware in long trips\r\ntonight, between 9 and 11, the scene overhead is a peculiar one--swift\r\nsheets of flitting vapor-gauze, follow'd by dense clouds throwing an\r\ninky pall on everything.",
+    "text_zh": "一八八一年十一月。又回到了卡姆登。今晚九点至十一点，我长时间横渡特拉华河，头顶的景象十分奇特：薄纱似的雾气飞快掠过，后面跟着浓云，给一切罩上漆黑的帷幕。",
+    "highlight_en": [
+      "Camden"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 8813
+    },
+    "status": "draft"
+  },
+  {
+    "id": "ussd-4",
+    "book_id": "specimen-days",
+    "place_ids": [
+      "pittsburgh-whitman"
+    ],
+    "location": "Begin a Long Jaunt West",
+    "location_zh": "开始向西的长途旅行",
+    "text_en": "at Pittsburgh in the morning to breakfast. Pretty good\r\nview of the city and Birmingham--fog and damp, smoke, coke-furnaces,\r\nflames, discolor'd wooden houses, and vast collections of coal-barges.",
+    "text_zh": "早晨抵达匹兹堡吃早餐。城市与伯明翰区尽收眼底：雾气与湿气、烟雾、炼焦炉、火焰、变色的木屋，还有大批运煤驳船。",
+    "highlight_en": [
+      "Pittsburgh"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 8813
+    },
+    "status": "draft"
+  },
+  {
+    "id": "ussd-5",
+    "book_id": "specimen-days",
+    "place_ids": [
+      "weirton-panhandle"
+    ],
+    "location": "Begin a Long Jaunt West",
+    "location_zh": "开始向西的长途旅行",
+    "text_en": "Presently a bit of fine region, West Virginia, the Panhandle, and\r\ncrossing the river, the Ohio.",
+    "text_zh": "接着是一片美好的地区，西弗吉尼亚的狭长地带，然后渡过俄亥俄河。",
+    "highlight_en": [
+      "West Virginia"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 8813
+    },
+    "status": "draft"
+  },
+  {
+    "id": "uslw-1",
+    "book_id": "little-women",
+    "place_ids": [
+      "concord-orchard-house"
+    ],
+    "location": "Chapter 1, Playing Pilgrims",
+    "location_zh": "第1章：扮演朝圣者",
+    "text_en": "It was a comfortable\r\nroom, though the carpet was faded and the furniture very plain, for a\r\ngood picture or two hung on the walls, books filled the recesses,\r\nchrysanthemums and Christmas roses bloomed in the windows, and a\r\npleasant atmosphere of home peace pervaded it.",
+    "text_zh": "这是一间舒适的屋子，虽然地毯已经褪色，家具也很简朴，墙上却挂着一两幅好画，壁龛里放满书，窗边盛开着菊花和圣诞玫瑰，满屋洋溢着家庭安宁的愉悦气息。",
+    "highlight_en": [
+      "comfortable"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 514
+    },
+    "status": "draft"
+  },
+  {
+    "id": "usgg-1",
+    "book_id": "great-gatsby",
+    "place_ids": [
+      "great-neck-west-egg"
+    ],
+    "location": "Chapter 1",
+    "location_zh": "第1章",
+    "text_en": "I lived at West Egg, the—well, the less fashionable of the two, though\r\nthis is a most superficial tag to express the bizarre and not a little\r\nsinister contrast between them. My house was at the very tip of the\r\negg, only fifty yards from the Sound, and squeezed between two huge\r\nplaces that rented for twelve or fifteen thousand a season.",
+    "text_zh": "我住在西卵，就是两地中不那么时髦的一处——不过，这个说法太肤浅，无法表达两者间古怪而颇为阴森的差别。我家位于卵形半岛最尖的一端，距海湾只有五十码，夹在两座每季租金高达一万二到一万五千的巨宅之间。",
+    "highlight_en": [
+      "West Egg"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 64317
+    },
+    "status": "draft"
+  },
+  {
+    "id": "usgg-2",
+    "book_id": "great-gatsby",
+    "place_ids": [
+      "manhattan-plaza-hotel"
+    ],
+    "location": "Chapter 4",
+    "location_zh": "第4章",
+    "text_en": "(said Jordan Baker that afternoon, sitting up very straight on a\r\nstraight chair in the tea-garden at the Plaza Hotel)",
+    "text_zh": "那天下午，乔丹·贝克挺直身子坐在广场饭店茶园的一把直背椅上，这样说道。",
+    "highlight_en": [
+      "Plaza Hotel"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 64317
+    },
+    "status": "draft"
+  },
+  {
+    "id": "usgb-1",
+    "book_id": "gold-bug",
+    "place_ids": [
+      "sullivans-island"
+    ],
+    "location": "Opening, Legrand’s retreat",
+    "location_zh": "开篇：勒格朗的隐居处",
+    "text_en": "To\r\n      avoid the mortification consequent upon his disasters, he left\r\n      New Orleans, the city of his forefathers, and took up his\r\n      residence at Sullivan’s Island, near Charleston, South Carolina.",
+    "text_zh": "为了避免遭受厄运后的羞辱，他离开了祖先居住的新奥尔良，搬到南卡罗来纳州查尔斯顿附近的沙利文岛居住。",
+    "highlight_en": [
+      "Sullivan’s Island"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 2147
+    },
+    "status": "draft"
+  },
+  {
+    "id": "usgb-2",
+    "book_id": "gold-bug",
+    "place_ids": [
+      "charleston-gold-bug"
+    ],
+    "location": "Opening, the October visit",
+    "location_zh": "开篇：十月的拜访",
+    "text_en": "my\r\n      residence being, at that time, in Charleston, a distance of nine\r\n      miles from the island, while the facilities of passage and\r\n      re-passage were very far behind those of the present day.",
+    "text_zh": "我当时住在查尔斯顿，离岛九英里，而往返交通的便利程度远远不及今天。",
+    "highlight_en": [
+      "Charleston"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 2147
+    },
+    "status": "draft"
+  },
+  {
+    "id": "usmt-1",
+    "book_id": "marrow-of-tradition",
+    "place_ids": [
+      "wilmington-wellington"
+    ],
+    "location": "Chapter 15, Mrs. Carteret Seeks an Explanation",
+    "location_zh": "第15章：卡特雷特夫人寻求解释",
+    "text_en": "Twenty years before, Wellington had been the world's greatest\r\nshipping port for naval stores. But as the turpentine industry had moved\r\nsouthward, leaving a trail of devastated forests in its rear, the city\r\nhad fallen to a poor fifth or sixth place in this trade, relying now\r\nalmost entirely upon cotton for its export business.",
+    "text_zh": "二十年前，威灵顿曾是世界上最大的船用物资出口港。可是松节油产业一路南移，身后留下遭毁坏的森林，城市在这项贸易中已跌至第五或第六位，如今出口几乎完全依靠棉花。",
+    "highlight_en": [
+      "Wellington"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 11228
+    },
+    "status": "draft"
+  },
+  {
+    "id": "uswo-1",
+    "book_id": "winesburg-ohio",
+    "place_ids": [
+      "clyde-winesburg"
+    ],
+    "location": "Hands",
+    "location_zh": "手",
+    "text_en": "Upon the half decayed veranda of a small frame house that stood near\r\nthe edge of a ravine near the town of Winesburg, Ohio, a fat little old\r\nman walked nervously up and down.",
+    "text_zh": "在俄亥俄州温斯堡镇附近的一道沟壑边，有一座小木屋；一个矮胖的老人正在它半朽的门廊上，紧张地来回踱步。",
+    "highlight_en": [
+      "Winesburg, Ohio"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 416
+    },
+    "status": "draft"
+  },
+  {
+    "id": "usnh-s1",
+    "kind": "scene",
+    "book_id": "new-hampshire",
+    "place_ids": [
+      "franconia-frost"
+    ],
+    "location": "New Hampshire, title poem",
+    "location_zh": "标题诗《新罕布什尔》",
+    "text_en": "At a film screening in Franconia, the speaker recalls the audience laughing at a tiny nearby town’s election tally. The moment becomes a meditation on how larger communities look down on smaller ones.",
+    "text_zh": "叙述者回忆在弗兰科尼亚看电影时，观众看到邻近小镇的选举票数而发笑。这一幕引出他对大社区如何轻视小社区的思考。",
+    "highlight_en": [
+      "Franconia"
+    ],
+    "highlight_zh": [
+      "弗兰科尼亚"
+    ],
+    "status": "draft",
+    "fact_source": "https://www.gutenberg.org/ebooks/58611"
+  },
+  {
+    "id": "useh-1",
+    "book_id": "entailed-hat",
+    "place_ids": [
+      "princess-anne-entailed-hat"
+    ],
+    "location": "Chapter 1, Two Hat Wearers",
+    "location_zh": "第1章：两个戴帽子的人",
+    "text_en": "Princess Anne, as its royal name implies, is an old seat of justice, and\r\ngentle-minded town on the Eastern Shore.",
+    "text_zh": "安妮公主镇，正如它带有王室意味的名字所示，是东岸一座古老的司法中心，也是一座气质温和的城镇。",
+    "highlight_en": [
+      "Princess Anne"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 19146
+    },
+    "status": "draft"
+  },
+  {
+    "id": "useh-2",
+    "book_id": "entailed-hat",
+    "place_ids": [
+      "georgetown-entailed-hat"
+    ],
+    "location": "Chapter 44, The Death of Patty Cannon",
+    "location_zh": "第44章：帕蒂·坎农之死",
+    "text_en": "The evidence of Cy James and other cowardly companions in her sins was\r\nquickly given, and the procession started through the woods and sands to\r\nGeorgetown, twelve miles to the eastward, where Patty Cannon was\r\nreceived by all the town, waiting up for her, and the jail immediately\r\nclosed her in.",
+    "text_zh": "赛·詹姆斯和其他胆怯的同伙很快作了证，队伍穿过树林和沙地，向东面十二英里外的乔治敦进发。全镇人熬夜等候帕蒂·坎农的到来，她一到便被关进监狱。",
+    "highlight_en": [
+      "Georgetown"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 19146
+    },
+    "status": "draft"
+  },
+  {
+    "id": "useh-3",
+    "book_id": "entailed-hat",
+    "place_ids": [
+      "laurel-entailed-hat"
+    ],
+    "location": "Chapter 25, The Broad Creek",
+    "location_zh": "第25章：布罗德溪",
+    "text_en": "Take this old woods road\r\nalong Broad Creek and walk to Laurel, five miles; it's a little town on\r\nthe creek.",
+    "text_zh": "沿着这条旧林间小路，顺布罗德溪走五英里，就到劳雷尔了；那是溪边的一座小镇。",
+    "highlight_en": [
+      "Laurel"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 19146
+    },
+    "status": "draft"
+  },
+  {
+    "id": "useh-4",
+    "book_id": "entailed-hat",
+    "place_ids": [
+      "dover-entailed-hat"
+    ],
+    "location": "Chapter 23, A Terrible Crime",
+    "location_zh": "第23章：可怕的罪行",
+    "text_en": "\"To Dover, in Delaware,\" Vesta answered. \"You can ride to Laurel by\r\ndark, Samson, and get to Dover to-morrow afternoon.\"",
+    "text_zh": "“到特拉华州的多佛去，”维斯塔回答，“萨姆森，你天黑前可以骑到劳雷尔，明天下午就能到多佛。”",
+    "highlight_en": [
+      "Dover"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 19146
+    },
+    "status": "draft"
+  },
+  {
+    "id": "lom-1",
+    "book_id": "life-on-mississippi",
+    "place_ids": [
+      "hannibal"
+    ],
+    "location": "Chapter 53, My Boyhood's Home",
+    "location_zh": "第 53 章《童年的故乡》",
+    "text_en": "At seven in the morning we reached Hannibal, Missouri, where my boyhood\r\nwas spent.",
+    "text_zh": "早上七点，我们抵达密苏里州汉尼拔，我的童年就是在那里度过的。",
+    "highlight_en": [
+      "Hannibal"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 245
+    },
+    "status": "draft"
+  },
+  {
+    "id": "lom-2",
+    "book_id": "life-on-mississippi",
+    "place_ids": [
+      "memphis"
+    ],
+    "location": "Chapter 20, A Catastrophe",
+    "location_zh": "第 20 章《一场灾难》",
+    "text_en": "Forty of the wounded were placed upon pallets on the floor of a great\r\npublic hall, and among these was Henry. There the ladies of Memphis\r\ncame every day, with flowers, fruits, and dainties and delicacies of\r\nall kinds, and there they remained and nursed the wounded.",
+    "text_zh": "四十名伤员被安置在一座大礼堂地板上的铺位上，亨利也在其中。孟菲斯的女士们每天带来鲜花、水果和各种佳肴，留在这里护理伤员。",
+    "highlight_en": [
+      "Memphis"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 245
+    },
+    "status": "draft"
+  },
+  {
+    "id": "lom-3",
+    "book_id": "life-on-mississippi",
+    "place_ids": [
+      "helena"
+    ],
+    "location": "Chapter 50, The 'Original Jacobs'",
+    "location_zh": "第 50 章《最初的雅各布斯》",
+    "text_en": "In 1832 steamer “Hudson” made the run from White River to Helena, a\r\ndistance of seventy-five miles, in twelve hours.",
+    "text_zh": "1832年，哈德逊号汽船从白河航行至海伦娜，七十五英里的航程用了十二小时。",
+    "highlight_en": [
+      "Helena"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 245
+    },
+    "status": "draft"
+  },
+  {
+    "id": "lom-4",
+    "book_id": "life-on-mississippi",
+    "place_ids": [
+      "saint-paul",
+      "new-orleans"
+    ],
+    "location": "Chapter 60, Speculations and Conclusions",
+    "location_zh": "第 60 章《推测与结论》",
+    "text_en": "WE reached St. Paul, at the head of navigation of the Mississippi, and\r\nthere our voyage of two thousand miles from New Orleans ended.",
+    "text_zh": "我们到达密西西比河航运的终点圣保罗，从新奥尔良出发的两千英里航程至此结束。",
+    "highlight_en": [
+      "St. Paul",
+      "New Orleans"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 245
+    },
+    "status": "draft"
+  },
+  {
+    "id": "lom-5",
+    "book_id": "life-on-mississippi",
+    "place_ids": [
+      "burlington",
+      "davenport",
+      "minneapolis"
+    ],
+    "location": "Chapter 58, On the Upper River",
+    "location_zh": "第 58 章《在河流上游》",
+    "text_en": "Then we have Muscatine, ten thousand; Winona, ten thousand;\r\nMoline, ten thousand; Rock Island, twelve thousand; La Crosse, twelve\r\nthousand; Burlington, twenty-five thousand; Dubuque, twenty-five\r\nthousand; Davenport, thirty thousand; St. Paul, fifty-eight thousand,\r\nMinneapolis, sixty thousand and upward.",
+    "text_zh": "接下来，马斯卡廷有一万人，威诺纳一万人；莫林一万人，罗克艾兰一万二千人，拉克罗斯一万二千人；伯灵顿两万五千人，迪比克两万五千人；达文波特三万人，圣保罗五万八千人，明尼阿波利斯六万人以上。",
+    "highlight_en": [
+      "Burlington",
+      "Davenport",
+      "Minneapolis"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 245
+    },
+    "status": "draft"
+  },
+  {
+    "id": "lom-6",
+    "book_id": "life-on-mississippi",
+    "place_ids": [
+      "dubuque"
+    ],
+    "location": "Chapter 58, On the Upper River",
+    "location_zh": "第 58 章《在河流上游》",
+    "text_en": "We move up the river--always through enchanting scenery, there being no\r\nother kind on the Upper Mississippi--and pass Moline, a center of vast\r\nmanufacturing industries; and Clinton and Lyons, great lumber centers;\r\nand presently reach Dubuque, which is situated in a rich mineral region.\r\nThe lead mines are very productive, and of wide extent.",
+    "text_zh": "我们溯河而上，沿途始终是迷人的风景——密西西比河上游处处如此——经过工业重镇莫林，又经过木材业重镇克林顿与莱昂斯，不久便到达坐落在富矿地区的迪比克。这里的铅矿产量很高，分布也很广。",
+    "highlight_en": [
+      "Dubuque"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 245
+    },
+    "status": "draft"
+  },
+  {
+    "id": "lom-7",
+    "book_id": "life-on-mississippi",
+    "place_ids": [
+      "cairo"
+    ],
+    "location": "Chapter 17, Cut-offs and Stephen",
+    "location_zh": "第 17 章《河道裁弯与斯蒂芬》",
+    "text_en": "Therefore, the Mississippi between Cairo and New Orleans was twelve\r\nhundred and fifteen miles long one hundred and seventy-six years ago.",
+    "text_zh": "因此，一百七十六年前，开罗与新奥尔良之间的密西西比河长一千二百一十五英里。",
+    "highlight_en": [
+      "Cairo"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 245
+    },
+    "status": "draft"
+  },
+  {
+    "id": "utc-1",
+    "book_id": "uncle-toms-cabin",
+    "place_ids": [
+      "louisville"
+    ],
+    "location": "Chapter 22, The Grass Withereth—the Flower Fadeth",
+    "location_zh": "第 22 章《草必枯干，花必凋残》",
+    "text_en": "It contained various\r\nrefreshing items of home intelligence, with which our reader is fully\r\nacquainted: stated how Aunt Chloe had been hired out to a confectioner\r\nin Louisville, where her skill in the pastry line was gaining wonderful\r\nsums of money, all of which, Tom was informed, was to be laid up to go\r\nto make up the sum of his redemption money; Mose and Pete were\r\nthriving, and the baby was trotting all about the house, under the care\r\nof Sally and the family generally.",
+    "text_zh": "信中有许多令人欣慰的家乡消息，这些读者已经知道：克洛伊大娘受雇于路易斯维尔的一位糖果糕点商，她的糕点手艺赚来了可观的收入，汤姆得知这些钱都将存起来为他赎身；摩西与皮特长得很好，小宝宝也已能在屋里走动，由萨莉和家里人照料。",
+    "highlight_en": [
+      "Louisville"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 203
+    },
+    "status": "draft"
+  },
+  {
+    "id": "sc-1",
+    "book_id": "sister-carrie",
+    "place_ids": [
+      "chicago"
+    ],
+    "location": "Chapter 1, The Magnet Attracting: A Waif Amid Forces",
+    "location_zh": "第 1 章《磁石的吸引：漂泊的孤女》",
+    "text_en": "When Caroline Meeber boarded the afternoon train for Chicago, her total\r\noutfit consisted of a small trunk, a cheap imitation alligator-skin\r\nsatchel, a small lunch in a paper box, and a yellow leather snap purse,\r\ncontaining her ticket, a scrap of paper with her sister’s address in\r\nVan Buren Street, and four dollars in money. It was in August, 1889.",
+    "text_zh": "卡罗琳·米伯登上开往芝加哥的午后火车时，全部行李只有一只小箱子、一个便宜的仿鳄鱼皮手提包、一份纸盒装午餐，以及一个黄色皮革搭扣钱包。钱包里装着车票、一张写有姐姐在范布伦街住址的纸条和四美元。那是1889年八月。",
+    "highlight_en": [
+      "Chicago"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 233
+    },
+    "status": "draft"
+  },
+  {
+    "id": "sc-2",
+    "book_id": "sister-carrie",
+    "place_ids": [
+      "indianapolis"
+    ],
+    "location": "Chapter 32, The Feast of Belshazzar: A Seer to Translate",
+    "location_zh": "第 32 章《伯沙撒的盛宴：解读的先知》",
+    "text_en": "“Yes; I am just on here from Indianapolis for a week or so,” said young\r\nAmes, seating himself on the edge of a chair to wait while Mrs. Vance\r\ncompleted the last touches of her toilet.",
+    "text_zh": "“是的，我从印第安纳波利斯来这里待一周左右，”年轻的艾姆斯说。他坐在椅子边上，等万斯太太完成最后的梳妆。",
+    "highlight_en": [
+      "Indianapolis"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 233
+    },
+    "status": "draft"
+  },
+  {
+    "id": "lhbw-s1",
+    "kind": "scene",
+    "book_id": "little-house-in-big-woods",
+    "place_ids": [
+      "pepin"
+    ],
+    "location": "Chapter 9, Going to Town",
+    "location_zh": "第 9 章《进城》",
+    "text_en": "Laura visits Pepin with her family, sees the lake and explores the unfamiliar sights of the town.",
+    "text_zh": "劳拉与家人来到佩平，看见湖泊，探索镇上陌生的新鲜景象。",
+    "highlight_en": [
+      "Pepin"
+    ],
+    "status": "draft",
+    "fact_source": "https://www.storychasers.com/big-woods"
+  },
+  {
+    "id": "tkam-s1",
+    "kind": "scene",
+    "book_id": "to-kill-a-mockingbird",
+    "place_ids": [
+      "monroeville"
+    ],
+    "location": "Trial sequence",
+    "location_zh": "审判段落",
+    "text_en": "In Maycomb, Scout and Jem watch Atticus defend Tom Robinson and confront the town’s racial prejudice.",
+    "text_zh": "在梅科姆，斯库特和杰姆旁听阿蒂克斯为汤姆·鲁滨逊辩护，面对镇上的种族偏见。",
+    "highlight_en": [
+      "Maycomb"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird"
+  },
+  {
+    "id": "tcp-s1",
+    "kind": "scene",
+    "book_id": "color-purple",
+    "place_ids": [
+      "eatonton"
+    ],
+    "location": "Opening letters",
+    "location_zh": "开篇书信",
+    "text_en": "In rural Georgia, Celie writes to God about the abuse and isolation she experiences within her family.",
+    "text_zh": "在佐治亚乡村，西莉写信向上帝诉说自己在家庭中遭受的虐待与孤独。",
+    "highlight_en": [
+      "Georgia"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Color_Purple"
+  },
+  {
+    "id": "saf-s1",
+    "kind": "scene",
+    "book_id": "sound-and-fury",
+    "place_ids": [
+      "oxford-mississippi"
+    ],
+    "location": "Part 4, April 8, 1928",
+    "location_zh": "第四部分，1928年4月8日",
+    "text_en": "In Jefferson, Dilsey takes Benjy to an Easter church service as the Compson family continues to unravel.",
+    "text_zh": "在杰斐逊，迪尔西带班吉参加复活节礼拜，而康普生一家仍在走向瓦解。",
+    "highlight_en": [
+      "Jefferson"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Sound_and_the_Fury"
+  },
+  {
+    "id": "tewwg-s1",
+    "kind": "scene",
+    "book_id": "their-eyes-were-watching-god",
+    "place_ids": [
+      "eatonville"
+    ],
+    "location": "Janie’s marriage to Joe Starks",
+    "location_zh": "珍妮与乔·斯塔克斯的婚姻",
+    "text_en": "In Eatonville, Joe Starks builds his standing through his store and public role, while Janie finds her freedom increasingly restricted.",
+    "text_zh": "在伊顿维尔，乔·斯塔克斯通过商店和公共职务建立威望，珍妮却感到自己的自由日益受限。",
+    "highlight_en": [
+      "Eatonville"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Their_Eyes_Were_Watching_God"
+  },
+  {
+    "id": "tewwg-s2",
+    "kind": "scene",
+    "book_id": "their-eyes-were-watching-god",
+    "place_ids": [
+      "jacksonville"
+    ],
+    "location": "Janie and Tea Cake’s marriage",
+    "location_zh": "珍妮与茶点成婚",
+    "text_en": "Janie leaves Eatonville and travels to Jacksonville to marry Tea Cake, beginning a different life after Joe’s death.",
+    "text_zh": "乔去世后，珍妮离开伊顿维尔，前往杰克逊维尔与茶点结婚，开始另一种生活。",
+    "highlight_en": [
+      "Jacksonville"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Their_Eyes_Were_Watching_God"
+  },
+  {
+    "id": "nas-s1",
+    "kind": "scene",
+    "book_id": "nick-adams-stories",
+    "place_ids": [
+      "seney"
+    ],
+    "location": "Big Two-Hearted River, Part 1",
+    "location_zh": "《大双心河》第一部",
+    "text_en": "Nick steps off the train at Seney and finds that fire has destroyed the town before he heads into the countryside.",
+    "text_zh": "尼克在塞尼下火车，发现城镇已被大火毁坏，随后走向郊野。",
+    "highlight_en": [
+      "Seney"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Big_Two-Hearted_River"
+  },
+  {
+    "id": "nas-s2",
+    "kind": "scene",
+    "book_id": "nick-adams-stories",
+    "place_ids": [
+      "fox-river"
+    ],
+    "location": "Big Two-Hearted River, Part 2",
+    "location_zh": "《大双心河》第二部",
+    "text_en": "Nick fishes alone and concentrates on the practical details of the river and his tackle; the Fox River supplied the story’s real-world fishing landscape.",
+    "text_zh": "尼克独自垂钓，专注于河流与钓具的具体细节；福克斯河为这个故事提供了现实中的垂钓环境。",
+    "highlight_en": [
+      "Fox River"
+    ],
+    "status": "draft",
+    "fact_source": "https://www.michiganhemingwaysociety.org/publications/hemingway-in-seney/"
+  },
+  {
+    "id": "ld-s1",
+    "kind": "scene",
+    "book_id": "lonesome-dove",
+    "place_ids": [
+      "fort-smith"
+    ],
+    "location": "July Johnson’s pursuit",
+    "location_zh": "朱莱·约翰逊的追捕",
+    "text_en": "After Jake Spoon kills a man in Fort Smith and flees, Sheriff July Johnson sets out to find him.",
+    "text_zh": "杰克·斯普恩在史密斯堡杀人后逃走，警长朱莱·约翰逊出发追捕他。",
+    "highlight_en": [
+      "Fort Smith"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Lonesome_Dove"
+  },
+  {
+    "id": "ld-s2",
+    "kind": "scene",
+    "book_id": "lonesome-dove",
+    "place_ids": [
+      "san-antonio"
+    ],
+    "location": "Return to Texas",
+    "location_zh": "返回得克萨斯",
+    "text_en": "Call brings Gus’s body back to Texas and buries him near San Antonio, fulfilling his friend’s final request.",
+    "text_zh": "考尔将格斯的遗体带回得克萨斯，安葬在圣安东尼奥附近，完成朋友最后的嘱托。",
+    "highlight_en": [
+      "San Antonio"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Lonesome_Dove"
+  },
+  {
+    "id": "ri-1",
+    "book_id": "roughing-it",
+    "place_ids": [
+      "marysville"
+    ],
+    "location": "Chapter 3",
+    "location_zh": "第3章",
+    "text_en": "By and by we passed through Marysville, and over the Big Blue and Little\r\nSandy; thence about a mile, and entered Nebraska.",
+    "text_zh": "不久我们经过马里斯维尔，越过大蓝河和小桑迪河；再走大约一英里，就进入了内布拉斯加。",
+    "highlight_en": [
+      "Marysville"
+    ],
+    "highlight_zh": [
+      "马里斯维尔"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 3177
+    },
+    "status": "draft"
+  },
+  {
+    "id": "ri-2",
+    "book_id": "roughing-it",
+    "place_ids": [
+      "salt-lake-city"
+    ],
+    "location": "Chapter 13",
+    "location_zh": "第13章",
+    "text_en": "Seen from one of these dizzy heights, twelve or fifteen miles off, Great\r\nSalt Lake City is toned down and diminished till it is suggestive of a\r\nchild’s toy-village reposing under the majestic protection of the\r\nChinese wall.",
+    "text_zh": "从十二或十五英里外的一处眩目高地望去，大盐湖城的色彩变得柔和，身形也缩小了，仿佛一座玩具村庄，安卧在中国长城般雄伟的屏障之下。",
+    "highlight_en": [
+      "Salt Lake City"
+    ],
+    "highlight_zh": [
+      "盐湖城"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 3177
+    },
+    "status": "draft"
+  },
+  {
+    "id": "ri-3",
+    "book_id": "roughing-it",
+    "place_ids": [
+      "virginia-city"
+    ],
+    "location": "Chapter 42",
+    "location_zh": "第42章",
+    "text_en": "I canvassed the city again and found one wretched old hay truck dragging\r\nin from the country. But I made affluent use of it. I multiplied it by\r\nsixteen, brought it into town from sixteen different directions, made\r\nsixteen separate items out of it, and got up such another sweat about\r\nhay as Virginia City had never seen in the world before.",
+    "text_zh": "我又在城里四处搜寻，只见一辆破旧的运草车从乡下驶来。我却把它利用得十足：将它变成十六辆，从十六个方向进城，编出十六条新闻，让弗吉尼亚城为干草忙得热火朝天，这可是从未有过的事。",
+    "highlight_en": [
+      "Virginia City"
+    ],
+    "highlight_zh": [
+      "弗吉尼亚城"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 3177
+    },
+    "status": "draft"
+  },
+  {
+    "id": "ri-4",
+    "book_id": "roughing-it",
+    "place_ids": [
+      "honolulu"
+    ],
+    "location": "Chapter 63",
+    "location_zh": "第63章",
+    "text_en": "We had an abundance of fruit in Honolulu, of course. Oranges, pine-\r\napples, bananas, strawberries, lemons, limes, mangoes, guavas, melons,\r\nand a rare and curious luxury called the chirimoya, which is\r\ndeliciousness itself.",
+    "text_zh": "当然，我们在檀香山有许多水果：橙子、菠萝、香蕉、草莓、柠檬、酸橙、芒果、番石榴、甜瓜，还有一种罕见而奇特的美味，叫作秘鲁番荔枝，简直就是美味本身。",
+    "highlight_en": [
+      "Honolulu"
+    ],
+    "highlight_zh": [
+      "檀香山"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 3177
+    },
+    "status": "draft"
+  },
+  {
+    "id": "tia-1",
+    "book_id": "travels-in-alaska",
+    "place_ids": [
+      "mount-hood"
+    ],
+    "location": "Chapter 1, Puget Sound and British Columbia",
+    "location_zh": "第1章，普吉特海湾与不列颠哥伦比亚",
+    "text_en": "Mt. Baker, to the northward, is about 10,700 feet\r\nhigh, a noble mountain. So also are Mt. Adams, Mt. St. Helens, and Mt.\r\nHood. The latter, overlooking the town of Portland, is perhaps the best\r\nknown.",
+    "text_zh": "北面的贝克山高约一万零七百英尺，是一座雄伟的山。亚当斯山、圣海伦斯山和胡德山也同样雄伟。其中俯瞰波特兰的胡德山，也许最为人熟知。",
+    "highlight_en": [
+      "Hood"
+    ],
+    "highlight_zh": [
+      "胡德山"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 7345
+    },
+    "status": "draft"
+  },
+  {
+    "id": "tia-2",
+    "book_id": "travels-in-alaska",
+    "place_ids": [
+      "seattle",
+      "tacoma"
+    ],
+    "location": "Chapter 1, Puget Sound and British Columbia",
+    "location_zh": "第1章，普吉特海湾与不列颠哥伦比亚",
+    "text_en": "Seattle was famed for\r\nits coal-mines, and claimed to be the coming town of the North Pacific\r\nCoast. So also did its rival, Tacoma, which had been selected as the\r\nterminus of the much-talked-of Northern Pacific Railway.",
+    "text_zh": "西雅图以煤矿闻名，自称将成为北太平洋海岸的新兴重镇。它的对手塔科马也这样宣称；人们议论纷纷的北太平洋铁路已选定那里作为终点。",
+    "highlight_en": [
+      "Seattle",
+      "Tacoma"
+    ],
+    "highlight_zh": [
+      "西雅图",
+      "塔科马"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 7345
+    },
+    "status": "draft"
+  },
+  {
+    "id": "tia-3",
+    "book_id": "travels-in-alaska",
+    "place_ids": [
+      "wrangell"
+    ],
+    "location": "Chapter 9, A Canoe Voyage to Northward",
+    "location_zh": "第9章，乘独木舟北行",
+    "text_en": "I arrived at Wrangell in a canoe with a party of Cassiar miners in\r\nOctober while the icy regions to the northward still burned in my mind.",
+    "text_zh": "十月，我与一队卡西亚矿工乘独木舟抵达兰格尔，心中仍热切惦念着北方的冰雪世界。",
+    "highlight_en": [
+      "Wrangell"
+    ],
+    "highlight_zh": [
+      "兰格尔"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 7345
+    },
+    "status": "draft"
+  },
+  {
+    "id": "vir-1",
+    "book_id": "virginian",
+    "place_ids": [
+      "medicine-bow"
+    ],
+    "location": "Chapter 1, Enter the Man",
+    "location_zh": "第1章，人物登场",
+    "text_en": "We had plenty of time\r\nto watch this sport, for our train had stopped that the engine might\r\ntake water at the tank before it pulled us up beside the station\r\nplatform of Medicine Bow.",
+    "text_zh": "我们有充足的时间观看这番较量，因为列车停了下来，让机车先在水塔旁加水，然后才把我们拉到梅迪辛博的站台边。",
+    "highlight_en": [
+      "Medicine Bow"
+    ],
+    "highlight_zh": [
+      "梅迪辛博"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 1298
+    },
+    "status": "draft"
+  },
+  {
+    "id": "myan-1",
+    "book_id": "my-antonia",
+    "place_ids": [
+      "lincoln-nebraska"
+    ],
+    "location": "Book 3, Lena Lingard, Chapter 1",
+    "location_zh": "第三卷《莉娜·林加德》，第1章",
+    "text_en": "I did not go home for my first summer vacation, but stayed in Lincoln,\r\nworking off a year’s Greek, which had been my only condition on\r\nentering the freshman class.",
+    "text_zh": "第一个暑假我没有回家，而是留在林肯，补修一整年的希腊语；这是我进入一年级时唯一需要补足的条件。",
+    "highlight_en": [
+      "Lincoln"
+    ],
+    "highlight_zh": [
+      "林肯"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 242
+    },
+    "status": "draft"
+  },
+  {
+    "id": "opion-1",
+    "book_id": "o-pioneers",
+    "place_ids": [
+      "omaha"
+    ],
+    "location": "Part 2, Neighboring Fields, Chapter 7",
+    "location_zh": "第二部《毗邻的田野》，第7章",
+    "text_en": "Marie’s father, Albert Tovesky, was one of the more intelligent\r\nBohemians who came West in the early seventies. He settled in Omaha and\r\nbecame a leader and adviser among his people there.",
+    "text_zh": "玛丽的父亲阿尔伯特·托韦斯基，是十九世纪七十年代初来到西部的波希米亚人中较有见识的一位。他在奥马哈定居，成为当地同乡的领袖和顾问。",
+    "highlight_en": [
+      "Omaha"
+    ],
+    "highlight_zh": [
+      "奥马哈"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 24
+    },
+    "status": "draft"
+  },
+  {
+    "id": "mtr-1",
+    "book_id": "main-travelled-roads",
+    "place_ids": [
+      "ordway"
+    ],
+    "location": "Foreword",
+    "location_zh": "前言",
+    "text_en": "In the summer of 1887, after having been three years in Boston, and six\r\nyears absent from my old home in northern Iowa, I found myself with\r\nmoney enough to pay my railway fare to Ordway, South Dakota, where my\r\nfather and mother were living, and as it cost very little extra to go by\r\nway of Dubuque and Charles City, I planned to visit Osage, Iowa, and the\r\nfarm we had opened on Dry Run prairie in 1871.",
+    "text_zh": "一八八七年夏天，我在波士顿住了三年，离开爱荷华北部的旧家也已有六年，终于有钱买车票去南达科他的奥德韦看望父母。绕道迪比克和查尔斯城所费无几，我便打算顺路看看爱荷华的奥塞奇，以及我们一八七一年在德赖兰草原开辟的农场。",
+    "highlight_en": [
+      "Ordway"
+    ],
+    "highlight_zh": [
+      "奥德韦"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 2809
+    },
+    "status": "draft"
+  },
+  {
+    "id": "gow-s1",
+    "kind": "scene",
+    "book_id": "grapes-of-wrath",
+    "place_ids": [
+      "gallup",
+      "flagstaff"
+    ],
+    "location": "Chapter 12",
+    "location_zh": "第12章",
+    "text_en": "The account of westward migration follows Route 66 through Gallup and Flagstaff. Families face breakdowns and desert travel while learning to help one another.",
+    "text_zh": "描写西迁的章节沿着六十六号公路经过盖洛普和弗拉格斯塔夫。各家面对车辆故障和沙漠旅途，也逐渐学会相互扶持。",
+    "highlight_en": [
+      "Gallup",
+      "Flagstaff"
+    ],
+    "highlight_zh": [
+      "盖洛普",
+      "弗拉格斯塔夫"
+    ],
+    "status": "draft",
+    "fact_source": "https://americanliterature.com/author/john-steinbeck/book/the-grapes-of-wrath/chapter-12"
+  },
+  {
+    "id": "gow-s2",
+    "kind": "scene",
+    "book_id": "grapes-of-wrath",
+    "place_ids": [
+      "sallisaw"
+    ],
+    "location": "Opening chapters",
+    "location_zh": "开篇数章",
+    "text_en": "Returning from prison to the countryside near Sallisaw, Tom meets Jim Casy. At home they discover that the family has been forced off its land.",
+    "text_zh": "汤姆出狱后回到萨利索附近的乡间，遇见吉姆·凯西。他们回家后发现，家人已被迫离开土地。",
+    "highlight_en": [
+      "Sallisaw"
+    ],
+    "highlight_zh": [
+      "萨利索"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Grapes_of_Wrath"
+  },
+  {
+    "id": "gow-s3",
+    "kind": "scene",
+    "book_id": "grapes-of-wrath",
+    "place_ids": [
+      "weedpatch-camp"
+    ],
+    "location": "Government camp episode",
+    "location_zh": "政府营地片段",
+    "text_en": "At the government camp associated with Weedpatch, the Joads find washing facilities and a community governed by its residents. The improvement in daily life cannot solve their shortage of paid work.",
+    "text_zh": "在以威德帕奇为背景的政府营地，乔德一家找到了洗浴设施，也见到由居民自治的社区。生活条件改善了，却仍解决不了缺少有酬工作的困境。",
+    "highlight_en": [
+      "Weedpatch"
+    ],
+    "highlight_zh": [
+      "威德帕奇"
+    ],
+    "status": "draft",
+    "fact_source": "https://www.steinbeckintheschools.com/the-grapes-of-wrath-reading-guides/setting"
+  },
+  {
+    "id": "otr-s1",
+    "kind": "scene",
+    "book_id": "on-the-road",
+    "place_ids": [
+      "denver"
+    ],
+    "location": "Part 1",
+    "location_zh": "第一部",
+    "text_en": "On his first trip west, Sal reaches Denver and joins Dean, Carlo and their friends. Their parties and restless plans draw him further into Dean’s circle.",
+    "text_zh": "第一次西行时，萨尔抵达丹佛，与迪安、卡洛及朋友们会合。聚会和不断变动的计划让他更深地融入迪安的圈子。",
+    "highlight_en": [
+      "Denver"
+    ],
+    "highlight_zh": [
+      "丹佛"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/On_the_Road"
+  },
+  {
+    "id": "otr-s2",
+    "kind": "scene",
+    "book_id": "on-the-road",
+    "place_ids": [
+      "san-francisco"
+    ],
+    "location": "Part 1",
+    "location_zh": "第一部",
+    "text_en": "In San Francisco, Sal stays with Remi and Lee Ann. Remi finds him work guarding a camp for merchant sailors, but Sal soon moves on.",
+    "text_zh": "在旧金山，萨尔与雷米和莉安住在一起。雷米替他找到看守商船海员营地的工作，但萨尔很快又上路了。",
+    "highlight_en": [
+      "San Francisco"
+    ],
+    "highlight_zh": [
+      "旧金山"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/On_the_Road"
+  },
+  {
+    "id": "twc-s1",
+    "kind": "scene",
+    "book_id": "travels-with-charley",
+    "place_ids": [
+      "fargo"
+    ],
+    "location": "Part 3, North Dakota",
+    "location_zh": "第三部，北达科他",
+    "text_en": "Steinbeck arrives in Fargo with a vivid imagined city already in mind. Its everyday bustle differs from that private picture, which he chooses to keep.",
+    "text_zh": "斯坦贝克抵达法戈时，心中早已有了一座鲜明的想象之城。眼前日常的繁忙景象与之不同，但他仍愿意保留那个私人想象。",
+    "highlight_en": [
+      "Fargo"
+    ],
+    "highlight_zh": [
+      "法戈"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Travels_with_Charley"
+  },
+  {
+    "id": "twc-s2",
+    "kind": "scene",
+    "book_id": "travels-with-charley",
+    "place_ids": [
+      "billings"
+    ],
+    "location": "Part 3, Montana",
+    "location_zh": "第三部，蒙大拿",
+    "text_en": "In Billings, Steinbeck buys a hat. Shopping gives him another reason to linger in a state whose towns and people have won his affection.",
+    "text_zh": "在比灵斯，斯坦贝克买了一顶帽子。这个州的城镇和居民令他喜爱，购物又给了他一个多逗留片刻的理由。",
+    "highlight_en": [
+      "Billings"
+    ],
+    "highlight_zh": [
+      "比灵斯"
+    ],
+    "status": "draft",
+    "fact_source": "https://gutenbergcanada.ca/ebooks/steinbeckj-travelswithcharley/steinbeckj-travelswithcharley-00-h.html"
+  },
+  {
+    "id": "aor-s1",
+    "kind": "scene",
+    "book_id": "angle-of-repose",
+    "place_ids": [
+      "kuna"
+    ],
+    "location": "Idaho section, Kuna",
+    "location_zh": "爱达荷部分，库纳",
+    "text_en": "The account of the Wards’ Idaho years turns to Kuna. The small settlement becomes a way of conveying the isolation of their western life.",
+    "text_zh": "叙述沃德一家在爱达荷的岁月时，故事转向库纳。这个小聚落让人感受到他们西部生活中的孤寂。",
+    "highlight_en": [
+      "Kuna"
+    ],
+    "highlight_zh": [
+      "库纳"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Kuna,_Idaho"
+  },
+  {
+    "id": "aor-s2",
+    "kind": "scene",
+    "book_id": "angle-of-repose",
+    "place_ids": [
+      "leadville"
+    ],
+    "location": "Colorado section, Leadville",
+    "location_zh": "科罗拉多部分，莱德维尔",
+    "text_en": "The family’s western history includes Leadville, where mining work shapes their circumstances. Lyman reconstructs this world while trying to understand his grandparents’ marriage.",
+    "text_zh": "家族的西部经历包括莱德维尔，矿业工作塑造了他们的生活处境。莱曼重建这个世界，试图理解祖父母的婚姻。",
+    "highlight_en": [
+      "Leadville"
+    ],
+    "highlight_zh": [
+      "莱德维尔"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Angle_of_Repose"
+  }
+]

@@ -154,7 +154,7 @@
   }
   // SVG view {k, x, y} -> MapLibre camera: same Web Mercator, so only scale and centre differ
   function sync(view, w, h) {
-    if (!map) return;
+    if (!map || !w || !h) return; // a hidden pane has no size: MapLibre cannot build its matrices for a 0×0 view
     const z = Math.log2((view.k * W) / 512);
     const X = (w / 2 - view.x) / view.k, Y = (h / 2 - view.y) / view.k;
     const lon = (X / W) * 360 - 180;

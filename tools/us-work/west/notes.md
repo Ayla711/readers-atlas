@@ -34,6 +34,6 @@ Angle of Repose scenes use broad section labels because no stable chapter number
 
 The Commons file page was successfully fetched to `cache/weedpatch-photo.html`; it explicitly contains CC BY 3.0 / Creative Commons Attribution 3.0 Unported. No image was downloaded. Every emitted quote’s correct ebook title and source match were checked.
 
-The replacement Honolulu Hale point remains outside the coarse polygon despite being an identified land building; a documented boundary exception is still necessary. All other 21 points fall in their expected state polygons.
+The replacement Honolulu Hale point was outside the preliminary coarse polygon. The final root audit downloaded official 2024 Census 1:500,000 state boundaries and confirmed all 22 western points in their expected states, including Honolulu. No boundary exception is required in the final validator.
 
 Independent central QA verified all 11 quote positions and 9 scene/place associations. Source section labels corrected to Foreword; Book 3, Lena Lingard, Chapter 1; and Part 2, Neighboring Fields, Chapter 7, with paired Chinese labels.

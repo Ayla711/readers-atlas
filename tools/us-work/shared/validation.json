@@ -1,0 +1,185 @@
+{
+  "books": 30,
+  "places": 69,
+  "lines": 60,
+  "quotations": 40,
+  "scenes": 20,
+  "photos": 5,
+  "states_covered": 51,
+  "state_places": {
+    "New Mexico": [
+      "gallup"
+    ],
+    "South Dakota": [
+      "ordway"
+    ],
+    "California": [
+      "weedpatch-camp",
+      "san-francisco"
+    ],
+    "Kentucky": [
+      "louisville"
+    ],
+    "Alabama": [
+      "monroeville"
+    ],
+    "Georgia": [
+      "eatonton"
+    ],
+    "Arkansas": [
+      "helena",
+      "fort-smith"
+    ],
+    "Pennsylvania": [
+      "pittsburgh-whitman"
+    ],
+    "Missouri": [
+      "hannibal"
+    ],
+    "Colorado": [
+      "denver",
+      "leadville"
+    ],
+    "Utah": [
+      "salt-lake-city"
+    ],
+    "Oklahoma": [
+      "sallisaw"
+    ],
+    "Tennessee": [
+      "memphis"
+    ],
+    "Wyoming": [
+      "medicine-bow"
+    ],
+    "Indiana": [
+      "indianapolis"
+    ],
+    "Massachusetts": [
+      "new-bedford",
+      "nantucket-island",
+      "walden-pond",
+      "concord-orchard-house"
+    ],
+    "Idaho": [
+      "kuna"
+    ],
+    "Alaska": [
+      "wrangell"
+    ],
+    "Nevada": [
+      "virginia-city"
+    ],
+    "Illinois": [
+      "cairo",
+      "chicago"
+    ],
+    "Vermont": [
+      "shaftsbury-frost-stone-house"
+    ],
+    "Minnesota": [
+      "minneapolis",
+      "saint-paul"
+    ],
+    "North Dakota": [
+      "fargo"
+    ],
+    "Iowa": [
+      "dubuque",
+      "burlington",
+      "davenport"
+    ],
+    "New Hampshire": [
+      "franconia-frost"
+    ],
+    "Delaware": [
+      "georgetown-entailed-hat",
+      "laurel-entailed-hat",
+      "dover-entailed-hat"
+    ],
+    "District of Columbia": [
+      "washington-whitman"
+    ],
+    "Connecticut": [
+      "hartford-stowe-house"
+    ],
+    "Montana": [
+      "billings"
+    ],
+    "Arizona": [
+      "flagstaff"
+    ],
+    "Nebraska": [
+      "lincoln-nebraska",
+      "omaha"
+    ],
+    "Washington": [
+      "seattle",
+      "tacoma"
+    ],
+    "Texas": [
+      "san-antonio"
+    ],
+    "Ohio": [
+      "clyde-winesburg"
+    ],
+    "Wisconsin": [
+      "pepin"
+    ],
+    "Oregon": [
+      "mount-hood"
+    ],
+    "Mississippi": [
+      "oxford-mississippi"
+    ],
+    "North Carolina": [
+      "wilmington-wellington"
+    ],
+    "Virginia": [
+      "falmouth-whitman"
+    ],
+    "West Virginia": [
+      "weirton-panhandle"
+    ],
+    "Louisiana": [
+      "new-orleans"
+    ],
+    "New York": [
+      "great-neck-west-egg",
+      "manhattan-plaza-hotel"
+    ],
+    "Michigan": [
+      "seney",
+      "fox-river"
+    ],
+    "Kansas": [
+      "marysville"
+    ],
+    "Florida": [
+      "eatonville",
+      "jacksonville"
+    ],
+    "New Jersey": [
+      "camden-whitman"
+    ],
+    "Maryland": [
+      "princess-anne-entailed-hat"
+    ],
+    "South Carolina": [
+      "sullivans-island",
+      "charleston-gold-bug"
+    ],
+    "Maine": [
+      "brunswick-stowe-house"
+    ],
+    "Hawaii": [
+      "honolulu"
+    ],
+    "Rhode Island": [
+      "providence-athenaeum-poe"
+    ]
+  },
+  "boundary_source": "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_us_state_500k.zip",
+  "boundary_unresolved": [],
+  "errors": []
+}

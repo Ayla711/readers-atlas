@@ -29,14 +29,16 @@ def main():
     title_keys = {(norm(b['title']), b['author']) for b in books}
     states = result['state_places']
     death = {}
+    photo_evidence = {}
     for region in ['central', 'west', 'east']:
         ev = read(WORK/region/'evidence.json')
+        photo_evidence.update(ev.get('photos', {}))
         for key in ['books', 'copyright']:
             for bid, value in ev.get(key, {}).items():
                 if not isinstance(value, dict):
                     continue
-                if 'death_year' in value or 'author_death' in value:
-                    death[bid] = (value.get('death_year', value.get('author_death')), value.get('author_source', value.get('source', '')))
+                if any(k in value for k in ['death_year', 'author_death', 'author_death_year']):
+                    death[bid] = (value.get('death_year', value.get('author_death', value.get('author_death_year'))), value.get('author_source', value.get('source', '')))
     report = [
         '# 美国内容包 · 第一批交付报告', '', '日期：2026-11-09。依据 `content-pack-spec.md` v1.1 与 `us-brief.md`。', '',
         '## 交付范围', '',
@@ -48,10 +50,11 @@ def main():
         '', '## 自查结果及导入边界', '',
         '- `node tools/validate.js`：现有英国网站数据通过，0 errors。该工具固定读取英国 `data/*.js` 与英国边界，不能把此结果冒称为美国包通过导入。',
         f'- `python3 tools/validate_us_pack.py`：{len(result["errors"])} errors；检查批次规模、必填字段、全局 ID、引用、高亮、语言、版权分流、原文逐字匹配、照片完整性及州覆盖。机器结果位于 `tools/us-work/shared/validation.json`。',
+        '- 独立重新下载 18 份古登堡全文后，40 条摘句全部逐字匹配，未依赖生成脚本自己的判断。下载 URL 与 SHA-256 见 `tools/us-work/shared/fresh-source-check.json`。',
         '- 同时对照 `packs/existing-ids.json` 与实时 `data/*.js` 快照查重。后者有 161 本书、259 个地点、212 条内容，较交付的英国快照新增条目也纳入冲突检查。美国 Oxford 使用 `oxford-mississippi`。',
         '- 英国寿命加 70 年口径采用任务规定的 1955 年去世截止线。海明威、福克纳、斯坦贝克、赫斯顿、怀尔德、弗罗斯特等仍只写场景说明，即使美国古登堡有全文也不引用。规则参考 [英国政府版权期限说明](https://www.gov.uk/copyright/how-long-copyright-lasts)。',
         '- 坐标从公开页面的十进制度数或度分秒换算后保留四位小数；整数末尾的零不影响 JSON 数值精度。城市、河流及山地的代表点用途逐条注明，不伪称精确场景地址。',
-        '- 州边界独立检查使用 [PublicaMundi 美国州 GeoJSON](https://raw.githubusercontent.com/PublicaMundi/MappingAPI/master/data/geojson/us-states.json)，该边界较粗，不替代正式导入器。Honolulu 使用公开的市政厅陆地坐标作为城市代表点，仍落在此粗略多边形外；有明确文献依据的例外保存在 `boundary-exceptions.json`。正式导入时须复查该点。',
+        '- 州边界独立检查最终使用 [美国人口普查局 2024 年 1:500,000 州界](https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_us_state_500k.zip)。69 个地点全部落入其预期州／DC，没有手动落区例外。较粗的初检边界曾漏掉 Nantucket、Sullivan’s Island 和 Honolulu；精细官方边界已全部解决，未为了通过检查移动正确坐标。Honolulu 使用有公开出处的市政厅陆地点作为城市代表，不声称小说场景发生于该楼。',
         '- 阿拉斯加使用 Wrangell 的实际美国地点；没有把加拿大育空或克朗代克写入美国。',
         '- Commons 页面已核对允许许可，照片只交文件标题及双语说明。导入器仍需重新查许可、下载与生成署名。',
         '', '## 书目、作者与版权依据', '',
@@ -67,7 +70,11 @@ def main():
         elif b['author'] == 'Alice Walker':
             desc += '；在世作者'
         report.append(f"| {b['title_zh']} / `{b['id']}` | {b['author']} | {tier} | {desc} | {counts[b['id']]} |")
-    report += ['', '## 每州地点数量', '', '| 一级区 | 数量 | 地点 ID |', '|---|---:|---|']
+    report += ['', '## 照片许可核验', '', '| 地点 | Commons 文件页 | 已核实许可 |', '|---|---|---|']
+    for pid, photo in photos.items():
+        ev = photo_evidence[pid]
+        report.append(f'| `{pid}` | [{photo["commons_file"]}]({ev["file_page"]}) | {ev["license"]} |')
+    report += ['', 'Brunswick 配图为约 1905 年的历史明信片，双语说明已明确，不代表建筑当前外观。', '', '## 每州地点数量', '', '| 一级区 | 数量 | 地点 ID |', '|---|---:|---|']
     for state, ids in sorted(states.items()):
         report.append(f'| {state} | {len(ids)} | ' + '、'.join(f'`{x}`' for x in ids) + ' |')
     report += ['', '## 选题调整与名单外依据', '',
@@ -80,7 +87,7 @@ def main():
         '- 《飘》《Look Homeward, Angel》本轮未找到满足指定 Gutenberg 下载流程的可用文本，暂缓；不以记忆引文代替。《大地》主要情节在中国，未用美国故居冒充小说发生地。',
         '- 印第安纳 Indianapolis 的摘句是人物说明自己的来处，并非当地正在发生的场景；地点说明已明确。城市规模清单和作者序言属于真实地点提及，但文学展示优先级可在人工审核时降低。',
         '', '## 外部名单完整去向', '',
-        f'名单含 {len(canon["authors"])} 位作者、{len(canon["sites"])} 处故居、{len(canon["big_read"])} 条书单来源记录；去重后为 {len({(b["title"],b["author"]) for b in canon["big_read"]}) 部作品。同书被两份书单收录时，下表合并出处。', '',
+        f'名单含 {len(canon["authors"])} 位作者、{len(canon["sites"])} 处故居、{len(canon["big_read"])} 条书单来源记录；去重后为 {len({(b["title"],b["author"]) for b in canon["big_read"]})} 部作品。同书被两份书单收录时，下表合并出处。', '',
         '### 作者', '', '| 作者 | 级别 | 本批处理／暂缓原因 |', '|---|---|---|'
     ]
     for a in canon['authors']:
@@ -113,12 +120,13 @@ def main():
         '| 名单地点 | 州 | 本批处理／暂缓原因 |', '|---|---|---|']
     # Map actual retained pilgrimage entries to canonical names by explicit identifying words.
     for site in canon['sites']:
-        candidates = [p for p in places if p['place_type'] == 'pilgrimage' and
+        candidates = [p for p in places if (p['place_type'] == 'pilgrimage' and
                       (('Stowe' in site['name'] and 'stowe' in p['id'] and
                         (('Brunswick' in site['name'] and 'brunswick' in p['id']) or ('Hartford' in site['name'] and 'hartford' in p['id']))) or
-                       ('Frost Stone House' in site['name'] and 'frost' in p['id'] and 'stone' in p['id']))]
+                       ('Frost Stone House' in site['name'] and 'frost' in p['id'] and 'stone' in p['id']))) or
+                      ('Orchard House' in site['name'] and p['id'] == 'concord-orchard-house')]
         if candidates:
-            reason = '已收：' + '、'.join('`'+p['id']+'`' for p in candidates)
+            reason = '已收：' + '、'.join('`'+p['id']+'`（'+p['place_type']+'）' for p in candidates)
         elif site.get('status') in ['private', 'not open', "scholars' retreat"]:
             reason = '暂缓：私人／非普通开放场所，需进一步核验访问说明和自由许可实地照片；本批不引导造访。'
         else:
