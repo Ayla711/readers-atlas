@@ -1,0 +1,79 @@
+/* The Reader's Atlas — review page (review.html). Same paper and ink as the atlas. */
+:root {
+  --paper: #f7f2e8; --paper-raised: #fffdf7; --paper-line: #ddd2bd;
+  --ink: #2b343c; --ink-soft: #5f6873; --ink-body: #3d4750;
+  --postage: #c0392b; --postage-deep: #9c2b1f; --postage-tint: #ecd0ca;
+  --stamp-blue: #2c5f8a; --highlight: #e9c995; --ok: #2f6e4f; --ok-tint: #d9e8dc;
+  --f-display: "Fraunces", "Noto Serif SC", Georgia, serif;
+  --f-ui: "Inter", "Noto Sans SC", system-ui, sans-serif;
+  --f-mono: "IBM Plex Mono", ui-monospace, monospace;
+  --radius: 10px;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--paper); color: var(--ink-body); font: 400 14px/1.55 var(--f-ui); }
+a { color: var(--stamp-blue); }
+code, kbd { font-family: var(--f-mono); font-size: 12px; }
+kbd { padding: 0 4px; border: 1px solid var(--paper-line); border-radius: 4px; background: var(--paper-raised); }
+
+.rv-head { display: flex; gap: 24px; align-items: flex-end; justify-content: space-between; flex-wrap: wrap; padding: 24px 32px 12px; border-bottom: 1px solid var(--paper-line); }
+.rv-title h1 { margin: 0; font: 600 28px/1.2 var(--f-display); color: var(--ink); }
+.rv-title p { margin: 4px 0 0; color: var(--ink-soft); max-width: 70ch; }
+.rv-progress { text-align: right; color: var(--ink-soft); }
+.rv-progress strong { color: var(--ink); }
+.rv-progress span { font-size: 12px; }
+.rv-msg { margin-top: 4px; color: var(--postage-deep); font-weight: 500; }
+
+.rv-filters { position: sticky; top: 0; z-index: 2; display: flex; gap: 14px; align-items: end; flex-wrap: wrap; padding: 12px 32px; background: var(--paper); border-bottom: 1px solid var(--paper-line); }
+.rv-filters label { display: grid; gap: 2px; font-size: 12px; color: var(--ink-soft); }
+.rv-filters .grow { flex: 1 1 220px; }
+.rv-filters select, .rv-filters input[type=search] { font: inherit; font-size: 14px; color: var(--ink); padding: 6px 8px; border: 1px solid var(--paper-line); border-radius: 6px; background: var(--paper-raised); }
+.rv-tools { display: flex; gap: 8px; }
+.rv-tools button, .rv-file, .rv-decide button { font: 500 13px var(--f-ui); color: var(--ink); padding: 7px 12px; border: 1px solid var(--paper-line); border-radius: 6px; background: var(--paper-raised); cursor: pointer; }
+.rv-file { position: relative; display: inline-flex; align-items: center; }
+.rv-file input { position: absolute; inset: 0; opacity: 0; cursor: pointer; }
+.rv-keys { margin: 10px 32px 0; color: var(--ink-soft); font-size: 12px; }
+
+.rv-list { display: grid; gap: 16px; padding: 16px 32px 64px; max-width: 980px; }
+.rv-empty { color: var(--ink-soft); }
+.rv-card { padding: 16px 20px; border: 1px solid var(--paper-line); border-left: 4px solid var(--paper-line); border-radius: var(--radius); background: var(--paper-raised); outline: none; }
+.rv-card.is-cursor { box-shadow: 0 0 0 2px var(--stamp-blue); }
+.rv-card.is-approve, .rv-card.is-reviewed { border-left-color: var(--ok); }
+.rv-card.is-reject, .rv-card.is-rejected { border-left-color: var(--postage); }
+.rv-card header { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; font-size: 12px; }
+.rv-id { font-family: var(--f-mono); color: var(--ink-soft); }
+.rv-tag { padding: 1px 7px; border-radius: 99px; background: var(--paper); border: 1px solid var(--paper-line); color: var(--ink-soft); font-size: 11.5px; }
+.rv-status { margin-left: auto; font-weight: 600; color: var(--ink-soft); }
+.is-approve .rv-status, .is-reviewed .rv-status { color: var(--ok); }
+.is-reject .rv-status, .is-rejected .rv-status { color: var(--postage-deep); }
+.rv-card h2 { margin: 8px 0 0; font: 600 18px/1.3 var(--f-display); color: var(--ink); }
+.rv-card h2 a { color: inherit; text-decoration: none; }
+.rv-card h2 a:hover { text-decoration: underline; }
+.rv-card h2 span { display: block; font: 400 12.5px var(--f-ui); color: var(--ink-soft); margin-top: 2px; }
+.rv-loc { margin: 4px 0 0; font-size: 12.5px; color: var(--ink-soft); }
+.rv-card blockquote { margin: 10px 0 0; padding: 10px 14px; border-left: 3px solid var(--highlight); background: var(--paper); font: 400 16px/1.6 var(--f-display); color: var(--ink); white-space: pre-line; }
+.rv-card blockquote.is-scene { font-family: var(--f-ui); font-size: 14.5px; }
+.rv-card blockquote.is-zh { font-family: "Noto Serif SC", serif; font-size: 15px; border-left-color: var(--paper-line); }
+.rv-card blockquote.is-orig { font-style: italic; }
+.rv-card mark { background: var(--highlight); color: inherit; padding: 0 1px; border-radius: 2px; }
+.rv-card details { margin-top: 6px; font-size: 13px; }
+.rv-src { margin: 6px 0 0; font-size: 12px; color: var(--ink-soft); word-break: break-word; }
+.rv-places { list-style: none; margin: 10px 0 0; padding: 0; display: grid; gap: 8px; }
+.rv-places li { padding: 8px 10px; border: 1px dashed var(--paper-line); border-radius: 8px; }
+.rv-place { font-weight: 600; }
+.rv-coord { margin-left: 6px; font-family: var(--f-mono); font-size: 12px; }
+.rv-note { margin-top: 3px; font-size: 13px; }
+.rv-decide { display: flex; gap: 8px; margin-top: 12px; }
+.rv-decide .ok { border-color: var(--ok); color: var(--ok); }
+.rv-decide .ok:hover { background: var(--ok-tint); }
+.rv-decide .no { border-color: var(--postage); color: var(--postage-deep); }
+.rv-decide .no:hover { background: var(--postage-tint); }
+.rv-why[hidden] { display: none; }
+.rv-why { margin-top: 10px; display: grid; gap: 8px; }
+.rv-reasons { display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: 13px; }
+.rv-why textarea { font: inherit; padding: 8px; border: 1px solid var(--paper-line); border-radius: 6px; background: var(--paper); resize: vertical; }
+button:focus-visible, a:focus-visible, select:focus-visible, input:focus-visible, textarea:focus-visible { outline: 2px solid var(--postage); outline-offset: 2px; }
+@media (max-width: 700px) {
+  .rv-head, .rv-filters, .rv-list { padding-left: 16px; padding-right: 16px; }
+  .rv-keys { margin-left: 16px; }
+  .rv-progress { text-align: left; }
+}

@@ -164,7 +164,7 @@
         "data/us/places.js",
         "data/us/lines.js"
       ],
-      "open": false,
+      "open": true,
       "short": "US",
       "short_zh": "美国",
       "small_regions": [

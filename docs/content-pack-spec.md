@@ -1,10 +1,10 @@
-# 内容数据包格式（Content Pack）· v1.1
+# 内容数据包格式（Content Pack）· v1.2
 
 | 项 | 内容 |
 |---|---|
 | 用途 | 把一个国家（或地区）的书、地点、摘句、照片清单，按固定格式交给 The Reader's Atlas 导入。写内容的人或 AI 只需要按这个格式产出文件，不需要碰网站代码 |
 | 提出 | 2026-11-08（用户决定：美国、中国、欧洲的内容可以交给其他 AI 产出，直接导入） |
-| 导入工具 | `tools/import_pack.py <pack_dir>`（Week 2 完成）。导入前后自动跑 `tools/validate.js` 和 `tools/check_coverage.js` |
+| 导入工具 | `python3 -I tools/import_pack.py packs/<国家> [--dry-run]`（11-09 完成）：机器核对形状、id、引用、古登堡原文逐字、高亮、版权、坐标落区、作者拼法、照片许可，写 `IMPORT.md`；之后跑 `node tools/validate.js <国家>` |
 | 关联 | `docs/week1-uk-spec.md` 第 6 节（数据规格）、6.6（审核流程）、`docs/plan-week2-5.md` |
 | 样例 | `packs/uk/`：英国数据反向导出的样例包（11-08）。给 Codex 做美国包的任务说明在 `packs/us-brief.md`，选题名单在 `tools/canon-us.json`，已占用的 id 在 `packs/existing-ids.json` |
 
@@ -127,7 +127,7 @@ packs/<country>/            country 用 ISO 3166-1 两位小写代码：us、cn�
 - `location` 英文用阿拉伯数字（`Chapter 7`、`Book 2, Chapter 3`、`Act 4, Scene 1`），有标题的章写标题。
 - 原作不是英文：`text_orig` 填原文，`text_en` 填英译，`translation` 填译本名称和译者（如 `Constance Garnett (1912)`），并加 `translation_source: { kind, id | url }` 指向这个译本的公有领域全文，脚本同样逐字核对译文。**没有公有领域英译的，暂时不收这条**（中国部分的英译方案待定，见 `week1-uk-spec.md` D-5）。
 - `highlight_en`（和 `highlight_orig`）里的词必须在对应文本里原样出现。
-- 一本书 1–10 条，宁少勿滥。每条都要真的写到那个地点。
+- 一本书 1–10 条，宁少勿滥。每条都要真的写到那个地点：这个地方在这段文字里有分量（场景、感受、描写），不是顺带提到地名、过境、统计或里程（11-09 补充）。
 
 **有版权的书：场景说明**
 
@@ -148,7 +148,8 @@ packs/<country>/            country 用 ISO 3166-1 两位小写代码：us、cn�
 }
 ```
 
-- 用自己的话，一两句，说这一处发生了什么。不要引原文，不要模仿原文的句式。
+- 用自己的话，一两句，说这一处发生了什么：谁、在这里、做了什么或看到了什么——一个具体的瞬间，不是情节概括或主题评论（11-09 补充）。不要引原文，不要模仿原文的句式。
+- `highlight_zh` 必填，与 `highlight_en` 对应（11-09 补充）。
 - `fact_source` 写情节依据（维基百科、书评、梗概页面），方便审核时核对章节和情节。
 
 ### 3.4 `photos.json`
@@ -200,3 +201,4 @@ packs/<country>/            country 用 ISO 3166-1 两位小写代码：us、cn�
 |---|---|---|
 | 2026-11-08 | v1.0 | 首版 |
 | 2026-11-08 | v1.1 | 加样例包 `packs/uk/`、美国任务说明和名单的指引 |
+| 2026-11-09 | v1.2 | 美国第一批导入后的补充：摘句须是“地方有分量”的段落；场景说明写具体的一刻、`highlight_zh` 必填；`note`、`note_en`、`prototype_of(_en)` 末尾不带句号（导入器也会去掉）；行 id 以国家代码开头（如 `us`）；交付前在仓库根目录跑 `python3 -I tools/import_pack.py packs/<国家> --dry-run`，0 错误再交 |

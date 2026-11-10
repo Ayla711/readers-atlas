@@ -1,0 +1,28 @@
+{
+  "books": [
+    {
+      "id": "specimen-days",
+      "title": "Specimen Days",
+      "title_zh": "典型的日子",
+      "author": "Walt Whitman",
+      "author_zh": "沃尔特·惠特曼",
+      "year": "1882",
+      "orig_lang": "en",
+      "public_domain": true,
+      "source_url": "https://www.gutenberg.org/ebooks/8813",
+      "aliases": []
+    }
+  ],
+  "places": [],
+  "lines": [],
+  "photos": {},
+  "remove_line_ids": [
+    "useh-3",
+    "useh-4"
+  ],
+  "remove_place_ids": [
+    "laurel-entailed-hat",
+    "dover-entailed-hat"
+  ],
+  "remove_book_ids": []
+}

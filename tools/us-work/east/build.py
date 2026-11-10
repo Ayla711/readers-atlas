@@ -79,6 +79,34 @@ files=['Stowe Center for Literary Activism (55618577734).jpg','Whitmore House, B
 for i,pid in enumerate(['hartford-stowe-house','brunswick-stowe-house','providence-athenaeum-poe','shaftsbury-frost-stone-house']):
  p=next(x for x in places if x['id']==pid);photos[pid]={'commons_file':'File:'+files[i],'alt_en':p['name']+' exterior','alt_zh':p['name_zh']+'外观','crop':None}
  ev['photos'][pid]={'file_page':'https://commons.wikimedia.org/wiki/File:'+urllib.parse.quote(files[i].replace(' ','_')),'license':licenses[i],'cache':f'photo{i}.html'}
+# Final independent editorial review: complete sentences, accurate source headings,
+# and dated pilgrimage facts. Keep all extraction changes reproducible.
+def revise_quote(lid, start, end, zh):
+ l=next(x for x in lines if x['id']==lid);pg=l['source']['id'];t=read(f'pg{pg}.txt')
+ a=t.index(start);z=t.index(end,a)+len(end);l['text_en']=t[a:z];l['text_zh']=zh
+ next(x for x in spec if x['id']==lid).update(start=start,end=end)
+ ev['quotes'][lid].update(start_offset=a,end_offset=z,sha256=hashlib.sha256(l['text_en'].encode()).hexdigest())
+revise_quote('ussd-4','Oblivious of the two or three hundred miles across','vast collections of coal-barges.','横穿宾夕法尼亚两三百英里的路程，不知不觉便过去了；早晨抵达匹兹堡吃早餐。城市与伯明翰区尽收眼底：雾气与湿气、烟雾、炼焦炉、火焰、变色的木屋，还有大批运煤驳船。')
+revise_quote('usgg-2','One October day in nineteen-seventeen—','and half on the lawns.','一九一七年十月的一天——那天下午，乔丹·贝克挺直身子坐在广场饭店茶园的一把直背椅上，这样说道——我正从一个地方走向另一个地方，一会儿走在人行道上，一会儿走在草坪上。')
+revise_quote('usgb-2','Just before sunset I scrambled my way through the evergreens to','re-passage were very far behind those of the present day.','日落前，我穿过常青树丛，费力地来到朋友的小屋；我已有几个星期没去看他了。我当时住在查尔斯顿，离岛九英里，而往返交通的便利程度远远不及今天。')
+for lid,en,zh in [('usmt-1','Chapter 16, Ellis Takes a Trick','第16章：埃利斯赢得一局'),('useh-3','Chapter 24, Old Chimneys','第24章：旧烟囱'),('useh-4','Chapter 21, Long Separations','第21章：漫长的分别')]:
+ next(x for x in lines if x['id']==lid).update(location=en,location_zh=zh)
+pilgrimage_notes={
+ 'hartford-stowe-house':('Harriet Beecher Stowe lived here from 1873 until her death in 1896. Her later home is now a public house museum at the Stowe Center for Literary Activism; Uncle Tom’s Cabin had been published in 1852, before she lived here.','哈丽特·比彻·斯托从一八七三年起住在这里，直至一八九六年去世。这座晚年故居如今是斯托文学行动中心对公众开放的故居博物馆；《汤姆叔叔的小屋》早在一八五二年便已出版，并非在此写成。'),
+ 'brunswick-stowe-house':('Harriet Beecher Stowe and her family rented this house from 1850 to 1852, when she wrote Uncle Tom’s Cabin. It now belongs to Bowdoin College and contains faculty offices; scheduled public access is limited to Harriet’s Writing Room. The house is not a setting of the novel.','哈丽特·比彻·斯托与家人于一八五〇至一八五二年租住此屋，其间写作《汤姆叔叔的小屋》。房屋现属鲍登学院，内设教师办公室；公众只能按开放安排参观哈丽特写作室。这里并非小说的故事地点。'),
+ 'providence-athenaeum-poe':('Edgar Allan Poe and Sarah Helen Whitman visited this library during their 1848 courtship; she ended their relationship here on December 23. It remains a member-supported library open to visitors. Poe did not live here, and The Gold-Bug is not set here.','埃德加·爱伦·坡与莎拉·海伦·惠特曼在一八四八年交往期间到访这座图书馆；十二月二十三日，她在这里结束了两人的关系。这里如今仍是向访客开放的会员制图书馆。坡并未居住于此，《金甲虫》的故事也不发生在这里。'),
+ 'shaftsbury-frost-stone-house':('Robert Frost lived here from 1920 to 1929 and wrote poems collected in New Hampshire, including Stopping by Woods on a Snowy Evening. The house is now a public museum owned by Bennington College; its position does not identify the poem’s unnamed woods.','罗伯特·弗罗斯特于一九二〇至一九二九年居住在此，写下后来收入《新罕布什尔》的诗篇，其中包括《雪夜林边小驻》。这里如今是本宁顿学院所属、对公众开放的博物馆；故居位置不能用于确定诗中未具名的树林。')
+}
+for p in places:
+ p['name_zh']=p['name_zh'].replace('哈丽雅特','哈丽特')
+ if p['id'] in pilgrimage_notes:p['note_en'],p['note']=pilgrimage_notes[p['id']]
+ if p['id']=='brunswick-stowe-house':p['fact_source']='https://www.bowdoin.edu/english/stowe-house/index.html'
+for ph in photos.values():ph['alt_zh']=ph['alt_zh'].replace('哈丽雅特','哈丽特')
+photos['brunswick-stowe-house'].update(alt_en='Historical postcard, circa 1905, showing the Harriet Beecher Stowe House in Brunswick',alt_zh='约一九〇五年的历史明信片，展示布伦斯威克的哈丽特·比彻·斯托故居')
+for p in places:
+ if p['place_type']=='original':
+  line=next(l for l in lines if p['id'] in l['place_ids'])
+  p['fact_source']=next(b['source_url'] for b in books if b['id']==line['book_id'])
 assert len(books)==10 and len(lines)==20 and len(places)==24
 for l in lines:
  assert all(h in l['text_en'] for h in l['highlight_en'])

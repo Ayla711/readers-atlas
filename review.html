@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <title>Review · The Reader's Atlas</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400..600;1,9..144,400&family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@400;500;600&family=Noto+Serif+SC:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/review.css?v=1">
+</head>
+<body>
+  <header class="rv-head">
+    <div class="rv-title">
+      <h1>审核</h1>
+      <p>The Reader's Atlas · 摘句与场景说明。规则见 <code>docs/review-rules.md</code>。决定先存在这个浏览器里，审完点“导出审核结果”。</p>
+    </div>
+    <div class="rv-progress" id="progress" aria-live="polite"></div>
+  </header>
+
+  <form class="rv-filters" id="filters" onsubmit="return false">
+    <label>国家 <select id="f-country"><option value="">全部</option></select></label>
+    <label>类型 <select id="f-kind">
+      <option value="">全部</option><option value="quote">摘句</option><option value="scene">场景说明</option>
+    </select></label>
+    <label>状态 <select id="f-status">
+      <option value="todo">待审</option><option value="approve">本次通过</option><option value="reject">本次打回</option>
+      <option value="reviewed">已通过（数据里）</option><option value="rejected">已打回（数据里）</option><option value="">全部</option>
+    </select></label>
+    <label class="grow">搜索 <input id="f-q" type="search" placeholder="书名、作者、地点、id、原文"></label>
+    <span class="rv-tools">
+      <button type="button" id="export">导出审核结果</button>
+      <label class="rv-file">导入<input type="file" id="import" accept=".json,application/json"></label>
+    </span>
+  </form>
+
+  <p class="rv-keys">键盘：<kbd>J</kbd>/<kbd>K</kbd> 下一条/上一条 · <kbd>A</kbd> 通过 · <kbd>R</kbd> 打回 · <kbd>U</kbd> 撤销决定</p>
+  <main id="list" class="rv-list"></main>
+
+  <script src="data/countries.js?v=4"></script>
+  <script src="js/data.js?v=1" data-v="36"></script>
+  <script src="js/store.js?v=1"></script>
+  <script src="js/review.js?v=1"></script>
+</body>
+</html>

@@ -29,6 +29,7 @@
 ```
 index.html          页面
 css/style.css       样式
+review.html         审核页：逐条审摘句和场景说明，规则见 docs/review-rules.md；结果导出后用 tools/apply_review.py 写回
 js/data.js          按需加载一个国家的数据文件（data/<国家>/…），国家之间排队、互不干扰（11-09，R-3）
 js/app.js           全部交互逻辑（无第三方库）
 js/store.js         个人数据（心愿单、去过、行程、书架、收藏、笔记、偏好）唯一的读写入口；导出 / 导入（11-09，R-6、R-7）
@@ -49,6 +50,8 @@ images/places/      地点照片（800 px 宽，来自 Wikimedia Commons；署�
 tools/countries.json  国家配置（数据来源的真身）；tools/build_countries.py 生成 data/countries.js
 tools/build_geo.py  重新生成 data/<国家>/geo.js 和 data/world-geo.js 的脚本：`python3 -I tools/build_geo.py <admin1> <admin0> uk data/uk/geo.js`，`… world data/world-geo.js`
 tools/build_intro_geo.py  重新生成 data/intro-geo.js 的脚本
+tools/import_pack.py  导入内容包（docs/content-pack-spec.md），机器核对后写 data/<国家>/
+tools/apply_review.py 把审核页导出的结果写回数据（reviews/ 存放导出文件）
 tools/validate.js   数据校验：`node tools/validate.js [国家代码]`，默认 uk
 tools/checks/       页面检查脚本（标签重叠、圆点、对比度、无障碍、中文字符、旅行小旗），见其 README；`tools/checks/run_all.sh` 全跑
 tools/content/      内容制作：`batchlib.py`（手写批次的共用函数）、`batches/`（英国各批次原件）、`photos/`（Commons 照片流水线），见其 README

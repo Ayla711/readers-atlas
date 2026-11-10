@@ -9,6 +9,7 @@ python3 tools/us-work/east/build.py
 python3 tools/us-work/central/build.py
 python3 tools/us-work/west/build.py
 python3 tools/assemble_us_pack.py
+node tools/us-work/shared/snapshot_current_ids.js
 python3 tools/validate_us_pack.py
 python3 tools/report_us_pack.py
 node tools/validate.js

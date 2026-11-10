@@ -23,6 +23,7 @@
   const slug = (s) => s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
   const authors = new Map();
   function indexCountry(geo, data) {
+    data.lines = data.lines.filter((l) => l.status !== "rejected"); // turned down in review (docs/review-rules.md): not shown
     for (const b of data.books) books.set(b.id, b);
     for (const p of data.places) places.set(p.id, p);
     for (const r of geo.regions) regions.set(r.id, r);
@@ -110,6 +111,7 @@
   }
   function assignRegions(list, geo) {
     for (const p of list) {
+      if (p.region && geo.regions.some((r) => r.id === p.region)) continue; // set in the data: a border town the simplified map puts on the wrong side
       const u = geo.units.find((unit) => inRings(p.lon, p.lat, unit.g));
       if (u) { p.region = u.r; continue; }
       // coastal points just outside the simplified coastline (a pier, a harbour wall): take the region
@@ -1811,7 +1813,7 @@
       <p class="sub">${t.storedLocal}</p>
       <div class="stat-row">
         <div><strong>${visited.length}</strong>${t.statVisited}</div>
-        ${[...mounted.values()].map(({ cfg, geo }) => `<div><strong>${new Set(visited.filter((p) => p.country === cfg.code).map((p) => p.region)).size}/${geo.regions.length}</strong>${t.statRegions(countryShort(cfg))}</div>`).join("")}
+        ${[...mounted.values()].map(({ cfg, geo }) => `<div><strong>${new Set(visited.filter((p) => p.country === cfg.code).map((p) => p.region)).size}/${geo.regions.length}</strong>${t.statRegions(countryShort(cfg), zh() ? cfg.region_term.zh : cfg.region_term.en)}</div>`).join("")}
         <div><strong>${trips.length}</strong>${t.statStops}</div>
       </div>
       <h3>${t.trip}</h3>

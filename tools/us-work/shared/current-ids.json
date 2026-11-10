@@ -804,6 +804,31 @@
       "id": "black-butler",
       "title": "Black Butler",
       "author": "Yana Toboso"
+    },
+    {
+      "id": "le-morte-darthur",
+      "title": "Le Morte d'Arthur",
+      "author": "Thomas Malory"
+    },
+    {
+      "id": "idylls-of-the-king",
+      "title": "Idylls of the King",
+      "author": "Alfred, Lord Tennyson"
+    },
+    {
+      "id": "sir-gawain-green-knight",
+      "title": "Sir Gawain and the Green Knight",
+      "author": "Anonymous (the Gawain Poet)"
+    },
+    {
+      "id": "roman-de-brut",
+      "title": "Roman de Brut",
+      "author": "Wace"
+    },
+    {
+      "id": "once-and-future-king",
+      "title": "The Once and Future King",
+      "author": "T. H. White"
     }
   ],
   "authors": [
@@ -912,7 +937,11 @@
     "Alexandre Dumas",
     "Julius Caesar",
     "Victor Hugo",
-    "Yana Toboso"
+    "Yana Toboso",
+    "Thomas Malory",
+    "Anonymous (the Gawain Poet)",
+    "Wace",
+    "T. H. White"
   ],
   "places": [
     "london",
@@ -1173,7 +1202,15 @@
     "brentford-monument",
     "isle-of-portland",
     "southwark",
-    "southampton"
+    "southampton",
+    "tintagel-castle",
+    "glastonbury-abbey",
+    "winchester-great-hall",
+    "cadbury-castle",
+    "dozmary-pool",
+    "luds-church",
+    "caerleon",
+    "slaughterbridge"
   ],
   "line_ids": [
     "ct-1",
@@ -1387,6 +1424,18 @@
     "mwl-1",
     "mwl-2",
     "bb-s1",
-    "bb-s2"
+    "bb-s2",
+    "mda-1",
+    "mda-2",
+    "mda-3",
+    "mda-4",
+    "id-1",
+    "id-2",
+    "id-3",
+    "gk-1",
+    "wb-1",
+    "wb-2",
+    "wb-3",
+    "ofk-s1"
   ]
 }

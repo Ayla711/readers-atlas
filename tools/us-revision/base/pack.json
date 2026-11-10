@@ -1,0 +1,9 @@
+{
+  "country": "us",
+  "country_name": "United States",
+  "country_name_zh": "美国",
+  "region_scheme": "state",
+  "produced_by": "Codex",
+  "produced_at": "2026-11-09",
+  "notes": "第一批：30 本书；50 州及华盛顿特区覆盖。所有摘句与场景说明为 draft，等待导入和人工审核；未开始第二批。坐标、原文截取和照片许可核验记录见 tools/us-work/，范围与选题说明见 REPORT.md。"
+}

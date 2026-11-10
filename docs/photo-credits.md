@@ -168,3 +168,8 @@
 | Lud's Church, Staffordshire | Bill Boaden | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AThe_way_into_Lud%27s_Church_-_geograph.org.uk_-_2039805.jpg) |
 | Caerleon | johnelamper (Flickr) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ACaerleon_-_johnelamper_-_X.jpg) |
 | Slaughterbridge, on the River Camel | Andy F | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABridgeOverRiverCamelSlaughterbridgeCornwall.jpg) |
+| Harriet Beecher Stowe House, Hartford | ajay_suresh | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AStowe_Center_for_Literary_Activism_%2855618577734%29.jpg) |
+| Providence Athenaeum | Schwerdf | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AProvidence_Athenaeum_2024-07-13.jpg) |
+| Robert Frost Stone House Museum | Rolf Müller ( User:Rolfmueller ) | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3ARobert_Frost_Stone_House_Museum_Shaftsbury_2006.jpg) |
+| Weedpatch Camp | Bobak Ha'Eri | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A2009-0820-WeedpatchCamp-CommunityHall.jpg) |
+| Harriet Beecher Stowe House, Brunswick | Hugh C. Leighton Company | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3AWhitmore_House%2C_Brunswick%2C_ME.jpg) |

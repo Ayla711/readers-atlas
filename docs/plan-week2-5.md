@@ -51,9 +51,9 @@
 | R-5 ✅ 11-09 | 路由和界面去英国化：`#/uk` → `#/{country}`；`goUK`、`gUK`、面包屑 “United Kingdom”、左上角标题、`zoom-uk` 按钮、世界首页点国家的逻辑（有数据的国家进入，没有的提示“开放时间”）全部读国家配置 | `app.js`、`i18n.js` | 英国所有旧链接仍然可用（`#/uk` 保留） |
 | R-6 ✅ 11-09 | 个人数据收口：新建 `js/store.js`，提供 `get/set` 之外的领域方法（`wishlist.add`、`visited.toggle`、`shelf.set`、`faves.toggle`、`notes.set`、`itinerary.add/remove`、`prefs`），`app.js` 不再直接碰 localStorage；`journal-store.js` 保持接口，内部并入同一套“本地 / 云端”切换 | `app.js`、新 `store.js` | `grep localStorage js/app.js` 为 0；行为不变 |
 | R-7 ✅ 11-09 | 导出 / 导入个人数据（JSON 文件，R-5 风险项）：侧栏“我的旅行”底部一个入口；导出的 JSON 形状就是将来同步到后端的形状 | `store.js`、`app.js`、`i18n.js` | 导出再导入后数据一致 |
-| R-8 | `tools/import_pack.py` 和 `tools/export_pack.py`：按 `content-pack-spec.md` 校验、核对原文、查照片许可、并入 `data/<country>/`；先用英国反向导出的包做回归（导出 → 导入 → 和现在一致） | 新脚本 | 英国包往返一致 |
+| R-8 ◐ 11-09 | `tools/import_pack.py` 和 `tools/export_pack.py`：按 `content-pack-spec.md` 校验、核对原文、查照片许可、并入 `data/<country>/`；先用英国反向导出的包做回归（导出 → 导入 → 和现在一致） | 新脚本 | 英国包往返一致 |
 | R-9 | 排行榜示例版：“我的旅行”统计区加“你超过了 X% 的读者”，指标是去过的文学地点数和走过的一级区数；示例分布写在 `data/leaderboard-sample.js`，页面标“示例数据” | `app.js`、`i18n.js`、`css` | 中英文都有；数字随本机数据变 |
-| R-11 | 审核页 `#/review`：列出所有 `status: "draft"` 的摘句和场景说明，逐条看原文与地点、一键通过 / 打回并写备注；结果导出 `decisions.json`，`tools/apply_review.py` 写回数据文件 | `app.js`、`i18n.js`、新脚本 | 审完的条目 status 变 reviewed，打回的进待办 |
+| R-11 ✅ 11-09 | 审核页（实际做成独立的 `review.html`，不进主应用）：列出所有 `status: "draft"` 的摘句和场景说明，逐条看原文与地点、一键通过 / 打回并写备注；结果导出 `decisions.json`，`tools/apply_review.py` 写回数据文件 | `app.js`、`i18n.js`、新脚本 | 审完的条目 status 变 reviewed，打回的进待办 |
 | R-10 | `app.js` 拆分（演示后）：至少把地图渲染、侧栏页面、路由、个人数据分成四个文件 | `js/` | 不改行为 |
 
 顺序建议：R-6、R-7 先做（独立、风险低、后端直接依赖）→ R-1、R-2、R-3、R-4 一起做（数据层）→ R-5（界面层）→ R-8 → R-9 → R-10。
@@ -96,6 +96,8 @@
 | 日期 | 版本 | 内容 |
 |---|---|---|
 | 2026-11-08 | v1.0 | 首版 |
+| 2026-11-09 | v1.7 | R-11 完成：审核规则 `docs/review-rules.md`；审核页 `review.html`（所有已开放国家的摘句和场景说明，筛选、键盘操作、通过 / 打回加原因和备注，存在浏览器里，导出 JSON）；`tools/apply_review.py` 写回 `data/<国家>/lines.js` 和内容包、追加 `docs/review-log.md`、给产出方生成 `REJECTED-<日期>.md`。新状态 `rejected`：网站不显示 |
+| 2026-11-09 | v1.6 | R-8 导入脚本完成（`tools/import_pack.py`：形状、id 冲突、引用、古登堡逐字、高亮、版权、坐标落州并对照 REPORT.md、作者拼法、照片许可重查与取图）；`export_pack.py` 与英国往返测试未做。美国第一批导入：30 本书、69 个地点、60 条、5 张照片，0 错误；美国在 `countries.js` 里开放。地点可带 `region` 字段（简化边界把河岸城镇划错时）。反馈给 Codex：`packs/us/REVIEW-1.md`；`content-pack-spec.md` v1.2 |
 | 2026-11-09 | v1.5 | 整体复盘后重排日程：后端提前到 11-11；Pages 11-09 上线；内容线 11-15 至 11-30；12 月第一周改为缓冲与彩排。新增 R-11 审核页；R-10 推到演示后。检查脚本与内容工具入库（`tools/checks/`、`tools/content/`），仓库加 `.gitignore`、README 加版本控制与上线一节。欧洲最小包缩为每国 15–20 本书 |
 | 2026-11-09 | v1.4 | 按用户要求撤回“切换国家即重载”：改为按需加载 + 增量挂载 + 同时显示（A-21 改写）。新 `js/data.js`（RA_LOAD）；`js/boot.js` 删除；app.js 的查找表、大区、标记、标签掩膜、搜索索引全部改成累计式 `mountCountry()`；掩膜编码扩到 144 个区、大国自动降分辨率；“国家尺度”的缩放阈值按国家宽度折算（`zCountry`）；首页区列表按国家分组，“我的旅行”按国家统计。用 Natural Earth 生成了 `data/us/geo.js`（51 州，无内容，`open: false`）做双国测试：加载、并存、深链接、标签布局（51 州 19 ms）全部通过；英国 8 个视图逐像素不变 |
 | 2026-11-09 | v1.3 | R-3 收尾、R-5 完成：路由 `#/<国家代码>`（`#/uk` 照旧）；面包屑、地图标题、封面提示、⤢ 按钮、统计文案、aria 标签都读国家配置（`short`/`name`）；大区颜色和“太小不标名”的区（伦敦）进配置（`wash`、`small_regions`）；世界页已开放的国家涂色可点（进入即重载到该国），未开放的国家悬停显示“暂未开放”；`#/xx` 指向未开放国家时回世界页。英国 6 个视图逐像素不变。决定 A-21 |

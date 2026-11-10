@@ -227,9 +227,9 @@
       "cache": "pg8813.txt"
     },
     "ussd-4": {
-      "start_offset": 374463,
+      "start_offset": 374397,
       "end_offset": 374659,
-      "sha256": "4fa5e59cc56ecae9f0216c97378ee5d972558442534c6d0f55fcbe93c46611f0",
+      "sha256": "b758177d52396aa86cfea529a2ae9215e50e71695bfa4d81a3cf14c9912720ab",
       "source_url": "https://www.gutenberg.org/cache/epub/8813/pg8813.txt",
       "cache": "pg8813.txt"
     },
@@ -255,9 +255,9 @@
       "cache": "pg64317.txt"
     },
     "usgg-2": {
-      "start_offset": 114345,
-      "end_offset": 114463,
-      "sha256": "f1dee9a7896ba2ffc4fe34d555baabadf376929829b07e83542258618bc66af5",
+      "start_offset": 114303,
+      "end_offset": 114560,
+      "sha256": "6febdd995155326e0179fe5c2a6fb291b88e4bda2031cacf71ac21475692dd8d",
       "source_url": "https://www.gutenberg.org/cache/epub/64317/pg64317.txt",
       "cache": "pg64317.txt"
     },
@@ -269,9 +269,9 @@
       "cache": "pg2147.txt"
     },
     "usgb-2": {
-      "start_offset": 196396,
+      "start_offset": 196262,
       "end_offset": 196601,
-      "sha256": "efc68c2330b32ab381aa605ae447c57b08fd5689eaa4faaf3919906a575f06ff",
+      "sha256": "d31f3d5395266430437462774bbd035eace8ea306ebab29caa44aadf6ff9e8b7",
       "source_url": "https://www.gutenberg.org/cache/epub/2147/pg2147.txt",
       "cache": "pg2147.txt"
     },

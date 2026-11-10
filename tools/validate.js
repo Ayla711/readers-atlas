@@ -94,13 +94,25 @@ for (const p of places) {
   if (typeof p.lat !== "number" || typeof p.lon !== "number") { err(`${label}: lat/lon must be numbers`); continue; }
   if (p.country !== COUNTRY_CODE) err(`place ${p.id}: country is ${JSON.stringify(p.country)}, expected "${COUNTRY_CODE}"`);
   const unit = GEO.units.find((u) => inRings(p.lon, p.lat, u.g));
-  if (unit) placeRegion[p.id] = unit.r;
+  if (p.region) {
+    // a region given in the data: only for a border town the simplified map puts on the wrong side
+    if (!GEO.regions.some((r) => r.id === p.region)) err(`${label}: region ${p.region} does not exist`);
+    else {
+      let best = Infinity;
+      const c = Math.cos((p.lat * Math.PI) / 180);
+      for (const u of GEO.units) if (u.r === p.region) for (const ring of u.g) for (const [x, y] of ring) best = Math.min(best, Math.hypot((x - p.lon) * c, y - p.lat) * 111.2);
+      if (unit && unit.r === p.region) warn(`${label}: region ${p.region} is set but the coordinates already fall there; the field can go`);
+      else if (best > 5) err(`${label}: region ${p.region} is set but the point is ${best.toFixed(1)} km from it`);
+      placeRegion[p.id] = p.region;
+    }
+  }
+  else if (unit) placeRegion[p.id] = unit.r;
   else {
     const { km, region } = nearest(p.lon, p.lat);
     // islands Natural Earth leaves out (e.g. Holy Island) are flagged in the data and may sit up to 6 km off
     // mainland places on a coast that the simplified line cuts short (flag rough_coast) may sit up to 4 km off
     const limit = p.offshore_island ? 6 : p.rough_coast ? 4 : 2;
-    if (km > limit) err(`${label}: ${p.lat}, ${p.lon} is ${km.toFixed(1)} km outside the UK regions`);
+    if (km > limit) err(`${label}: ${p.lat}, ${p.lon} is ${km.toFixed(1)} km outside ${COUNTRY.name}`);
     else { placeRegion[p.id] = region; if (!p.offshore_island) warn(`${label}: just off the simplified coastline (${km.toFixed(1)} km), counted in ${region}`); }
   }
   if (p.place_type === "prototype") need(p, ["prototype_of", "prototype_of_en"], label);
@@ -140,7 +152,7 @@ for (const l of lines) {
   if (b && !scene && b.orig_lang !== "en" && !b.orig_note && !l.text_orig) err(`${label}: ${b.orig_lang} original needs text_orig`);
   for (const term of l.highlight_en || []) if (!(l.text_en || "").includes(term)) err(`${label}: highlight_en "${term}" not found in text_en`);
   for (const term of l.highlight_orig || []) if (!(l.text_orig || "").includes(term)) err(`${label}: highlight_orig "${term}" not found in text_orig`);
-  if (!["draft", "reviewed"].includes(l.status)) err(`${label}: status must be draft or reviewed`);
+  if (!["draft", "reviewed", "rejected"].includes(l.status)) err(`${label}: status must be draft, reviewed or rejected`);
 }
 
 // ---------- summary against the Week 1 content targets (spec 6.5) ----------

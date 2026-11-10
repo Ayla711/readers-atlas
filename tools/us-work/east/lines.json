@@ -127,8 +127,8 @@
     ],
     "location": "Begin a Long Jaunt West",
     "location_zh": "开始向西的长途旅行",
-    "text_en": "at Pittsburgh in the morning to breakfast. Pretty good\r\nview of the city and Birmingham--fog and damp, smoke, coke-furnaces,\r\nflames, discolor'd wooden houses, and vast collections of coal-barges.",
-    "text_zh": "早晨抵达匹兹堡吃早餐。城市与伯明翰区尽收眼底：雾气与湿气、烟雾、炼焦炉、火焰、变色的木屋，还有大批运煤驳船。",
+    "text_en": "Oblivious of the two or three hundred miles across\r\nPennsylvania; at Pittsburgh in the morning to breakfast. Pretty good\r\nview of the city and Birmingham--fog and damp, smoke, coke-furnaces,\r\nflames, discolor'd wooden houses, and vast collections of coal-barges.",
+    "text_zh": "横穿宾夕法尼亚两三百英里的路程，不知不觉便过去了；早晨抵达匹兹堡吃早餐。城市与伯明翰区尽收眼底：雾气与湿气、烟雾、炼焦炉、火焰、变色的木屋，还有大批运煤驳船。",
     "highlight_en": [
       "Pittsburgh"
     ],
@@ -207,8 +207,8 @@
     ],
     "location": "Chapter 4",
     "location_zh": "第4章",
-    "text_en": "(said Jordan Baker that afternoon, sitting up very straight on a\r\nstraight chair in the tea-garden at the Plaza Hotel)",
-    "text_zh": "那天下午，乔丹·贝克挺直身子坐在广场饭店茶园的一把直背椅上，这样说道。",
+    "text_en": "One October day in nineteen-seventeen—\r\n\r\n(said Jordan Baker that afternoon, sitting up very straight on a\r\nstraight chair in the tea-garden at the Plaza Hotel)\r\n\r\n—I was walking along from one place to another, half on the sidewalks\r\nand half on the lawns.",
+    "text_zh": "一九一七年十月的一天——那天下午，乔丹·贝克挺直身子坐在广场饭店茶园的一把直背椅上，这样说道——我正从一个地方走向另一个地方，一会儿走在人行道上，一会儿走在草坪上。",
     "highlight_en": [
       "Plaza Hotel"
     ],
@@ -247,8 +247,8 @@
     ],
     "location": "Opening, the October visit",
     "location_zh": "开篇：十月的拜访",
-    "text_en": "my\r\n      residence being, at that time, in Charleston, a distance of nine\r\n      miles from the island, while the facilities of passage and\r\n      re-passage were very far behind those of the present day.",
-    "text_zh": "我当时住在查尔斯顿，离岛九英里，而往返交通的便利程度远远不及今天。",
+    "text_en": "Just before sunset I scrambled my way through the evergreens to\r\n      the hut of my friend, whom I had not visited for several weeks—my\r\n      residence being, at that time, in Charleston, a distance of nine\r\n      miles from the island, while the facilities of passage and\r\n      re-passage were very far behind those of the present day.",
+    "text_zh": "日落前，我穿过常青树丛，费力地来到朋友的小屋；我已有几个星期没去看他了。我当时住在查尔斯顿，离岛九英里，而往返交通的便利程度远远不及今天。",
     "highlight_en": [
       "Charleston"
     ],
@@ -265,8 +265,8 @@
     "place_ids": [
       "wilmington-wellington"
     ],
-    "location": "Chapter 15, Mrs. Carteret Seeks an Explanation",
-    "location_zh": "第15章：卡特雷特夫人寻求解释",
+    "location": "Chapter 16, Ellis Takes a Trick",
+    "location_zh": "第16章：埃利斯赢得一局",
     "text_en": "Twenty years before, Wellington had been the world's greatest\r\nshipping port for naval stores. But as the turpentine industry had moved\r\nsouthward, leaving a trail of devastated forests in its rear, the city\r\nhad fallen to a poor fifth or sixth place in this trade, relying now\r\nalmost entirely upon cotton for its export business.",
     "text_zh": "二十年前，威灵顿曾是世界上最大的船用物资出口港。可是松节油产业一路南移，身后留下遭毁坏的森林，城市在这项贸易中已跌至第五或第六位，如今出口几乎完全依靠棉花。",
     "highlight_en": [
@@ -365,8 +365,8 @@
     "place_ids": [
       "laurel-entailed-hat"
     ],
-    "location": "Chapter 25, The Broad Creek",
-    "location_zh": "第25章：布罗德溪",
+    "location": "Chapter 24, Old Chimneys",
+    "location_zh": "第24章：旧烟囱",
     "text_en": "Take this old woods road\r\nalong Broad Creek and walk to Laurel, five miles; it's a little town on\r\nthe creek.",
     "text_zh": "沿着这条旧林间小路，顺布罗德溪走五英里，就到劳雷尔了；那是溪边的一座小镇。",
     "highlight_en": [
@@ -385,8 +385,8 @@
     "place_ids": [
       "dover-entailed-hat"
     ],
-    "location": "Chapter 23, A Terrible Crime",
-    "location_zh": "第23章：可怕的罪行",
+    "location": "Chapter 21, Long Separations",
+    "location_zh": "第21章：漫长的分别",
     "text_en": "\"To Dover, in Delaware,\" Vesta answered. \"You can ride to Laurel by\r\ndark, Samson, and get to Dover to-morrow afternoon.\"",
     "text_zh": "“到特拉华州的多佛去，”维斯塔回答，“萨姆森，你天黑前可以骑到劳雷尔，明天下午就能到多佛。”",
     "highlight_en": [

@@ -12,10 +12,10 @@
 
 ## 自查结果及导入边界
 
-- `node tools/validate.js`：现有英国网站数据通过，0 errors。该工具固定读取英国 `data/*.js` 与英国边界，不能把此结果冒称为美国包通过导入。
+- `node tools/validate.js`：现有英国网站数据通过，0 errors。交付过程中项目已更新为 `data/<country>/` 结构；最新工具支持国家参数，但默认仍检查英国网站数据，并不直接读取 `packs/us/`。因此不把这个结果冒称为美国包通过导入。
 - `python3 tools/validate_us_pack.py`：0 errors；检查批次规模、必填字段、全局 ID、引用、高亮、语言、版权分流、原文逐字匹配、照片完整性及州覆盖。机器结果位于 `tools/us-work/shared/validation.json`。
 - 独立重新下载 18 份古登堡全文后，40 条摘句全部逐字匹配，未依赖生成脚本自己的判断。下载 URL 与 SHA-256 见 `tools/us-work/shared/fresh-source-check.json`。
-- 同时对照 `packs/existing-ids.json` 与实时 `data/*.js` 快照查重。后者有 161 本书、259 个地点、212 条内容，较交付的英国快照新增条目也纳入冲突检查。美国 Oxford 使用 `oxford-mississippi`。
+- 同时对照 `packs/existing-ids.json` 与交付前重新读取的 `data/<country>/*.js` 快照查重。后者有 166 本书、267 个地点、224 条内容，较交付的英国快照新增条目也纳入冲突检查。美国 Oxford 使用 `oxford-mississippi`。
 - 英国寿命加 70 年口径采用任务规定的 1955 年去世截止线。海明威、福克纳、斯坦贝克、赫斯顿、怀尔德、弗罗斯特等仍只写场景说明，即使美国古登堡有全文也不引用。规则参考 [英国政府版权期限说明](https://www.gov.uk/copyright/how-long-copyright-lasts)。
 - 坐标从公开页面的十进制度数或度分秒换算后保留四位小数；整数末尾的零不影响 JSON 数值精度。城市、河流及山地的代表点用途逐条注明，不伪称精确场景地址。
 - 州边界独立检查最终使用 [美国人口普查局 2024 年 1:500,000 州界](https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_us_state_500k.zip)。69 个地点全部落入其预期州／DC，没有手动落区例外。较粗的初检边界曾漏掉 Nantucket、Sullivan’s Island 和 Honolulu；精细官方边界已全部解决，未为了通过检查移动正确坐标。Honolulu 使用有公开出处的市政厅陆地点作为城市代表，不声称小说场景发生于该楼。
@@ -58,6 +58,18 @@
 | 在路上 / `on-the-road` | Jack Kerouac | 一级作者 | 仅场景说明；[去世于 1969](https://en.wikipedia.org/wiki/Jack_Kerouac) | 2 |
 | 与查理同行 / `travels-with-charley` | John Steinbeck | 一级作者 | 仅场景说明；[去世于 1968](https://sjsu.edu/steinbeck/resources/biography/index.php) | 2 |
 | 安息角 / `angle-of-repose` | Wallace Stegner | 二级作者 | 仅场景说明；[去世于 1993](https://en.wikipedia.org/wiki/Wallace_Stegner) | 2 |
+
+## 照片许可核验
+
+| 地点 | Commons 文件页 | 已核实许可 |
+|---|---|---|
+| `hartford-stowe-house` | [File:Stowe Center for Literary Activism (55618577734).jpg](https://commons.wikimedia.org/wiki/File:Stowe_Center_for_Literary_Activism_%2855618577734%29.jpg) | CC BY 4.0 |
+| `brunswick-stowe-house` | [File:Whitmore House, Brunswick, ME.jpg](https://commons.wikimedia.org/wiki/File:Whitmore_House%2C_Brunswick%2C_ME.jpg) | Public domain |
+| `providence-athenaeum-poe` | [File:Providence Athenaeum 2024-07-13.jpg](https://commons.wikimedia.org/wiki/File:Providence_Athenaeum_2024-07-13.jpg) | CC BY 4.0 |
+| `shaftsbury-frost-stone-house` | [File:Robert Frost Stone House Museum Shaftsbury 2006.jpg](https://commons.wikimedia.org/wiki/File:Robert_Frost_Stone_House_Museum_Shaftsbury_2006.jpg) | CC BY-SA 3.0 |
+| `weedpatch-camp` | [File:2009-0820-WeedpatchCamp-CommunityHall.jpg](https://commons.wikimedia.org/wiki/File:2009-0820-WeedpatchCamp-CommunityHall.jpg) | CC BY 3.0 |
+
+Brunswick 配图为约 1905 年的历史明信片，双语说明已明确，不代表建筑当前外观。
 
 ## 每州地点数量
 

@@ -1,0 +1,17 @@
+{
+  "books": [],
+  "places": [],
+  "lines": [],
+  "remove_line_ids": [
+    "lom-3",
+    "lom-5",
+    "lom-7"
+  ],
+  "remove_place_ids": [
+    "helena",
+    "burlington",
+    "davenport",
+    "minneapolis"
+  ],
+  "remove_book_ids": []
+}
