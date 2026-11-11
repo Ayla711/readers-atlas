@@ -1,6 +1,9 @@
 /* Interface strings. English is the default; the top-bar toggle switches to Chinese.
    Data fields follow the same rule: English fields (name, title, author, note_en …)
    in English mode, Chinese fields (name_zh, title_zh, author_zh, note …) in Chinese mode. */
+// English country names: "the UK", "the United States", but "China", "France"
+const RA_THE = (s) => (/^(UK|US|United |Netherlands|Czech Republic|Philippines)/.test(s) ? "the " + s : s);
+const RA_CAP = (s) => s.charAt(0).toUpperCase() + s.slice(1);
 window.RA_I18N = {
   en: {
     htmlLang: "en",
@@ -14,10 +17,10 @@ window.RA_I18N = {
     tabMap: "Map",
     tabTravel: "My travels",
     tabReading: "My books",
-    mapLabel: (c, full) => `Literary map of the ${full}`,
+    mapLabel: (c, full) => `Literary map of ${RA_THE(full)}`,
     zoomIn: "Zoom in",
     zoomOut: "Zoom out",
-    zoomUK: (c) => `Back to the ${c}`,
+    zoomUK: (c) => `Back to ${RA_THE(c)}`,
     legendLabel: "Filter by place type",
     types: {
       original: { label: "In the book", hint: "A real place named in the text" },
@@ -29,7 +32,7 @@ window.RA_I18N = {
     crumbWorld: "World",
     worldTitle: "The World",
     worldSub: "A literary atlas",
-    coverHint: (c, full) => `Click the ${full} to begin · swipe left or use the tab on the right to open the panel`,
+    coverHint: (c, full, many) => `Click ${many ? "a coloured country" : RA_THE(full)} to begin · swipe left or use the tab on the right to open the panel`,
     openPanel: "Open the panel",
     openPanelShort: "Explore",
     closePanel: "Close the panel",
@@ -45,13 +48,13 @@ window.RA_I18N = {
     tipTrip: " · trip planned",
     tipWish: " · on your wishlist",
     introTitle: "Start from a line, arrive at a place",
-    introSub: (c, b, l, p) => `The ${c} so far: ${b} books, ${l} excerpts and ${p} places.`,
+    introSub: (c, b, l, p) => `${RA_CAP(RA_THE(c))} so far: ${b} books, ${l} excerpts and ${p} places.`,
     introSteps: [
       "Click a region on the map to see the places that made it into books.",
       "Click a marker to read the lines written about it. Works not first written in modern English can be switched to the original text.",
       "Add places to your wishlist, plan visits, plant a flag where you've been and keep a travel diary; mark the books you've read. Everything is kept on this computer.",
     ],
-    introRegions: (n) => (n === 12 ? "The twelve regions" : "Regions and states"),
+    introRegions: (n) => (n === 12 ? "The twelve regions" : "Regions, states and provinces"),
     gettingStarted: "Getting started",
     cardTravelEyebrow: "Your journeys",
     cardTravelSub: (v, n) => `${v} place${v === 1 ? "" : "s"} visited · ${n} visit${n === 1 ? "" : "s"} planned`,
@@ -218,7 +221,7 @@ window.RA_I18N = {
     crumbWorld: "世界",
     worldTitle: "世界",
     worldSub: "文学地图",
-    coverHint: (c, full) => `点击${full}开始 · 向左轻扫，或点右侧标签打开侧栏`,
+    coverHint: (c, full, many) => `点击${many ? "有颜色的国家" : full}开始 · 向左轻扫，或点右侧标签打开侧栏`,
     openPanel: "打开侧栏",
     openPanelShort: "展开",
     closePanel: "收起侧栏",
@@ -240,7 +243,7 @@ window.RA_I18N = {
       "点一个标记，读写到它的句子；外语原作可以切换看原文。",
       "把想去的地方加入心愿单、安排行程，去过的地方会插上小旗子，还能写旅行日记；读过的书也可以标记。都存在这台电脑上。",
     ],
-    introRegions: (n) => (n === 12 ? "十二个大区" : "各国的大区"),
+    introRegions: (n) => (n === 12 ? "十二个大区" : "各国的大区、州和省"),
     gettingStarted: "使用方法",
     cardTravelEyebrow: "你的旅程",
     cardTravelSub: (v, n) => `去过 ${v} 个地点 · 已安排 ${n} 个行程`,
@@ -248,7 +251,7 @@ window.RA_I18N = {
     cardBooksSub: (r, w, f) => `读过 ${r} 本 · 想读 ${w} 本 · 收藏 ${f} 本 · 每本书都能写笔记`,
     nations: { england: "英格兰", wales: "威尔士", scotland: "苏格兰", ni: "北爱尔兰" },
     regionSub: (secondary, p, l) => `${secondary}，${p} 个地点，${l} 条摘句`,
-    regionEmpty: "这个大区还没有收录地点。书单里写到这里的书，审核完摘句后会出现在这里。",
+    regionEmpty: "这里还没有收录地点。书单里写到这里的书，审核完摘句后会出现在这里。",
     excerptsToCome: "摘句待补",
     filmContext: (kind, title, year, scene) => `${kind}《${title}》（${year}）的取景地：${scene}。`,
     linesHere: "写到这里的句子",

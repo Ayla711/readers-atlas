@@ -86,5 +86,35 @@ window.RA_COUNTRIES = [
    "data/us/lines.js"
   ],
   "open": true
+ },
+ {
+  "code": "cn",
+  "iso": "CHN",
+  "name": "China",
+  "name_zh": "中国",
+  "short": "China",
+  "short_zh": "中国",
+  "region_term": {
+   "en": "province",
+   "zh": "省"
+  },
+  "bounds": [
+   73.5,
+   18.1,
+   135.1,
+   53.6
+  ],
+  "small_regions": [
+   "CN-MO",
+   "CN-HK"
+  ],
+  "wash": {},
+  "data": [
+   "data/cn/geo.js",
+   "data/cn/books.js",
+   "data/cn/places.js",
+   "data/cn/lines.js"
+  ],
+  "open": false
  }
 ];

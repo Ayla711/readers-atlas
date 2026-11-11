@@ -35,6 +35,7 @@
     ];
   }
 
+  const OWN_AREAS = (window.RA_WORLD_OWN || []).flatMap((o) => o.border_area || []); // data/world-geo.js
   function style(zh) {
     return {
       version: 8,
@@ -72,8 +73,11 @@
         { id: "rail-hatch", type: "line", source: "omt", "source-layer": "transportation", minzoom: 14,
           filter: ["all", cls("rail"), ["!=", ["get", "brunnel"], "tunnel"]],
           paint: { "line-color": C.rail, "line-width": lerp([14, 3, 18, 7]), "line-dasharray": [0.2, 8] } },
+        // national borders, except inside a country drawn from its own point of view (China, decision A-22): there
+        // OpenStreetMap's lines follow de facto control, and the SVG draws that country's own land border instead
         { id: "country-border", type: "line", source: "omt", "source-layer": "boundary",
-          filter: ["all", ["==", ["get", "admin_level"], 2], ["!=", ["get", "maritime"], 1]],
+          filter: ["all", ["==", ["get", "admin_level"], 2], ["!=", ["get", "maritime"], 1],
+            ...(OWN_AREAS.length ? [["!", ["within", { type: "MultiPolygon", coordinates: OWN_AREAS }]]] : [])],
           paint: { "line-color": "#eea891", "line-width": lerp([5, 1, 10, 1.6, 14, 3]) } },
         ...road("minor", ["minor", "service"], 12.5, C.minorCase, C.minor, [12.5, 0.8, 14, 2.6, 16, 9, 18, 26], [12.5, 0.3, 14, 1.6, 16, 7, 18, 23]),
         ...road("mid", ["secondary", "tertiary"], 9, C.midCase, C.mid, [9, 0.6, 12, 2.4, 14, 5, 16, 13, 18, 32], [9, 0.3, 12, 1.5, 14, 3.6, 16, 11, 18, 29]),

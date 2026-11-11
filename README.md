@@ -39,10 +39,11 @@ js/intro.js         开场动画
 js/basemap.js       放大后的复古街道底图（只做视觉，不可点击）
 js/vendor/          MapLibre GL 4.7.1（BSD-3 许可，见 maplibre-gl.LICENSE.txt）
 data/countries.js   国家列表（代码、中英文名、一级区划叫法、视图范围、数据文件），由 tools/build_countries.py 从 tools/countries.json 生成
-data/world-geo.js   世界各国轮廓，由 tools/build_geo.py 生成，不要手改
-data/intro-geo.js   开场动画用的精简世界轮廓，由 tools/build_intro_geo.py 生成
+data/world-geo.js   世界各国轮廓（中国视角，决定 A-22），由 tools/build_geo.py 生成，不要手改
+data/intro-geo.js   开场动画用的精简世界轮廓（中国视角），由 tools/build_intro_geo.py 生成
+data/cn/geo.js      中国 34 个省级区和中国陆地边界，由 tools/cn_admin1.py + tools/build_geo.py 生成（内容暂空，未开放）
 data/uk/geo.js      英国的 12 个大区和 232 个单元，由 tools/build_geo.py 生成，不要手改
-data/us/geo.js      美国 50 州 + DC（内容文件暂空，countries.js 里未开放）
+data/us/geo.js      美国 50 州 + DC
 data/uk/books.js    书目
 data/uk/places.js   地点（country、place_type、adaptation 等字段）
 data/uk/lines.js    摘句（text_en、text_orig、highlight_en、highlight_orig、place_ids）
@@ -50,7 +51,17 @@ images/places/      地点照片（800 px 宽，来自 Wikimedia Commons；署�
 tools/countries.json  国家配置（数据来源的真身）；tools/build_countries.py 生成 data/countries.js
 tools/build_geo.py  重新生成 data/<国家>/geo.js 和 data/world-geo.js 的脚本：`python3 -I tools/build_geo.py <admin1> <admin0> uk data/uk/geo.js`，`… world data/world-geo.js`
 tools/build_intro_geo.py  重新生成 data/intro-geo.js 的脚本
+tools/pov_admin0.py 中国视角的世界轮廓：Natural Earth 只有 1:10m 有中国视角版，这个脚本把 1:50m / 1:110m 里形状不同的国家换掉（需要 shapely）
+tools/cn_admin1.py  中国视角的省级单元和陆地边界，供 build_geo.py 用（需要 shapely）
+  重新生成全部地图（Natural Earth 文件放在 ne/ 下）：
+    python3 -I tools/pov_admin0.py ne/ne_50m_admin_0_countries.geojson ne/ne_10m_admin_0_countries.geojson ne/ne_10m_admin_0_countries_chn.geojson /tmp/a0_50.geojson --simplify 0.02 --lines ne/ne_10m_admin_0_boundary_lines_maritime_indicator_chn.geojson
+    python3 -I tools/pov_admin0.py ne/ne_110m_admin_0_countries.geojson ne/ne_10m_admin_0_countries.geojson ne/ne_10m_admin_0_countries_chn.geojson /tmp/a0_110.geojson --simplify 0.1 --min-area 0.3
+    python3 -I tools/cn_admin1.py ne/ne_10m_admin_1_states_provinces.geojson ne/ne_10m_admin_0_countries_chn.geojson /tmp/cn_a1.geojson
+    python3 -I tools/build_geo.py /tmp/cn_a1.geojson /tmp/a0_50.geojson world data/world-geo.js
+    python3 -I tools/build_geo.py /tmp/cn_a1.geojson /tmp/a0_50.geojson cn data/cn/geo.js
+    python3 -I tools/build_intro_geo.py /tmp/a0_110.geojson data/intro-geo.js
 tools/import_pack.py  导入内容包（docs/content-pack-spec.md），机器核对后写 data/<国家>/
+tools/export_pack.py  反方向：把 data/<国家>/ 导出成内容包（packs/<国家>/）
 tools/apply_review.py 把审核页导出的结果写回数据（reviews/ 存放导出文件）
 tools/validate.js   数据校验：`node tools/validate.js [国家代码]`，默认 uk
 tools/checks/       页面检查脚本（标签重叠、圆点、对比度、无障碍、中文字符、旅行小旗），见其 README；`tools/checks/run_all.sh` 全跑

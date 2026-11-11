@@ -121,9 +121,12 @@ def chain(segments):
 def build_world():
     STEP_W = 0.03
     a0 = json.load(open(ADMIN0))
-    world = []
+    world, sea_lines = [], []
     for f in a0["features"]:
         p = f["properties"]
+        if p.get("ra_sea_line"):   # the South China Sea dashed line (tools/pov_admin0.py --lines), one feature per dash
+            sea_lines.append([[round(x, 3), round(y, 3)] for x, y in f["geometry"]["coordinates"]])
+            continue
         iso = p.get("ADM0_A3")
         if iso == "ATA":
             continue
@@ -142,7 +145,47 @@ def build_world():
         fh.write("window.RA_WORLD = ")
         json.dump(world, fh, ensure_ascii=False, separators=(",", ":"))
         fh.write(";\n")
-    print("world countries", len(world))
+        own = own_borders()
+        if own:
+            fh.write("window.RA_WORLD_OWN = ")
+            json.dump(own, fh, separators=(",", ":"))
+            fh.write(";\n")
+        if sea_lines:
+            fh.write("window.RA_WORLD_LINES = ")
+            json.dump(sea_lines, fh, separators=(",", ":"))
+            fh.write(";\n")
+    print("world countries", len(world), "sea lines", len(sea_lines))
+
+
+def own_borders():
+    """A country drawn from its own point of view (tools/cn_admin1.py, given here as the admin-1 file) supplies its
+    land border as it sees it and the area where the basemap's de facto national borders give way to it."""
+    out = []
+    try:
+        a1 = json.load(open(ADMIN1))
+    except (OSError, ValueError):
+        return out
+    for f in a1["features"]:
+        p = f["properties"]
+        if p.get("ra_land_border"):
+            step, lines = 0.02, []
+            for line in ([f["geometry"]["coordinates"]] if f["geometry"]["type"] == "LineString" else f["geometry"]["coordinates"]):
+                pts = []
+                for x, y in line:
+                    pt = [q(x, step), q(y, step)]
+                    if not pts or pts[-1] != pt:
+                        pts.append(pt)
+                if len(pts) >= 2:
+                    lines.append(pts)
+            out.append({"iso": p["adm0_a3"], "land_border": lines})
+    for f in a1["features"]:
+        p = f["properties"]
+        if p.get("ra_border_area"):
+            area = [[[[round(x, 2), round(y, 2)] for x, y in ring] for ring in poly] for poly in polygons(f["geometry"])]
+            for o in out:
+                if o["iso"] == p["adm0_a3"]:
+                    o["border_area"] = area
+    return out
 
 
 def region_of(p, cfg):
@@ -171,6 +214,8 @@ def build_country(cfg):
     for f in a1["features"]:
         p = f["properties"]
         if p.get("adm0_a3") != cfg["iso"]:
+            continue
+        if p.get("ra_land_border") or p.get("ra_border_area"):   # go to data/world-geo.js (build_world)
             continue
         rid = region_of(p, cfg)
         if not rid:

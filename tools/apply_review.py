@@ -57,7 +57,8 @@ for code, ds in by_country.items():
         new = NEW.get(d.get("decision"))
         if not new:
             continue
-        m = re.search(r'(\{ id: "' + re.escape(lid) + r'",[^\n]*?status: ")(draft|reviewed|rejected)(")', s)
+        # a record may span several lines (the hand-built UK file); stop at the next record
+        m = re.search(r'(\{ id: "' + re.escape(lid) + r'",(?:(?!\{ id: ")[\s\S])*?status: ")(draft|reviewed|rejected)(")', s)
         if not m:
             missing.append(lid)
             continue

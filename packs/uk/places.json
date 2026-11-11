@@ -9,7 +9,7 @@
   "city": true,
   "note": "这里的摘句写的是整座伦敦；城里的具体地点各有标记",
   "note_en": "The excerpts here are about London as a whole; places inside the city have markers of their own",
-  "coord_checked": "London — https://en.wikipedia.org/wiki/London"
+  "coord_checked": "London — https://en.wikipedia.org/wiki/London, 2026-11-03"
  },
  {
   "id": "southwark-tabard",
@@ -20,7 +20,7 @@
   "place_type": "original",
   "note": "博罗高街上泰巴德客栈的旧址，乔叟的朝圣者在这里集合；客栈 1873 年已拆除",
   "note_en": "Site of the Tabard inn on Borough High Street, where Chaucer's pilgrims gather; the inn was pulled down in 1873",
-  "coord_checked": "Chaucer's Tabard Inn — https://www.londonremembers.com/sites/chaucer-s-tabard-inn"
+  "coord_checked": "Chaucer's Tabard Inn — https://www.londonremembers.com/sites/chaucer-s-tabard-inn, 2026-11-03"
  },
  {
   "id": "canterbury-cathedral",
@@ -32,7 +32,7 @@
   "city": true,
   "note": "坎特伯雷大主教的座堂；乔叟笔下朝圣者要去的托马斯·贝克特圣龛曾在这里，1538 年被毁",
   "note_en": "Seat of the Archbishop of Canterbury; Thomas Becket's shrine, the goal of Chaucer's pilgrims, stood here until it was destroyed in 1538",
-  "coord_checked": "Canterbury Cathedral — https://en.wikipedia.org/wiki/Canterbury_Cathedral"
+  "coord_checked": "Canterbury Cathedral — https://en.wikipedia.org/wiki/Canterbury_Cathedral, 2026-11-03"
  },
  {
   "id": "ely-place",
@@ -43,7 +43,7 @@
   "place_type": "original",
   "note": "一条有门禁的私家街道，原是伊利主教的伦敦府邸，莎士比亚把冈特的约翰临终一场设在这里",
   "note_en": "A gated private street on the site of the Bishop of Ely's London palace, where Shakespeare sets John of Gaunt's deathbed",
-  "coord_checked": "Ely Place — https://en.wikipedia.org/wiki/Ely_Place"
+  "coord_checked": "Ely Place — https://en.wikipedia.org/wiki/Ely_Place, 2026-11-03"
  },
  {
   "id": "inverness",
@@ -55,7 +55,7 @@
   "city": true,
   "note": "尼斯河口的高地首府，莎士比亚把麦克白的城堡放在这里",
   "note_en": "The Highland capital at the mouth of the River Ness, where Shakespeare places Macbeth's castle",
-  "coord_checked": "Inverness — https://wikishire.co.uk/wiki/Inverness"
+  "coord_checked": "Inverness — https://wikishire.co.uk/wiki/Inverness, 2026-11-03"
  },
  {
   "id": "birnam",
@@ -66,7 +66,7 @@
   "place_type": "original",
   "note": "邓凯尔德附近泰河边的树林；那里有一棵老树被称作“勃南橡树”",
   "note_en": "Woods by the River Tay near Dunkeld; an old tree there is called the Birnam Oak",
-  "coord_checked": "Birnam Oak — https://thegreatbritainguide.com/place/birnam-oak/"
+  "coord_checked": "Birnam Oak — https://thegreatbritainguide.com/place/birnam-oak/, 2026-11-03"
  },
  {
   "id": "dunsinane",
@@ -77,7 +77,7 @@
   "place_type": "original",
   "note": "珀斯东北锡德洛丘陵中的一座山，山顶有铁器时代堡垒的遗迹",
   "note_en": "A hill in the Sidlaws north-east of Perth, with the remains of an Iron Age fort on top",
-  "coord_checked": "Dunsinane Hill — https://en.wikipedia.org/wiki/Dunsinane_Hill"
+  "coord_checked": "Dunsinane Hill — https://en.wikipedia.org/wiki/Dunsinane_Hill, 2026-11-03"
  },
  {
   "id": "st-pauls",
@@ -88,7 +88,7 @@
   "place_type": "original",
   "note": "拉德盖特山上的大教堂，1666 年伦敦大火后由克里斯托弗·雷恩重建",
   "note_en": "The cathedral on Ludgate Hill that Christopher Wren rebuilt after the Great Fire of 1666",
-  "coord_checked": "St Paul's Cathedral — https://en.wikipedia.org/wiki/St_Paul%27s_Cathedral"
+  "coord_checked": "St Paul's Cathedral — https://en.wikipedia.org/wiki/St_Paul%27s_Cathedral, 2026-11-03"
  },
  {
   "id": "highlands",
@@ -99,7 +99,7 @@
   "place_type": "original",
   "note": "苏格兰北部和西部的山地；诗里说的是整个高地，所以标记只放在大致中间",
   "note_en": "The mountainous north and west of Scotland; the poem means the Highlands as a whole, so the marker sits roughly in the middle",
-  "coord_checked": "Scottish Highlands — https://en.wikipedia.org/wiki/Scottish_Highlands"
+  "coord_checked": "Scottish Highlands — https://en.wikipedia.org/wiki/Scottish_Highlands, 2026-11-03"
  },
  {
   "id": "westminster-bridge",
@@ -110,7 +110,7 @@
   "place_type": "original",
   "note": "连接威斯敏斯特和兰贝斯的桥；现在的桥 1862 年建成，取代了华兹华斯走过的老桥",
   "note_en": "The bridge between Westminster and Lambeth; the present one opened in 1862, replacing the bridge Wordsworth crossed",
-  "coord_checked": "Westminster Bridge — https://en.wikipedia.org/wiki/Westminster_Bridge"
+  "coord_checked": "Westminster Bridge — https://en.wikipedia.org/wiki/Westminster_Bridge, 2026-11-03"
  },
  {
   "id": "tintern-abbey",
@@ -121,7 +121,7 @@
   "place_type": "original",
   "note": "怀伊河谷中的西多会修道院遗址；华兹华斯的诗是在它上游几英里的河边写的",
   "note_en": "The ruins of a Cistercian abbey in the Wye valley; Wordsworth's lines were written on the river a few miles upstream",
-  "coord_checked": "Tintern Abbey — https://en.wikipedia.org/wiki/Tintern_Abbey"
+  "coord_checked": "Tintern Abbey — https://en.wikipedia.org/wiki/Tintern_Abbey, 2026-11-03"
  },
  {
   "id": "lyme-cobb",
@@ -132,7 +132,7 @@
   "place_type": "original",
   "note": "多塞特郡莱姆里吉斯港口弧形的石砌防波堤",
   "note_en": "The curving stone harbour wall at Lyme Regis in Dorset",
-  "coord_checked": "The Cobb — https://www.thegreatbritainguide.com/place/the-cobb/"
+  "coord_checked": "The Cobb — https://www.thegreatbritainguide.com/place/the-cobb/, 2026-11-03"
  },
  {
   "id": "lincolns-inn",
@@ -143,7 +143,7 @@
   "place_type": "original",
   "note": "伦敦四大律师学院之一，大律师的事务所设在这里",
   "note_en": "One of the four Inns of Court, where barristers have their chambers",
-  "coord_checked": "Lincoln's Inn — https://wikishire.co.uk/wiki/Lincoln%27s_Inn"
+  "coord_checked": "Lincoln's Inn — https://wikishire.co.uk/wiki/Lincoln%27s_Inn, 2026-11-03"
  },
  {
   "id": "edinburgh",
@@ -155,7 +155,7 @@
   "city": true,
   "note": "苏格兰首府；摘句写的是整座城市，所以标记放在城市中心的老城",
   "note_en": "Scotland's capital; the excerpt describes the whole city, so the marker sits in the Old Town at its heart",
-  "coord_checked": "Old Town, Edinburgh — https://en.wikipedia.org/wiki/Old_Town,_Edinburgh"
+  "coord_checked": "Old Town, Edinburgh — https://en.wikipedia.org/wiki/Old_Town,_Edinburgh, 2026-11-03"
  },
  {
   "id": "baker-street",
@@ -166,7 +166,7 @@
   "place_type": "original",
   "note": "马里波恩的一条街；柯南·道尔把福尔摩斯的寓所放在 221B，当时并没有这个门牌号",
   "note_en": "A Marylebone street; Conan Doyle put Holmes's rooms at 221B, a number that did not exist then",
-  "coord_checked": "221B Baker Street — https://thegreatbritainguide.com/place/221b-baker-street/"
+  "coord_checked": "221B Baker Street — https://thegreatbritainguide.com/place/221b-baker-street/, 2026-11-03"
  },
  {
   "id": "whitby-abbey",
@@ -177,7 +177,7 @@
   "place_type": "original",
   "note": "惠特比东崖上的本笃会修道院遗址，要爬 199 级台阶上去",
   "note_en": "The ruined Benedictine abbey on the East Cliff above Whitby, reached by the 199 steps",
-  "coord_checked": "Whitby Abbey — https://en.wikipedia.org/wiki/Whitby_Abbey"
+  "coord_checked": "Whitby Abbey — https://en.wikipedia.org/wiki/Whitby_Abbey, 2026-11-03"
  },
  {
   "id": "tower-of-london",
@@ -188,7 +188,7 @@
   "place_type": "original",
   "note": "泰晤士河畔的诺曼城堡，做过王宫、监狱和刑场",
   "note_en": "The Norman fortress on the Thames that served as palace, prison and place of execution",
-  "coord_checked": "Tower of London — https://en.wikipedia.org/wiki/Tower_of_London"
+  "coord_checked": "Tower of London — https://en.wikipedia.org/wiki/Tower_of_London, 2026-11-03"
  },
  {
   "id": "big-ben",
@@ -199,7 +199,7 @@
   "place_type": "original",
   "note": "威斯敏斯特宫钟楼里的大钟，钟楼现名伊丽莎白塔",
   "note_en": "The great bell in the clock tower of the Palace of Westminster, now called the Elizabeth Tower",
-  "coord_checked": "Big Ben — https://en.wikipedia.org/wiki/Big_Ben"
+  "coord_checked": "Big Ben — https://en.wikipedia.org/wiki/Big_Ben, 2026-11-03"
  },
  {
   "id": "river-cam",
@@ -211,7 +211,7 @@
   "city": true,
   "note": "康河流经国王学院、沿“后园”（the Backs）的一段",
   "note_en": "The stretch of the Cam that runs past King's College along the Backs",
-  "coord_checked": "King's College, Cambridge — https://en.wikipedia.org/wiki/King%27s_College,_Cambridge"
+  "coord_checked": "King's College, Cambridge — https://en.wikipedia.org/wiki/King%27s_College,_Cambridge, 2026-11-03"
  },
  {
   "id": "stoke-poges",
@@ -222,7 +222,7 @@
   "place_type": "prototype",
   "prototype_of": "传统上认为是《墓畔哀歌》里的乡村墓园，但学界并无定论",
   "prototype_of_en": "Traditionally taken as the country churchyard of Gray's Elegy, though not all scholars agree",
-  "coord_checked": "Church of St Giles, Stoke Poges — https://en.wikipedia.org/wiki/Church_of_St_Giles,_Stoke_Poges"
+  "coord_checked": "Church of St Giles, Stoke Poges — https://en.wikipedia.org/wiki/Church_of_St_Giles,_Stoke_Poges, 2026-11-03"
  },
  {
   "id": "st-cross-winchester",
@@ -233,7 +233,7 @@
   "place_type": "prototype",
   "prototype_of": "诗中没有点名：1819 年 9 月济慈常沿这片水草甸散步，他写信告诉朋友，是星期天散步时看到的收割后的田野让他写下了这首诗；这条路线被普遍认为就是《秋颂》的风景",
   "prototype_of_en": "Not named in the poem: Keats walked these water meadows in September 1819 and told a friend in a letter that the stubble fields on his Sunday walk made him write it; the route is widely taken as the landscape of To Autumn",
-  "coord_checked": "St Cross — https://britainexpress.com/counties/hampshire/winchester/st-cross.htm"
+  "coord_checked": "St Cross — https://britainexpress.com/counties/hampshire/winchester/st-cross.htm, 2026-11-03"
  },
  {
   "id": "top-withens",
@@ -244,7 +244,7 @@
   "place_type": "prototype",
   "prototype_of": "常被和呼啸山庄联系在一起，主要是因为这里荒凉的高沼环境；不过废墟上勃朗特学会的牌子写明，这座农舍本身和艾米莉笔下的房子并不相像",
   "prototype_of_en": "Often linked with Wuthering Heights for its bleak moorland setting, though the Brontë Society's plaque at the ruin says the farmhouse itself bore no resemblance to the house Emily described",
-  "coord_checked": "Top Withens — https://britainexpress.com/counties/yorkshire/properties/top-withens.htm"
+  "coord_checked": "Top Withens — https://britainexpress.com/counties/yorkshire/properties/top-withens.htm, 2026-11-03"
  },
  {
   "id": "poets-corner",
@@ -298,7 +298,7 @@
    "Rupert Brooke"
   ],
   "note_en": "Chaucer was the first poet buried here, in 1400, more because he had been Clerk of Works of the Palace of Westminster than for his poems; Spenser's burial nearby in 1599 began the tradition. Dryden, Johnson, Browning, Tennyson, Dickens, Hardy (his ashes) and Kipling are buried here too, and many more writers have memorials, from Shakespeare and Milton to the Brontë sisters and Dylan Thomas",
-  "coord_checked": "Poets' Corner — https://en.wikipedia.org/wiki/Poets%27_Corner"
+  "coord_checked": "Poets' Corner — https://en.wikipedia.org/wiki/Poets%27_Corner, 2026-11-03"
  },
  {
   "id": "shakespeare-birthplace",
@@ -314,7 +314,7 @@
    "king-lear"
   ],
   "note_en": "Henley Street, Stratford-upon-Avon",
-  "coord_checked": "Shakespeare's Birthplace — https://en.wikipedia.org/wiki/Shakespeare%27s_Birthplace"
+  "coord_checked": "Shakespeare's Birthplace — https://en.wikipedia.org/wiki/Shakespeare%27s_Birthplace, 2026-11-03"
  },
  {
   "id": "dove-cottage",
@@ -328,7 +328,7 @@
    "wordsworth-poems"
   ],
   "note_en": "Wordsworth's home",
-  "coord_checked": "Dove Cottage — https://wikishire.co.uk/wiki/Dove_Cottage"
+  "coord_checked": "Dove Cottage — https://wikishire.co.uk/wiki/Dove_Cottage, 2026-11-03"
  },
  {
   "id": "keats-house",
@@ -342,7 +342,7 @@
    "to-autumn"
   ],
   "note_en": "Keats's home",
-  "coord_checked": "Keats House — https://wikishire.co.uk/wiki/Keats_House"
+  "coord_checked": "Keats House — https://wikishire.co.uk/wiki/Keats_House, 2026-11-03"
  },
  {
   "id": "chawton",
@@ -360,7 +360,7 @@
    "sense-and-sensibility"
   ],
   "note_en": "Where Austen did her later writing",
-  "coord_checked": "Jane Austen's House, Chawton — https://britishlistedbuildings.co.uk/101178917-jane-austens-house-chawton"
+  "coord_checked": "Jane Austen's House, Chawton — https://britishlistedbuildings.co.uk/101178917-jane-austens-house-chawton, 2026-11-03"
  },
  {
   "id": "bronte-parsonage",
@@ -376,7 +376,7 @@
    "agnes-grey"
   ],
   "note_en": "The Brontës' home from 1820, when their father Patrick became vicar of Haworth. Charlotte, Emily and Anne spent most of their lives here, and the moors around it run through their novels. A museum since 1928, run by the Brontë Society",
-  "coord_checked": "Brontë Parsonage — https://wikishire.co.uk/wiki/Bront%C3%AB_Parsonage"
+  "coord_checked": "Brontë Parsonage — https://wikishire.co.uk/wiki/Bront%C3%AB_Parsonage, 2026-11-03"
  },
  {
   "id": "dickens-museum",
@@ -397,7 +397,7 @@
    "tale-of-two-cities"
   ],
   "note_en": "48 Doughty Street",
-  "coord_checked": "Charles Dickens Museum — https://wikishire.co.uk/wiki/Charles_Dickens_Museum"
+  "coord_checked": "Charles Dickens Museum — https://wikishire.co.uk/wiki/Charles_Dickens_Museum, 2026-11-03"
  },
  {
   "id": "sherlock-museum",
@@ -412,7 +412,7 @@
    "hound-of-the-baskervilles"
   ],
   "note_en": "It carries the 221B Baker Street door number",
-  "coord_checked": "Sherlock Holmes Museum (Wikipedia) — https://en.wikipedia.org/wiki/Sherlock_Holmes_Museum"
+  "coord_checked": "Sherlock Holmes Museum (Wikipedia) — https://en.wikipedia.org/wiki/Sherlock_Holmes_Museum, 2026-11-03"
  },
  {
   "id": "xu-zhimo-stone",
@@ -427,7 +427,7 @@
    "cambridge-i-knew"
   ],
   "note_en": "A stone carved with lines from Saying Goodbye to Cambridge Again",
-  "coord_checked": "King's College, Cambridge (Wikipedia) — https://en.wikipedia.org/wiki/King%27s_College,_Cambridge"
+  "coord_checked": "King's College, Cambridge (Wikipedia) — https://en.wikipedia.org/wiki/King%27s_College,_Cambridge, 2026-11-03"
  },
  {
   "id": "lao-she-plaque",
@@ -441,7 +441,7 @@
    "mr-ma-and-son"
   ],
   "note_en": "Put up by English Heritage in 2003",
-  "coord_checked": "Lao She blue plaque — https://www.english-heritage.org.uk/visit/blue-plaques/lao-she/"
+  "coord_checked": "Lao She blue plaque — https://www.english-heritage.org.uk/visit/blue-plaques/lao-she/, 2026-11-03"
  },
  {
   "id": "cuckmere-cottages",
@@ -460,7 +460,7 @@
    "atonement"
   ],
   "scene_en": "Robbie and Cecilia's seaside cottage in the ending",
-  "coord_checked": "Coastguard Cottages, Cuckmere Haven — https://streetguide.co.uk/image/3685030"
+  "coord_checked": "Coastguard Cottages, Cuckmere Haven — https://streetguide.co.uk/image/3685030, 2026-11-03"
  },
  {
   "id": "leadenhall-market",
@@ -479,7 +479,7 @@
    "harry-potter-1"
   ],
   "scene_en": "Diagon Alley and the entrance to the Leaky Cauldron",
-  "coord_checked": "Leadenhall Market (Wikipedia) — https://en.wikipedia.org/wiki/Leadenhall_Market"
+  "coord_checked": "Leadenhall Market (Wikipedia) — https://en.wikipedia.org/wiki/Leadenhall_Market, 2026-11-03"
  },
  {
   "id": "christ-church",
@@ -499,7 +499,7 @@
    "harry-potter-2"
   ],
   "scene_en": "The staircase where first-years walk up to the Great Hall",
-  "coord_checked": "Christ Church, Oxford (Wikipedia) — https://en.wikipedia.org/wiki/Christ_Church,_Oxford"
+  "coord_checked": "Christ Church, Oxford (Wikipedia) — https://en.wikipedia.org/wiki/Christ_Church,_Oxford, 2026-11-03"
  },
  {
   "id": "alnwick-castle",
@@ -519,7 +519,7 @@
    "harry-potter-2"
   ],
   "scene_en": "Hogwarts exteriors and the flying lesson",
-  "coord_checked": "Alnwick Castle (Wikipedia) — https://en.wikipedia.org/wiki/Alnwick_Castle"
+  "coord_checked": "Alnwick Castle (Wikipedia) — https://en.wikipedia.org/wiki/Alnwick_Castle, 2026-11-03"
  },
  {
   "id": "glenfinnan",
@@ -539,7 +539,7 @@
    "harry-potter-2"
   ],
   "scene_en": "The Hogwarts Express crossing the viaduct",
-  "coord_checked": "Glenfinnan Viaduct (Wikipedia) — https://en.wikipedia.org/wiki/Glenfinnan_Viaduct"
+  "coord_checked": "Glenfinnan Viaduct (Wikipedia) — https://en.wikipedia.org/wiki/Glenfinnan_Viaduct, 2026-11-03"
  },
  {
   "id": "dyrham-park",
@@ -558,7 +558,7 @@
    "remains-of-the-day"
   ],
   "scene_en": "Darlington Hall's exterior and drive",
-  "coord_checked": "Dyrham Park (Wikipedia) — https://en.wikipedia.org/wiki/Dyrham_Park"
+  "coord_checked": "Dyrham Park (Wikipedia) — https://en.wikipedia.org/wiki/Dyrham_Park, 2026-11-03"
  },
  {
   "id": "chalcot-crescent",
@@ -577,7 +577,7 @@
    "paddington"
   ],
   "scene_en": "The Browns' house at 32 Windsor Gardens",
-  "coord_checked": "Numbers 24-46 and attached railings, Chalcot Crescent — https://historicengland.org.uk/listing/the-list/list-entry/1244108"
+  "coord_checked": "Numbers 24-46 and attached railings, Chalcot Crescent — https://historicengland.org.uk/listing/the-list/list-entry/1244108, 2026-11-03"
  },
  {
   "id": "doune-castle",
@@ -596,7 +596,7 @@
    "outlander"
   ],
   "scene_en": "Castle Leoch, seat of Clan MacKenzie",
-  "coord_checked": "Doune Castle (Wikipedia) — https://en.wikipedia.org/wiki/Doune_Castle"
+  "coord_checked": "Doune Castle (Wikipedia) — https://en.wikipedia.org/wiki/Doune_Castle, 2026-11-03"
  },
  {
   "id": "lindisfarne",
@@ -608,7 +608,7 @@
   "offshore_island": true,
   "note": "诺森伯兰海外的潮汐岛，每天两次被潮水隔断；圣艾丹于 635 年在岛上建立修道院",
   "note_en": "A tidal island off Northumberland, cut off by the sea twice a day; St Aidan founded its monastery in 635",
-  "coord_checked": "Lindisfarne (Wikipedia) — https://en.wikipedia.org/wiki/Lindisfarne"
+  "coord_checked": "Lindisfarne (Wikipedia) — https://en.wikipedia.org/wiki/Lindisfarne, 2026-11-03"
  },
  {
   "id": "bamburgh-castle",
@@ -619,7 +619,7 @@
   "place_type": "original",
   "note": "诺森伯兰海岸高岩上的城堡",
   "note_en": "A castle on a high rock above the Northumberland coast",
-  "coord_checked": "Bamburgh Castle (Wikipedia) — https://en.wikipedia.org/wiki/Bamburgh_Castle"
+  "coord_checked": "Bamburgh Castle (Wikipedia) — https://en.wikipedia.org/wiki/Bamburgh_Castle, 2026-11-03"
  },
  {
   "id": "glencoyne-bay",
@@ -630,7 +630,7 @@
   "place_type": "prototype",
   "prototype_of": "诗中没有点名：1802 年 4 月 15 日华兹华斯兄妹在这段湖岸看见成片的水仙，多萝西的日记记下了这一天，两年后华兹华斯写成这首诗",
   "prototype_of_en": "Not named in the poem: William and Dorothy Wordsworth saw the daffodils on this shore on 15 April 1802, as Dorothy's journal records; he wrote the poem two years later",
-  "coord_checked": "Glencoyne Bay, Ullswater - Wordsworth's daffodils — https://literaryrambles.org/walks/uk/england/north-west/glencoyne-bay-ullswater-lake-district-wordsworths-daffodils-7792"
+  "coord_checked": "Glencoyne Bay, Ullswater - Wordsworth's daffodils — https://literaryrambles.org/walks/uk/england/north-west/glencoyne-bay-ullswater-lake-district-wordsworths-daffodils-7792, 2026-11-03"
  },
  {
   "id": "manchester",
@@ -642,7 +642,7 @@
   "city": true,
   "prototype_of": "《南方与北方》里的工业城 Milton 的原型",
   "prototype_of_en": "The model for Milton, the mill town of North and South",
-  "coord_checked": "Manchester (Wikipedia) — https://en.wikipedia.org/wiki/Manchester"
+  "coord_checked": "Manchester (Wikipedia) — https://en.wikipedia.org/wiki/Manchester, 2026-11-03"
  },
  {
   "id": "erewash-cossall",
@@ -653,7 +653,7 @@
   "place_type": "original",
   "note": "诺丁汉郡与德比郡交界处埃瑞瓦什河的河谷，劳伦斯的家乡一带",
   "note_en": "The valley of the River Erewash on the Nottinghamshire–Derbyshire border, Lawrence's home country",
-  "coord_checked": "Cossall (Wikipedia, via wikwiand mirror; also List of UK locations Cos-Cou) — https://wikwiand-revamp.pages.dev/en/Cossall"
+  "coord_checked": "Cossall (Wikipedia, via wikwiand mirror; also List of UK locations Cos-Cou) — https://wikwiand-revamp.pages.dev/en/Cossall, 2026-11-03"
  },
  {
   "id": "bredon-hill",
@@ -664,7 +664,7 @@
   "place_type": "original",
   "note": "伍斯特郡一座孤立的山，属科茨沃尔德丘陵的外围",
   "note_en": "A lone hill in Worcestershire, an outlier of the Cotswolds",
-  "coord_checked": "Bredon Hill (Wikipedia) — https://en.wikipedia.org/wiki/Bredon_Hill"
+  "coord_checked": "Bredon Hill (Wikipedia) — https://en.wikipedia.org/wiki/Bredon_Hill, 2026-11-03"
  },
  {
   "id": "wenlock-edge",
@@ -675,7 +675,7 @@
   "place_type": "original",
   "note": "什罗普郡一道长长的、长满树林的石灰岩陡崖",
   "note_en": "A long wooded limestone escarpment in Shropshire",
-  "coord_checked": "Wenlock Edge wood — https://www.woodlandtrust.org.uk/visiting-woods/woods/wenlock-edge/"
+  "coord_checked": "Wenlock Edge wood — https://www.woodlandtrust.org.uk/visiting-woods/woods/wenlock-edge/, 2026-11-03"
  },
  {
   "id": "clun",
@@ -686,7 +686,7 @@
   "place_type": "original",
   "note": "什罗普郡西南、靠近威尔士边境的小镇，有一座城堡废墟",
   "note_en": "A small town in south-west Shropshire near the Welsh border, with a ruined castle",
-  "coord_checked": "Clun (Wikipedia) — https://en.wikipedia.org/wiki/Clun"
+  "coord_checked": "Clun (Wikipedia) — https://en.wikipedia.org/wiki/Clun, 2026-11-03"
  },
  {
   "id": "ludlow",
@@ -698,7 +698,7 @@
   "city": true,
   "note": "什罗普郡南部的集镇。弥尔顿的假面剧《科摩斯》1634 年在拉德洛城堡首演；豪斯曼的骨灰葬在镇上的圣劳伦斯教堂",
   "note_en": "A market town in south Shropshire. Milton's masque Comus was first performed at Ludlow Castle in 1634, and Housman's ashes are buried at the town's church, St Laurence's",
-  "coord_checked": "Ludlow (Wikipedia) — https://en.wikipedia.org/wiki/Ludlow"
+  "coord_checked": "Ludlow (Wikipedia) — https://en.wikipedia.org/wiki/Ludlow, 2026-11-03"
  },
  {
   "id": "giants-causeway",
@@ -709,7 +709,7 @@
   "place_type": "original",
   "note": "安特里姆郡海岸约四万根相互咬合的玄武岩石柱，世界遗产",
   "note_en": "About 40,000 interlocking basalt columns on the County Antrim coast, a World Heritage Site",
-  "coord_checked": "Giant's Causeway (Wikipedia) — https://en.wikipedia.org/wiki/Giant%27s_Causeway"
+  "coord_checked": "Giant's Causeway (Wikipedia) — https://en.wikipedia.org/wiki/Giant%27s_Causeway, 2026-11-03"
  },
  {
   "id": "belfast",
@@ -721,7 +721,7 @@
   "city": true,
   "note": "北爱尔兰首府，位于拉根河注入贝尔法斯特湾的地方",
   "note_en": "The capital of Northern Ireland, on the River Lagan at the head of Belfast Lough",
-  "coord_checked": "Belfast (Wikipedia) — https://en.wikipedia.org/wiki/Belfast"
+  "coord_checked": "Belfast (Wikipedia) — https://en.wikipedia.org/wiki/Belfast, 2026-11-03"
  },
  {
   "id": "chatsworth",
@@ -732,7 +732,7 @@
   "place_type": "prototype",
   "prototype_of": "常被认为是《傲慢与偏见》彭伯里庄园的原型",
   "prototype_of_en": "Widely held to be a model for Pemberley in Pride and Prejudice",
-  "coord_checked": "Chatsworth House (Wikipedia) — https://en.wikipedia.org/wiki/Chatsworth_House"
+  "coord_checked": "Chatsworth House (Wikipedia) — https://en.wikipedia.org/wiki/Chatsworth_House, 2026-11-03"
  },
  {
   "id": "brighton",
@@ -744,7 +744,7 @@
   "city": true,
   "note": "萨塞克斯海边的度假城，因摄政王而成为时髦去处",
   "note_en": "The Sussex seaside town made fashionable by the Prince Regent",
-  "coord_checked": "Brighton (Wikipedia) — https://en.wikipedia.org/wiki/Brighton"
+  "coord_checked": "Brighton (Wikipedia) — https://en.wikipedia.org/wiki/Brighton, 2026-11-03"
  },
  {
   "id": "box-hill",
@@ -755,7 +755,7 @@
   "place_type": "original",
   "note": "萨里郡北丘陵上的白垩山，向南视野开阔",
   "note_en": "A chalk hill on the North Downs in Surrey, with wide views to the south",
-  "coord_checked": "Box Hill, Surrey (Wikipedia) — https://en.wikipedia.org/wiki/Box_Hill,_Surrey"
+  "coord_checked": "Box Hill, Surrey (Wikipedia) — https://en.wikipedia.org/wiki/Box_Hill,_Surrey, 2026-11-03"
  },
  {
   "id": "bath",
@@ -767,7 +767,7 @@
   "city": true,
   "note": "萨默塞特郡的乔治王时代温泉城，围绕罗马时代的温泉兴建",
   "note_en": "The Georgian spa city in Somerset, built around the Roman hot springs",
-  "coord_checked": "Bath, Somerset (Wikipedia) — https://en.wikipedia.org/wiki/Bath,_Somerset"
+  "coord_checked": "Bath, Somerset (Wikipedia) — https://en.wikipedia.org/wiki/Bath,_Somerset, 2026-11-03"
  },
  {
   "id": "beechen-cliff",
@@ -778,7 +778,7 @@
   "place_type": "original",
   "note": "巴斯南边一座陡峭的林木山丘，可以俯瞰全城",
   "note_en": "A steep wooded hill south of Bath, with a view over the city",
-  "coord_checked": "Beechen Cliff, Bath and North East Somerset — https://britishplacenames.uk/beechen-cliff-bath-and-north-east-somerset-st748640/maps"
+  "coord_checked": "Beechen Cliff, Bath and North East Somerset — https://britishplacenames.uk/beechen-cliff-bath-and-north-east-somerset-st748640/maps, 2026-11-03"
  },
  {
   "id": "bath-pump-room",
@@ -789,7 +789,7 @@
   "place_type": "original",
   "note": "罗马浴场旁的乔治王时代大厅，访客来这里喝温泉水",
   "note_en": "The Georgian hall next to the Roman Baths, where visitors came to drink the spa water",
-  "coord_checked": "Grand Pump Room (Wikipedia) — https://en.wikipedia.org/wiki/Grand_Pump_Room"
+  "coord_checked": "Grand Pump Room (Wikipedia) — https://en.wikipedia.org/wiki/Grand_Pump_Room, 2026-11-03"
  },
  {
   "id": "rochester-castle",
@@ -800,7 +800,7 @@
   "place_type": "original",
   "note": "肯特郡梅德韦河畔的诺曼主堡，是英格兰最高的主堡",
   "note_en": "A Norman keep on the River Medway in Kent, the tallest keep in England",
-  "coord_checked": "Rochester Castle (Wikipedia) — https://en.wikipedia.org/wiki/Rochester_Castle"
+  "coord_checked": "Rochester Castle (Wikipedia) — https://en.wikipedia.org/wiki/Rochester_Castle, 2026-11-03"
  },
  {
   "id": "great-yarmouth",
@@ -812,7 +812,7 @@
   "city": true,
   "note": "诺福克郡的港口和海滨小城，位于耶尔河与北海之间的沙嘴上",
   "note_en": "A Norfolk port and seaside town on a spit between the River Yare and the North Sea",
-  "coord_checked": "Great Yarmouth - Wikipedia — https://en.wikipedia.org/wiki/Great_Yarmouth"
+  "coord_checked": "Great Yarmouth - Wikipedia — https://en.wikipedia.org/wiki/Great_Yarmouth, 2026-11-03"
  },
  {
   "id": "preston",
@@ -824,7 +824,7 @@
   "prototype_of": "常被认为是《艰难时世》焦煤镇的原型",
   "prototype_of_en": "Often named as the model for Coketown in Hard Times",
   "city": true,
-  "coord_checked": "Preston, Lancashire - Wikishire — https://wikishire.co.uk/wiki/Preston,_Lancashire"
+  "coord_checked": "Preston, Lancashire - Wikishire — https://wikishire.co.uk/wiki/Preston,_Lancashire, 2026-11-03"
  },
  {
   "id": "cooling-church",
@@ -835,7 +835,7 @@
   "place_type": "prototype",
   "prototype_of": "《远大前程》开篇沼地墓园的原型",
   "prototype_of_en": "The model for the marsh churchyard where Great Expectations opens",
-  "coord_checked": "St James' Church, Cooling - Wikipedia — https://en.wikipedia.org/wiki/St_James%27_Church,_Cooling"
+  "coord_checked": "St James' Church, Cooling - Wikipedia — https://en.wikipedia.org/wiki/St_James%27_Church,_Cooling, 2026-11-03"
  },
  {
   "id": "knutsford",
@@ -847,7 +847,7 @@
   "prototype_of": "《克兰福德》的原型，盖斯凯尔在这里长大",
   "prototype_of_en": "The model for Cranford, where Gaskell grew up",
   "city": true,
-  "coord_checked": "Knutsford - Wikipedia — https://en.wikipedia.org/wiki/Knutsford"
+  "coord_checked": "Knutsford - Wikipedia — https://en.wikipedia.org/wiki/Knutsford, 2026-11-03"
  },
  {
   "id": "gainsborough",
@@ -859,7 +859,7 @@
   "prototype_of": "《弗洛斯河上的磨坊》圣奥格镇的原型",
   "prototype_of_en": "The model for St Ogg's in The Mill on the Floss",
   "city": true,
-  "coord_checked": "Gainsborough, Lincolnshire - Wikipedia — https://en.wikipedia.org/wiki/Gainsborough,_Lincolnshire"
+  "coord_checked": "Gainsborough, Lincolnshire - Wikipedia — https://en.wikipedia.org/wiki/Gainsborough,_Lincolnshire, 2026-11-03"
  },
  {
   "id": "blackmore-vale",
@@ -870,7 +870,7 @@
   "place_type": "original",
   "note": "多塞特北部宽阔的黏土谷地，哈代称它为“小牛奶场谷”",
   "note_en": "A wide clay vale in north Dorset, which Hardy calls the Vale of the Little Dairies",
-  "coord_checked": "Marnhull - Wikipedia — https://en.wikipedia.org/wiki/Marnhull"
+  "coord_checked": "Marnhull - Wikipedia — https://en.wikipedia.org/wiki/Marnhull, 2026-11-03"
  },
  {
   "id": "stonehenge",
@@ -881,7 +881,7 @@
   "place_type": "original",
   "note": "索尔兹伯里平原上的史前巨石阵，始建于约公元前 3000 年",
   "note_en": "The prehistoric stone circle on Salisbury Plain, begun around 3000 BC",
-  "coord_checked": "Stonehenge - Wikipedia — https://en.wikipedia.org/wiki/Stonehenge"
+  "coord_checked": "Stonehenge - Wikipedia — https://en.wikipedia.org/wiki/Stonehenge, 2026-11-03"
  },
  {
   "id": "dartmoor",
@@ -892,7 +892,7 @@
   "place_type": "original",
   "note": "德文郡的花岗岩高沼地，现为国家公园",
   "note_en": "A granite moorland in Devon, now a national park",
-  "coord_checked": "Dartmoor - Wikipedia — https://en.wikipedia.org/wiki/Dartmoor"
+  "coord_checked": "Dartmoor - Wikipedia — https://en.wikipedia.org/wiki/Dartmoor, 2026-11-03"
  },
  {
   "id": "erraid",
@@ -904,7 +904,7 @@
   "offshore_island": true,
   "note": "马尔岛罗斯半岛外的小潮汐岛；史蒂文森家族的公司修建杜阿塔赫灯塔时，在岛上设过工地",
   "note_en": "A small tidal island off the Ross of Mull, where the Stevenson family firm had its shore base while building the Dubh Artach lighthouse",
-  "coord_checked": "Erraid - Wikipedia — https://en.wikipedia.org/wiki/Erraid"
+  "coord_checked": "Erraid - Wikipedia — https://en.wikipedia.org/wiki/Erraid, 2026-11-03"
  },
  {
   "id": "queensferry",
@@ -915,7 +915,7 @@
   "place_type": "original",
   "note": "福斯湾南岸的小镇，就在福斯桥脚下",
   "note_en": "A town on the south shore of the Firth of Forth, beneath the Forth Bridge",
-  "coord_checked": "South Queensferry - Wikipedia — https://en.wikipedia.org/wiki/South_Queensferry"
+  "coord_checked": "South Queensferry - Wikipedia — https://en.wikipedia.org/wiki/South_Queensferry, 2026-11-03"
  },
  {
   "id": "hampton-court",
@@ -926,7 +926,7 @@
   "place_type": "original",
   "note": "汉普顿宫花园里的树篱迷宫，17 世纪 90 年代种下",
   "note_en": "The hedge maze in the gardens of Hampton Court Palace, planted in the 1690s",
-  "coord_checked": "Hampton Court Maze - Wikipedia (mirror wiki.riteme.site) — https://wiki.riteme.site/wiki/Hampton_Court_Maze"
+  "coord_checked": "Hampton Court Maze - Wikipedia (mirror wiki.riteme.site) — https://wiki.riteme.site/wiki/Hampton_Court_Maze, 2026-11-03"
  },
  {
   "id": "marlow",
@@ -938,7 +938,7 @@
   "city": true,
   "note": "白金汉郡泰晤士河畔的小镇，有一座 1830 年代的吊桥",
   "note_en": "A Buckinghamshire town on the Thames, with a suspension bridge from the 1830s",
-  "coord_checked": "Marlow, Buckinghamshire - Wikipedia — https://en.wikipedia.org/wiki/Marlow,_Buckinghamshire"
+  "coord_checked": "Marlow, Buckinghamshire - Wikipedia — https://en.wikipedia.org/wiki/Marlow,_Buckinghamshire, 2026-11-03"
  },
  {
   "id": "iffley-lock",
@@ -949,7 +949,7 @@
   "place_type": "original",
   "note": "牛津下游不远处泰晤士河上的船闸",
   "note_en": "A lock on the Thames just below Oxford",
-  "coord_checked": "Iffley Lock - Wikipedia — https://en.wikipedia.org/wiki/Iffley_Lock"
+  "coord_checked": "Iffley Lock - Wikipedia — https://en.wikipedia.org/wiki/Iffley_Lock, 2026-11-03"
  },
  {
   "id": "eastwood",
@@ -961,7 +961,7 @@
   "prototype_of": "劳伦斯的出生地，《儿子与情人》里 Bestwood 的原型",
   "prototype_of_en": "Lawrence's birthplace, the model for Bestwood in Sons and Lovers",
   "city": true,
-  "coord_checked": "Eastwood, Nottinghamshire - Wikipedia — https://en.wikipedia.org/wiki/Eastwood,_Nottinghamshire"
+  "coord_checked": "Eastwood, Nottinghamshire - Wikipedia — https://en.wikipedia.org/wiki/Eastwood,_Nottinghamshire, 2026-11-03"
  },
  {
   "id": "sherwood-forest",
@@ -972,7 +972,7 @@
   "place_type": "original",
   "note": "诺丁汉郡王家森林留下的部分，现在是以“大橡树”为中心的郊野公园",
   "note_en": "What is left of the royal forest in Nottinghamshire, now a country park around the Major Oak",
-  "coord_checked": "Sherwood Forest - Wikipedia — https://en.wikipedia.org/wiki/Sherwood_Forest"
+  "coord_checked": "Sherwood Forest - Wikipedia — https://en.wikipedia.org/wiki/Sherwood_Forest, 2026-11-03"
  },
  {
   "id": "iona",
@@ -984,7 +984,7 @@
   "offshore_island": true,
   "note": "马尔岛外的小岛，圣科伦巴于 563 年在这里建立修道院",
   "note_en": "A small island off Mull where St Columba founded a monastery in 563",
-  "coord_checked": "Iona - Wikipedia — https://en.wikipedia.org/wiki/Iona"
+  "coord_checked": "Iona - Wikipedia — https://en.wikipedia.org/wiki/Iona, 2026-11-03"
  },
  {
   "id": "loch-ness",
@@ -995,7 +995,7 @@
   "place_type": "original",
   "note": "因弗内斯西南大峡谷中狭长幽深的淡水湖",
   "note_en": "A long, deep freshwater loch in the Great Glen, south-west of Inverness",
-  "coord_checked": "Loch Ness - Wikipedia — https://en.wikipedia.org/wiki/Loch_Ness"
+  "coord_checked": "Loch Ness - Wikipedia — https://en.wikipedia.org/wiki/Loch_Ness, 2026-11-03"
  },
  {
   "id": "shakespeare-cliff",
@@ -1006,7 +1006,7 @@
   "place_type": "original",
   "note": "多佛尔西边的白垩崖，因《李尔王》中的悬崖一场而得名",
   "note_en": "A chalk cliff west of Dover, named after the cliff scene in King Lear",
-  "coord_checked": "Shakespeare Cliff, Kent - britishplacenames.uk — https://britishplacenames.uk/shakespeare-cliff-kent-tr305396/maps"
+  "coord_checked": "Shakespeare Cliff, Kent - britishplacenames.uk — https://britishplacenames.uk/shakespeare-cliff-kent-tr305396/maps, 2026-11-03"
  },
  {
   "id": "dover",
@@ -1018,7 +1018,7 @@
   "city": true,
   "note": "肯特郡的港口，隔英吉利海峡最窄处与法国相望",
   "note_en": "The Kent port facing France across the narrowest part of the Channel",
-  "coord_checked": "Dover - Wikishire — https://wikishire.co.uk/wiki/Dover"
+  "coord_checked": "Dover - Wikishire — https://wikishire.co.uk/wiki/Dover, 2026-11-03"
  },
  {
   "id": "grantchester",
@@ -1029,7 +1029,7 @@
   "place_type": "original",
   "note": "剑桥以南约两英里康河边的村庄",
   "note_en": "A village on the Cam about two miles south of Cambridge",
-  "coord_checked": "Grantchester - Wikipedia — https://en.wikipedia.org/wiki/Grantchester"
+  "coord_checked": "Grantchester - Wikipedia — https://en.wikipedia.org/wiki/Grantchester, 2026-11-03"
  },
  {
   "id": "loch-katrine",
@@ -1040,7 +1040,7 @@
   "place_type": "original",
   "note": "特罗萨克斯的湖，司各特的这首诗使它成了游览胜地",
   "note_en": "A loch in the Trossachs that Scott's poem turned into a place for tourists",
-  "coord_checked": "Loch Katrine - Wikipedia — https://en.wikipedia.org/wiki/Loch_Katrine"
+  "coord_checked": "Loch Katrine - Wikipedia — https://en.wikipedia.org/wiki/Loch_Katrine, 2026-11-03"
  },
  {
   "id": "oxford",
@@ -1052,7 +1052,7 @@
   "city": true,
   "note": "泰晤士河与查韦尔河畔的大学城",
   "note_en": "The university city on the Thames and the Cherwell",
-  "coord_checked": "Oxford - Wikishire — https://wikishire.co.uk/wiki/Oxford"
+  "coord_checked": "Oxford - Wikishire — https://wikishire.co.uk/wiki/Oxford, 2026-11-03"
  },
  {
   "id": "elwy-valley",
@@ -1063,7 +1063,7 @@
   "place_type": "original",
   "note": "北威尔士埃尔威河的河谷，离霍普金斯修习耶稣会神学的圣伯诺学院不远",
   "note_en": "The valley of the River Elwy in north Wales, near St Beuno's, where Hopkins studied as a Jesuit",
-  "coord_checked": "Bont-newydd bridge - British Listed Buildings — https://britishlistedbuildings.co.uk/300000155-bont-newydd-partly-in-cefnmeiriadog-community-llannefydd"
+  "coord_checked": "Bont-newydd bridge - British Listed Buildings — https://britishlistedbuildings.co.uk/300000155-bont-newydd-partly-in-cefnmeiriadog-community-llannefydd, 2026-11-03"
  },
  {
   "id": "burslem",
@@ -1075,7 +1075,7 @@
   "prototype_of": "本涅特《老妇谭》里 Bursley 的原型",
   "prototype_of_en": "The model for Bursley in The Old Wives' Tale",
   "city": true,
-  "coord_checked": "Burslem - Wikipedia — https://en.wikipedia.org/wiki/Burslem"
+  "coord_checked": "Burslem - Wikipedia — https://en.wikipedia.org/wiki/Burslem, 2026-11-03"
  },
  {
   "id": "pooks-hill",
@@ -1086,7 +1086,7 @@
   "place_type": "original",
   "note": "吉卜林在东萨塞克斯伯沃什的住宅贝特曼斯；普克山就是小河达德韦尔对岸那片长满树林的山坡",
   "note_en": "Bateman's, Kipling's house at Burwash in East Sussex; Pook's Hill is the wooded slope across the little River Dudwell",
-  "coord_checked": "Bateman's - Wikipedia — https://en.wikipedia.org/wiki/Bateman%27s"
+  "coord_checked": "Bateman's - Wikipedia — https://en.wikipedia.org/wiki/Bateman%27s, 2026-11-03"
  },
  {
   "id": "snowdon",
@@ -1097,7 +1097,7 @@
   "place_type": "original",
   "note": "海拔 1085 米，威尔士最高峰，威尔士语名 Yr Wyddfa",
   "note_en": "At 1,085 m the highest mountain in Wales, Yr Wyddfa in Welsh",
-  "coord_checked": "Snowdon - Wikipedia — https://en.wikipedia.org/wiki/Snowdon"
+  "coord_checked": "Snowdon - Wikipedia — https://en.wikipedia.org/wiki/Snowdon, 2026-11-03"
  },
  {
   "id": "llangollen",
@@ -1109,7 +1109,7 @@
   "city": true,
   "note": "威尔士东北部迪河畔的小镇",
   "note_en": "A town on the River Dee in north-east Wales",
-  "coord_checked": "Llangollen - Wikipedia — https://en.wikipedia.org/wiki/Llangollen"
+  "coord_checked": "Llangollen - Wikipedia — https://en.wikipedia.org/wiki/Llangollen, 2026-11-03"
  },
  {
   "id": "doone-valley",
@@ -1120,7 +1120,7 @@
   "place_type": "original",
   "note": "埃克斯穆尔高沼上巴奇沃西溪的一条支谷，位于德文郡和萨默塞特郡交界",
   "note_en": "A side valley of Badgworthy Water on Exmoor, on the Devon–Somerset border",
-  "coord_checked": "MDE1258 - Deserted medieval settlement at Badgworthy Water - Exmoor HER — https://www.exmoorher.co.uk/Monument/MDE1258"
+  "coord_checked": "MDE1258 - Deserted medieval settlement at Badgworthy Water - Exmoor HER — https://www.exmoorher.co.uk/Monument/MDE1258, 2026-11-03"
  },
  {
   "id": "norham-castle",
@@ -1131,7 +1131,7 @@
   "place_type": "original",
   "note": "特威德河英格兰一岸的边境城堡遗址",
   "note_en": "A ruined border castle on the English bank of the Tweed",
-  "coord_checked": "Norham Castle - Wikipedia — https://en.wikipedia.org/wiki/Norham_Castle"
+  "coord_checked": "Norham Castle - Wikipedia — https://en.wikipedia.org/wiki/Norham_Castle, 2026-11-03"
  },
  {
   "id": "housesteads",
@@ -1142,7 +1142,7 @@
   "place_type": "original",
   "note": "哈德良长城上保存最好的罗马要塞，在诺森伯兰",
   "note_en": "The best-preserved Roman fort on Hadrian's Wall, in Northumberland",
-  "coord_checked": "Housesteads Roman Fort - Wikipedia — https://en.wikipedia.org/wiki/Housesteads_Roman_Fort"
+  "coord_checked": "Housesteads Roman Fort - Wikipedia — https://en.wikipedia.org/wiki/Housesteads_Roman_Fort, 2026-11-03"
  },
  {
   "id": "tynemouth-priory",
@@ -1153,7 +1153,7 @@
   "place_type": "original",
   "note": "泰恩河口岬角上的修道院和城堡遗址",
   "note_en": "A ruined priory and castle on the headland at the mouth of the Tyne",
-  "coord_checked": "Tynemouth Castle and Priory - Wikishire — https://wikishire.co.uk/wiki/Tynemouth_Castle_and_Priory"
+  "coord_checked": "Tynemouth Castle and Priory - Wikishire — https://wikishire.co.uk/wiki/Tynemouth_Castle_and_Priory, 2026-11-03"
  },
  {
   "id": "corrymeela",
@@ -1165,7 +1165,7 @@
   "rough_coast": true,
   "note": "唯一叫这个名字的小地块，也拼作 Corrymeela，就在莫伊拉·奥尼尔长大的库申登附近；诗里没有说明指哪里，这是最可能的解读，并非定论",
   "note_en": "The only townland of this name, also spelt Corrymeela, near Cushendun where Moira O'Neill grew up; the poem does not say which place it means, so this is the likeliest reading, not a certainty",
-  "coord_checked": "Corrymellagh townland, Culfeightrin parish (gazetteer.org.uk GBPN326462, Irish grid D 2542 3518; same point on townlands.ie) — https://gazetteer.org.uk/place/Corrymellagh_TD,_Antrim_326462"
+  "coord_checked": "Corrymellagh townland, Culfeightrin parish (gazetteer.org.uk GBPN326462, Irish grid D 2542 3518; same point on townlands.ie) — https://gazetteer.org.uk/place/Corrymellagh_TD,_Antrim_326462, 2026-11-04"
  },
  {
   "id": "carrickfergus-castle",
@@ -1176,7 +1176,7 @@
   "place_type": "original",
   "note": "贝尔法斯特湾北岸的诺曼城堡，始建于 1177 年",
   "note_en": "A Norman castle on the north shore of Belfast Lough, begun in 1177",
-  "coord_checked": "Carrickfergus Castle - Wikipedia — https://en.wikipedia.org/wiki/Carrickfergus_Castle"
+  "coord_checked": "Carrickfergus Castle - Wikipedia — https://en.wikipedia.org/wiki/Carrickfergus_Castle, 2026-11-03"
  },
  {
   "id": "glenarm",
@@ -1187,7 +1187,7 @@
   "place_type": "original",
   "note": "格莱纳姆河入海处的村子，位于安特里姆海岸公路上",
   "note_en": "A village where the Glenarm river meets the sea, on the Antrim coast road",
-  "coord_checked": "Glenarm, Antrim - Gazetteer for Scotland/UK (gazetteer.org.uk) — https://gazetteer.org.uk/place/Glenarm,_Antrim_321625"
+  "coord_checked": "Glenarm, Antrim - Gazetteer for Scotland/UK (gazetteer.org.uk) — https://gazetteer.org.uk/place/Glenarm,_Antrim_321625, 2026-11-03"
  },
  {
   "id": "whitby",
@@ -1199,7 +1199,7 @@
   "prototype_of": "《西尔维娅的恋人》里 Monkshaven 的原型",
   "prototype_of_en": "The model for Monkshaven in Sylvia's Lovers",
   "city": true,
-  "coord_checked": "Whitby - Wikipedia — https://en.wikipedia.org/wiki/Whitby"
+  "coord_checked": "Whitby - Wikipedia — https://en.wikipedia.org/wiki/Whitby, 2026-11-03"
  },
  {
   "id": "scarborough",
@@ -1211,7 +1211,7 @@
   "prototype_of": "常被认为是《艾格妮丝·格雷》结尾海滨小城的原型，安妮·勃朗特葬于此",
   "prototype_of_en": "Usually taken as the seaside town at the end of Agnes Grey; Anne Brontë is buried here",
   "city": true,
-  "coord_checked": "Scarborough, North Yorkshire - Wikipedia — https://en.wikipedia.org/wiki/Scarborough,_North_Yorkshire"
+  "coord_checked": "Scarborough, North Yorkshire - Wikipedia — https://en.wikipedia.org/wiki/Scarborough,_North_Yorkshire, 2026-11-03"
  },
  {
   "id": "little-town",
@@ -1222,7 +1222,7 @@
   "place_type": "original",
   "note": "湖区凯西克附近纽兰兹谷里的小村",
   "note_en": "A hamlet in the Newlands valley near Keswick, in the Lake District",
-  "coord_checked": "Little Town, Cumbria - Wikipedia — https://en.wikipedia.org/wiki/Little_Town,_Cumbria"
+  "coord_checked": "Little Town, Cumbria - Wikipedia — https://en.wikipedia.org/wiki/Little_Town,_Cumbria, 2026-11-03"
  },
  {
   "id": "greenheys",
@@ -1233,7 +1233,7 @@
   "place_type": "original",
   "note": "曼彻斯特市中心以南的街区，《玛丽·巴顿》成书时还是田野",
   "note_en": "A district south of Manchester city centre, still open fields when Mary Barton was written",
-  "coord_checked": "Greenheys, Manchester - Wikipedia — https://en.wikipedia.org/wiki/Greenheys,_Manchester"
+  "coord_checked": "Greenheys, Manchester - Wikipedia — https://en.wikipedia.org/wiki/Greenheys,_Manchester, 2026-11-03"
  },
  {
   "id": "great-white-horse",
@@ -1244,7 +1244,7 @@
   "place_type": "original",
   "note": "伊普斯威奇市中心的一家老驿站客栈，狄更斯曾在这里住过",
   "note_en": "A former coaching inn in the centre of Ipswich, where Dickens once stayed",
-  "coord_checked": "Great White Horse Hotel - Wikipedia — https://en.wikipedia.org/wiki/Great_White_Horse_Hotel"
+  "coord_checked": "Great White Horse Hotel - Wikipedia — https://en.wikipedia.org/wiki/Great_White_Horse_Hotel, 2026-11-03"
  },
  {
   "id": "norwich",
@@ -1256,7 +1256,7 @@
   "city": true,
   "note": "诺福克郡的主教座堂城市，博罗在这里长大",
   "note_en": "The cathedral city of Norfolk, where Borrow grew up",
-  "coord_checked": "Norwich Cathedral - Wikipedia — https://en.wikipedia.org/wiki/Norwich_Cathedral"
+  "coord_checked": "Norwich Cathedral - Wikipedia — https://en.wikipedia.org/wiki/Norwich_Cathedral, 2026-11-03"
  },
  {
   "id": "bala",
@@ -1268,7 +1268,7 @@
   "city": true,
   "note": "泰吉德湖一端的小镇，这是威尔士最大的天然湖",
   "note_en": "A town at the end of Llyn Tegid, the largest natural lake in Wales",
-  "coord_checked": "Bala, Gwynedd - Wikipedia — https://en.wikipedia.org/wiki/Bala,_Gwynedd"
+  "coord_checked": "Bala, Gwynedd - Wikipedia — https://en.wikipedia.org/wiki/Bala,_Gwynedd, 2026-11-03"
  },
  {
   "id": "kings-cross",
@@ -1279,7 +1279,7 @@
   "place_type": "original",
   "note": "东海岸干线的伦敦终点站，1852 年启用",
   "note_en": "The London terminus of the East Coast Main Line, opened in 1852",
-  "coord_checked": "London King's Cross railway station - Wikipedia — https://en.wikipedia.org/wiki/London_King%27s_Cross_railway_station"
+  "coord_checked": "London King's Cross railway station - Wikipedia — https://en.wikipedia.org/wiki/London_King%27s_Cross_railway_station, 2026-11-03"
  },
  {
   "id": "salisbury",
@@ -1291,7 +1291,7 @@
   "city": true,
   "note": "威尔特郡的主教座堂城市，大教堂尖塔为全英最高",
   "note_en": "A Wiltshire cathedral city whose spire is the tallest in Britain",
-  "coord_checked": "Salisbury Cathedral - Wikipedia — https://en.wikipedia.org/wiki/Salisbury_Cathedral"
+  "coord_checked": "Salisbury Cathedral - Wikipedia — https://en.wikipedia.org/wiki/Salisbury_Cathedral, 2026-11-03"
  },
  {
   "id": "weymouth-pier",
@@ -1302,7 +1302,7 @@
   "place_type": "original",
   "note": "多塞特海岸韦茅斯港口入口处的码头",
   "note_en": "The pier at the mouth of Weymouth harbour on the Dorset coast",
-  "coord_checked": "Weymouth Pavilion - Wikipedia — https://en.wikipedia.org/wiki/Weymouth_Pavilion"
+  "coord_checked": "Weymouth Pavilion - Wikipedia — https://en.wikipedia.org/wiki/Weymouth_Pavilion, 2026-11-03"
  },
  {
   "id": "st-thomas-hospital",
@@ -1313,7 +1313,7 @@
   "place_type": "original",
   "note": "泰晤士河边、与议会大厦隔河相望的教学医院",
   "note_en": "A teaching hospital on the Thames, across the river from the Houses of Parliament",
-  "coord_checked": "Bronze Statue of Edward VI at North Entrance to Ward Block of North Wing at St Thomas' Hospital - Historic England list entry 1080372 — https://historicengland.org.uk/listing/the-list/list-entry/1080372"
+  "coord_checked": "Bronze Statue of Edward VI at North Entrance to Ward Block of North Wing at St Thomas' Hospital - Historic England list entry 1080372 — https://historicengland.org.uk/listing/the-list/list-entry/1080372, 2026-11-03"
  },
  {
   "id": "clapham-common",
@@ -1324,7 +1324,7 @@
   "place_type": "original",
   "note": "伦敦南部的大片公地，圣三一教堂在它北侧",
   "note_en": "A large common in south London, with Holy Trinity Church on its north side",
-  "coord_checked": "Church of Holy Trinity, Clapham Town Ward - British Listed Buildings (list entry 1080491) — https://britishlistedbuildings.co.uk/101080491-church-of-holy-trinity-clapham-town-ward"
+  "coord_checked": "Church of Holy Trinity, Clapham Town Ward - British Listed Buildings (list entry 1080491) — https://britishlistedbuildings.co.uk/101080491-church-of-holy-trinity-clapham-town-ward, 2026-11-03"
  },
  {
   "id": "clava-cairns",
@@ -1335,7 +1335,7 @@
   "place_type": "prototype",
   "prototype_of": "常被认为是《古战场传奇》里克雷格纳敦立石圈的灵感来源",
   "prototype_of_en": "Often named as an inspiration for the stone circle on Craigh na Dun in Outlander",
-  "coord_checked": "MHG4366 - Central ring cairn - Balnuaran of Clava - Highland Historic Environment Record — https://her.highland.gov.uk/Monument/MHG4366"
+  "coord_checked": "MHG4366 - Central ring cairn - Balnuaran of Clava - Highland Historic Environment Record — https://her.highland.gov.uk/Monument/MHG4366, 2026-11-03"
  },
  {
   "id": "paddington-station",
@@ -1346,7 +1346,7 @@
   "place_type": "original",
   "note": "布鲁内尔设计的大西部铁路终点站，1854 年启用",
   "note_en": "Brunel's terminus of the Great Western Railway, opened in 1854",
-  "coord_checked": "London Paddington station - Wikipedia — https://en.wikipedia.org/wiki/London_Paddington_station"
+  "coord_checked": "London Paddington station - Wikipedia — https://en.wikipedia.org/wiki/London_Paddington_station, 2026-11-03"
  },
  {
   "id": "marble-arch",
@@ -1357,7 +1357,7 @@
   "place_type": "original",
   "note": "约翰·纳什设计的白色大理石拱门，在海德公园东北角，靠近演说者之角",
   "note_en": "John Nash's white marble arch at the north-east corner of Hyde Park, near Speakers' Corner",
-  "coord_checked": "Marble Arch - Wikipedia — https://en.wikipedia.org/wiki/Marble_Arch"
+  "coord_checked": "Marble Arch - Wikipedia — https://en.wikipedia.org/wiki/Marble_Arch, 2026-11-03"
  },
  {
   "id": "dover-street",
@@ -1368,7 +1368,7 @@
   "place_type": "original",
   "note": "梅费尔一条从皮卡迪利向北的街道；街名同名的地铁站 1933 年改名为绿园站",
   "note_en": "A Mayfair street running north from Piccadilly; its Tube station was renamed Green Park in 1933",
-  "coord_checked": "Dover Street (Wikipedia) — https://en.wikipedia.org/wiki/Dover_Street"
+  "coord_checked": "Dover Street (Wikipedia) — https://en.wikipedia.org/wiki/Dover_Street, 2026-11-03"
  },
  {
   "id": "piccadilly-circus",
@@ -1379,7 +1379,7 @@
   "place_type": "original",
   "note": "西区的道路交汇口，有俗称“爱神”的雕像和霓虹广告牌",
   "note_en": "The West End road junction with the statue known as Eros and the lit advertising signs",
-  "coord_checked": "Piccadilly Circus (Wikipedia) — https://en.wikipedia.org/wiki/Piccadilly_Circus"
+  "coord_checked": "Piccadilly Circus (Wikipedia) — https://en.wikipedia.org/wiki/Piccadilly_Circus, 2026-11-03"
  },
  {
   "id": "soho",
@@ -1390,7 +1390,7 @@
   "place_type": "original",
   "note": "西区一片街巷狭窄的街区，向来以餐馆、剧院和夜生活闻名",
   "note_en": "A West End district of narrow streets, long known for restaurants, theatres and nightlife",
-  "coord_checked": "Soho (Wikipedia) — https://en.wikipedia.org/wiki/Soho"
+  "coord_checked": "Soho (Wikipedia) — https://en.wikipedia.org/wiki/Soho, 2026-11-03"
  },
  {
   "id": "holyhead",
@@ -1402,7 +1402,7 @@
   "city": true,
   "note": "安格尔西岛外圣岛上的港口，渡轮从这里开往都柏林",
   "note_en": "A port on Holy Island off Anglesey, where ferries leave for Dublin",
-  "coord_checked": "Holyhead (Wikipedia) — https://en.wikipedia.org/wiki/Holyhead"
+  "coord_checked": "Holyhead (Wikipedia) — https://en.wikipedia.org/wiki/Holyhead, 2026-11-03"
  },
  {
   "id": "torquay",
@@ -1424,7 +1424,7 @@
    "evil-under-the-sun",
    "the-mousetrap"
   ],
-  "coord_checked": "Torquay (Wikipedia) — https://en.wikipedia.org/wiki/Torquay"
+  "coord_checked": "Torquay (Wikipedia) — https://en.wikipedia.org/wiki/Torquay, 2026-11-03"
  },
  {
   "id": "greenway",
@@ -1445,7 +1445,7 @@
    "evil-under-the-sun",
    "the-mousetrap"
   ],
-  "coord_checked": "Greenway Estate (Wikipedia) — https://en.wikipedia.org/wiki/Greenway_Estate"
+  "coord_checked": "Greenway Estate (Wikipedia) — https://en.wikipedia.org/wiki/Greenway_Estate, 2026-11-03"
  },
  {
   "id": "cholsey-church",
@@ -1466,7 +1466,7 @@
    "evil-under-the-sun",
    "the-mousetrap"
   ],
-  "coord_checked": "Church of St Mary, Cholsey (British Listed Buildings, Historic England list entry 1059283) — https://britishlistedbuildings.co.uk/101059283-church-of-st-mary-cholsey"
+  "coord_checked": "Church of St Mary, Cholsey (British Listed Buildings, Historic England list entry 1059283) — https://britishlistedbuildings.co.uk/101059283-church-of-st-mary-cholsey, 2026-11-03"
  },
  {
   "id": "burgh-island",
@@ -1477,7 +1477,7 @@
   "place_type": "prototype",
   "prototype_of": "常被认为是《无人生还》里士兵岛和《阳光下的罪恶》里那座小岛的原型；克里斯蒂曾住岛上的酒店",
   "prototype_of_en": "Usually named as the model for Soldier Island in And Then There Were None and for the island of Evil Under the Sun; Christie stayed at its hotel",
-  "coord_checked": "Burgh Island (Wikipedia) — https://en.wikipedia.org/wiki/Burgh_Island"
+  "coord_checked": "Burgh Island (Wikipedia) — https://en.wikipedia.org/wiki/Burgh_Island, 2026-11-03"
  },
  {
   "id": "andover",
@@ -1489,7 +1489,7 @@
   "city": true,
   "note": "汉普郡北部的集镇",
   "note_en": "A market town in north Hampshire",
-  "coord_checked": "Andover, Hampshire - Wikipedia (OS grid reference SU3646, converted with osgrid.py, centre of 1 km square) — https://en.wikipedia.org/wiki/Andover,_Hampshire"
+  "coord_checked": "Andover, Hampshire - Wikipedia (OS grid reference SU3646, converted with osgrid.py, centre of 1 km square) — https://en.wikipedia.org/wiki/Andover,_Hampshire, 2026-11-03"
  },
  {
   "id": "bexhill",
@@ -1501,7 +1501,7 @@
   "city": true,
   "note": "东萨塞克斯的海滨小城，在黑斯廷斯和伊斯特本之间",
   "note_en": "A seaside town in East Sussex, between Hastings and Eastbourne",
-  "coord_checked": "Bexhill-on-Sea - Wikipedia (OS grid reference TQ737092, converted with osgrid.py) — https://en.wikipedia.org/wiki/Bexhill-on-Sea"
+  "coord_checked": "Bexhill-on-Sea - Wikipedia (OS grid reference TQ737092, converted with osgrid.py) — https://en.wikipedia.org/wiki/Bexhill-on-Sea, 2026-11-03"
  },
  {
   "id": "churston",
@@ -1512,7 +1512,7 @@
   "place_type": "original",
   "note": "德文郡南部布里克瑟姆附近的村子，离克里斯蒂的格林威不远",
   "note_en": "A village near Brixham in south Devon, not far from Christie's Greenway",
-  "coord_checked": "Churston Ferrers (Wikishire, grid ref SX902561) — https://wikishire.co.uk/wiki/Churston_Ferrers"
+  "coord_checked": "Churston Ferrers (Wikishire, grid ref SX902561) — https://wikishire.co.uk/wiki/Churston_Ferrers, 2026-11-03"
  },
  {
   "id": "doncaster",
@@ -1524,7 +1524,7 @@
   "city": true,
   "note": "南约克郡的城镇，赛马场每年举办历史最悠久的经典赛圣莱杰赛",
   "note_en": "A South Yorkshire town whose racecourse holds the St Leger, the oldest of the classic races",
-  "coord_checked": "Doncaster - Wikipedia (OS grid reference SE575032, converted with osgrid.py) — https://en.wikipedia.org/wiki/Doncaster"
+  "coord_checked": "Doncaster - Wikipedia (OS grid reference SE575032, converted with osgrid.py) — https://en.wikipedia.org/wiki/Doncaster, 2026-11-03"
  },
  {
   "id": "st-martins-theatre",
@@ -1538,7 +1538,7 @@
   "book_ids": [
    "the-mousetrap"
   ],
-  "coord_checked": "St Martin's Theatre - Wikipedia — https://en.wikipedia.org/wiki/St_Martin%27s_Theatre"
+  "coord_checked": "St Martin's Theatre - Wikipedia — https://en.wikipedia.org/wiki/St_Martin%27s_Theatre, 2026-11-03"
  },
  {
   "id": "lyme-park",
@@ -1557,7 +1557,7 @@
    "pride-and-prejudice"
   ],
   "scene_en": "The exterior of Pemberley, Mr Darcy's house",
-  "coord_checked": "Lyme Park (Wikipedia) — https://en.wikipedia.org/wiki/Lyme_Park"
+  "coord_checked": "Lyme Park (Wikipedia) — https://en.wikipedia.org/wiki/Lyme_Park, 2026-11-04"
  },
  {
   "id": "castle-howard",
@@ -1576,7 +1576,7 @@
    "brideshead-revisited"
   ],
   "scene_en": "Brideshead, the Flytes' house (again in the 2008 film)",
-  "coord_checked": "Castle Howard (Wikipedia) — https://en.wikipedia.org/wiki/Castle_Howard"
+  "coord_checked": "Castle Howard (Wikipedia) — https://en.wikipedia.org/wiki/Castle_Howard, 2026-11-04"
  },
  {
   "id": "dark-hedges",
@@ -1595,7 +1595,7 @@
    "a-game-of-thrones"
   ],
   "scene_en": "The Kingsroad",
-  "coord_checked": "Dark Hedges (The Great Britain Guide) — https://www.thegreatbritainguide.com/place/dark-hedges/"
+  "coord_checked": "Dark Hedges (The Great Britain Guide) — https://www.thegreatbritainguide.com/place/dark-hedges/, 2026-11-04"
  },
  {
   "id": "dylan-thomas-boathouse",
@@ -1609,7 +1609,7 @@
    "under-milk-wood"
   ],
   "note_en": "Dylan Thomas's home for his last four years, 1949–53; he wrote in a shed a little further along Cliff Road, above the Taf estuary",
-  "coord_checked": "Dylan Thomas Boathouse (Wikipedia) — https://en.wikipedia.org/wiki/Dylan_Thomas_Boathouse"
+  "coord_checked": "Dylan Thomas Boathouse (Wikipedia) — https://en.wikipedia.org/wiki/Dylan_Thomas_Boathouse, 2026-11-04"
  },
  {
   "id": "abbotsford",
@@ -1626,7 +1626,7 @@
    "ivanhoe"
   ],
   "note_en": "Walter Scott's house on the Tweed near Galashiels, built between 1817 and 1825; he died here in 1832",
-  "coord_checked": "Abbotsford (Wikishire) — https://wikishire.co.uk/wiki/Abbotsford"
+  "coord_checked": "Abbotsford (Wikishire) — https://wikishire.co.uk/wiki/Abbotsford, 2026-11-04"
  },
  {
   "id": "dr-johnsons-house",
@@ -1642,7 +1642,7 @@
    "london-miscellany"
   ],
   "note_en": "17 Gough Square, where Samuel Johnson lived from 1748 to 1759 and compiled his Dictionary; a museum since 1914",
-  "coord_checked": "Dr Johnson's House (The Great Britain Guide) — https://www.thegreatbritainguide.com/place/dr-johnsons-house/"
+  "coord_checked": "Dr Johnson's House (The Great Britain Guide) — https://www.thegreatbritainguide.com/place/dr-johnsons-house/, 2026-11-04"
  },
  {
   "id": "tottenham-court-road",
@@ -1653,7 +1653,7 @@
   "place_type": "original",
   "note": "从尤斯顿路向南通到圣吉尔斯圆环的繁忙商业街；标记在它南端的车站旁",
   "note_en": "A busy shopping street running south from Euston Road to St Giles Circus; the marker is at its south end, by the station",
-  "coord_checked": "Tottenham Court Road station (Wikipedia) — https://en.wikipedia.org/wiki/Tottenham_Court_Road_station"
+  "coord_checked": "Tottenham Court Road station (Wikipedia) — https://en.wikipedia.org/wiki/Tottenham_Court_Road_station, 2026-11-04"
  },
  {
   "id": "forest-of-dean",
@@ -1664,7 +1664,7 @@
   "place_type": "original",
   "note": "格洛斯特郡西部的古老森林，位于怀伊河和塞文河之间",
   "note_en": "An ancient forest in west Gloucestershire, between the Wye and the Severn",
-  "coord_checked": "Forest of Dean (Wikishire) — https://wikishire.co.uk/wiki/Forest_of_Dean"
+  "coord_checked": "Forest of Dean (Wikishire) — https://wikishire.co.uk/wiki/Forest_of_Dean, 2026-11-04"
  },
  {
   "id": "gloucester-cathedral",
@@ -1685,7 +1685,7 @@
    "harry-potter-6"
   ],
   "scene_en": "Hogwarts corridors (also in the first and sixth films)",
-  "coord_checked": "Gloucester Cathedral (Wikipedia) — https://en.wikipedia.org/wiki/Gloucester_Cathedral"
+  "coord_checked": "Gloucester Cathedral (Wikipedia) — https://en.wikipedia.org/wiki/Gloucester_Cathedral, 2026-11-04"
  },
  {
   "id": "clachaig-gully",
@@ -1704,7 +1704,7 @@
    "harry-potter-3"
   ],
   "scene_en": "Sets for Hagrid's hut and the Hogwarts grounds, built near the foot of the gully",
-  "coord_checked": "Clachaig Inn (The Great Britain Guide); the sets stood just north of the inn (Wikipedia, Glen Coe) — https://www.thegreatbritainguide.com/place/clachaig-inn/"
+  "coord_checked": "Clachaig Inn (The Great Britain Guide); the sets stood just north of the inn (Wikipedia, Glen Coe) — https://www.thegreatbritainguide.com/place/clachaig-inn/, 2026-11-04"
  },
  {
   "id": "steall-falls",
@@ -1723,7 +1723,7 @@
    "harry-potter-4"
   ],
   "scene_en": "Backdrop to the first task, when Harry flies from the Hungarian Horntail",
-  "coord_checked": "Steall Waterfall (Wikipedia) — https://en.wikipedia.org/wiki/Steall_Waterfall"
+  "coord_checked": "Steall Waterfall (Wikipedia) — https://en.wikipedia.org/wiki/Steall_Waterfall, 2026-11-04"
  },
  {
   "id": "claremont-square",
@@ -1742,7 +1742,7 @@
    "harry-potter-5"
   ],
   "scene_en": "12 Grimmauld Place, headquarters of the Order of the Phoenix",
-  "coord_checked": "Claremont Square (Wikipedia) — https://en.wikipedia.org/wiki/Claremont_Square"
+  "coord_checked": "Claremont Square (Wikipedia) — https://en.wikipedia.org/wiki/Claremont_Square, 2026-11-04"
  },
  {
   "id": "millennium-bridge",
@@ -1761,7 +1761,7 @@
    "harry-potter-6"
   ],
   "scene_en": "The bridge the Death Eaters destroy in the opening scenes",
-  "coord_checked": "Millennium Bridge, London (Wikipedia) — https://en.wikipedia.org/wiki/Millennium_Bridge,_London"
+  "coord_checked": "Millennium Bridge, London (Wikipedia) — https://en.wikipedia.org/wiki/Millennium_Bridge,_London, 2026-11-04"
  },
  {
   "id": "freshwater-west",
@@ -1780,7 +1780,7 @@
    "harry-potter-7"
   ],
   "scene_en": "Shell Cottage and Dobby's grave",
-  "coord_checked": "Freshwater West (Wikipedia), grid ref SR884997 — https://en.wikipedia.org/wiki/Freshwater_West"
+  "coord_checked": "Freshwater West (Wikipedia), grid ref SR884997 — https://en.wikipedia.org/wiki/Freshwater_West, 2026-11-04"
  },
  {
   "id": "malham-cove",
@@ -1799,7 +1799,7 @@
    "harry-potter-7"
   ],
   "scene_en": "Where Harry and Hermione camp while on the run",
-  "coord_checked": "Malham Cove (Wikipedia) — https://en.wikipedia.org/wiki/Malham_Cove"
+  "coord_checked": "Malham Cove (Wikipedia) — https://en.wikipedia.org/wiki/Malham_Cove, 2026-11-04"
  },
  {
   "id": "lavenham",
@@ -1818,7 +1818,7 @@
    "harry-potter-7"
   ],
   "scene_en": "Backgrounds for Godric's Hollow, with De Vere House",
-  "coord_checked": "Lavenham (Wikipedia), grid ref TL915491 — https://en.wikipedia.org/wiki/Lavenham"
+  "coord_checked": "Lavenham (Wikipedia), grid ref TL915491 — https://en.wikipedia.org/wiki/Lavenham, 2026-11-04"
  },
  {
   "id": "charing-cross-road",
@@ -1829,7 +1829,7 @@
   "place_type": "original",
   "note": "西区一条以书店闻名的街道；福伊尔斯书店 2014 年从 111–119 号的老楼搬到隔壁 107 号",
   "note_en": "A West End street long known for its bookshops; Foyles moved from its old building at 111–119 to No. 107 next door in 2014",
-  "coord_checked": "Foyles (Wikipedia), the shop at 107 Charing Cross Road — https://en.wikipedia.org/wiki/Foyles"
+  "coord_checked": "Foyles (Wikipedia), the shop at 107 Charing Cross Road — https://en.wikipedia.org/wiki/Foyles, 2026-11-04"
  },
  {
   "id": "caledonian-market",
@@ -1840,7 +1840,7 @@
   "place_type": "original",
   "note": "钟楼是 1855 年启用的大都会牲畜市场留下的主体建筑；朱自清逛的加尔东尼市场就开在这块场地上",
   "note_en": "The clock tower is what remains of the Metropolitan Cattle Market, opened in 1855; the Caledonian Market that Zhu visited was held on this site",
-  "coord_checked": "Caledonian Park Clock Tower (Wikipedia) — https://en.wikipedia.org/wiki/Caledonian_Park_Clock_Tower"
+  "coord_checked": "Caledonian Park Clock Tower (Wikipedia) — https://en.wikipedia.org/wiki/Caledonian_Park_Clock_Tower, 2026-11-04"
  },
  {
   "id": "godstow",
@@ -1851,7 +1851,7 @@
   "place_type": "prototype",
   "prototype_of": "书中没有点名：卡罗尔常带利德尔姐妹划船到戈斯托野餐，1862 年 7 月 4 日那次泛舟途中，他第一次给她们讲了这个故事",
   "prototype_of_en": "Not named in the book: Carroll took the Liddell sisters on river trips and picnics to Godstow, and on the boat trip of 4 July 1862 he first told them the story",
-  "coord_checked": "Godstow Abbey (The Great Britain Guide) — https://www.thegreatbritainguide.com/place/godstow-abbey/"
+  "coord_checked": "Godstow Abbey (The Great Britain Guide) — https://www.thegreatbritainguide.com/place/godstow-abbey/, 2026-11-04"
  },
  {
   "id": "daresbury",
@@ -1866,7 +1866,7 @@
    "through-the-looking-glass"
   ],
   "note_en": "Carroll was born at the vicarage in 1832, when his father was the curate here; the church has a memorial window (1935) and the Lewis Carroll Centre (2012)",
-  "coord_checked": "All Saints Church, Daresbury (The Great Britain Guide) — https://www.thegreatbritainguide.com/place/all-saints-church-daresbury/"
+  "coord_checked": "All Saints Church, Daresbury (The Great Britain Guide) — https://www.thegreatbritainguide.com/place/all-saints-church-daresbury/, 2026-11-04"
  },
  {
   "id": "carroll-grave",
@@ -1881,7 +1881,7 @@
    "through-the-looking-glass"
   ],
   "note_en": "Carroll died at his sisters' house, The Chestnuts, in Guildford on 14 January 1898 and is buried in the Mount Cemetery",
-  "coord_checked": "Lewis Carroll's grave, Mount Cemetery (The Tombstone Tourist) — https://thetombstonetourist.com/graves/grave-lewis-carroll-mount-cemetery/"
+  "coord_checked": "Lewis Carroll's grave, Mount Cemetery (The Tombstone Tourist) — https://thetombstonetourist.com/graves/grave-lewis-carroll-mount-cemetery/, 2026-11-04"
  },
  {
   "id": "north-lees-hall",
@@ -1892,7 +1892,7 @@
   "place_type": "prototype",
   "prototype_of": "常被认为是桑菲尔德府的原型；夏洛蒂·勃朗特 1845 年在哈瑟塞奇小住过",
   "prototype_of_en": "Often named as the model for Thornfield Hall; Charlotte Brontë stayed in Hathersage in 1845",
-  "coord_checked": "North Lees Hall (The Great Britain Guide) — https://www.thegreatbritainguide.com/place/north-lees-hall/"
+  "coord_checked": "North Lees Hall (The Great Britain Guide) — https://www.thegreatbritainguide.com/place/north-lees-hall/, 2026-11-04"
  },
  {
   "id": "cowan-bridge",
@@ -1903,7 +1903,7 @@
   "place_type": "prototype",
   "prototype_of": "这里的牧师女儿学校是罗沃德的原型，夏洛蒂、艾米莉和两个姐姐玛丽亚、伊丽莎白都在这里上过学；玛丽亚和伊丽莎白离校后不久去世",
   "prototype_of_en": "The Clergy Daughters' School here, where Charlotte and Emily Brontë and their older sisters Maria and Elizabeth were pupils, is the model for Lowood; Maria and Elizabeth died after their time there",
-  "coord_checked": "Cowan Bridge (Wikipedia), grid ref SD634765 — https://en.wikipedia.org/wiki/Cowan_Bridge"
+  "coord_checked": "Cowan Bridge (Wikipedia), grid ref SD634765 — https://en.wikipedia.org/wiki/Cowan_Bridge, 2026-11-04"
  },
  {
   "id": "quarry-wood",
@@ -1914,7 +1914,7 @@
   "place_type": "prototype",
   "prototype_of": "被认为是野树林的原型；格雷厄姆小时候和后来都住在附近泰晤士河边的库克姆迪恩",
   "prototype_of_en": "Taken as the model for the Wild Wood; Grahame grew up and later lived nearby at Cookham Dean, by the Thames",
-  "coord_checked": "Quarry Woods walk (Countryfile), grid ref SU886850 — https://www.countryfile.com/go-outdoors/walks/quarry-woods-berkshire"
+  "coord_checked": "Quarry Woods walk (Countryfile), grid ref SU886850 — https://www.countryfile.com/go-outdoors/walks/quarry-woods-berkshire, 2026-11-04"
  },
  {
   "id": "kensington-gardens",
@@ -1925,7 +1925,7 @@
   "place_type": "original",
   "note": "海德公园西边的王家公园，园里有圆池和长湖（九曲湖的西段）",
   "note_en": "The royal park west of Hyde Park, with the Round Pond and the Long Water, the western arm of the Serpentine",
-  "coord_checked": "Kensington Gardens (The Great Britain Guide) — https://www.thegreatbritainguide.com/place/kensington-gardens/"
+  "coord_checked": "Kensington Gardens (The Great Britain Guide) — https://www.thegreatbritainguide.com/place/kensington-gardens/, 2026-11-04"
  },
  {
   "id": "peter-pan-statue",
@@ -1939,7 +1939,7 @@
    "peter-pan-kensington"
   ],
   "note_en": "Barrie commissioned the statue from George Frampton and had it put up by the Long Water on 30 April 1912",
-  "coord_checked": "Peter Pan statue (The Great Britain Guide) — https://www.thegreatbritainguide.com/place/peter-pan-statue/"
+  "coord_checked": "Peter Pan statue (The Great Britain Guide) — https://www.thegreatbritainguide.com/place/peter-pan-statue/, 2026-11-04"
  },
  {
   "id": "london-bridge",
@@ -1950,7 +1950,7 @@
   "place_type": "original",
   "note": "连接伦敦城和南华克的桥；现在的桥 1973 年启用，位置就是艾略特笔下上班人流走过的那座",
   "note_en": "The bridge between the City and Southwark; the present one opened in 1973, on the line of the crossing Eliot's clerks walked over",
-  "coord_checked": "London Bridge (Wikipedia) — https://en.wikipedia.org/wiki/London_Bridge"
+  "coord_checked": "London Bridge (Wikipedia) — https://en.wikipedia.org/wiki/London_Bridge, 2026-11-04"
  },
  {
   "id": "margate",
@@ -1962,7 +1962,7 @@
   "note": "肯特郡的海滨小城，艾略特 1921 年在这里休养时写《荒原》",
   "note_en": "The Kent seaside town where Eliot recuperated in 1921 and worked on The Waste Land",
   "city": true,
-  "coord_checked": "Margate (Wikipedia), grid ref TR355705 — https://en.wikipedia.org/wiki/Margate"
+  "coord_checked": "Margate (Wikipedia), grid ref TR355705 — https://en.wikipedia.org/wiki/Margate, 2026-11-04"
  },
  {
   "id": "pudding-lane",
@@ -1973,7 +1973,7 @@
   "place_type": "original",
   "note": "1666 年伦敦大火从布丁巷托马斯·法里纳的面包房烧起；大火纪念碑离起火点 202 英尺",
   "note_en": "The Great Fire of 1666 began in Thomas Farriner's bakery in Pudding Lane; the Monument stands 202 feet from the spot",
-  "coord_checked": "Monument to the Great Fire of London (The Great Britain Guide) — https://www.thegreatbritainguide.com/place/monument-to-the-great-fire-of-london/"
+  "coord_checked": "Monument to the Great Fire of London (The Great Britain Guide) — https://www.thegreatbritainguide.com/place/monument-to-the-great-fire-of-london/, 2026-11-04"
  },
  {
   "id": "covent-garden",
@@ -1984,7 +1984,7 @@
   "place_type": "original",
   "note": "西区的广场，1974 年以前是伦敦主要的果蔬花卉市场",
   "note_en": "The piazza in the West End, London's main fruit, vegetable and flower market until 1974",
-  "coord_checked": "Covent Garden (The Great Britain Guide) — https://www.thegreatbritainguide.com/place/covent-garden/"
+  "coord_checked": "Covent Garden (The Great Britain Guide) — https://www.thegreatbritainguide.com/place/covent-garden/, 2026-11-04"
  },
  {
   "id": "hardys-cottage",
@@ -2000,7 +2000,7 @@
    "far-from-the-madding-crowd"
   ],
   "note_en": "Hardy was born here in 1840 and wrote Under the Greenwood Tree and Far from the Madding Crowd here; the heath beside it, with Rainbarrow behind, is taken as the heart of Egdon Heath",
-  "coord_checked": "Hardy's Cottage (The Great Britain Guide) — https://www.thegreatbritainguide.com/place/hardys-cottage/"
+  "coord_checked": "Hardy's Cottage (The Great Britain Guide) — https://www.thegreatbritainguide.com/place/hardys-cottage/, 2026-11-04"
  },
  {
   "id": "aldgate",
@@ -2011,7 +2011,7 @@
   "place_type": "original",
   "note": "伦敦城东面旧城门的所在；圣博托尔夫教堂就在门外，笛福的叙述者看着 1665 年在这个教区挖下的瘟疫大坑",
   "note_en": "The site of the City's old east gate; St Botolph's church stands just outside it, and Defoe's narrator watches the great plague pit dug in its parish in 1665",
-  "coord_checked": "Aldgate (Wikipedia), grid ref TQ334813 — https://en.wikipedia.org/wiki/Aldgate"
+  "coord_checked": "Aldgate (Wikipedia), grid ref TQ334813 — https://en.wikipedia.org/wiki/Aldgate, 2026-11-04"
  },
  {
   "id": "old-tolbooth",
@@ -2022,7 +2022,7 @@
   "place_type": "original",
   "note": "路面石块拼成的心形标出了老监狱 Tolbooth 的入口位置，这座监狱 1817 年拆除；它的绰号成了司各特这本书的书名",
   "note_en": "A heart in the paving setts marks the entrance of the Old Tolbooth, Edinburgh's prison, demolished in 1817; the prison's nickname gave Scott his title",
-  "coord_checked": "Old Tolbooth, Edinburgh (Wikipedia) — https://en.wikipedia.org/wiki/Old_Tolbooth,_Edinburgh"
+  "coord_checked": "Old Tolbooth, Edinburgh (Wikipedia) — https://en.wikipedia.org/wiki/Old_Tolbooth,_Edinburgh, 2026-11-04"
  },
  {
   "id": "bedford-gaol",
@@ -2033,7 +2033,7 @@
   "place_type": "prototype",
   "prototype_of": "书中没有点名：做梦人躺下睡觉的“洞穴”通常被理解为贝德福德的监狱；班扬 1660 至 1672 年因传道被关在这里，很可能就是在狱中开始写这本书的",
   "prototype_of_en": "Not named in the book: the 'Den' where the dreamer sleeps is usually read as Bedford gaol, where Bunyan was imprisoned for preaching (1660–72) and where he probably began the book",
-  "coord_checked": "Plaque marking the site of Bedford County Gaol (Geograph photo 1380790, subject location) — https://www.geograph.org.uk/photo/1380790"
+  "coord_checked": "Plaque marking the site of Bedford County Gaol (Geograph photo 1380790, subject location) — https://www.geograph.org.uk/photo/1380790, 2026-11-04"
  },
  {
   "id": "reform-club",
@@ -2044,7 +2044,7 @@
   "place_type": "original",
   "note": "蓓尔美尔街上的绅士俱乐部，1841 年起使用现在的会所；福格的环球旅行从这里出发，也在这里结束",
   "note_en": "A gentlemen's club on Pall Mall, in its present building since 1841; Phileas Fogg's journey begins and ends here",
-  "coord_checked": "Reform Club (The Great Britain Guide) — https://www.thegreatbritainguide.com/place/reform-club/"
+  "coord_checked": "Reform Club (The Great Britain Guide) — https://www.thegreatbritainguide.com/place/reform-club/, 2026-11-04"
  },
  {
   "id": "whitechapel",
@@ -2055,7 +2055,7 @@
   "place_type": "original",
   "note": "伦敦东区的一片街区；1902 年杰克·伦敦穿上破衣服住进这里，记录东区穷人的生活",
   "note_en": "A district of the East End; in 1902 Jack London put on ragged clothes and lodged here to write about the East End poor",
-  "coord_checked": "Whitechapel (Wikipedia), grid ref TQ335815 — https://en.wikipedia.org/wiki/Whitechapel"
+  "coord_checked": "Whitechapel (Wikipedia), grid ref TQ335815 — https://en.wikipedia.org/wiki/Whitechapel, 2026-11-04"
  },
  {
   "id": "elephant-house",
@@ -2069,7 +2069,7 @@
    "harry-potter-1"
   ],
   "note_en": "A café at 21 George IV Bridge where J. K. Rowling wrote in the back room, looking out to the castle, while working on the early Harry Potter books. She has said she had been writing the series for years before she first came here, so it is not its birthplace, though 'I did write in there'. Closed after a fire in 2021, it reopened in 2026",
-  "coord_checked": "The Elephant House, 21 George IV Bridge (The Scotsman); the café is across the street from where the Commons photo 'The Elephant House october 2023' was taken (camera 55.94739, -3.19159) — https://commons.wikimedia.org/wiki/File:The_Elephant_House_october_2023.jpg"
+  "coord_checked": "The Elephant House, 21 George IV Bridge (The Scotsman); the café is across the street from where the Commons photo 'The Elephant House october 2023' was taken (camera 55.94739, -3.19159) — https://commons.wikimedia.org/wiki/File:The_Elephant_House_october_2023.jpg, 2026-11-04"
  },
  {
   "id": "greyfriars-kirkyard",
@@ -2084,7 +2084,7 @@
    "harry-potter-2"
   ],
   "note_en": "The Old Town graveyard, in use since the late 16th century, where Rowling often walked while writing. Its graves include Thomas Riddell (died 1806) and the poet William McGonagall, often taken as the sources of the names Tom Riddle and Professor McGonagall; Rowling has said she may have picked up the name Riddle without realising",
-  "coord_checked": "Greyfriars Kirkyard (Commons photo 'Greyfriars Kirkyard Memorials', camera location inside the kirkyard 55.9467, -3.19222) — https://commons.wikimedia.org/wiki/File:Greyfriars_Kirkyard_Memorials.jpg"
+  "coord_checked": "Greyfriars Kirkyard (Commons photo 'Greyfriars Kirkyard Memorials', camera location inside the kirkyard 55.9467, -3.19222) — https://commons.wikimedia.org/wiki/File:Greyfriars_Kirkyard_Memorials.jpg, 2026-11-04"
  },
  {
   "id": "monks-house",
@@ -2099,7 +2099,7 @@
    "to-the-lighthouse"
   ],
   "note_en": "The cottage Virginia and Leonard Woolf bought in 1919 and lived in full-time from 1940; many of her novels took shape in the writing lodge at the end of the garden. Leonard buried her ashes under an elm in the garden. The National Trust has run it as a writer's house museum since 1980",
-  "coord_checked": "Monk's House, Rodmell (Geograph photo 3940379, subject location; Wikipedia gives 50.8387, 0.0165) — https://www.geograph.org.uk/photo/3940379"
+  "coord_checked": "Monk's House, Rodmell (Geograph photo 3940379, subject location; Wikipedia gives 50.8387, 0.0165) — https://www.geograph.org.uk/photo/3940379, 2026-11-04"
  },
  {
   "id": "carroll-christ-church",
@@ -2114,7 +2114,7 @@
    "through-the-looking-glass"
   ],
   "note_en": "Carroll came up to Christ Church in 1851 and stayed on as a Student of the college, teaching mathematics from 1855 to 1881; Alice Liddell was a daughter of the Dean, Henry Liddell. The marker is in Tom Quad, the great quadrangle",
-  "coord_checked": "Mercury fountain at the centre of Tom Quad (Geograph photo 187947, subject location) — https://www.geograph.org.uk/photo/187947"
+  "coord_checked": "Mercury fountain at the centre of Tom Quad (Geograph photo 187947, subject location) — https://www.geograph.org.uk/photo/187947, 2026-11-04"
  },
  {
   "id": "alices-shop",
@@ -2125,7 +2125,7 @@
   "place_type": "prototype",
   "prototype_of": "《爱丽丝镜中奇遇》第 5 章老羊开的那家小店的原型，坦尼尔的插图画的就是这家店。对面基督教堂学院院长的女儿爱丽丝·利德尔当年常来这里买糖；现在是一家卖爱丽丝纪念品的小店",
   "prototype_of_en": "The model for the Old Sheep Shop in chapter 5 of Through the Looking-Glass; Tenniel's illustration shows this shop. Alice Liddell, the Dean's daughter from Christ Church across the road, used to buy sweets here; it now sells Alice gifts",
-  "coord_checked": "Alice's Shop, 83 St Aldate's (Geograph photo 8084523, subject location SP 51410 05841) — https://www.geograph.org.uk/photo/8084523"
+  "coord_checked": "Alice's Shop, 83 St Aldate's (Geograph photo 8084523, subject location SP 51410 05841) — https://www.geograph.org.uk/photo/8084523, 2026-11-04"
  },
  {
   "id": "talland-house",
@@ -2139,7 +2139,7 @@
    "to-the-lighthouse"
   ],
   "note_en": "The house above Porthminster Bay that Leslie Stephen rented for the family's summers, with Godrevy Lighthouse across the bay. Virginia spent three months here every summer for the first 13 years of her life; the family did not come back after 1894. Those summers lie behind To the Lighthouse",
-  "coord_checked": "Talland House (Commons photo 'Talland House, St Ives, Cornwall - May 2022', camera location 50.20842, -5.47912) — https://commons.wikimedia.org/wiki/File:Talland_House,_St_Ives,_Cornwall_-_May_2022.jpg"
+  "coord_checked": "Talland House (Commons photo 'Talland House, St Ives, Cornwall - May 2022', camera location 50.20842, -5.47912) — https://commons.wikimedia.org/wiki/File:Talland_House,_St_Ives,_Cornwall_-_May_2022.jpg, 2026-11-04"
  },
  {
   "id": "gordon-square-46",
@@ -2154,7 +2154,7 @@
    "to-the-lighthouse"
   ],
   "note_en": "After their father's death in 1904 the Stephen siblings left Kensington for this house; the Thursday Evenings that Virginia and Vanessa held here for Thoby's Cambridge friends made it the first centre of the Bloomsbury Group. Virginia moved to Fitzroy Square after Vanessa married; Keynes later lived here",
-  "coord_checked": "46 Gordon Square (Commons photo '46 Gordon Square Bloomsbury Camden London, WC1H 0PD', taken in front of the house, camera location 51.52442, -0.13018) — https://commons.wikimedia.org/wiki/File:46_Gordon_Square_Bloomsbury_Camden_London,_WC1H_0PD.jpg"
+  "coord_checked": "46 Gordon Square (Commons photo '46 Gordon Square Bloomsbury Camden London, WC1H 0PD', taken in front of the house, camera location 51.52442, -0.13018) — https://commons.wikimedia.org/wiki/File:46_Gordon_Square_Bloomsbury_Camden_London,_WC1H_0PD.jpg, 2026-11-04"
  },
  {
   "id": "hogarth-house",
@@ -2169,7 +2169,7 @@
    "to-the-lighthouse"
   ],
   "note_en": "Leonard and Virginia Woolf lived here from 1915 to 1924, and in 1917 set up the Hogarth Press on the dining-room table, naming it after the house; a blue plaque records both",
-  "coord_checked": "Hogarth House, 34 Paradise Road (English Heritage blue plaques); position from the Commons photo 'LEONARD and VIRGINIA WOOLF - Hogarth House 34 Paradise Road Richmond TW9 1SE', camera location 51.460448, -0.300786 — https://commons.wikimedia.org/wiki/File:LEONARD_and_VIRGINIA_WOOLF_-_Hogarth_House_34_Paradise_Road_Richmond_TW9_1SE.jpg"
+  "coord_checked": "Hogarth House, 34 Paradise Road (English Heritage blue plaques); position from the Commons photo 'LEONARD and VIRGINIA WOOLF - Hogarth House 34 Paradise Road Richmond TW9 1SE', camera location 51.460448, -0.300786 — https://commons.wikimedia.org/wiki/File:LEONARD_and_VIRGINIA_WOOLF_-_Hogarth_House_34_Paradise_Road_Richmond_TW9_1SE.jpg, 2026-11-04"
  },
  {
   "id": "godrevy",
@@ -2181,7 +2181,7 @@
   "prototype_of": "圣艾夫斯湾小岛上的灯塔，斯蒂芬家的孩子们在塔兰德宅就能望见它。小说把拉姆齐一家搬到了斯凯岛，但书里的灯塔通常被认为来自戈德雷维",
   "prototype_of_en": "The lighthouse on its rock in St Ives Bay that the Stephen children looked out to from Talland House. The novel moves the Ramsays to the Isle of Skye, but its lighthouse is usually traced to Godrevy",
   "offshore_island": true,
-  "coord_checked": "Godrevy Lighthouse, Godrevy Island (Geograph photo 407138, subject location) — https://www.geograph.org.uk/photo/407138"
+  "coord_checked": "Godrevy Lighthouse, Godrevy Island (Geograph photo 407138, subject location) — https://www.geograph.org.uk/photo/407138, 2026-11-04"
  },
  {
   "id": "senate-house",
@@ -2192,7 +2192,7 @@
   "place_type": "prototype",
   "prototype_of": "常被认为是“真理部”的原型：二战期间这里是英国新闻部所在地，奥威尔的妻子艾琳就在新闻部的审查处工作。这座装饰艺术风格的大楼建于 1932 至 1937 年",
   "prototype_of_en": "Usually taken as the model for the Ministry of Truth: in the Second World War it housed the Ministry of Information, where Orwell's wife Eileen worked in the Censorship Department. The Art Deco tower was built in 1932–37",
-  "coord_checked": "Senate House (Geograph photo 2855085, subject location) — https://www.geograph.org.uk/photo/2855085"
+  "coord_checked": "Senate House (Geograph photo 2855085, subject location) — https://www.geograph.org.uk/photo/2855085, 2026-11-04"
  },
  {
   "id": "barnhill-jura",
@@ -2206,7 +2206,7 @@
    "nineteen-eighty-four"
   ],
   "note_en": "The farmhouse in the north of Jura where Orwell lived on and off from 1946 to January 1949 and finished Nineteen Eighty-Four. It is still let to holidaymakers, much as he left it",
-  "coord_checked": "Barnhill (Geograph photo 1451233, subject location) — https://www.geograph.org.uk/photo/1451233"
+  "coord_checked": "Barnhill (Geograph photo 1451233, subject location) — https://www.geograph.org.uk/photo/1451233, 2026-11-04"
  },
  {
   "id": "orwell-grave",
@@ -2221,7 +2221,7 @@
    "animal-farm"
   ],
   "note_en": "Orwell lies in All Saints' churchyard under his real name, Eric Arthur Blair. He wanted to be buried in an English country churchyard, and David Astor, whose family owned the manor, arranged a place here",
-  "coord_checked": "Graves of Astor and Orwell, All Saints, Sutton Courtenay (Geograph photo 362296, subject location) — https://www.geograph.org.uk/photo/362296"
+  "coord_checked": "Graves of Astor and Orwell, All Saints, Sutton Courtenay (Geograph photo 362296, subject location) — https://www.geograph.org.uk/photo/362296, 2026-11-04"
  },
  {
   "id": "wallington-orwell",
@@ -2232,7 +2232,7 @@
   "place_type": "prototype",
   "prototype_of": "奥威尔 1936 至 1940 年住在村里基茨巷 2 号的“杂货铺”，开小店、养山羊，也在村里的教堂和艾琳结婚。村里的庄园农场和大谷仓被认为是《动物农场》里那座农场的原型",
   "prototype_of_en": "Orwell lived at The Stores, 2 Kits Lane, from 1936 to 1940, keeping a small shop and goats, and married Eileen in the parish church; the village's Manor Farm and Great Barn are taken as the models for the farm in Animal Farm",
-  "coord_checked": "George Orwell's plaque, Wallington (Geograph photo 6849927, subject location) — https://www.geograph.org.uk/photo/6849927"
+  "coord_checked": "George Orwell's plaque, Wallington (Geograph photo 6849927, subject location) — https://www.geograph.org.uk/photo/6849927, 2026-11-04"
  },
  {
   "id": "barnet",
@@ -2243,7 +2243,7 @@
   "place_type": "original",
   "note": "伦敦北缘大北路上的老集镇，奥利弗步行去伦敦，在这里遇见了“机灵鬼”",
   "note_en": "The old market town on the Great North Road at London's northern edge, where Oliver, walking to London, meets the Artful Dodger",
-  "coord_checked": "Barnet High Street (Geograph photo 369802, subject location) — https://www.geograph.org.uk/photo/369802"
+  "coord_checked": "Barnet High Street (Geograph photo 369802, subject location) — https://www.geograph.org.uk/photo/369802, 2026-11-04"
  },
  {
   "id": "cornhill",
@@ -2254,7 +2254,7 @@
   "place_type": "original",
   "note": "伦敦城的一条街，靠近英格兰银行，也就是斯克鲁奇账房所在的一带",
   "note_en": "A street in the City of London, near the Bank of England and Scrooge's counting-house",
-  "coord_checked": "St Peter upon Cornhill, Cornhill (Geograph photo 1767459, subject location) — https://www.geograph.org.uk/photo/1767459"
+  "coord_checked": "St Peter upon Cornhill, Cornhill (Geograph photo 1767459, subject location) — https://www.geograph.org.uk/photo/1767459, 2026-11-04"
  },
  {
   "id": "orkney",
@@ -2266,7 +2266,7 @@
   "note": "苏格兰北岸外的群岛，维克多·弗兰肯斯坦选了其中最偏远的一个小岛。标记放在主城柯克沃尔",
   "note_en": "The islands off the north coast of Scotland; Victor Frankenstein chooses one of the remotest of them. The marker is at Kirkwall, the main town",
   "offshore_island": true,
-  "coord_checked": "Kirkwall, Orkney Mainland (Geograph photo 5726878, subject location) — https://www.geograph.org.uk/photo/5726878"
+  "coord_checked": "Kirkwall, Orkney Mainland (Geograph photo 5726878, subject location) — https://www.geograph.org.uk/photo/5726878, 2026-11-04"
  },
  {
   "id": "exeter",
@@ -2278,7 +2278,7 @@
   "note": "德文郡的大教堂城市；达什伍德一家住的巴顿小屋就在城北四英里",
   "note_en": "The cathedral city of Devon; the Dashwoods' Barton Cottage lies four miles north of it",
   "city": true,
-  "coord_checked": "Exeter Cathedral (Commons photo 'Exeter (Devon, UK), Cathedral Church of Saint Peter -- 2013 -- 1417', object location) — https://commons.wikimedia.org/wiki/File:Exeter_(Devon,_UK),_Cathedral_Church_of_Saint_Peter_--_2013_--_1417.jpg"
+  "coord_checked": "Exeter Cathedral (Commons photo 'Exeter (Devon, UK), Cathedral Church of Saint Peter -- 2013 -- 1417', object location) — https://commons.wikimedia.org/wiki/File:Exeter_(Devon,_UK),_Cathedral_Church_of_Saint_Peter_--_2013_--_1417.jpg, 2026-11-04"
  },
  {
   "id": "bristol-harbour",
@@ -2289,7 +2289,7 @@
   "place_type": "original",
   "note": "布里斯托尔市中心的港口，乡绅在这里给“伊斯班袅拉号”装备出海",
   "note_en": "The docks in the heart of Bristol, where the squire fits out the Hispaniola for Treasure Island",
-  "coord_checked": "Floating Harbour, Bristol (Geograph photo 1858154, subject location) — https://www.geograph.org.uk/photo/1858154"
+  "coord_checked": "Floating Harbour, Bristol (Geograph photo 1858154, subject location) — https://www.geograph.org.uk/photo/1858154, 2026-11-04"
  },
  {
   "id": "portland-place",
@@ -2300,7 +2300,7 @@
   "place_type": "original",
   "note": "马里波恩区的一条宽街，理查德·汉内租的公寓就在附近，故事从这里开始",
   "note_en": "A broad street in Marylebone; Richard Hannay has a flat near it, where the story begins",
-  "coord_checked": "Portland Place, Central London (Geograph photo 4675256, subject location) — https://www.geograph.org.uk/photo/4675256"
+  "coord_checked": "Portland Place, Central London (Geograph photo 4675256, subject location) — https://www.geograph.org.uk/photo/4675256, 2026-11-04"
  },
  {
   "id": "york",
@@ -2312,7 +2312,7 @@
   "note": "约克郡有城墙的大教堂城市，鲁滨逊 1632 年生在这里",
   "note_en": "The walled cathedral city of Yorkshire, where Robinson Crusoe is born in 1632",
   "city": true,
-  "coord_checked": "York Minster (Commons photo 'York Minster Nave 2, Nth Yorkshire, UK - Diliff', camera location) — https://commons.wikimedia.org/wiki/File:York_Minster_Nave_2,_Nth_Yorkshire,_UK_-_Diliff.jpg"
+  "coord_checked": "York Minster (Commons photo 'York Minster Nave 2, Nth Yorkshire, UK - Diliff', camera location) — https://commons.wikimedia.org/wiki/File:York_Minster_Nave_2,_Nth_Yorkshire,_UK_-_Diliff.jpg, 2026-11-04"
  },
  {
   "id": "emmanuel-college",
@@ -2323,7 +2323,7 @@
   "place_type": "original",
   "note": "剑桥的一所学院，1584 年创办；格列佛十四岁进这里读了三年书",
   "note_en": "A Cambridge college founded in 1584, where Gulliver studies for three years from the age of fourteen",
-  "coord_checked": "Emmanuel College (Commons photo 'Emmanuel College Front Court, Cambridge, UK - Diliff', camera location) — https://commons.wikimedia.org/wiki/File:Emmanuel_College_Front_Court,_Cambridge,_UK_-_Diliff.jpg"
+  "coord_checked": "Emmanuel College (Commons photo 'Emmanuel College Front Court, Cambridge, UK - Diliff', camera location) — https://commons.wikimedia.org/wiki/File:Emmanuel_College_Front_Court,_Cambridge,_UK_-_Diliff.jpg, 2026-11-04"
  },
  {
   "id": "coventry-middlemarch",
@@ -2334,7 +2334,7 @@
   "place_type": "prototype",
   "prototype_of": "很可能是米德尔马契的原型：乔治·艾略特去伦敦之前住在考文垂，这里和米德尔马契一样以丝带业为生",
   "prototype_of_en": "Probably the model for Middlemarch: George Eliot lived in Coventry before moving to London, and like Middlemarch it was a silk-ribbon town",
-  "coord_checked": "Two spires, Coventry (Geograph photo 1065743, subject location) — https://www.geograph.org.uk/photo/1065743"
+  "coord_checked": "Two spires, Coventry (Geograph photo 1065743, subject location) — https://www.geograph.org.uk/photo/1065743, 2026-11-04"
  },
  {
   "id": "dorchester-casterbridge",
@@ -2345,7 +2345,7 @@
   "place_type": "prototype",
   "prototype_of": "哈代的家乡小城，在他的小说里叫卡斯特桥",
   "prototype_of_en": "Hardy's home town, called Casterbridge in his novels",
-  "coord_checked": "Dorchester, View of High West Street (Geograph photo 1834521, subject location) — https://www.geograph.org.uk/photo/1834521"
+  "coord_checked": "Dorchester, View of High West Street (Geograph photo 1834521, subject location) — https://www.geograph.org.uk/photo/1834521, 2026-11-04"
  },
  {
   "id": "great-maytham",
@@ -2356,7 +2356,7 @@
   "place_type": "prototype",
   "prototype_of": "伯内特 1898 至 1907 年住在这里，发现庄园里建于 1721 年的围墙花园荒废多年、杂草丛生；《秘密花园》就由此而来",
   "prototype_of_en": "Burnett lived here from 1898 to 1907 and found its walled garden of 1721 overgrown and neglected; it inspired The Secret Garden",
-  "coord_checked": "Great Maytham Hall Garden (Geograph photo 228928, subject location) — https://www.geograph.org.uk/photo/228928"
+  "coord_checked": "Great Maytham Hall Garden (Geograph photo 228928, subject location) — https://www.geograph.org.uk/photo/228928, 2026-11-04"
  },
  {
   "id": "ashdown-pooh",
@@ -2367,7 +2367,7 @@
   "place_type": "prototype",
   "prototype_of": "米尔恩常带儿子克里斯托弗·罗宾在阿什当森林散步，这里就是故事里的森林，林中的“五百英亩林”就是“百亩林”。标记放在森林外缘哈特菲尔德附近的噗噗棍桥，米尔恩家的乡间住所科奇福德农场就在旁边",
   "prototype_of_en": "Ashdown Forest, where Milne walked with his son Christopher Robin, is the Forest of the stories, and its Five Hundred Acre Wood the Hundred Acre Wood. The marker is at Poohsticks Bridge, just outside the forest near Hartfield, where the Milnes had their country home at Cotchford Farm",
-  "coord_checked": "Poohsticks Bridge (Geograph photo 3937589, subject location) — https://www.geograph.org.uk/photo/3937589"
+  "coord_checked": "Poohsticks Bridge (Geograph photo 3937589, subject location) — https://www.geograph.org.uk/photo/3937589, 2026-11-04"
  },
  {
   "id": "menabilly",
@@ -2378,7 +2378,7 @@
   "place_type": "prototype",
   "prototype_of": "杜穆里埃少女时代发现了这座藏在林中的宅子，后来在这里一直住到 1969 年；它和剑桥郡的米尔顿庄园一起成了曼陀丽的原型——曼陀丽也像它一样藏在树林里，从海边看不见。宅子是私产，照片拍的是宅子下面的波利德茅斯小海湾",
   "prototype_of_en": "Du Maurier discovered this hidden house as a teenager and later lived in it until 1969; with Milton Hall in Cambridgeshire it was the model for Manderley, which like Menabilly lay hidden in woods out of sight of the shore. The house is private; the photo shows Polridmouth cove below it",
-  "coord_checked": "Menabilly (Wikipedia) — https://en.wikipedia.org/wiki/Menabilly"
+  "coord_checked": "Menabilly (Wikipedia) — https://en.wikipedia.org/wiki/Menabilly, 2026-11-04"
  },
  {
   "id": "sarehole-mill",
@@ -2389,7 +2389,7 @@
   "place_type": "prototype",
   "prototype_of": "托尔金小时候就住在这座水磨坊几百码外，他说霍比屯的磨坊就是照它写的；他把这一带的乡野称作“一种失落的乐园”",
   "prototype_of_en": "Tolkien lived within a few hundred yards of this watermill as a small boy, and said he used it as the model for the Mill at Hobbiton; he called the countryside around it 'a kind of lost paradise'",
-  "coord_checked": "Sarehole Mill (Wikipedia), grid ref SP1005381833 — https://en.wikipedia.org/wiki/Sarehole_Mill"
+  "coord_checked": "Sarehole Mill (Wikipedia), grid ref SP1005381833 — https://en.wikipedia.org/wiki/Sarehole_Mill, 2026-11-04"
  },
  {
   "id": "rostrevor",
@@ -2400,7 +2400,7 @@
   "place_type": "prototype",
   "prototype_of": "刘易斯在给哥哥的信里写道，罗斯特雷沃俯瞰卡林福德湾的那一带，就是他心中的纳尼亚；他在贝尔法斯特长大，也提到过这里背后的莫恩山",
   "prototype_of_en": "Lewis wrote to his brother that the part of Rostrevor overlooking Carlingford Lough was his idea of Narnia; he grew up in Belfast and also named the Mourne Mountains above it",
-  "coord_checked": "Rostrevor and Carlingford Lough (Geograph photo 687576, subject location) — https://www.geograph.org.uk/photo/687576"
+  "coord_checked": "Rostrevor and Carlingford Lough (Geograph photo 687576, subject location) — https://www.geograph.org.uk/photo/687576, 2026-11-04"
  },
  {
   "id": "hill-top-sawrey",
@@ -2415,7 +2415,7 @@
    "mrs-tiggy-winkle"
   ],
   "note_en": "The farmhouse Beatrix Potter bought in 1905 with the money from her first books, Peter Rabbit among them; she left it to the National Trust, which opens it as a writer's house",
-  "coord_checked": "Hill Top, Cumbria (Wikipedia) — https://en.wikipedia.org/wiki/Hill_Top,_Cumbria"
+  "coord_checked": "Hill Top, Cumbria (Wikipedia) — https://en.wikipedia.org/wiki/Hill_Top,_Cumbria, 2026-11-04"
  },
  {
   "id": "burns-cottage",
@@ -2429,7 +2429,7 @@
    "burns-highlands"
   ],
   "note_en": "The thatched cottage Burns's father built in 1757. Robert was born here on 25 January 1759 and lived here until he was about seven; it is now part of the Robert Burns Birthplace Museum, run by the National Trust for Scotland",
-  "coord_checked": "Burns Cottage, Alloway (Geograph photo 428032, subject location) — https://www.geograph.org.uk/photo/428032"
+  "coord_checked": "Burns Cottage, Alloway (Geograph photo 428032, subject location) — https://www.geograph.org.uk/photo/428032, 2026-11-04"
  },
  {
   "id": "writers-museum",
@@ -2451,7 +2451,7 @@
    "ivanhoe"
   ],
   "note_en": "A museum in Lady Stair's House, in a close off the Lawnmarket at the top of the Royal Mile, given to the lives of Scotland's three great writers: Robert Burns, Walter Scott and Robert Louis Stevenson",
-  "coord_checked": "Lady Stair's House (Geograph photo 2140534, subject location) — https://www.geograph.org.uk/photo/2140534"
+  "coord_checked": "Lady Stair's House (Geograph photo 2140534, subject location) — https://www.geograph.org.uk/photo/2140534, 2026-11-04"
  },
  {
   "id": "gaskell-house",
@@ -2468,7 +2468,7 @@
    "mary-barton"
   ],
   "note_en": "The Gaskells moved into 84 Plymouth Grove in 1850, and Elizabeth wrote all her later books here, Cranford and North and South among them; Charlotte Brontë stayed three times and Dickens called. Restored and opened to visitors in 2014",
-  "coord_checked": "Elizabeth Gaskell's House, Plymouth Grove (Geograph photo 720377, subject location) — https://www.geograph.org.uk/photo/720377"
+  "coord_checked": "Elizabeth Gaskell's House, Plymouth Grove (Geograph photo 720377, subject location) — https://www.geograph.org.uk/photo/720377, 2026-11-04"
  },
  {
   "id": "lawrence-birthplace",
@@ -2483,7 +2483,7 @@
    "the-rainbow"
   ],
   "note_en": "The miner's house at 8a Victoria Street where Lawrence was born in 1885, kept as it is thought to have been when the family lived there; his original gravestone is on show",
-  "coord_checked": "D H Lawrence Birthplace Museum, Eastwood (Geograph photo 7641153, subject location) — https://www.geograph.org.uk/photo/7641153"
+  "coord_checked": "D H Lawrence Birthplace Museum, Eastwood (Geograph photo 7641153, subject location) — https://www.geograph.org.uk/photo/7641153, 2026-11-04"
  },
  {
   "id": "eliot-grave",
@@ -2498,7 +2498,7 @@
    "middlemarch"
   ],
   "note_en": "The headstone gives her pen name and her married name, Mary Ann Cross; she lies next to George Henry Lewes, her partner",
-  "coord_checked": "The grave of George Eliot in Highgate Cemetery (Geograph photo 5876589, subject location) — https://www.geograph.org.uk/photo/5876589"
+  "coord_checked": "The grave of George Eliot in Highgate Cemetery (Geograph photo 5876589, subject location) — https://www.geograph.org.uk/photo/5876589, 2026-11-04"
  },
  {
   "id": "reading-gaol",
@@ -2512,7 +2512,7 @@
    "dorian-gray"
   ],
   "note_en": "Oscar Wilde was held here from 1895 to 1897; an execution at the prison in 1896 lies behind The Ballad of Reading Gaol. The prison closed in 2014",
-  "coord_checked": "Reading Prison (Geograph photo 5320123, subject location) — https://www.geograph.org.uk/photo/5320123"
+  "coord_checked": "Reading Prison (Geograph photo 5320123, subject location) — https://www.geograph.org.uk/photo/5320123, 2026-11-04"
  },
  {
   "id": "tolkien-grave",
@@ -2527,7 +2527,7 @@
    "lord-of-the-rings"
   ],
   "note_en": "Tolkien, who died in 1973, is buried with his wife Edith; the stone gives them the names of the lovers in his legends, Beren and Lúthien",
-  "coord_checked": "Grave of Edith and J.R.R. Tolkien (Commons photo, camera location at the grave) — https://commons.wikimedia.org/wiki/File:Grave_of_Edith_and_J.R.R._Tolkien_in_the_Wolvercote_Cemetery,_Oxonmoot_1979.jpg"
+  "coord_checked": "Grave of Edith and J.R.R. Tolkien (Commons photo, camera location at the grave) — https://commons.wikimedia.org/wiki/File:Grave_of_Edith_and_J.R.R._Tolkien_in_the_Wolvercote_Cemetery,_Oxonmoot_1979.jpg, 2026-11-04"
  },
  {
   "id": "the-kilns",
@@ -2541,7 +2541,7 @@
    "lion-witch-wardrobe"
   ],
   "note_en": "Lewis bought the house in 1930 with his brother Warren and Janie Moore, and lived here for the rest of his life, writing the Narnia books here; it is now a study centre run by the C. S. Lewis Foundation",
-  "coord_checked": "The Kilns, home of C.S. Lewis (Geograph photo 7925307, subject location) — https://www.geograph.org.uk/photo/7925307"
+  "coord_checked": "The Kilns, home of C.S. Lewis (Geograph photo 7925307, subject location) — https://www.geograph.org.uk/photo/7925307, 2026-11-04"
  },
  {
   "id": "bunhill-fields",
@@ -2558,7 +2558,7 @@
    "pilgrims-progress"
   ],
   "note_en": "A burial ground for nonconformists from 1665 to 1854, now a public garden. William Blake, Daniel Defoe and John Bunyan lie here: Defoe's obelisk went up in 1870, Bunyan's tomb carries his effigy, and a stone marking Blake's grave was unveiled in 2018",
-  "coord_checked": "Defoe and Blake memorials, Bunhill Fields (Geograph photo 3710090, subject location) — https://www.geograph.org.uk/photo/3710090"
+  "coord_checked": "Defoe and Blake memorials, Bunhill Fields (Geograph photo 3710090, subject location) — https://www.geograph.org.uk/photo/3710090, 2026-11-04"
  },
  {
   "id": "st-olaves",
@@ -2572,7 +2572,7 @@
    "pepys-diary"
   ],
   "note_en": "Pepys's parish church, 'our own church' in the diary. He had a gallery built here reached from the Navy Office, put up a bust of his wife Elizabeth after her death in 1669, and was buried beside her in 1703",
-  "coord_checked": "St Olave, Hart Street (Geograph photo 1085120, subject location) — https://www.geograph.org.uk/photo/1085120"
+  "coord_checked": "St Olave, Hart Street (Geograph photo 1085120, subject location) — https://www.geograph.org.uk/photo/1085120, 2026-11-04"
  },
  {
   "id": "mary-shelley-grave",
@@ -2588,7 +2588,7 @@
    "mask-of-anarchy"
   ],
   "note_en": "Mary Shelley lies in St Peter's churchyard, reputedly with the heart of Percy Bysshe Shelley; her son had her parents, Mary Wollstonecraft and William Godwin, reburied here beside her",
-  "coord_checked": "Grave of Mary Wollstonecraft Shelley (Geograph photo 1861397, subject location) — https://www.geograph.org.uk/photo/1861397"
+  "coord_checked": "Grave of Mary Wollstonecraft Shelley (Geograph photo 1861397, subject location) — https://www.geograph.org.uk/photo/1861397, 2026-11-04"
  },
  {
   "id": "newstead-abbey",
@@ -2603,7 +2603,7 @@
    "don-juan"
   ],
   "note_en": "Byron's family seat. He inherited it with the title in 1798, aged ten, lived here for short spells from 1808, and sold it in 1818 while he was in Italy. The Norman Abbey of Don Juan, Cantos 13 to 16, is drawn from it. It now belongs to Nottingham City Council and is open to visitors, with a Byron museum inside",
-  "coord_checked": "Newstead Abbey (Wikipedia) — https://en.wikipedia.org/wiki/Newstead_Abbey"
+  "coord_checked": "Newstead Abbey (Wikipedia) — https://en.wikipedia.org/wiki/Newstead_Abbey, 2026-11-05"
  },
  {
   "id": "byron-hucknall",
@@ -2618,7 +2618,7 @@
    "don-juan"
   ],
   "note_en": "Byron died at Missolonghi in Greece in 1824. Westminster Abbey refused to bury him, and he was laid in the Byron family vault in St Mary Magdalene's. A marble slab given by the King of Greece lies above the grave, and his daughter Ada Lovelace was later buried beside him. Westminster Abbey put up a memorial to him in 1969",
-  "coord_checked": "Church of St Mary Magdalene, Hucknall (Wikipedia) — https://en.wikipedia.org/wiki/Church_of_St_Mary_Magdalene,_Hucknall"
+  "coord_checked": "Church of St Mary Magdalene, Hucknall (Wikipedia) — https://en.wikipedia.org/wiki/Church_of_St_Mary_Magdalene,_Hucknall, 2026-11-05"
  },
  {
   "id": "harrow-peachey",
@@ -2629,7 +2629,7 @@
   "place_type": "original",
   "note": "拜伦 1801 至 1805 年在哈罗公学读书，常坐在这里的皮奇墓旁发呆，说它是“我最喜欢的墓碑”。诗里那棵榆树 1935 年以前就烧毁了；墓前有一块 1905 年立的石碑，刻着这首诗。他的女儿阿莱格拉葬在教堂南门廊旁，墓上没有标记",
   "note_en": "As a boy at Harrow School, from 1801 to 1805, Byron liked to sit and daydream by the Peachey Tomb here, his 'favourite tombstone'. The elm of the poem burnt down before 1935; a stone put up in front of the tomb in 1905 carries the poem. His daughter Allegra lies in an unmarked grave by the south porch",
-  "coord_checked": "The Peachey tomb in St Mary's Churchyard, Harrow on the Hill (Geograph photo by Marathon, Commons object location) — https://commons.wikimedia.org/wiki/File:The_Peachey_tomb_in_St_Mary%27s_Churchyard,_Harrow_on_the_Hill_-_geograph.org.uk_-_4730479.jpg"
+  "coord_checked": "The Peachey tomb in St Mary's Churchyard, Harrow on the Hill (Geograph photo by Marathon, Commons object location) — https://commons.wikimedia.org/wiki/File:The_Peachey_tomb_in_St_Mary%27s_Churchyard,_Harrow_on_the_Hill_-_geograph.org.uk_-_4730479.jpg, 2026-11-05"
  },
  {
   "id": "lochnagar",
@@ -2640,7 +2640,7 @@
   "place_type": "original",
   "note": "凯恩戈姆山区巴尔莫勒尔庄园里的一座山，海拔 1155 米。拜伦童年有一段时间住在阿伯丁郡，他在这首诗的注里说，自己小时候就住在这座山附近。标记放在山顶",
   "note_en": "A 1,155-metre mountain on the Balmoral estate in the Cairngorms. Byron spent part of his childhood in Aberdeenshire, and in his note to the poem says he lived near it in his early years. The marker is at the summit",
-  "coord_checked": "Lochnagar (Wikipedia), summit — https://en.wikipedia.org/wiki/Lochnagar"
+  "coord_checked": "Lochnagar (Wikipedia), summit — https://en.wikipedia.org/wiki/Lochnagar, 2026-11-05"
  },
  {
   "id": "shelley-memorial",
@@ -2655,7 +2655,7 @@
    "mask-of-anarchy"
   ],
   "note_en": "Shelley came up to University College in 1810 and was expelled on 25 March 1811, with his friend Thomas Jefferson Hogg, over the pamphlet The Necessity of Atheism. The college now honours him: Edward Onslow Ford's marble figure of the drowned poet, first meant for his grave in Rome, has stood in a domed room off the High Street since 1893",
-  "coord_checked": "Shelley Memorial (Wikipedia) — https://en.wikipedia.org/wiki/Shelley_Memorial"
+  "coord_checked": "Shelley Memorial (Wikipedia) — https://en.wikipedia.org/wiki/Shelley_Memorial, 2026-11-05"
  },
  {
   "id": "albion-house",
@@ -2670,7 +2670,7 @@
    "frankenstein"
   ],
   "note_en": "The Shelleys lived at Albion House, 104 West Street, from March 1817 to February 1818. Percy wrote Laon and Cythna, reissued as The Revolt of Islam, in the woods near Marlow, and Mary finished Frankenstein here. The house is now private, as Shelley Cottages, with a plaque outside",
-  "coord_checked": "Albion House / Shelley Cottage, Marlow (British Listed Buildings, Grade II) — https://britishlistedbuildings.co.uk/101217597-albion-houseshelley-cottageshelley-house-marlow"
+  "coord_checked": "Albion House / Shelley Cottage, Marlow (British Listed Buildings, Grade II) — https://britishlistedbuildings.co.uk/101217597-albion-houseshelley-cottageshelley-house-marlow, 2026-11-05"
  },
  {
   "id": "peterloo",
@@ -2681,7 +2681,7 @@
   "place_type": "original",
   "note": "1819 年 8 月 16 日，数万人聚集在圣彼得广场要求议会改革，骑兵冲进人群，造成 18 人死亡、数百人受伤。雪莱当时在意大利，9 月才得到消息，写下《暴政的假面游行》，副标题是“为曼彻斯特屠杀而作”，直到 1832 年才出版。这片空地现在是圣彼得广场，2019 年杰里米·德勒设计的彼得卢纪念碑在旁边落成。标记放在纪念碑处",
   "note_en": "On 16 August 1819 cavalry charged a crowd of tens of thousands gathered on St Peter's Field to call for parliamentary reform; eighteen people were killed and hundreds injured. Shelley, in Italy, heard the news in September and wrote The Mask of Anarchy, 'written on the occasion of the massacre at Manchester'; it was not published until 1832. The field is now St Peter's Square, and Jeremy Deller's Peterloo Memorial was unveiled beside it in 2019. The marker is at the memorial",
-  "coord_checked": "Peterloo Memorial (Wikipedia) — https://en.wikipedia.org/wiki/Peterloo_Memorial"
+  "coord_checked": "Peterloo Memorial (Wikipedia) — https://en.wikipedia.org/wiki/Peterloo_Memorial, 2026-11-05"
  },
  {
   "id": "milton-cottage",
@@ -2696,7 +2696,7 @@
    "comus"
   ],
   "note_en": "Milton and his wife moved into this cottage in 1665 to escape the plague in London, and he finished Paradise Lost here. It was bought by public subscription in 1887; the ground floor is a museum and the garden is open",
-  "coord_checked": "Milton's Cottage, Chalfont St. Giles (Geograph photo 8063115, subject location) — https://www.geograph.org.uk/photo/8063115"
+  "coord_checked": "Milton's Cottage, Chalfont St. Giles (Geograph photo 8063115, subject location) — https://www.geograph.org.uk/photo/8063115, 2026-11-05"
  },
  {
   "id": "coleridge-cottage",
@@ -2711,7 +2711,7 @@
    "wordsworth-poems"
   ],
   "note_en": "Coleridge rented the cottage from 1797 to 1799 and wrote This Lime-Tree Bower My Prison, The Rime of the Ancient Mariner, Frost at Midnight and part of Christabel here. It has been run by the National Trust since 1909",
-  "coord_checked": "Coleridge Cottage (Wikipedia) — https://en.wikipedia.org/wiki/Coleridge_Cottage"
+  "coord_checked": "Coleridge Cottage (Wikipedia) — https://en.wikipedia.org/wiki/Coleridge_Cottage, 2026-11-05"
  },
  {
   "id": "porlock",
@@ -2722,7 +2722,7 @@
   "place_type": "original",
   "note": "埃克斯穆尔海岸边的村庄。柯勒律治在《忽必烈汗》的序言里说，1797 年他在波洛克和林顿之间一座僻静的农舍里梦到这首诗，一般认为那座农舍在卡尔伯恩教堂附近；醒来写到一半，“一位从波洛克来办事的人”上门，其余的诗句就都忘了",
   "note_en": "A village on the Exmoor coast. In his preface to Kubla Khan Coleridge says he dreamt the poem in 1797 at a lonely farmhouse between Porlock and Linton, usually placed near Culbone Church, and lost the rest of it when 'a person on business from Porlock' called",
-  "coord_checked": "Porlock (Wikipedia), grid ref SS886467 — https://en.wikipedia.org/wiki/Porlock"
+  "coord_checked": "Porlock (Wikipedia), grid ref SS886467 — https://en.wikipedia.org/wiki/Porlock, 2026-11-05"
  },
  {
   "id": "farringford",
@@ -2733,10 +2733,11 @@
   "place_type": "pilgrimage",
   "note": "丁尼生 1853 年租下法林福德，1856 年买下，此后一直以这里为家，直到 1892 年去世；他在苏塞克斯盖了奥尔德沃斯之后，冬天仍回这里住。2017 年修复后作为历史名宅开放，4 月到 10 月有导览",
   "book_ids": [
-   "in-memoriam"
+   "in-memoriam",
+   "idylls-of-the-king"
   ],
   "note_en": "Tennyson rented Farringford in 1853, bought it in 1856 and kept it as his home until his death in 1892, spending the winters here after he built Aldworth in Sussex. It reopened as a historic house in 2017, with guided tours from April to October",
-  "coord_checked": "Farringford House, once the home of Tennyson (Geograph photo 6241203, subject location) — https://www.geograph.org.uk/photo/6241203"
+  "coord_checked": "Farringford House, once the home of Tennyson (Geograph photo 6241203, subject location) — https://www.geograph.org.uk/photo/6241203, 2026-11-05"
  },
  {
   "id": "clevedon-st-andrews",
@@ -2748,7 +2749,7 @@
   "note": "布里斯托尔海峡边小山上的老教堂，塞文河口就在这里入海。丁尼生最好的朋友阿瑟·哈勒姆，也就是《悼念集》标题里的 A.H.H.，葬在这里",
   "note_en": "The old church on a hill above the Bristol Channel, where the Severn estuary meets the sea. Arthur Hallam, Tennyson's closest friend and the A.H.H. of In Memoriam, is buried here",
   "rough_coast": true,
-  "coord_checked": "St Andrew's Church, Clevedon (Wikipedia) — https://en.wikipedia.org/wiki/St_Andrew%27s_Church,_Clevedon"
+  "coord_checked": "St Andrew's Church, Clevedon (Wikipedia) — https://en.wikipedia.org/wiki/St_Andrew%27s_Church,_Clevedon, 2026-11-05"
  },
  {
   "id": "st-marylebone-church",
@@ -2762,7 +2763,7 @@
    "dramatic-romances"
   ],
   "note_en": "Robert Browning and Elizabeth Barrett were married here in 1846. When the church reopened after war damage in 1949 it made a Browning Chapel to mark the wedding, and the parish still keeps their marriage certificate",
-  "coord_checked": "St Marylebone Parish Church (Wikipedia), grid ref TQ 28285 82034 — https://en.wikipedia.org/wiki/St_Marylebone_Parish_Church"
+  "coord_checked": "St Marylebone Parish Church (Wikipedia), grid ref TQ 28285 82034 — https://en.wikipedia.org/wiki/St_Marylebone_Parish_Church, 2026-11-05"
  },
  {
   "id": "temple-church",
@@ -2773,7 +2774,7 @@
   "place_type": "original",
   "note": "圣殿骑士团在英格兰的总部教堂，圆形，1185 年祝圣。周围舰队街和泰晤士河之间的圣殿区，现在属于内殿和中殿两所律师学院——正是斯宾塞诗里取代了圣殿骑士的“好学的律师”",
   "note_en": "The round church the Knights Templar built as their English headquarters, consecrated in 1185. The Temple around it, between Fleet Street and the Thames, now belongs to two Inns of Court, Inner Temple and Middle Temple: the lawyers who, as Spenser says, took the Templars' place",
-  "coord_checked": "Temple Church (Commons photo 'Temple Church 5, London, UK - Diliff', camera location) — https://commons.wikimedia.org/wiki/File:Temple_Church_5,_London,_UK_-_Diliff.jpg"
+  "coord_checked": "Temple Church (Commons photo 'Temple Church 5, London, UK - Diliff', camera location) — https://commons.wikimedia.org/wiki/File:Temple_Church_5,_London,_UK_-_Diliff.jpg, 2026-11-05"
  },
  {
   "id": "clare-cottage",
@@ -2787,7 +2788,7 @@
    "clare-poems"
   ],
   "note_en": "Clare was born in 1793 in this thatched cottage at 12 Woodgate. The fields and commons around Helpston, and their enclosure, run all through his poems; he is buried in St Botolph's churchyard in the village. The John Clare Trust bought the cottage in 2005 and has restored it",
-  "coord_checked": "John Clare Cottage, Helpston (Geograph photo 3945475, subject location) — https://www.geograph.org.uk/photo/3945475"
+  "coord_checked": "John Clare Cottage, Helpston (Geograph photo 3945475, subject location) — https://www.geograph.org.uk/photo/3945475, 2026-11-05"
  },
  {
   "id": "shandy-hall",
@@ -2801,7 +2802,7 @@
    "tristram-shandy"
   ],
   "note_en": "Sterne lived here from 1760 to 1768 as curate of Coxwold and wrote the later volumes of Tristram Shandy and A Sentimental Journey here; the first two volumes were already out. Run by the Laurence Sterne Trust and open to visitors",
-  "coord_checked": "Shandy Hall (Wikipedia) — https://en.wikipedia.org/wiki/Shandy_Hall"
+  "coord_checked": "Shandy Hall (Wikipedia) — https://en.wikipedia.org/wiki/Shandy_Hall, 2026-11-05"
  },
  {
   "id": "carlyles-house",
@@ -2815,7 +2816,7 @@
    "french-revolution"
   ],
   "note_en": "Thomas and Jane Carlyle lived at 24 Cheyne Row from 1834 until his death in 1881. He wrote The French Revolution and most of his later work here. Owned by the National Trust",
-  "coord_checked": "Nos 16 to 22, No 24 Carlyle's House and Nos 26 to 34 Cheyne Row (British Listed Buildings, Grade II*) — https://britishlistedbuildings.co.uk/101358142-16-22-24-carlyles-house-and-26-34-cheyne-row-royal-hospital-ward"
+  "coord_checked": "Nos 16 to 22, No 24 Carlyle's House and Nos 26 to 34 Cheyne Row (British Listed Buildings, Grade II*) — https://britishlistedbuildings.co.uk/101358142-16-22-24-carlyles-house-and-26-34-cheyne-row-royal-hospital-ward, 2026-11-05"
  },
  {
   "id": "cowper-museum",
@@ -2829,7 +2830,7 @@
    "the-task"
   ],
   "note_en": "Cowper lived at Orchard Side, on the Market Place, from 1768 to 1786. With the curate John Newton, who wrote Amazing Grace, he wrote the Olney Hymns, and in 1783 he began The Task, which looks out over the Ouse valley around the town. The house is now the Cowper and Newton Museum",
-  "coord_checked": "Cowper & Newton Museum, Market Place, Olney (Geograph photo 6856872, subject location) — https://www.geograph.org.uk/photo/6856872"
+  "coord_checked": "Cowper & Newton Museum, Market Place, Olney (Geograph photo 6856872, subject location) — https://www.geograph.org.uk/photo/6856872, 2026-11-05"
  },
  {
   "id": "yr-ysgwrn",
@@ -2843,7 +2844,7 @@
    "yr-arwr"
   ],
   "note_en": "The hill farm in Cwm Prysor where Hedd Wyn (Ellis Humphrey Evans) grew up. He was killed at Passchendaele on 31 July 1917; later that year his awdl Yr Arwr won the chair at the National Eisteddfod, and the empty chair was draped in black. The Black Chair is kept here, and the Snowdonia National Park bought the farm for the nation in 2012",
-  "coord_checked": "Yr Ysgwrn, home of the poet Hedd Wyn (Commons photo by Alan Fryer, object location) — https://commons.wikimedia.org/wiki/File%3AYr_Ysgwrn%2C_cartref_y_bardd_Hedd_Wyn_-_Yr_Ysgwrn%2C_home_of_the_poet_Hedd_Wyn_-_geograph.org.uk_-_3704246.jpg"
+  "coord_checked": "Yr Ysgwrn, home of the poet Hedd Wyn (Commons photo by Alan Fryer, object location) — https://commons.wikimedia.org/wiki/File%3AYr_Ysgwrn%2C_cartref_y_bardd_Hedd_Wyn_-_Yr_Ysgwrn%2C_home_of_the_poet_Hedd_Wyn_-_geograph.org.uk_-_3704246.jpg, 2026-11-05"
  },
  {
   "id": "heaney-homeplace",
@@ -2857,7 +2858,7 @@
    "death-of-a-naturalist"
   ],
   "note_en": "An arts centre about Heaney's life and work, opened in 2016 in Bellaghy, where his family moved in 1953. He was born in 1939 at Mossbawn, the family farm near Castledawson, and is buried in St Mary's churchyard in the village, under the words 'Walk on air against your better judgement'",
-  "coord_checked": "Seamus Heaney HomePlace (Wikipedia) — https://en.wikipedia.org/wiki/Seamus_Heaney_HomePlace"
+  "coord_checked": "Seamus Heaney HomePlace (Wikipedia) — https://en.wikipedia.org/wiki/Seamus_Heaney_HomePlace, 2026-11-05"
  },
  {
   "id": "dahl-museum",
@@ -2874,7 +2875,7 @@
    "matilda"
   ],
   "note_en": "Dahl lived at Gipsy House in Great Missenden for 36 years, until his death in 1990. The museum, in an old coaching inn on the High Street, opened in 2005 and holds his papers",
-  "coord_checked": "The Roald Dahl Museum and Story Centre (Geograph photo 1264147, subject location) — https://www.geograph.org.uk/photo/1264147"
+  "coord_checked": "The Roald Dahl Museum and Story Centre (Geograph photo 1264147, subject location) — https://www.geograph.org.uk/photo/1264147, 2026-11-05"
  },
  {
   "id": "llandaff-sweetshop",
@@ -2885,7 +2886,7 @@
   "place_type": "original",
   "note": "《好小子》里“老鼠大阴谋”发生的糖果店。1924 年，七岁的达尔和四个伙伴把一只死老鼠放进了这里的硬糖罐；店主后来成了书里的普拉切特太太。2009 年挂上了蓝色纪念牌",
   "note_en": "The sweet shop of the Great Mouse Plot in Boy. In 1924 seven-year-old Dahl and four friends put a dead mouse in a jar of gobstoppers here; the shopkeeper became Mrs Pratchett in the book. A blue plaque went up in 2009",
-  "coord_checked": "11 High Street, Llandaff (Wikipedia) — https://en.wikipedia.org/wiki/11_High_Street,_Llandaff"
+  "coord_checked": "11 High Street, Llandaff (Wikipedia) — https://en.wikipedia.org/wiki/11_High_Street,_Llandaff, 2026-11-05"
  },
  {
   "id": "repton-school",
@@ -2896,7 +2897,7 @@
   "place_type": "prototype",
   "prototype_of": "不是工厂本身：1930 年代达尔在雷普顿上学时，和同学们一起替吉百利试吃新出的巧克力，他梦想将来给吉百利发明巧克力。他说《查理和巧克力工厂》就是从这里来的",
   "prototype_of_en": "Not the factory itself: at Repton in the 1930s Dahl and the other boys tested new Cadbury chocolate bars, and he dreamed of working as an inventor for Cadbury. He said this was where Charlie and the Chocolate Factory came from",
-  "coord_checked": "Repton School (Wikipedia) — https://en.wikipedia.org/wiki/Repton_School"
+  "coord_checked": "Repton School (Wikipedia) — https://en.wikipedia.org/wiki/Repton_School, 2026-11-05"
  },
  {
   "id": "exeter-college-jordan",
@@ -2907,7 +2908,7 @@
   "place_type": "prototype",
   "prototype_of": "普尔曼自己读书的学院，也是乔丹学院的原型：乔丹学院的位置和布局都照着它，只是更大、更富、更古老",
   "prototype_of_en": "Pullman's own college and the model for Jordan College, which stands where Exeter does and is laid out like it, only bigger, richer and older",
-  "coord_checked": "Exeter College, Oxford (Wikipedia) — https://en.wikipedia.org/wiki/Exeter_College,_Oxford"
+  "coord_checked": "Exeter College, Oxford (Wikipedia) — https://en.wikipedia.org/wiki/Exeter_College,_Oxford, 2026-11-05"
  },
  {
   "id": "botanic-garden-bench",
@@ -2918,7 +2919,7 @@
   "place_type": "original",
   "note": "英国最古老的植物园，建于 1621 年。园子后面那张长椅——威尔和莱拉约定每年仲夏日去坐的地方——成了读者的朝圣地；2019 年起，长椅后面立着朱利安·沃伦的雕塑",
   "note_en": "Britain's oldest botanic garden, founded in 1621. The bench at the back of the garden, where Will and Lyra promise to sit every Midsummer's Day, has become a place of pilgrimage for readers; a sculpture by Julian Warren has stood behind it since 2019",
-  "coord_checked": "University of Oxford Botanic Garden (Wikipedia) — https://en.wikipedia.org/wiki/University_of_Oxford_Botanic_Garden"
+  "coord_checked": "University of Oxford Botanic Garden (Wikipedia) — https://en.wikipedia.org/wiki/University_of_Oxford_Botanic_Garden, 2026-11-05"
  },
  {
   "id": "watership-down-hill",
@@ -2929,7 +2930,7 @@
   "place_type": "original",
   "note": "汉普郡北部金斯克莱尔附近的白垩丘陵，小说就以它命名。兔子们的旅程从纽伯里南边的桑德福德出发",
   "note_en": "A chalk down in north Hampshire, near Kingsclere, that gives the novel its name. The rabbits' journey starts at Sandleford, south of Newbury",
-  "coord_checked": "Watership Down (Geograph photo 3111, subject location) — https://www.geograph.org.uk/photo/3111"
+  "coord_checked": "Watership Down (Geograph photo 3111, subject location) — https://www.geograph.org.uk/photo/3111, 2026-11-05"
  },
  {
   "id": "herriot-thirsk",
@@ -2943,7 +2944,7 @@
    "if-only-they-could-talk"
   ],
   "note_en": "Alf Wight, who wrote as James Herriot, lived and practised as a vet at 23 Kirkgate; in the books it is Skeldale House, and Darrowby is a mix of Thirsk, Richmond, Leyburn and Middleham. The house opened as a museum in 1999",
-  "coord_checked": "The World of James Herriot (Geograph photo 636931, subject location) — https://www.geograph.org.uk/photo/636931"
+  "coord_checked": "The World of James Herriot (Geograph photo 636931, subject location) — https://www.geograph.org.uk/photo/636931, 2026-11-05"
  },
  {
   "id": "dickens-birthplace",
@@ -2964,7 +2965,7 @@
    "tale-of-two-cities"
   ],
   "note_en": "Dickens was born in this house in Landport, Portsmouth, in 1812. The city has owned it since 1904; the rooms were restored in the 1960s, and it is run by Portsmouth Museums",
-  "coord_checked": "Charles Dickens Birthplace Museum (Wikipedia) — https://en.wikipedia.org/wiki/Charles_Dickens_Birthplace_Museum"
+  "coord_checked": "Charles Dickens Birthplace Museum (Wikipedia) — https://en.wikipedia.org/wiki/Charles_Dickens_Birthplace_Museum, 2026-11-05"
  },
  {
   "id": "max-gate",
@@ -2980,7 +2981,7 @@
    "far-from-the-madding-crowd"
   ],
   "note_en": "Hardy designed the house himself and his father and brother built it. He lived here from 1885 until his death in 1928 and wrote Tess of the d'Urbervilles, Jude the Obscure, The Mayor of Casterbridge and much of his poetry here. His sister Kate left it to the National Trust in 1940",
-  "coord_checked": "Max Gate (Wikipedia) — https://en.wikipedia.org/wiki/Max_Gate"
+  "coord_checked": "Max Gate (Wikipedia) — https://en.wikipedia.org/wiki/Max_Gate, 2026-11-05"
  },
  {
   "id": "johnson-birthplace",
@@ -2995,7 +2996,7 @@
    "life-of-johnson"
   ],
   "note_en": "Johnson's father Michael, a bookseller, built the house in 1707 as his shop and home, and Johnson was born here on 18 September 1709. It stands on the corner of Market Street and Breadmarket Street, across from the market square, and has been a museum since 1901",
-  "coord_checked": "Samuel Johnson Birthplace Museum (Wikipedia) — https://en.wikipedia.org/wiki/Samuel_Johnson_Birthplace_Museum"
+  "coord_checked": "Samuel Johnson Birthplace Museum (Wikipedia) — https://en.wikipedia.org/wiki/Samuel_Johnson_Birthplace_Museum, 2026-11-05"
  },
  {
   "id": "batemans",
@@ -3009,7 +3010,7 @@
    "puck-of-pooks-hill"
   ],
   "note_en": "The Kiplings bought Bateman's in 1902 and he lived here until his death in 1936. Puck of Pook's Hill is named after the hill you can see from the house, and If— was written here too. Under his widow Caroline's will it passed to the National Trust in 1939",
-  "coord_checked": "Bateman's (Wikipedia) — https://en.wikipedia.org/wiki/Bateman%27s"
+  "coord_checked": "Bateman's (Wikipedia) — https://en.wikipedia.org/wiki/Bateman%27s, 2026-11-05"
  },
  {
   "id": "rydal-mount",
@@ -3023,7 +3024,7 @@
    "wordsworth-poems"
   ],
   "note_en": "Wordsworth's home from 1813 until his death in 1850. His great-great-granddaughter Mary Henderson bought it in 1969 and opened it to the public in 1970; the Wordsworth Trust bought it in 2026",
-  "coord_checked": "Rydal Mount (Geograph photo 3707259, subject location) — https://www.geograph.org.uk/photo/3707259"
+  "coord_checked": "Rydal Mount (Geograph photo 3707259, subject location) — https://www.geograph.org.uk/photo/3707259, 2026-11-05"
  },
  {
   "id": "burns-house-dumfries",
@@ -3037,7 +3038,7 @@
    "burns-highlands"
   ],
   "note_en": "Burns lived in this house, now 24 Burns Street, from 1793 until his death in 1796. It is now a museum",
-  "coord_checked": "24 Burns Street, Robert Burns House (British Listed Buildings, Category A) — https://britishlistedbuildings.co.uk/200362606-24-burns-street-robert-burns-house-dumfries"
+  "coord_checked": "24 Burns Street, Robert Burns House (British Listed Buildings, Category A) — https://britishlistedbuildings.co.uk/200362606-24-burns-street-robert-burns-house-dumfries, 2026-11-05"
  },
  {
   "id": "barrie-birthplace",
@@ -3051,7 +3052,7 @@
    "peter-pan-kensington"
   ],
   "note_en": "Barrie was born at 9 Brechin Road on 9 May 1860, the ninth of ten children in a weaver's family. At seven he put on his first play in the wash-house behind it, which is said to have given him the Wendy House in Peter Pan. Cared for by the National Trust for Scotland",
-  "coord_checked": "J. M. Barrie's birthplace, Kirriemuir (Geograph photo 2513632, subject location) — https://www.geograph.org.uk/photo/2513632"
+  "coord_checked": "J. M. Barrie's birthplace, Kirriemuir (Geograph photo 2513632, subject location) — https://www.geograph.org.uk/photo/2513632, 2026-11-05"
  },
  {
   "id": "dylan-thomas-birthplace",
@@ -3065,7 +3066,7 @@
    "under-milk-wood"
   ],
   "note_en": "Dylan Thomas was born in the front bedroom of this house in the Uplands in 1914 and lived here until his parents moved out in 1937. It has been restored to how it was in 1914 and opens to visitors",
-  "coord_checked": "Birthplace of Dylan Thomas in Swansea (Geograph photo 4091841, subject location) — https://www.geograph.org.uk/photo/4091841"
+  "coord_checked": "Birthplace of Dylan Thomas in Swansea (Geograph photo 4091841, subject location) — https://www.geograph.org.uk/photo/4091841, 2026-11-05"
  },
  {
   "id": "cs-lewis-square",
@@ -3079,7 +3080,7 @@
    "lion-witch-wardrobe"
   ],
   "note_en": "A square in east Belfast, where Lewis grew up, at the meeting of the Connswater and Comber Greenways. It opened on 22 November 2016, the 53rd anniversary of his death, with seven sculptures by Maurice Harron of characters from The Lion, the Witch and the Wardrobe",
-  "coord_checked": "C S Lewis Square and sculpture trail, Belfast (Commons photo by Simon Burchell, camera location) — https://commons.wikimedia.org/wiki/File%3AC_S_Lewis_Square_and_sculpture_trail%2C_Belfast_01.jpg"
+  "coord_checked": "C S Lewis Square and sculpture trail, Belfast (Commons photo by Simon Burchell, camera location) — https://commons.wikimedia.org/wiki/File%3AC_S_Lewis_Square_and_sculpture_trail%2C_Belfast_01.jpg, 2026-11-05"
  },
  {
   "id": "moseley-bog",
@@ -3090,7 +3091,7 @@
   "place_type": "prototype",
   "prototype_of": "托尔金小时候就住在附近，后来说这一带是“一种失落的乐园”。他承认，《霍比特人》和《魔戒》里那些古老的森林，灵感来自这片老树林。现在是自然保护区，由伯明翰与黑乡野生动物信托管理",
   "prototype_of_en": "Tolkien lived nearby as a boy and later called the countryside here 'a kind of lost paradise'. He acknowledged these old woods as an inspiration for the ancient forests of The Hobbit and The Lord of the Rings. Now a nature reserve run by the Wildlife Trust for Birmingham and the Black Country",
-  "coord_checked": "Moseley Bog (Wikipedia) — https://en.wikipedia.org/wiki/Moseley_Bog"
+  "coord_checked": "Moseley Bog (Wikipedia) — https://en.wikipedia.org/wiki/Moseley_Bog, 2026-11-05"
  },
  {
   "id": "northmoor-road-20",
@@ -3105,7 +3106,7 @@
    "lord-of-the-rings"
   ],
   "note_en": "Tolkien's home from 1930 to 1947. The listing says he wrote the whole of The Hobbit and almost all of The Lord of the Rings in this house. It is a private house, listed Grade II since 2004, with a blue plaque",
-  "coord_checked": "20 Northmoor Road (British Listed Buildings, Grade II) — https://britishlistedbuildings.co.uk/101391361-20-northmoor-road-oxford"
+  "coord_checked": "20 Northmoor Road (British Listed Buildings, Grade II) — https://britishlistedbuildings.co.uk/101391361-20-northmoor-road-oxford, 2026-11-05"
  },
  {
   "id": "anna-sewell-house",
@@ -3119,7 +3120,7 @@
    "black-beauty"
   ],
   "note_en": "Anna Sewell was born at 26 Church Plain on 30 March 1820. She wrote Black Beauty much later, between 1871 and 1877, at her home in Old Catton near Norwich, and died in 1878, a few months after it came out. The Redwings Horse Sanctuary leases the house and opened it to visitors in 2022",
-  "coord_checked": "Anna Sewell's House, Church Plain, Great Yarmouth (Commons photo by Colin Smith, object location) — https://commons.wikimedia.org/wiki/File%3A-2020-08-17_Anna_Sewell%E2%80%99s_House%2C_Church_Plain%2C_Great_Yarmouth%2C_Norfolk.jpg"
+  "coord_checked": "Anna Sewell's House, Church Plain, Great Yarmouth (Commons photo by Colin Smith, object location) — https://commons.wikimedia.org/wiki/File%3A-2020-08-17_Anna_Sewell%E2%80%99s_House%2C_Church_Plain%2C_Great_Yarmouth%2C_Norfolk.jpg, 2026-11-05"
  },
  {
   "id": "adams-grave",
@@ -3133,7 +3134,7 @@
    "hitchhikers-guide"
   ],
   "note_en": "Adams (1952–2001) is buried in the East Cemetery at Highgate. The grave is easy to spot by the pot of pens in front of it",
-  "coord_checked": "Douglas Adams's grave (Geograph 5847972 on Commons, object location) — https://commons.wikimedia.org/wiki/File%3ADouglas_Adams_-_geograph.org.uk_-_5847972.jpg",
+  "coord_checked": "Douglas Adams's grave (Geograph 5847972 on Commons, object location) — https://commons.wikimedia.org/wiki/File%3ADouglas_Adams_-_geograph.org.uk_-_5847972.jpg, 2026-11-07",
   "fact_source": "https://highgatecemetery.org/explore/douglas-adams"
  },
  {
@@ -3145,7 +3146,7 @@
   "place_type": "original",
   "note": "伦敦西南、萨里郡的郡治。书里它只是个幌子：福特·普里菲克特一直让人以为他是从这里来的失业演员",
   "note_en": "The county town of Surrey, south-west of London. In the book it is only a cover story: Ford Prefect has let everyone believe he is an out-of-work actor from here",
-  "coord_checked": "Guildford High Street (Geograph 3968888 on Commons, object location) — https://commons.wikimedia.org/wiki/File%3AGuildford_High_Street_-_geograph.org.uk_-_3968888.jpg"
+  "coord_checked": "Guildford High Street (Geograph 3968888 on Commons, object location) — https://commons.wikimedia.org/wiki/File%3AGuildford_High_Street_-_geograph.org.uk_-_3968888.jpg, 2026-11-07"
  },
  {
   "id": "wells-cathedral",
@@ -3156,7 +3157,7 @@
   "place_type": "prototype",
   "prototype_of": "《圣殿春秋》里的王桥大教堂，原型是韦尔斯大教堂和索尔兹伯里大教堂",
   "prototype_of_en": "Kingsbridge Cathedral in The Pillars of the Earth is based on the cathedrals of Wells and Salisbury",
-  "coord_checked": "Wells Cathedral (Wikipedia) — https://en.wikipedia.org/wiki/Wells_Cathedral"
+  "coord_checked": "Wells Cathedral (Wikipedia) — https://en.wikipedia.org/wiki/Wells_Cathedral, 2026-11-07"
  },
  {
   "id": "deptford",
@@ -3167,7 +3168,7 @@
   "place_type": "original",
   "note": "伦敦东南、泰晤士河南岸的一片街区，过去有皇家造船厂。威廉·比奇就是从这里来的",
   "note_en": "A district on the south bank of the Thames in south-east London, once the site of a royal dockyard. William Beech comes from here",
-  "coord_checked": "Deptford (Wikipedia, OS grid TQ365775) — https://en.wikipedia.org/wiki/Deptford"
+  "coord_checked": "Deptford (Wikipedia, OS grid TQ365775) — https://en.wikipedia.org/wiki/Deptford, 2026-11-07"
  },
  {
   "id": "lelant",
@@ -3181,7 +3182,7 @@
    "shell-seekers"
   ],
   "note_en": "Pilcher was born in this village on the Hayle estuary, near St Ives, in 1924. The South West Coast Path's page on her Cornwall says The Shell Seekers is set in London and Lelant",
-  "coord_checked": "Lelant (Wikipedia, OS grid SW544372) — https://en.wikipedia.org/wiki/Lelant",
+  "coord_checked": "Lelant (Wikipedia, OS grid SW544372) — https://en.wikipedia.org/wiki/Lelant, 2026-11-07",
   "fact_source": "https://www.southwestcoastpath.org.uk/pilcher/"
  },
  {
@@ -3193,7 +3194,7 @@
   "place_type": "prototype",
   "prototype_of": "野猫岛的原型之一。兰塞姆八岁时在这座岛上野餐，第一次认识了科林伍德一家；后来这家人的孙辈成了“燕子号”孩子们的原型之一。岛属于国民信托",
   "prototype_of_en": "One of the models for Wild Cat Island. Ransome first met the Collingwood family at a picnic here when he was eight, and their grandchildren helped shape the Swallows. The island belongs to the National Trust",
-  "coord_checked": "Peel Island, Coniston Water (Geograph 5213528 on Commons, object location) — https://commons.wikimedia.org/wiki/File%3APeel_Island%2C_Coniston_Water_-_geograph.org.uk_-_5213528.jpg"
+  "coord_checked": "Peel Island, Coniston Water (Geograph 5213528 on Commons, object location) — https://commons.wikimedia.org/wiki/File%3APeel_Island%2C_Coniston_Water_-_geograph.org.uk_-_5213528.jpg, 2026-11-07"
  },
  {
   "id": "green-hedges",
@@ -3207,7 +3208,7 @@
    "magic-faraway-tree"
   ],
   "note_en": "Blyton moved to Green Hedges on Penn Road in 1938, and English Heritage says most of her books were written there; the Faraway Tree books came out between 1939 and 1951, while she lived here. The house was pulled down in 1973 and Blyton Close now stands on the site",
-  "coord_checked": "Blyton Close, Beaconsfield, HP9 2LX (Doogal postcode map) — https://www.doogal.co.uk/ShowMap.php?postcode=HP9%202LX",
+  "coord_checked": "Blyton Close, Beaconsfield, HP9 2LX (Doogal postcode map) — https://www.doogal.co.uk/ShowMap.php?postcode=HP9%202LX, 2026-11-07",
   "fact_source": "https://www.english-heritage.org.uk/visit/blue-plaques/enid-blyton/"
  },
  {
@@ -3219,7 +3220,7 @@
   "place_type": "prototype",
   "prototype_of": "《穿破裤子的慈善家》里的马格斯伯勒就是黑斯廷斯。特雷塞尔在这里给建筑和装修商做工，小说大部分写在圣伦纳兹伦敦路 241 号的顶层公寓里，门边有纪念牌",
   "prototype_of_en": "Mugsborough, the town in The Ragged Trousered Philanthropists, is Hastings. Tressell worked for builders and decorators here and wrote most of the novel in a top-floor flat at 241 London Road, St Leonards, which has a plaque",
-  "coord_checked": "Hastings (Wikipedia) — https://en.wikipedia.org/wiki/Hastings",
+  "coord_checked": "Hastings (Wikipedia) — https://en.wikipedia.org/wiki/Hastings, 2026-11-07",
   "fact_source": "https://hastingshistory.net/features/tressel-and-mugsborough"
  },
  {
@@ -3239,7 +3240,7 @@
   "book_ids": [
    "bridget-jones"
   ],
-  "coord_checked": "The Globe, Borough (Commons photo, camera location) — https://commons.wikimedia.org/wiki/File%3AGlobe%2C_Borough%2C_SE1_%282386237082%29.jpg",
+  "coord_checked": "The Globe, Borough (Commons photo, camera location) — https://commons.wikimedia.org/wiki/File%3AGlobe%2C_Borough%2C_SE1_%282386237082%29.jpg, 2026-11-07",
   "fact_source": "https://exploring-london.com/tag/bridget-jones/"
  },
  {
@@ -3251,7 +3252,7 @@
   "place_type": "original",
   "note": "威尔基·柯林斯学会按书中的路线考证，沃尔特·哈特赖特穿过汉普斯特德荒野的那次夜行，就走到了这个路口：当年写作 Pratts Lane、今天叫普拉茨巷的小路，在这里接上芬奇利路",
   "note_en": "The Wilkie Collins Society traced Walter Hartright's night walk across Hampstead Heath to this junction, where Pratts Lane (now Platt's Lane) meets Finchley Road",
-  "coord_checked": "Platt's Lane, NW3 (The Underground Map) — https://theundergroundmap.com/index.html/about.html?id=26428",
+  "coord_checked": "Platt's Lane, NW3 (The Underground Map) — https://theundergroundmap.com/index.html/about.html?id=26428, 2026-11-07",
   "fact_source": "https://wilkiecollinssociety.org/wp/wp-content/uploads/2024/03/2010-08-Walters-Walk.pdf"
  },
  {
@@ -3263,7 +3264,7 @@
   "place_type": "prototype",
   "prototype_of": "《我的秘密城堡》里莫特曼一家住的“天赐城堡”，原型就是这座城堡。现在是私宅，不对外开放",
   "prototype_of_en": "The inspiration for Godsend Castle, the Mortmain family's home in I Capture the Castle. It is a private house and not open to the public",
-  "coord_checked": "Wingfield Castle (Wikipedia) — https://en.wikipedia.org/wiki/Wingfield_Castle"
+  "coord_checked": "Wingfield Castle (Wikipedia) — https://en.wikipedia.org/wiki/Wingfield_Castle, 2026-11-07"
  },
  {
   "id": "puttenham-common",
@@ -3274,7 +3275,7 @@
   "place_type": "original",
   "note": "法纳姆和吉尔福德之间的一片荒地和树林，在帕特纳姆村南边，往埃尔斯特德方向。书里野人住的灯塔是虚构的，但书里说它在帕特纳姆和埃尔斯特德之间的山头上，北面是猪背岭",
   "note_en": "Heath and woodland between Farnham and Guildford, south of Puttenham village and towards Elstead. The Savage's lighthouse in the book is made up, but it stands on a hill between Puttenham and Elstead, with the Hog's Back to the north",
-  "coord_checked": "Puttenham Common (Geograph 4027729 on Commons, object location) — https://commons.wikimedia.org/wiki/File%3APuttenham_Common_-_geograph.org.uk_-_4027729.jpg"
+  "coord_checked": "Puttenham Common (Geograph 4027729 on Commons, object location) — https://commons.wikimedia.org/wiki/File%3APuttenham_Common_-_geograph.org.uk_-_4027729.jpg, 2026-11-07"
  },
  {
   "id": "the-lady-offices",
@@ -3288,7 +3289,7 @@
    "cold-comfort-farm"
   ],
   "note_en": "Gibbons was an editorial assistant on The Lady and wrote Cold Comfort Farm in spare moments at the magazine's Covent Garden offices; a colleague remembered her neglecting her duties for the novel. The Lady was at 39–40 Bedford Street until 2019",
-  "coord_checked": "39–40 Bedford Street, WC2E 9EN (Doogal postcode map) — https://www.doogal.co.uk/ShowMap.php?postcode=WC2E%209EN",
+  "coord_checked": "39–40 Bedford Street, WC2E 9EN (Doogal postcode map) — https://www.doogal.co.uk/ShowMap.php?postcode=WC2E%209EN, 2026-11-07",
   "fact_source": "https://www.camdennewjournal.co.uk/article/cold-comfort-farm-author-stella-gibbons-be-honoured-plaque-former-hampstead-home"
  },
  {
@@ -3300,7 +3301,7 @@
   "place_type": "prototype",
   "prototype_of": "安雅·塞顿《凯瑟琳》的主人公凯瑟琳·斯温福德确有其人，晚年住在大教堂的教堂区里。她和女儿琼·博福特合葬在这里，墓在天使唱诗堂的南侧",
   "prototype_of_en": "The real Katherine Swynford, heroine of Anya Seton's Katherine, lived in the cathedral close in later life. She is buried here with her daughter Joan Beaufort, on the south side of the Angel Choir",
-  "coord_checked": "Lincoln Cathedral (Wikipedia) — https://en.wikipedia.org/wiki/Lincoln_Cathedral",
+  "coord_checked": "Lincoln Cathedral (Wikipedia) — https://en.wikipedia.org/wiki/Lincoln_Cathedral, 2026-11-07",
   "fact_source": "https://www.visitlincolnshire.com/be-inspired/did-you-know/katherine-swynford/"
  },
  {
@@ -3312,7 +3313,7 @@
   "place_type": "prototype",
   "prototype_of": "罗尔德·达尔博物馆的村庄步道说，高街 70 号这座木结构老房子是《好心眼儿巨人》里苏菲那家孤儿院的原型。现在是私宅",
   "prototype_of_en": "The Roald Dahl Museum's village trail says this timber-framed house at 70 High Street inspired Sophie's orphanage in The BFG. It is a private home",
-  "coord_checked": "Crown House, Great Missenden (British Listed Buildings, Grade II) — https://britishlistedbuildings.co.uk/101124792-crown-house-great-missenden",
+  "coord_checked": "Crown House, Great Missenden (British Listed Buildings, Grade II) — https://britishlistedbuildings.co.uk/101124792-crown-house-great-missenden, 2026-11-07",
   "fact_source": "https://www.roalddahlmuseum.org/wp-content/uploads/2024/01/Roald-Dahl-Museum-village-trail.pdf"
  },
  {
@@ -3324,7 +3325,193 @@
   "place_type": "prototype",
   "prototype_of": "博物馆的村庄步道说，这就是玛蒂尔达常来的那座图书馆：妈妈去艾尔斯伯里打宾果，她就到这里来。现在的房子建于 1970 年",
   "prototype_of_en": "The museum's village trail says this is the library Matilda visited while her mother went off to Aylesbury to play bingo. The building dates from 1970",
-  "coord_checked": "Great Missenden Library (Geograph 8112772 on Commons, object location) — https://commons.wikimedia.org/wiki/File%3AGreat_Missenden_Library_-_geograph.org.uk_-_8112772.jpg",
+  "coord_checked": "Great Missenden Library (Geograph 8112772 on Commons, object location) — https://commons.wikimedia.org/wiki/File%3AGreat_Missenden_Library_-_geograph.org.uk_-_8112772.jpg, 2026-11-07",
   "fact_source": "https://www.roalddahlmuseum.org/wp-content/uploads/2024/01/Roald-Dahl-Museum-village-trail.pdf"
+ },
+ {
+  "id": "buckingham-house-portsmouth",
+  "name": "Buckingham House, Old Portsmouth",
+  "name_zh": "老朴茨茅斯 · 白金汉府",
+  "lat": 50.7915,
+  "lon": -1.1008,
+  "place_type": "original",
+  "note": "高街 11 号，1628 年 8 月 23 日白金汉公爵在这里被约翰·费尔顿刺死，大仲马在《三个火枪手》结尾重写了这件事。房子建于 16 世纪，木结构，后来做过客栈，现在是办公室和公寓，墙上有纪念牌",
+  "note_en": "The house at 11 High Street where the Duke of Buckingham was stabbed by John Felton on 23 August 1628, the event Dumas rewrites at the end of The Three Musketeers. A 16th-century timber-framed house, later an inn, now offices and flats; a plaque on the wall records the assassination",
+  "coord_checked": "Buckingham House, 10½–11 High Street (British Listed Buildings, Grade II*) — https://britishlistedbuildings.co.uk/101104356-buckingham-house-st-thomas-ward, 2026-11-09",
+  "fact_source": "https://britishlistedbuildings.co.uk/101104356-buckingham-house-st-thomas-ward"
+ },
+ {
+  "id": "savile-row",
+  "name": "Savile Row",
+  "name_zh": "萨维尔街",
+  "lat": 51.51042,
+  "lon": -0.13978,
+  "place_type": "original",
+  "note": "梅费尔的裁缝街。凡尔纳让菲利亚斯·福格住在 7 号，他就是从这里出发去打那个赌的",
+  "note_en": "The tailors' street in Mayfair. Verne gave Phileas Fogg a house at No. 7, from which he sets out on his wager",
+  "coord_checked": "No 3 Savile Row (Commons photo, object location) — https://commons.wikimedia.org/wiki/File%3ANo_3%2C_Savile_Row_door_and_sign.jpg, 2026-11-09",
+  "fact_source": "https://en.wikipedia.org/wiki/Savile_Row"
+ },
+ {
+  "id": "liverpool",
+  "name": "Liverpool",
+  "name_zh": "利物浦",
+  "lat": 53.4072,
+  "lon": -2.9917,
+  "place_type": "original",
+  "note": "19 世纪横渡大西洋的大港。福格从美洲回来在这里上岸，离伦敦只差六个小时，却在码头上被捕",
+  "note_en": "The great transatlantic port of the 19th century. Fogg lands here from America six hours short of London, and is arrested on the quay",
+  "city": true,
+  "coord_checked": "Liverpool (Wikipedia) — https://en.wikipedia.org/wiki/Liverpool, 2026-11-09",
+  "fact_source": "https://en.wikipedia.org/wiki/Liverpool"
+ },
+ {
+  "id": "walmer-beach",
+  "name": "Walmer beach, near Deal",
+  "name_zh": "迪尔附近 · 沃尔默海滩",
+  "lat": 51.21113,
+  "lon": 1.40292,
+  "place_type": "original",
+  "note": "恺撒没有写出登陆的地名，只说离开悬崖几英里后是一片开阔平坦的海岸。传统上认为公元前 55 年的登陆地是沃尔默和迪尔之间的卵石滩，海滨有一块纪念牌；2017 年以来的考古发现则把公元前 54 年的登陆地指向更北的佩格韦尔湾",
+  "note_en": "Caesar names no beach, only an open, level shore a few miles on from the cliffs. The traditional landing place of 55 BC is the shingle between Walmer and Deal, marked by a plaque on the seafront; archaeology since 2017 points to Pegwell Bay, further north, for the 54 BC landing",
+  "coord_checked": "Caesar's first invasion plaque, Walmer (Historical Marker Database) — https://www.hmdb.org/m.asp?m=24553, 2026-11-09",
+  "fact_source": "https://en.wikipedia.org/wiki/Julius_Caesar%27s_invasions_of_Britain"
+ },
+ {
+  "id": "brentford-monument",
+  "name": "Brentford Monument",
+  "name_zh": "布伦特福德纪念柱",
+  "lat": 51.48412,
+  "lon": -0.30401,
+  "place_type": "original",
+  "note": "布伦特福德高街上 1909 年立的花岗岩柱，刻着四件史事，第一件是公元前 54 年恺撒在这里的古渡口渡过泰晤士河、击退卡西维拉努斯。恺撒本人只写了河名；布伦特福德是传统上对那个唯一可涉水之处的考订",
+  "note_en": "A granite column of 1909 on Brentford High Street recording four events, the first being Caesar's crossing of the Thames in 54 BC against Cassivellaunus at the ancient ford here. Caesar himself names only the river; Brentford is the traditional identification of his one fordable place",
+  "coord_checked": "List of public art in the London Borough of Hounslow (Wikipedia) — https://en.wikipedia.org/wiki/List_of_public_art_in_the_London_Borough_of_Hounslow, 2026-11-09",
+  "fact_source": "https://londonremembers.com/memorials/brentford-monument"
+ },
+ {
+  "id": "isle-of-portland",
+  "name": "Isle of Portland",
+  "name_zh": "波特兰岛",
+  "lat": 50.55,
+  "lon": -2.44,
+  "place_type": "original",
+  "note": "韦茅斯外海的石灰岩半岛，靠切瑟尔海滩和大陆相连。《笑面人》就从 1690 年 1 月的一个夜晚、小格温普兰被丢在这片海岸上开始",
+  "note_en": "A limestone peninsula off Weymouth, tied to the mainland by Chesil Beach. The Man Who Laughs opens here on a January night in 1690, when the child Gwynplaine is abandoned on the shore",
+  "coord_checked": "Isle of Portland (Wikipedia) — https://en.wikipedia.org/wiki/Isle_of_Portland, 2026-11-09",
+  "fact_source": "https://en.wikipedia.org/wiki/Isle_of_Portland"
+ },
+ {
+  "id": "southwark",
+  "name": "Southwark",
+  "name_zh": "南华克",
+  "lat": 51.4989,
+  "lon": -0.0925,
+  "place_type": "original",
+  "note": "伦敦桥南岸的区，几百年来是伦敦人寻欢的地方，客栈、剧院、斗熊场都在这里。雨果把于尔絮斯的“绿箱子”和塔德卡斯特客栈安排在他虚构于此的塔林佐场",
+  "note_en": "The borough south of London Bridge, for centuries the city's playground of inns, theatres and bear-gardens. Hugo sets Ursus's Green Box and the Tadcaster Inn on Tarrinzeau Field, a fairground he places here",
+  "coord_checked": "Southwark (Wikipedia, OS grid TQ325795) — https://en.wikipedia.org/wiki/Southwark, 2026-11-09",
+  "fact_source": "https://en.wikipedia.org/wiki/Southwark"
+ },
+ {
+  "id": "southampton",
+  "name": "Southampton",
+  "name_zh": "南安普敦",
+  "lat": 50.9025,
+  "lon": -1.40417,
+  "place_type": "original",
+  "note": "英国南岸的大邮轮港，1912 年泰坦尼克号从这里出发。《黑执事》里的坎帕尼亚号也是从这里开往美洲",
+  "note_en": "The great liner port on the south coast, where the Titanic sailed from in 1912. In Black Butler the Campania leaves from here for America",
+  "city": true,
+  "coord_checked": "Southampton (Wikipedia) — https://en.wikipedia.org/wiki/Southampton, 2026-11-09",
+  "fact_source": "https://kuroshitsuji.fandom.com/wiki/Luxury_Liner_Arc"
+ },
+ {
+  "id": "tintagel-castle",
+  "name": "Tintagel Castle",
+  "name_zh": "廷塔杰尔城堡",
+  "lat": 50.66797,
+  "lon": -4.75993,
+  "place_type": "original",
+  "note": "康沃尔北岸的海岬城堡，1230 年代由康沃尔伯爵理查所建，但传说早已先占了这块地：蒙茅斯的杰弗里（约 1136 年）把亚瑟的受孕安排在这里，瓦斯、马洛礼、丁尼生都让伊格赖因被困在廷塔杰尔、乌瑟在城外围攻。现由英格兰遗产委员会管理，2019 年起有人行桥通往岛上",
+  "note_en": "A headland castle on the north Cornish coast, built in the 1230s by Richard, Earl of Cornwall, on a site the legend had already claimed: Geoffrey of Monmouth (c. 1136) set Arthur's conception here, and Wace, Malory and Tennyson all keep Igraine shut up in Tintagel while Uther lays siege. English Heritage; a footbridge to the island since 2019",
+  "coord_checked": "Tintagel Castle (Wikipedia) — https://en.wikipedia.org/wiki/Tintagel_Castle, 2026-11-09"
+ },
+ {
+  "id": "glastonbury-abbey",
+  "name": "Glastonbury Abbey",
+  "name_zh": "格拉斯顿伯里修道院",
+  "lat": 51.14611,
+  "lon": -2.71528,
+  "place_type": "original",
+  "note": "1191 年修士们宣布在这座修道院发现了亚瑟和桂妮薇儿的墓：一截挖空的橡木、两具骸骨和一个铅十字架，现在一般认为是 1184 年大火后为筹款做的噱头。马洛礼的书在这里结束：做了隐士的兰斯洛特把桂妮薇儿葬在格拉斯顿伯里隐修处亚瑟的身边。草地上有标志指出 1278 年迁葬的墓址",
+  "note_en": "The ruined abbey where in 1191 the monks announced they had found the grave of Arthur and Guinevere, a hollowed oak with two skeletons and a lead cross, now generally taken as a fund-raising stunt after the fire of 1184. Malory ends his book here: Lancelot, a hermit, buries Guinevere beside Arthur at the hermitage of Glastonbury. A marker in the grass shows the 1278 tomb site",
+  "coord_checked": "Glastonbury Abbey (Wikipedia) — https://en.wikipedia.org/wiki/Glastonbury_Abbey, 2026-11-09"
+ },
+ {
+  "id": "winchester-great-hall",
+  "name": "The Great Hall, Winchester",
+  "name_zh": "温切斯特 · 大厅",
+  "lat": 51.06243,
+  "lon": -1.32054,
+  "place_type": "original",
+  "note": "温切斯特城堡只剩这座亨利三世 1222—1235 年建的大厅，墙上挂着那张圆桌。年轮测定圆桌做于 1250—1280 年；亨利八世命人画上亚瑟和骑士们的名字。马洛礼 1460 年代写书时直说卡美洛“用英语说就是温切斯特”",
+  "note_en": "All that stands of Winchester Castle: Henry III's hall of 1222–35, with the Round Table hanging on its wall. Tree-ring dating puts the table at 1250–80; Henry VIII had it painted with Arthur and the knights' names. Malory, writing in the 1460s, says plainly that Camelot 'is in English Winchester'",
+  "coord_checked": "Winchester Castle (Wikipedia) — https://en.wikipedia.org/wiki/Winchester_Castle, 2026-11-09"
+ },
+ {
+  "id": "cadbury-castle",
+  "name": "Cadbury Castle, Somerset",
+  "name_zh": "萨默塞特 · 卡德伯里城堡",
+  "lat": 51.0242,
+  "lon": -2.5317,
+  "place_type": "prototype",
+  "prototype_of": "卡美洛。当地传说（1542 年约翰·利兰首次记下）认为这座铁器时代山堡就是亚瑟的卡美洛；1966—1970 年莱斯利·奥尔科克的发掘发现它在公元 500 年前后重新筑防，有一座 20 米长的大厅，还出土了东地中海的陶器——确实是某位后罗马时代统治者的要塞。丁尼生那座“宫殿幢幢如影的城”最常被钉在这里",
+  "prototype_of_en": "Camelot. Local tradition, first written down by John Leland in 1542, holds that this Iron Age hill fort was Arthur's Camelot; Leslie Alcock's 1966–70 excavations found it refortified around 500 with a great hall 20 metres long and pottery from the eastern Mediterranean — a real stronghold of a post-Roman ruler, whoever he was. The place Tennyson's 'city of shadowy palaces' is most often pinned to",
+  "coord_checked": "Cadbury Castle, Somerset (Wikipedia) — https://en.wikipedia.org/wiki/Cadbury_Castle,_Somerset, 2026-11-09"
+ },
+ {
+  "id": "dozmary-pool",
+  "name": "Dozmary Pool, Bodmin Moor",
+  "name_zh": "博德明荒原 · 多兹玛丽池",
+  "lat": 50.5423,
+  "lon": -4.5502,
+  "place_type": "prototype",
+  "prototype_of": "投剑的那片水。博德明荒原上的小湖；康沃尔的传说说湖中仙女在这里把剑交给亚瑟，卡姆兰之战后贝德维尔又在这里把剑还回去。丁尼生笔下破礼拜堂旁的“一片大水”是诗人的风景，但康沃尔把它放在这里",
+  "prototype_of_en": "The mere into which Excalibur is thrown. A small lake on Bodmin Moor; Cornish tradition says the Lady of the Lake gave Arthur the sword here and that Bedivere returned it here after Camlann. Tennyson's 'great water' beside a broken chapel is a poet's landscape, but this is where Cornwall puts it",
+  "coord_checked": "Dozmary Pool (Wikipedia) — https://en.wikipedia.org/wiki/Dozmary_Pool, 2026-11-09"
+ },
+ {
+  "id": "luds-church",
+  "name": "Lud's Church, Staffordshire",
+  "name_zh": "斯塔福德郡 · 卢德教堂",
+  "lat": 53.18778,
+  "lon": -2.02056,
+  "place_type": "prototype",
+  "prototype_of": "绿教堂。戴恩河上方一道滑坡裂出的青苔峡谷，长 100 多米、深 18 米。1958 年 R. W. V. 埃利奥特根据诗的西北米德兰方言，提出这里就是高文赴约的绿教堂；诗里“一个老洞，或老岩壁上的一道裂缝”和它很合。韦顿磨坊附近的南托尔洞是另一个候选地",
+  "prototype_of_en": "The Green Chapel. A mossy chasm over 100 metres long and 18 deep, opened by a landslip above the River Dane. In 1958 R. W. V. Elliott, working from the poem's north-west Midlands dialect, proposed it as the Green Chapel where Gawain keeps his tryst; the poem's 'old cave, or a crevice of an old crag' fits it well. Nan Tor cave near Wetton Mill is the rival candidate",
+  "coord_checked": "Lud's Church (Wikipedia) — https://en.wikipedia.org/wiki/Lud%27s_Church, 2026-11-09"
+ },
+ {
+  "id": "caerleon",
+  "name": "Caerleon",
+  "name_zh": "卡利恩",
+  "lat": 51.61005,
+  "lon": -2.95529,
+  "place_type": "original",
+  "note": "乌斯克河畔的罗马军团要塞伊斯卡，圆形剧场、浴场和营房都还看得见。蒙茅斯的杰弗里和随后的瓦斯把它写成亚瑟在五旬节加冕的城市；那座圆形剧场长期被叫作亚瑟的圆桌。丁尼生写《国王叙事诗》时曾住在这里的汉伯里纹章旅店",
+  "note_en": "The Roman legionary fortress of Isca on the Usk, with its amphitheatre, baths and barracks still visible. Geoffrey of Monmouth, and Wace after him, made it the city where Arthur is crowned at Pentecost; the amphitheatre has long been called Arthur's Round Table. Tennyson lodged at the Hanbury Arms here while working on the Idylls",
+  "coord_checked": "Caerleon Roman Fortress and Baths (Wikipedia) — https://en.wikipedia.org/wiki/Caerleon_Roman_Fortress_and_Baths, 2026-11-09"
+ },
+ {
+  "id": "slaughterbridge",
+  "name": "Slaughterbridge, on the River Camel",
+  "name_zh": "卡默尔河畔 · 斯劳特桥",
+  "lat": 50.638,
+  "lon": -4.678,
+  "place_type": "prototype",
+  "prototype_of": "卡姆兰，亚瑟的最后一战。瓦斯说它打在“卡默尔河上，正对康沃尔的入口”；自理查·卡鲁（1602 年）以来，这个地点就被定在卡默尔福德附近的这座桥，河岸上一块 6 世纪的刻字石被叫作亚瑟王石——其实纪念的是马卡鲁斯之子拉提努斯。这里并没有证据打过仗；旁边是亚瑟王中心",
+  "prototype_of_en": "Camlann, Arthur's last battle. Wace places it 'on the Camel, over against the entrance to Cornwall'; since Richard Carew (1602) the spot has been this bridge near Camelford, where a sixth-century inscribed stone on the riverbank is called King Arthur's Stone — it actually commemorates one Latinus, son of Macarus. No battle is proven here; the Arthurian Centre stands beside it",
+  "coord_checked": "Slaughterbridge (Wikipedia) — https://en.wikipedia.org/wiki/Slaughterbridge, 2026-11-09"
  }
 ]

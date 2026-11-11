@@ -20,11 +20,13 @@
    "Caunterbury"
   ],
   "translation": "own",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 22120
-  }
+   "id": 22120,
+   "checked": "Project Gutenberg #22120 (Skeat, Middle English), 2026-11-03"
+  },
+  "keep_breaks": true
  },
  {
   "id": "ct-2",
@@ -45,11 +47,13 @@
    "Caunterbury"
   ],
   "translation": "own",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 22120
-  }
+   "id": 22120,
+   "checked": "Project Gutenberg #22120 (Skeat, Middle English), 2026-11-03"
+  },
+  "keep_breaks": true
  },
  {
   "id": "r2-1",
@@ -59,17 +63,19 @@
   ],
   "location": "Act 2, Scene 1 (set at Ely House)",
   "location_zh": "第二幕第一场（剧情设在伊利府）",
-  "text_en": "This royal throne of kings, this scepter'd isle,\n…\nThis blessed plot, this earth, this realm, this England,",
+  "text_en": "This royal throne of kings, this sceptered isle,\n…\nThis blessed plot, this earth, this realm, this England,",
   "highlight_en": [
    "England",
-   "scepter'd isle"
+   "sceptered isle"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 1512
-  }
+   "id": 1512,
+   "checked": "Project Gutenberg #1512, 2026-11-03"
+  },
+  "keep_breaks": true
  },
  {
   "id": "mac-1",
@@ -79,16 +85,18 @@
   ],
   "location": "Act 1, Scene 6 (before Macbeth's castle at Inverness)",
   "location_zh": "第一幕第六场（麦克白的因弗内斯城堡前）",
-  "text_en": "This castle hath a pleasant seat: the air\nNimbly and sweetly recommends itself\nUnto our gentle senses.",
+  "text_en": "This castle hath a pleasant seat. The air\nNimbly and sweetly recommends itself\nUnto our gentle senses.",
   "highlight_en": [
    "castle"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 1533
-  }
+   "id": 1533,
+   "checked": "Project Gutenberg #1533, 2026-11-03"
+  },
+  "keep_breaks": true
  },
  {
   "id": "mac-2",
@@ -105,11 +113,13 @@
    "Dunsinane"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 1533
-  }
+   "id": 1533,
+   "checked": "Project Gutenberg #1533, 2026-11-03"
+  },
+  "keep_breaks": true
  },
  {
   "id": "gray-1",
@@ -124,11 +134,13 @@
    "Curfeu"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 15409
-  }
+   "id": 15409,
+   "checked": "Project Gutenberg #15409 (1751 first edition), 2026-11-03"
+  },
+  "keep_breaks": true
  },
  {
   "id": "bos-1",
@@ -143,10 +155,11 @@
    "London"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 1564
+   "id": 1564,
+   "checked": "Project Gutenberg #1564, 2026-11-03"
   }
  },
  {
@@ -162,11 +175,13 @@
    "Thames"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 1934
-  }
+   "id": 1934,
+   "checked": "Project Gutenberg #1934 (modern spelling), 2026-11-03"
+  },
+  "keep_breaks": true
  },
  {
   "id": "blake-2",
@@ -182,10 +197,11 @@
    "Thames"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 1934
+   "id": 1934,
+   "checked": "Project Gutenberg #1934, 2026-11-03"
   }
  },
  {
@@ -205,11 +221,13 @@
    "Highlands"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 1279
-  }
+   "id": 1279,
+   "checked": "Project Gutenberg #1279, 2026-11-03"
+  },
+  "keep_breaks": true
  },
  {
   "id": "ww-1",
@@ -224,11 +242,13 @@
    "City"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 8774
-  }
+   "id": 8774,
+   "checked": "Project Gutenberg #8774 (1807 edition), 2026-11-03"
+  },
+  "keep_breaks": true
  },
  {
   "id": "ww-2",
@@ -243,11 +263,13 @@
    "waters"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 9622
-  }
+   "id": 9622,
+   "checked": "Project Gutenberg #9622 (Lyrical Ballads, 1798), 2026-11-03"
+  },
+  "keep_breaks": true
  },
  {
   "id": "keats-1",
@@ -262,11 +284,13 @@
    "mists"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 23684
-  }
+   "id": 23684,
+   "checked": "Project Gutenberg #23684, 2026-11-03"
+  },
+  "keep_breaks": true
  },
  {
   "id": "pers-1",
@@ -282,10 +306,11 @@
    "little bay"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 105
+   "id": 105,
+   "checked": "Project Gutenberg #105, 2026-11-03"
   }
  },
  {
@@ -296,15 +321,16 @@
   ],
   "location": "Chapter 1",
   "location_zh": "第 1 章",
-  "text_en": "'Wuthering' being a significant provincial adjective, descriptive of the atmospheric tumult to which its station is exposed in stormy weather.",
+  "text_en": "\"Wuthering\" being a significant provincial adjective, descriptive of the atmospheric tumult to which its station is exposed in stormy weather.",
   "highlight_en": [
    "Wuthering"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 768
+   "id": 768,
+   "checked": "Project Gutenberg #768, 2026-11-03"
   }
  },
  {
@@ -321,10 +347,11 @@
    "harebells"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 768
+   "id": 768,
+   "checked": "Project Gutenberg #768, 2026-11-03"
   }
  },
  {
@@ -341,10 +368,11 @@
    "Lincoln's Inn Hall"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 1023
+   "id": 1023,
+   "checked": "Project Gutenberg #1023, 2026-11-03"
   }
  },
  {
@@ -361,10 +389,11 @@
    "river"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 1023
+   "id": 1023,
+   "checked": "Project Gutenberg #1023, 2026-11-03"
   }
  },
  {
@@ -380,10 +409,11 @@
    "metropolis of the North"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 382
+   "id": 382,
+   "checked": "Project Gutenberg #382, 2026-11-03"
   }
  },
  {
@@ -399,10 +429,11 @@
    "London"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 244
+   "id": 244,
+   "checked": "Project Gutenberg #244, 2026-11-03"
   }
  },
  {
@@ -418,10 +449,11 @@
    "221B, Baker Street"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 244
+   "id": 244,
+   "checked": "Project Gutenberg #244, 2026-11-03"
   }
  },
  {
@@ -437,10 +469,11 @@
    "Whitby Abbey"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 345
+   "id": 345,
+   "checked": "Project Gutenberg #345, 2026-11-03"
   }
  },
  {
@@ -460,10 +493,10 @@
    "倫敦塔"
   ],
   "translation": "own",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
-   "kind": "other",
-   "note": "Aozora Bunko card 1076"
+   "kind": "aozora",
+   "checked": "Aozora Bunko card 1076, 2026-11-03"
   }
  },
  {
@@ -480,11 +513,13 @@
    "Big Ben"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 71865
-  }
+   "id": 71865,
+   "checked": "Project Gutenberg #71865, 2026-11-03"
+  },
+  "keep_breaks": true
  },
  {
   "id": "xu-1",
@@ -503,11 +538,12 @@
    "康河"
   ],
   "translation": "own",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
-   "kind": "other",
-   "note": "Wikisource, 猛虎集 1932 (simplified characters)"
-  }
+   "kind": "wikisource",
+   "checked": "Wikisource, 猛虎集 1932 (simplified characters), 2026-11-04"
+  },
+  "keep_breaks": true
  },
  {
   "id": "xu-2",
@@ -526,11 +562,12 @@
    "河畔"
   ],
   "translation": "own",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
-   "kind": "other",
-   "note": "Wikisource, 猛虎集 1932 (simplified characters)"
-  }
+   "kind": "wikisource",
+   "checked": "Wikisource, 猛虎集 1932 (simplified characters), 2026-11-03"
+  },
+  "keep_breaks": true
  },
  {
   "id": "xu-3",
@@ -549,11 +586,12 @@
    "康桥"
   ],
   "translation": "own",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
-   "kind": "other",
-   "note": "Wikisource, 猛虎集 1932 (simplified characters)"
-  }
+   "kind": "wikisource",
+   "checked": "Wikisource, 猛虎集 1932 (simplified characters), 2026-11-04"
+  },
+  "keep_breaks": true
  },
  {
   "id": "mar-1",
@@ -568,11 +606,13 @@
    "Holy Island"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 4010
-  }
+   "id": 4010,
+   "checked": "Project Gutenberg #4010, 2026-11-03"
+  },
+  "keep_breaks": true
  },
  {
   "id": "mar-2",
@@ -587,11 +627,13 @@
    "Bamborough"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 4010
-  }
+   "id": 4010,
+   "checked": "Project Gutenberg #4010, 2026-11-03"
+  },
+  "keep_breaks": true
  },
  {
   "id": "ww-3",
@@ -607,11 +649,13 @@
    "Daffodills"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 8824
-  }
+   "id": 8824,
+   "checked": "Project Gutenberg #8824 (1807 edition), 2026-11-03"
+  },
+  "keep_breaks": true
  },
  {
   "id": "ns-1",
@@ -626,10 +670,11 @@
    "Milton"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 4276
+   "id": 4276,
+   "checked": "Project Gutenberg #4276, 2026-11-03"
   }
  },
  {
@@ -647,10 +692,11 @@
    "Nottinghamshire"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 28948
+   "id": 28948,
+   "checked": "Project Gutenberg #28948, 2026-11-03"
   }
  },
  {
@@ -666,11 +712,13 @@
    "Bredon"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 5720
-  }
+   "id": 5720,
+   "checked": "Project Gutenberg #5720, 2026-11-03"
+  },
+  "keep_breaks": true
  },
  {
   "id": "sl-2",
@@ -687,11 +735,13 @@
    "Severn"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 5720
-  }
+   "id": 5720,
+   "checked": "Project Gutenberg #5720, 2026-11-03"
+  },
+  "keep_breaks": true
  },
  {
   "id": "sl-3",
@@ -707,11 +757,13 @@
    "Clungunford and Clun"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 5720
-  }
+   "id": 5720,
+   "checked": "Project Gutenberg #5720, 2026-11-03"
+  },
+  "keep_breaks": true
  },
  {
   "id": "sl-4",
@@ -726,10 +778,11 @@
    "Ludlow"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 5720
+   "id": 5720,
+   "checked": "Project Gutenberg #5720, 2026-11-03"
   }
  },
  {
@@ -745,10 +798,11 @@
    "Giant's-Causeway"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 1564
+   "id": 1564,
+   "checked": "Project Gutenberg #1564, 2026-11-03"
   }
  },
  {
@@ -764,10 +818,11 @@
    "Belfast"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 42890
+   "id": 42890,
+   "checked": "Project Gutenberg #42890, 2026-11-03"
   }
  },
  {
@@ -784,11 +839,13 @@
    "Portrush"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 42890
-  }
+   "id": 42890,
+   "checked": "Project Gutenberg #42890, 2026-11-03"
+  },
+  "keep_breaks": true
  },
  {
   "id": "pp-1",
@@ -803,10 +860,11 @@
    "Pemberley House"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 1342
+   "id": 1342,
+   "checked": "Project Gutenberg #1342, 2026-11-03"
   }
  },
  {
@@ -822,10 +880,11 @@
    "Brighton"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 1342
+   "id": 1342,
+   "checked": "Project Gutenberg #1342, 2026-11-03"
   }
  },
  {
@@ -841,10 +900,11 @@
    "Box Hill"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 158
+   "id": 158,
+   "checked": "Project Gutenberg #158, 2026-11-03"
   }
  },
  {
@@ -860,10 +920,11 @@
    "Bath"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 121
+   "id": 121,
+   "checked": "Project Gutenberg #121, 2026-11-03"
   }
  },
  {
@@ -880,10 +941,11 @@
    "Bath"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 121
+   "id": 121,
+   "checked": "Project Gutenberg #121, 2026-11-03"
   }
  },
  {
@@ -899,11 +961,13 @@
    "fine old castle"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 580
-  }
+   "id": 580,
+   "checked": "Project Gutenberg #580, 2026-11-03"
+  },
+  "keep_breaks": true
  },
  {
   "id": "pick-2",
@@ -918,10 +982,11 @@
    "Great Pump Room"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 580
+   "id": 580,
+   "checked": "Project Gutenberg #580, 2026-11-03"
   }
  },
  {
@@ -937,10 +1002,11 @@
    "Yarmouth"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 766
+   "id": 766,
+   "checked": "Project Gutenberg #766, 2026-11-03"
   }
  },
  {
@@ -957,10 +1023,11 @@
    "Cathedral"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 766
+   "id": 766,
+   "checked": "Project Gutenberg #766, 2026-11-03"
   }
  },
  {
@@ -976,11 +1043,13 @@
    "Coketown"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 786
-  }
+   "id": 786,
+   "checked": "Project Gutenberg #786, 2026-11-03"
+  },
+  "keep_breaks": true
  },
  {
   "id": "ge-1",
@@ -996,11 +1065,13 @@
    "churchyard"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 1400
-  }
+   "id": 1400,
+   "checked": "Project Gutenberg #1400, 2026-11-03"
+  },
+  "keep_breaks": true
  },
  {
   "id": "cran-1",
@@ -1015,10 +1086,11 @@
    "Cranford"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 394
+   "id": 394,
+   "checked": "Project Gutenberg #394, 2026-11-03"
   }
  },
  {
@@ -1035,11 +1107,13 @@
    "St Ogg's"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 6688
-  }
+   "id": 6688,
+   "checked": "Project Gutenberg #6688, 2026-11-03"
+  },
+  "keep_breaks": true
  },
  {
   "id": "tess-1",
@@ -1054,10 +1128,11 @@
    "Vale of Blakemore, or Blackmoor"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 110
+   "id": 110,
+   "checked": "Project Gutenberg #110, 2026-11-03"
   }
  },
  {
@@ -1073,11 +1148,13 @@
    "Stonehenge"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 110
-  }
+   "id": 110,
+   "checked": "Project Gutenberg #110, 2026-11-03"
+  },
+  "keep_breaks": true
  },
  {
   "id": "hound-1",
@@ -1093,10 +1170,11 @@
    "moor"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 2852
+   "id": 2852,
+   "checked": "Project Gutenberg #2852, 2026-11-04"
   }
  },
  {
@@ -1112,10 +1190,11 @@
    "moor"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 2852
+   "id": 2852,
+   "checked": "Project Gutenberg #2852, 2026-11-04"
   }
  },
  {
@@ -1132,10 +1211,11 @@
    "Earraid"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 421
+   "id": 421,
+   "checked": "Project Gutenberg #421, 2026-11-03"
   }
  },
  {
@@ -1151,10 +1231,11 @@
    "Queensferry"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 421
+   "id": 421,
+   "checked": "Project Gutenberg #421, 2026-11-03"
   }
  },
  {
@@ -1171,11 +1252,13 @@
    "Iona"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 2064
-  }
+   "id": 2064,
+   "checked": "Project Gutenberg #2064, 2026-11-03"
+  },
+  "keep_breaks": true
  },
  {
   "id": "jwi-2",
@@ -1190,10 +1273,11 @@
    "Lough Ness"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 2064
+   "id": 2064,
+   "checked": "Project Gutenberg #2064, 2026-11-03"
   }
  },
  {
@@ -1210,11 +1294,13 @@
    "cliff"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 1532
-  }
+   "id": 1532,
+   "checked": "Project Gutenberg #1532, 2026-11-03"
+  },
+  "keep_breaks": true
  },
  {
   "id": "lol-1",
@@ -1229,11 +1315,13 @@
    "Loch Katrine"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 3011
-  }
+   "id": 3011,
+   "checked": "Project Gutenberg #3011, 2026-11-03"
+  },
+  "keep_breaks": true
  },
  {
   "id": "tmb-1",
@@ -1248,10 +1336,11 @@
    "maze at Hampton Court"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 308
+   "id": 308,
+   "checked": "Project Gutenberg #308, 2026-11-03"
   }
  },
  {
@@ -1267,10 +1356,11 @@
    "Marlow"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 308
+   "id": 308,
+   "checked": "Project Gutenberg #308, 2026-11-03"
   }
  },
  {
@@ -1287,10 +1377,11 @@
    "Oxford"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 308
+   "id": 308,
+   "checked": "Project Gutenberg #308, 2026-11-03"
   }
  },
  {
@@ -1307,10 +1398,11 @@
    "Hell Row"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 217
+   "id": 217,
+   "checked": "Project Gutenberg #217, 2026-11-03"
   }
  },
  {
@@ -1327,10 +1419,11 @@
    "Nottingham Town"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 10148
+   "id": 10148,
+   "checked": "Project Gutenberg #10148, 2026-11-03"
   }
  },
  {
@@ -1347,11 +1440,13 @@
    "cliffs of England"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 54985
-  }
+   "id": 54985,
+   "checked": "Project Gutenberg #54985, 2026-11-03"
+  },
+  "keep_breaks": true
  },
  {
   "id": "arn-2",
@@ -1366,11 +1461,13 @@
    "sweet city with her dreaming spires"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 54985
-  }
+   "id": 54985,
+   "checked": "Project Gutenberg #54985, 2026-11-03"
+  },
+  "keep_breaks": true
  },
  {
   "id": "hop-1",
@@ -1386,11 +1483,13 @@
    "river-rounded"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 22403
-  }
+   "id": 22403,
+   "checked": "Project Gutenberg #22403, 2026-11-03"
+  },
+  "keep_breaks": true
  },
  {
   "id": "hop-2",
@@ -1405,11 +1504,13 @@
    "Wales"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 22403
-  }
+   "id": 22403,
+   "checked": "Project Gutenberg #22403, 2026-11-03"
+  },
+  "keep_breaks": true
  },
  {
   "id": "gr-1",
@@ -1424,11 +1525,13 @@
    "Grantchester"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 262
-  }
+   "id": 262,
+   "checked": "Project Gutenberg #262, 2026-11-03"
+  },
+  "keep_breaks": true
  },
  {
   "id": "owt-1",
@@ -1444,10 +1547,11 @@
    "Five Towns"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 5247
+   "id": 5247,
+   "checked": "Project Gutenberg #5247, 2026-11-03"
   }
  },
  {
@@ -1463,10 +1567,11 @@
    "Pook's Hill"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 26027
+   "id": 26027,
+   "checked": "Project Gutenberg #26027, 2026-11-03"
   }
  },
  {
@@ -1483,10 +1588,11 @@
    "Dee"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 648
+   "id": 648,
+   "checked": "Project Gutenberg #648, 2026-11-03"
   }
  },
  {
@@ -1503,10 +1609,11 @@
    "Y Wyddfa"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 648
+   "id": 648,
+   "checked": "Project Gutenberg #648, 2026-11-03"
   }
  },
  {
@@ -1523,10 +1630,11 @@
    "Doone valley"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 17460
+   "id": 17460,
+   "checked": "Project Gutenberg #17460, 2026-11-03"
   }
  },
  {
@@ -1544,11 +1652,13 @@
    "Cheviot"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 4010
-  }
+   "id": 4010,
+   "checked": "Project Gutenberg #4010, 2026-11-03"
+  },
+  "keep_breaks": true
  },
  {
   "id": "mar-4",
@@ -1564,11 +1674,13 @@
    "Tynemouth's priory and bay"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 4010
-  }
+   "id": 4010,
+   "checked": "Project Gutenberg #4010, 2026-11-03"
+  },
+  "keep_breaks": true
  },
  {
   "id": "puck-2",
@@ -1583,10 +1695,11 @@
    "the Wall"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 26027
+   "id": 26027,
+   "checked": "Project Gutenberg #26027, 2026-11-03"
   }
  },
  {
@@ -1602,11 +1715,13 @@
    "Corrymeela"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 53075
-  }
+   "id": 53075,
+   "checked": "Project Gutenberg #53075, 2026-11-03"
+  },
+  "keep_breaks": true
  },
  {
   "id": "isb-3",
@@ -1621,10 +1736,11 @@
    "Carrickfergus"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 42890
+   "id": 42890,
+   "checked": "Project Gutenberg #42890, 2026-11-03"
   }
  },
  {
@@ -1641,10 +1757,11 @@
    "Cushendall"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 42890
+   "id": 42890,
+   "checked": "Project Gutenberg #42890, 2026-11-03"
   }
  },
  {
@@ -1660,10 +1777,11 @@
    "Monkshaven"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 4537
+   "id": 4537,
+   "checked": "Project Gutenberg #4537, 2026-11-03"
   }
  },
  {
@@ -1680,10 +1798,11 @@
    "semicircular barrier of craggy cliffs"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 767
+   "id": 767,
+   "checked": "Project Gutenberg #767, 2026-11-04"
   }
  },
  {
@@ -1699,10 +1818,11 @@
    "Little-town"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 15137
+   "id": 15137,
+   "checked": "Project Gutenberg #15137, 2026-11-03"
   }
  },
  {
@@ -1719,10 +1839,11 @@
    "Green Heys Fields"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 2153
+   "id": 2153,
+   "checked": "Project Gutenberg #2153, 2026-11-03"
   }
  },
  {
@@ -1738,10 +1859,11 @@
    "Great White Horse"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 580
+   "id": 580,
+   "checked": "Project Gutenberg #580, 2026-11-03"
   }
  },
  {
@@ -1757,10 +1879,11 @@
    "fine old city"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 20198
+   "id": 20198,
+   "checked": "Project Gutenberg #20198, 2026-11-03"
   }
  },
  {
@@ -1776,10 +1899,11 @@
    "Llyn Tegid"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 648
+   "id": 648,
+   "checked": "Project Gutenberg #648, 2026-11-03"
   }
  },
  {
@@ -1799,7 +1923,7 @@
   "highlight_zh": [
    "九又四分之三站台"
   ],
-  "status": "draft"
+  "status": "reviewed"
  },
  {
   "id": "rd-s1",
@@ -1818,7 +1942,7 @@
   "highlight_zh": [
    "索尔兹伯里"
   ],
-  "status": "draft"
+  "status": "reviewed"
  },
  {
   "id": "rd-s2",
@@ -1837,7 +1961,7 @@
   "highlight_zh": [
    "韦茅斯"
   ],
-  "status": "draft"
+  "status": "reviewed"
  },
  {
   "id": "at-s1",
@@ -1856,7 +1980,7 @@
   "highlight_zh": [
    "圣托马斯医院"
   ],
-  "status": "draft"
+  "status": "reviewed"
  },
  {
   "id": "at-s2",
@@ -1875,7 +1999,7 @@
   "highlight_zh": [
    "克拉珀姆公园"
   ],
-  "status": "draft"
+  "status": "reviewed"
  },
  {
   "id": "ol-s1",
@@ -1894,7 +2018,7 @@
   "highlight_zh": [
    "因弗内斯"
   ],
-  "status": "draft"
+  "status": "reviewed"
  },
  {
   "id": "ol-s2",
@@ -1913,7 +2037,7 @@
   "highlight_zh": [
    "克雷格纳敦"
   ],
-  "status": "draft"
+  "status": "reviewed"
  },
  {
   "id": "pd-s1",
@@ -1932,7 +2056,7 @@
   "highlight_zh": [
    "帕丁顿车站"
   ],
-  "status": "draft"
+  "status": "reviewed"
  },
  {
   "id": "mm-s1",
@@ -1951,7 +2075,7 @@
   "highlight_zh": [
    "玉石牌楼"
   ],
-  "status": "draft"
+  "status": "reviewed"
  },
  {
   "id": "mm-s2",
@@ -1970,7 +2094,7 @@
   "highlight_zh": [
    "圣保罗教堂"
   ],
-  "status": "draft"
+  "status": "reviewed"
  },
  {
   "id": "sa-1",
@@ -1985,11 +2109,13 @@
    "Dover Street Tube"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 1155
-  }
+   "id": 1155,
+   "checked": "Project Gutenberg #1155, 2026-11-03"
+  },
+  "keep_breaks": true
  },
  {
   "id": "sa-2",
@@ -2004,10 +2130,11 @@
    "Piccadilly Circus"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 1155
+   "id": 1155,
+   "checked": "Project Gutenberg #1155, 2026-11-03"
   }
  },
  {
@@ -2024,10 +2151,11 @@
    "Soho"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 1155
+   "id": 1155,
+   "checked": "Project Gutenberg #1155, 2026-11-03"
   }
  },
  {
@@ -2043,10 +2171,11 @@
    "Holyhead"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 1155
+   "id": 1155,
+   "checked": "Project Gutenberg #1155, 2026-11-03"
   }
  },
  {
@@ -2063,10 +2192,11 @@
    "Brighton"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 61262
+   "id": 61262,
+   "checked": "Project Gutenberg #61262, 2026-11-03"
   }
  },
  {
@@ -2082,10 +2212,11 @@
    "Dover"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 61262
+   "id": 61262,
+   "checked": "Project Gutenberg #61262, 2026-11-03"
   }
  },
  {
@@ -2105,7 +2236,7 @@
   "highlight_zh": [
    "士兵岛"
   ],
-  "status": "draft"
+  "status": "reviewed"
  },
  {
   "id": "dmf-s1",
@@ -2126,7 +2257,7 @@
    "纳斯庄园",
    "格林威"
   ],
-  "status": "draft"
+  "status": "reviewed"
  },
  {
   "id": "fp-s1",
@@ -2145,7 +2276,7 @@
   "highlight_zh": [
    "帕丁顿"
   ],
-  "status": "draft"
+  "status": "reviewed"
  },
  {
   "id": "abc-s1",
@@ -2164,7 +2295,7 @@
   "highlight_zh": [
    "安多弗"
   ],
-  "status": "draft"
+  "status": "reviewed"
  },
  {
   "id": "abc-s2",
@@ -2183,7 +2314,7 @@
   "highlight_zh": [
    "滨海贝克斯希尔"
   ],
-  "status": "draft"
+  "status": "reviewed"
  },
  {
   "id": "abc-s3",
@@ -2202,7 +2333,7 @@
   "highlight_zh": [
    "彻斯顿"
   ],
-  "status": "draft"
+  "status": "reviewed"
  },
  {
   "id": "abc-s4",
@@ -2221,7 +2352,7 @@
   "highlight_zh": [
    "唐卡斯特"
   ],
-  "status": "draft"
+  "status": "reviewed"
  },
  {
   "id": "eus-s1",
@@ -2240,7 +2371,7 @@
   "highlight_zh": [
    "走私者岛"
   ],
-  "status": "draft"
+  "status": "reviewed"
  },
  {
   "id": "bh-s1",
@@ -2259,7 +2390,7 @@
   "highlight_zh": [
    "牛津"
   ],
-  "status": "draft"
+  "status": "reviewed"
  },
  {
   "id": "hp2-s1",
@@ -2278,7 +2409,7 @@
   "highlight_zh": [
    "九又四分之三站台"
   ],
-  "status": "draft"
+  "status": "reviewed"
  },
  {
   "id": "hp7-s1",
@@ -2297,7 +2428,7 @@
   "highlight_zh": [
    "托特纳姆宫路"
   ],
-  "status": "draft"
+  "status": "reviewed"
  },
  {
   "id": "hp7-s2",
@@ -2316,7 +2447,7 @@
   "highlight_zh": [
    "迪安森林"
   ],
-  "status": "draft"
+  "status": "reviewed"
  },
  {
   "id": "zz-s1",
@@ -2337,7 +2468,7 @@
    "切林克拉斯路",
    "福也尔"
   ],
-  "status": "draft"
+  "status": "reviewed"
  },
  {
   "id": "zz-s2",
@@ -2356,7 +2487,7 @@
   "highlight_zh": [
    "加尔东尼市场"
   ],
-  "status": "draft"
+  "status": "reviewed"
  },
  {
   "id": "zz-s3",
@@ -2375,7 +2506,7 @@
   "highlight_zh": [
    "约翰生博士故宅"
   ],
-  "status": "draft"
+  "status": "reviewed"
  },
  {
   "id": "zz-s4",
@@ -2394,7 +2525,7 @@
   "highlight_zh": [
    "汉姆司台德"
   ],
-  "status": "draft"
+  "status": "reviewed"
  },
  {
   "id": "alice-1",
@@ -2409,11 +2540,13 @@
    "golden afternoon"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 28885
-  }
+   "id": 28885,
+   "checked": "Project Gutenberg #28885, 2026-11-04"
+  },
+  "keep_breaks": true
  },
  {
   "id": "alice-2",
@@ -2428,10 +2561,11 @@
    "London"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 28885
+   "id": 28885,
+   "checked": "Project Gutenberg #28885, 2026-11-04"
   }
  },
  {
@@ -2448,10 +2582,11 @@
    "battlements"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 1260
+   "id": 1260,
+   "checked": "Project Gutenberg #1260, 2026-11-04"
   }
  },
  {
@@ -2467,10 +2602,11 @@
    "Lowood"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 1260
+   "id": 1260,
+   "checked": "Project Gutenberg #1260, 2026-11-04"
   }
  },
  {
@@ -2486,10 +2622,11 @@
    "Wild Wood"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 289
+   "id": 289,
+   "checked": "Project Gutenberg #289, 2026-11-04"
   }
  },
  {
@@ -2505,10 +2642,11 @@
    "Kensington Gardens"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 1332
+   "id": 1332,
+   "checked": "Project Gutenberg #1332, 2026-11-04"
   }
  },
  {
@@ -2524,10 +2662,11 @@
    "Serpentine"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 1332
+   "id": 1332,
+   "checked": "Project Gutenberg #1332, 2026-11-04"
   }
  },
  {
@@ -2543,11 +2682,13 @@
    "London Bridge"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 1321
-  }
+   "id": 1321,
+   "checked": "Project Gutenberg #1321, 2026-11-04"
+  },
+  "keep_breaks": true
  },
  {
   "id": "wl-2",
@@ -2562,11 +2703,13 @@
    "Margate Sands"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 1321
-  }
+   "id": 1321,
+   "checked": "Project Gutenberg #1321, 2026-11-04"
+  },
+  "keep_breaks": true
  },
  {
   "id": "pepys-1",
@@ -2581,10 +2724,11 @@
    "Pudding-lane"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 4200
+   "id": 4200,
+   "checked": "Project Gutenberg #4200, 2026-11-04"
   }
  },
  {
@@ -2600,10 +2744,11 @@
    "Covent Garden"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 174
+   "id": 174,
+   "checked": "Project Gutenberg #174, 2026-11-04"
   }
  },
  {
@@ -2619,10 +2764,11 @@
    "Egdon Heath"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 122
+   "id": 122,
+   "checked": "Project Gutenberg #122, 2026-11-04"
   }
  },
  {
@@ -2638,10 +2784,11 @@
    "Aldgate"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 376
+   "id": 376,
+   "checked": "Project Gutenberg #376, 2026-11-04"
   }
  },
  {
@@ -2658,11 +2805,13 @@
    "Heart of Mid-Lothian"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 6944
-  }
+   "id": 6944,
+   "checked": "Project Gutenberg #6944, 2026-11-04"
+  },
+  "keep_breaks": true
  },
  {
   "id": "pil-1",
@@ -2677,10 +2826,11 @@
    "a Den"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 131
+   "id": 131,
+   "checked": "Project Gutenberg #131, 2026-11-04"
   }
  },
  {
@@ -2697,10 +2847,11 @@
    "the house where Shakespeare was born"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 2048
+   "id": 2048,
+   "checked": "Project Gutenberg #2048, 2026-11-04"
   }
  },
  {
@@ -2716,10 +2867,11 @@
    "Poet's Corner"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 2048
+   "id": 2048,
+   "checked": "Project Gutenberg #2048, 2026-11-04"
   }
  },
  {
@@ -2735,10 +2887,11 @@
    "East End"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 1688
+   "id": 1688,
+   "checked": "Project Gutenberg #1688, 2026-11-04"
   }
  },
  {
@@ -2760,10 +2913,15 @@
    "Pall-Mall"
   ],
   "translation": "George M. Towle (1873)",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 800
+   "id": 800,
+   "checked": "Project Gutenberg #800 (French) and #103 (Towle), 2026-11-04"
+  },
+  "translation_source": {
+   "kind": "gutenberg",
+   "id": 103
   }
  },
  {
@@ -2783,10 +2941,10 @@
    "康河"
   ],
   "translation": "own",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
-   "kind": "other",
-   "note": "Wikisource, 我所知道的康橋 (1926; simplified characters)"
+   "kind": "wikisource",
+   "checked": "Wikisource, 我所知道的康橋 (1926; simplified characters), 2026-11-04"
   }
  },
  {
@@ -2808,10 +2966,10 @@
    "格兰骞斯德"
   ],
   "translation": "own",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
-   "kind": "other",
-   "note": "Wikisource, 我所知道的康橋 (1926; simplified characters)"
+   "kind": "wikisource",
+   "checked": "Wikisource, 我所知道的康橋 (1926; simplified characters), 2026-11-04"
   }
  },
  {
@@ -2827,10 +2985,11 @@
    "little dark shop"
   ],
   "translation": "original",
-  "status": "draft",
+  "status": "reviewed",
   "source": {
    "kind": "gutenberg",
-   "id": 12
+   "id": 12,
+   "checked": "Project Gutenberg #12, 2026-11-04"
   }
  },
  {
@@ -2849,7 +3008,7 @@
   "status": "draft",
   "source": {
    "kind": "other",
-   "note": "Standard Ebooks, To the Lighthouse (single-page text, read in pieces through the web reader and cross-checked)"
+   "checked": "Standard Ebooks, To the Lighthouse (single-page text, read in pieces through the web reader and cross-checked), 2026-11-04"
   }
  },
  {
@@ -2868,7 +3027,7 @@
   "status": "draft",
   "source": {
    "kind": "other",
-   "note": "Project Gutenberg Australia and Global Grey online texts, read through the web reader in short pieces and compared"
+   "checked": "Project Gutenberg Australia and Global Grey online texts, read through the web reader in short pieces and compared, 2026-11-04"
   }
  },
  {
@@ -2887,7 +3046,7 @@
   "status": "draft",
   "source": {
    "kind": "other",
-   "note": "Project Gutenberg Australia and Global Grey online texts, read through the web reader in short pieces and compared"
+   "checked": "Project Gutenberg Australia and Global Grey online texts, read through the web reader in short pieces and compared, 2026-11-04"
   }
  },
  {
@@ -2906,7 +3065,7 @@
   "status": "draft",
   "source": {
    "kind": "other",
-   "note": "Project Gutenberg Australia and Global Grey online texts, read through the web reader in short pieces and compared"
+   "checked": "Project Gutenberg Australia and Global Grey online texts, read through the web reader in short pieces and compared, 2026-11-04"
   }
  },
  {
@@ -2925,7 +3084,8 @@
   "status": "draft",
   "source": {
    "kind": "gutenberg",
-   "id": 730
+   "id": 730,
+   "checked": "Project Gutenberg #730, 2026-11-04"
   }
  },
  {
@@ -2944,7 +3104,8 @@
   "status": "draft",
   "source": {
    "kind": "gutenberg",
-   "id": 46
+   "id": 46,
+   "checked": "Project Gutenberg #46, 2026-11-04"
   }
  },
  {
@@ -2963,7 +3124,8 @@
   "status": "draft",
   "source": {
    "kind": "gutenberg",
-   "id": 84
+   "id": 84,
+   "checked": "Project Gutenberg #84, 2026-11-04"
   }
  },
  {
@@ -2982,7 +3144,8 @@
   "status": "draft",
   "source": {
    "kind": "gutenberg",
-   "id": 84
+   "id": 84,
+   "checked": "Project Gutenberg #84, 2026-11-04"
   }
  },
  {
@@ -3001,7 +3164,8 @@
   "status": "draft",
   "source": {
    "kind": "gutenberg",
-   "id": 145
+   "id": 145,
+   "checked": "Project Gutenberg #145, 2026-11-04"
   }
  },
  {
@@ -3021,7 +3185,8 @@
   "status": "draft",
   "source": {
    "kind": "gutenberg",
-   "id": 161
+   "id": 161,
+   "checked": "Project Gutenberg #161, 2026-11-04"
   }
  },
  {
@@ -3040,7 +3205,8 @@
   "status": "draft",
   "source": {
    "kind": "gutenberg",
-   "id": 107
+   "id": 107,
+   "checked": "Project Gutenberg #107, 2026-11-04"
   }
  },
  {
@@ -3059,7 +3225,8 @@
   "status": "draft",
   "source": {
    "kind": "gutenberg",
-   "id": 120
+   "id": 120,
+   "checked": "Project Gutenberg #120, 2026-11-04"
   }
  },
  {
@@ -3078,7 +3245,8 @@
   "status": "draft",
   "source": {
    "kind": "gutenberg",
-   "id": 43
+   "id": 43,
+   "checked": "Project Gutenberg #43, 2026-11-04"
   }
  },
  {
@@ -3097,7 +3265,8 @@
   "status": "draft",
   "source": {
    "kind": "gutenberg",
-   "id": 82
+   "id": 82,
+   "checked": "Project Gutenberg #82, 2026-11-04"
   }
  },
  {
@@ -3116,7 +3285,8 @@
   "status": "draft",
   "source": {
    "kind": "gutenberg",
-   "id": 558
+   "id": 558,
+   "checked": "Project Gutenberg #558, 2026-11-04"
   }
  },
  {
@@ -3135,7 +3305,8 @@
   "status": "draft",
   "source": {
    "kind": "gutenberg",
-   "id": 113
+   "id": 113,
+   "checked": "Project Gutenberg #113, 2026-11-04"
   }
  },
  {
@@ -3154,7 +3325,8 @@
   "status": "draft",
   "source": {
    "kind": "gutenberg",
-   "id": 521
+   "id": 521,
+   "checked": "Project Gutenberg #521, 2026-11-04"
   }
  },
  {
@@ -3173,7 +3345,8 @@
   "status": "draft",
   "source": {
    "kind": "gutenberg",
-   "id": 829
+   "id": 829,
+   "checked": "Project Gutenberg #829, 2026-11-04"
   }
  },
  {
@@ -3192,7 +3365,8 @@
   "status": "draft",
   "source": {
    "kind": "gutenberg",
-   "id": 67098
+   "id": 67098,
+   "checked": "Project Gutenberg #67098, 2026-11-04"
   }
  },
  {
@@ -3268,8 +3442,10 @@
   "status": "draft",
   "source": {
    "kind": "gutenberg",
-   "id": 21700
-  }
+   "id": 21700,
+   "checked": "Project Gutenberg #21700, 2026-11-05"
+  },
+  "keep_breaks": true
  },
  {
   "id": "hoi-1",
@@ -3287,8 +3463,10 @@
   "status": "draft",
   "source": {
    "kind": "gutenberg",
-   "id": 8861
-  }
+   "id": 8861,
+   "checked": "Project Gutenberg #8861, 2026-11-05"
+  },
+  "keep_breaks": true
  },
  {
   "id": "hoi-2",
@@ -3307,8 +3485,10 @@
   "status": "draft",
   "source": {
    "kind": "gutenberg",
-   "id": 8861
-  }
+   "id": 8861,
+   "checked": "Project Gutenberg #8861, 2026-11-05"
+  },
+  "keep_breaks": true
  },
  {
   "id": "hoi-3",
@@ -3326,8 +3506,10 @@
   "status": "draft",
   "source": {
    "kind": "gutenberg",
-   "id": 8861
-  }
+   "id": 8861,
+   "checked": "Project Gutenberg #8861, 2026-11-05"
+  },
+  "keep_breaks": true
  },
  {
   "id": "ma-1",
@@ -3345,8 +3527,10 @@
   "status": "draft",
   "source": {
    "kind": "gutenberg",
-   "id": 4800
-  }
+   "id": 4800,
+   "checked": "Project Gutenberg #4800, 2026-11-05"
+  },
+  "keep_breaks": true
  },
  {
   "id": "comus-1",
@@ -3364,8 +3548,10 @@
   "status": "draft",
   "source": {
    "kind": "gutenberg",
-   "id": 19819
-  }
+   "id": 19819,
+   "checked": "Project Gutenberg #19819, 2026-11-05"
+  },
+  "keep_breaks": true
  },
  {
   "id": "kk-1",
@@ -3383,8 +3569,10 @@
   "status": "draft",
   "source": {
    "kind": "gutenberg",
-   "id": 29090
-  }
+   "id": 29090,
+   "checked": "Project Gutenberg #29090, 2026-11-05"
+  },
+  "keep_breaks": true
  },
  {
   "id": "imm-1",
@@ -3403,8 +3591,10 @@
   "status": "draft",
   "source": {
    "kind": "gutenberg",
-   "id": 70950
-  }
+   "id": 70950,
+   "checked": "Project Gutenberg #70950, 2026-11-05"
+  },
+  "keep_breaks": true
  },
  {
   "id": "pro-1",
@@ -3424,8 +3614,10 @@
   "status": "draft",
   "source": {
    "kind": "gutenberg",
-   "id": 10602
-  }
+   "id": 10602,
+   "checked": "Project Gutenberg #10602, 2026-11-05"
+  },
+  "keep_breaks": true
  },
  {
   "id": "am-1",
@@ -3444,8 +3636,10 @@
   "status": "draft",
   "source": {
    "kind": "gutenberg",
-   "id": 11488
-  }
+   "id": 11488,
+   "checked": "Project Gutenberg #11488, 2026-11-05"
+  },
+  "keep_breaks": true
  },
  {
   "id": "rem-1",
@@ -3464,8 +3658,10 @@
   "status": "draft",
   "source": {
    "kind": "gutenberg",
-   "id": 8672
-  }
+   "id": 8672,
+   "checked": "Project Gutenberg #8672, 2026-11-05"
+  },
+  "keep_breaks": true
  },
  {
   "id": "task-1",
@@ -3483,8 +3679,10 @@
   "status": "draft",
   "source": {
    "kind": "gutenberg",
-   "id": 3698
-  }
+   "id": 3698,
+   "checked": "Project Gutenberg #3698, 2026-11-05"
+  },
+  "keep_breaks": true
  },
  {
   "id": "dn-s1",
@@ -3654,7 +3852,8 @@
   "status": "draft",
   "source": {
    "kind": "gutenberg",
-   "id": 98
+   "id": 98,
+   "checked": "Project Gutenberg #98, 2026-11-05"
   }
  },
  {
@@ -3673,7 +3872,8 @@
   "status": "draft",
   "source": {
    "kind": "gutenberg",
-   "id": 98
+   "id": 98,
+   "checked": "Project Gutenberg #98, 2026-11-05"
   }
  },
  {
@@ -3692,7 +3892,8 @@
   "status": "draft",
   "source": {
    "kind": "gutenberg",
-   "id": 271
+   "id": 271,
+   "checked": "Project Gutenberg #271, 2026-11-05"
   }
  },
  {
@@ -3882,7 +4083,8 @@
   "status": "draft",
   "source": {
    "kind": "gutenberg",
-   "id": 3608
+   "id": 3608,
+   "checked": "Project Gutenberg #3608, 2026-11-07"
   }
  },
  {
@@ -3901,7 +4103,8 @@
   "status": "draft",
   "source": {
    "kind": "gutenberg",
-   "id": 583
+   "id": 583,
+   "checked": "Project Gutenberg #583, 2026-11-07"
   }
  },
  {
@@ -3920,7 +4123,573 @@
   "status": "draft",
   "source": {
    "kind": "gutenberg",
-   "id": 583
+   "id": 583,
+   "checked": "Project Gutenberg #583, 2026-11-07"
   }
+ },
+ {
+  "id": "tm-1",
+  "book_id": "three-musketeers",
+  "place_ids": [
+   "dover"
+  ],
+  "location": "Volume 1, Chapter 20, The Journey",
+  "location_zh": "第一卷第 20 章《旅程》",
+  "text_en": "On the morrow, at break of day, they were still three or four leagues from the coast of England. The breeze had been so light all night, they had made but little progress. At ten o'clock the vessel cast anchor in the harbor of Dover, and at half past ten D'Artagnan placed his foot on English land, crying, \"Here I am at last!\"",
+  "text_orig": "Le lendemain, au point du jour, il se trouva à trois ou quatre lieues seulement des côtes d'Angleterre; la brise avait été faible toute la nuit, et l'on avait peu marché.\nÀ dix heures, le bâtiment jetait l'ancre dans le port de Douvres.\nÀ dix heures et demie, d'Artagnan mettait le pied sur la terre d'Angleterre, en s'écriant:\n«Enfin, m'y voilà!»",
+  "highlight_en": [
+   "Dover"
+  ],
+  "highlight_orig": [
+   "Douvres"
+  ],
+  "translation": "anonymous English translation (Project Gutenberg #1257)",
+  "status": "draft",
+  "source": {
+   "kind": "gutenberg",
+   "id": 13951,
+   "checked": "Project Gutenberg #13951 (French) and #1257, 2026-11-09"
+  },
+  "translation_source": {
+   "kind": "gutenberg",
+   "id": 1257
+  },
+  "keep_breaks": true
+ },
+ {
+  "id": "tm-2",
+  "book_id": "three-musketeers",
+  "place_ids": [
+   "buckingham-house-portsmouth"
+  ],
+  "location": "Volume 2, Chapter 59, What Took Place at Portsmouth, August 23, 1628",
+  "location_zh": "第二卷第 59 章《1628 年 8 月 23 日朴茨茅斯发生的事》",
+  "text_en": "Felton took advantage of this moment, and plunged the knife into his side up to the handle.\n\"Ah, traitor,\" cried Buckingham, \"you have killed me!\"\n\"Murder!\" screamed Patrick.",
+  "text_orig": "Felton profita du moment et lui enfonça dans le flanc le couteau jusqu'au manche.\n«Ah! traître! cria Buckingham, tu m'as tué…\n— Au meurtre!» hurla Patrick.",
+  "highlight_en": [
+   "Felton",
+   "Buckingham"
+  ],
+  "highlight_orig": [
+   "Felton",
+   "Buckingham"
+  ],
+  "translation": "anonymous English translation (Project Gutenberg #1257)",
+  "status": "draft",
+  "source": {
+   "kind": "gutenberg",
+   "id": 13951,
+   "checked": "Project Gutenberg #13951 (French) and #1257, 2026-11-09"
+  },
+  "translation_source": {
+   "kind": "gutenberg",
+   "id": 1257
+  },
+  "keep_breaks": true
+ },
+ {
+  "id": "atw-2",
+  "book_id": "around-the-world",
+  "place_ids": [
+   "savile-row"
+  ],
+  "location": "Chapter 1",
+  "location_zh": "第 1 章",
+  "text_en": "Mr. Phileas Fogg lived, in 1872, at No. 7, Saville Row, Burlington Gardens, the house in which Sheridan died in 1814. He was one of the most noticeable members of the Reform Club, though he seemed always to avoid attracting attention; an enigmatical personage, about whom little was known, except that he was a polished man of the world. People said that he resembled Byron—at least that his head was Byronic; but he was a bearded, tranquil Byron, who might live on a thousand years without growing old.",
+  "text_orig": "En l'année 1872, la maison portant le numéro 7 de Saville-row, Burlington Gardens—maison dans laquelle Sheridan mourut en 1814—, était habitée par Phileas Fogg, esq., l'un des membres les plus singuliers et les plus remarqués du Reform-Club de Londres, bien qu'il semblât prendre à tâche de ne rien faire qui pût attirer l'attention.",
+  "highlight_en": [
+   "Saville Row",
+   "Burlington Gardens"
+  ],
+  "highlight_orig": [
+   "Saville-row",
+   "Burlington Gardens"
+  ],
+  "translation": "George M. Towle (1873)",
+  "status": "draft",
+  "source": {
+   "kind": "gutenberg",
+   "id": 800,
+   "checked": "Project Gutenberg #800 (French) and #103 (Towle), 2026-11-09"
+  },
+  "translation_source": {
+   "kind": "gutenberg",
+   "id": 103
+  }
+ },
+ {
+  "id": "atw-3",
+  "book_id": "around-the-world",
+  "place_ids": [
+   "liverpool"
+  ],
+  "location": "Chapter 33",
+  "location_zh": "第 33 章",
+  "text_en": "Phileas Fogg at last disembarked on the Liverpool quay, at twenty minutes before twelve, 21st December. He was only six hours distant from London.\nBut at this moment Fix came up, put his hand upon Mr. Fogg's shoulder, and, showing his warrant, said, \"You are really Phileas Fogg?\"\n\"I am.\"\n\"I arrest you in the Queen's name!\"",
+  "text_orig": "À midi moins vingt, le 21 décembre, Phileas Fogg débarquait enfin sur le quai de Liverpool. Il n'était plus qu'à six heures de Londres.\nMais à ce moment, Fix s'approcha, lui mit la main sur l'épaule, et, exhibant son mandat:\n«Vous êtes le sieur Phileas Fogg? dit-il.\n—Oui, monsieur.\n—Au nom de la reine, je vous arrête!»",
+  "highlight_en": [
+   "Liverpool quay"
+  ],
+  "highlight_orig": [
+   "quai de Liverpool"
+  ],
+  "translation": "George M. Towle (1873)",
+  "status": "draft",
+  "source": {
+   "kind": "gutenberg",
+   "id": 800,
+   "checked": "Project Gutenberg #800 (French) and #103 (Towle), 2026-11-09"
+  },
+  "translation_source": {
+   "kind": "gutenberg",
+   "id": 103
+  },
+  "keep_breaks": true
+ },
+ {
+  "id": "gw-1",
+  "book_id": "gallic-war",
+  "place_ids": [
+   "dover"
+  ],
+  "location": "Book 4, Chapter 23",
+  "location_zh": "第四卷第 23 章",
+  "text_en": "he himself reached Britain with the first squadron of ships, about the fourth hour of the day, and there saw the forces of the enemy drawn up in arms on all the hills. The nature of the place was this: the sea was confined by mountains so close to it that a dart could be thrown from their summit upon the shore. Considering this by no means a fit place for disembarking, he remained at anchor till the ninth hour, for the other ships to arrive there.",
+  "text_orig": "ipse hora diei circiter IIII. cum primis navibus Britanniam attigit atque ibi in omnibus collibus expositas hostium copias armatas conspexit. Cuius loci haec erat natura atque ita montibus angustis mare continebatur, uti ex locis superioribus in litus telum adigi posset. Hunc ad egrediendum nequaquam idoneum locum arbitratus, dum reliquae naves eo convenirent ad horam nonam in ancoris expectavit.",
+  "highlight_en": [
+   "Britain",
+   "the sea was confined by mountains"
+  ],
+  "highlight_orig": [
+   "Britanniam",
+   "montibus"
+  ],
+  "translation": "W. A. McDevitte and W. S. Bohn (1869)",
+  "status": "draft",
+  "source": {
+   "kind": "gutenberg",
+   "id": 218,
+   "checked": "Project Gutenberg #218 (Latin, books I–IV) and #10657 (McDevitte and Bohn), 2026-11-09"
+  },
+  "translation_source": {
+   "kind": "gutenberg",
+   "id": 10657
+  }
+ },
+ {
+  "id": "gw-2",
+  "book_id": "gallic-war",
+  "place_ids": [
+   "walmer-beach"
+  ],
+  "location": "Book 4, Chapter 25",
+  "location_zh": "第四卷第 25 章",
+  "text_en": "And while our men were hesitating [whether they should advance to the shore], chiefly on account of the depth of the sea, he who carried the eagle of the tenth legion, after supplicating the gods that the matter might turn out favourably to the legion, exclaimed, \"Leap, fellow soldiers, unless you wish to betray your eagle to the enemy. I, for my part, will perform my duty to the commonwealth and my general.\" When he had said this with a loud voice, he leaped from the ship and proceeded to bear the eagle toward the enemy. Then our men, exhorting one another that so great a disgrace should not be incurred, all leaped from the ship.",
+  "text_orig": "Atque nostris militibus cunctantibus, maxime propter altitudinem maris, qui X legionis aquilam gerebat, obtestatus deos, ut ea res legioni feliciter eveniret, ' desilite', inquit, ' milites, nisi vultis aquilam hostibus prodere; ego certe meum rei publicae atque imperatori officium praestitero.' Hoc cum voce magna dixisset, se ex navi proiecit atque in hostes aquilam ferre coepit. Tum nostri cohortati inter se, ne tantum dedecus admitteretur, universi ex navi desiluerunt.",
+  "highlight_en": [
+   "eagle of the tenth legion"
+  ],
+  "highlight_orig": [
+   "X legionis aquilam"
+  ],
+  "translation": "W. A. McDevitte and W. S. Bohn (1869)",
+  "status": "draft",
+  "source": {
+   "kind": "gutenberg",
+   "id": 218,
+   "checked": "Project Gutenberg #218 (Latin, books I–IV) and #10657 (McDevitte and Bohn), 2026-11-09"
+  },
+  "translation_source": {
+   "kind": "gutenberg",
+   "id": 10657
+  }
+ },
+ {
+  "id": "gw-3",
+  "book_id": "gallic-war",
+  "place_ids": [
+   "brentford-monument"
+  ],
+  "location": "Book 5, Chapter 18",
+  "location_zh": "第五卷第 18 章",
+  "text_en": "Caesar, discovering their design, leads his army into the territories of Cassivellaunus to the river Thames; which river can be forded in one place only, and that with difficulty. When he had arrived there, he perceives that numerous forces of the enemy were marshalled on the other bank of the river; the bank also was defended by sharp stakes fixed in front, and stakes of the same kind fixed under the water were covered by the river. These things being discovered from [some] prisoners and deserters, Caesar, sending forward the cavalry, ordered the legions to follow them immediately. But the soldiers advanced with such speed and such ardour, though they stood above the water by their heads only, that the enemy could not sustain the attack of the legions and of the horse, and quitted the banks, and committed themselves to flight.",
+  "text_orig": "Caesar cognito consilio eorum ad flumen Tamesim in fines Cassivellauni exercitum duxit; quod flumen uno omnino loco pedibus, atque hoc aegre, transiri potest. Eo cum venisset, animum advertit ad alteram fluminis ripam magnas esse copias hostium instructas. Ripa autem erat acutis sudibus praefixis munita, eiusdemque generis sub aqua defixae sudes flumine tegebantur. His rebus cognitis a captivis perfugisque Caesar praemisso equitatu confestim legiones subsequi iussit. Sed ea celeritate atque eo impetu milites ierunt, cum capite solo ex aqua exstarent, ut hostes impetum legionum atque equitum sustinere non possent ripasque dimitterent ac se fugae mandarent.",
+  "highlight_en": [
+   "Thames"
+  ],
+  "highlight_orig": [
+   "Tamesim"
+  ],
+  "translation": "W. A. McDevitte and W. S. Bohn (1869)",
+  "status": "draft",
+  "source": {
+   "kind": "gutenberg",
+   "id": 18837,
+   "checked": "Project Gutenberg #18837 (Latin, books V–VIII) and #10657 (McDevitte and Bohn), 2026-11-09"
+  },
+  "translation_source": {
+   "kind": "gutenberg",
+   "id": 10657
+  }
+ },
+ {
+  "id": "mwl-1",
+  "book_id": "man-who-laughs",
+  "place_ids": [
+   "isle-of-portland"
+  ],
+  "location": "Part 1, Book 1, Chapter 1, Portland Bill",
+  "location_zh": "第一部第一卷第 1 章《波特兰角》",
+  "text_en": "One evening, towards the close of one of the most bitter days of the month of January, 1690, something unusual was going on in one of the numerous inhospitable bights of the bay of Portland, which caused the sea-gulls and wild geese to scream and circle round its mouth, not daring to re-enter.",
+  "text_orig": "Un soir, vers la fin d'une des plus glaciales journées de ce mois de janvier 1690, il se passait dans une des nombreuses anses inhospitalières du golfe de Portland quelque chose d'inusité qui faisait crier et tournoyer à l'entrée de cette anse les mouettes et les oies de mer, n'osant rentrer.",
+  "highlight_en": [
+   "bay of Portland"
+  ],
+  "highlight_orig": [
+   "golfe de Portland"
+  ],
+  "translation": "anonymous English translation of 1888 (Project Gutenberg #12587)",
+  "status": "draft",
+  "source": {
+   "kind": "gutenberg",
+   "id": 5423,
+   "checked": "Project Gutenberg #5423 (French) and #12587, 2026-11-09"
+  },
+  "translation_source": {
+   "kind": "gutenberg",
+   "id": 12587
+  }
+ },
+ {
+  "id": "mwl-2",
+  "book_id": "man-who-laughs",
+  "place_ids": [
+   "southwark"
+  ],
+  "location": "Part 2, Book 3, Chapter 1, The Tadcaster Inn",
+  "location_zh": "第二部第三卷第 1 章《塔德卡斯特客栈》",
+  "text_en": "The bowling-green of Southwark was called Tarrinzeau Field, because it had belonged to the Barons Hastings, who are also Barons Tarrinzeau and Mauchline. From the Lords Hastings the Tarrinzeau Field passed to the Lords Tadcaster, who had made a speculation of it, just as, at a later date, a Duke of Orleans made a speculation of the Palais Royal. Tarrinzeau Field afterwards became waste ground and parochial property.\nTarrinzeau Field was a kind of permanent fair ground covered with jugglers, athletes, mountebanks, and music on platforms; and always full of \"fools going to look at the devil,\" as Archbishop Sharp said. To look at the devil means to go to the play.",
+  "text_orig": "Le bowling-green de Southwark s'appelait Tarrinzeau-field, pour avoir appartenu jadis aux barons Hastings, qui sont barons Tarrinzeau and Mauchline. Des lords Hastings, le Tarrinzeau-field avait passé aux lords Tadcaster, lesquels l'avaient exploité en lieu public, ainsi que plus tard un duc d'Orléans a exploité le Palais-Royal. Puis le Tarrinzeau-field était devenu vaine pâture et propriété paroissiale.\nLe Tarrinzeau-field était une sorte de champ de foire permanent, encombré d'escamoteurs, d'équilibristes, de bateleurs, et de musiques sur des tréteaux, et toujours plein d'imbéciles qui «viennent regarder le diable», comme disait l'archevêque Sharp. Regarder le diable, c'est aller au spectacle.",
+  "highlight_en": [
+   "Southwark",
+   "Tarrinzeau Field"
+  ],
+  "highlight_orig": [
+   "Southwark",
+   "Tarrinzeau-field"
+  ],
+  "translation": "anonymous English translation of 1888 (Project Gutenberg #12587)",
+  "status": "draft",
+  "source": {
+   "kind": "gutenberg",
+   "id": 5423,
+   "checked": "Project Gutenberg #5423 (French) and #12587, 2026-11-09"
+  },
+  "translation_source": {
+   "kind": "gutenberg",
+   "id": 12587
+  },
+  "keep_breaks": true
+ },
+ {
+  "id": "bb-s1",
+  "kind": "scene",
+  "book_id": "black-butler",
+  "place_ids": [
+   "whitechapel"
+  ],
+  "location": "Volume 2, the Jack the Ripper case",
+  "location_zh": "第 2 卷，开膛手杰克篇",
+  "text_en": "Prostitutes are being murdered in Whitechapel and the Queen sends her Watchdog to find the killer. Ciel Phantomhive and his butler Sebastian work the case with Ciel's aunt Madam Red and the Undertaker, and the trail leads somewhere very close to home.",
+  "text_zh": "白教堂区接连有妓女被杀，女王派她的“看门狗”去查凶手。夏尔·凡多姆海恩和管家塞巴斯蒂安同姨妈红夫人、葬仪屋一起追查，线索最后指向离他们极近的人。",
+  "highlight_en": [
+   "Whitechapel"
+  ],
+  "highlight_zh": [
+   "白教堂区"
+  ],
+  "status": "draft",
+  "fact_source": "https://otakuusamagazine.com/black-butler-vol-2/"
+ },
+ {
+  "id": "bb-s2",
+  "kind": "scene",
+  "book_id": "black-butler",
+  "place_ids": [
+   "southampton"
+  ],
+  "location": "Volume 12, Chapter 51, the luxury liner Campania",
+  "location_zh": "第 12 卷第 51 话，豪华客轮坎帕尼亚号",
+  "text_en": "On 17 April the liner Campania sails from Southampton for America with Ciel, Sebastian and Snake aboard, following the Aurora Society and its promise to raise the dead; the voyage ends in a shipwreck.",
+  "text_zh": "4 月 17 日，豪华客轮坎帕尼亚号从南安普敦启航前往美洲，夏尔、塞巴斯蒂安和斯内克也在船上，为的是追查宣称能让死者复活的曙光会；这趟航行以沉船收场。",
+  "highlight_en": [
+   "Southampton"
+  ],
+  "highlight_zh": [
+   "南安普敦"
+  ],
+  "status": "draft",
+  "fact_source": "https://kuroshitsuji.fandom.com/wiki/Luxury_Liner_Arc"
+ },
+ {
+  "id": "mda-1",
+  "book_id": "le-morte-darthur",
+  "place_ids": [
+   "tintagel-castle"
+  ],
+  "location": "Book I, Chapter 2",
+  "location_zh": "第一卷第 2 章",
+  "text_en": "When the duke had this warning, anon he went and furnished and garnished two strong castles of his, of the which the one hight Tintagil, and the other castle hight Terrabil. So his wife Dame Igraine he put in the castle of Tintagil, and himself he put in the castle of Terrabil, the which had many issues and posterns out.",
+  "highlight_en": [
+   "Tintagil"
+  ],
+  "translation": "original",
+  "status": "draft",
+  "source": {
+   "kind": "gutenberg",
+   "id": 1251,
+   "checked": "Project Gutenberg #1251, 2026-11-09"
+  }
+ },
+ {
+  "id": "mda-2",
+  "book_id": "le-morte-darthur",
+  "place_ids": [
+   "st-pauls"
+  ],
+  "location": "Book I, Chapter 5",
+  "location_zh": "第一卷第 5 章",
+  "text_en": "So in the greatest church of London, whether it were Paul's or not the French book maketh no mention, all the estates were long or day in the church for to pray. And when matins and the first mass was done, there was seen in the churchyard, against the high altar, a great stone four square, like unto a marble stone; and in midst thereof was like an anvil of steel a foot on high, and therein stuck a fair sword naked by the point, and letters there were written in gold about the sword that said thus:—Whoso pulleth out this sword of this stone and anvil, is rightwise king born of all England.",
+  "highlight_en": [
+   "greatest church of London",
+   "Paul's"
+  ],
+  "translation": "original",
+  "status": "draft",
+  "source": {
+   "kind": "gutenberg",
+   "id": 1251,
+   "checked": "Project Gutenberg #1251, 2026-11-09"
+  }
+ },
+ {
+  "id": "mda-3",
+  "book_id": "le-morte-darthur",
+  "place_ids": [
+   "winchester-great-hall"
+  ],
+  "location": "Book II, Chapter 19",
+  "location_zh": "第二卷第 19 章",
+  "text_en": "Also Merlin let make by his subtilty that Balin's sword was put in a marble stone standing upright as great as a mill stone, and the stone hoved always above the water and did many years, and so by adventure it swam down the stream to the City of Camelot, that is in English Winchester.",
+  "highlight_en": [
+   "Camelot, that is in English Winchester"
+  ],
+  "translation": "original",
+  "status": "draft",
+  "source": {
+   "kind": "gutenberg",
+   "id": 1251,
+   "checked": "Project Gutenberg #1251, 2026-11-09"
+  }
+ },
+ {
+  "id": "mda-4",
+  "book_id": "le-morte-darthur",
+  "place_ids": [
+   "glastonbury-abbey"
+  ],
+  "location": "Book XXI, Chapter 11",
+  "location_zh": "第二十一卷第 11 章",
+  "text_en": "Then Sir Launcelot took his eight fellows with him, and on foot they yede from Glastonbury to Almesbury, the which is little more than thirty mile. And thither they came within two days, for they were weak and feeble to go. And when Sir Launcelot was come to Almesbury within the nunnery, Queen Guenever died but half an hour afore.",
+  "highlight_en": [
+   "Glastonbury"
+  ],
+  "translation": "original",
+  "status": "draft",
+  "source": {
+   "kind": "gutenberg",
+   "id": 1252,
+   "checked": "Project Gutenberg #1252, 2026-11-09"
+  }
+ },
+ {
+  "id": "id-1",
+  "book_id": "idylls-of-the-king",
+  "place_ids": [
+   "tintagel-castle"
+  ],
+  "location": "The Coming of Arthur",
+  "location_zh": "《亚瑟的到来》",
+  "text_en": "Sir, for ye know that in King Uther's time\nThe prince and warrior Gorlois, he that held\nTintagil castle by the Cornish sea,\nWas wedded with a winsome wife, Ygerne:\nAnd daughters had she borne him,—one whereof,\nLot's wife, the Queen of Orkney, Bellicent,\nHath ever like a loyal sister cleaved\nTo Arthur,—but a son she had not borne.\nAnd Uther cast upon her eyes of love:\nBut she, a stainless wife to Gorlois,\nSo loathed the bright dishonour of his love,\nThat Gorlois and King Uther went to war:\nAnd overthrown was Gorlois and slain.\nThen Uther in his wrath and heat besieged\nYgerne within Tintagil, where her men,\nSeeing the mighty swarm about their walls,\nLeft her and fled, and Uther entered in,\nAnd there was none to call to but himself.",
+  "highlight_en": [
+   "Tintagil castle by the Cornish sea",
+   "Tintagil"
+  ],
+  "translation": "original",
+  "status": "draft",
+  "source": {
+   "kind": "gutenberg",
+   "id": 610,
+   "checked": "Project Gutenberg #610, 2026-11-09"
+  },
+  "keep_breaks": true
+ },
+ {
+  "id": "id-2",
+  "book_id": "idylls-of-the-king",
+  "place_ids": [
+   "dozmary-pool"
+  ],
+  "location": "The Passing of Arthur",
+  "location_zh": "《亚瑟的逝去》",
+  "text_en": "Then quickly rose Sir Bedivere, and ran,\nAnd, leaping down the ridges lightly, plunged\nAmong the bulrush beds, and clutched the sword,\nAnd strongly wheeled and threw it.  The great brand\nMade lightnings in the splendour of the moon,\nAnd flashing round and round, and whirled in an arch,\nShot like a streamer of the northern morn,\nSeen where the moving isles of winter shock\nBy night, with noises of the Northern Sea.\nSo flashed and fell the brand Excalibur:\nBut ere he dipt the surface, rose an arm\nClothed in white samite, mystic, wonderful,\nAnd caught him by the hilt, and brandished him\nThree times, and drew him under in the mere.",
+  "highlight_en": [
+   "the mere"
+  ],
+  "translation": "original",
+  "status": "draft",
+  "source": {
+   "kind": "gutenberg",
+   "id": 610,
+   "checked": "Project Gutenberg #610, 2026-11-09"
+  },
+  "keep_breaks": true
+ },
+ {
+  "id": "id-3",
+  "book_id": "idylls-of-the-king",
+  "place_ids": [
+   "cadbury-castle"
+  ],
+  "location": "Gareth and Lynette",
+  "location_zh": "《加雷斯与琳内特》",
+  "text_en": "He spake and laughed, then entered with his twain\nCamelot, a city of shadowy palaces\nAnd stately, rich in emblem and the work\nOf ancient kings who did their days in stone;\nWhich Merlin's hand, the Mage at Arthur's court,\nKnowing all arts, had touched, and everywhere\nAt Arthur's ordinance, tipt with lessening peak\nAnd pinnacle, and had made it spire to heaven.\nAnd ever and anon a knight would pass\nOutward, or inward to the hall:  his arms\nClashed; and the sound was good to Gareth's ear.",
+  "highlight_en": [
+   "Camelot, a city of shadowy palaces"
+  ],
+  "translation": "original",
+  "status": "draft",
+  "source": {
+   "kind": "gutenberg",
+   "id": 610,
+   "checked": "Project Gutenberg #610, 2026-11-09"
+  },
+  "keep_breaks": true
+ },
+ {
+  "id": "gk-1",
+  "book_id": "sir-gawain-green-knight",
+  "place_ids": [
+   "luds-church"
+  ],
+  "location": "Fitt IV, stanzas 8–9 (lines 2168–2188)",
+  "location_zh": "第四部分第 8—9 节（第 2168—2188 行）",
+  "text_en": "Then he drew in his horse and looked around to seek the chapel, but he saw none and thought it strange. Then he saw as it were a mound on a level space of land by a bank beside the stream where it ran swiftly, the water bubbled within as if boiling. The knight turned his steed to the mound, and lighted down and tied the rein to the branch of a linden; and he turned to the mound and walked round it, questioning with himself what it might be. It had a hole at the end and at either side, and was overgrown with clumps of grass, and it was hollow within as an old cave or the crevice of a crag; he knew not what it might be.\n\"Ah,\" quoth Gawain, \"can this be the Green Chapel? Here might the devil say his mattins at midnight!",
+  "highlight_en": [
+   "Green Chapel",
+   "an old cave or the crevice of a crag"
+  ],
+  "translation": "Jessie L. Weston (1898)",
+  "status": "draft",
+  "text_orig": "Þenne he houed, & wyth-hylde his hors at þat tyde,\n& ofte chaunged his cher, þe chapel to seche;\nHe seȝ non suche in no syde, & selly hym þoȝt,\nSone a lyttel on a launde, a lawe as hit we[re];\nA balȝ berȝ, bi a bonke, þe brymme by-syde,\nBi a forȝ of a flode, þat ferked þare;\nÞe borne blubred þer-inne, as hit boyled hade.\nÞe knyȝt kacheȝ his caple, & com to þe lawe,\nLiȝteȝ doun luflyly, & at a lynde tacheȝ\nÞe rayne, & his riche, with a roȝe braunche;\nÞen[n]e he boȝeȝ to þe berȝe, aboute hit he walke,\nD[e]batande with hym-self, quat hit be myȝt.\nHit hade a hole on þe ende, & on ayþer syde,\n& ouer-growen with gresse in glodes ay where,\n& al watȝ holȝ in-with, nobot an olde caue,\nOr a creuisse of an olde cragge, he couþe hit noȝt deme\nwith spelle,\n\"We, lorde,\" quod þe gentyle knyȝt,\n\"Wheþer þis be þe grene chapelle;\nHe myȝt aboute myd-nyȝt,\n[Þ]e dele his matynnes telle!\"",
+  "highlight_orig": [
+   "grene chapelle",
+   "an olde caue"
+  ],
+  "source": {
+   "kind": "gutenberg",
+   "id": 14568,
+   "checked": "Project Gutenberg #14568 (Middle English, Richard Morris's edition for the Early English Text Society) and #66084 (Weston); editorial line numbers, sidenote marks and footnote marks removed from the Middle English, yogh restored, 2026-11-09",
+   "edits": "editorial line numbers, sidenote marks and footnote marks removed from the Middle English, yogh restored"
+  },
+  "translation_source": {
+   "kind": "gutenberg",
+   "id": 66084
+  },
+  "keep_breaks": true
+ },
+ {
+  "id": "wb-1",
+  "book_id": "roman-de-brut",
+  "place_ids": [
+   "caerleon"
+  ],
+  "location": "Arthur's crowning at Caerleon",
+  "location_zh": "亚瑟在卡利恩加冕",
+  "text_en": "Arthur commanded all his lords on their allegiance to meet him at Caerleon in Glamorgan. He desired to be crowned king in Caerleon, because it was rich beyond other cities, and marvellously pleasant and fair. Pilgrims told in those days that the mansions of Caerleon were more desirable than the palaces of Rome. This rich city, Caerleon, was builded on the Usk, a river which falls within the Severn. He who came to the city from a strange land, might seek his haven by this fair water. On one side of the town flowed this clear river; whilst on the other spread a thick forest. Fish were very plentiful in the river, and of venison the burgesses had no lack. Passing fair and deep were the meadows about the city, so that the barns and granges were very rich.",
+  "highlight_en": [
+   "Caerleon"
+  ],
+  "translation": "Eugene Mason (1912)",
+  "status": "draft",
+  "source": {
+   "kind": "gutenberg",
+   "id": 10472,
+   "checked": "Project Gutenberg #10472 (Eugene Mason's translation, 1912), 2026-11-09"
+  }
+ },
+ {
+  "id": "wb-2",
+  "book_id": "roman-de-brut",
+  "place_ids": [
+   "winchester-great-hall"
+  ],
+  "location": "The Round Table",
+  "location_zh": "圆桌",
+  "text_en": "Because of these noble lords about his hall, of whom each knight pained himself to be the hardiest champion, and none would count him the least praiseworthy, Arthur made the Round Table, so reputed of the Britons. This Round Table was ordained of Arthur that when his fair fellowship sat to meat their chairs should be high alike, their service equal, and none before or after his comrade. Thus no man could boast that he was exalted above his fellow, for all alike were gathered round the board, and none was alien at the breaking of Arthur's bread.",
+  "highlight_en": [
+   "Round Table"
+  ],
+  "translation": "Eugene Mason (1912)",
+  "status": "draft",
+  "source": {
+   "kind": "gutenberg",
+   "id": 10472,
+   "checked": "Project Gutenberg #10472 (Eugene Mason's translation, 1912), 2026-11-09"
+  }
+ },
+ {
+  "id": "wb-3",
+  "book_id": "roman-de-brut",
+  "place_ids": [
+   "slaughterbridge",
+   "glastonbury-abbey"
+  ],
+  "location": "Arthur's last battle",
+  "location_zh": "亚瑟的最后一战",
+  "text_en": "The battle was arrayed on the Camel, over against the entrance to Cornwall. A bitter hatred had drawn the hosts together, so that they strove to do each other sore mischief. Their malice was wondrous great, and the murder passing grim. I cannot say who had the better part. I neither know who lost, nor who gained that day. No man wists the name of overthrower or of overthrown. All are alike forgotten, the victor with him who died. Much people were slain on either side, so that the field was strewn with the dead, and crimson with the blood of dying men. There perished the brave and comely youth Arthur had nourished and gathered from so many and far lands. There also the knights of his Table Round, whose praise was bruited about the whole world. There, too, was Mordred slain in the press, together with the greater part of his folk, and in the selfsame day were destroyed the flower of Arthur's host, the best and hardiest of his men. So the chronicle speaks sooth, Arthur himself was wounded in his body to the death. He caused him to be borne to Avalon for the searching of his hurts. He is yet in Avalon, awaited of the Britons; for as they say and deem he will return from whence he went and live again.",
+  "highlight_en": [
+   "Camel",
+   "Avalon"
+  ],
+  "translation": "Eugene Mason (1912)",
+  "status": "draft",
+  "source": {
+   "kind": "gutenberg",
+   "id": 10472,
+   "checked": "Project Gutenberg #10472 (Eugene Mason's translation, 1912), 2026-11-09"
+  }
+ },
+ {
+  "id": "ofk-s1",
+  "kind": "scene",
+  "book_id": "once-and-future-king",
+  "place_ids": [
+   "st-pauls"
+  ],
+  "location": "Book I, The Sword in the Stone, final chapters",
+  "location_zh": "第一部《石中剑》末尾几章",
+  "text_en": "Sir Ector takes the household to London for the tournament at which Kay is to be knighted. Kay leaves his sword at the inn; the Wart, sent back for it, finds the inn locked and instead pulls a sword from an anvil on a stone in a churchyard — Malory's 'greatest church of London, whether it were Paul's or not'. On the third pull it comes free, and the Wart is king.",
+  "text_zh": "埃克托爵士带全家到伦敦参加比武大会，凯要在会上受封骑士。凯把剑忘在客栈，瓦特被打发回去取，客栈却锁着门，他就从教堂墓地里一块石头上的铁砧中拔出了一把剑——马洛礼写的是“伦敦最大的教堂，不知是不是圣保罗”。拔到第三下剑出来了，瓦特成了国王。",
+  "highlight_en": [
+   "churchyard",
+   "greatest church of London"
+  ],
+  "highlight_zh": [
+   "教堂墓地",
+   "伦敦最大的教堂"
+  ],
+  "status": "draft",
+  "fact_source": "https://en.wikipedia.org/wiki/The_Sword_in_the_Stone_(novel)"
  }
 ]

@@ -1,10 +1,10 @@
-# 内容数据包格式（Content Pack）· v1.2
+# 内容数据包格式（Content Pack）· v1.3
 
 | 项 | 内容 |
 |---|---|
 | 用途 | 把一个国家（或地区）的书、地点、摘句、照片清单，按固定格式交给 The Reader's Atlas 导入。写内容的人或 AI 只需要按这个格式产出文件，不需要碰网站代码 |
 | 提出 | 2026-11-08（用户决定：美国、中国、欧洲的内容可以交给其他 AI 产出，直接导入） |
-| 导入工具 | `python3 -I tools/import_pack.py packs/<国家> [--dry-run]`（11-09 完成）：机器核对形状、id、引用、古登堡原文逐字、高亮、版权、坐标落区、作者拼法、照片许可，写 `IMPORT.md`；之后跑 `node tools/validate.js <国家>` |
+| 导入工具 | `python3 -I tools/import_pack.py packs/<国家> [--dry-run]`（11-09 完成）：机器核对形状、id、引用、古登堡原文逐字、高亮、版权、坐标落区、作者拼法、照片许可，写 `IMPORT.md`；之后跑 `node tools/validate.js <国家>`。反方向：`python3 -I tools/export_pack.py <国家>` 把网站数据导出成包（11-10），用来交给别人续做 |
 | 关联 | `docs/week1-uk-spec.md` 第 6 节（数据规格）、6.6（审核流程）、`docs/plan-week2-5.md` |
 | 样例 | `packs/uk/`：英国数据反向导出的样例包（11-08）。给 Codex 做美国包的任务说明在 `packs/us-brief.md`，选题名单在 `tools/canon-us.json`，已占用的 id 在 `packs/existing-ids.json` |
 
@@ -74,7 +74,7 @@ packs/<country>/            country 用 ISO 3166-1 两位小写代码：us、cn�
 ]
 ```
 
-- `public_domain` 按作者去世是否满 70 年判断（以网站所在的英国规则为准，不按美国的出版年规则）。拿不准就填 `false`，宁可只写场景说明。
+- `public_domain` 按作者去世是否满 70 年判断（以网站所在的英国规则为准，不按美国的出版年规则）。**中国作品例外：按中国著作权法，作者去世满 50 年即为 `true`**（11-10 决定 A-23）。拿不准就填 `false`，宁可只写场景说明。
 - 原作不是英文的书，加 `title_orig`、`author_orig`（原文书名和作者名，只用于搜索），`orig_lang` 用 BCP-47（`zh`、`fr`、`de`、`ru`、`it`、`es`、`la`……）。
 - 一本书只填一位作者。合著的书，第二位作者放进 `aliases`，这样能搜到。
 - 同一位作者的 `author` 拼法在所有包里必须完全一致（比如都写 `Mark Twain`，不要一处 `Samuel Clemens`）。网站按这个字符串聚合作者页。
@@ -123,9 +123,12 @@ packs/<country>/            country 用 ISO 3166-1 两位小写代码：us、cn�
 }
 ```
 
-- `source.kind` 可以是 `gutenberg`（给编号）、`wikisource`（给页面 URL）、`aozora`（青空文库，给 URL）、`ctext`（中国哲学书电子化计划，给 URL）。 样例包里有 10 条 `kind: "other"`，是英国早期用网页阅读工具核对的旧条目，新包不要用这个值。脚本从这里取原文逐字比对；`…` 表示省略了中间不相邻的部分，省略号前后各自比对。
+- `source.kind` 可以是 `gutenberg`（给编号）、`wikisource`（给页面 URL）、`aozora`（青空文库，给 URL）、`ctext`（中国哲学书电子化计划，给 URL）。 样例包里有 4 条 `kind: "other"`，是英国早期用网页阅读工具核对的旧条目，新包不要用这个值。古登堡来源由脚本下载原文逐字比对；`wikisource`、`aozora`、`ctext` 目前只记录，脚本把它们列进 `IMPORT.md`，审核时人工核对。`…` 表示省略了中间不相邻的部分，省略号前后各自比对。
+- 比对时会容忍这些差别（照样通过，但列进 `IMPORT.md`）：大小写（古登堡把章首词排成大写）、行号和诗节号、`[2]` 这类注码、行末断词的连字符、两行之间被略去的小标题或人名。其他差别一律拒收；如果是有意的编辑（比如去掉了原书的旁注、恢复了古字母），在 `source.edits` 里写清楚，脚本改为列给审核人。
+- 诗或分段的文本：`text_en` 里用 `\n` 断行，并加 `"keep_breaks": true`，导入时按原样保留每一行；不加的话，导入器会把古登堡的硬换行合并成一段一行。
+- `source.checked`（可选）：已有的核对记录，导入时原样写进网站数据的 `checked` 字段；导出的包里每条都有，新包不用填。
 - `location` 英文用阿拉伯数字（`Chapter 7`、`Book 2, Chapter 3`、`Act 4, Scene 1`），有标题的章写标题。
-- 原作不是英文：`text_orig` 填原文，`text_en` 填英译，`translation` 填译本名称和译者（如 `Constance Garnett (1912)`），并加 `translation_source: { kind, id | url }` 指向这个译本的公有领域全文，脚本同样逐字核对译文。**没有公有领域英译的，暂时不收这条**（中国部分的英译方案待定，见 `week1-uk-spec.md` D-5）。
+- 原作不是英文：`text_orig` 填原文，`text_en` 填英译，`translation` 填译本名称和译者（如 `Constance Garnett (1912)`），并加 `translation_source: { kind, id | url }` 指向这个译本的公有领域全文，脚本同样逐字核对译文（这时 `source` 指原文，核对 `text_orig`）。**没有公有领域英译的，暂时不收这条**（中国部分的英译方案待定，见 `week1-uk-spec.md` D-5）。
 - `highlight_en`（和 `highlight_orig`）里的词必须在对应文本里原样出现。
 - 一本书 1–10 条，宁少勿滥。每条都要真的写到那个地点：这个地方在这段文字里有分量（场景、感受、描写），不是顺带提到地名、过境、统计或里程（11-09 补充）。
 
@@ -201,4 +204,5 @@ packs/<country>/            country 用 ISO 3166-1 两位小写代码：us、cn�
 |---|---|---|
 | 2026-11-08 | v1.0 | 首版 |
 | 2026-11-08 | v1.1 | 加样例包 `packs/uk/`、美国任务说明和名单的指引 |
+| 2026-11-10 | v1.3 | R-8 收尾：写明哪些来源脚本会逐字核对、哪些列给审核人；比对容忍的差别；`source.edits`、`keep_breaks`、`source.checked`；导出工具 `export_pack.py`；样例包 `packs/uk/` 按现在的数据重新导出 |
 | 2026-11-09 | v1.2 | 美国第一批导入后的补充：摘句须是“地方有分量”的段落；场景说明写具体的一刻、`highlight_zh` 必填；`note`、`note_en`、`prototype_of(_en)` 末尾不带句号（导入器也会去掉）；行 id 以国家代码开头（如 `us`）；交付前在仓库根目录跑 `python3 -I tools/import_pack.py packs/<国家> --dry-run`，0 错误再交 |

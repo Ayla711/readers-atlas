@@ -7,14 +7,24 @@ What the machine checks (a failure stops the import; nothing is written):
   1. shape: required fields per record, known place types, ids in the pack's own format
   2. ids: unique inside the pack and against every other country's data
   3. references: every line's book and places exist; every pilgrimage place's books exist
-  4. text: every quotation (a line with source.kind == "gutenberg") is found word for word in the Gutenberg file,
-     after the same normalisation the app's own batches use (curly quotes, -- as em dash, whitespace)
+  4. text: every quotation is found word for word in its Project Gutenberg source, after the same normalisation the
+     app's own batches use (curly quotes, -- as em dash, whitespace); "…" marks a cut and each side is checked on
+     its own. A text that only matches after ignoring capitals (Gutenberg sets chapter openings in caps), line
+     numbers, footnote marks like [2] and line-end hyphens, or with a short heading or speaker name between two of
+     its lines, passes with a note in IMPORT.md; source.edits (a note on
+     deliberate editorial changes) turns a remaining mismatch into a note for the reviewer.
+     With text_orig, source checks text_orig and translation_source checks text_en. Sources of another
+     kind (wikisource, aozora, ctext, other) are listed in IMPORT.md for the reviewer to check by hand.
   5. highlights: every highlighted word occurs in the text it highlights
-  6. copyright: a book with public_domain false has scene notes only
+  6. copyright: a book with public_domain false has scene notes only, except quotations whose source is Project
+     Gutenberg (public domain in the US; the UK sample has a few, rechecked before public release, plan R-4)
   7. places: each falls in one of the country's admin-1 regions (or within 8 km of the simplified coast); when the
      pack's REPORT.md has the "每州地点数量" table, the region must match it
   8. authors: an author already present in another country is spelled the same, with the same Chinese name
   9. photos: the Commons file page is read again, the licence must be CC0 / public domain / CC BY / CC BY-SA
+A line with "keep_breaks": true keeps its line breaks as written (verse, or a text already in the app's one-line-
+per-paragraph form); other texts are reflowed. source.checked, when given, is kept as the line's checked record.
+With --no-photos, places keep the photo they already have in data/<country>/places.js.
 What it writes: data/<country>/{books,places,lines}.js (regenerated from the pack), images/places/<id>.jpg,
 rows in docs/photo-credits.md, and <pack_dir>/IMPORT.md with every warning. Content stays status "draft".
 Gutenberg texts are read from cache/pg/<n>.txt and downloaded there when missing.
@@ -124,7 +134,7 @@ for l in lines:
             err(f"line {l['id']}: place {pid} is not in the pack")
     if l.get("status") not in ("draft", "reviewed", "rejected"):
         err(f"line {l['id']}: status must be draft, reviewed or rejected")
-used_places = {pid for l in lines for pid in l.get("place_ids", [])} | {p["id"] for p in places if p.get("place_type") == "pilgrimage"}
+used_places = {pid for l in lines for pid in l.get("place_ids", [])} | {p["id"] for p in places if p.get("place_type") in ("pilgrimage", "film_location")}
 for p in places:
     if p["id"] not in used_places:
         warn(f"place {p['id']}: no line points to it")
@@ -142,9 +152,10 @@ def norm(s):
     return s
 def flat(s):
     return re.sub(r"\s+", " ", norm(s)).strip()
-def reflow(s):
-    """Gutenberg hard wraps -> the app's convention: one line per paragraph, paragraphs joined by a newline"""
-    paras = re.split(r"\n\s*\n", norm(s).strip())
+def reflow(s, english=True):
+    """Gutenberg hard wraps -> the app's convention: one line per paragraph, paragraphs joined by a newline.
+    English text also gets the app's straight quotes; an original in another language keeps its own punctuation"""
+    paras = re.split(r"\n\s*\n", (norm(s) if english else s.replace("\r", "")).strip())
     return "\n".join(re.sub(r"\s+", " ", p).strip() for p in paras if p.strip())
 PG_DIR = os.path.join(APP, "cache", "pg")
 _pg = {}
@@ -164,13 +175,77 @@ def gutenberg(n):
             err(f"Gutenberg #{n}: could not download ({e})")
             _pg[n] = None
             return None
-    _pg[n] = flat(open(path, encoding="utf-8", errors="replace").read())
+    raw = open(path, encoding="utf-8", errors="replace").read()
+    _pg[n] = (flat(raw), loose(raw))
     return _pg[n]
+def in_order(piece, lenient, gap=120):
+    """each line of a multi-line text found in order, with at most `gap` characters between (a heading, a stage
+    direction or a speaker's name the quotation leaves out)"""
+    parts = [loose(x) for x in piece.split("\n") if loose(x)]
+    if len(parts) < 2:
+        return False
+    i = lenient.find(parts[0])
+    while i != -1:
+        pos, ok = i + len(parts[0]), True
+        for q in parts[1:]:
+            j = lenient.find(q, pos)
+            if j == -1 or j - pos > gap:
+                ok = False
+                break
+            pos = j + len(q)
+        if ok:
+            return True
+        i = lenient.find(parts[0], i + 1)
+    return False
+def loose(s):
+    s = flat(s).lower().replace("ȝ", "3")
+    s = re.sub(r"\[[^\]]{1,12}\]", "", s)                       # footnote and sidenote marks: [2] [ii] [295:2] [D]
+    s = re.sub(r"(?<!\S)(\d{1,4}|[xivlc]{1,7}\.)(?!\S)", " ", s)   # line numbers, stanza numbers
+    s = re.sub(r"\s*—\s*", "—", s)
+    s = re.sub(r"(\w)- (\w)", r"\1-\2", s)                      # hyphen at a line end
+    return re.sub(r"\s+", " ", s).strip()
+us_pd = set()
+SOURCE_KINDS = {"gutenberg", "wikisource", "aozora", "ctext", "other"}
+unchecked, loosely = [], []
+def check_text(l, field, src):
+    kind = src.get("kind")
+    if kind not in SOURCE_KINDS:
+        err(f"line {l['id']}: {field} needs a source with kind one of {', '.join(sorted(SOURCE_KINDS))}")
+        return
+    if kind != "gutenberg":
+        if not (src.get("url") or src.get("checked") or src.get("note")):
+            err(f"line {l['id']}: a {kind} source needs a url")
+        unchecked.append(f"`{l['id']}` {field}: {kind} — {src.get('url') or src.get('checked') or src.get('note')}")
+        return
+    if not src.get("id"):
+        err(f"line {l['id']}: a gutenberg source needs its id")
+        return
+    got = gutenberg(src["id"])
+    if got is None:
+        return
+    strict, lenient = got
+    how = "exact"
+    for piece in re.split(r"\s*…\s*", l[field]):
+        if not flat(piece) or flat(piece) in strict:
+            continue
+        if loose(piece) in lenient or in_order(piece, lenient):
+            how = "loose"
+            continue
+        if src.get("edits"):
+            unchecked.append(f"`{l['id']}` {field}: differs from Gutenberg #{src['id']} by the editing noted in the source — {src['edits']}")
+            return
+        err(f"line {l['id']}: {field} is not found word for word in Gutenberg #{src['id']}" + (f" (part: {flat(piece)[:50]!r}…)" if "…" in l[field] else ""))
+        return
+    if how == "loose":
+        loosely.append(f"`{l['id']}` {field}")
 for l in lines:
     scene = l.get("kind") == "scene"
     b = B.get(l.get("book_id"), {})
     if not scene and b and not b.get("public_domain"):
-        err(f"line {l['id']}: quotes from {b['id']}, which is not public domain — only scene notes are allowed")
+        if (l.get("source") or {}).get("kind") == "gutenberg":
+            us_pd.add(b["id"])
+        else:
+            err(f"line {l['id']}: quotes from {b['id']}, which is not public domain — only scene notes are allowed")
     if scene:
         if not (l.get("text_zh") and l.get("highlight_zh") is not None):
             err(f"line {l['id']}: a scene note needs text_zh and highlight_zh")
@@ -178,18 +253,25 @@ for l in lines:
             warn(f"line {l['id']}: scene note without fact_source")
     else:
         src = l.get("source") or {}
-        if src.get("kind") != "gutenberg" or not src.get("id"):
-            err(f"line {l['id']}: a quotation needs source {{kind: gutenberg, id}} so the text can be checked")
+        if l.get("text_orig"):
+            check_text(l, "text_orig", src)
+            if l.get("translation_source"):
+                check_text(l, "text_en", l["translation_source"])
+            elif l.get("translation") == "original":
+                check_text(l, "text_en", src)
+            else:
+                unchecked.append(f"`{l['id']}` text_en: translation {l.get('translation', '?')!r} has no translation_source")
         else:
-            t = gutenberg(src["id"])
-            if t is not None and flat(l["text_en"]) not in t:
-                err(f"line {l['id']}: text_en is not found word for word in Gutenberg #{src['id']}")
+            check_text(l, "text_en", src)
     for h in l.get("highlight_en", []):
         if flat(h) not in flat(l["text_en"]):
             err(f"line {l['id']}: highlight {h!r} is not in text_en")
     for h in l.get("highlight_zh", []) or []:
         if h not in (l.get("text_zh") or ""):
             err(f"line {l['id']}: highlight {h!r} is not in text_zh")
+
+if us_pd:
+    warn(f"quotations from books marked public_domain false, taken from Project Gutenberg (US public domain; recheck before public release): {', '.join(sorted(us_pd))}")
 
 # ---------- 7 places in regions ----------
 def in_ring(x, y, ring):
@@ -243,7 +325,15 @@ for p in places:
         continue
     if km > 0:
         warn(f"place {p['id']}: {km:.1f} km off the simplified coastline, counted in {rid}")
-    if p["id"] in expected and expected[p["id"]] != rid:
+    if p.get("region") and p["region"] != rid:
+        dist = dist_to_region(lon, lat, p["region"]) if any(r["id"] == p["region"] for r in geo["regions"]) else 1e9
+        if dist <= 5:
+            region_fix[p["id"]] = p["region"]
+            warn(f"place {p['id']}: on the simplified map it falls in {rid}; region field keeps it in {p['region']} ({dist:.1f} km)")
+            rid = p["region"]
+        else:
+            err(f"place {p['id']}: region {p['region']} given, but the point falls in {rid}")
+    elif p["id"] in expected and expected[p["id"]] != rid:
         # the simplified border can put a riverbank or lakeshore town on the wrong side: accept the pack's region
         # when the point is within 5 km of it, and store it on the place (the app and validate.js honour it)
         want = expected[p["id"]]
@@ -322,6 +412,9 @@ def thumb(orig, width=960):  # Commons serves only its standard thumbnail widths
     m = re.match(r"https://upload\.wikimedia\.org/wikipedia/commons/(\w)/(\w\w)/(.+)$", orig)
     return f"https://upload.wikimedia.org/wikipedia/commons/thumb/{m.group(1)}/{m.group(2)}/{m.group(3)}/{width}px-{m.group(3)}" if m else orig
 photo_out, credit_rows = {}, []
+old_photo = {}
+if A.no_photos and os.path.exists(os.path.join(APP, f"data/{C}/places.js")):
+    old_photo = {p["id"]: p["photo"] for p in node_json([os.path.join(APP, f"data/{C}/places.js")])["places"] if p.get("photo")}
 for pid, ph in photos.items():
     if pid not in P:
         err(f"photo {pid}: no such place in the pack")
@@ -364,6 +457,8 @@ for pid, ph in photos.items():
 lines_md = [f"# 导入报告 · {meta.get('country_name', C)} · {A.date}", "",
             f"包：{len(books)} 本书、{len(places)} 个地点、{len(lines)} 条摘句和场景说明、{len(photos)} 张照片。", "",
             f"## 错误（{len(errors)}）", ""] + [f"- {e}" for e in errors] + ["", f"## 提示（{len(warnings)}）", ""] + [f"- {w}" for w in warnings] + \
+           ["", f"## 脚本没有逐字核对的文本（{len(unchecked)}，审核时人工核对）", ""] + [f"- {u}" for u in unchecked] + \
+           ["", f"## 忽略大小写、行号、注码后才对上的文本（{len(loosely)}）", ""] + [f"- {u}" for u in loosely] + \
            ["", "## 每个一级区的地点数", "", "| 区 | 地点 |", "|---|---:|"] + \
            [f"| {r['name']} | {region_count.get(r['id'], 0)} |" for r in geo["regions"]]
 open(os.path.join(PACK, "IMPORT.md"), "w", encoding="utf-8").write("\n".join(lines_md) + "\n")
@@ -388,11 +483,12 @@ def write(name, header, var, recs):
 src_note = f"// Imported from packs/{os.path.basename(PACK)} ({meta.get('produced_by', '?')}, {meta.get('produced_at', '?')}) by tools/import_pack.py on {A.date}. Edit the pack and re-import rather than editing this file.\n"
 out_books = []
 for b in books:
-    d = {k: b[k] for k in ["id", "title", "title_zh", "title_orig", "author", "author_zh", "author_orig", "year", "orig_lang", "public_domain", "source_url", "aliases", "orig_note"] if k in b and b[k] not in (None, [])}
+    d = {k: b[k] for k in ["id", "title", "title_zh", "title_orig", "author", "author_zh", "author_orig", "year", "orig_lang", "public_domain", "source_url", "aliases", "orig_note"] if k in b and (b[k] is not None or k == "source_url")}
     out_books.append(d)
 out_places = []
 for p in places:
     d = {"id": p["id"], "country": C}
+    p = {k: v for k, v in p.items() if k != "region"}
     d.update({k: v for k, v in p.items() if k not in ("id", "country") and v not in (None, [])})
     for k in ("note", "note_en", "prototype_of", "prototype_of_en", "scene", "scene_en"):
         if isinstance(d.get(k), str):
@@ -401,22 +497,37 @@ for p in places:
         d["region"] = region_fix[p["id"]]
     if p["id"] in photo_out:
         d["photo"] = photo_out[p["id"]][1]
+    elif p["id"] in photos and p["id"] in old_photo:
+        d["photo"] = old_photo[p["id"]]
     out_places.append(d)
 out_lines = []
 for l in lines:
-    d = {k: v for k, v in l.items() if k not in ("source",)}
+    d = {k: v for k, v in l.items() if k not in ("source", "translation_source", "keep_breaks")}
     if l.get("kind") != "scene":
-        d["text_en"] = reflow(l["text_en"])
+        if l.get("keep_breaks"):
+            d["text_en"] = norm(l["text_en"]).strip()
+            if l.get("text_orig"):
+                d["text_orig"] = l["text_orig"].replace("\r", "").strip()
+        else:
+            d["text_en"] = reflow(l["text_en"])
+            if l.get("text_orig"):
+                d["text_orig"] = reflow(l["text_orig"], english=False)
         d["highlight_en"] = [flat(h) for h in l["highlight_en"]]
         d.setdefault("translation", "original")
-        d["checked"] = f"Project Gutenberg #{l['source']['id']}{D}"
+        src, ts = l["source"], l.get("translation_source") or {}
+        if src.get("checked"):
+            d["checked"] = src["checked"]
+        elif src["kind"] == "gutenberg":
+            d["checked"] = f"Project Gutenberg #{src['id']}" + (f" and #{ts['id']}" if ts.get("kind") == "gutenberg" else "") + D
+        else:
+            d["checked"] = f"{src['kind'].capitalize()} {src.get('url') or src.get('note')}{D}"
     else:
         d["text_en"] = flat(l["text_en"])
         d["highlight_en"] = [flat(h) for h in l["highlight_en"]]
     out_lines.append(d)
 write("books.js", src_note, "books", out_books)
 write("places.js", src_note + "// Each place's admin-1 region is worked out from its coordinates by app.js.\n", "places", out_places)
-write("lines.js", src_note + "// Quotations were checked word for word against the Gutenberg text on import; status stays draft until reviewed.\n", "lines", out_lines)
+write("lines.js", src_note + "// Gutenberg quotations were checked word for word on import (other sources by hand: see the pack's IMPORT.md); status changes only through review (tools/apply_review.py).\n", "lines", out_lines)
 for pid, (im, ph) in photo_out.items():
     im.save(os.path.join(APP, ph["file"]), "JPEG", quality=82, optimize=True, progressive=True)
 if credit_rows:

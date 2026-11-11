@@ -1832,5 +1832,161 @@
   "aliases": [
    "玛蒂达"
   ]
+ },
+ {
+  "id": "three-musketeers",
+  "title": "The Three Musketeers",
+  "title_zh": "三个火枪手",
+  "title_orig": "Les Trois Mousquetaires",
+  "author": "Alexandre Dumas",
+  "author_zh": "大仲马",
+  "author_orig": "Alexandre Dumas",
+  "year": "1844",
+  "orig_lang": "fr",
+  "public_domain": true,
+  "source_url": "https://www.gutenberg.org/ebooks/1257",
+  "aliases": [
+   "三剑客",
+   "The Three Musketeers"
+  ]
+ },
+ {
+  "id": "gallic-war",
+  "title": "Commentaries on the Gallic War",
+  "title_zh": "高卢战记",
+  "title_orig": "Commentarii de Bello Gallico",
+  "author": "Julius Caesar",
+  "author_zh": "恺撒",
+  "author_orig": "C. Iulius Caesar",
+  "year": "c. 50 BC",
+  "orig_lang": "la",
+  "public_domain": true,
+  "source_url": "https://www.gutenberg.org/ebooks/10657",
+  "aliases": [
+   "De Bello Gallico",
+   "The Gallic Wars",
+   "凯撒",
+   "高卢战纪"
+  ]
+ },
+ {
+  "id": "man-who-laughs",
+  "title": "The Man Who Laughs",
+  "title_zh": "笑面人",
+  "title_orig": "L'Homme qui rit",
+  "author": "Victor Hugo",
+  "author_zh": "雨果",
+  "author_orig": "Victor Hugo",
+  "year": "1869",
+  "orig_lang": "fr",
+  "public_domain": true,
+  "source_url": "https://www.gutenberg.org/ebooks/12587",
+  "aliases": [
+   "By Order of the King"
+  ]
+ },
+ {
+  "id": "black-butler",
+  "title": "Black Butler",
+  "title_zh": "黑执事",
+  "title_orig": "黒執事",
+  "author": "Yana Toboso",
+  "author_zh": "枢梁",
+  "author_orig": "枢やな",
+  "year": "2006–",
+  "orig_lang": "ja",
+  "public_domain": false,
+  "source_url": null,
+  "aliases": [
+   "Kuroshitsuji",
+   "黒執事"
+  ]
+ },
+ {
+  "id": "le-morte-darthur",
+  "title": "Le Morte d'Arthur",
+  "title_zh": "亚瑟王之死",
+  "author": "Thomas Malory",
+  "author_zh": "托马斯·马洛礼",
+  "year": "1485",
+  "orig_lang": "en",
+  "public_domain": true,
+  "source_url": "https://www.gutenberg.org/ebooks/1251",
+  "aliases": [
+   "Morte d'Arthur",
+   "Le Morte Darthur",
+   "亚瑟王之死",
+   "King Arthur"
+  ]
+ },
+ {
+  "id": "idylls-of-the-king",
+  "title": "Idylls of the King",
+  "title_zh": "国王叙事诗",
+  "author": "Alfred, Lord Tennyson",
+  "author_zh": "丁尼生",
+  "year": "1859–1885",
+  "orig_lang": "en",
+  "public_domain": true,
+  "source_url": "https://www.gutenberg.org/ebooks/610",
+  "aliases": [
+   "国王之歌",
+   "国王牧歌",
+   "The Passing of Arthur"
+  ]
+ },
+ {
+  "id": "sir-gawain-green-knight",
+  "title": "Sir Gawain and the Green Knight",
+  "title_zh": "高文爵士与绿骑士",
+  "title_orig": "Sir Gawayn and þe Grene Knyȝt",
+  "author": "Anonymous (the Gawain Poet)",
+  "author_zh": "佚名（高文诗人）",
+  "year": "c. 1375–1400",
+  "orig_lang": "enm",
+  "public_domain": true,
+  "source_url": "https://www.gutenberg.org/ebooks/66084",
+  "aliases": [
+   "Gawain",
+   "the Pearl Poet",
+   "高文与绿骑士",
+   "绿衣骑士"
+  ]
+ },
+ {
+  "id": "roman-de-brut",
+  "title": "Roman de Brut",
+  "title_zh": "布鲁特传奇",
+  "title_orig": "Roman de Brut",
+  "author": "Wace",
+  "author_zh": "瓦斯",
+  "author_orig": "Wace",
+  "year": "1155",
+  "orig_lang": "fr",
+  "public_domain": true,
+  "source_url": "https://www.gutenberg.org/ebooks/10472",
+  "aliases": [
+   "Brut",
+   "Arthurian Chronicles",
+   "Geste des Bretons",
+   "瓦斯"
+  ],
+  "orig_note": "Anglo-Norman French; no public-domain digital edition of the original is available, so the excerpts give Eugene Mason's 1912 translation only"
+ },
+ {
+  "id": "once-and-future-king",
+  "title": "The Once and Future King",
+  "title_zh": "永恒之王",
+  "author": "T. H. White",
+  "author_zh": "T. H. 怀特",
+  "year": "1958",
+  "orig_lang": "en",
+  "public_domain": false,
+  "source_url": null,
+  "aliases": [
+   "The Sword in the Stone",
+   "石中剑",
+   "亚瑟王传奇"
+  ]
  }
 ]

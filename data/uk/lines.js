@@ -17,11 +17,11 @@ window.RA_DATA.lines = [
     highlight_en: ["England", "Canterbury"], highlight_orig: ["Engelond", "Caunterbury"], translation: "own", status: "reviewed", checked: "Project Gutenberg #22120 (Skeat, Middle English), 2026-11-03" },
 
   { id: "r2-1", book_id: "richard-ii", place_ids: ["ely-place"], location: "Act 2, Scene 1 (set at Ely House)", location_zh: "第二幕第一场（剧情设在伊利府）",
-    text_en: "This royal throne of kings, this scepter'd isle,\n…\nThis blessed plot, this earth, this realm, this England,",
-    highlight_en: ["England", "scepter'd isle"], translation: "original", status: "reviewed", checked: "Project Gutenberg #1512, 2026-11-03" },
+    text_en: "This royal throne of kings, this sceptered isle,\n…\nThis blessed plot, this earth, this realm, this England,",
+    highlight_en: ["England", "sceptered isle"], translation: "original", status: "reviewed", checked: "Project Gutenberg #1512, 2026-11-03" },
 
   { id: "mac-1", book_id: "macbeth", place_ids: ["inverness"], location: "Act 1, Scene 6 (before Macbeth's castle at Inverness)", location_zh: "第一幕第六场（麦克白的因弗内斯城堡前）",
-    text_en: "This castle hath a pleasant seat: the air\nNimbly and sweetly recommends itself\nUnto our gentle senses.",
+    text_en: "This castle hath a pleasant seat. The air\nNimbly and sweetly recommends itself\nUnto our gentle senses.",
     highlight_en: ["castle"], translation: "original", status: "reviewed", checked: "Project Gutenberg #1533, 2026-11-03" },
   { id: "mac-2", book_id: "macbeth", place_ids: ["birnam", "dunsinane"], location: "Act 4, Scene 1", location_zh: "第四幕第一场",
     text_en: "Macbeth shall never vanquish'd be, until\nGreat Birnam wood to high Dunsinane hill\nShall come against him.",
@@ -63,7 +63,7 @@ window.RA_DATA.lines = [
     highlight_en: ["the Cobb", "little bay"], translation: "original", status: "reviewed", checked: "Project Gutenberg #105, 2026-11-03" },
 
   { id: "wh-1", book_id: "wuthering-heights", place_ids: ["top-withens"], location: "Chapter 1", location_zh: "第 1 章",
-    text_en: "'Wuthering' being a significant provincial adjective, descriptive of the atmospheric tumult to which its station is exposed in stormy weather.",
+    text_en: "\"Wuthering\" being a significant provincial adjective, descriptive of the atmospheric tumult to which its station is exposed in stormy weather.",
     highlight_en: ["Wuthering"], translation: "original", status: "reviewed", checked: "Project Gutenberg #768, 2026-11-03" },
   { id: "wh-2", book_id: "wuthering-heights", place_ids: ["top-withens"], location: "Chapter 34 (closing lines)", location_zh: "第 34 章（结尾）",
     text_en: "I lingered round them, under that benign sky: watched the moths fluttering among the heath and harebells, listened to the soft wind breathing through the grass, and wondered how any one could ever imagine unquiet slumbers for the sleepers in that quiet earth.",

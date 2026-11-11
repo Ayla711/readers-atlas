@@ -285,7 +285,7 @@
     blockerTimer = setTimeout(() => {
       const feats = [];
       for (const g of markerNodes.values()) {
-        if (g.style.display === "none") continue;
+        if (markerOff(g)) continue;
         const p = places.get(g.dataset.id);
         const label = g.querySelector(".marker-label");
         const shown = label.style.display !== "none" && label.textContent;
@@ -315,10 +315,17 @@
     if (OPEN_BY_ISO.has(c.id)) p.classList.add("is-open");
     worldNodes.set(c.id, p);
   }
+  // the South China Sea dashed line (China view, decision A-22), one path per dash
+  for (const l of window.RA_WORLD_LINES || []) el("path", { class: "sea-claim", d: ringPath(l, false) }, gWorld);
+  // China's land border as China sees it (tools/cn_admin1.py), shown once the street basemap replaces our outlines,
+  // in place of the basemap's own national borders there (js/basemap.js OWN_AREAS)
+  for (const o of window.RA_WORLD_OWN || []) el("path", { class: "land-border", d: o.land_border.map((l) => ringPath(l, false)).join("") }, gWorld);
   const regionNodes = new Map();
   const regionLabels = new Map();
   const allUnits = []; // every mounted country's units, for the basemap washes
   function drawCountry(cfg, geo) {
+    // region ids are shared across countries (routes, masks, data), so they must be unique: China's carry "CN-" (Hainan vs Hawaii)
+    for (const r of geo.regions) if (regionCountry.has(r.id) && regionCountry.get(r.id) !== cfg.code) console.error(`region id ${r.id} of ${cfg.code} is already used by ${regionCountry.get(r.id)}`);
     geo.regions.forEach((r, i) => { WASH.set(r.id, (cfg.wash || {})[r.id] || WASH_CYCLE[i % WASH_CYCLE.length]); regionCountry.set(r.id, cfg.code); });
     for (const id of cfg.small_regions || []) SMALL.add(id);
     addCounts(regionSegs, countSegments(geo.regions.map((r) => [r.id, r.outline.map((l) => [l, false])])));
@@ -560,7 +567,7 @@
       if (r.width && r.height) obstacles.push([r.left - svgR.left - 6, r.top - svgR.top - 6, r.right - svgR.left + 6, r.bottom - svgR.top + 6]);
     }
     for (const g of markerNodes.values()) {
-      if (g.style.display === "none") continue;
+      if (markerOff(g)) continue;
       const sx = view.x + k * Number(g.dataset.x), sy = view.y + k * Number(g.dataset.y);
       obstacles.push([sx - 8, sy - 8, sx + 8, sy + 8]);
     }
@@ -568,7 +575,7 @@
     const hit = (b, list) => list.some((o) => b[0] < o[2] && b[2] > o[0] && b[1] < o[3] && b[3] > o[1]);
     const maskOf = (r) => masks.get(regionCountry.get(r.id)) || null;
     const area = (r) => { const m = maskOf(r); return m ? m.area.get(r.id) || 0 : 0; };
-    const order = [...regions.values()].filter((r) => !SMALL.has(r.id)).sort((a, b) => area(a) - area(b)); // smallest first
+    const order = [...regions.values()].filter((r) => !SMALL.has(r.id) && !farNameCountries.get(regionCountry.get(r.id))).sort((a, b) => area(a) - area(b)); // smallest first
     for (const r of order) {
       const node = regionLabels.get(r.id);
       node.style.display = "";
@@ -657,6 +664,7 @@
       const [x, y] = project(p.lon, p.lat);
       const g = el("g", { class: "marker t-" + p.place_type, tabindex: 0, role: "button" }, gMarkers);
       g.dataset.id = p.id;
+      if (farCountries.get(p.country)) g.classList.add("is-far");
       g.dataset.x = x;
       g.dataset.y = y;
       el("circle", { class: "m-hit", r: 11 }, g);
@@ -848,7 +856,7 @@
     const t = T();
     document.documentElement.lang = t.htmlLang;
     document.title = t.pageTitle;
-    const str = (v) => (typeof v === "function" ? v(countryShort(), countryLabel()) : v); // a few strings name the open country (short form, full name)
+    const str = (v) => (typeof v === "function" ? v(countryShort(), countryLabel(), OPEN.length > 1) : v); // a few strings name the open country (short form, full name)
     for (const n of document.querySelectorAll("[data-i18n]")) n.textContent = str(t[n.dataset.i18n]);
     for (const n of document.querySelectorAll("[data-i18n-placeholder]")) n.placeholder = t[n.dataset.i18nPlaceholder];
     for (const n of document.querySelectorAll("[data-i18n-aria]")) n.setAttribute("aria-label", str(t[n.dataset.i18nAria]));
@@ -889,6 +897,11 @@
   // zoom levels that mean "the whole country", "a region", "a place" were tuned on the UK (about 10° across); for a
   // wider country they come that much earlier. zc is the zoom as if the current country were UK-sized.
   const UK_WIDTH = 10.4;
+  const MARKERS_FROM = 4.4; // country-relative zoom from which a country's markers show (the UK about 320 px wide)
+  const farCountries = new Map(); // country code -> its markers are hidden for now
+  const farNameCountries = new Map(); // country code -> its region names are hidden for now
+  // switched off in the legend (display), or its country still too small on screen (is-far; a search hit shows anyway)
+  const markerOff = (g) => g.style.display === "none" || (g.classList.contains("is-far") && !g.classList.contains("is-hit"));
   function zCountry(z) { const b = cur().bounds; return z + Math.log2((b[2] - b[0]) / UK_WIDTH); }
   function applyView() {
     root.setAttribute("transform", `translate(${view.x},${view.y}) scale(${view.k})`);
@@ -908,8 +921,23 @@
     // region names give way to place names once zoomed into a region
     const zoomedIn = state.region != null || view.k > 60;
     gLabels.style.display = zoomedIn || zc < 4 ? "none" : ""; // no region names at world scale
-    gMarkers.style.display = zc < 3.5 && !searchHitIds ? "none" : ""; // at world scale the country itself is the way in
-    svg.classList.toggle("is-worldscale", zc < 3.5); // ...except search hits, which stay on (CSS hides the rest)
+    // Markers come on country by country, each once its own country is large enough to hold them (a small country
+    // seen from a wide one's view would be a pile of markers); on the world page the countries are the way in.
+    let allFar = true;
+    for (const { cfg } of mounted.values()) {
+      const far = state.world || z + Math.log2((cfg.bounds[2] - cfg.bounds[0]) / UK_WIDTH) < MARKERS_FROM;
+      if (!far) allFar = false;
+      const farNames = z + Math.log2((cfg.bounds[2] - cfg.bounds[0]) / UK_WIDTH) < 4; // region names likewise, a little earlier
+      if (farNameCountries.get(cfg.code) !== farNames) {
+        farNameCountries.set(cfg.code, farNames);
+        for (const [id, t] of regionLabels) if (regionCountry.get(id) === cfg.code) t.classList.toggle("is-far", farNames);
+      }
+      if (farCountries.get(cfg.code) === far) continue;
+      farCountries.set(cfg.code, far);
+      for (const [id, g] of markerNodes) if (places.get(id).country === cfg.code) g.classList.toggle("is-far", far);
+    }
+    gMarkers.style.display = allFar && !searchHitIds ? "none" : "";
+    svg.classList.toggle("is-worldscale", allFar); // search hits stay on (CSS hides the rest)
     spreadMarkers(zoomedIn);
     placeLabels(zoomedIn);
     placeUnitLabels(z);
@@ -923,7 +951,7 @@
   const NEAR = 16;
   function spreadMarkers(zoomedIn) {
     const s = 1 / view.k;
-    const nodes = [...markerNodes.values()].filter((g) => g.style.display !== "none");
+    const nodes = [...markerNodes.values()].filter((g) => !markerOff(g));
     for (const g of markerNodes.values()) { g.dataset.dx = 0; g.dataset.dy = 0; }
     if (zoomedIn) {
       const pos = nodes.map((g) => [view.x + view.k * Number(g.dataset.x), view.y + view.k * Number(g.dataset.y)]);
@@ -961,7 +989,7 @@
     const placed = [];
     markerLabelBoxes = placed;
     // every visible marker (after the fan-out) is an obstacle for the names of the others
-    const dots = [...markerNodes.values()].filter((g) => g.style.display !== "none").map((g) => {
+    const dots = [...markerNodes.values()].filter((g) => !markerOff(g)).map((g) => {
       const x = view.x + view.k * Number(g.dataset.x) + Number(g.dataset.dx || 0);
       const y = view.y + view.k * Number(g.dataset.y) + Number(g.dataset.dy || 0);
       return { g, box: [x - 7, y - 7, x + 7, y + 7] };
@@ -978,7 +1006,7 @@
     const charW = zh() ? 13 : 7.2;
     for (const g of order) {
       const label = g.querySelector(".marker-label");
-      const visible = g.style.display !== "none";
+      const visible = !markerOff(g);
       const faded = searchHitIds && !g.classList.contains("is-hit"); // while searching, only results are named
       const named = zoomedIn || g.classList.contains("is-active") || g.classList.contains("is-focus") || g.classList.contains("is-pointed") || (mapFocus && mapFocus.has(g.dataset.id));
       if (!visible || faded || !named) { label.style.display = "none"; continue; }
@@ -1075,8 +1103,15 @@
     view.y = cy - (cy - view.y) * r;
     view.k = k;
     if (coverOn) setCover(false);
-    if (state.world && zCountry(Math.log2((k * W) / 512)) >= 4.6) { // zoomed in by hand: now looking at the country
+    // zoomed in by hand on the world page: once the country at the middle of the view is large enough, it is the
+    // country being looked at (its own width decides, not the last country visited)
+    const [vw, vh] = size(), [clon, clat] = unproject((vw / 2 - view.x) / k, (vh / 2 - view.y) / k);
+    // the country whose box holds the middle of the view, or failing that the nearest one within half a view
+    const reach = (vw / k / W) * 180, off = (c) => Math.max(c.bounds[0] - clon, clon - c.bounds[2], c.bounds[1] - clat, clat - c.bounds[3], 0);
+    const under = state.world && [...mounted.values()].map((m) => m.cfg).filter((c) => off(c) <= reach).sort((a, b) => off(a) - off(b))[0];
+    if (under && Math.log2((k * W) / 512) + Math.log2((under.bounds[2] - under.bounds[0]) / UK_WIDTH) >= 4.6) {
       state.world = false;
+      state.country = under.code;
       renderCrumbs();
       if (!routing) history.replaceState(null, "", "#/" + cur().code);
     }
@@ -2450,6 +2485,7 @@
     const mask = buildRegionMask(geo);
     if (mask) masks.set(cfg.code, mask);
     addMarkers(data.places);
+    farCountries.delete(cfg.code); farNameCountries.delete(cfg.code); // the next applyView decides for the new markers and names
     mounted.set(cfg.code, { cfg, geo, data });
     syncFlags();
     buildSearchIndex();
