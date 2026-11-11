@@ -440,7 +440,13 @@ for pid, ph in photos.items():
         continue
     # Commons asks bots to fetch standard thumbnail widths rather than originals: 960 first, then 500 (upscaling is
     # avoided: a 500 px image stays 500 px and is flagged)
-    data = get(thumb(info["original"], 960), binary=True) or get(thumb(info["original"], 500), binary=True)
+    # a cropped photo starts from the next standard width up, so that what is left still fills the 800 px card
+    widths = ([1920] if ph.get("crop") and info["w"] >= 1920 else []) + [960, 500]
+    data = None
+    for w in widths:
+        data = get(thumb(info["original"], w), binary=True)
+        if data:
+            break
     if not data:
         err(f"photo {pid}: could not download the image")
         continue

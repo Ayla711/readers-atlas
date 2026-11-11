@@ -1,6 +1,6 @@
 # 导入报告 · United States · 2026-11-11
 
-包：45 本书、82 个地点、90 条摘句和场景说明、50 张照片。
+包：48 本书、87 个地点、92 条摘句和场景说明、53 张照片。
 
 ## 错误（0）
 
@@ -42,8 +42,8 @@
 | Louisiana | 3 |
 | Massachusetts | 8 |
 | Maryland | 2 |
-| Maine | 1 |
-| Michigan | 2 |
+| Maine | 2 |
+| Michigan | 3 |
 | Minnesota | 1 |
 | Missouri | 4 |
 | Mississippi | 1 |
@@ -56,11 +56,11 @@
 | New Mexico | 1 |
 | Nevada | 1 |
 | New York | 4 |
-| Ohio | 1 |
+| Ohio | 2 |
 | Oklahoma | 1 |
 | Oregon | 1 |
 | Pennsylvania | 2 |
-| Rhode Island | 1 |
+| Rhode Island | 3 |
 | South Carolina | 2 |
 | South Dakota | 1 |
 | Tennessee | 1 |

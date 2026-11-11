@@ -539,5 +539,46 @@
     "public_domain": true,
     "source_url": "https://www.gutenberg.org/ebooks/76",
     "aliases": []
+  },
+  {
+    "id": "us-shunned-house",
+    "title": "The Shunned House",
+    "title_zh": "凶宅",
+    "author": "H. P. Lovecraft",
+    "author_zh": "H. P. 洛夫克拉夫特",
+    "year": "1937",
+    "orig_lang": "en",
+    "public_domain": true,
+    "source_url": "https://www.gutenberg.org/ebooks/31469",
+    "aliases": [
+      "被遗弃的房子"
+    ]
+  },
+  {
+    "id": "us-shawshank",
+    "title": "Rita Hayworth and Shawshank Redemption",
+    "title_zh": "丽塔·海华丝与肖申克的救赎",
+    "author": "Stephen King",
+    "author_zh": "斯蒂芬·金",
+    "year": "1982",
+    "orig_lang": "en",
+    "public_domain": false,
+    "source_url": null,
+    "aliases": [
+      "The Shawshank Redemption",
+      "肖申克的救赎"
+    ]
+  },
+  {
+    "id": "us-flipped",
+    "title": "Flipped",
+    "title_zh": "怦然心动",
+    "author": "Wendelin Van Draanen",
+    "author_zh": "文德琳·范·德拉安南",
+    "year": "2001",
+    "orig_lang": "en",
+    "public_domain": false,
+    "source_url": null,
+    "aliases": []
   }
 ]

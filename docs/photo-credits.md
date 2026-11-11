@@ -220,3 +220,6 @@
 | Mark Twain Boyhood Home | Andrew Balet | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AMark_Twain_Boyhood_Home_1.jpg) |
 | Edgar Allan Poe National Historic Site | Midnightdreary | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3AEDAL-NHS.jpg) |
 | Fort Smith | Brandonrush | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AFort_Smith%2C_AR_003.jpg) |
+| H. P. Lovecraft’s grave, Swan Point Cemetery | Natliskeliguten at English Wikipedia | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3ALovecraft_tombstone.jpg) |
+| 135 Benefit Street (the Shunned House) | John Phelan | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A135_Benefit_Street_showing_cellar_wall%2C_Providence_RI.jpg) |
+| Ohio State Reformatory, Mansfield | Niagara66 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AOhio_State_Reformatory_Mansfield_08.jpg) |

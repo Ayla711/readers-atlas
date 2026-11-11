@@ -1924,5 +1924,48 @@
       "id": 76
     },
     "status": "draft"
+  },
+  {
+    "id": "us-sh-1",
+    "book_id": "us-shunned-house",
+    "place_ids": [
+      "us-shunned-house-benefit-street"
+    ],
+    "location": "Part I",
+    "location_zh": "第一节",
+    "text_en": "Now the irony is this. In this walk, so many times repeated, the world's\ngreatest master of the terrible and the bizarre was obliged to pass a\nparticular house on the eastern side of the street; a dingy, antiquated\nstructure perched on the abruptly rising side hill, with a great unkempt\nyard dating from a time when the region was partly open country. It does\nnot appear that he ever wrote or spoke of it, nor is there any evidence\nthat he even noticed it.",
+    "text_zh": "讽刺之处就在这里。在这条走了无数遍的路上，这位世上最擅长写恐怖与怪诞的大师，每次都得经过街道东侧的一座房子：一幢昏暗破旧的老屋，高踞在陡然升起的山坡上，带着一个荒芜的大院子，那院子还是这一带半是旷野的年代留下来的。没有迹象表明他曾写过或谈起过它，也没有任何证据说明他注意过它。",
+    "highlight_en": [
+      "a\nparticular house on the eastern side of the street"
+    ],
+    "highlight_zh": [
+      "街道东侧的一座房子"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 31469
+    },
+    "status": "draft"
+  },
+  {
+    "id": "us-shaw-s1",
+    "kind": "scene",
+    "book_id": "us-shawshank",
+    "place_ids": [
+      "us-buxton-shawshank"
+    ],
+    "location": "Ending, Red’s search",
+    "location_zh": "结尾，瑞德的寻找",
+    "text_en": "Out on parole, Red comes to Buxton and searches a hayfield for a piece of volcanic rock that has no business being there. Under it he finds the box Andy left him, with a letter and money inside.",
+    "text_zh": "假释出狱的瑞德来到巴克斯顿，在一片干草地里寻找一块本不该出现在那里的火山石。石头下面压着安迪留给他的盒子，里面有一封信和一笔钱。",
+    "highlight_en": [
+      "Buxton"
+    ],
+    "highlight_zh": [
+      "巴克斯顿"
+    ],
+    "status": "draft",
+    "fact_source": "https://www.supersummary.com/rita-hayworth-and-shawshank-redemption"
   }
 ]

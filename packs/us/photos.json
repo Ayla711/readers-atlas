@@ -298,5 +298,33 @@
     "alt_en": "Mark Twain’s boyhood home in Hannibal",
     "alt_zh": "汉尼拔的马克·吐温少年故居",
     "crop": null
+  },
+  "us-lovecraft-grave": {
+    "commons_file": "File:Lovecraft tombstone.jpg",
+    "alt_en": "H. P. Lovecraft’s headstone at Swan Point Cemetery, inscribed “I Am Providence”",
+    "alt_zh": "天鹅角公墓里洛夫克拉夫特的墓碑，刻着“I Am Providence”",
+    "crop": [
+      0,
+      0.03,
+      1,
+      0.66
+    ]
+  },
+  "us-shunned-house-benefit-street": {
+    "commons_file": "File:135 Benefit Street showing cellar wall, Providence RI.jpg",
+    "alt_en": "The house at 135 Benefit Street, Providence, seen from the street",
+    "alt_zh": "从街上看普罗维登斯贝尼菲特街135号的房子",
+    "crop": null
+  },
+  "us-ohio-state-reformatory": {
+    "commons_file": "File:Ohio State Reformatory Mansfield 08.jpg",
+    "alt_en": "The stone front of the Ohio State Reformatory in Mansfield",
+    "alt_zh": "曼斯菲尔德俄亥俄州立感化院的石砌正面",
+    "crop": [
+      0.05,
+      0,
+      0.89,
+      1
+    ]
   }
 }

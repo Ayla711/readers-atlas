@@ -1057,5 +1057,90 @@
     "note_en": "Twain’s preserved childhood home in Hannibal is part of a museum interpreting his life and writing",
     "coord_checked": "Wikipedia: Mark Twain Boyhood Home — https://en.wikipedia.org/wiki/Mark_Twain_Boyhood_Home_%26_Museum",
     "fact_source": "https://marktwainmuseum.org/about/our-history/"
+  },
+  {
+    "id": "us-lovecraft-grave",
+    "name": "H. P. Lovecraft’s grave, Swan Point Cemetery",
+    "name_zh": "普罗维登斯 · 洛夫克拉夫特之墓（天鹅角公墓）",
+    "lat": 41.8529,
+    "lon": -71.3828,
+    "place_type": "pilgrimage",
+    "note_en": "Lovecraft lies in the Phillips family plot, near the corner of Pond Avenue and Avenue B; his small headstone, beside the family obelisk, reads “I Am Providence”. The point marks the cemetery, not the exact plot",
+    "note": "洛夫克拉夫特葬在菲利普斯家族墓地，靠近 Pond Avenue 与 Avenue B 的路口；家族方尖碑旁是他的小墓碑，上面刻着“I Am Providence”（我即普罗维登斯）。坐标标的是公墓，不是墓穴的确切位置",
+    "coord_checked": "Swan Point Cemetery — https://en.wikipedia.org/wiki/Swan_Point_Cemetery",
+    "fact_source": "https://www.atlasobscura.com/places/hp-lovecrafts-grave",
+    "book_ids": [
+      "us-shunned-house"
+    ]
+  },
+  {
+    "id": "us-shunned-house-benefit-street",
+    "name": "135 Benefit Street (the Shunned House)",
+    "name_zh": "普罗维登斯 · 贝尼菲特街135号（“凶宅”）",
+    "lat": 41.8297,
+    "lon": -71.4085,
+    "place_type": "original",
+    "note_en": "The real house behind Lovecraft’s story, on the east side of Benefit Street; a private home, seen from the street only",
+    "note": "洛夫克拉夫特这篇小说写的就是这座真实的房子，在贝尼菲特街东侧；现为私人住宅，只能在街上看",
+    "coord_checked": "135 Benefit Street — https://en.wikipedia.org/wiki/The_Shunned_House",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Shunned_House",
+    "book_ids": [
+      "us-shunned-house"
+    ]
+  },
+  {
+    "id": "us-buxton-shawshank",
+    "name": "Buxton, Maine",
+    "name_zh": "巴克斯顿",
+    "lat": 43.6186,
+    "lon": -70.5222,
+    "place_type": "original",
+    "note_en": "The town where the novella puts the hayfield with Andy’s buried box; the field itself is invented, so the point marks the town",
+    "note": "小说里安迪埋下铁盒的那片干草地就在这个镇上；田地本身是虚构的，坐标标的是镇子",
+    "coord_checked": "Buxton, Maine — https://en.wikipedia.org/wiki/Buxton,_Maine",
+    "fact_source": "https://www.supersummary.com/rita-hayworth-and-shawshank-redemption",
+    "book_ids": [
+      "us-shawshank"
+    ]
+  },
+  {
+    "id": "us-ohio-state-reformatory",
+    "name": "Ohio State Reformatory, Mansfield",
+    "name_zh": "曼斯菲尔德 · 俄亥俄州立感化院",
+    "lat": 40.7853,
+    "lon": -82.505,
+    "place_type": "film_location",
+    "adaptation": {
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "kind": "电影"
+    },
+    "scene": "片中的肖申克监狱：典狱长办公室、假释听证室和安迪逃出去的地道都在这里拍摄。故事设在缅因州，电影却是在俄亥俄拍的",
+    "scene_en": "Shawshank prison in the film: the warden’s office, the parole board room and Andy’s escape tunnel were all shot here. The story is set in Maine; the film was made in Ohio",
+    "coord_checked": "Ohio State Reformatory, 100 Reformatory Road — https://en.wikipedia.org/wiki/Ohio_State_Reformatory",
+    "fact_source": "https://shawshanktrail.com/a-path-worth-remembering.html",
+    "book_ids": [
+      "us-shawshank"
+    ]
+  },
+  {
+    "id": "us-virginia-park-flipped",
+    "name": "Virginia Park, Ann Arbor",
+    "name_zh": "安娜堡 · 弗吉尼亚公园",
+    "lat": 42.2772,
+    "lon": -83.7681,
+    "place_type": "film_location",
+    "adaptation": {
+      "title": "Flipped",
+      "year": 2010,
+      "kind": "电影"
+    },
+    "scene": "朱莉爬上去不肯下来的那棵梧桐树：2009年夏天在这座公园拍摄。这里原本是两棵并排的悬铃木，后期用特效去掉了一棵，成了片中孤零零的一棵大树",
+    "scene_en": "The sycamore Juli climbs and refuses to leave, filmed in this park in summer 2009. Two London plane trees stood side by side here; one was removed digitally to leave the film’s lone tree",
+    "coord_checked": "Virginia Park, 500 Virginia Ave — https://www.topozone.com/?p=515777",
+    "fact_source": "https://annarborchronicle.com/2009/06/27/ann-arbor-park-gets-movie-stimulus/index.html",
+    "book_ids": [
+      "us-flipped"
+    ]
   }
 ]
