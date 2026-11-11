@@ -28,5 +28,275 @@
     "alt_en": "Community hall at Weedpatch Camp",
     "alt_zh": "威德帕奇营地的社区礼堂",
     "crop": null
+  },
+  "us-salem-custom-house": {
+    "commons_file": "File:Custom House in Salem, MA.jpg",
+    "alt_en": "Salem Custom House exterior",
+    "alt_zh": "塞勒姆海关大楼外观",
+    "crop": null
+  },
+  "us-amherst-dickinson-museum": {
+    "commons_file": "File:Emily Dickinson Museum from Southeast.jpg",
+    "alt_en": "Emily Dickinson Museum, Homestead exterior",
+    "alt_zh": "阿默斯特 · 艾米莉·狄金森故居博物馆外观",
+    "crop": null
+  },
+  "us-lenox-the-mount": {
+    "commons_file": "File:The Mount (Edith Wharton, Beatrix Farrand) - Lennox MA -juli 2012- (7710774230).jpg",
+    "alt_en": "The Mount exterior",
+    "alt_zh": "莱诺克斯 · 蒙特庄园外观",
+    "crop": null
+  },
+  "us-baltimore-poe-house": {
+    "commons_file": "File:Edgar Allan Poe House & Museum, 203 N. Amity Street, Baltimore, MD 21223 (24525012528).jpg",
+    "alt_en": "Edgar Allan Poe House and Museum exterior",
+    "alt_zh": "巴尔的摩 · 埃德加·爱伦·坡故居博物馆外观",
+    "crop": null
+  },
+  "us-philadelphia-poe-house": {
+    "commons_file": "File:Edgar Allan Poe National Historic Site EDAL5072.jpg",
+    "alt_en": "Edgar Allan Poe National Historic Site exterior",
+    "alt_zh": "费城 · 埃德加·爱伦·坡国家历史遗址外观",
+    "crop": null
+  },
+  "us-wolf-house": {
+    "commons_file": "File:WOLF HOUSE RUINS, JACK LONDON STATE HISTORIC PARK, CALIFORNIA.jpg",
+    "alt_en": "Masonry walls of Wolf House ruins",
+    "alt_zh": "狼屋遗址的砖石墙壁",
+    "crop": null
+  },
+  "us-cather-childhood-home": {
+    "commons_file": "File:Willa Cather house from NE 3.JPG",
+    "alt_en": "Willa Cather Childhood Home from the northeast, 2010",
+    "alt_zh": "2010年从东北方向望薇拉·凯瑟童年故居",
+    "crop": null
+  },
+  "us-o-henry-museum": {
+    "commons_file": "File:O henry museum 2007.jpg",
+    "alt_en": "O. Henry Museum in Austin, 2007",
+    "alt_zh": "2007年的奥斯汀欧·亨利博物馆",
+    "crop": null
+  },
+  "hannibal": {
+    "commons_file": "File:Hannibal Composite 1.jpg",
+    "alt_en": "Hannibal and the Mississippi River viewed from Lover’s Leap",
+    "alt_zh": "从恋人崖俯瞰汉尼拔与密西西比河",
+    "crop": null
+  },
+  "memphis": {
+    "commons_file": "File:Skyline of Memphis, TN.jpg",
+    "alt_en": "Memphis skyline beside the Mississippi River",
+    "alt_zh": "密西西比河畔的孟菲斯天际线",
+    "crop": null
+  },
+  "dubuque": {
+    "commons_file": "File:Dubuque IA - overview.jpg",
+    "alt_en": "An elevated view across downtown Dubuque",
+    "alt_zh": "从高处俯瞰迪比克市中心",
+    "crop": null
+  },
+  "saint-paul": {
+    "commons_file": "File:Saint Paul, Minnesota (cropped) (cropped102).jpg",
+    "alt_en": "Aerial view of Saint Paul along the Mississippi River",
+    "alt_zh": "密西西比河畔圣保罗的航拍景象",
+    "crop": null
+  },
+  "new-orleans": {
+    "commons_file": "File:New Orleans from the Air September 2019 - Central Business District Skyline (cropped).jpg",
+    "alt_en": "Aerial view of central New Orleans",
+    "alt_zh": "新奥尔良市中心的航拍景象",
+    "crop": null
+  },
+  "louisville": {
+    "commons_file": "File:Louisville Skyline 2021 (3).jpg",
+    "alt_en": "Louisville skyline illuminated at night",
+    "alt_zh": "夜色中灯火通明的路易斯维尔天际线",
+    "crop": null
+  },
+  "chicago": {
+    "commons_file": "File:Chicago Skyline in April 2024 b.jpg",
+    "alt_en": "The Chicago skyline in April 2024",
+    "alt_zh": "2024年4月的芝加哥天际线",
+    "crop": null
+  },
+  "indianapolis": {
+    "commons_file": "File:Indianapolis-1872529 1920 (cropped).jpg",
+    "alt_en": "A view of Indianapolis",
+    "alt_zh": "印第安纳波利斯城市景象",
+    "crop": null
+  },
+  "pepin": {
+    "commons_file": "File:Pepin, Wisconsin-2.jpg",
+    "alt_en": "Pepin, Wisconsin, in May 2024",
+    "alt_zh": "2024年5月的威斯康星州佩平",
+    "crop": null
+  },
+  "monroeville": {
+    "commons_file": "File:Historic buildings in Monroeville, Alabama LCCN2010639931.jpg",
+    "alt_en": "Historic buildings in Monroeville, Alabama",
+    "alt_zh": "阿拉巴马州门罗维尔的历史建筑",
+    "crop": null
+  },
+  "eatonton": {
+    "commons_file": "File:Putnam County Georgia Courthouse.jpg",
+    "alt_en": "Putnam County Courthouse in Eatonton",
+    "alt_zh": "伊顿顿的普特南县法院",
+    "crop": null
+  },
+  "eatonville": {
+    "commons_file": "File:Eatonville, Florida; Town Hall.jpg",
+    "alt_en": "The town hall in Eatonville, Florida",
+    "alt_zh": "佛罗里达州伊顿维尔镇政厅",
+    "crop": null
+  },
+  "jacksonville": {
+    "commons_file": "File:Jacksonville skyline.jpg",
+    "alt_en": "Jacksonville skyline and Main Street Bridge above the St. Johns River",
+    "alt_zh": "圣约翰斯河上方的杰克逊维尔天际线与主街大桥",
+    "crop": null
+  },
+  "seney": {
+    "commons_file": "File:Seney, MI.jpg",
+    "alt_en": "Seney, Michigan, in July 2026",
+    "alt_zh": "2026年7月的密歇根州塞尼",
+    "crop": null
+  },
+  "fox-river": {
+    "commons_file": "File:Fox River (1).jpg",
+    "alt_en": "The Fox River in Michigan’s Upper Peninsula",
+    "alt_zh": "密歇根上半岛的福克斯河",
+    "crop": null
+  },
+  "fort-smith": {
+    "commons_file": "File:Fort Smith, AR 002.jpg",
+    "alt_en": "Downtown Fort Smith viewed toward the east",
+    "alt_zh": "向东眺望史密斯堡市中心",
+    "crop": null
+  },
+  "san-antonio": {
+    "commons_file": "File:Downtown San Antonio view from The Tower of the Americas.jpg",
+    "alt_en": "Downtown San Antonio viewed from the Tower of the Americas",
+    "alt_zh": "从美洲塔眺望圣安东尼奥市中心",
+    "crop": null
+  },
+  "oxford-mississippi": {
+    "commons_file": "File:The Oxford Square - 48823158808.jpg",
+    "alt_en": "The central square in Oxford, Mississippi",
+    "alt_zh": "密西西比州牛津的中心广场",
+    "crop": null
+  },
+  "usatlanta": {
+    "commons_file": "File:A2ATL20250614-0721 (cropped).jpg",
+    "alt_en": "Midtown and Downtown Atlanta skyline",
+    "alt_zh": "亚特兰大中城与市中心的天际线",
+    "crop": null
+  },
+  "usnew-orleans-french-quarter": {
+    "commons_file": "File:French Quarter, looking north with Mississippi River to the right 2011.jpg",
+    "alt_en": "Looking north across the French Quarter with the Mississippi River on the right",
+    "alt_zh": "向北俯瞰法国区，右侧为密西西比河",
+    "crop": null
+  },
+  "usnew-orleans-west-end": {
+    "commons_file": "File:West End - New Orleans, Louisiana.jpg",
+    "alt_en": "West End in New Orleans",
+    "alt_zh": "新奥尔良西区景象",
+    "crop": null
+  },
+  "new-bedford": {
+    "commons_file": "File:North Water Street, New Bedford, MA.jpg",
+    "alt_en": "Historic buildings on North Water Street in New Bedford",
+    "alt_zh": "新贝德福德北水街的历史建筑",
+    "crop": null
+  },
+  "nantucket-island": {
+    "commons_file": "File:Nantucket-08-2004.jpg",
+    "alt_en": "View of Nantucket",
+    "alt_zh": "楠塔基特景色",
+    "crop": null
+  },
+  "walden-pond": {
+    "commons_file": "File:Walden Pond outlook.jpg",
+    "alt_en": "An outlook over Walden Pond",
+    "alt_zh": "眺望瓦尔登湖",
+    "crop": null
+  },
+  "falmouth-whitman": {
+    "commons_file": "File:2016-09-12 09 37 05 View northwest across central Falmouth, Stafford County, Virginia from U.S. Route 1 and U.S. Route 17 Business (Cambridge Street).jpg",
+    "alt_en": "Central Falmouth viewed from Cambridge Street",
+    "alt_zh": "从剑桥街眺望法尔茅斯中心",
+    "crop": null
+  },
+  "camden-whitman": {
+    "commons_file": "File:Adventure Aquarium (53572702368).jpg",
+    "alt_en": "Adventure Aquarium on Camden’s waterfront",
+    "alt_zh": "卡姆登滨水区的探险水族馆",
+    "crop": null
+  },
+  "pittsburgh-whitman": {
+    "commons_file": "File:Duquesne Incline in operation (cropped).jpg",
+    "alt_en": "Pittsburgh skyline and the Duquesne Incline",
+    "alt_zh": "匹兹堡天际线与杜肯缆车",
+    "crop": null
+  },
+  "concord-orchard-house": {
+    "commons_file": "File:Orchard House from Little Women.jpeg",
+    "alt_en": "Orchard House in Concord",
+    "alt_zh": "康科德的果园屋",
+    "crop": null
+  },
+  "great-neck-west-egg": {
+    "commons_file": "File:Middle Neck Road, Great Neck, New York.jpg",
+    "alt_en": "Middle Neck Road in Great Neck",
+    "alt_zh": "大颈镇的中颈路",
+    "crop": null
+  },
+  "sullivans-island": {
+    "commons_file": "File:Sullivan's Island viewed from Fort Moultrie.JPG",
+    "alt_en": "Sullivan’s Island viewed from Fort Moultrie",
+    "alt_zh": "从莫尔特里堡眺望沙利文岛",
+    "crop": null
+  },
+  "charleston-gold-bug": {
+    "commons_file": "File:Rainbow Row Panorama.jpg",
+    "alt_en": "Rainbow Row in Charleston",
+    "alt_zh": "查尔斯顿的彩虹街",
+    "crop": null
+  },
+  "wilmington-wellington": {
+    "commons_file": "File:BRIDGE 2024-05-07 Cape Fear Memorial Bridge Press Conf-831-155 (cropped).jpg",
+    "alt_en": "Cape Fear Memorial Bridge in Wilmington",
+    "alt_zh": "威尔明顿的开普菲尔纪念桥",
+    "crop": null
+  },
+  "clyde-winesburg": {
+    "commons_file": "File:Clyde Ohio.JPG",
+    "alt_en": "South Main Street in downtown Clyde",
+    "alt_zh": "克莱德市中心的南主街",
+    "crop": null
+  },
+  "franconia-frost": {
+    "commons_file": "File:Franconia NH 8-2-2025.jpg",
+    "alt_en": "Franconia viewed from the northeast",
+    "alt_zh": "从东北方向眺望弗兰科尼亚",
+    "crop": null
+  },
+  "georgetown-entailed-hat": {
+    "commons_file": "File:Sussex County Courthouse.jpg",
+    "alt_en": "Sussex County Courthouse in Georgetown",
+    "alt_zh": "乔治敦的萨塞克斯县法院",
+    "crop": null
+  },
+  "seattle": {
+    "commons_file": "File:Seattle Downtown Aerial, July 2025 (zoomed and perspective corrected).jpg",
+    "alt_en": "Downtown Seattle viewed from above Queen Anne Hill",
+    "alt_zh": "从安妮女王山上空眺望西雅图市中心",
+    "crop": null
+  },
+  "usmark-twain-boyhood-home": {
+    "commons_file": "File:Mark Twain Boyhood Home 1.jpg",
+    "alt_en": "Mark Twain’s boyhood home in Hannibal",
+    "alt_zh": "汉尼拔的马克·吐温少年故居",
+    "crop": null
   }
 }

@@ -26,7 +26,7 @@
   {
     "id": "specimen-days",
     "title": "Specimen Days",
-    "title_zh": "草叶集外集·典型的日子",
+    "title_zh": "典型的日子",
     "author": "Walt Whitman",
     "author_zh": "沃尔特·惠特曼",
     "year": "1882",
@@ -216,18 +216,6 @@
     "aliases": []
   },
   {
-    "id": "nick-adams-stories",
-    "title": "The Nick Adams Stories",
-    "title_zh": "尼克·亚当斯故事集",
-    "author": "Ernest Hemingway",
-    "author_zh": "欧内斯特·海明威",
-    "year": "1972",
-    "orig_lang": "en",
-    "public_domain": false,
-    "source_url": "https://en.wikipedia.org/wiki/The_Nick_Adams_Stories",
-    "aliases": []
-  },
-  {
     "id": "lonesome-dove",
     "title": "Lonesome Dove",
     "title_zh": "孤鸽镇",
@@ -351,5 +339,205 @@
     "orig_lang": "en",
     "public_domain": false,
     "source_url": "https://en.wikipedia.org/wiki/Angle_of_Repose"
+  },
+  {
+    "id": "scarlet-letter",
+    "title": "The Scarlet Letter",
+    "title_zh": "红字",
+    "author": "Nathaniel Hawthorne",
+    "author_zh": "纳撒尼尔·霍桑",
+    "year": "1850",
+    "orig_lang": "en",
+    "public_domain": true,
+    "source_url": "https://www.gutenberg.org/ebooks/33",
+    "aliases": []
+  },
+  {
+    "id": "age-of-innocence",
+    "title": "The Age of Innocence",
+    "title_zh": "纯真年代",
+    "author": "Edith Wharton",
+    "author_zh": "伊迪丝·华顿",
+    "year": "1920",
+    "orig_lang": "en",
+    "public_domain": true,
+    "source_url": "https://www.gutenberg.org/ebooks/541",
+    "aliases": []
+  },
+  {
+    "id": "american-notes",
+    "title": "American Notes for General Circulation",
+    "title_zh": "美国札记",
+    "author": "Charles Dickens",
+    "author_zh": "狄更斯",
+    "year": "1842",
+    "orig_lang": "en",
+    "public_domain": true,
+    "source_url": "https://www.gutenberg.org/ebooks/675",
+    "aliases": []
+  },
+  {
+    "id": "life-in-iron-mills",
+    "title": "Life in the Iron-Mills",
+    "title_zh": "铁厂的生活",
+    "author": "Rebecca Harding Davis",
+    "author_zh": "丽贝卡·哈丁·戴维斯",
+    "year": "1861",
+    "orig_lang": "en",
+    "public_domain": true,
+    "source_url": "https://www.gutenberg.org/ebooks/876",
+    "aliases": []
+  },
+  {
+    "id": "letters-emily-dickinson",
+    "title": "Letters of Emily Dickinson",
+    "title_zh": "艾米莉·狄金森书信",
+    "author": "Emily Dickinson",
+    "author_zh": "艾米莉·狄金森",
+    "year": "1924",
+    "orig_lang": "en",
+    "public_domain": true,
+    "source_url": "https://en.wikisource.org/wiki/The_Life_and_Letters_of_Emily_Dickinson/Letters_of_Emily_Dickinson",
+    "aliases": [
+      "Letters section of The Life and Letters of Emily Dickinson",
+      "Martha Dickinson Bianchi (editor)"
+    ]
+  },
+  {
+    "id": "us-call-of-the-wild",
+    "title": "The Call of the Wild",
+    "title_zh": "野性的呼唤",
+    "author": "Jack London",
+    "author_zh": "杰克·伦敦",
+    "year": "1903",
+    "orig_lang": "en",
+    "public_domain": true,
+    "source_url": "https://www.gutenberg.org/ebooks/215",
+    "aliases": []
+  },
+  {
+    "id": "us-sea-wolf",
+    "title": "The Sea-Wolf",
+    "title_zh": "海狼",
+    "author": "Jack London",
+    "author_zh": "杰克·伦敦",
+    "year": "1904",
+    "orig_lang": "en",
+    "public_domain": true,
+    "source_url": "https://www.gutenberg.org/ebooks/1074",
+    "aliases": []
+  },
+  {
+    "id": "us-steep-trails",
+    "title": "Steep Trails",
+    "title_zh": "险峻的山径",
+    "author": "John Muir",
+    "author_zh": "约翰·缪尔",
+    "year": "1918",
+    "orig_lang": "en",
+    "public_domain": true,
+    "source_url": "https://www.gutenberg.org/ebooks/326",
+    "aliases": []
+  },
+  {
+    "id": "us-rolling-stones",
+    "title": "Rolling Stones",
+    "title_zh": "滚石集",
+    "author": "O. Henry",
+    "author_zh": "欧·亨利",
+    "year": "1912",
+    "orig_lang": "en",
+    "public_domain": true,
+    "source_url": "https://www.gutenberg.org/ebooks/3815",
+    "aliases": []
+  },
+  {
+    "id": "us-death-comes-for-the-archbishop",
+    "title": "Death Comes for the Archbishop",
+    "title_zh": "死神来迎接大主教",
+    "author": "Willa Cather",
+    "author_zh": "薇拉·凯瑟",
+    "year": "1927",
+    "orig_lang": "en",
+    "public_domain": true,
+    "source_url": "https://www.gutenberg.org/ebooks/69730",
+    "aliases": []
+  },
+  {
+    "id": "us-little-house-on-the-prairie",
+    "title": "Little House on the Prairie",
+    "title_zh": "草原上的小木屋",
+    "author": "Laura Ingalls Wilder",
+    "author_zh": "劳拉·英格尔斯·怀尔德",
+    "year": "1935",
+    "orig_lang": "en",
+    "public_domain": false,
+    "aliases": [],
+    "source_url": "https://www.fadedpage.com/books/20200415/html.php"
+  },
+  {
+    "id": "usgone-with-wind",
+    "title": "Gone with the Wind",
+    "title_zh": "飘",
+    "author": "Margaret Mitchell",
+    "author_zh": "玛格丽特·米切尔",
+    "year": "1936",
+    "orig_lang": "en",
+    "public_domain": true,
+    "source_url": "https://gutenberg.net.au/ebooks02/0200161.txt",
+    "aliases": [
+      "Gone With the Wind"
+    ]
+  },
+  {
+    "id": "usmagnificent-ambersons",
+    "title": "The Magnificent Ambersons",
+    "title_zh": "伟大的安伯森家族",
+    "author": "Booth Tarkington",
+    "author_zh": "布斯·塔金顿",
+    "year": "1918",
+    "orig_lang": "en",
+    "public_domain": true,
+    "source_url": "https://www.gutenberg.org/ebooks/8867",
+    "aliases": []
+  },
+  {
+    "id": "in-our-time",
+    "title": "In Our Time",
+    "title_zh": "在我们的时代",
+    "author": "Ernest Hemingway",
+    "author_zh": "欧内斯特·海明威",
+    "year": "1925",
+    "orig_lang": "en",
+    "public_domain": false,
+    "source_url": "https://en.wikipedia.org/wiki/In_Our_Time_(short_story_collection)",
+    "aliases": [
+      "Big Two-Hearted River",
+      "大双心河"
+    ]
+  },
+  {
+    "id": "ustom-sawyer",
+    "title": "The Adventures of Tom Sawyer",
+    "title_zh": "汤姆·索亚历险记",
+    "author": "Mark Twain",
+    "author_zh": "马克·吐温",
+    "year": "1876",
+    "orig_lang": "en",
+    "public_domain": true,
+    "source_url": "https://www.gutenberg.org/ebooks/74",
+    "aliases": []
+  },
+  {
+    "id": "ushuckleberry-finn",
+    "title": "Adventures of Huckleberry Finn",
+    "title_zh": "哈克贝利·费恩历险记",
+    "author": "Mark Twain",
+    "author_zh": "马克·吐温",
+    "year": "1884",
+    "orig_lang": "en",
+    "public_domain": true,
+    "source_url": "https://www.gutenberg.org/ebooks/76",
+    "aliases": []
   }
 ]

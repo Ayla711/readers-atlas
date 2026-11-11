@@ -140,26 +140,6 @@
     "status": "draft"
   },
   {
-    "id": "ussd-5",
-    "book_id": "specimen-days",
-    "place_ids": [
-      "weirton-panhandle"
-    ],
-    "location": "Begin a Long Jaunt West",
-    "location_zh": "开始向西的长途旅行",
-    "text_en": "Presently a bit of fine region, West Virginia, the Panhandle, and\r\ncrossing the river, the Ohio.",
-    "text_zh": "接着是一片美好的地区，西弗吉尼亚的狭长地带，然后渡过俄亥俄河。",
-    "highlight_en": [
-      "West Virginia"
-    ],
-    "translation": "original",
-    "source": {
-      "kind": "gutenberg",
-      "id": 8813
-    },
-    "status": "draft"
-  },
-  {
     "id": "uslw-1",
     "book_id": "little-women",
     "place_ids": [
@@ -360,47 +340,7 @@
     "status": "draft"
   },
   {
-    "id": "useh-3",
-    "book_id": "entailed-hat",
-    "place_ids": [
-      "laurel-entailed-hat"
-    ],
-    "location": "Chapter 24, Old Chimneys",
-    "location_zh": "第24章：旧烟囱",
-    "text_en": "Take this old woods road\r\nalong Broad Creek and walk to Laurel, five miles; it's a little town on\r\nthe creek.",
-    "text_zh": "沿着这条旧林间小路，顺布罗德溪走五英里，就到劳雷尔了；那是溪边的一座小镇。",
-    "highlight_en": [
-      "Laurel"
-    ],
-    "translation": "original",
-    "source": {
-      "kind": "gutenberg",
-      "id": 19146
-    },
-    "status": "draft"
-  },
-  {
-    "id": "useh-4",
-    "book_id": "entailed-hat",
-    "place_ids": [
-      "dover-entailed-hat"
-    ],
-    "location": "Chapter 21, Long Separations",
-    "location_zh": "第21章：漫长的分别",
-    "text_en": "\"To Dover, in Delaware,\" Vesta answered. \"You can ride to Laurel by\r\ndark, Samson, and get to Dover to-morrow afternoon.\"",
-    "text_zh": "“到特拉华州的多佛去，”维斯塔回答，“萨姆森，你天黑前可以骑到劳雷尔，明天下午就能到多佛。”",
-    "highlight_en": [
-      "Dover"
-    ],
-    "translation": "original",
-    "source": {
-      "kind": "gutenberg",
-      "id": 19146
-    },
-    "status": "draft"
-  },
-  {
-    "id": "lom-1",
+    "id": "uslom-1",
     "book_id": "life-on-mississippi",
     "place_ids": [
       "hannibal"
@@ -420,7 +360,7 @@
     "status": "draft"
   },
   {
-    "id": "lom-2",
+    "id": "uslom-2",
     "book_id": "life-on-mississippi",
     "place_ids": [
       "memphis"
@@ -440,27 +380,7 @@
     "status": "draft"
   },
   {
-    "id": "lom-3",
-    "book_id": "life-on-mississippi",
-    "place_ids": [
-      "helena"
-    ],
-    "location": "Chapter 50, The 'Original Jacobs'",
-    "location_zh": "第 50 章《最初的雅各布斯》",
-    "text_en": "In 1832 steamer “Hudson” made the run from White River to Helena, a\r\ndistance of seventy-five miles, in twelve hours.",
-    "text_zh": "1832年，哈德逊号汽船从白河航行至海伦娜，七十五英里的航程用了十二小时。",
-    "highlight_en": [
-      "Helena"
-    ],
-    "translation": "original",
-    "source": {
-      "kind": "gutenberg",
-      "id": 245
-    },
-    "status": "draft"
-  },
-  {
-    "id": "lom-4",
+    "id": "uslom-4",
     "book_id": "life-on-mississippi",
     "place_ids": [
       "saint-paul",
@@ -482,31 +402,7 @@
     "status": "draft"
   },
   {
-    "id": "lom-5",
-    "book_id": "life-on-mississippi",
-    "place_ids": [
-      "burlington",
-      "davenport",
-      "minneapolis"
-    ],
-    "location": "Chapter 58, On the Upper River",
-    "location_zh": "第 58 章《在河流上游》",
-    "text_en": "Then we have Muscatine, ten thousand; Winona, ten thousand;\r\nMoline, ten thousand; Rock Island, twelve thousand; La Crosse, twelve\r\nthousand; Burlington, twenty-five thousand; Dubuque, twenty-five\r\nthousand; Davenport, thirty thousand; St. Paul, fifty-eight thousand,\r\nMinneapolis, sixty thousand and upward.",
-    "text_zh": "接下来，马斯卡廷有一万人，威诺纳一万人；莫林一万人，罗克艾兰一万二千人，拉克罗斯一万二千人；伯灵顿两万五千人，迪比克两万五千人；达文波特三万人，圣保罗五万八千人，明尼阿波利斯六万人以上。",
-    "highlight_en": [
-      "Burlington",
-      "Davenport",
-      "Minneapolis"
-    ],
-    "translation": "original",
-    "source": {
-      "kind": "gutenberg",
-      "id": 245
-    },
-    "status": "draft"
-  },
-  {
-    "id": "lom-6",
+    "id": "uslom-6",
     "book_id": "life-on-mississippi",
     "place_ids": [
       "dubuque"
@@ -526,27 +422,7 @@
     "status": "draft"
   },
   {
-    "id": "lom-7",
-    "book_id": "life-on-mississippi",
-    "place_ids": [
-      "cairo"
-    ],
-    "location": "Chapter 17, Cut-offs and Stephen",
-    "location_zh": "第 17 章《河道裁弯与斯蒂芬》",
-    "text_en": "Therefore, the Mississippi between Cairo and New Orleans was twelve\r\nhundred and fifteen miles long one hundred and seventy-six years ago.",
-    "text_zh": "因此，一百七十六年前，开罗与新奥尔良之间的密西西比河长一千二百一十五英里。",
-    "highlight_en": [
-      "Cairo"
-    ],
-    "translation": "original",
-    "source": {
-      "kind": "gutenberg",
-      "id": 245
-    },
-    "status": "draft"
-  },
-  {
-    "id": "utc-1",
+    "id": "usutc-1",
     "book_id": "uncle-toms-cabin",
     "place_ids": [
       "louisville"
@@ -566,37 +442,20 @@
     "status": "draft"
   },
   {
-    "id": "sc-1",
+    "id": "ussc-1",
     "book_id": "sister-carrie",
     "place_ids": [
       "chicago"
     ],
-    "location": "Chapter 1, The Magnet Attracting: A Waif Amid Forces",
+    "location": "Chapter I. THE MAGNET ATTRACTING: A WAIF AMID FORCES",
     "location_zh": "第 1 章《磁石的吸引：漂泊的孤女》",
-    "text_en": "When Caroline Meeber boarded the afternoon train for Chicago, her total\r\noutfit consisted of a small trunk, a cheap imitation alligator-skin\r\nsatchel, a small lunch in a paper box, and a yellow leather snap purse,\r\ncontaining her ticket, a scrap of paper with her sister’s address in\r\nVan Buren Street, and four dollars in money. It was in August, 1889.",
-    "text_zh": "卡罗琳·米伯登上开往芝加哥的午后火车时，全部行李只有一只小箱子、一个便宜的仿鳄鱼皮手提包、一份纸盒装午餐，以及一个黄色皮革搭扣钱包。钱包里装着车票、一张写有姐姐在范布伦街住址的纸条和四美元。那是1889年八月。",
+    "text_en": "“Chicago!” called the brakeman, drawing the word out long. They were\r\nunder a great shadowy train shed, where the lamps were already\r\nbeginning to shine out, with passenger cars all about and the train\r\nmoving at a snail’s pace. The people in the car were all up and\r\ncrowding about the door.",
+    "text_zh": "“芝加哥！”列车员拖长声音喊道。他们已驶入巨大而昏暗的站棚，灯火开始亮起，四周都是客车，火车像蜗牛一样缓缓前行。车厢里的人全站了起来，挤到门边。",
     "highlight_en": [
       "Chicago"
     ],
-    "translation": "original",
-    "source": {
-      "kind": "gutenberg",
-      "id": 233
-    },
-    "status": "draft"
-  },
-  {
-    "id": "sc-2",
-    "book_id": "sister-carrie",
-    "place_ids": [
-      "indianapolis"
-    ],
-    "location": "Chapter 32, The Feast of Belshazzar: A Seer to Translate",
-    "location_zh": "第 32 章《伯沙撒的盛宴：解读的先知》",
-    "text_en": "“Yes; I am just on here from Indianapolis for a week or so,” said young\r\nAmes, seating himself on the edge of a chair to wait while Mrs. Vance\r\ncompleted the last touches of her toilet.",
-    "text_zh": "“是的，我从印第安纳波利斯来这里待一周左右，”年轻的艾姆斯说。他坐在椅子边上，等万斯太太完成最后的梳妆。",
-    "highlight_en": [
-      "Indianapolis"
+    "highlight_zh": [
+      "芝加哥"
     ],
     "translation": "original",
     "source": {
@@ -606,7 +465,7 @@
     "status": "draft"
   },
   {
-    "id": "lhbw-s1",
+    "id": "uslhbw-s1",
     "kind": "scene",
     "book_id": "little-house-in-big-woods",
     "place_ids": [
@@ -626,47 +485,47 @@
     ]
   },
   {
-    "id": "tkam-s1",
+    "id": "ustkam-s1",
     "kind": "scene",
     "book_id": "to-kill-a-mockingbird",
     "place_ids": [
       "monroeville"
     ],
-    "location": "Trial sequence",
-    "location_zh": "审判段落",
-    "text_en": "In Maycomb, Scout and Jem watch Atticus defend Tom Robinson and confront the town’s racial prejudice.",
-    "text_zh": "在梅科姆，斯库特和杰姆旁听阿蒂克斯为汤姆·鲁滨逊辩护，面对镇上的种族偏见。",
+    "location": "Chapter 17",
+    "location_zh": "第 17 章",
+    "text_en": "In the Maycomb courtroom, Atticus hands Bob Ewell a pen and an envelope and asks him to write his name. The spectators watch Ewell write with his left hand.",
+    "text_zh": "在梅科姆法庭上，阿蒂克斯递给鲍勃·尤厄尔一支笔和一个信封，请他写下姓名。旁听者看见尤厄尔用左手书写。",
     "highlight_en": [
       "Maycomb"
     ],
-    "status": "draft",
-    "fact_source": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird",
     "highlight_zh": [
       "梅科姆"
-    ]
+    ],
+    "status": "draft",
+    "fact_source": "https://www.bookrags.com/notes/tkm/part17.html"
   },
   {
-    "id": "tcp-s1",
+    "id": "ustcp-s1",
     "kind": "scene",
     "book_id": "color-purple",
     "place_ids": [
       "eatonton"
     ],
-    "location": "Opening letters",
-    "location_zh": "开篇书信",
-    "text_en": "In rural Georgia, Celie writes to God about the abuse and isolation she experiences within her family.",
-    "text_zh": "在佐治亚乡村，西莉写信向上帝诉说自己在家庭中遭受的虐待与孤独。",
+    "location": "Letter 74, the family dinner",
+    "location_zh": "第 74 封信，家庭聚餐",
+    "text_en": "At a family dinner in rural Georgia, Shug announces that Celie will leave with her for Memphis. When Albert objects, Celie answers him in front of everyone at the table.",
+    "text_zh": "在佐治亚乡村的一次家庭聚餐上，莎格宣布西莉将随她前往孟菲斯。艾伯特出言阻拦，西莉当着全桌人的面回击他。",
     "highlight_en": [
       "Georgia"
     ],
-    "status": "draft",
-    "fact_source": "https://en.wikipedia.org/wiki/The_Color_Purple",
     "highlight_zh": [
       "佐治亚"
-    ]
+    ],
+    "status": "draft",
+    "fact_source": "https://crossref-it.info/textguide/the-color-purple/42/3253"
   },
   {
-    "id": "saf-s1",
+    "id": "ussaf-s1",
     "kind": "scene",
     "book_id": "sound-and-fury",
     "place_ids": [
@@ -674,61 +533,61 @@
     ],
     "location": "Part 4, April 8, 1928",
     "location_zh": "第四部分，1928年4月8日",
-    "text_en": "In Jefferson, Dilsey takes Benjy to an Easter church service as the Compson family continues to unravel.",
-    "text_zh": "在杰斐逊，迪尔西带班吉参加复活节礼拜，而康普生一家仍在走向瓦解。",
+    "text_en": "Dilsey arrives at the church in Jefferson with Benjy, Frony and Luster. Other worshippers gather around them as the Easter service is about to begin.",
+    "text_zh": "迪尔西与班吉、弗罗妮和勒斯特来到杰斐逊的教堂。复活节礼拜即将开始，其他礼拜者也在他们周围聚集。",
     "highlight_en": [
       "Jefferson"
     ],
-    "status": "draft",
-    "fact_source": "https://en.wikipedia.org/wiki/The_Sound_and_the_Fury",
     "highlight_zh": [
       "杰斐逊"
-    ]
+    ],
+    "status": "draft",
+    "fact_source": "https://faulkner.drupal.shanti.virginia.edu/content/sound-and-fury-292-event"
   },
   {
-    "id": "tewwg-s1",
+    "id": "ustewwg-s1",
     "kind": "scene",
     "book_id": "their-eyes-were-watching-god",
     "place_ids": [
       "eatonville"
     ],
-    "location": "Janie’s marriage to Joe Starks",
-    "location_zh": "珍妮与乔·斯塔克斯的婚姻",
-    "text_en": "In Eatonville, Joe Starks builds his standing through his store and public role, while Janie finds her freedom increasingly restricted.",
-    "text_zh": "在伊顿维尔，乔·斯塔克斯通过商店和公共职务建立威望，珍妮却感到自己的自由日益受限。",
+    "location": "Chapter 10",
+    "location_zh": "第 10 章",
+    "text_en": "With the Eatonville store nearly empty, Tea Cake takes out the checkerboard and invites Janie to play. She sits opposite him, and he coaches her through the moves.",
+    "text_zh": "伊顿维尔的商店几乎没有顾客，茶点拿出跳棋盘，邀珍妮一起下棋。她坐到他对面，听他指点每一步走法。",
     "highlight_en": [
       "Eatonville"
     ],
-    "status": "draft",
-    "fact_source": "https://en.wikipedia.org/wiki/Their_Eyes_Were_Watching_God",
     "highlight_zh": [
       "伊顿维尔"
-    ]
+    ],
+    "status": "draft",
+    "fact_source": "https://pressbooks.library.torontomu.ca/theireyeswerewatchinggod/chapter/10/"
   },
   {
-    "id": "tewwg-s2",
+    "id": "ustewwg-s2",
     "kind": "scene",
     "book_id": "their-eyes-were-watching-god",
     "place_ids": [
       "jacksonville"
     ],
-    "location": "Janie and Tea Cake’s marriage",
-    "location_zh": "珍妮与茶点成婚",
-    "text_en": "Janie leaves Eatonville and travels to Jacksonville to marry Tea Cake, beginning a different life after Joe’s death.",
-    "text_zh": "乔去世后，珍妮离开伊顿维尔，前往杰克逊维尔与茶点结婚，开始另一种生活。",
+    "location": "Chapter 13",
+    "location_zh": "第 13 章",
+    "text_en": "Tea Cake waits at the Jacksonville station in a blue suit and straw hat. When Janie gets off the train, he takes her straight to a preacher’s house to marry.",
+    "text_zh": "茶点穿着蓝西装、戴着草帽，在杰克逊维尔车站等候。珍妮一下火车，他便带她直奔牧师家结婚。",
     "highlight_en": [
       "Jacksonville"
     ],
-    "status": "draft",
-    "fact_source": "https://en.wikipedia.org/wiki/Their_Eyes_Were_Watching_God",
     "highlight_zh": [
       "杰克逊维尔"
-    ]
+    ],
+    "status": "draft",
+    "fact_source": "https://pressbooks.library.torontomu.ca/theireyeswerewatchinggod/chapter/13/"
   },
   {
-    "id": "nas-s1",
+    "id": "usnas-s1",
     "kind": "scene",
-    "book_id": "nick-adams-stories",
+    "book_id": "in-our-time",
     "place_ids": [
       "seney"
     ],
@@ -746,27 +605,27 @@
     ]
   },
   {
-    "id": "nas-s2",
+    "id": "usnas-s2",
     "kind": "scene",
-    "book_id": "nick-adams-stories",
+    "book_id": "in-our-time",
     "place_ids": [
       "fox-river"
     ],
     "location": "Big Two-Hearted River, Part 2",
     "location_zh": "《大双心河》第二部",
-    "text_en": "Nick fishes alone and concentrates on the practical details of the river and his tackle; the Fox River supplied the story’s real-world fishing landscape.",
-    "text_zh": "尼克独自垂钓，专注于河流与钓具的具体细节；福克斯河为这个故事提供了现实中的垂钓环境。",
+    "text_en": "Wading into the river, Nick releases a small trout; when he moves into a deeper pool, a much larger fish takes the bait and escapes.",
+    "text_zh": "尼克涉进河里，把钓到的一条小鳟鱼放回水中；他移到更深的水潭，一条大得多的鱼咬住鱼饵，却逃脱了。",
     "highlight_en": [
-      "Fox River"
+      "river"
     ],
     "status": "draft",
-    "fact_source": "https://www.michiganhemingwaysociety.org/publications/hemingway-in-seney/",
+    "fact_source": "https://en.wikipedia.org/wiki/Big_Two-Hearted_River",
     "highlight_zh": [
-      "福克斯河"
+      "河里"
     ]
   },
   {
-    "id": "ld-s1",
+    "id": "usld-s1",
     "kind": "scene",
     "book_id": "lonesome-dove",
     "place_ids": [
@@ -786,7 +645,7 @@
     ]
   },
   {
-    "id": "ld-s2",
+    "id": "usld-s2",
     "kind": "scene",
     "book_id": "lonesome-dove",
     "place_ids": [
@@ -806,30 +665,27 @@
     ]
   },
   {
-    "id": "ri-1",
-    "book_id": "roughing-it",
+    "id": "usri-1",
+    "kind": "scene",
+    "book_id": "us-little-house-on-the-prairie",
     "place_ids": [
-      "marysville"
+      "us-independence-ingalls-site"
     ],
-    "location": "Chapter 3",
-    "location_zh": "第3章",
-    "text_en": "By and by we passed through Marysville, and over the Big Blue and Little\r\nSandy; thence about a mile, and entered Nebraska.",
-    "text_zh": "不久我们经过马里斯维尔，越过大蓝河和小桑迪河；再走大约一英里，就进入了内布拉斯加。",
+    "location": "Chapter 12, Fresh Water to Drink",
+    "location_zh": "第12章：新鲜的饮用水",
+    "text_en": "At the prairie homesite associated with the Ingalls place near Independence, Laura watches the well rescue: Pa climbs down to secure the unconscious Mr. Scott, then he and Ma turn the windlass to bring their neighbor back into the air.",
+    "text_zh": "在以独立城附近英格尔斯旧居为背景的草原家园，劳拉目睹了一场井下救援：爸爸下井给昏迷的斯科特先生系好绳索，随后与妈妈一同转动绞盘，把邻居拉回地面。",
     "highlight_en": [
-      "Marysville"
+      "Independence"
     ],
     "highlight_zh": [
-      "马里斯维尔"
+      "独立城"
     ],
-    "translation": "original",
-    "source": {
-      "kind": "gutenberg",
-      "id": 3177
-    },
-    "status": "draft"
+    "status": "draft",
+    "fact_source": "https://www.fadedpage.com/books/20200415/html.php"
   },
   {
-    "id": "ri-2",
+    "id": "usri-2",
     "book_id": "roughing-it",
     "place_ids": [
       "salt-lake-city"
@@ -852,7 +708,7 @@
     "status": "draft"
   },
   {
-    "id": "ri-3",
+    "id": "usri-3",
     "book_id": "roughing-it",
     "place_ids": [
       "virginia-city"
@@ -875,7 +731,7 @@
     "status": "draft"
   },
   {
-    "id": "ri-4",
+    "id": "usri-4",
     "book_id": "roughing-it",
     "place_ids": [
       "honolulu"
@@ -898,17 +754,17 @@
     "status": "draft"
   },
   {
-    "id": "tia-1",
-    "book_id": "travels-in-alaska",
+    "id": "ustia-1",
+    "book_id": "us-steep-trails",
     "place_ids": [
       "mount-hood"
     ],
-    "location": "Chapter 1, Puget Sound and British Columbia",
-    "location_zh": "第1章，普吉特海湾与不列颠哥伦比亚",
-    "text_en": "Mt. Baker, to the northward, is about 10,700 feet\r\nhigh, a noble mountain. So also are Mt. Adams, Mt. St. Helens, and Mt.\r\nHood. The latter, overlooking the town of Portland, is perhaps the best\r\nknown.",
-    "text_zh": "北面的贝克山高约一万零七百英尺，是一座雄伟的山。亚当斯山、圣海伦斯山和胡德山也同样雄伟。其中俯瞰波特兰的胡德山，也许最为人熟知。",
+    "location": "Chapter 21, The Physical and Climatic Characteristics of Oregon",
+    "location_zh": "第21章：俄勒冈的地形与气候特点",
+    "text_en": "Looking\r\nacross the forest, over which the mellow light of the sunset was\r\nstreaming, I soon discovered the source of my friend’s excitement.\r\nThere stood Mount Hood in all the glory of the alpenglow, looming\r\nimmensely high, beaming with intelligence, and so impressive that one\r\nwas overawed as if suddenly brought before some superior being newly\r\narrived from the sky.",
+    "text_zh": "望过森林，落日柔和的光正流泻其上，我很快明白朋友为什么如此激动。胡德山矗立在那里，沐浴着壮丽的山巅晚霞，高得不可思议，仿佛闪耀着智慧；那景象令人震撼，仿佛突然置身于一位刚从天空降临的超凡存在面前。",
     "highlight_en": [
-      "Hood"
+      "Mount Hood"
     ],
     "highlight_zh": [
       "胡德山"
@@ -916,12 +772,12 @@
     "translation": "original",
     "source": {
       "kind": "gutenberg",
-      "id": 7345
+      "id": 326
     },
     "status": "draft"
   },
   {
-    "id": "tia-2",
+    "id": "ustia-2",
     "book_id": "travels-in-alaska",
     "place_ids": [
       "seattle",
@@ -947,7 +803,7 @@
     "status": "draft"
   },
   {
-    "id": "tia-3",
+    "id": "ustia-3",
     "book_id": "travels-in-alaska",
     "place_ids": [
       "wrangell"
@@ -970,7 +826,7 @@
     "status": "draft"
   },
   {
-    "id": "vir-1",
+    "id": "usvir-1",
     "book_id": "virginian",
     "place_ids": [
       "medicine-bow"
@@ -993,7 +849,7 @@
     "status": "draft"
   },
   {
-    "id": "myan-1",
+    "id": "usmyan-1",
     "book_id": "my-antonia",
     "place_ids": [
       "lincoln-nebraska"
@@ -1016,7 +872,7 @@
     "status": "draft"
   },
   {
-    "id": "opion-1",
+    "id": "usopion-1",
     "book_id": "o-pioneers",
     "place_ids": [
       "omaha"
@@ -1039,7 +895,7 @@
     "status": "draft"
   },
   {
-    "id": "mtr-1",
+    "id": "usmtr-1",
     "book_id": "main-travelled-roads",
     "place_ids": [
       "ordway"
@@ -1062,39 +918,36 @@
     "status": "draft"
   },
   {
-    "id": "gow-s1",
+    "id": "usgow-s1",
     "kind": "scene",
     "book_id": "grapes-of-wrath",
     "place_ids": [
-      "gallup",
       "flagstaff"
     ],
-    "location": "Chapter 12",
-    "location_zh": "第12章",
-    "text_en": "The account of westward migration follows Route 66 through Gallup and Flagstaff. Families face breakdowns and desert travel while learning to help one another.",
-    "text_zh": "描写西迁的章节沿着六十六号公路经过盖洛普和弗拉格斯塔夫。各家面对车辆故障和沙漠旅途，也逐渐学会相互扶持。",
+    "location": "Chapter 18, crossing the Arizona high country",
+    "location_zh": "第18章：穿越亚利桑那高地",
+    "text_en": "As the Joads climb toward Flagstaff, short trees give way to taller forest and the cars struggle uphill, steaming. Beyond the summit the road runs out across open plateaus; ahead, water will have to be bought by the gallon.",
+    "text_zh": "乔德一家向弗拉格斯塔夫爬升时，低矮树木渐渐变成高大的森林，汽车冒着蒸汽艰难上坡。越过高点，道路伸向开阔的高原；再往前，饮水就得按加仑购买。",
     "highlight_en": [
-      "Gallup",
       "Flagstaff"
     ],
     "highlight_zh": [
-      "盖洛普",
       "弗拉格斯塔夫"
     ],
     "status": "draft",
-    "fact_source": "https://americanliterature.com/author/john-steinbeck/book/the-grapes-of-wrath/chapter-12"
+    "fact_source": "https://s3.amazonaws.com/scschoolfiles/112/grapes_of_wrath_john_steinbeck2.pdf"
   },
   {
-    "id": "gow-s2",
+    "id": "usgow-s2",
     "kind": "scene",
     "book_id": "grapes-of-wrath",
     "place_ids": [
       "sallisaw"
     ],
-    "location": "Opening chapters",
-    "location_zh": "开篇数章",
-    "text_en": "Returning from prison to the countryside near Sallisaw, Tom meets Jim Casy. At home they discover that the family has been forced off its land.",
-    "text_zh": "汤姆出狱后回到萨利索附近的乡间，遇见吉姆·凯西。他们回家后发现，家人已被迫离开土地。",
+    "location": "Chapter 6, the deserted Joad home",
+    "location_zh": "第6章：荒废的乔德家",
+    "text_en": "Near Sallisaw, Tom and Casy find the Joad house tilted off its foundations and emptied of furniture. Tom realizes that even the neighbors have gone: otherwise someone would have salvaged the useful boards.",
+    "text_zh": "在萨利索附近，汤姆和凯西发现乔德家的房屋歪离地基，家具全无。汤姆意识到连邻居也已离开：否则早会有人拆走还能用的木板。",
     "highlight_en": [
       "Sallisaw"
     ],
@@ -1102,19 +955,19 @@
       "萨利索"
     ],
     "status": "draft",
-    "fact_source": "https://en.wikipedia.org/wiki/The_Grapes_of_Wrath"
+    "fact_source": "https://www.litcharts.com/lit/the-grapes-of-wrath/chapter-6"
   },
   {
-    "id": "gow-s3",
+    "id": "usgow-s3",
     "kind": "scene",
     "book_id": "grapes-of-wrath",
     "place_ids": [
       "weedpatch-camp"
     ],
-    "location": "Government camp episode",
-    "location_zh": "政府营地片段",
-    "text_en": "At the government camp associated with Weedpatch, the Joads find washing facilities and a community governed by its residents. The improvement in daily life cannot solve their shortage of paid work.",
-    "text_zh": "在以威德帕奇为背景的政府营地，乔德一家找到了洗浴设施，也见到由居民自治的社区。生活条件改善了，却仍解决不了缺少有酬工作的困境。",
+    "location": "Chapter 22, the sanitary unit",
+    "location_zh": "第22章：卫生设施",
+    "text_en": "In the government camp modeled on Weedpatch, Winfield flushes a toilet and the sudden rush of water alarms him and Ruthie: they think they have broken it. Ma later laughs and explains how it works.",
+    "text_zh": "在以威德帕奇为原型的政府营地，温菲尔德按下马桶冲水，突如其来的水声吓坏了他和露西：他们以为弄坏了它。妈妈随后笑着解释了冲水的原理。",
     "highlight_en": [
       "Weedpatch"
     ],
@@ -1122,19 +975,19 @@
       "威德帕奇"
     ],
     "status": "draft",
-    "fact_source": "https://www.steinbeckintheschools.com/the-grapes-of-wrath-reading-guides/setting"
+    "fact_source": "https://www.bookrags.com/notes/gow/part22.html"
   },
   {
-    "id": "otr-s1",
+    "id": "usotr-s1",
     "kind": "scene",
     "book_id": "on-the-road",
     "place_ids": [
       "denver"
     ],
-    "location": "Part 1",
-    "location_zh": "第一部",
-    "text_en": "On his first trip west, Sal reaches Denver and joins Dean, Carlo and their friends. Their parties and restless plans draw him further into Dean’s circle.",
-    "text_zh": "第一次西行时，萨尔抵达丹佛，与迪安、卡洛及朋友们会合。聚会和不断变动的计划让他更深地融入迪安的圈子。",
+    "location": "Part 1, Chapter 6",
+    "location_zh": "第一部，第6章",
+    "text_en": "Sal’s first stop in Denver is Chad King’s house. There he learns that Dean and Carlo are also in town, but Chad has not been seeing them; the awkward news makes Sal sense a split among his friends.",
+    "text_zh": "萨尔抵达丹佛后，先到查德·金家。他得知迪安和卡洛也在城里，但查德并没有与他们来往；这则尴尬的消息让他察觉朋友之间出现了裂痕。",
     "highlight_en": [
       "Denver"
     ],
@@ -1142,19 +995,19 @@
       "丹佛"
     ],
     "status": "draft",
-    "fact_source": "https://en.wikipedia.org/wiki/On_the_Road"
+    "fact_source": "https://www.sparknotes.com/lit/ontheroad/section3/"
   },
   {
-    "id": "otr-s2",
+    "id": "usotr-s2",
     "kind": "scene",
     "book_id": "on-the-road",
     "place_ids": [
       "san-francisco"
     ],
-    "location": "Part 1",
-    "location_zh": "第一部",
-    "text_en": "In San Francisco, Sal stays with Remi and Lee Ann. Remi finds him work guarding a camp for merchant sailors, but Sal soon moves on.",
-    "text_zh": "在旧金山，萨尔与雷米和莉安住在一起。雷米替他找到看守商船海员营地的工作，但萨尔很快又上路了。",
+    "location": "Part 1, Chapter 11",
+    "location_zh": "第一部，第11章",
+    "text_en": "Before leaving Mill City, Sal climbs to a canyon rim and looks across San Francisco toward the Pacific. At the continent’s western edge, he feels that the only direction left is back east.",
+    "text_zh": "离开米尔城前，萨尔爬上峡谷边缘，越过旧金山眺望太平洋。来到大陆西端，他觉得剩下的方向只有返回东方。",
     "highlight_en": [
       "San Francisco"
     ],
@@ -1162,19 +1015,19 @@
       "旧金山"
     ],
     "status": "draft",
-    "fact_source": "https://en.wikipedia.org/wiki/On_the_Road"
+    "fact_source": "https://www.sparknotes.com/lit/ontheroad/section4/"
   },
   {
-    "id": "twc-s1",
+    "id": "ustwc-s1",
     "kind": "scene",
     "book_id": "travels-with-charley",
     "place_ids": [
       "fargo"
     ],
-    "location": "Part 3, North Dakota",
-    "location_zh": "第三部，北达科他",
-    "text_en": "Steinbeck arrives in Fargo with a vivid imagined city already in mind. Its everyday bustle differs from that private picture, which he chooses to keep.",
-    "text_zh": "斯坦贝克抵达法戈时，心中早已有了一座鲜明的想象之城。眼前日常的繁忙景象与之不同，但他仍愿意保留那个私人想象。",
+    "location": "Part 3, entering Fargo",
+    "location_zh": "第三部：进入法戈",
+    "text_en": "Crossing the Red River into Fargo on a fine autumn day, Steinbeck finds himself hemmed in by ordinary traffic: a truck ahead and a Thunderbird behind. The crowded, neon-lit city clashes with the place of blizzards and dust storms he had imagined.",
+    "text_zh": "秋日晴天，斯坦贝克跨过红河进入法戈，却被寻常车流夹在中间：前面是卡车，后面是雷鸟轿车。拥挤的街道和霓虹灯，与他想象中饱受暴雪和沙尘侵袭的城市大不相同。",
     "highlight_en": [
       "Fargo"
     ],
@@ -1182,19 +1035,19 @@
       "法戈"
     ],
     "status": "draft",
-    "fact_source": "https://en.wikipedia.org/wiki/Travels_with_Charley"
+    "fact_source": "https://gutenbergcanada.ca/ebooks/steinbeckj-travelswithcharley/steinbeckj-travelswithcharley-00-h.html"
   },
   {
-    "id": "twc-s2",
+    "id": "ustwc-s2",
     "kind": "scene",
     "book_id": "travels-with-charley",
     "place_ids": [
       "billings"
     ],
-    "location": "Part 3, Montana",
-    "location_zh": "第三部，蒙大拿",
-    "text_en": "In Billings, Steinbeck buys a hat. Shopping gives him another reason to linger in a state whose towns and people have won his affection.",
-    "text_zh": "在比灵斯，斯坦贝克买了一顶帽子。这个州的城镇和居民令他喜爱，购物又给了他一个多逗留片刻的理由。",
+    "location": "Part 3, buying a hat in Billings",
+    "location_zh": "第三部：在比灵斯买帽子",
+    "text_en": "In Billings, Steinbeck buys a western hat, giving himself a reason to stay a little longer in Montana. His battered naval cap had been attracting attention so far inland, and he replaces it with a restrained stockman’s Stetson.",
+    "text_zh": "在比灵斯，斯坦贝克买下一顶西部帽，也给自己一个在蒙大拿多停留片刻的理由。来到远离海岸的内陆，他那顶破旧海军帽格外惹眼，于是换成一顶式样稳重的斯泰森牧人帽。",
     "highlight_en": [
       "Billings"
     ],
@@ -1205,16 +1058,16 @@
     "fact_source": "https://gutenbergcanada.ca/ebooks/steinbeckj-travelswithcharley/steinbeckj-travelswithcharley-00-h.html"
   },
   {
-    "id": "aor-s1",
+    "id": "usaor-s1",
     "kind": "scene",
     "book_id": "angle-of-repose",
     "place_ids": [
       "kuna"
     ],
-    "location": "Idaho section, Kuna",
-    "location_zh": "爱达荷部分，库纳",
-    "text_en": "The account of the Wards’ Idaho years turns to Kuna. The small settlement becomes a way of conveying the isolation of their western life.",
-    "text_zh": "叙述沃德一家在爱达荷的岁月时，故事转向库纳。这个小聚落让人感受到他们西部生活中的孤寂。",
+    "location": "Idaho section, Kuna station landscape",
+    "location_zh": "爱达荷部分：库纳车站风景",
+    "text_en": "At Kuna, the narration pauses as the train’s bustle gives way to wind humming in the wires. A stage road and the new railway stretch away in different directions through treeless sage country.",
+    "text_zh": "在库纳，叙述停留于列车的喧闹散去、风开始在电线上低吟的一刻。驿车道与新铁轨伸向不同方向，四周是没有树木的蒿草荒原。",
     "highlight_en": [
       "Kuna"
     ],
@@ -1222,19 +1075,19 @@
       "库纳"
     ],
     "status": "draft",
-    "fact_source": "https://en.wikipedia.org/wiki/Kuna,_Idaho"
+    "fact_source": "https://rohanmaitzen.com/2014/06/"
   },
   {
-    "id": "aor-s2",
+    "id": "usaor-s2",
     "kind": "scene",
     "book_id": "angle-of-repose",
     "place_ids": [
       "leadville"
     ],
-    "location": "Colorado section, Leadville",
-    "location_zh": "科罗拉多部分，莱德维尔",
-    "text_en": "The family’s western history includes Leadville, where mining work shapes their circumstances. Lyman reconstructs this world while trying to understand his grandparents’ marriage.",
-    "text_zh": "家族的西部经历包括莱德维尔，矿业工作塑造了他们的生活处境。莱曼重建这个世界，试图理解祖父母的婚姻。",
+    "location": "Part 4, arrival at the Leadville cabin",
+    "location_zh": "第四部：抵达莱德维尔小屋",
+    "text_en": "When Susan reaches the cabin in Leadville, she struggles to hide her disappointment at its cramped interior. Frank runs up and explains that the commotion in town came from a hanging, turning her arrival at a new home into an encounter with mining-town violence.",
+    "text_zh": "苏珊来到莱德维尔的小屋，看见狭窄的室内，努力掩饰失望。弗兰克跑来，解释说镇上的骚动源于一场绞刑，让她初到新居的一刻与矿镇的暴力相撞。",
     "highlight_en": [
       "Leadville"
     ],
@@ -1242,6 +1095,951 @@
       "莱德维尔"
     ],
     "status": "draft",
-    "fact_source": "https://en.wikipedia.org/wiki/Angle_of_Repose"
+    "fact_source": "https://www.supersummary.com/angle-of-repose/parts-3-4/"
+  },
+  {
+    "id": "usscl-1",
+    "book_id": "scarlet-letter",
+    "place_ids": [
+      "us-boston-scarlet-letter"
+    ],
+    "location": "Chapter 2, The Market-Place",
+    "location_zh": "第2章：市场",
+    "text_en": "The grass-plot before the jail, in Prison Lane, on a certain summer\r\nmorning, not less than two centuries ago, was occupied by a pretty\r\nlarge number of the inhabitants of Boston, all with their eyes intently\r\nfastened on the iron-clamped oaken door. Amongst any other population,\r\nor at a later period in the history of New England, the grim rigidity\r\nthat petrified the bearded physiognomies of these good people would\r\nhave augured some awful business in hand.",
+    "text_zh": "一个夏日的早晨，距今已不少于两个世纪，监狱巷中牢门前的草地上聚集了许多波士顿居民，他们的目光全都紧盯着铁箍橡木门。若换一群人，或换到新英格兰历史上稍晚的年代，这些蓄须面孔上石头般严酷的神情，必定预示着某种可怕的事情即将发生。",
+    "highlight_en": [
+      "Boston",
+      "Prison Lane"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 33
+    },
+    "status": "draft"
+  },
+  {
+    "id": "usscl-2",
+    "book_id": "scarlet-letter",
+    "place_ids": [
+      "us-salem-custom-house"
+    ],
+    "location": "The Custom-House, introductory sketch",
+    "location_zh": "导言：海关大楼",
+    "text_en": "The pavement round about the above-described edifice—which we may as\r\nwell name at once as the Custom-House of the port—has grass enough\r\ngrowing in its chinks to show that it has not, of late days, been worn\r\nby any multitudinous resort of business. In some months of the year,\r\nhowever, there often chances a forenoon when affairs move onward with a\r\nlivelier tread. Such occasions might remind the elderly citizen of that\r\nperiod, before the last war with England, when Salem was a port by\r\nitself; not scorned, as she is now, by her own merchants and\r\nship-owners, who permit her wharves to crumble to ruin while their\r\nventures go to swell, needlessly and imperceptibly, the mighty flood of\r\ncommerce at New York or Boston.",
+    "text_zh": "上述建筑——不妨直说，就是本港海关大楼——周围铺路石的缝隙里长着足够多的草，可见近来这里并没有熙攘的生意人踩踏。有些月份，却也偶尔有一个上午，事务的脚步显得轻快些。这时，年长的市民或许会想起上次与英国交战以前，塞勒姆独立成港的岁月；那时它还未遭到自己的商人和船主轻视，不像如今，他们任由码头崩塌，自己的买卖却去为纽约或波士顿的巨大商潮增添微不足道的一滴。",
+    "highlight_en": [
+      "Custom-House",
+      "Salem"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 33
+    },
+    "status": "draft"
+  },
+  {
+    "id": "usai-1",
+    "book_id": "age-of-innocence",
+    "place_ids": [
+      "us-ny-academy-of-music"
+    ],
+    "location": "Chapter 1",
+    "location_zh": "第1章",
+    "text_en": "On a January evening of the early seventies, Christine Nilsson was\r\nsinging in Faust at the Academy of Music in New York.\r\n\r\nThough there was already talk of the erection, in remote metropolitan\r\ndistances \"above the Forties,\" of a new Opera House which should\r\ncompete in costliness and splendour with those of the great European\r\ncapitals, the world of fashion was still content to reassemble every\r\nwinter in the shabby red and gold boxes of the sociable old Academy.\r\nConservatives cherished it for being small and inconvenient, and thus\r\nkeeping out the \"new people\" whom New York was beginning to dread and\r\nyet be drawn to; and the sentimental clung to it for its historic\r\nassociations, and the musical for its excellent acoustics, always so\r\nproblematic a quality in halls built for the hearing of music.",
+    "text_zh": "十九世纪七十年代初，一个一月的夜晚，克里斯蒂娜·尼尔松正在纽约音乐学院歌剧院演唱《浮士德》。虽然人们已经谈论要在遥远的四十街以北建一座豪华的新歌剧院，与欧洲大都市的剧院争胜，时髦社会仍满足于每年冬季在旧歌剧院破旧的红金包厢里重聚。保守者珍爱它的狭小与不便，因为这样便能挡住纽约既害怕又受其吸引的“新人”；多情的人留恋它的历史，爱乐者则看重它优良的音响——这在专为音乐建造的大厅里，往往反而难以保证。",
+    "highlight_en": [
+      "Academy of Music",
+      "New York"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 541
+    },
+    "status": "draft"
+  },
+  {
+    "id": "usai-2",
+    "book_id": "age-of-innocence",
+    "place_ids": [
+      "us-ny-lower-fifth-avenue"
+    ],
+    "location": "Chapter 12",
+    "location_zh": "第12章",
+    "text_en": "Old-fashioned New York dined at seven, and the habit of after-dinner\r\ncalls, though derided in Archer's set, still generally prevailed. As\r\nthe young man strolled up Fifth Avenue from Waverley Place, the long\r\nthoroughfare was deserted but for a group of carriages standing before\r\nthe Reggie Chiverses' (where there was a dinner for the Duke), and the\r\noccasional figure of an elderly gentleman in heavy overcoat and muffler\r\nascending a brownstone doorstep and disappearing into a gas-lit hall.",
+    "text_zh": "老派纽约人七点吃晚饭；饭后拜访的习惯虽然受到阿切尔那一圈人的嘲笑，却仍普遍存在。年轻人从韦弗利广场沿第五大道漫步而上，长街几乎空无一人，只有里吉·奇弗斯家门前停着一排马车——那里正为公爵设宴——偶尔有一位穿厚大衣、围着围巾的老先生，走上褐石台阶，消失在煤气灯照亮的门厅里。",
+    "highlight_en": [
+      "Fifth Avenue"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 541
+    },
+    "status": "draft"
+  },
+  {
+    "id": "usai-3",
+    "book_id": "age-of-innocence",
+    "place_ids": [
+      "us-ny-lower-fifth-avenue"
+    ],
+    "location": "Chapter 26",
+    "location_zh": "第26章",
+    "text_en": "Every year on the fifteenth of October Fifth Avenue opened its\r\nshutters, unrolled its carpets and hung up its triple layer of\r\nwindow-curtains.\r\n\r\nBy the first of November this household ritual was over, and society\r\nhad begun to look about and take stock of itself. By the fifteenth\r\nthe season was in full blast, Opera and theatres were putting forth\r\ntheir new attractions, dinner-engagements were accumulating, and dates\r\nfor dances being fixed. And punctually at about this time Mrs. Archer\r\nalways said that New York was very much changed.",
+    "text_zh": "每年十月十五日，第五大道便打开百叶窗，铺开地毯，挂起三层窗帘。到十一月一日，这套家居仪式已经完成，社交界开始环顾四周、检点自身。十五日时，社交季已如火如荼，歌剧院与剧场推出新节目，晚宴邀约不断累积，舞会日期也陆续敲定。每逢这时，阿切尔夫人总会准时感叹，纽约已大大变了。",
+    "highlight_en": [
+      "Fifth Avenue",
+      "New York"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 541
+    },
+    "status": "draft"
+  },
+  {
+    "id": "usan-ct1",
+    "book_id": "american-notes",
+    "place_ids": [
+      "us-hartford-dickens"
+    ],
+    "location": "Chapter 5, Hartford",
+    "location_zh": "第5章：哈特福德",
+    "text_en": "We tarried here, four days.  The town is beautifully situated in a basin\r\nof green hills; the soil is rich, well-wooded, and carefully improved.\r\nIt is the seat of the local legislature of Connecticut, which sage body\r\nenacted, in bygone times, the renowned code of ‘Blue Laws,’ in virtue\r\nwhereof, among other enlightened provisions, any citizen who could be\r\nproved to have kissed his wife on Sunday, was punishable, I believe, with\r\nthe stocks.",
+    "text_zh": "我们在这里停留了四天。城镇优美地坐落在绿丘围成的盆地里，土地肥沃，林木茂盛，经过精心整治。这里是康涅狄格地方议会的所在地；这个贤明的机构在往昔制定了著名的“蓝色法规”，其中开明的条款之一是：凡被证实在星期日亲吻妻子的市民，我相信，都可能受到足枷惩罚。",
+    "highlight_en": [
+      "Connecticut"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 675
+    },
+    "status": "draft"
+  },
+  {
+    "id": "usan-ct2",
+    "book_id": "american-notes",
+    "place_ids": [
+      "us-hartford-dickens"
+    ],
+    "location": "Chapter 5, the Charter Oak and public institutions",
+    "location_zh": "第5章：宪章橡树与公共机构",
+    "text_en": "In Hartford stands the famous oak in which the charter of King Charles\r\nwas hidden.  It is now inclosed in a gentleman’s garden.  In the State\r\nHouse is the charter itself.  I found the courts of law here, just the\r\nsame as at Boston; the public institutions almost as good.  The Insane\r\nAsylum is admirably conducted, and so is the Institution for the Deaf and\r\nDumb.",
+    "text_zh": "哈特福德有一棵著名的橡树，查理国王的宪章曾藏在其中。如今它被围在一位绅士的花园里。宪章本身则存放在州议会大楼。我发现这里的法庭与波士顿完全一样，公共机构也几乎一样好。精神病院管理得十分出色，聋哑人教育机构也是如此。",
+    "highlight_en": [
+      "Hartford",
+      "State"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 675
+    },
+    "status": "draft"
+  },
+  {
+    "id": "usan-ct3",
+    "book_id": "american-notes",
+    "place_ids": [
+      "us-hartford-dickens"
+    ],
+    "location": "Chapter 5, an encounter at the Hartford asylum",
+    "location_zh": "第5章：哈特福德疗养院中的一次交谈",
+    "text_en": "There was one little, prim old lady, of very smiling and good-humoured\r\nappearance, who came sidling up to me from the end of a long passage, and\r\nwith a curtsey of inexpressible condescension, propounded this\r\nunaccountable inquiry:\r\n\r\n‘Does Pontefract still flourish, sir, upon the soil of England?’\r\n\r\n‘He does, ma’am,’ I rejoined.\r\n\r\n‘When you last saw him, sir, he was—’\r\n\r\n‘Well, ma’am,’ said I, ‘extremely well.  He begged me to present his\r\ncompliments.  I never saw him looking better.’",
+    "text_zh": "有一位矮小端庄的老妇人，面带笑容、神情和善，从长廊那头侧身走来，行了个带着难以形容的屈尊意味的礼，问了一个莫名其妙的问题：“先生，庞特弗拉克特还在英格兰土地上兴旺地活着吗？”我答道：“是的，夫人。”“您上次见到他时，他——”“他很好，夫人，”我说，“好极了。他托我向您问候。我从没见他气色这样好。”",
+    "highlight_en": [
+      "old lady"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 675
+    },
+    "status": "draft"
+  },
+  {
+    "id": "usan-ct4",
+    "book_id": "american-notes",
+    "place_ids": [
+      "us-hartford-dickens"
+    ],
+    "location": "Chapter 5, the musician at the Hartford asylum",
+    "location_zh": "第5章：哈特福德疗养院里的乐手",
+    "text_en": "There was another: a young man, whose madness was love and music.  After\r\nplaying on the accordion a march he had composed, he was very anxious\r\nthat I should walk into his chamber, which I immediately did.\r\n\r\nBy way of being very knowing, and humouring him to the top of his bent, I\r\nwent to the window, which commanded a beautiful prospect, and remarked,\r\nwith an address upon which I greatly plumed myself:\r\n\r\n‘What a delicious country you have about these lodgings of yours!’\r\n\r\n‘Poh!’ said he, moving his fingers carelessly over the notes of his\r\ninstrument: ‘_Well enough for such an Institution as this_!’\r\n\r\nI don’t think I was ever so taken aback in all my life.",
+    "text_zh": "还有一个年轻人，他的疯狂与爱情和音乐有关。他用手风琴奏完自己写的一首进行曲，急切地请我进他的房间，我立刻照办。我想显得很懂他，也尽量顺着他，便走到窗前，欣赏那里的美景，用自以为高明的方式说：“您这住处周围的乡野真美啊！”“哼！”他漫不经心地拨弄着琴键，“对于这样一所机构来说，也算过得去吧！”我想，我这辈子从没这样错愕过。",
+    "highlight_en": [
+      "window",
+      "music"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 675
+    },
+    "status": "draft"
+  },
+  {
+    "id": "usan-ct5",
+    "book_id": "american-notes",
+    "place_ids": [
+      "us-new-haven-dickens"
+    ],
+    "location": "Chapter 5, New Haven",
+    "location_zh": "第5章：纽黑文",
+    "text_en": "New Haven, known also as the City of Elms, is a fine town.  Many of its\r\nstreets (as its _alias_ sufficiently imports) are planted with rows of\r\ngrand old elm-trees; and the same natural ornaments surround Yale\r\nCollege, an establishment of considerable eminence and reputation.  The\r\nvarious departments of this Institution are erected in a kind of park or\r\ncommon in the middle of the town, where they are dimly visible among the\r\nshadowing trees.  The effect is very like that of an old cathedral yard\r\nin England; and when their branches are in full leaf, must be extremely\r\npicturesque.  Even in the winter time, these groups of well-grown trees,\r\nclustering among the busy streets and houses of a thriving city, have a\r\nvery quaint appearance: seeming to bring about a kind of compromise\r\nbetween town and country; as if each had met the other half-way, and\r\nshaken hands upon it; which is at once novel and pleasant.",
+    "text_zh": "纽黑文又名榆树城，是一座美好的城镇。许多街道栽着成排高大的老榆树，同样的天然装饰也环绕着声誉卓著的耶鲁学院。各院系的建筑坐落在城市中央一片公园或公共绿地般的地方，在树荫里隐约可见，颇像英国古老教堂周围的庭院。枝叶茂盛时，这里一定格外如画。即使在冬天，这些成熟的树木簇拥在繁荣城市的繁忙街道与房屋之间，也显得别致，仿佛城市和乡村达成妥协，各自走到半路，握起了手，新鲜而愉快。",
+    "highlight_en": [
+      "New Haven",
+      "Yale"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 675
+    },
+    "status": "draft"
+  },
+  {
+    "id": "uslim-1",
+    "book_id": "life-in-iron-mills",
+    "place_ids": [
+      "us-wheeling-iron-mills"
+    ],
+    "location": "Opening, the narrator’s window",
+    "location_zh": "开篇：叙述者的窗前",
+    "text_en": "The idiosyncrasy of this town is smoke. It rolls sullenly in slow folds\r\nfrom the great chimneys of the iron-foundries, and settles down in\r\nblack, slimy pools on the muddy streets. Smoke on the wharves, smoke on\r\nthe dingy boats, on the yellow river,--clinging in a coating of greasy\r\nsoot to the house-front, the two faded poplars, the faces of the\r\npassers-by. The long train of mules, dragging masses of pig-iron through\r\nthe narrow street, have a foul vapor hanging to their reeking sides.\r\nHere, inside, is a little broken figure of an angel pointing upward from\r\nthe mantel-shelf; but even its wings are covered with smoke, clotted\r\nand black. Smoke everywhere! A dirty canary chirps desolately in a\r\ncage beside me. Its dream of green fields and sunshine is a very old\r\ndream,--almost worn out, I think.",
+    "text_zh": "这座城镇的特征就是烟。浓烟从炼铁厂的大烟囱里缓慢滚出，在泥泞街道上沉成黑色黏腻的水洼。码头上有烟，肮脏的船上有烟，黄色的河面上有烟；油腻的烟灰贴住屋子的正面、两棵褪色的白杨和行人的脸。长长的骡队拖着生铁穿过窄街，热气腾腾的身体旁悬着污浊的蒸气。屋内壁炉架上，一尊破损的小天使伸手指向上方，连它的翅膀也被烟熏得结块发黑。到处都是烟！我身旁笼中的一只脏金丝雀凄凉地鸣叫。它关于绿野与阳光的梦已很古老，我想，几乎磨损殆尽了。",
+    "highlight_en": [
+      "smoke",
+      "town"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 876
+    },
+    "status": "draft"
+  },
+  {
+    "id": "usedl-s1",
+    "kind": "scene",
+    "book_id": "letters-emily-dickinson",
+    "place_ids": [
+      "us-amherst-dickinson-museum"
+    ],
+    "location": "Letter to Louisa Norcross, December 1861, in the 1924 selection",
+    "location_zh": "致路易莎·诺克罗斯的信，1861年12月，收入1924年选集",
+    "text_en": "At her Amherst home, Dickinson tells Louisa that snow has covered the garden where she picked flowers only days earlier; she watches the surrounding hills change from autumn color to white.",
+    "text_zh": "在阿默斯特的家中，狄金森告诉路易莎，前几天还采过花的花园如今已被雪覆盖；她看着四周的山丘从秋日的色彩转为白色。",
+    "highlight_en": [
+      "Amherst",
+      "garden"
+    ],
+    "highlight_zh": [
+      "阿默斯特",
+      "花园"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikisource.org/wiki/The_Life_and_Letters_of_Emily_Dickinson/Letters_of_Emily_Dickinson"
+  },
+  {
+    "id": "us-cw-1",
+    "book_id": "us-call-of-the-wild",
+    "place_ids": [
+      "us-santa-clara-valley"
+    ],
+    "location": "Chapter 1, Into the Primitive",
+    "location_zh": "第1章：走向原始",
+    "text_en": "Buck lived at a big house in the sun-kissed Santa Clara Valley. Judge\r\nMiller’s place, it was called. It stood back from the road, half hidden\r\namong the trees, through which glimpses could be caught of the wide\r\ncool veranda that ran around its four sides. The house was approached\r\nby gravelled driveways which wound about through wide-spreading lawns\r\nand under the interlacing boughs of tall poplars.",
+    "text_zh": "巴克住在阳光普照的圣克拉拉谷的一座大宅里，人们称它为米勒法官的庄园。房子远离道路，半掩在树丛中，透过枝叶可以瞥见环绕四面的宽阔凉爽的走廊。通往房子的碎石车道蜿蜒穿过开阔的草坪，伸向高大白杨交错的枝条下。",
+    "highlight_en": [
+      "Santa Clara Valley"
+    ],
+    "highlight_zh": [
+      "圣克拉拉谷"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 215
+    },
+    "status": "draft"
+  },
+  {
+    "id": "us-cw-2",
+    "book_id": "us-call-of-the-wild",
+    "place_ids": [
+      "us-santa-clara-valley"
+    ],
+    "location": "Chapter 1, Into the Primitive",
+    "location_zh": "第1章：走向原始",
+    "text_en": "The Judge was at a meeting of the Raisin Growers’ Association, and the\r\nboys were busy organizing an athletic club, on the memorable night of\r\nManuel’s treachery. No one saw him and Buck go off through the orchard\r\non what Buck imagined was merely a stroll. And with the exception of a\r\nsolitary man, no one saw them arrive at the little flag station known\r\nas College Park. This man talked with Manuel, and money chinked between\r\nthem.",
+    "text_zh": "在曼纽尔背叛他的那个难忘的夜晚，法官正在参加葡萄干种植者协会的会议，男孩们忙着组织体育俱乐部。没人看见曼纽尔带着巴克穿过果园，巴克以为不过是去散步。除了一个孤零零的男人，也没人看见他们来到名叫大学公园的小招呼站。那人和曼纽尔交谈，他们之间响起钱币碰撞的声音。",
+    "highlight_en": [
+      "College Park"
+    ],
+    "highlight_zh": [
+      "大学公园"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 215
+    },
+    "status": "draft"
+  },
+  {
+    "id": "us-sw-1",
+    "book_id": "us-sea-wolf",
+    "place_ids": [
+      "san-francisco"
+    ],
+    "location": "Chapter 1",
+    "location_zh": "第1章",
+    "text_en": "Not but that I was afloat in a safe craft, for the _Martinez_ was a new\r\nferry-steamer, making her fourth or fifth trip on the run between\r\nSausalito and San Francisco.  The danger lay in the heavy fog which\r\nblanketed the bay, and of which, as a landsman, I had little\r\napprehension.  In fact, I remember the placid exaltation with which I\r\ntook up my position on the forward upper deck, directly beneath the\r\npilot-house, and allowed the mystery of the fog to lay hold of my\r\nimagination.",
+    "text_zh": "倒不是说我乘坐的船不安全，因为“马丁内斯号”是艘新渡轮，才第四或第五次往返索萨利托与旧金山之间。危险在于笼罩海湾的浓雾，而我这个陆地上的人对此几乎毫无戒心。事实上，我记得自己走上驾驶室正下方的前部上层甲板时，心中充满平静的欣喜，任由雾的神秘占据我的想象。",
+    "highlight_en": [
+      "San Francisco"
+    ],
+    "highlight_zh": [
+      "旧金山"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 1074
+    },
+    "status": "draft"
+  },
+  {
+    "id": "us-rs-1",
+    "book_id": "us-rolling-stones",
+    "place_ids": [
+      "san-antonio"
+    ],
+    "location": "A Fog in Santone",
+    "location_zh": "圣安东尼奥的雾",
+    "text_en": "The purchaser of the morphia wanders into the fog, and at length, finds\r\nhimself upon a little iron bridge, one of the score or more in the heart\r\nof the city, under which the small tortuous river flows. He leans on\r\nthe rail and gasps, for here the mist has concentrated, lying like a\r\nfoot-pad to garrote such of the Three Thousand as creep that way.",
+    "text_zh": "买了吗啡的年轻人走入雾中，最后来到一座小铁桥上。城中心有二十多座这样的桥，下面是蜿蜒的小河。他倚着栏杆喘气，因为雾气聚集在这里，像个埋伏的拦路强盗，准备扼住那三千名病客中摸索到这里的人的喉咙。",
+    "highlight_en": [
+      "iron bridge"
+    ],
+    "highlight_zh": [
+      "铁桥"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 3815
+    },
+    "status": "draft"
+  },
+  {
+    "id": "us-rs-2",
+    "book_id": "us-rolling-stones",
+    "place_ids": [
+      "san-antonio"
+    ],
+    "location": "A Fog in Santone",
+    "location_zh": "圣安东尼奥的雾",
+    "text_en": "Thus Goodall's tempter deserts him. That youth, uncomplaining and\r\nuncaring, takes a spell at coughing, and, recovered, wanders desultorily\r\non down the street, the name of which he neither knows nor recks. At a\r\ncertain point he perceives swinging doors, and hears, filtering between\r\nthem a noise of wind and string instruments. Two men enter from the\r\nstreet as he arrives, and he follows them in. There is a kind of\r\nante-chamber, plentifully set with palms and cactuses and oleanders. At\r\nlittle marble-topped tables some people sit, while soft-shod attendants\r\nbring the beer.",
+    "text_zh": "于是，引诱古德尔的人离开了他。年轻人既不抱怨，也不在乎，咳嗽了一阵，缓过气后便漫无目的地沿街走去，街名是什么，他既不知道也不关心。走到一处，他看见两扇弹簧门，听见门缝里传出的管弦乐声。他到门口时正有两人进去，他便跟在后面。里面像是一间前厅，摆满棕榈、仙人掌和夹竹桃。人们坐在大理石面的小桌旁，穿软鞋的侍者送来啤酒。",
+    "highlight_en": [
+      "Goodall"
+    ],
+    "highlight_zh": [
+      "古德尔"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 3815
+    },
+    "status": "draft"
+  },
+  {
+    "id": "us-rs-3",
+    "book_id": "us-rolling-stones",
+    "place_ids": [
+      "us-austin-land-office"
+    ],
+    "location": "Bexar Scrip No. 2692",
+    "location_zh": "贝克萨土地凭证第2692号",
+    "text_en": "But even now, when you enter the building, you lower your voice, and\r\ntime turns backward for you, for the atmosphere which you breathe is\r\ncold with the exudation of buried generations.\r\n\r\nThe building is stone with a coating of concrete; the walls are\r\nimmensely thick; it is cool in the summer and warm in the winter; it\r\nis isolated and sombre; standing apart from the other state buildings,\r\nsullen and decaying, brooding on the past.",
+    "text_zh": "但即使现在，走进这座建筑，你也会放低声音，仿佛时光倒流，因为你呼吸的空气带着逝去世代渗出的寒意。建筑是石砌的，外面覆着混凝土；墙壁极厚，夏凉冬暖。它孤立而阴沉，与其他州政府建筑保持距离，郁郁地衰朽着，沉思着往昔。",
+    "highlight_en": [
+      "building"
+    ],
+    "highlight_zh": [
+      "建筑"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 3815
+    },
+    "status": "draft"
+  },
+  {
+    "id": "us-rs-4",
+    "book_id": "us-rolling-stones",
+    "place_ids": [
+      "us-austin-land-office"
+    ],
+    "location": "Bexar Scrip No. 2692",
+    "location_zh": "贝克萨土地凭证第2692号",
+    "text_en": "He turned to the file room, with a dozen or more files in his hands,\r\nand accidentally dropped part of them on the floor. As he stooped to\r\npick them up he swiftly thrust Bexar Scrip No. 2692 in the inside breast\r\npocket of his coat.\r\n\r\nThis happened at just half-past four o'clock, and when the file clerk\r\ntook the files he threw them in a pile in his room, came out and locked\r\nthe door.\r\n\r\nThe clerks were moving out of the doors in long, straggling lines.\r\n\r\nIt was closing time.",
+    "text_zh": "他拿着十来份卷宗转身走向档案室，“不小心”把其中几份掉在地上。弯腰捡拾时，他迅速把贝克萨土地凭证第2692号塞进外套内侧的胸袋。这时恰好是四点半。档案员接过卷宗，随手堆在房内，出来锁上了门。职员们拖着长长的、稀稀落落的队伍走向出口。下班时间到了。",
+    "highlight_en": [
+      "Bexar Scrip No. 2692"
+    ],
+    "highlight_zh": [
+      "贝克萨土地凭证第2692号"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 3815
+    },
+    "status": "draft"
+  },
+  {
+    "id": "us-myan-2",
+    "book_id": "my-antonia",
+    "place_ids": [
+      "us-red-cloud"
+    ],
+    "location": "Book 1, The Shimerdas, Chapter 1",
+    "location_zh": "第一部：希默尔达一家，第1章",
+    "text_en": "I had been sleeping, curled up in a red plush seat, for a long while\r\nwhen we reached Black Hawk. Jake roused me and took me by the hand. We\r\nstumbled down from the train to a wooden siding, where men were running\r\nabout with lanterns. I couldn’t see any town, or even distant lights;\r\nwe were surrounded by utter darkness. The engine was panting heavily\r\nafter its long run. In the red glow from the fire-box, a group of\r\npeople stood huddled together on the platform, encumbered by bundles\r\nand boxes.",
+    "text_zh": "到黑鹰镇时，我已经蜷在红色长毛绒座位上睡了很久。杰克把我叫醒，牵起我的手。我们跌跌撞撞地下车，走上木制站台，四周有人提着灯笼奔忙。我看不见镇子，甚至看不到远处的灯火；周围一片漆黑。跑了长路的火车头正沉重地喘息着。炉膛映出的红光里，一群人挤在站台上，身旁堆着包袱和箱子。",
+    "highlight_en": [
+      "Black Hawk"
+    ],
+    "highlight_zh": [
+      "黑鹰镇"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 242
+    },
+    "status": "draft"
+  },
+  {
+    "id": "us-dca-1",
+    "book_id": "us-death-comes-for-the-archbishop",
+    "place_ids": [
+      "us-santa-fe-cathedral"
+    ],
+    "location": "Book 9, Death Comes for the Archbishop, Chapter 2",
+    "location_zh": "第九部：死神来迎接大主教，第2章",
+    "text_en": "Father Latour made his last entry into Santa Fé at the end of a\r\nbrilliant February afternoon; Bernard stopped the horses at the foot of\r\nthe long street to await the sunset.\r\n\r\nWrapped in his Indian blankets, the old Archbishop sat for a long while,\r\nlooking at the open, golden face of his Cathedral. How exactly young\r\nMolny, his French architect, had done what he wanted! Nothing\r\nsensational, simply honest building and good stone-cutting,--good Midi\r\nRomanesque of the plainest. And even now, in winter, when the acacia\r\ntrees before the door were bare, how it was of the South, that church,\r\nhow it sounded the note of the South!",
+    "text_zh": "拉图尔神父最后一次进入圣菲，是在一个灿烂的二月下午将尽时；贝尔纳把马停在长街尽头，等待日落。老主教裹着印第安毯子，久久坐着，注视他那座主教座堂开阔而金色的正面。年轻的法国建筑师莫尔尼多么准确地实现了他的愿望！没有任何炫耀，只有诚实的建筑和精良的石工——最朴素、纯正的法国南部罗马式风格。即使此刻是冬天，门前的洋槐枝叶凋零，那教堂仍然多么具有南方的气息，多么响亮地奏出南方的音调！",
+    "highlight_en": [
+      "Santa Fé",
+      "Cathedral"
+    ],
+    "highlight_zh": [
+      "圣菲",
+      "主教座堂"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 69730
+    },
+    "status": "draft"
+  },
+  {
+    "id": "uslom-8",
+    "book_id": "life-on-mississippi",
+    "place_ids": [
+      "new-orleans"
+    ],
+    "location": "Chapter 41, The Metropolis of the South",
+    "location_zh": "第 41 章《南方的大都会》",
+    "text_en": "Similarly, in high-river stage, in the New\r\nOrleans region, the water is up to the top of the enclosing levee-rim,\r\nthe flat country behind it lies low--representing the bottom of a\r\ndish--and as the boat swims along, high on the flood, one looks down\r\nupon the houses and into the upper windows. There is nothing but that\r\nfrail breastwork of earth between the people and destruction.",
+    "text_zh": "同样，在新奥尔良一带，河水上涨时，水面高达围堤顶部，而后面的平地低伏着，像一只盘子的底部。船在高高的洪水上行驶，人便俯视着房屋，能看进楼上的窗户。在人们与灭顶之灾之间，只有那道脆弱的土堤。",
+    "highlight_en": [
+      "New\r\nOrleans"
+    ],
+    "highlight_zh": [
+      "新奥尔良"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 245
+    },
+    "status": "draft"
+  },
+  {
+    "id": "uslom-9",
+    "book_id": "life-on-mississippi",
+    "place_ids": [
+      "new-orleans"
+    ],
+    "location": "Chapter 41, The Metropolis of the South",
+    "location_zh": "第 41 章《南方的大都会》",
+    "text_en": "Canal Street was finer, and more attractive and stirring than formerly,\r\nwith its drifting crowds of people, its several processions of hurrying\r\nstreet-cars, and--toward evening--its broad second-story verandas\r\ncrowded with gentlemen and ladies clothed according to the latest mode.",
+    "text_zh": "运河街比往昔更漂亮，更迷人，也更热闹：人群缓缓流动，几列街车匆忙穿行；到了傍晚，宽阔的二楼阳台上挤满了衣着入时的绅士淑女。",
+    "highlight_en": [
+      "Canal Street"
+    ],
+    "highlight_zh": [
+      "运河街"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 245
+    },
+    "status": "draft"
+  },
+  {
+    "id": "uslom-10",
+    "book_id": "life-on-mississippi",
+    "place_ids": [
+      "usnew-orleans-french-quarter"
+    ],
+    "location": "Chapter 44, City Sights",
+    "location_zh": "第 44 章《城市景象》",
+    "text_en": "THE old French part of New Orleans--anciently the Spanish part--bears no\r\nresemblance to the American end of the city: the American end which lies\r\nbeyond the intervening brick business-center. The houses are massed in\r\nblocks; are austerely plain and dignified; uniform of pattern, with here\r\nand there a departure from it with pleasant effect; all are plastered\r\non the outside, and nearly all have long, iron-railed verandas running\r\nalong the several stories. Their chief beauty is the deep, warm,\r\nvaricolored stain with which time and the weather have enriched the\r\nplaster. It harmonizes with all the surroundings, and has as natural\r\na look of belonging there as has the flush upon sunset clouds. This\r\ncharming decoration cannot be successfully imitated; neither is it to be\r\nfound elsewhere in America.",
+    "text_zh": "新奥尔良古老的法国区——更早时的西班牙区——与砖砌商业中心另一侧的美国人街区毫不相像。房屋成片聚集，外观简朴而庄重，式样整齐一致，间或变化一下便格外悦目；外墙都抹了灰泥，几乎家家每层都有长长的铁栏阳台。它们最美的地方，是岁月与风雨赋予灰泥的深沉、温暖而多彩的色泽。这色泽与周遭融为一体，仿佛晚霞染上云层一样自然。如此迷人的装饰无法仿造，在美国其他地方也找不到。",
+    "highlight_en": [
+      "old French part of New Orleans"
+    ],
+    "highlight_zh": [
+      "新奥尔良古老的法国区"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 245
+    },
+    "status": "draft"
+  },
+  {
+    "id": "uslom-11",
+    "book_id": "life-on-mississippi",
+    "place_ids": [
+      "usnew-orleans-west-end"
+    ],
+    "location": "Chapter 44, City Sights",
+    "location_zh": "第 44 章《城市景象》",
+    "text_en": "And by-and-bye we reached the West End, a collection of hotels of the\r\nusual light summer-resort pattern, with broad verandas all around,\r\nand the waves of the wide and blue Lake Pontchartrain lapping the\r\nthresholds. We had dinner on a ground-veranda over the water--the\r\nchief dish the renowned fish called the pompano, delicious as the less\r\ncriminal forms of sin.",
+    "text_zh": "后来我们来到西区，这里是一片常见的轻巧夏日旅馆，四面围着宽阔的阳台；辽阔湛蓝的庞恰特雷恩湖，波浪轻拍门槛。我们在水面上的底层露台吃晚饭，主菜是名闻遐迩的鲳鲹，那滋味就像罪过较轻的享乐一样美妙。",
+    "highlight_en": [
+      "West End"
+    ],
+    "highlight_zh": [
+      "西区"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 245
+    },
+    "status": "draft"
+  },
+  {
+    "id": "uslom-12",
+    "book_id": "life-on-mississippi",
+    "place_ids": [
+      "new-orleans"
+    ],
+    "location": "Chapter 46, Enchantments and Enchanters",
+    "location_zh": "第 46 章《魔法与施法者》",
+    "text_en": "THE largest annual event in New Orleans is a something which we arrived\r\ntoo late to sample--the Mardi-Gras festivities. I saw the procession of\r\nthe Mystic Crew of Comus there, twenty-four years ago--with knights\r\nand nobles and so on, clothed in silken and golden Paris-made\r\ngorgeousnesses, planned and bought for that single night's use; and\r\nin their train all manner of giants, dwarfs, monstrosities, and other\r\ndiverting grotesquerie--a startling and wonderful sort of show, as it\r\nfiled solemnly and silently down the street in the light of its smoking\r\nand flickering torches; but it is said that in these latter days the\r\nspectacle is mightily augmented, as to cost, splendor, and variety.",
+    "text_zh": "新奥尔良一年一度最大的盛事是狂欢节，可惜我们来得太迟，无缘亲见。二十四年前，我曾在这里看过科穆斯神秘团的游行：骑士、贵族等人身穿巴黎制作的华丽丝绸金饰服装，专为那一夜设计购置；队伍里还有巨人、矮人、怪物及种种有趣的奇形异状。在冒烟、闪烁的火炬光中，队伍庄严而无声地走过街道，真是惊人而奇妙的景象。据说这些年来，游行的花费、华丽程度和种类都大大增加了。",
+    "highlight_en": [
+      "New Orleans",
+      "Mardi-Gras"
+    ],
+    "highlight_zh": [
+      "新奥尔良",
+      "狂欢节"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 245
+    },
+    "status": "draft"
+  },
+  {
+    "id": "ussaf-s2",
+    "kind": "scene",
+    "book_id": "sound-and-fury",
+    "place_ids": [
+      "oxford-mississippi"
+    ],
+    "location": "Part 1, April 7, 1928",
+    "location_zh": "第一部分，1928年4月7日",
+    "text_en": "At the fence beside the Compson house in Jefferson, Benjy watches golfers moving across the family’s former pasture. Their calls to a caddie bring back his distress over Caddy’s absence.",
+    "text_zh": "在杰斐逊康普生宅邸旁的篱笆边，班吉望着高尔夫球手走过家里昔日的牧场。他们呼唤球童的声音，又勾起了他对凯蒂离去的痛苦。",
+    "highlight_en": [
+      "Jefferson"
+    ],
+    "highlight_zh": [
+      "杰斐逊"
+    ],
+    "status": "draft",
+    "fact_source": "https://faulkner.drupal.shanti.virginia.edu/content/compson-inset-pasturegolf-course-sound-and-fury-location"
+  },
+  {
+    "id": "ussaf-s3",
+    "kind": "scene",
+    "book_id": "sound-and-fury",
+    "place_ids": [
+      "oxford-mississippi"
+    ],
+    "location": "Part 1, childhood memory of 1898",
+    "location_zh": "第一部分，对1898年童年的回忆",
+    "text_en": "At the Compson home in Jefferson, Caddy climbs the tree beside the house to peer into the parlor. Her brothers wait below, looking up at her muddy underwear.",
+    "text_zh": "在杰斐逊的康普生家，凯蒂爬上屋旁的树，朝客厅里张望。哥哥弟弟们等在树下，抬头看着她沾满泥的内裤。",
+    "highlight_en": [
+      "Jefferson"
+    ],
+    "highlight_zh": [
+      "杰斐逊"
+    ],
+    "status": "draft",
+    "fact_source": "https://faulkner.drupal.shanti.virginia.edu/content/compson-inset-pear-tree-sound-and-fury-location"
+  },
+  {
+    "id": "ussaf-s4",
+    "kind": "scene",
+    "book_id": "sound-and-fury",
+    "place_ids": [
+      "oxford-mississippi"
+    ],
+    "location": "Part 1, April 7, 1928",
+    "location_zh": "第一部分，1928年4月7日",
+    "text_en": "In the Compson kitchen in Jefferson, Benjy sits facing the fire with his birthday cake. Luster reaches for more cake while Benjy keeps watching the flames.",
+    "text_zh": "在杰斐逊康普生家的厨房，班吉拿着生日蛋糕，面朝炉火坐着。勒斯特伸手再拿一块蛋糕，班吉仍盯着火焰。",
+    "highlight_en": [
+      "Jefferson"
+    ],
+    "highlight_zh": [
+      "杰斐逊"
+    ],
+    "status": "draft",
+    "fact_source": "https://faulkner.drupal.shanti.virginia.edu/content/sound-and-fury-57-event-0"
+  },
+  {
+    "id": "ussaf-s5",
+    "kind": "scene",
+    "book_id": "sound-and-fury",
+    "place_ids": [
+      "oxford-mississippi"
+    ],
+    "location": "Part 4, April 8, 1928, final carriage ride",
+    "location_zh": "第四部分，1928年4月8日，结尾的马车行程",
+    "text_en": "When Luster turns the carriage the unfamiliar way around the monument in Jefferson, Benjy begins to bellow. Jason rushes up and makes the horse turn back.",
+    "text_zh": "勒斯特驾车绕行杰斐逊纪念碑时走了不同于惯常的方向，班吉便大声吼叫起来。杰生冲上前来，让马掉头回去。",
+    "highlight_en": [
+      "Jefferson"
+    ],
+    "highlight_zh": [
+      "杰斐逊"
+    ],
+    "status": "draft",
+    "fact_source": "https://faulkner.drupal.shanti.virginia.edu/content/sound-and-fury-320-event"
+  },
+  {
+    "id": "usgwtw-s1",
+    "kind": "scene",
+    "book_id": "usgone-with-wind",
+    "place_ids": [
+      "usatlanta"
+    ],
+    "location": "Chapter 9",
+    "location_zh": "第 9 章",
+    "text_en": "At the hospital bazaar in Atlanta, Rhett bids for a dance with Scarlett. Still dressed in mourning, she springs out of the booth and accepts while the room turns to stare.",
+    "text_zh": "在亚特兰大的医院义卖会上，瑞德出价邀斯卡莉特跳舞。她仍穿着丧服，却从摊位里跳起身来答应，满屋的人都转头盯着她。",
+    "highlight_en": [
+      "Atlanta"
+    ],
+    "highlight_zh": [
+      "亚特兰大"
+    ],
+    "status": "draft",
+    "fact_source": "https://gutenberg.net.au/ebooks02/0200161.txt"
+  },
+  {
+    "id": "usgwtw-s2",
+    "kind": "scene",
+    "book_id": "usgone-with-wind",
+    "place_ids": [
+      "usatlanta"
+    ],
+    "location": "Chapter 17",
+    "location_zh": "第 17 章",
+    "text_en": "At noon in an Atlanta hospital, Scarlett removes her apron and slips away while Mrs. Merriwether writes a letter for a wounded soldier. She leaves before the next train brings more casualties.",
+    "text_zh": "中午，在亚特兰大的一家医院里，梅里韦瑟太太正替一名伤兵写信，斯卡莉特趁机脱下围裙溜走，赶在下一列火车送来更多伤员之前离开。",
+    "highlight_en": [
+      "Atlanta"
+    ],
+    "highlight_zh": [
+      "亚特兰大"
+    ],
+    "status": "draft",
+    "fact_source": "https://gutenberg.net.au/ebooks02/0200161.txt"
+  },
+  {
+    "id": "usgwtw-s3",
+    "kind": "scene",
+    "book_id": "usgone-with-wind",
+    "place_ids": [
+      "usatlanta"
+    ],
+    "location": "Chapter 22",
+    "location_zh": "第 22 章",
+    "text_en": "In the shuttered bedroom in Atlanta, Scarlett fans Melanie with a palmetto leaf during labor. Whenever she drives the flies from Melanie’s face, they settle on her feet.",
+    "text_zh": "在亚特兰大一间放下窗帘的卧室里，斯卡莉特用棕榈叶给临产的梅兰妮扇风。她刚赶走脸上的苍蝇，苍蝇又落到了梅兰妮脚上。",
+    "highlight_en": [
+      "Atlanta"
+    ],
+    "highlight_zh": [
+      "亚特兰大"
+    ],
+    "status": "draft",
+    "fact_source": "https://gutenberg.net.au/ebooks02/0200161.txt"
+  },
+  {
+    "id": "usgwtw-s4",
+    "kind": "scene",
+    "book_id": "usgone-with-wind",
+    "place_ids": [
+      "usatlanta"
+    ],
+    "location": "Chapter 23",
+    "location_zh": "第 23 章",
+    "text_en": "Rhett arrives at the Atlanta house with a battered little wagon. He refuses to load a trunk and prepares to take Scarlett and the exhausted Melanie out of the city.",
+    "text_zh": "瑞德驾着一辆破旧的小马车来到亚特兰大的屋前。他拒绝装上大行李箱，准备带斯卡莉特和筋疲力尽的梅兰妮离开城里。",
+    "highlight_en": [
+      "Atlanta"
+    ],
+    "highlight_zh": [
+      "亚特兰大"
+    ],
+    "status": "draft",
+    "fact_source": "https://gutenberg.net.au/ebooks02/0200161.txt"
+  },
+  {
+    "id": "ussc-3",
+    "book_id": "sister-carrie",
+    "place_ids": [
+      "chicago"
+    ],
+    "location": "Chapter III. WEE QUESTION OF FORTUNE: FOUR-FIFTY A WEEK",
+    "location_zh": "第 3 章《命运的小问题：每周四元五角》",
+    "text_en": "So severe a defeat told sadly upon her nerves. Her feet carried her\r\nmechanically forward, every foot of her progress being a satisfactory\r\nportion of a flight which she gladly made. Block after block passed by.\r\nUpon streetlamps at the various corners she read names such as Madison,\r\nMonroe, La Salle, Clark, Dearborn, State, and still she went, her feet\r\nbeginning to tire upon the broad stone flagging. She was pleased in\r\npart that the streets were bright and clean. The morning sun, shining\r\ndown with steadily increasing warmth, made the shady side of the\r\nstreets pleasantly cool. She looked at the blue sky overhead with more\r\nrealisation of its charm than had ever come to her before.",
+    "text_zh": "如此惨重的挫败使她心神沮丧。双脚机械地带着她前进，每走一步，都让她为逃离此地而略感宽慰。她走过一个又一个街区。在街角的路灯上，她读到麦迪逊、门罗、拉萨尔、克拉克、迪尔伯恩、斯泰特等街名，却仍往前走；踏着宽阔的石板路，双脚开始疲乏。街道明亮洁净，多少使她高兴。晨光越来越暖，背阴的一侧因而格外凉爽。她抬头看着蓝天，比从前任何时候都更能体会它的美。",
+    "highlight_en": [
+      "Madison"
+    ],
+    "highlight_zh": [
+      "麦迪逊"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 233
+    },
+    "status": "draft"
+  },
+  {
+    "id": "ussc-4",
+    "book_id": "sister-carrie",
+    "place_ids": [
+      "chicago"
+    ],
+    "location": "Chapter IV. THE SPENDINGS OF FANCY: FACTS ANSWER WITH SNEERS",
+    "location_zh": "第 4 章《幻想的挥霍：事实报以冷笑》",
+    "text_en": "It was with weak knees and a slight catch in her breathing that she\r\ncame up to the great shoe company at Adams and Fifth Avenue and entered\r\nthe elevator. When she stepped out on the fourth floor there was no one\r\nat hand, only great aisles of boxes piled to the ceiling. She stood,\r\nvery much frightened, awaiting some one.",
+    "text_zh": "她双膝发软，呼吸也有些不畅，来到亚当斯街与第五大道交会处的大鞋业公司，走进电梯。到四楼出来时，近旁一个人也没有，只见宽阔过道旁的箱子直堆到天花板。她十分害怕，站在那里等人。",
+    "highlight_en": [
+      "Adams and Fifth Avenue"
+    ],
+    "highlight_zh": [
+      "亚当斯街与第五大道"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 233
+    },
+    "status": "draft"
+  },
+  {
+    "id": "ussc-5",
+    "book_id": "sister-carrie",
+    "place_ids": [
+      "chicago"
+    ],
+    "location": "Chapter VII. THE LURE OF THE MATERIAL: BEAUTY SPEAKS FOR ITSELF",
+    "location_zh": "第 7 章《物质的诱惑：美貌不言自明》",
+    "text_en": "Drouet knew a place in Wabash Avenue where there were rooms. He showed\r\nCarrie the outside of these, and said: “Now, you’re my sister.” He\r\ncarried the arrangement off with an easy hand when it came to the\r\nselection, looking around, criticising, opining. “Her trunk will be\r\nhere in a day or so,” he observed to the landlady, who was very\r\npleased.",
+    "text_zh": "杜洛埃知道沃巴什大道上有一处房子出租。他带嘉莉看了外面，说：“现在，你是我妹妹。”挑选房间时，他轻松自如，四下察看，评头论足，发表意见。“她的行李箱一两天内就会送来，”他对满心欢喜的女房东说。",
+    "highlight_en": [
+      "Wabash Avenue"
+    ],
+    "highlight_zh": [
+      "沃巴什大道"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 233
+    },
+    "status": "draft"
+  },
+  {
+    "id": "ussc-6",
+    "book_id": "sister-carrie",
+    "place_ids": [
+      "chicago"
+    ],
+    "location": "Chapter VIII. INTIMATIONS BY WINTER: AN AMBASSADOR SUMMONED",
+    "location_zh": "第 8 章《冬日的征兆：使者被召来》",
+    "text_en": "They walked north on Wabash to Adams Street and then west. The lights\r\nin the stores were already shining out in gushes of golden hue. The arc\r\nlights were sputtering overhead, and high up were the lighted windows\r\nof the tall office buildings. The chill wind whipped in and out in\r\ngusty breaths. Homeward bound, the six o’clock throng bumped and\r\njostled. Light overcoats were turned up about the ears, hats were\r\npulled down. Little shop-girls went fluttering by in pairs and fours,\r\nchattering, laughing. It was a spectacle of warm-blooded humanity.",
+    "text_zh": "他们沿沃巴什大道向北走到亚当斯街，再转向西。商店灯光已一片片泛出金色的光辉，头顶的弧光灯噼啪作响，高高的办公大楼窗户也亮了。寒风一阵阵呼啸穿行。六点钟归家的人潮推推挤挤；薄大衣的领子竖到耳边，帽子压得低低的。年轻女店员三三两两轻快走过，边说边笑。这是一幅充满热血与生气的人间景象。",
+    "highlight_en": [
+      "Wabash",
+      "Adams Street"
+    ],
+    "highlight_zh": [
+      "沃巴什大道",
+      "亚当斯街"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 233
+    },
+    "status": "draft"
+  },
+  {
+    "id": "usamb-1",
+    "book_id": "usmagnificent-ambersons",
+    "place_ids": [
+      "indianapolis"
+    ],
+    "location": "Chapter I",
+    "location_zh": "第 1 章",
+    "text_en": "At the beginning of the Ambersons’ great period most of the houses of\r\nthe Midland town were of a pleasant architecture. They lacked style,\r\nbut also lacked pretentiousness, and whatever does not pretend at\r\nall has style enough. They stood in commodious yards, well shaded by\r\nleftover forest trees, elm and walnut and beech, with here and there a\r\nline of tall sycamores where the land had been made by filling bayous\r\nfrom the creek.",
+    "text_zh": "安伯森家族的鼎盛时期刚开始时，中部这座城镇的大多数住宅都建得宜人。它们没有特别的风格，却也不矫饰；凡是毫不装腔作势的东西，便已自有风格。房子坐落在宽敞的院落里，残留下来的森林树木——榆树、胡桃树和山毛榉——投下浓荫。有些土地是填平溪流的汊湾而成的，那里间或排列着高大的悬铃木。",
+    "highlight_en": [
+      "Midland town"
+    ],
+    "highlight_zh": [
+      "中部这座城镇"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 8867
+    },
+    "status": "draft"
+  },
+  {
+    "id": "usts-1",
+    "book_id": "ustom-sawyer",
+    "place_ids": [
+      "usmark-twain-cave"
+    ],
+    "location": "Chapter 29",
+    "location_zh": "第 29 章",
+    "text_en": "The mouth of the cave was up the\r\nhillside—an opening shaped like a letter A. Its massive oaken door stood\r\nunbarred. Within was a small chamber, chilly as an icehouse, and walled\r\nby Nature with solid limestone that was dewy with a cold sweat. It was\r\nromantic and mysterious to stand here in the deep gloom and look out\r\nupon the green valley shining in the sun.",
+    "text_zh": "洞口在山坡上，形状像字母 A。厚重的橡木门敞开着。里面有一间冰窖般寒冷的小石室，四壁是天然的坚实石灰岩，沁着冷汗。站在这深深的幽暗中，望着外面阳光下明亮的绿色山谷，既浪漫又神秘。",
+    "highlight_en": [
+      "cave"
+    ],
+    "highlight_zh": [
+      "洞口"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 74
+    },
+    "status": "draft"
+  },
+  {
+    "id": "usts-2",
+    "book_id": "ustom-sawyer",
+    "place_ids": [
+      "usmark-twain-cave"
+    ],
+    "location": "Chapter 31",
+    "location_zh": "第 31 章",
+    "text_en": "Tom found a subterranean lake, shortly,\r\nwhich stretched its dim length away until its shape was lost in the\r\nshadows. He wanted to explore its borders, but concluded that it would\r\nbe best to sit down and rest awhile, first. Now, for the first time, the\r\ndeep stillness of the place laid a clammy hand upon the spirits of the\r\nchildren.",
+    "text_zh": "不一会儿，汤姆发现一个地下湖，昏暗的水面向远处伸展，直到轮廓消失在阴影里。他想沿着湖边探查，却觉得最好先坐下休息片刻。这时，洞中深沉的寂静第一次像一只湿冷的手，按在两个孩子的心头。",
+    "highlight_en": [
+      "subterranean lake"
+    ],
+    "highlight_zh": [
+      "地下湖"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 74
+    },
+    "status": "draft"
+  },
+  {
+    "id": "ushf-1",
+    "book_id": "ushuckleberry-finn",
+    "place_ids": [
+      "hannibal"
+    ],
+    "location": "Chapter 2",
+    "location_zh": "第 2 章",
+    "text_en": "Well, when Tom and me got to the edge of the hilltop we looked away\r\ndown into the village and could see three or four lights twinkling,\r\nwhere there was sick folks, maybe; and the stars over us was sparkling\r\never so fine; and down by the village was the river, a whole mile\r\nbroad, and awful still and grand.",
+    "text_zh": "我和汤姆到了山顶边缘，往下望着村镇，看见三四点灯光闪烁，也许是有人生了病；头顶的星星亮得真好。村边就是河，足有一英里宽，静得不得了，也壮观得不得了。",
+    "highlight_en": [
+      "village"
+    ],
+    "highlight_zh": [
+      "村镇"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 76
+    },
+    "status": "draft"
+  },
+  {
+    "id": "ushf-2",
+    "book_id": "ushuckleberry-finn",
+    "place_ids": [
+      "usst-louis"
+    ],
+    "location": "Chapter 12",
+    "location_zh": "第 12 章",
+    "text_en": "Every night we passed towns, some of them away up on black hillsides,\r\nnothing but just a shiny bed of lights; not a house could you see. The\r\nfifth night we passed St. Louis, and it was like the whole world lit\r\nup. In St. Petersburg they used to say there was twenty or thirty\r\nthousand people in St. Louis, but I never believed it till I see that\r\nwonderful spread of lights at two o’clock that still night. There\r\nwarn’t a sound there; everybody was asleep.",
+    "text_zh": "我们每晚都经过城镇，有些高踞黑沉沉的山坡，看不见房屋，只见一片闪亮的灯火。第五夜经过圣路易斯，仿佛整个世界都点亮了。在圣彼得斯堡，人们常说圣路易斯有两三万人，我一直不信，直到那个寂静的夜晚两点钟，看见那么壮阔的一片灯光。那里一声响动也没有；大家都睡着了。",
+    "highlight_en": [
+      "St. Louis"
+    ],
+    "highlight_zh": [
+      "圣路易斯"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 76
+    },
+    "status": "draft"
   }
 ]
