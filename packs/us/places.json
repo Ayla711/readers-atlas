@@ -54,8 +54,8 @@
     "lat": 38.3317,
     "lon": -77.4614,
     "place_type": "original",
-    "note_en": "Whitman departs from the military camp at Falmouth with wounded soldiers; the marker represents the town",
-    "note": "惠特曼与伤兵一起离开法尔茅斯的军营；标记代表城镇",
+    "note_en": "Whitman visits a large brick mansion serving as a hospital on the Rappahannock at Falmouth; the town marker does not identify the exact building",
+    "note": "惠特曼在法尔茅斯探访拉帕汉诺克河岸一座充作医院的大砖宅；城镇标记不指认该建筑的精确位置",
     "coord_checked": "Falmouth, Virginia — https://en.wikipedia.org/wiki/Falmouth,_Virginia",
     "fact_source": "https://www.gutenberg.org/ebooks/8813"
   },
@@ -304,8 +304,8 @@
     "lat": 42.4997,
     "lon": -90.7236,
     "place_type": "original",
-    "note_en": "Twain describes Dubuque during his journey up the Mississippi. The point represents the place as a whole",
-    "note": "吐温在溯游密西西比河时描写了迪比克。坐标代表该地点整体",
+    "note_en": "Twain describes the Mississippi’s water and bluffs upstream of Dubuque; the city marker represents the nearby river landscape, not an identified viewpoint",
+    "note": "吐温描写迪比克上游密西西比河的水色与峭壁；城市标记代表附近河景，不指认某个精确观景点",
     "coord_checked": "Wikipedia: Dubuque — https://en.wikipedia.org/wiki/Dubuque,_Iowa",
     "fact_source": "https://www.gutenberg.org/ebooks/245"
   },
@@ -594,30 +594,6 @@
     "note": "《弗吉尼亚人》开篇，叙述者乘坐的列车在这里停靠；标记代表城镇，并非已确定的历史水塔",
     "coord_checked": "Medicine Bow, Wyoming — https://en.wikipedia.org/wiki/Medicine_Bow,_Wyoming",
     "fact_source": "https://www.gutenberg.org/ebooks/1298"
-  },
-  {
-    "id": "lincoln-nebraska",
-    "name": "Lincoln, Nebraska",
-    "name_zh": "林肯",
-    "lat": 40.8103,
-    "lon": -96.6747,
-    "place_type": "original",
-    "note_en": "Jim stays in Lincoln during his first university summer vacation. The marker represents the city, not a lodging address",
-    "note": "吉姆在大学的第一个暑假留在林肯；标记代表城市，并非他的住址",
-    "coord_checked": "Lincoln, Nebraska — https://en.wikipedia.org/wiki/Lincoln,_Nebraska",
-    "fact_source": "https://www.gutenberg.org/ebooks/242"
-  },
-  {
-    "id": "omaha",
-    "name": "Omaha, Nebraska",
-    "name_zh": "奥马哈",
-    "lat": 41.2586,
-    "lon": -95.9375,
-    "place_type": "original",
-    "note_en": "Marie’s father settles in Omaha and becomes an adviser in its Bohemian community. The marker represents the city as a whole",
-    "note": "玛丽的父亲定居奥马哈，成为当地波希米亚移民的顾问；标记代表整座城市",
-    "coord_checked": "Omaha, Nebraska — https://en.wikipedia.org/wiki/Omaha,_Nebraska",
-    "fact_source": "https://www.gutenberg.org/ebooks/24"
   },
   {
     "id": "ordway",

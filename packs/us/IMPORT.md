@@ -1,17 +1,15 @@
 # 导入报告 · United States · 2026-11-11
 
-包：45 本书、84 个地点、96 条摘句和场景说明、50 张照片。
+包：45 本书、82 个地点、90 条摘句和场景说明、50 张照片。
 
 ## 错误（0）
 
 
-## 提示（5）
+## 提示（3）
 
 - place charleston-gold-bug: 1.0 km off the simplified coastline, counted in SC
 - place pepin: on the simplified map it falls in MN, 2.2 km from WI; kept in WI as REPORT.md says (region field set)
 - place usst-louis: on the simplified map it falls in IL, 1.4 km from MO; kept in MO as REPORT.md says (region field set)
-- photo us-philadelphia-poe-house: only 500 px wide (the place card shows 800); a larger file would look sharper
-- photo fort-smith: only 500 px wide (the place card shows 800); a larger file would look sharper
 
 ## 脚本没有逐字核对的文本（0，审核时人工核对）
 
@@ -52,7 +50,7 @@
 | Montana | 1 |
 | North Carolina | 1 |
 | North Dakota | 1 |
-| Nebraska | 4 |
+| Nebraska | 2 |
 | New Hampshire | 1 |
 | New Jersey | 1 |
 | New Mexico | 1 |

@@ -24,7 +24,8 @@ What the machine checks (a failure stops the import; nothing is written):
   9. photos: the Commons file page is read again, the licence must be CC0 / public domain / CC BY / CC BY-SA
 A line with "keep_breaks": true keeps its line breaks as written (verse, or a text already in the app's one-line-
 per-paragraph form); other texts are reflowed. source.checked, when given, is kept as the line's checked record.
-With --no-photos, places keep the photo they already have in data/<country>/places.js.
+With --no-photos, places keep the photo they already have in data/<country>/places.js. Without it, a photo already
+imported from the same Commons file (800 px wide, same crop) is kept and only new or changed photos are downloaded.
 What it writes: data/<country>/{books,places,lines}.js (regenerated from the pack), images/places/<id>.jpg,
 rows in docs/photo-credits.md, and <pack_dir>/IMPORT.md with every warning. Content stays status "draft".
 Gutenberg texts are read from cache/pg/<n>.txt and downloaded there when missing.
@@ -376,8 +377,8 @@ def get(url, binary=False):
             time.sleep(1.2)
             return data if binary else data.decode("utf-8", "replace")
         except urllib.error.HTTPError as e:
-            if e.code == 429:
-                time.sleep(25)
+            if e.code == 429:   # throttled: wait longer each time
+                time.sleep(30 * (i + 1))
                 continue
             if e.code == 404:
                 return None
@@ -411,15 +412,24 @@ def file_info(title):
 def thumb(orig, width=960):  # Commons serves only its standard thumbnail widths; 960 is one of them
     m = re.match(r"https://upload\.wikimedia\.org/wikipedia/commons/(\w)/(\w\w)/(.+)$", orig)
     return f"https://upload.wikimedia.org/wikipedia/commons/thumb/{m.group(1)}/{m.group(2)}/{m.group(3)}/{width}px-{m.group(3)}" if m else orig
-photo_out, credit_rows = {}, []
+photo_out, credit_rows, kept_photos = {}, [], 0
 old_photo = {}
-if A.no_photos and os.path.exists(os.path.join(APP, f"data/{C}/places.js")):
+if os.path.exists(os.path.join(APP, f"data/{C}/places.js")):
     old_photo = {p["id"]: p["photo"] for p in node_json([os.path.join(APP, f"data/{C}/places.js")])["places"] if p.get("photo")}
 for pid, ph in photos.items():
     if pid not in P:
         err(f"photo {pid}: no such place in the pack")
         continue
     if A.no_photos or A.dry_run or errors:
+        continue
+    # a photo already imported from the same Commons file, at full card width and with the same crop, is kept as it
+    # is (only its alt text follows the pack): Commons throttles downloads, so only new or changed photos are fetched
+    was = old_photo.get(pid)
+    same_page = "https://commons.wikimedia.org/wiki/" + urllib.parse.quote(ph["commons_file"].replace(" ", "_"))
+    if was and was.get("source") == same_page and was.get("width", 0) >= 800 and bool(was.get("cropped")) == bool(ph.get("crop")) \
+            and os.path.exists(os.path.join(APP, was["file"])):
+        photo_out[pid] = (None, {**was, "alt_en": ph["alt_en"], "alt_zh": ph["alt_zh"]})
+        kept_photos += 1
         continue
     info = file_info(ph["commons_file"])
     if not info:
@@ -497,7 +507,7 @@ for p in places:
         d["region"] = region_fix[p["id"]]
     if p["id"] in photo_out:
         d["photo"] = photo_out[p["id"]][1]
-    elif p["id"] in photos and p["id"] in old_photo:
+    elif A.no_photos and p["id"] in photos and p["id"] in old_photo:
         d["photo"] = old_photo[p["id"]]
     out_places.append(d)
 out_lines = []
@@ -529,11 +539,12 @@ write("books.js", src_note, "books", out_books)
 write("places.js", src_note + "// Each place's admin-1 region is worked out from its coordinates by app.js.\n", "places", out_places)
 write("lines.js", src_note + "// Gutenberg quotations were checked word for word on import (other sources by hand: see the pack's IMPORT.md); status changes only through review (tools/apply_review.py).\n", "lines", out_lines)
 for pid, (im, ph) in photo_out.items():
-    im.save(os.path.join(APP, ph["file"]), "JPEG", quality=82, optimize=True, progressive=True)
+    if im is not None:   # None: kept as it was
+        im.save(os.path.join(APP, ph["file"]), "JPEG", quality=82, optimize=True, progressive=True)
 if credit_rows:
     cp = os.path.join(APP, "docs", "photo-credits.md")
     s = open(cp, encoding="utf-8").read()
     rows = [r for r in credit_rows if r.split(" | [Commons](")[1] not in s]
     if rows:
         open(cp, "a", encoding="utf-8").write("\n".join(rows) + "\n")
-print(f"written: data/{C}/books.js ({len(out_books)}), places.js ({len(out_places)}), lines.js ({len(out_lines)}), {len(photo_out)} photos")
+print(f"written: data/{C}/books.js ({len(out_books)}), places.js ({len(out_places)}), lines.js ({len(out_lines)}), {len(photo_out)} photos ({kept_photos} kept as they were)")

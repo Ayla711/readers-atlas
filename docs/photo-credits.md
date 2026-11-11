@@ -218,3 +218,5 @@
 | Georgetown | Eli Pousson | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ASussex_County_Courthouse.jpg) |
 | Seattle | User:Cmglee modification of original by User:Spicypepper999 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ASeattle_Downtown_Aerial%2C_July_2025_%28zoomed_and_perspective_corrected%29.jpg) |
 | Mark Twain Boyhood Home | Andrew Balet | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AMark_Twain_Boyhood_Home_1.jpg) |
+| Edgar Allan Poe National Historic Site | Midnightdreary | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3AEDAL-NHS.jpg) |
+| Fort Smith | Brandonrush | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AFort_Smith%2C_AR_003.jpg) |

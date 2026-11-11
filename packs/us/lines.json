@@ -85,19 +85,24 @@
     "place_ids": [
       "falmouth-whitman"
     ],
-    "location": "Back to Washington",
-    "location_zh": "重返华盛顿",
-    "text_en": "_January, '63_.--Left camp at Falmouth, with some wounded, a few days\r\nsince, and came here by Aquia creek railroad, and so on government\r\nsteamer up the Potomac. Many wounded were with us on the cars and boat.",
-    "text_zh": "一八六三年一月。几天前，我与一些伤兵离开法尔茅斯军营，乘阿奎亚溪铁路，再转乘政府轮船沿波托马克河来到这里。火车和船上都有许多伤兵与我们同行。",
+    "location": "Down at the Front",
+    "location_zh": "前线见闻",
+    "text_en": "FALMOUTH, VA., _opposite Fredericksburgh, December 21, 1862_.--Begin my\r\nvisits among the camp hospitals in the army of the Potomac. Spend a\r\ngood part of the day in a large brick mansion on the banks of the\r\nRappahannock, used as a hospital since the battle--seems to have\r\nreceiv'd only the worst cases.",
+    "text_zh": "弗吉尼亚州法尔茅斯，弗雷德里克斯堡对岸，1862年12月21日。开始探访波托马克军中的野战医院。我在拉帕汉诺克河岸一座大砖宅里待了大半天；战斗之后，这里被用作医院，似乎只收治了伤势最重的人。",
     "highlight_en": [
-      "Falmouth"
+      "FALMOUTH",
+      "Rappahannock"
     ],
     "translation": "original",
     "source": {
       "kind": "gutenberg",
       "id": 8813
     },
-    "status": "draft"
+    "status": "draft",
+    "highlight_zh": [
+      "法尔茅斯",
+      "拉帕汉诺克河"
+    ]
   },
   {
     "id": "ussd-3",
@@ -297,7 +302,7 @@
       "弗兰科尼亚"
     ],
     "status": "draft",
-    "fact_source": "https://www.gutenberg.org/ebooks/58611"
+    "fact_source": "https://frostplace.org/wp-content/uploads/2020/09/New-Hampshire-Poem-Text.pdf#page=5"
   },
   {
     "id": "useh-1",
@@ -409,17 +414,22 @@
     ],
     "location": "Chapter 58, On the Upper River",
     "location_zh": "第 58 章《在河流上游》",
-    "text_en": "We move up the river--always through enchanting scenery, there being no\r\nother kind on the Upper Mississippi--and pass Moline, a center of vast\r\nmanufacturing industries; and Clinton and Lyons, great lumber centers;\r\nand presently reach Dubuque, which is situated in a rich mineral region.\r\nThe lead mines are very productive, and of wide extent.",
-    "text_zh": "我们溯河而上，沿途始终是迷人的风景——密西西比河上游处处如此——经过工业重镇莫林，又经过木材业重镇克林顿与莱昂斯，不久便到达坐落在富矿地区的迪比克。这里的铅矿产量很高，分布也很广。",
+    "text_en": "We noticed that above Dubuque the water of the Mississippi was\r\nolive-green--rich and beautiful and semi-transparent, with the sun on\r\nit. Of course the water was nowhere as clear or of as fine a complexion\r\nas it is in some other seasons of the year; for now it was at flood\r\nstage, and therefore dimmed and blurred by the mud manufactured from\r\ncaving banks.\r\n\r\nThe majestic bluffs that overlook the river, along through this region,\r\ncharm one with the grace and variety of their forms, and the soft\r\nbeauty of their adornment.",
+    "text_zh": "我们注意到，迪比克上游的密西西比河水呈橄榄绿色，在阳光下浓丽而美好，半透明地发亮。当然，水色没有其他季节那样清澈秀丽；眼下正值汛期，坍塌河岸产生的泥沙使水色暗淡、浑浊。沿着这一带俯临河面的雄伟峭壁，以优美多变的形态和柔美的装点令人着迷。",
     "highlight_en": [
-      "Dubuque"
+      "Dubuque",
+      "Mississippi"
     ],
     "translation": "original",
     "source": {
       "kind": "gutenberg",
       "id": 245
     },
-    "status": "draft"
+    "status": "draft",
+    "highlight_zh": [
+      "迪比克",
+      "密西西比河"
+    ]
   },
   {
     "id": "usutc-1",
@@ -849,52 +859,6 @@
     "status": "draft"
   },
   {
-    "id": "usmyan-1",
-    "book_id": "my-antonia",
-    "place_ids": [
-      "lincoln-nebraska"
-    ],
-    "location": "Book 3, Lena Lingard, Chapter 1",
-    "location_zh": "第三卷《莉娜·林加德》，第1章",
-    "text_en": "I did not go home for my first summer vacation, but stayed in Lincoln,\r\nworking off a year’s Greek, which had been my only condition on\r\nentering the freshman class.",
-    "text_zh": "第一个暑假我没有回家，而是留在林肯，补修一整年的希腊语；这是我进入一年级时唯一需要补足的条件。",
-    "highlight_en": [
-      "Lincoln"
-    ],
-    "highlight_zh": [
-      "林肯"
-    ],
-    "translation": "original",
-    "source": {
-      "kind": "gutenberg",
-      "id": 242
-    },
-    "status": "draft"
-  },
-  {
-    "id": "usopion-1",
-    "book_id": "o-pioneers",
-    "place_ids": [
-      "omaha"
-    ],
-    "location": "Part 2, Neighboring Fields, Chapter 7",
-    "location_zh": "第二部《毗邻的田野》，第7章",
-    "text_en": "Marie’s father, Albert Tovesky, was one of the more intelligent\r\nBohemians who came West in the early seventies. He settled in Omaha and\r\nbecame a leader and adviser among his people there.",
-    "text_zh": "玛丽的父亲阿尔伯特·托韦斯基，是十九世纪七十年代初来到西部的波希米亚人中较有见识的一位。他在奥马哈定居，成为当地同乡的领袖和顾问。",
-    "highlight_en": [
-      "Omaha"
-    ],
-    "highlight_zh": [
-      "奥马哈"
-    ],
-    "translation": "original",
-    "source": {
-      "kind": "gutenberg",
-      "id": 24
-    },
-    "status": "draft"
-  },
-  {
     "id": "usmtr-1",
     "book_id": "main-travelled-roads",
     "place_ids": [
@@ -1243,47 +1207,6 @@
     "status": "draft"
   },
   {
-    "id": "usan-ct3",
-    "book_id": "american-notes",
-    "place_ids": [
-      "us-hartford-dickens"
-    ],
-    "location": "Chapter 5, an encounter at the Hartford asylum",
-    "location_zh": "第5章：哈特福德疗养院中的一次交谈",
-    "text_en": "There was one little, prim old lady, of very smiling and good-humoured\r\nappearance, who came sidling up to me from the end of a long passage, and\r\nwith a curtsey of inexpressible condescension, propounded this\r\nunaccountable inquiry:\r\n\r\n‘Does Pontefract still flourish, sir, upon the soil of England?’\r\n\r\n‘He does, ma’am,’ I rejoined.\r\n\r\n‘When you last saw him, sir, he was—’\r\n\r\n‘Well, ma’am,’ said I, ‘extremely well.  He begged me to present his\r\ncompliments.  I never saw him looking better.’",
-    "text_zh": "有一位矮小端庄的老妇人，面带笑容、神情和善，从长廊那头侧身走来，行了个带着难以形容的屈尊意味的礼，问了一个莫名其妙的问题：“先生，庞特弗拉克特还在英格兰土地上兴旺地活着吗？”我答道：“是的，夫人。”“您上次见到他时，他——”“他很好，夫人，”我说，“好极了。他托我向您问候。我从没见他气色这样好。”",
-    "highlight_en": [
-      "old lady"
-    ],
-    "translation": "original",
-    "source": {
-      "kind": "gutenberg",
-      "id": 675
-    },
-    "status": "draft"
-  },
-  {
-    "id": "usan-ct4",
-    "book_id": "american-notes",
-    "place_ids": [
-      "us-hartford-dickens"
-    ],
-    "location": "Chapter 5, the musician at the Hartford asylum",
-    "location_zh": "第5章：哈特福德疗养院里的乐手",
-    "text_en": "There was another: a young man, whose madness was love and music.  After\r\nplaying on the accordion a march he had composed, he was very anxious\r\nthat I should walk into his chamber, which I immediately did.\r\n\r\nBy way of being very knowing, and humouring him to the top of his bent, I\r\nwent to the window, which commanded a beautiful prospect, and remarked,\r\nwith an address upon which I greatly plumed myself:\r\n\r\n‘What a delicious country you have about these lodgings of yours!’\r\n\r\n‘Poh!’ said he, moving his fingers carelessly over the notes of his\r\ninstrument: ‘_Well enough for such an Institution as this_!’\r\n\r\nI don’t think I was ever so taken aback in all my life.",
-    "text_zh": "还有一个年轻人，他的疯狂与爱情和音乐有关。他用手风琴奏完自己写的一首进行曲，急切地请我进他的房间，我立刻照办。我想显得很懂他，也尽量顺着他，便走到窗前，欣赏那里的美景，用自以为高明的方式说：“您这住处周围的乡野真美啊！”“哼！”他漫不经心地拨弄着琴键，“对于这样一所机构来说，也算过得去吧！”我想，我这辈子从没这样错愕过。",
-    "highlight_en": [
-      "window",
-      "music"
-    ],
-    "translation": "original",
-    "source": {
-      "kind": "gutenberg",
-      "id": 675
-    },
-    "status": "draft"
-  },
-  {
     "id": "usan-ct5",
     "book_id": "american-notes",
     "place_ids": [
@@ -1447,13 +1370,13 @@
     ],
     "location": "A Fog in Santone",
     "location_zh": "圣安东尼奥的雾",
-    "text_en": "Thus Goodall's tempter deserts him. That youth, uncomplaining and\r\nuncaring, takes a spell at coughing, and, recovered, wanders desultorily\r\non down the street, the name of which he neither knows nor recks. At a\r\ncertain point he perceives swinging doors, and hears, filtering between\r\nthem a noise of wind and string instruments. Two men enter from the\r\nstreet as he arrives, and he follows them in. There is a kind of\r\nante-chamber, plentifully set with palms and cactuses and oleanders. At\r\nlittle marble-topped tables some people sit, while soft-shod attendants\r\nbring the beer.",
-    "text_zh": "于是，引诱古德尔的人离开了他。年轻人既不抱怨，也不在乎，咳嗽了一阵，缓过气后便漫无目的地沿街走去，街名是什么，他既不知道也不关心。走到一处，他看见两扇弹簧门，听见门缝里传出的管弦乐声。他到门口时正有两人进去，他便跟在后面。里面像是一间前厅，摆满棕榈、仙人掌和夹竹桃。人们坐在大理石面的小桌旁，穿软鞋的侍者送来啤酒。",
+    "text_en": "For a gray mist had swept upon Santone that night, an\r\nopaque terror that laid a hand to the throat of each of the city's\r\nguests. It was computed that three thousand invalids were hibernating\r\nin the town. They had come from far and wide, for here, among these\r\ncontracted river-sliced streets, the goddess Ozone has elected to\r\nlinger.",
+    "text_zh": "那天夜里，灰色的雾席卷圣安东尼奥，像一团不透光的恐怖，扼住城中每位客人的咽喉。据估计，有三千名病人在这里过冬。他们从四面八方赶来，因为就在这些被河流切开的狭窄街道间，臭氧女神选择了停留。",
     "highlight_en": [
-      "Goodall"
+      "Santone"
     ],
     "highlight_zh": [
-      "古德尔"
+      "圣安东尼奥"
     ],
     "translation": "original",
     "source": {
@@ -1493,13 +1416,13 @@
     ],
     "location": "Bexar Scrip No. 2692",
     "location_zh": "贝克萨土地凭证第2692号",
-    "text_en": "He turned to the file room, with a dozen or more files in his hands,\r\nand accidentally dropped part of them on the floor. As he stooped to\r\npick them up he swiftly thrust Bexar Scrip No. 2692 in the inside breast\r\npocket of his coat.\r\n\r\nThis happened at just half-past four o'clock, and when the file clerk\r\ntook the files he threw them in a pile in his room, came out and locked\r\nthe door.\r\n\r\nThe clerks were moving out of the doors in long, straggling lines.\r\n\r\nIt was closing time.",
-    "text_zh": "他拿着十来份卷宗转身走向档案室，“不小心”把其中几份掉在地上。弯腰捡拾时，他迅速把贝克萨土地凭证第2692号塞进外套内侧的胸袋。这时恰好是四点半。档案员接过卷宗，随手堆在房内，出来锁上了门。职员们拖着长长的、稀稀落落的队伍走向出口。下班时间到了。",
+    "text_en": "Whenever you visit Austin you should by all means go to see the General\r\nLand Office.\n\n…\n\nHe turned to the file room, with a dozen or more files in his hands,\r\nand accidentally dropped part of them on the floor. As he stooped to\r\npick them up he swiftly thrust Bexar Scrip No. 2692 in the inside breast\r\npocket of his coat.\r\n\r\nThis happened at just half-past four o'clock, and when the file clerk\r\ntook the files he threw them in a pile in his room, came out and locked\r\nthe door.\r\n\r\nThe clerks were moving out of the doors in long, straggling lines.\r\n\r\nIt was closing time.",
+    "text_zh": "无论何时到奥斯汀，你都一定要去看看土地总署。\n\n……\n\n他拿着十来份卷宗转身走向档案室，“不小心”把其中几份掉在地上。弯腰捡拾时，他迅速把贝克萨土地凭证第2692号塞进外套内侧的胸袋。这时恰好是四点半。档案员接过卷宗，随手堆在房内，出来锁上了门。职员们拖着长长的、稀稀落落的队伍走向出口。下班时间到了。",
     "highlight_en": [
-      "Bexar Scrip No. 2692"
+      "Land Office"
     ],
     "highlight_zh": [
-      "贝克萨土地凭证第2692号"
+      "土地总署"
     ],
     "translation": "original",
     "source": {
@@ -1567,7 +1490,7 @@
     "text_en": "Similarly, in high-river stage, in the New\r\nOrleans region, the water is up to the top of the enclosing levee-rim,\r\nthe flat country behind it lies low--representing the bottom of a\r\ndish--and as the boat swims along, high on the flood, one looks down\r\nupon the houses and into the upper windows. There is nothing but that\r\nfrail breastwork of earth between the people and destruction.",
     "text_zh": "同样，在新奥尔良一带，河水上涨时，水面高达围堤顶部，而后面的平地低伏着，像一只盘子的底部。船在高高的洪水上行驶，人便俯视着房屋，能看进楼上的窗户。在人们与灭顶之灾之间，只有那道脆弱的土堤。",
     "highlight_en": [
-      "New\r\nOrleans"
+      "New Orleans"
     ],
     "highlight_zh": [
       "新奥尔良"
@@ -1694,46 +1617,6 @@
     "fact_source": "https://faulkner.drupal.shanti.virginia.edu/content/compson-inset-pasturegolf-course-sound-and-fury-location"
   },
   {
-    "id": "ussaf-s3",
-    "kind": "scene",
-    "book_id": "sound-and-fury",
-    "place_ids": [
-      "oxford-mississippi"
-    ],
-    "location": "Part 1, childhood memory of 1898",
-    "location_zh": "第一部分，对1898年童年的回忆",
-    "text_en": "At the Compson home in Jefferson, Caddy climbs the tree beside the house to peer into the parlor. Her brothers wait below, looking up at her muddy underwear.",
-    "text_zh": "在杰斐逊的康普生家，凯蒂爬上屋旁的树，朝客厅里张望。哥哥弟弟们等在树下，抬头看着她沾满泥的内裤。",
-    "highlight_en": [
-      "Jefferson"
-    ],
-    "highlight_zh": [
-      "杰斐逊"
-    ],
-    "status": "draft",
-    "fact_source": "https://faulkner.drupal.shanti.virginia.edu/content/compson-inset-pear-tree-sound-and-fury-location"
-  },
-  {
-    "id": "ussaf-s4",
-    "kind": "scene",
-    "book_id": "sound-and-fury",
-    "place_ids": [
-      "oxford-mississippi"
-    ],
-    "location": "Part 1, April 7, 1928",
-    "location_zh": "第一部分，1928年4月7日",
-    "text_en": "In the Compson kitchen in Jefferson, Benjy sits facing the fire with his birthday cake. Luster reaches for more cake while Benjy keeps watching the flames.",
-    "text_zh": "在杰斐逊康普生家的厨房，班吉拿着生日蛋糕，面朝炉火坐着。勒斯特伸手再拿一块蛋糕，班吉仍盯着火焰。",
-    "highlight_en": [
-      "Jefferson"
-    ],
-    "highlight_zh": [
-      "杰斐逊"
-    ],
-    "status": "draft",
-    "fact_source": "https://faulkner.drupal.shanti.virginia.edu/content/sound-and-fury-57-event-0"
-  },
-  {
     "id": "ussaf-s5",
     "kind": "scene",
     "book_id": "sound-and-fury",
@@ -1743,7 +1626,7 @@
     "location": "Part 4, April 8, 1928, final carriage ride",
     "location_zh": "第四部分，1928年4月8日，结尾的马车行程",
     "text_en": "When Luster turns the carriage the unfamiliar way around the monument in Jefferson, Benjy begins to bellow. Jason rushes up and makes the horse turn back.",
-    "text_zh": "勒斯特驾车绕行杰斐逊纪念碑时走了不同于惯常的方向，班吉便大声吼叫起来。杰生冲上前来，让马掉头回去。",
+    "text_zh": "勒斯特驾车绕行杰斐逊广场上的南军纪念像时走了不同于惯常的方向，班吉便大声吼叫起来。杰生冲上前来，让马掉头回去。",
     "highlight_en": [
       "Jefferson"
     ],
