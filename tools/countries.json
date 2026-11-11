@@ -382,7 +382,7 @@
         "data/cn/places.js",
         "data/cn/lines.js"
       ],
-      "open": false,
+      "open": true,
       "small_regions": [
         "CN-MO",
         "CN-HK"

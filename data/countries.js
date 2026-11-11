@@ -115,6 +115,6 @@ window.RA_COUNTRIES = [
    "data/cn/places.js",
    "data/cn/lines.js"
   ],
-  "open": false
+  "open": true
  }
 ];
