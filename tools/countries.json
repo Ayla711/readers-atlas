@@ -388,6 +388,385 @@
         "CN-HK"
       ],
       "wash": {}
+    },
+    {
+      "code": "fr",
+      "iso": "FRA",
+      "name": "France",
+      "name_zh": "法国",
+      "short": "France",
+      "short_zh": "法国",
+      "region_term": {
+        "en": "region",
+        "zh": "大区"
+      },
+      "bounds": [
+        -5.2,
+        41.3,
+        9.6,
+        51.1
+      ],
+      "step": 0.01,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "region",
+            "map": {
+              "Auvergne-Rhône-Alpes": "FR-ARA",
+              "Bourgogne-Franche-Comté": "FR-BFC",
+              "Bretagne": "FR-BRE",
+              "Centre-Val de Loire": "FR-CVL",
+              "Corse": "FR-COR",
+              "Grand Est": "FR-GES",
+              "Hauts-de-France": "FR-HDF",
+              "Île-de-France": "FR-IDF",
+              "Normandie": "FR-NOR",
+              "Nouvelle-Aquitaine": "FR-NAQ",
+              "Occitanie": "FR-OCC",
+              "Pays de la Loire": "FR-PDL",
+              "Provence-Alpes-Côte-d'Azur": "FR-PAC"
+            }
+          }
+        ],
+        "names": {
+          "FR-ARA": [
+            "Auvergne-Rhône-Alpes",
+            "奥弗涅-罗讷-阿尔卑斯"
+          ],
+          "FR-BFC": [
+            "Bourgogne-Franche-Comté",
+            "勃艮第-弗朗什-孔泰"
+          ],
+          "FR-BRE": [
+            "Brittany",
+            "布列塔尼"
+          ],
+          "FR-CVL": [
+            "Centre-Val de Loire",
+            "中央-卢瓦尔河谷"
+          ],
+          "FR-COR": [
+            "Corsica",
+            "科西嘉"
+          ],
+          "FR-GES": [
+            "Grand Est",
+            "大东部"
+          ],
+          "FR-HDF": [
+            "Hauts-de-France",
+            "上法兰西"
+          ],
+          "FR-IDF": [
+            "Île-de-France",
+            "法兰西岛"
+          ],
+          "FR-NOR": [
+            "Normandy",
+            "诺曼底"
+          ],
+          "FR-NAQ": [
+            "Nouvelle-Aquitaine",
+            "新阿基坦"
+          ],
+          "FR-OCC": [
+            "Occitanie",
+            "奥克西塔尼"
+          ],
+          "FR-PDL": [
+            "Pays de la Loire",
+            "卢瓦尔河地区"
+          ],
+          "FR-PAC": [
+            "Provence-Alpes-Côte d’Azur",
+            "普罗旺斯-阿尔卑斯-蓝色海岸"
+          ]
+        }
+      },
+      "data": [
+        "data/fr/geo.js",
+        "data/fr/books.js",
+        "data/fr/places.js",
+        "data/fr/lines.js"
+      ],
+      "open": false,
+      "small_regions": [],
+      "wash": {},
+      "skip_units": [
+        "Guyane française",
+        "Guadeloupe",
+        "Martinique",
+        "La Réunion",
+        "Mayotte"
+      ]
+    },
+    {
+      "code": "de",
+      "iso": "DEU",
+      "name": "Germany",
+      "name_zh": "德国",
+      "short": "Germany",
+      "short_zh": "德国",
+      "region_term": {
+        "en": "state",
+        "zh": "州"
+      },
+      "bounds": [
+        5.9,
+        47.3,
+        15.0,
+        55.1
+      ],
+      "step": 0.01,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "DE-BW": "DE-BW",
+              "DE-BY": "DE-BY",
+              "DE-BE": "DE-BE",
+              "DE-BB": "DE-BB",
+              "DE-HB": "DE-HB",
+              "DE-HH": "DE-HH",
+              "DE-HE": "DE-HE",
+              "DE-MV": "DE-MV",
+              "DE-NI": "DE-NI",
+              "DE-NW": "DE-NW",
+              "DE-RP": "DE-RP",
+              "DE-SL": "DE-SL",
+              "DE-SN": "DE-SN",
+              "DE-ST": "DE-ST",
+              "DE-SH": "DE-SH",
+              "DE-TH": "DE-TH"
+            }
+          }
+        ],
+        "names": {
+          "DE-BW": [
+            "Baden-Württemberg",
+            "巴登-符腾堡"
+          ],
+          "DE-BY": [
+            "Bavaria",
+            "巴伐利亚"
+          ],
+          "DE-BE": [
+            "Berlin",
+            "柏林"
+          ],
+          "DE-BB": [
+            "Brandenburg",
+            "勃兰登堡"
+          ],
+          "DE-HB": [
+            "Bremen",
+            "不来梅"
+          ],
+          "DE-HH": [
+            "Hamburg",
+            "汉堡"
+          ],
+          "DE-HE": [
+            "Hesse",
+            "黑森"
+          ],
+          "DE-MV": [
+            "Mecklenburg-Vorpommern",
+            "梅克伦堡-前波莫瑞"
+          ],
+          "DE-NI": [
+            "Lower Saxony",
+            "下萨克森"
+          ],
+          "DE-NW": [
+            "North Rhine-Westphalia",
+            "北莱茵-威斯特法伦"
+          ],
+          "DE-RP": [
+            "Rhineland-Palatinate",
+            "莱茵兰-普法尔茨"
+          ],
+          "DE-SL": [
+            "Saarland",
+            "萨尔"
+          ],
+          "DE-SN": [
+            "Saxony",
+            "萨克森"
+          ],
+          "DE-ST": [
+            "Saxony-Anhalt",
+            "萨克森-安哈尔特"
+          ],
+          "DE-SH": [
+            "Schleswig-Holstein",
+            "石勒苏益格-荷尔斯泰因"
+          ],
+          "DE-TH": [
+            "Thuringia",
+            "图林根"
+          ]
+        }
+      },
+      "data": [
+        "data/de/geo.js",
+        "data/de/books.js",
+        "data/de/places.js",
+        "data/de/lines.js"
+      ],
+      "open": false,
+      "small_regions": [
+        "DE-HB",
+        "DE-HH",
+        "DE-BE"
+      ],
+      "wash": {}
+    },
+    {
+      "code": "it",
+      "iso": "ITA",
+      "name": "Italy",
+      "name_zh": "意大利",
+      "short": "Italy",
+      "short_zh": "意大利",
+      "region_term": {
+        "en": "region",
+        "zh": "大区"
+      },
+      "bounds": [
+        6.6,
+        36.6,
+        18.6,
+        47.1
+      ],
+      "step": 0.01,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "region",
+            "map": {
+              "Piemonte": "IT-21",
+              "Valle d'Aosta": "IT-23",
+              "Lombardia": "IT-25",
+              "Trentino-Alto Adige": "IT-32",
+              "Veneto": "IT-34",
+              "Friuli-Venezia Giulia": "IT-36",
+              "Liguria": "IT-42",
+              "Emilia-Romagna": "IT-45",
+              "Toscana": "IT-52",
+              "Umbria": "IT-55",
+              "Marche": "IT-57",
+              "Lazio": "IT-62",
+              "Abruzzo": "IT-65",
+              "Molise": "IT-67",
+              "Campania": "IT-72",
+              "Apulia": "IT-75",
+              "Basilicata": "IT-77",
+              "Calabria": "IT-78",
+              "Sicily": "IT-82",
+              "Sardegna": "IT-88"
+            }
+          }
+        ],
+        "names": {
+          "IT-21": [
+            "Piedmont",
+            "皮埃蒙特"
+          ],
+          "IT-23": [
+            "Aosta Valley",
+            "瓦莱达奥斯塔"
+          ],
+          "IT-25": [
+            "Lombardy",
+            "伦巴第"
+          ],
+          "IT-32": [
+            "Trentino-South Tyrol",
+            "特伦蒂诺-上阿迪杰"
+          ],
+          "IT-34": [
+            "Veneto",
+            "威尼托"
+          ],
+          "IT-36": [
+            "Friuli-Venezia Giulia",
+            "弗留利-威尼斯朱利亚"
+          ],
+          "IT-42": [
+            "Liguria",
+            "利古里亚"
+          ],
+          "IT-45": [
+            "Emilia-Romagna",
+            "艾米利亚-罗马涅"
+          ],
+          "IT-52": [
+            "Tuscany",
+            "托斯卡纳"
+          ],
+          "IT-55": [
+            "Umbria",
+            "翁布里亚"
+          ],
+          "IT-57": [
+            "Marche",
+            "马尔凯"
+          ],
+          "IT-62": [
+            "Lazio",
+            "拉齐奥"
+          ],
+          "IT-65": [
+            "Abruzzo",
+            "阿布鲁佐"
+          ],
+          "IT-67": [
+            "Molise",
+            "莫利塞"
+          ],
+          "IT-72": [
+            "Campania",
+            "坎帕尼亚"
+          ],
+          "IT-75": [
+            "Apulia",
+            "普利亚"
+          ],
+          "IT-77": [
+            "Basilicata",
+            "巴西利卡塔"
+          ],
+          "IT-78": [
+            "Calabria",
+            "卡拉布里亚"
+          ],
+          "IT-82": [
+            "Sicily",
+            "西西里"
+          ],
+          "IT-88": [
+            "Sardinia",
+            "撒丁"
+          ]
+        }
+      },
+      "data": [
+        "data/it/geo.js",
+        "data/it/books.js",
+        "data/it/places.js",
+        "data/it/lines.js"
+      ],
+      "open": false,
+      "small_regions": [
+        "IT-23",
+        "IT-67"
+      ],
+      "wash": {}
     }
   ]
 }

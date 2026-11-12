@@ -116,5 +116,93 @@ window.RA_COUNTRIES = [
    "data/cn/lines.js"
   ],
   "open": true
+ },
+ {
+  "code": "fr",
+  "iso": "FRA",
+  "name": "France",
+  "name_zh": "法国",
+  "short": "France",
+  "short_zh": "法国",
+  "region_term": {
+   "en": "region",
+   "zh": "大区"
+  },
+  "bounds": [
+   -5.2,
+   41.3,
+   9.6,
+   51.1
+  ],
+  "small_regions": [],
+  "wash": {},
+  "data": [
+   "data/fr/geo.js",
+   "data/fr/books.js",
+   "data/fr/places.js",
+   "data/fr/lines.js"
+  ],
+  "open": false
+ },
+ {
+  "code": "de",
+  "iso": "DEU",
+  "name": "Germany",
+  "name_zh": "德国",
+  "short": "Germany",
+  "short_zh": "德国",
+  "region_term": {
+   "en": "state",
+   "zh": "州"
+  },
+  "bounds": [
+   5.9,
+   47.3,
+   15.0,
+   55.1
+  ],
+  "small_regions": [
+   "DE-HB",
+   "DE-HH",
+   "DE-BE"
+  ],
+  "wash": {},
+  "data": [
+   "data/de/geo.js",
+   "data/de/books.js",
+   "data/de/places.js",
+   "data/de/lines.js"
+  ],
+  "open": false
+ },
+ {
+  "code": "it",
+  "iso": "ITA",
+  "name": "Italy",
+  "name_zh": "意大利",
+  "short": "Italy",
+  "short_zh": "意大利",
+  "region_term": {
+   "en": "region",
+   "zh": "大区"
+  },
+  "bounds": [
+   6.6,
+   36.6,
+   18.6,
+   47.1
+  ],
+  "small_regions": [
+   "IT-23",
+   "IT-67"
+  ],
+  "wash": {},
+  "data": [
+   "data/it/geo.js",
+   "data/it/books.js",
+   "data/it/places.js",
+   "data/it/lines.js"
+  ],
+  "open": false
  }
 ];

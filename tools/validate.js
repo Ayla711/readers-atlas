@@ -26,7 +26,7 @@ let { lines } = sandbox.window.RA_DATA;
 const errors = [], warnings = [];
 const err = (m) => errors.push(m), warn = (m) => warnings.push(m);
 const TYPES = ["original", "prototype", "pilgrimage", "film_location"];
-const LANGS = ["en", "enm", "sco", "zh", "ja", "fr", "de", "ru", "la", "cy"];
+const LANGS = ["en", "enm", "sco", "zh", "ja", "fr", "de", "it", "ru", "la", "cy"];
 const ID_RE = /^[a-z0-9]+(-[a-z0-9]+)*$/;
 
 function checkIds(list, kind) {

@@ -218,6 +218,8 @@ def build_country(cfg):
         if p.get("ra_land_border") or p.get("ra_border_area"):   # go to data/world-geo.js (build_world)
             continue
         rid = region_of(p, cfg)
+        if not rid and p.get("name") in cfg.get("skip_units", []):   # e.g. France's overseas departments
+            continue
         if not rid:
             raise SystemExit(f"unmapped unit: {p.get('name')}")
         if cfg["regions"]["mode"] == "units":

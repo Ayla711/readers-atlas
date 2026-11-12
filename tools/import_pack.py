@@ -267,6 +267,11 @@ for l in lines:
     for h in l.get("highlight_en", []):
         if flat(h) not in flat(l["text_en"]):
             err(f"line {l['id']}: highlight {h!r} is not in text_en")
+    for h in l.get("highlight_orig", []) or []:
+        if flat(h) not in flat(l.get("text_orig") or ""):
+            err(f"line {l['id']}: highlight {h!r} is not in text_orig")
+    if l.get("text_orig") and l.get("kind") != "scene" and not l.get("highlight_orig"):
+        warn(f"line {l['id']}: has text_orig but no highlight_orig")
     for h in l.get("highlight_zh", []) or []:
         if h not in (l.get("text_zh") or ""):
             err(f"line {l['id']}: highlight {h!r} is not in text_zh")
