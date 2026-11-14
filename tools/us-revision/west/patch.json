@@ -1,9 +1,699 @@
 {
-  "books": [],
-  "places": [],
-  "lines": [],
-  "photos": [],
+  "books": [
+    {
+      "id": "us-call-of-the-wild",
+      "title": "The Call of the Wild",
+      "title_zh": "野性的呼唤",
+      "author": "Jack London",
+      "author_zh": "杰克·伦敦",
+      "year": "1903",
+      "orig_lang": "en",
+      "public_domain": true,
+      "source_url": "https://www.gutenberg.org/ebooks/215",
+      "aliases": []
+    },
+    {
+      "id": "us-sea-wolf",
+      "title": "The Sea-Wolf",
+      "title_zh": "海狼",
+      "author": "Jack London",
+      "author_zh": "杰克·伦敦",
+      "year": "1904",
+      "orig_lang": "en",
+      "public_domain": true,
+      "source_url": "https://www.gutenberg.org/ebooks/1074",
+      "aliases": []
+    },
+    {
+      "id": "us-steep-trails",
+      "title": "Steep Trails",
+      "title_zh": "险峻的山径",
+      "author": "John Muir",
+      "author_zh": "约翰·缪尔",
+      "year": "1918",
+      "orig_lang": "en",
+      "public_domain": true,
+      "source_url": "https://www.gutenberg.org/ebooks/326",
+      "aliases": []
+    },
+    {
+      "id": "us-rolling-stones",
+      "title": "Rolling Stones",
+      "title_zh": "滚石集",
+      "author": "O. Henry",
+      "author_zh": "欧·亨利",
+      "year": "1912",
+      "orig_lang": "en",
+      "public_domain": true,
+      "source_url": "https://www.gutenberg.org/ebooks/3815",
+      "aliases": []
+    },
+    {
+      "id": "us-death-comes-for-the-archbishop",
+      "title": "Death Comes for the Archbishop",
+      "title_zh": "死神来迎接大主教",
+      "author": "Willa Cather",
+      "author_zh": "薇拉·凯瑟",
+      "year": "1927",
+      "orig_lang": "en",
+      "public_domain": true,
+      "source_url": "https://www.gutenberg.org/ebooks/69730",
+      "aliases": []
+    },
+    {
+      "id": "us-little-house-on-the-prairie",
+      "title": "Little House on the Prairie",
+      "title_zh": "草原上的小木屋",
+      "author": "Laura Ingalls Wilder",
+      "author_zh": "劳拉·英格尔斯·怀尔德",
+      "year": "1935",
+      "orig_lang": "en",
+      "public_domain": false,
+      "aliases": [],
+      "source_url": "https://www.fadedpage.com/books/20200415/html.php"
+    }
+  ],
+  "places": [
+    {
+      "id": "us-santa-clara-valley",
+      "name": "Santa Clara Valley",
+      "name_zh": "圣克拉拉谷",
+      "lat": 37.36694,
+      "lon": -121.98389,
+      "place_type": "original",
+      "note_en": "Buck’s sheltered life at Judge Miller’s fictional estate begins in this real valley; the point represents the valley, not an identified house",
+      "note": "巴克在米勒法官的虚构庄园里过着安逸生活，故事从真实的圣克拉拉谷开始；坐标代表山谷，并不指认某座住宅",
+      "coord_checked": "https://en.wikipedia.org/wiki/Santa_Clara_Valley (37.36694, -121.98389)",
+      "fact_source": "https://www.gutenberg.org/ebooks/215"
+    },
+    {
+      "id": "mount-hood",
+      "name": "Mount Hood",
+      "name_zh": "胡德山",
+      "lat": 45.3736,
+      "lon": -121.6958,
+      "place_type": "original",
+      "note_en": "Muir watches Mount Hood glow in the sunset from a Willamette River bridge in Portland; the summit marks the mountain he sees, not his viewing position",
+      "note": "缪尔在波特兰的一座威拉米特河桥上欣赏胡德山的落日余晖；山顶坐标标示所见的山，而非作者的观景位置",
+      "coord_checked": "Mount Hood — https://en.wikipedia.org/wiki/Mount_Hood",
+      "fact_source": "https://www.gutenberg.org/ebooks/326"
+    },
+    {
+      "id": "us-austin-land-office",
+      "name": "Old General Land Office, Austin",
+      "name_zh": "奥斯汀 · 旧土地总署",
+      "lat": 30.2727,
+      "lon": -97.7393,
+      "place_type": "original",
+      "note_en": "In “Bexar Scrip No. 2692,” the narrator evokes the heavy stone building and Sharp hides a land document in his coat; the surviving building is the story’s named setting",
+      "note": "在《贝克萨土地凭证第2692号》中，叙述者描写厚重的石砌建筑，夏普则将土地文件藏进外套；这座现存建筑正是故事点名的发生地",
+      "coord_checked": "https://en.wikipedia.org/wiki/General_Land_Office_Building_(Austin,_Texas) (30.2727, -97.7393)",
+      "fact_source": "https://www.gutenberg.org/ebooks/3815"
+    },
+    {
+      "id": "us-red-cloud",
+      "name": "Red Cloud (Black Hawk prototype)",
+      "name_zh": "雷德克劳德（黑鹰镇原型）",
+      "lat": 40.08639,
+      "lon": -98.52222,
+      "place_type": "prototype",
+      "note_en": "Cather’s childhood town is the model for Black Hawk in My Ántonia; the marker represents the town rather than an identified fictional station",
+      "note": "凯瑟童年居住的小镇是《我的安东妮亚》中黑鹰镇的原型；标记代表小镇，并不指认小说车站的精确位置",
+      "coord_checked": "https://en.wikipedia.org/wiki/Red_Cloud,_Nebraska (40.08639, -98.52222)",
+      "fact_source": "https://www.willacather.org/big-read",
+      "prototype_of_en": "Black Hawk",
+      "prototype_of": "黑鹰镇"
+    },
+    {
+      "id": "us-santa-fe-cathedral",
+      "name": "Cathedral Basilica of Saint Francis of Assisi",
+      "name_zh": "圣菲 · 阿西西圣方济各主教座堂",
+      "lat": 35.6865,
+      "lon": -105.9363,
+      "place_type": "prototype",
+      "note_en": "The cathedral built by Archbishop Lamy is the model for Latour’s cathedral; Cather’s fictional architect and private recollections are not documentary accounts of its construction",
+      "note": "拉米大主教建造的教堂是拉图尔主教座堂的原型；凯瑟虚构的建筑师与私人回忆，并非真实建造过程的历史记录",
+      "coord_checked": "https://en.wikipedia.org/wiki/Cathedral_Basilica_of_St._Francis_of_Assisi_(Santa_Fe) (35.6865, -105.9363)",
+      "fact_source": "https://www.willacather.org/about/willa-cather-biography",
+      "prototype_of": "拉图尔主教座堂",
+      "prototype_of_en": "Latour’s cathedral"
+    },
+    {
+      "id": "us-wolf-house",
+      "name": "Wolf House ruins",
+      "name_zh": "格伦埃伦 · 狼屋遗址",
+      "lat": 38.35056,
+      "lon": -122.54306,
+      "place_type": "pilgrimage",
+      "note_en": "Jack London began building this planned home in 1911; it burned in August 1913 before he and Charmian moved in. The masonry ruins are preserved in Jack London State Historic Park, with walking trails and guided tours",
+      "note": "杰克·伦敦于1911年开始修建这座理想住宅；1913年8月房屋失火，他与查米恩从未入住。砖石遗迹如今保存在杰克·伦敦州立历史公园内，可沿步道及参加导览参观",
+      "coord_checked": "https://en.wikipedia.org/wiki/Wolf_House_(Glen_Ellen,_California) — 38°21′2″N 122°32′35″W",
+      "fact_source": "https://jacklondonpark.com/wolf-house/",
+      "book_ids": [
+        "us-call-of-the-wild",
+        "us-sea-wolf"
+      ]
+    },
+    {
+      "id": "us-cather-childhood-home",
+      "name": "Willa Cather Childhood Home",
+      "name_zh": "雷德克劳德 · 薇拉·凯瑟童年故居",
+      "lat": 40.08778,
+      "lon": -98.52111,
+      "place_type": "pilgrimage",
+      "note_en": "Cather lived here from 1884 until leaving for university in 1890. The National Historic Landmark is managed by the Willa Cather Foundation and offers guided tours; it reopened in December 2023 after restoration",
+      "note": "凯瑟从1884年起住在这里，1890年赴大学求学后离开。这处美国国家历史地标由薇拉·凯瑟基金会管理，提供导览参观；修复后于2023年12月重新开放",
+      "coord_checked": "https://en.wikipedia.org/wiki/Willa_Cather_House — 40°5′16″N 98°31′16″W",
+      "fact_source": "https://www.nps.gov/places/willa-cather-house-ne.htm",
+      "book_ids": [
+        "my-antonia",
+        "o-pioneers"
+      ]
+    },
+    {
+      "id": "us-o-henry-museum",
+      "name": "O. Henry Museum, Austin",
+      "name_zh": "奥斯汀 · 欧·亨利博物馆",
+      "lat": 30.26583,
+      "lon": -97.73917,
+      "place_type": "pilgrimage",
+      "note_en": "O. Henry and his family rented this cottage from 1893 to 1895. Relocated to Brush Square in 1934, it is now a city museum interpreting his Austin years through artifacts, exhibits and tours",
+      "note": "欧·亨利与家人于1893至1895年租住这座小屋。1934年建筑迁至布拉什广场，如今作为市立博物馆，以文物、展览和导览讲述他的奥斯汀岁月",
+      "coord_checked": "https://en.wikipedia.org/wiki/O._Henry_Museum — 30°15′57″N 97°44′21″W",
+      "fact_source": "https://www.austintexas.gov/o-henry",
+      "book_ids": [
+        "us-rolling-stones"
+      ]
+    },
+    {
+      "id": "us-independence-ingalls-site",
+      "name": "Ingalls homesite near Independence",
+      "name_zh": "独立城附近 · 英格尔斯旧居遗址",
+      "lat": 37.12487,
+      "lon": -95.83678,
+      "place_type": "prototype",
+      "note_en": "The museum occupies the Kansas homesite associated with Wilder’s childhood and the novel’s prairie cabin. Its visible cabin is a replica; the marker identifies the remembered setting rather than an authenticated location of each fictional event",
+      "note": "博物馆坐落于堪萨斯州与怀尔德童年及小说草原小屋相联系的旧居遗址。现存木屋为复制品；标记指向回忆中的背景地，并不证明每个小说事件发生于某一精确位置",
+      "coord_checked": "https://mapcarta.com/W1098598188 — 37.12487, -95.83678",
+      "fact_source": "https://www.lhopmuseum.com/",
+      "prototype_of": "英格尔斯一家的草原小屋",
+      "prototype_of_en": "The Ingalls family’s prairie cabin"
+    },
+    {
+      "id": "san-francisco",
+      "name": "San Francisco",
+      "name_zh": "旧金山",
+      "lat": 37.7775,
+      "lon": -122.4164,
+      "place_type": "original",
+      "note_en": "Sal looks across the city toward the Pacific before leaving; The Sea-Wolf opens aboard a fogbound ferry bound here from Sausalito. The city marker represents these views and destination, not the exact lookout or collision site",
+      "note": "萨尔离开前越过城市眺望太平洋；《海狼》则从索萨利托驶往此地的雾中渡轮开篇。城市坐标代表所见城市及航程终点，不指认眺望处或碰撞地点",
+      "coord_checked": "San Francisco — https://en.wikipedia.org/wiki/San_Francisco",
+      "fact_source": "https://en.wikipedia.org/wiki/On_the_Road"
+    },
+    {
+      "id": "san-antonio",
+      "name": "San Antonio",
+      "name_zh": "圣安东尼奥",
+      "lat": 29.425,
+      "lon": -98.4939,
+      "place_type": "original",
+      "note_en": "Call returns Gus’s body to an orchard near the city in Lonesome Dove; O. Henry’s “A Fog in Santone” follows Goodall across its foggy bridges and into a concert hall. The city marker does not identify a particular orchard, bridge or hall",
+      "note": "《孤鸽镇》中，考尔将格斯的遗体送回城外果园；欧·亨利的《圣安东尼奥的雾》则跟随古德尔走过雾中桥梁、进入音乐厅。城市坐标不指认某处果园、桥梁或厅堂",
+      "coord_checked": "Wikipedia: San Antonio — https://en.wikipedia.org/wiki/San_Antonio",
+      "fact_source": "https://en.wikipedia.org/wiki/Lonesome_Dove"
+    },
+    {
+      "id": "kuna",
+      "name": "Kuna, Idaho",
+      "name_zh": "库纳",
+      "lat": 43.4903,
+      "lon": -116.3717,
+      "place_type": "original",
+      "note_en": "Stegner evokes the station landscape after the train’s noise fades, with wind in the wires and roads crossing treeless sage country; the existing point represents Kuna as a whole",
+      "note": "斯特格纳描写列车声散去后的车站风景：电线间低吟的风，以及穿过无树蒿草地的道路；坐标代表库纳整体",
+      "coord_checked": "Kuna, Idaho — https://en.wikipedia.org/wiki/Kuna,_Idaho",
+      "fact_source": "https://en.wikipedia.org/wiki/Kuna,_Idaho"
+    }
+  ],
+  "lines": [
+    {
+      "id": "us-cw-1",
+      "book_id": "us-call-of-the-wild",
+      "place_ids": [
+        "us-santa-clara-valley"
+      ],
+      "location": "Chapter 1, Into the Primitive",
+      "location_zh": "第1章：走向原始",
+      "text_en": "Buck lived at a big house in the sun-kissed Santa Clara Valley. Judge\r\nMiller’s place, it was called. It stood back from the road, half hidden\r\namong the trees, through which glimpses could be caught of the wide\r\ncool veranda that ran around its four sides. The house was approached\r\nby gravelled driveways which wound about through wide-spreading lawns\r\nand under the interlacing boughs of tall poplars.",
+      "text_zh": "巴克住在阳光普照的圣克拉拉谷的一座大宅里，人们称它为米勒法官的庄园。房子远离道路，半掩在树丛中，透过枝叶可以瞥见环绕四面的宽阔凉爽的走廊。通往房子的碎石车道蜿蜒穿过开阔的草坪，伸向高大白杨交错的枝条下。",
+      "highlight_en": [
+        "Santa Clara Valley"
+      ],
+      "highlight_zh": [
+        "圣克拉拉谷"
+      ],
+      "translation": "original",
+      "source": {
+        "kind": "gutenberg",
+        "id": 215
+      },
+      "status": "draft"
+    },
+    {
+      "id": "us-cw-2",
+      "book_id": "us-call-of-the-wild",
+      "place_ids": [
+        "us-santa-clara-valley"
+      ],
+      "location": "Chapter 1, Into the Primitive",
+      "location_zh": "第1章：走向原始",
+      "text_en": "The Judge was at a meeting of the Raisin Growers’ Association, and the\r\nboys were busy organizing an athletic club, on the memorable night of\r\nManuel’s treachery. No one saw him and Buck go off through the orchard\r\non what Buck imagined was merely a stroll. And with the exception of a\r\nsolitary man, no one saw them arrive at the little flag station known\r\nas College Park. This man talked with Manuel, and money chinked between\r\nthem.",
+      "text_zh": "在曼纽尔背叛他的那个难忘的夜晚，法官正在参加葡萄干种植者协会的会议，男孩们忙着组织体育俱乐部。没人看见曼纽尔带着巴克穿过果园，巴克以为不过是去散步。除了一个孤零零的男人，也没人看见他们来到名叫大学公园的小招呼站。那人和曼纽尔交谈，他们之间响起钱币碰撞的声音。",
+      "highlight_en": [
+        "College Park"
+      ],
+      "highlight_zh": [
+        "大学公园"
+      ],
+      "translation": "original",
+      "source": {
+        "kind": "gutenberg",
+        "id": 215
+      },
+      "status": "draft"
+    },
+    {
+      "id": "us-sw-1",
+      "book_id": "us-sea-wolf",
+      "place_ids": [
+        "san-francisco"
+      ],
+      "location": "Chapter 1",
+      "location_zh": "第1章",
+      "text_en": "Not but that I was afloat in a safe craft, for the _Martinez_ was a new\r\nferry-steamer, making her fourth or fifth trip on the run between\r\nSausalito and San Francisco.  The danger lay in the heavy fog which\r\nblanketed the bay, and of which, as a landsman, I had little\r\napprehension.  In fact, I remember the placid exaltation with which I\r\ntook up my position on the forward upper deck, directly beneath the\r\npilot-house, and allowed the mystery of the fog to lay hold of my\r\nimagination.",
+      "text_zh": "倒不是说我乘坐的船不安全，因为“马丁内斯号”是艘新渡轮，才第四或第五次往返索萨利托与旧金山之间。危险在于笼罩海湾的浓雾，而我这个陆地上的人对此几乎毫无戒心。事实上，我记得自己走上驾驶室正下方的前部上层甲板时，心中充满平静的欣喜，任由雾的神秘占据我的想象。",
+      "highlight_en": [
+        "San Francisco"
+      ],
+      "highlight_zh": [
+        "旧金山"
+      ],
+      "translation": "original",
+      "source": {
+        "kind": "gutenberg",
+        "id": 1074
+      },
+      "status": "draft"
+    },
+    {
+      "id": "tia-1",
+      "book_id": "us-steep-trails",
+      "place_ids": [
+        "mount-hood"
+      ],
+      "location": "Chapter 21, The Physical and Climatic Characteristics of Oregon",
+      "location_zh": "第21章：俄勒冈的地形与气候特点",
+      "text_en": "Looking\r\nacross the forest, over which the mellow light of the sunset was\r\nstreaming, I soon discovered the source of my friend’s excitement.\r\nThere stood Mount Hood in all the glory of the alpenglow, looming\r\nimmensely high, beaming with intelligence, and so impressive that one\r\nwas overawed as if suddenly brought before some superior being newly\r\narrived from the sky.",
+      "text_zh": "望过森林，落日柔和的光正流泻其上，我很快明白朋友为什么如此激动。胡德山矗立在那里，沐浴着壮丽的山巅晚霞，高得不可思议，仿佛闪耀着智慧；那景象令人震撼，仿佛突然置身于一位刚从天空降临的超凡存在面前。",
+      "highlight_en": [
+        "Mount Hood"
+      ],
+      "highlight_zh": [
+        "胡德山"
+      ],
+      "translation": "original",
+      "source": {
+        "kind": "gutenberg",
+        "id": 326
+      },
+      "status": "draft"
+    },
+    {
+      "id": "us-rs-1",
+      "book_id": "us-rolling-stones",
+      "place_ids": [
+        "san-antonio"
+      ],
+      "location": "A Fog in Santone",
+      "location_zh": "圣安东尼奥的雾",
+      "text_en": "The purchaser of the morphia wanders into the fog, and at length, finds\r\nhimself upon a little iron bridge, one of the score or more in the heart\r\nof the city, under which the small tortuous river flows. He leans on\r\nthe rail and gasps, for here the mist has concentrated, lying like a\r\nfoot-pad to garrote such of the Three Thousand as creep that way.",
+      "text_zh": "买了吗啡的年轻人走入雾中，最后来到一座小铁桥上。城中心有二十多座这样的桥，下面是蜿蜒的小河。他倚着栏杆喘气，因为雾气聚集在这里，像个埋伏的拦路强盗，准备扼住那三千名病客中摸索到这里的人的喉咙。",
+      "highlight_en": [
+        "iron bridge"
+      ],
+      "highlight_zh": [
+        "铁桥"
+      ],
+      "translation": "original",
+      "source": {
+        "kind": "gutenberg",
+        "id": 3815
+      },
+      "status": "draft"
+    },
+    {
+      "id": "us-rs-2",
+      "book_id": "us-rolling-stones",
+      "place_ids": [
+        "san-antonio"
+      ],
+      "location": "A Fog in Santone",
+      "location_zh": "圣安东尼奥的雾",
+      "text_en": "Thus Goodall's tempter deserts him. That youth, uncomplaining and\r\nuncaring, takes a spell at coughing, and, recovered, wanders desultorily\r\non down the street, the name of which he neither knows nor recks. At a\r\ncertain point he perceives swinging doors, and hears, filtering between\r\nthem a noise of wind and string instruments. Two men enter from the\r\nstreet as he arrives, and he follows them in. There is a kind of\r\nante-chamber, plentifully set with palms and cactuses and oleanders. At\r\nlittle marble-topped tables some people sit, while soft-shod attendants\r\nbring the beer.",
+      "text_zh": "于是，引诱古德尔的人离开了他。年轻人既不抱怨，也不在乎，咳嗽了一阵，缓过气后便漫无目的地沿街走去，街名是什么，他既不知道也不关心。走到一处，他看见两扇弹簧门，听见门缝里传出的管弦乐声。他到门口时正有两人进去，他便跟在后面。里面像是一间前厅，摆满棕榈、仙人掌和夹竹桃。人们坐在大理石面的小桌旁，穿软鞋的侍者送来啤酒。",
+      "highlight_en": [
+        "Goodall"
+      ],
+      "highlight_zh": [
+        "古德尔"
+      ],
+      "translation": "original",
+      "source": {
+        "kind": "gutenberg",
+        "id": 3815
+      },
+      "status": "draft"
+    },
+    {
+      "id": "us-rs-3",
+      "book_id": "us-rolling-stones",
+      "place_ids": [
+        "us-austin-land-office"
+      ],
+      "location": "Bexar Scrip No. 2692",
+      "location_zh": "贝克萨土地凭证第2692号",
+      "text_en": "But even now, when you enter the building, you lower your voice, and\r\ntime turns backward for you, for the atmosphere which you breathe is\r\ncold with the exudation of buried generations.\r\n\r\nThe building is stone with a coating of concrete; the walls are\r\nimmensely thick; it is cool in the summer and warm in the winter; it\r\nis isolated and sombre; standing apart from the other state buildings,\r\nsullen and decaying, brooding on the past.",
+      "text_zh": "但即使现在，走进这座建筑，你也会放低声音，仿佛时光倒流，因为你呼吸的空气带着逝去世代渗出的寒意。建筑是石砌的，外面覆着混凝土；墙壁极厚，夏凉冬暖。它孤立而阴沉，与其他州政府建筑保持距离，郁郁地衰朽着，沉思着往昔。",
+      "highlight_en": [
+        "building"
+      ],
+      "highlight_zh": [
+        "建筑"
+      ],
+      "translation": "original",
+      "source": {
+        "kind": "gutenberg",
+        "id": 3815
+      },
+      "status": "draft"
+    },
+    {
+      "id": "us-rs-4",
+      "book_id": "us-rolling-stones",
+      "place_ids": [
+        "us-austin-land-office"
+      ],
+      "location": "Bexar Scrip No. 2692",
+      "location_zh": "贝克萨土地凭证第2692号",
+      "text_en": "He turned to the file room, with a dozen or more files in his hands,\r\nand accidentally dropped part of them on the floor. As he stooped to\r\npick them up he swiftly thrust Bexar Scrip No. 2692 in the inside breast\r\npocket of his coat.\r\n\r\nThis happened at just half-past four o'clock, and when the file clerk\r\ntook the files he threw them in a pile in his room, came out and locked\r\nthe door.\r\n\r\nThe clerks were moving out of the doors in long, straggling lines.\r\n\r\nIt was closing time.",
+      "text_zh": "他拿着十来份卷宗转身走向档案室，“不小心”把其中几份掉在地上。弯腰捡拾时，他迅速把贝克萨土地凭证第2692号塞进外套内侧的胸袋。这时恰好是四点半。档案员接过卷宗，随手堆在房内，出来锁上了门。职员们拖着长长的、稀稀落落的队伍走向出口。下班时间到了。",
+      "highlight_en": [
+        "Bexar Scrip No. 2692"
+      ],
+      "highlight_zh": [
+        "贝克萨土地凭证第2692号"
+      ],
+      "translation": "original",
+      "source": {
+        "kind": "gutenberg",
+        "id": 3815
+      },
+      "status": "draft"
+    },
+    {
+      "id": "us-myan-2",
+      "book_id": "my-antonia",
+      "place_ids": [
+        "us-red-cloud"
+      ],
+      "location": "Book 1, The Shimerdas, Chapter 1",
+      "location_zh": "第一部：希默尔达一家，第1章",
+      "text_en": "I had been sleeping, curled up in a red plush seat, for a long while\r\nwhen we reached Black Hawk. Jake roused me and took me by the hand. We\r\nstumbled down from the train to a wooden siding, where men were running\r\nabout with lanterns. I couldn’t see any town, or even distant lights;\r\nwe were surrounded by utter darkness. The engine was panting heavily\r\nafter its long run. In the red glow from the fire-box, a group of\r\npeople stood huddled together on the platform, encumbered by bundles\r\nand boxes.",
+      "text_zh": "到黑鹰镇时，我已经蜷在红色长毛绒座位上睡了很久。杰克把我叫醒，牵起我的手。我们跌跌撞撞地下车，走上木制站台，四周有人提着灯笼奔忙。我看不见镇子，甚至看不到远处的灯火；周围一片漆黑。跑了长路的火车头正沉重地喘息着。炉膛映出的红光里，一群人挤在站台上，身旁堆着包袱和箱子。",
+      "highlight_en": [
+        "Black Hawk"
+      ],
+      "highlight_zh": [
+        "黑鹰镇"
+      ],
+      "translation": "original",
+      "source": {
+        "kind": "gutenberg",
+        "id": 242
+      },
+      "status": "draft"
+    },
+    {
+      "id": "us-dca-1",
+      "book_id": "us-death-comes-for-the-archbishop",
+      "place_ids": [
+        "us-santa-fe-cathedral"
+      ],
+      "location": "Book 9, Death Comes for the Archbishop, Chapter 2",
+      "location_zh": "第九部：死神来迎接大主教，第2章",
+      "text_en": "Father Latour made his last entry into Santa Fé at the end of a\r\nbrilliant February afternoon; Bernard stopped the horses at the foot of\r\nthe long street to await the sunset.\r\n\r\nWrapped in his Indian blankets, the old Archbishop sat for a long while,\r\nlooking at the open, golden face of his Cathedral. How exactly young\r\nMolny, his French architect, had done what he wanted! Nothing\r\nsensational, simply honest building and good stone-cutting,--good Midi\r\nRomanesque of the plainest. And even now, in winter, when the acacia\r\ntrees before the door were bare, how it was of the South, that church,\r\nhow it sounded the note of the South!",
+      "text_zh": "拉图尔神父最后一次进入圣菲，是在一个灿烂的二月下午将尽时；贝尔纳把马停在长街尽头，等待日落。老主教裹着印第安毯子，久久坐着，注视他那座主教座堂开阔而金色的正面。年轻的法国建筑师莫尔尼多么准确地实现了他的愿望！没有任何炫耀，只有诚实的建筑和精良的石工——最朴素、纯正的法国南部罗马式风格。即使此刻是冬天，门前的洋槐枝叶凋零，那教堂仍然多么具有南方的气息，多么响亮地奏出南方的音调！",
+      "highlight_en": [
+        "Santa Fé",
+        "Cathedral"
+      ],
+      "highlight_zh": [
+        "圣菲",
+        "主教座堂"
+      ],
+      "translation": "original",
+      "source": {
+        "kind": "gutenberg",
+        "id": 69730
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ri-1",
+      "kind": "scene",
+      "book_id": "us-little-house-on-the-prairie",
+      "place_ids": [
+        "us-independence-ingalls-site"
+      ],
+      "location": "Chapter 12, Fresh Water to Drink",
+      "location_zh": "第12章：新鲜的饮用水",
+      "text_en": "At the prairie homesite associated with the Ingalls place near Independence, Laura watches the well rescue: Pa climbs down to secure the unconscious Mr. Scott, then he and Ma turn the windlass to bring their neighbor back into the air.",
+      "text_zh": "在以独立城附近英格尔斯旧居为背景的草原家园，劳拉目睹了一场井下救援：爸爸下井给昏迷的斯科特先生系好绳索，随后与妈妈一同转动绞盘，把邻居拉回地面。",
+      "highlight_en": [
+        "Independence"
+      ],
+      "highlight_zh": [
+        "独立城"
+      ],
+      "status": "draft",
+      "fact_source": "https://www.fadedpage.com/books/20200415/html.php"
+    },
+    {
+      "id": "aor-s1",
+      "kind": "scene",
+      "book_id": "angle-of-repose",
+      "place_ids": [
+        "kuna"
+      ],
+      "location": "Idaho section, Kuna station landscape",
+      "location_zh": "爱达荷部分：库纳车站风景",
+      "text_en": "At Kuna, the narration pauses as the train’s bustle gives way to wind humming in the wires. A stage road and the new railway stretch away in different directions through treeless sage country.",
+      "text_zh": "在库纳，叙述停留于列车的喧闹散去、风开始在电线上低吟的一刻。驿车道与新铁轨伸向不同方向，四周是没有树木的蒿草荒原。",
+      "highlight_en": [
+        "Kuna"
+      ],
+      "highlight_zh": [
+        "库纳"
+      ],
+      "status": "draft",
+      "fact_source": "https://rohanmaitzen.com/2014/06/"
+    },
+    {
+      "id": "aor-s2",
+      "kind": "scene",
+      "book_id": "angle-of-repose",
+      "place_ids": [
+        "leadville"
+      ],
+      "location": "Part 4, arrival at the Leadville cabin",
+      "location_zh": "第四部：抵达莱德维尔小屋",
+      "text_en": "When Susan reaches the cabin in Leadville, she struggles to hide her disappointment at its cramped interior. Frank runs up and explains that the commotion in town came from a hanging, turning her arrival at a new home into an encounter with mining-town violence.",
+      "text_zh": "苏珊来到莱德维尔的小屋，看见狭窄的室内，努力掩饰失望。弗兰克跑来，解释说镇上的骚动源于一场绞刑，让她初到新居的一刻与矿镇的暴力相撞。",
+      "highlight_en": [
+        "Leadville"
+      ],
+      "highlight_zh": [
+        "莱德维尔"
+      ],
+      "status": "draft",
+      "fact_source": "https://www.supersummary.com/angle-of-repose/parts-3-4/"
+    },
+    {
+      "id": "otr-s1",
+      "kind": "scene",
+      "book_id": "on-the-road",
+      "place_ids": [
+        "denver"
+      ],
+      "location": "Part 1, Chapter 6",
+      "location_zh": "第一部，第6章",
+      "text_en": "Sal’s first stop in Denver is Chad King’s house. There he learns that Dean and Carlo are also in town, but Chad has not been seeing them; the awkward news makes Sal sense a split among his friends.",
+      "text_zh": "萨尔抵达丹佛后，先到查德·金家。他得知迪安和卡洛也在城里，但查德并没有与他们来往；这则尴尬的消息让他察觉朋友之间出现了裂痕。",
+      "highlight_en": [
+        "Denver"
+      ],
+      "highlight_zh": [
+        "丹佛"
+      ],
+      "status": "draft",
+      "fact_source": "https://www.sparknotes.com/lit/ontheroad/section3/"
+    },
+    {
+      "id": "otr-s2",
+      "kind": "scene",
+      "book_id": "on-the-road",
+      "place_ids": [
+        "san-francisco"
+      ],
+      "location": "Part 1, Chapter 11",
+      "location_zh": "第一部，第11章",
+      "text_en": "Before leaving Mill City, Sal climbs to a canyon rim and looks across San Francisco toward the Pacific. At the continent’s western edge, he feels that the only direction left is back east.",
+      "text_zh": "离开米尔城前，萨尔爬上峡谷边缘，越过旧金山眺望太平洋。来到大陆西端，他觉得剩下的方向只有返回东方。",
+      "highlight_en": [
+        "San Francisco"
+      ],
+      "highlight_zh": [
+        "旧金山"
+      ],
+      "status": "draft",
+      "fact_source": "https://www.sparknotes.com/lit/ontheroad/section4/"
+    },
+    {
+      "id": "twc-s1",
+      "kind": "scene",
+      "book_id": "travels-with-charley",
+      "place_ids": [
+        "fargo"
+      ],
+      "location": "Part 3, entering Fargo",
+      "location_zh": "第三部：进入法戈",
+      "text_en": "Crossing the Red River into Fargo on a fine autumn day, Steinbeck finds himself hemmed in by ordinary traffic: a truck ahead and a Thunderbird behind. The crowded, neon-lit city clashes with the place of blizzards and dust storms he had imagined.",
+      "text_zh": "秋日晴天，斯坦贝克跨过红河进入法戈，却被寻常车流夹在中间：前面是卡车，后面是雷鸟轿车。拥挤的街道和霓虹灯，与他想象中饱受暴雪和沙尘侵袭的城市大不相同。",
+      "highlight_en": [
+        "Fargo"
+      ],
+      "highlight_zh": [
+        "法戈"
+      ],
+      "status": "draft",
+      "fact_source": "https://gutenbergcanada.ca/ebooks/steinbeckj-travelswithcharley/steinbeckj-travelswithcharley-00-h.html"
+    },
+    {
+      "id": "twc-s2",
+      "kind": "scene",
+      "book_id": "travels-with-charley",
+      "place_ids": [
+        "billings"
+      ],
+      "location": "Part 3, buying a hat in Billings",
+      "location_zh": "第三部：在比灵斯买帽子",
+      "text_en": "In Billings, Steinbeck buys a western hat, giving himself a reason to stay a little longer in Montana. His battered naval cap had been attracting attention so far inland, and he replaces it with a restrained stockman’s Stetson.",
+      "text_zh": "在比灵斯，斯坦贝克买下一顶西部帽，也给自己一个在蒙大拿多停留片刻的理由。来到远离海岸的内陆，他那顶破旧海军帽格外惹眼，于是换成一顶式样稳重的斯泰森牧人帽。",
+      "highlight_en": [
+        "Billings"
+      ],
+      "highlight_zh": [
+        "比灵斯"
+      ],
+      "status": "draft",
+      "fact_source": "https://gutenbergcanada.ca/ebooks/steinbeckj-travelswithcharley/steinbeckj-travelswithcharley-00-h.html"
+    },
+    {
+      "id": "gow-s3",
+      "kind": "scene",
+      "book_id": "grapes-of-wrath",
+      "place_ids": [
+        "weedpatch-camp"
+      ],
+      "location": "Chapter 22, the sanitary unit",
+      "location_zh": "第22章：卫生设施",
+      "text_en": "In the government camp modeled on Weedpatch, Winfield flushes a toilet and the sudden rush of water alarms him and Ruthie: they think they have broken it. Ma later laughs and explains how it works.",
+      "text_zh": "在以威德帕奇为原型的政府营地，温菲尔德按下马桶冲水，突如其来的水声吓坏了他和露西：他们以为弄坏了它。妈妈随后笑着解释了冲水的原理。",
+      "highlight_en": [
+        "Weedpatch"
+      ],
+      "highlight_zh": [
+        "威德帕奇"
+      ],
+      "status": "draft",
+      "fact_source": "https://www.bookrags.com/notes/gow/part22.html"
+    },
+    {
+      "id": "gow-s1",
+      "kind": "scene",
+      "book_id": "grapes-of-wrath",
+      "place_ids": [
+        "flagstaff"
+      ],
+      "location": "Chapter 18, crossing the Arizona high country",
+      "location_zh": "第18章：穿越亚利桑那高地",
+      "text_en": "As the Joads climb toward Flagstaff, short trees give way to taller forest and the cars struggle uphill, steaming. Beyond the summit the road runs out across open plateaus; ahead, water will have to be bought by the gallon.",
+      "text_zh": "乔德一家向弗拉格斯塔夫爬升时，低矮树木渐渐变成高大的森林，汽车冒着蒸汽艰难上坡。越过高点，道路伸向开阔的高原；再往前，饮水就得按加仑购买。",
+      "highlight_en": [
+        "Flagstaff"
+      ],
+      "highlight_zh": [
+        "弗拉格斯塔夫"
+      ],
+      "status": "draft",
+      "fact_source": "https://s3.amazonaws.com/scschoolfiles/112/grapes_of_wrath_john_steinbeck2.pdf"
+    },
+    {
+      "id": "gow-s2",
+      "kind": "scene",
+      "book_id": "grapes-of-wrath",
+      "place_ids": [
+        "sallisaw"
+      ],
+      "location": "Chapter 6, the deserted Joad home",
+      "location_zh": "第6章：荒废的乔德家",
+      "text_en": "Near Sallisaw, Tom and Casy find the Joad house tilted off its foundations and emptied of furniture. Tom realizes that even the neighbors have gone: otherwise someone would have salvaged the useful boards.",
+      "text_zh": "在萨利索附近，汤姆和凯西发现乔德家的房屋歪离地基，家具全无。汤姆意识到连邻居也已离开：否则早会有人拆走还能用的木板。",
+      "highlight_en": [
+        "Sallisaw"
+      ],
+      "highlight_zh": [
+        "萨利索"
+      ],
+      "status": "draft",
+      "fact_source": "https://www.litcharts.com/lit/the-grapes-of-wrath/chapter-6"
+    }
+  ],
   "remove_line_ids": [],
-  "remove_place_ids": [],
-  "remove_book_ids": []
+  "remove_place_ids": [
+    "marysville",
+    "gallup"
+  ],
+  "remove_book_ids": [],
+  "photos": {
+    "us-wolf-house": {
+      "commons_file": "File:WOLF HOUSE RUINS, JACK LONDON STATE HISTORIC PARK, CALIFORNIA.jpg",
+      "alt_en": "Masonry walls of Wolf House ruins",
+      "alt_zh": "狼屋遗址的砖石墙壁",
+      "crop": null
+    },
+    "us-cather-childhood-home": {
+      "commons_file": "File:Willa Cather house from NE 3.JPG",
+      "alt_en": "Willa Cather Childhood Home from the northeast, 2010",
+      "alt_zh": "2010年从东北方向望薇拉·凯瑟童年故居",
+      "crop": null
+    },
+    "us-o-henry-museum": {
+      "commons_file": "File:O henry museum 2007.jpg",
+      "alt_en": "O. Henry Museum in Austin, 2007",
+      "alt_zh": "2007年的奥斯汀欧·亨利博物馆",
+      "crop": null
+    }
+  }
 }

@@ -11,16 +11,513 @@
       "public_domain": true,
       "source_url": "https://www.gutenberg.org/ebooks/8813",
       "aliases": []
+    },
+    {
+      "id": "scarlet-letter",
+      "title": "The Scarlet Letter",
+      "title_zh": "红字",
+      "author": "Nathaniel Hawthorne",
+      "author_zh": "纳撒尼尔·霍桑",
+      "year": "1850",
+      "orig_lang": "en",
+      "public_domain": true,
+      "source_url": "https://www.gutenberg.org/ebooks/33",
+      "aliases": []
+    },
+    {
+      "id": "age-of-innocence",
+      "title": "The Age of Innocence",
+      "title_zh": "纯真年代",
+      "author": "Edith Wharton",
+      "author_zh": "伊迪丝·华顿",
+      "year": "1920",
+      "orig_lang": "en",
+      "public_domain": true,
+      "source_url": "https://www.gutenberg.org/ebooks/541",
+      "aliases": []
+    },
+    {
+      "id": "american-notes",
+      "title": "American Notes for General Circulation",
+      "title_zh": "美国札记",
+      "author": "Charles Dickens",
+      "author_zh": "狄更斯",
+      "year": "1842",
+      "orig_lang": "en",
+      "public_domain": true,
+      "source_url": "https://www.gutenberg.org/ebooks/675",
+      "aliases": []
+    },
+    {
+      "id": "life-in-iron-mills",
+      "title": "Life in the Iron-Mills",
+      "title_zh": "铁厂的生活",
+      "author": "Rebecca Harding Davis",
+      "author_zh": "丽贝卡·哈丁·戴维斯",
+      "year": "1861",
+      "orig_lang": "en",
+      "public_domain": true,
+      "source_url": "https://www.gutenberg.org/ebooks/876",
+      "aliases": []
+    },
+    {
+      "id": "letters-emily-dickinson",
+      "title": "Letters of Emily Dickinson",
+      "title_zh": "艾米莉·狄金森书信",
+      "author": "Emily Dickinson",
+      "author_zh": "艾米莉·狄金森",
+      "year": "1924",
+      "orig_lang": "en",
+      "public_domain": true,
+      "source_url": "https://en.wikisource.org/wiki/The_Life_and_Letters_of_Emily_Dickinson/Letters_of_Emily_Dickinson",
+      "aliases": [
+        "Letters section of The Life and Letters of Emily Dickinson",
+        "Martha Dickinson Bianchi (editor)"
+      ]
     }
   ],
-  "places": [],
-  "lines": [],
-  "photos": {},
+  "places": [
+    {
+      "id": "us-boston-scarlet-letter",
+      "name": "Boston",
+      "name_zh": "波士顿",
+      "lat": 42.3603,
+      "lon": -71.0578,
+      "place_type": "original",
+      "note_en": "Hawthorne stages Hester’s public punishment in colonial Boston; this city-wide marker does not identify a surviving prison or scaffold",
+      "note": "霍桑把海丝特当众受罚的情节设在殖民时期的波士顿；此城市代表点不表示现存的监狱或刑台",
+      "coord_checked": "Boston — https://en.wikipedia.org/wiki/Boston",
+      "fact_source": "https://en.wikipedia.org/wiki/Boston"
+    },
+    {
+      "id": "us-salem-custom-house",
+      "name": "Salem Custom House",
+      "name_zh": "塞勒姆海关大楼",
+      "lat": 42.5214,
+      "lon": -70.8869,
+      "place_type": "pilgrimage",
+      "note_en": "Hawthorne worked here from 1846 to 1849 and described it in The Scarlet Letter’s introduction; the preserved National Park Service building contains exhibits and his office",
+      "note": "霍桑于1846至1849年在此工作，并在《红字》导言中描写这里；现由美国国家公园管理局保存，设有展览及其办公室",
+      "coord_checked": "Salem Custom House — https://www.hmdb.org/m.asp?m=86927",
+      "fact_source": "https://www.nps.gov/places/custom-house.htm",
+      "book_ids": [
+        "scarlet-letter"
+      ]
+    },
+    {
+      "id": "us-amherst-dickinson-museum",
+      "name": "Emily Dickinson Museum, Homestead",
+      "name_zh": "阿默斯特 · 艾米莉·狄金森故居博物馆",
+      "lat": 42.3761,
+      "lon": -72.5144,
+      "place_type": "pilgrimage",
+      "note_en": "Dickinson lived in the Homestead from 1855 to 1886, writing poems and letters and tending its garden; the preserved house and neighboring Evergreens form a museum open on guided tours",
+      "note": "狄金森于1855至1886年居住在宅邸，写诗、通信并照料花园；故居与相邻的常青居组成博物馆，可参加导览参观",
+      "coord_checked": "Emily Dickinson Museum, Homestead — https://en.wikipedia.org/wiki/Emily_Dickinson_Museum",
+      "fact_source": "https://en.wikipedia.org/wiki/Emily_Dickinson_Museum",
+      "book_ids": [
+        "letters-emily-dickinson"
+      ]
+    },
+    {
+      "id": "us-lenox-the-mount",
+      "name": "The Mount",
+      "name_zh": "莱诺克斯 · 蒙特庄园",
+      "lat": 42.3311,
+      "lon": -73.282,
+      "place_type": "pilgrimage",
+      "note_en": "Edith Wharton lived here from 1902 to 1911; her designed house and gardens are now a public museum and cultural center, linked here as an author home rather than a setting of The Age of Innocence",
+      "note": "伊迪丝·华顿于1902至1911年在此居住；她设计的宅邸与花园现为向公众开放的博物馆及文化中心，这里是作家故居而非《纯真年代》的故事地点",
+      "coord_checked": "The Mount — https://en.wikipedia.org/wiki/The_Mount_(Lenox,_Massachusetts)",
+      "fact_source": "https://en.wikipedia.org/wiki/The_Mount_(Lenox,_Massachusetts)",
+      "book_ids": [
+        "age-of-innocence"
+      ]
+    },
+    {
+      "id": "us-hartford-dickens",
+      "name": "Hartford",
+      "name_zh": "哈特福德",
+      "lat": 41.7625,
+      "lon": -72.6742,
+      "place_type": "original",
+      "note_en": "Dickens describes Hartford’s setting, Charter Oak and encounters at its asylum during his 1842 visit; this city marker does not pinpoint the vanished oak or individual hospital rooms",
+      "note": "狄更斯描写1842年访问期间所见的哈特福德景观、宪章橡树及疗养院里的交谈；此城市标记不代表已消失的橡树或某一病房",
+      "coord_checked": "Hartford — https://en.wikipedia.org/wiki/Hartford,_Connecticut",
+      "fact_source": "https://en.wikipedia.org/wiki/Hartford,_Connecticut"
+    },
+    {
+      "id": "us-new-haven-dickens",
+      "name": "New Haven",
+      "name_zh": "纽黑文",
+      "lat": 41.3083,
+      "lon": -72.925,
+      "place_type": "original",
+      "note_en": "Dickens describes the elm-lined streets and Yale buildings as a meeting of town and country; this marker represents the city as a whole",
+      "note": "狄更斯描写榆树成行的街道与耶鲁校舍，仿佛城市和乡村在此相遇；标记代表整座城市",
+      "coord_checked": "New Haven — https://en.wikipedia.org/wiki/New_Haven,_Connecticut",
+      "fact_source": "https://en.wikipedia.org/wiki/New_Haven,_Connecticut"
+    },
+    {
+      "id": "us-ny-academy-of-music",
+      "name": "Site of the Academy of Music",
+      "name_zh": "纽约音乐学院歌剧院旧址",
+      "lat": 40.7346,
+      "lon": -73.9885,
+      "place_type": "original",
+      "note_en": "The novel opens in the opera house’s red-and-gold boxes; the original building, opened in 1854, was demolished in 1926",
+      "note": "小说从歌剧院红金相间的包厢写起；原建筑于1854年开业，1926年拆除",
+      "coord_checked": "Site of the Academy of Music — https://en.wikipedia.org/wiki/Academy_of_Music_(New_York_City)",
+      "fact_source": "https://en.wikipedia.org/wiki/Academy_of_Music_(New_York_City)"
+    },
+    {
+      "id": "us-ny-lower-fifth-avenue",
+      "name": "Lower Fifth Avenue at Washington Square",
+      "name_zh": "华盛顿广场旁的第五大道南端",
+      "lat": 40.7312,
+      "lon": -73.9971,
+      "place_type": "original",
+      "note_en": "Archer walks north from Washington Square along Fifth Avenue; the modern arch supplies a representative endpoint, not an object present in the novel’s 1870s scene, and the seasonal passage describes the avenue broadly",
+      "note": "阿切尔从华盛顿广场沿第五大道向北散步；今天的拱门仅提供代表性端点，并非小说十九世纪七十年代场景里的建筑，季节性段落则描写整条大道",
+      "coord_checked": "Lower Fifth Avenue at Washington Square — https://en.wikipedia.org/wiki/Washington_Square_Arch",
+      "fact_source": "https://en.wikipedia.org/wiki/Washington_Square_Arch"
+    },
+    {
+      "id": "us-wheeling-iron-mills",
+      "name": "Wheeling",
+      "name_zh": "惠灵",
+      "lat": 40.0703,
+      "lon": -80.6986,
+      "place_type": "prototype",
+      "note_en": "Davis’s industrial town is based on Wheeling’s mills and immigrant communities; this marker represents the city, not a surviving fictional mill",
+      "note": "戴维斯笔下的工业城镇以惠灵的工厂及移民社区为基础；标记代表整座城市，而非小说中仍然存在的某间工厂",
+      "coord_checked": "Wheeling — https://en.wikipedia.org/wiki/Wheeling,_West_Virginia",
+      "fact_source": "https://en.wikipedia.org/wiki/Life_in_the_Iron_Mills",
+      "prototype_of": "未具名的炼铁城镇",
+      "prototype_of_en": "The unnamed iron-mill town"
+    },
+    {
+      "id": "us-baltimore-poe-house",
+      "name": "Edgar Allan Poe House and Museum",
+      "name_zh": "巴尔的摩 · 埃德加·爱伦·坡故居博物馆",
+      "lat": 39.2913,
+      "lon": -76.6331,
+      "place_type": "pilgrimage",
+      "note_en": "Poe lived here with his aunt’s family around 1833–1835; now a public house museum, it commemorates the author rather than the South Carolina setting of The Gold-Bug",
+      "note": "坡约于1833至1835年在此与姨母一家居住；现为向公众开放的故居博物馆，用以纪念作家，并非《金甲虫》在南卡罗来纳州的故事地点",
+      "coord_checked": "Edgar Allan Poe House and Museum — https://en.wikipedia.org/wiki/Edgar_Allan_Poe_House_and_Museum",
+      "fact_source": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe_House_and_Museum",
+      "book_ids": [
+        "gold-bug"
+      ]
+    },
+    {
+      "id": "us-philadelphia-poe-house",
+      "name": "Edgar Allan Poe National Historic Site",
+      "name_zh": "费城 · 埃德加·爱伦·坡国家历史遗址",
+      "lat": 39.9617,
+      "lon": -75.1503,
+      "place_type": "pilgrimage",
+      "note_en": "Poe rented this house in 1843–1844, during his productive Philadelphia years when The Gold-Bug appeared; the preserved house is now a National Park Service historic site",
+      "note": "坡于1843至1844年租住此屋，正值其在费城创作丰收、《金甲虫》发表的时期；保存下来的故居现为美国国家公园管理局的历史遗址",
+      "coord_checked": "Edgar Allan Poe National Historic Site — https://en.wikipedia.org/wiki/Edgar_Allan_Poe_National_Historic_Site",
+      "fact_source": "https://www.nps.gov/edal/learn/historyculture/timelines-lifeandtimespoe.htm",
+      "book_ids": [
+        "gold-bug"
+      ]
+    }
+  ],
+  "lines": [
+    {
+      "id": "usscl-1",
+      "book_id": "scarlet-letter",
+      "place_ids": [
+        "us-boston-scarlet-letter"
+      ],
+      "location": "Chapter 2, The Market-Place",
+      "location_zh": "第2章：市场",
+      "text_en": "The grass-plot before the jail, in Prison Lane, on a certain summer\r\nmorning, not less than two centuries ago, was occupied by a pretty\r\nlarge number of the inhabitants of Boston, all with their eyes intently\r\nfastened on the iron-clamped oaken door. Amongst any other population,\r\nor at a later period in the history of New England, the grim rigidity\r\nthat petrified the bearded physiognomies of these good people would\r\nhave augured some awful business in hand.",
+      "text_zh": "一个夏日的早晨，距今已不少于两个世纪，监狱巷中牢门前的草地上聚集了许多波士顿居民，他们的目光全都紧盯着铁箍橡木门。若换一群人，或换到新英格兰历史上稍晚的年代，这些蓄须面孔上石头般严酷的神情，必定预示着某种可怕的事情即将发生。",
+      "highlight_en": [
+        "Boston",
+        "Prison Lane"
+      ],
+      "translation": "original",
+      "source": {
+        "kind": "gutenberg",
+        "id": 33
+      },
+      "status": "draft"
+    },
+    {
+      "id": "usscl-2",
+      "book_id": "scarlet-letter",
+      "place_ids": [
+        "us-salem-custom-house"
+      ],
+      "location": "The Custom-House, introductory sketch",
+      "location_zh": "导言：海关大楼",
+      "text_en": "The pavement round about the above-described edifice—which we may as\r\nwell name at once as the Custom-House of the port—has grass enough\r\ngrowing in its chinks to show that it has not, of late days, been worn\r\nby any multitudinous resort of business. In some months of the year,\r\nhowever, there often chances a forenoon when affairs move onward with a\r\nlivelier tread. Such occasions might remind the elderly citizen of that\r\nperiod, before the last war with England, when Salem was a port by\r\nitself; not scorned, as she is now, by her own merchants and\r\nship-owners, who permit her wharves to crumble to ruin while their\r\nventures go to swell, needlessly and imperceptibly, the mighty flood of\r\ncommerce at New York or Boston.",
+      "text_zh": "上述建筑——不妨直说，就是本港海关大楼——周围铺路石的缝隙里长着足够多的草，可见近来这里并没有熙攘的生意人踩踏。有些月份，却也偶尔有一个上午，事务的脚步显得轻快些。这时，年长的市民或许会想起上次与英国交战以前，塞勒姆独立成港的岁月；那时它还未遭到自己的商人和船主轻视，不像如今，他们任由码头崩塌，自己的买卖却去为纽约或波士顿的巨大商潮增添微不足道的一滴。",
+      "highlight_en": [
+        "Custom-House",
+        "Salem"
+      ],
+      "translation": "original",
+      "source": {
+        "kind": "gutenberg",
+        "id": 33
+      },
+      "status": "draft"
+    },
+    {
+      "id": "usai-1",
+      "book_id": "age-of-innocence",
+      "place_ids": [
+        "us-ny-academy-of-music"
+      ],
+      "location": "Chapter 1",
+      "location_zh": "第1章",
+      "text_en": "On a January evening of the early seventies, Christine Nilsson was\r\nsinging in Faust at the Academy of Music in New York.\r\n\r\nThough there was already talk of the erection, in remote metropolitan\r\ndistances \"above the Forties,\" of a new Opera House which should\r\ncompete in costliness and splendour with those of the great European\r\ncapitals, the world of fashion was still content to reassemble every\r\nwinter in the shabby red and gold boxes of the sociable old Academy.\r\nConservatives cherished it for being small and inconvenient, and thus\r\nkeeping out the \"new people\" whom New York was beginning to dread and\r\nyet be drawn to; and the sentimental clung to it for its historic\r\nassociations, and the musical for its excellent acoustics, always so\r\nproblematic a quality in halls built for the hearing of music.",
+      "text_zh": "十九世纪七十年代初，一个一月的夜晚，克里斯蒂娜·尼尔松正在纽约音乐学院歌剧院演唱《浮士德》。虽然人们已经谈论要在遥远的四十街以北建一座豪华的新歌剧院，与欧洲大都市的剧院争胜，时髦社会仍满足于每年冬季在旧歌剧院破旧的红金包厢里重聚。保守者珍爱它的狭小与不便，因为这样便能挡住纽约既害怕又受其吸引的“新人”；多情的人留恋它的历史，爱乐者则看重它优良的音响——这在专为音乐建造的大厅里，往往反而难以保证。",
+      "highlight_en": [
+        "Academy of Music",
+        "New York"
+      ],
+      "translation": "original",
+      "source": {
+        "kind": "gutenberg",
+        "id": 541
+      },
+      "status": "draft"
+    },
+    {
+      "id": "usai-2",
+      "book_id": "age-of-innocence",
+      "place_ids": [
+        "us-ny-lower-fifth-avenue"
+      ],
+      "location": "Chapter 12",
+      "location_zh": "第12章",
+      "text_en": "Old-fashioned New York dined at seven, and the habit of after-dinner\r\ncalls, though derided in Archer's set, still generally prevailed. As\r\nthe young man strolled up Fifth Avenue from Waverley Place, the long\r\nthoroughfare was deserted but for a group of carriages standing before\r\nthe Reggie Chiverses' (where there was a dinner for the Duke), and the\r\noccasional figure of an elderly gentleman in heavy overcoat and muffler\r\nascending a brownstone doorstep and disappearing into a gas-lit hall.",
+      "text_zh": "老派纽约人七点吃晚饭；饭后拜访的习惯虽然受到阿切尔那一圈人的嘲笑，却仍普遍存在。年轻人从韦弗利广场沿第五大道漫步而上，长街几乎空无一人，只有里吉·奇弗斯家门前停着一排马车——那里正为公爵设宴——偶尔有一位穿厚大衣、围着围巾的老先生，走上褐石台阶，消失在煤气灯照亮的门厅里。",
+      "highlight_en": [
+        "Fifth Avenue"
+      ],
+      "translation": "original",
+      "source": {
+        "kind": "gutenberg",
+        "id": 541
+      },
+      "status": "draft"
+    },
+    {
+      "id": "usai-3",
+      "book_id": "age-of-innocence",
+      "place_ids": [
+        "us-ny-lower-fifth-avenue"
+      ],
+      "location": "Chapter 26",
+      "location_zh": "第26章",
+      "text_en": "Every year on the fifteenth of October Fifth Avenue opened its\r\nshutters, unrolled its carpets and hung up its triple layer of\r\nwindow-curtains.\r\n\r\nBy the first of November this household ritual was over, and society\r\nhad begun to look about and take stock of itself. By the fifteenth\r\nthe season was in full blast, Opera and theatres were putting forth\r\ntheir new attractions, dinner-engagements were accumulating, and dates\r\nfor dances being fixed. And punctually at about this time Mrs. Archer\r\nalways said that New York was very much changed.",
+      "text_zh": "每年十月十五日，第五大道便打开百叶窗，铺开地毯，挂起三层窗帘。到十一月一日，这套家居仪式已经完成，社交界开始环顾四周、检点自身。十五日时，社交季已如火如荼，歌剧院与剧场推出新节目，晚宴邀约不断累积，舞会日期也陆续敲定。每逢这时，阿切尔夫人总会准时感叹，纽约已大大变了。",
+      "highlight_en": [
+        "Fifth Avenue",
+        "New York"
+      ],
+      "translation": "original",
+      "source": {
+        "kind": "gutenberg",
+        "id": 541
+      },
+      "status": "draft"
+    },
+    {
+      "id": "usan-ct1",
+      "book_id": "american-notes",
+      "place_ids": [
+        "us-hartford-dickens"
+      ],
+      "location": "Chapter 5, Hartford",
+      "location_zh": "第5章：哈特福德",
+      "text_en": "We tarried here, four days.  The town is beautifully situated in a basin\r\nof green hills; the soil is rich, well-wooded, and carefully improved.\r\nIt is the seat of the local legislature of Connecticut, which sage body\r\nenacted, in bygone times, the renowned code of ‘Blue Laws,’ in virtue\r\nwhereof, among other enlightened provisions, any citizen who could be\r\nproved to have kissed his wife on Sunday, was punishable, I believe, with\r\nthe stocks.",
+      "text_zh": "我们在这里停留了四天。城镇优美地坐落在绿丘围成的盆地里，土地肥沃，林木茂盛，经过精心整治。这里是康涅狄格地方议会的所在地；这个贤明的机构在往昔制定了著名的“蓝色法规”，其中开明的条款之一是：凡被证实在星期日亲吻妻子的市民，我相信，都可能受到足枷惩罚。",
+      "highlight_en": [
+        "Connecticut"
+      ],
+      "translation": "original",
+      "source": {
+        "kind": "gutenberg",
+        "id": 675
+      },
+      "status": "draft"
+    },
+    {
+      "id": "usan-ct2",
+      "book_id": "american-notes",
+      "place_ids": [
+        "us-hartford-dickens"
+      ],
+      "location": "Chapter 5, the Charter Oak and public institutions",
+      "location_zh": "第5章：宪章橡树与公共机构",
+      "text_en": "In Hartford stands the famous oak in which the charter of King Charles\r\nwas hidden.  It is now inclosed in a gentleman’s garden.  In the State\r\nHouse is the charter itself.  I found the courts of law here, just the\r\nsame as at Boston; the public institutions almost as good.  The Insane\r\nAsylum is admirably conducted, and so is the Institution for the Deaf and\r\nDumb.",
+      "text_zh": "哈特福德有一棵著名的橡树，查理国王的宪章曾藏在其中。如今它被围在一位绅士的花园里。宪章本身则存放在州议会大楼。我发现这里的法庭与波士顿完全一样，公共机构也几乎一样好。精神病院管理得十分出色，聋哑人教育机构也是如此。",
+      "highlight_en": [
+        "Hartford",
+        "State"
+      ],
+      "translation": "original",
+      "source": {
+        "kind": "gutenberg",
+        "id": 675
+      },
+      "status": "draft"
+    },
+    {
+      "id": "usan-ct3",
+      "book_id": "american-notes",
+      "place_ids": [
+        "us-hartford-dickens"
+      ],
+      "location": "Chapter 5, an encounter at the Hartford asylum",
+      "location_zh": "第5章：哈特福德疗养院中的一次交谈",
+      "text_en": "There was one little, prim old lady, of very smiling and good-humoured\r\nappearance, who came sidling up to me from the end of a long passage, and\r\nwith a curtsey of inexpressible condescension, propounded this\r\nunaccountable inquiry:\r\n\r\n‘Does Pontefract still flourish, sir, upon the soil of England?’\r\n\r\n‘He does, ma’am,’ I rejoined.\r\n\r\n‘When you last saw him, sir, he was—’\r\n\r\n‘Well, ma’am,’ said I, ‘extremely well.  He begged me to present his\r\ncompliments.  I never saw him looking better.’",
+      "text_zh": "有一位矮小端庄的老妇人，面带笑容、神情和善，从长廊那头侧身走来，行了个带着难以形容的屈尊意味的礼，问了一个莫名其妙的问题：“先生，庞特弗拉克特还在英格兰土地上兴旺地活着吗？”我答道：“是的，夫人。”“您上次见到他时，他——”“他很好，夫人，”我说，“好极了。他托我向您问候。我从没见他气色这样好。”",
+      "highlight_en": [
+        "old lady"
+      ],
+      "translation": "original",
+      "source": {
+        "kind": "gutenberg",
+        "id": 675
+      },
+      "status": "draft"
+    },
+    {
+      "id": "usan-ct4",
+      "book_id": "american-notes",
+      "place_ids": [
+        "us-hartford-dickens"
+      ],
+      "location": "Chapter 5, the musician at the Hartford asylum",
+      "location_zh": "第5章：哈特福德疗养院里的乐手",
+      "text_en": "There was another: a young man, whose madness was love and music.  After\r\nplaying on the accordion a march he had composed, he was very anxious\r\nthat I should walk into his chamber, which I immediately did.\r\n\r\nBy way of being very knowing, and humouring him to the top of his bent, I\r\nwent to the window, which commanded a beautiful prospect, and remarked,\r\nwith an address upon which I greatly plumed myself:\r\n\r\n‘What a delicious country you have about these lodgings of yours!’\r\n\r\n‘Poh!’ said he, moving his fingers carelessly over the notes of his\r\ninstrument: ‘_Well enough for such an Institution as this_!’\r\n\r\nI don’t think I was ever so taken aback in all my life.",
+      "text_zh": "还有一个年轻人，他的疯狂与爱情和音乐有关。他用手风琴奏完自己写的一首进行曲，急切地请我进他的房间，我立刻照办。我想显得很懂他，也尽量顺着他，便走到窗前，欣赏那里的美景，用自以为高明的方式说：“您这住处周围的乡野真美啊！”“哼！”他漫不经心地拨弄着琴键，“对于这样一所机构来说，也算过得去吧！”我想，我这辈子从没这样错愕过。",
+      "highlight_en": [
+        "window",
+        "music"
+      ],
+      "translation": "original",
+      "source": {
+        "kind": "gutenberg",
+        "id": 675
+      },
+      "status": "draft"
+    },
+    {
+      "id": "usan-ct5",
+      "book_id": "american-notes",
+      "place_ids": [
+        "us-new-haven-dickens"
+      ],
+      "location": "Chapter 5, New Haven",
+      "location_zh": "第5章：纽黑文",
+      "text_en": "New Haven, known also as the City of Elms, is a fine town.  Many of its\r\nstreets (as its _alias_ sufficiently imports) are planted with rows of\r\ngrand old elm-trees; and the same natural ornaments surround Yale\r\nCollege, an establishment of considerable eminence and reputation.  The\r\nvarious departments of this Institution are erected in a kind of park or\r\ncommon in the middle of the town, where they are dimly visible among the\r\nshadowing trees.  The effect is very like that of an old cathedral yard\r\nin England; and when their branches are in full leaf, must be extremely\r\npicturesque.  Even in the winter time, these groups of well-grown trees,\r\nclustering among the busy streets and houses of a thriving city, have a\r\nvery quaint appearance: seeming to bring about a kind of compromise\r\nbetween town and country; as if each had met the other half-way, and\r\nshaken hands upon it; which is at once novel and pleasant.",
+      "text_zh": "纽黑文又名榆树城，是一座美好的城镇。许多街道栽着成排高大的老榆树，同样的天然装饰也环绕着声誉卓著的耶鲁学院。各院系的建筑坐落在城市中央一片公园或公共绿地般的地方，在树荫里隐约可见，颇像英国古老教堂周围的庭院。枝叶茂盛时，这里一定格外如画。即使在冬天，这些成熟的树木簇拥在繁荣城市的繁忙街道与房屋之间，也显得别致，仿佛城市和乡村达成妥协，各自走到半路，握起了手，新鲜而愉快。",
+      "highlight_en": [
+        "New Haven",
+        "Yale"
+      ],
+      "translation": "original",
+      "source": {
+        "kind": "gutenberg",
+        "id": 675
+      },
+      "status": "draft"
+    },
+    {
+      "id": "uslim-1",
+      "book_id": "life-in-iron-mills",
+      "place_ids": [
+        "us-wheeling-iron-mills"
+      ],
+      "location": "Opening, the narrator’s window",
+      "location_zh": "开篇：叙述者的窗前",
+      "text_en": "The idiosyncrasy of this town is smoke. It rolls sullenly in slow folds\r\nfrom the great chimneys of the iron-foundries, and settles down in\r\nblack, slimy pools on the muddy streets. Smoke on the wharves, smoke on\r\nthe dingy boats, on the yellow river,--clinging in a coating of greasy\r\nsoot to the house-front, the two faded poplars, the faces of the\r\npassers-by. The long train of mules, dragging masses of pig-iron through\r\nthe narrow street, have a foul vapor hanging to their reeking sides.\r\nHere, inside, is a little broken figure of an angel pointing upward from\r\nthe mantel-shelf; but even its wings are covered with smoke, clotted\r\nand black. Smoke everywhere! A dirty canary chirps desolately in a\r\ncage beside me. Its dream of green fields and sunshine is a very old\r\ndream,--almost worn out, I think.",
+      "text_zh": "这座城镇的特征就是烟。浓烟从炼铁厂的大烟囱里缓慢滚出，在泥泞街道上沉成黑色黏腻的水洼。码头上有烟，肮脏的船上有烟，黄色的河面上有烟；油腻的烟灰贴住屋子的正面、两棵褪色的白杨和行人的脸。长长的骡队拖着生铁穿过窄街，热气腾腾的身体旁悬着污浊的蒸气。屋内壁炉架上，一尊破损的小天使伸手指向上方，连它的翅膀也被烟熏得结块发黑。到处都是烟！我身旁笼中的一只脏金丝雀凄凉地鸣叫。它关于绿野与阳光的梦已很古老，我想，几乎磨损殆尽了。",
+      "highlight_en": [
+        "smoke",
+        "town"
+      ],
+      "translation": "original",
+      "source": {
+        "kind": "gutenberg",
+        "id": 876
+      },
+      "status": "draft"
+    },
+    {
+      "id": "usedl-s1",
+      "kind": "scene",
+      "book_id": "letters-emily-dickinson",
+      "place_ids": [
+        "us-amherst-dickinson-museum"
+      ],
+      "location": "Letter to Louisa Norcross, December 1861, in the 1924 selection",
+      "location_zh": "致路易莎·诺克罗斯的信，1861年12月，收入1924年选集",
+      "text_en": "At her Amherst home, Dickinson tells Louisa that snow has covered the garden where she picked flowers only days earlier; she watches the surrounding hills change from autumn color to white.",
+      "text_zh": "在阿默斯特的家中，狄金森告诉路易莎，前几天还采过花的花园如今已被雪覆盖；她看着四周的山丘从秋日的色彩转为白色。",
+      "highlight_en": [
+        "Amherst",
+        "garden"
+      ],
+      "highlight_zh": [
+        "阿默斯特",
+        "花园"
+      ],
+      "status": "draft",
+      "fact_source": "https://en.wikisource.org/wiki/The_Life_and_Letters_of_Emily_Dickinson/Letters_of_Emily_Dickinson"
+    }
+  ],
+  "photos": {
+    "us-salem-custom-house": {
+      "commons_file": "File:Custom House in Salem, MA.jpg",
+      "alt_en": "Salem Custom House exterior",
+      "alt_zh": "塞勒姆海关大楼外观",
+      "crop": null
+    },
+    "us-amherst-dickinson-museum": {
+      "commons_file": "File:Emily Dickinson Museum from Southeast.jpg",
+      "alt_en": "Emily Dickinson Museum, Homestead exterior",
+      "alt_zh": "阿默斯特 · 艾米莉·狄金森故居博物馆外观",
+      "crop": null
+    },
+    "us-lenox-the-mount": {
+      "commons_file": "File:The Mount (Edith Wharton, Beatrix Farrand) - Lennox MA -juli 2012- (7710774230).jpg",
+      "alt_en": "The Mount exterior",
+      "alt_zh": "莱诺克斯 · 蒙特庄园外观",
+      "crop": null
+    },
+    "us-baltimore-poe-house": {
+      "commons_file": "File:Edgar Allan Poe House & Museum, 203 N. Amity Street, Baltimore, MD 21223 (24525012528).jpg",
+      "alt_en": "Edgar Allan Poe House and Museum exterior",
+      "alt_zh": "巴尔的摩 · 埃德加·爱伦·坡故居博物馆外观",
+      "crop": null
+    },
+    "us-philadelphia-poe-house": {
+      "commons_file": "File:Edgar Allan Poe National Historic Site EDAL5072.jpg",
+      "alt_en": "Edgar Allan Poe National Historic Site exterior",
+      "alt_zh": "费城 · 埃德加·爱伦·坡国家历史遗址外观",
+      "crop": null
+    }
+  },
   "remove_line_ids": [
+    "ussd-5",
     "useh-3",
     "useh-4"
   ],
   "remove_place_ids": [
+    "weirton-panhandle",
     "laurel-entailed-hat",
     "dover-entailed-hat"
   ],

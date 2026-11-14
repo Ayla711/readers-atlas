@@ -1,7 +1,449 @@
 {
-  "books": [],
-  "places": [],
-  "lines": [],
+  "books": [
+    {
+      "id": "usgone-with-wind",
+      "title": "Gone with the Wind",
+      "title_zh": "飘",
+      "author": "Margaret Mitchell",
+      "author_zh": "玛格丽特·米切尔",
+      "year": "1936",
+      "orig_lang": "en",
+      "public_domain": true,
+      "source_url": "https://gutenberg.net.au/ebooks02/0200161.txt",
+      "aliases": [
+        "Gone With the Wind"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "id": "usatlanta",
+      "name": "Atlanta",
+      "name_zh": "亚特兰大",
+      "lat": 33.7489,
+      "lon": -84.39,
+      "place_type": "original",
+      "note_en": "Scarlett attends the hospital bazaar, nurses wounded soldiers and stays with Melanie in wartime Atlanta; the city point represents these dispersed fictional scenes",
+      "note": "斯卡莉特在战时的亚特兰大参加医院义卖会、照料伤兵并陪伴梅兰妮；城市坐标代表这些分散的小说场景",
+      "coord_checked": "Wikipedia: Atlanta — https://en.wikipedia.org/wiki/Atlanta",
+      "fact_source": "https://gutenberg.net.au/ebooks02/0200161.txt"
+    },
+    {
+      "id": "usnew-orleans-french-quarter",
+      "name": "French Quarter, New Orleans",
+      "name_zh": "新奥尔良·法国区",
+      "lat": 29.9586,
+      "lon": -90.065,
+      "place_type": "original",
+      "note_en": "Twain walks through the old French quarter with George Washington Cable, observing weather-stained plaster and iron balconies; the point represents the quarter as a whole",
+      "note": "吐温与乔治·华盛顿·凯布尔漫游古老的法国区，观察风雨染色的灰泥墙和铁艺阳台；坐标代表该街区整体",
+      "coord_checked": "Wikipedia: French Quarter, New Orleans — https://en.wikipedia.org/wiki/French_Quarter",
+      "fact_source": "https://www.gutenberg.org/cache/epub/245/pg245.txt"
+    },
+    {
+      "id": "usnew-orleans-west-end",
+      "name": "West End, New Orleans",
+      "name_zh": "新奥尔良·西区",
+      "lat": 30.0122,
+      "lon": -90.1181,
+      "place_type": "original",
+      "note_en": "Twain dines on a veranda above Lake Pontchartrain at West End; the point represents the lakeside district, not an identified surviving restaurant",
+      "note": "吐温在西区庞恰特雷恩湖水面上的露台用餐；坐标代表湖滨地区，并不指认某家现存餐馆",
+      "coord_checked": "Wikipedia: West End, New Orleans — https://en.wikipedia.org/wiki/West_End,_New_Orleans",
+      "fact_source": "https://www.gutenberg.org/cache/epub/245/pg245.txt"
+    },
+    {
+      "id": "new-orleans",
+      "name": "New Orleans",
+      "name_zh": "新奥尔良",
+      "lat": 29.9761,
+      "lon": -90.0783,
+      "place_type": "original",
+      "note_en": "Twain looks down from a high-water steamboat toward houses behind the levee, watches Canal Street crowds and recalls a torchlit Mardi Gras procession; the point represents the city as a whole",
+      "note": "吐温从高水位上的汽船俯瞰堤后的房屋，观看运河街人群，并回忆火炬照耀的狂欢节游行；坐标代表城市整体",
+      "coord_checked": "Wikipedia: New Orleans — https://en.wikipedia.org/wiki/New_Orleans",
+      "fact_source": "https://www.gutenberg.org/cache/epub/245/pg245.txt"
+    }
+  ],
+  "lines": [
+    {
+      "id": "uslom-8",
+      "book_id": "life-on-mississippi",
+      "place_ids": [
+        "new-orleans"
+      ],
+      "location": "Chapter 41, The Metropolis of the South",
+      "location_zh": "第 41 章《南方的大都会》",
+      "text_en": "Similarly, in high-river stage, in the New\r\nOrleans region, the water is up to the top of the enclosing levee-rim,\r\nthe flat country behind it lies low--representing the bottom of a\r\ndish--and as the boat swims along, high on the flood, one looks down\r\nupon the houses and into the upper windows. There is nothing but that\r\nfrail breastwork of earth between the people and destruction.",
+      "text_zh": "同样，在新奥尔良一带，河水上涨时，水面高达围堤顶部，而后面的平地低伏着，像一只盘子的底部。船在高高的洪水上行驶，人便俯视着房屋，能看进楼上的窗户。在人们与灭顶之灾之间，只有那道脆弱的土堤。",
+      "highlight_en": [
+        "New\r\nOrleans"
+      ],
+      "highlight_zh": [
+        "新奥尔良"
+      ],
+      "translation": "original",
+      "source": {
+        "kind": "gutenberg",
+        "id": 245
+      },
+      "status": "draft"
+    },
+    {
+      "id": "uslom-9",
+      "book_id": "life-on-mississippi",
+      "place_ids": [
+        "new-orleans"
+      ],
+      "location": "Chapter 41, The Metropolis of the South",
+      "location_zh": "第 41 章《南方的大都会》",
+      "text_en": "Canal Street was finer, and more attractive and stirring than formerly,\r\nwith its drifting crowds of people, its several processions of hurrying\r\nstreet-cars, and--toward evening--its broad second-story verandas\r\ncrowded with gentlemen and ladies clothed according to the latest mode.",
+      "text_zh": "运河街比往昔更漂亮，更迷人，也更热闹：人群缓缓流动，几列街车匆忙穿行；到了傍晚，宽阔的二楼阳台上挤满了衣着入时的绅士淑女。",
+      "highlight_en": [
+        "Canal Street"
+      ],
+      "highlight_zh": [
+        "运河街"
+      ],
+      "translation": "original",
+      "source": {
+        "kind": "gutenberg",
+        "id": 245
+      },
+      "status": "draft"
+    },
+    {
+      "id": "uslom-10",
+      "book_id": "life-on-mississippi",
+      "place_ids": [
+        "usnew-orleans-french-quarter"
+      ],
+      "location": "Chapter 44, City Sights",
+      "location_zh": "第 44 章《城市景象》",
+      "text_en": "THE old French part of New Orleans--anciently the Spanish part--bears no\r\nresemblance to the American end of the city: the American end which lies\r\nbeyond the intervening brick business-center. The houses are massed in\r\nblocks; are austerely plain and dignified; uniform of pattern, with here\r\nand there a departure from it with pleasant effect; all are plastered\r\non the outside, and nearly all have long, iron-railed verandas running\r\nalong the several stories. Their chief beauty is the deep, warm,\r\nvaricolored stain with which time and the weather have enriched the\r\nplaster. It harmonizes with all the surroundings, and has as natural\r\na look of belonging there as has the flush upon sunset clouds. This\r\ncharming decoration cannot be successfully imitated; neither is it to be\r\nfound elsewhere in America.",
+      "text_zh": "新奥尔良古老的法国区——更早时的西班牙区——与砖砌商业中心另一侧的美国人街区毫不相像。房屋成片聚集，外观简朴而庄重，式样整齐一致，间或变化一下便格外悦目；外墙都抹了灰泥，几乎家家每层都有长长的铁栏阳台。它们最美的地方，是岁月与风雨赋予灰泥的深沉、温暖而多彩的色泽。这色泽与周遭融为一体，仿佛晚霞染上云层一样自然。如此迷人的装饰无法仿造，在美国其他地方也找不到。",
+      "highlight_en": [
+        "old French part of New Orleans"
+      ],
+      "highlight_zh": [
+        "新奥尔良古老的法国区"
+      ],
+      "translation": "original",
+      "source": {
+        "kind": "gutenberg",
+        "id": 245
+      },
+      "status": "draft"
+    },
+    {
+      "id": "uslom-11",
+      "book_id": "life-on-mississippi",
+      "place_ids": [
+        "usnew-orleans-west-end"
+      ],
+      "location": "Chapter 44, City Sights",
+      "location_zh": "第 44 章《城市景象》",
+      "text_en": "And by-and-bye we reached the West End, a collection of hotels of the\r\nusual light summer-resort pattern, with broad verandas all around,\r\nand the waves of the wide and blue Lake Pontchartrain lapping the\r\nthresholds. We had dinner on a ground-veranda over the water--the\r\nchief dish the renowned fish called the pompano, delicious as the less\r\ncriminal forms of sin.",
+      "text_zh": "后来我们来到西区，这里是一片常见的轻巧夏日旅馆，四面围着宽阔的阳台；辽阔湛蓝的庞恰特雷恩湖，波浪轻拍门槛。我们在水面上的底层露台吃晚饭，主菜是名闻遐迩的鲳鲹，那滋味就像罪过较轻的享乐一样美妙。",
+      "highlight_en": [
+        "West End"
+      ],
+      "highlight_zh": [
+        "西区"
+      ],
+      "translation": "original",
+      "source": {
+        "kind": "gutenberg",
+        "id": 245
+      },
+      "status": "draft"
+    },
+    {
+      "id": "uslom-12",
+      "book_id": "life-on-mississippi",
+      "place_ids": [
+        "new-orleans"
+      ],
+      "location": "Chapter 46, Enchantments and Enchanters",
+      "location_zh": "第 46 章《魔法与施法者》",
+      "text_en": "THE largest annual event in New Orleans is a something which we arrived\r\ntoo late to sample--the Mardi-Gras festivities. I saw the procession of\r\nthe Mystic Crew of Comus there, twenty-four years ago--with knights\r\nand nobles and so on, clothed in silken and golden Paris-made\r\ngorgeousnesses, planned and bought for that single night's use; and\r\nin their train all manner of giants, dwarfs, monstrosities, and other\r\ndiverting grotesquerie--a startling and wonderful sort of show, as it\r\nfiled solemnly and silently down the street in the light of its smoking\r\nand flickering torches; but it is said that in these latter days the\r\nspectacle is mightily augmented, as to cost, splendor, and variety.",
+      "text_zh": "新奥尔良一年一度最大的盛事是狂欢节，可惜我们来得太迟，无缘亲见。二十四年前，我曾在这里看过科穆斯神秘团的游行：骑士、贵族等人身穿巴黎制作的华丽丝绸金饰服装，专为那一夜设计购置；队伍里还有巨人、矮人、怪物及种种有趣的奇形异状。在冒烟、闪烁的火炬光中，队伍庄严而无声地走过街道，真是惊人而奇妙的景象。据说这些年来，游行的花费、华丽程度和种类都大大增加了。",
+      "highlight_en": [
+        "New Orleans",
+        "Mardi-Gras"
+      ],
+      "highlight_zh": [
+        "新奥尔良",
+        "狂欢节"
+      ],
+      "translation": "original",
+      "source": {
+        "kind": "gutenberg",
+        "id": 245
+      },
+      "status": "draft"
+    },
+    {
+      "id": "tkam-s1",
+      "kind": "scene",
+      "book_id": "to-kill-a-mockingbird",
+      "place_ids": [
+        "monroeville"
+      ],
+      "location": "Chapter 17",
+      "location_zh": "第 17 章",
+      "text_en": "In the Maycomb courtroom, Atticus hands Bob Ewell a pen and an envelope and asks him to write his name. The spectators watch Ewell write with his left hand.",
+      "text_zh": "在梅科姆法庭上，阿蒂克斯递给鲍勃·尤厄尔一支笔和一个信封，请他写下姓名。旁听者看见尤厄尔用左手书写。",
+      "highlight_en": [
+        "Maycomb"
+      ],
+      "highlight_zh": [
+        "梅科姆"
+      ],
+      "status": "draft",
+      "fact_source": "https://www.bookrags.com/notes/tkm/part17.html"
+    },
+    {
+      "id": "tcp-s1",
+      "kind": "scene",
+      "book_id": "color-purple",
+      "place_ids": [
+        "eatonton"
+      ],
+      "location": "Letter 74, the family dinner",
+      "location_zh": "第 74 封信，家庭聚餐",
+      "text_en": "At a family dinner in rural Georgia, Shug announces that Celie will leave with her for Memphis. When Albert objects, Celie answers him in front of everyone at the table.",
+      "text_zh": "在佐治亚乡村的一次家庭聚餐上，莎格宣布西莉将随她前往孟菲斯。艾伯特出言阻拦，西莉当着全桌人的面回击他。",
+      "highlight_en": [
+        "Georgia"
+      ],
+      "highlight_zh": [
+        "佐治亚"
+      ],
+      "status": "draft",
+      "fact_source": "https://crossref-it.info/textguide/the-color-purple/42/3253"
+    },
+    {
+      "id": "tewwg-s1",
+      "kind": "scene",
+      "book_id": "their-eyes-were-watching-god",
+      "place_ids": [
+        "eatonville"
+      ],
+      "location": "Chapter 10",
+      "location_zh": "第 10 章",
+      "text_en": "With the Eatonville store nearly empty, Tea Cake takes out the checkerboard and invites Janie to play. She sits opposite him, and he coaches her through the moves.",
+      "text_zh": "伊顿维尔的商店几乎没有顾客，茶点拿出跳棋盘，邀珍妮一起下棋。她坐到他对面，听他指点每一步走法。",
+      "highlight_en": [
+        "Eatonville"
+      ],
+      "highlight_zh": [
+        "伊顿维尔"
+      ],
+      "status": "draft",
+      "fact_source": "https://pressbooks.library.torontomu.ca/theireyeswerewatchinggod/chapter/10/"
+    },
+    {
+      "id": "tewwg-s2",
+      "kind": "scene",
+      "book_id": "their-eyes-were-watching-god",
+      "place_ids": [
+        "jacksonville"
+      ],
+      "location": "Chapter 13",
+      "location_zh": "第 13 章",
+      "text_en": "Tea Cake waits at the Jacksonville station in a blue suit and straw hat. When Janie gets off the train, he takes her straight to a preacher’s house to marry.",
+      "text_zh": "茶点穿着蓝西装、戴着草帽，在杰克逊维尔车站等候。珍妮一下火车，他便带她直奔牧师家结婚。",
+      "highlight_en": [
+        "Jacksonville"
+      ],
+      "highlight_zh": [
+        "杰克逊维尔"
+      ],
+      "status": "draft",
+      "fact_source": "https://pressbooks.library.torontomu.ca/theireyeswerewatchinggod/chapter/13/"
+    },
+    {
+      "id": "saf-s1",
+      "kind": "scene",
+      "book_id": "sound-and-fury",
+      "place_ids": [
+        "oxford-mississippi"
+      ],
+      "location": "Part 4, April 8, 1928",
+      "location_zh": "第四部分，1928年4月8日",
+      "text_en": "Dilsey arrives at the church in Jefferson with Benjy, Frony and Luster. Other worshippers gather around them as the Easter service is about to begin.",
+      "text_zh": "迪尔西与班吉、弗罗妮和勒斯特来到杰斐逊的教堂。复活节礼拜即将开始，其他礼拜者也在他们周围聚集。",
+      "highlight_en": [
+        "Jefferson"
+      ],
+      "highlight_zh": [
+        "杰斐逊"
+      ],
+      "status": "draft",
+      "fact_source": "https://faulkner.drupal.shanti.virginia.edu/content/sound-and-fury-292-event"
+    },
+    {
+      "id": "ussaf-s2",
+      "kind": "scene",
+      "book_id": "sound-and-fury",
+      "place_ids": [
+        "oxford-mississippi"
+      ],
+      "location": "Part 1, April 7, 1928",
+      "location_zh": "第一部分，1928年4月7日",
+      "text_en": "At the fence beside the Compson house in Jefferson, Benjy watches golfers moving across the family’s former pasture. Their calls to a caddie bring back his distress over Caddy’s absence.",
+      "text_zh": "在杰斐逊康普生宅邸旁的篱笆边，班吉望着高尔夫球手走过家里昔日的牧场。他们呼唤球童的声音，又勾起了他对凯蒂离去的痛苦。",
+      "highlight_en": [
+        "Jefferson"
+      ],
+      "highlight_zh": [
+        "杰斐逊"
+      ],
+      "status": "draft",
+      "fact_source": "https://faulkner.drupal.shanti.virginia.edu/content/compson-inset-pasturegolf-course-sound-and-fury-location"
+    },
+    {
+      "id": "ussaf-s3",
+      "kind": "scene",
+      "book_id": "sound-and-fury",
+      "place_ids": [
+        "oxford-mississippi"
+      ],
+      "location": "Part 1, childhood memory of 1898",
+      "location_zh": "第一部分，对1898年童年的回忆",
+      "text_en": "At the Compson home in Jefferson, Caddy climbs the tree beside the house to peer into the parlor. Her brothers wait below, looking up at her muddy underwear.",
+      "text_zh": "在杰斐逊的康普生家，凯蒂爬上屋旁的树，朝客厅里张望。哥哥弟弟们等在树下，抬头看着她沾满泥的内裤。",
+      "highlight_en": [
+        "Jefferson"
+      ],
+      "highlight_zh": [
+        "杰斐逊"
+      ],
+      "status": "draft",
+      "fact_source": "https://faulkner.drupal.shanti.virginia.edu/content/compson-inset-pear-tree-sound-and-fury-location"
+    },
+    {
+      "id": "ussaf-s4",
+      "kind": "scene",
+      "book_id": "sound-and-fury",
+      "place_ids": [
+        "oxford-mississippi"
+      ],
+      "location": "Part 1, April 7, 1928",
+      "location_zh": "第一部分，1928年4月7日",
+      "text_en": "In the Compson kitchen in Jefferson, Benjy sits facing the fire with his birthday cake. Luster reaches for more cake while Benjy keeps watching the flames.",
+      "text_zh": "在杰斐逊康普生家的厨房，班吉拿着生日蛋糕，面朝炉火坐着。勒斯特伸手再拿一块蛋糕，班吉仍盯着火焰。",
+      "highlight_en": [
+        "Jefferson"
+      ],
+      "highlight_zh": [
+        "杰斐逊"
+      ],
+      "status": "draft",
+      "fact_source": "https://faulkner.drupal.shanti.virginia.edu/content/sound-and-fury-57-event-0"
+    },
+    {
+      "id": "ussaf-s5",
+      "kind": "scene",
+      "book_id": "sound-and-fury",
+      "place_ids": [
+        "oxford-mississippi"
+      ],
+      "location": "Part 4, April 8, 1928, final carriage ride",
+      "location_zh": "第四部分，1928年4月8日，结尾的马车行程",
+      "text_en": "When Luster turns the carriage the unfamiliar way around the monument in Jefferson, Benjy begins to bellow. Jason rushes up and makes the horse turn back.",
+      "text_zh": "勒斯特驾车绕行杰斐逊纪念碑时走了不同于惯常的方向，班吉便大声吼叫起来。杰生冲上前来，让马掉头回去。",
+      "highlight_en": [
+        "Jefferson"
+      ],
+      "highlight_zh": [
+        "杰斐逊"
+      ],
+      "status": "draft",
+      "fact_source": "https://faulkner.drupal.shanti.virginia.edu/content/sound-and-fury-320-event"
+    },
+    {
+      "id": "usgwtw-s1",
+      "kind": "scene",
+      "book_id": "usgone-with-wind",
+      "place_ids": [
+        "usatlanta"
+      ],
+      "location": "Chapter 9",
+      "location_zh": "第 9 章",
+      "text_en": "At the hospital bazaar in Atlanta, Rhett bids for a dance with Scarlett. Still dressed in mourning, she springs out of the booth and accepts while the room turns to stare.",
+      "text_zh": "在亚特兰大的医院义卖会上，瑞德出价邀斯卡莉特跳舞。她仍穿着丧服，却从摊位里跳起身来答应，满屋的人都转头盯着她。",
+      "highlight_en": [
+        "Atlanta"
+      ],
+      "highlight_zh": [
+        "亚特兰大"
+      ],
+      "status": "draft",
+      "fact_source": "https://gutenberg.net.au/ebooks02/0200161.txt"
+    },
+    {
+      "id": "usgwtw-s2",
+      "kind": "scene",
+      "book_id": "usgone-with-wind",
+      "place_ids": [
+        "usatlanta"
+      ],
+      "location": "Chapter 17",
+      "location_zh": "第 17 章",
+      "text_en": "At noon in an Atlanta hospital, Scarlett removes her apron and slips away while Mrs. Merriwether writes a letter for a wounded soldier. She leaves before the next train brings more casualties.",
+      "text_zh": "中午，在亚特兰大的一家医院里，梅里韦瑟太太正替一名伤兵写信，斯卡莉特趁机脱下围裙溜走，赶在下一列火车送来更多伤员之前离开。",
+      "highlight_en": [
+        "Atlanta"
+      ],
+      "highlight_zh": [
+        "亚特兰大"
+      ],
+      "status": "draft",
+      "fact_source": "https://gutenberg.net.au/ebooks02/0200161.txt"
+    },
+    {
+      "id": "usgwtw-s3",
+      "kind": "scene",
+      "book_id": "usgone-with-wind",
+      "place_ids": [
+        "usatlanta"
+      ],
+      "location": "Chapter 22",
+      "location_zh": "第 22 章",
+      "text_en": "In the shuttered bedroom in Atlanta, Scarlett fans Melanie with a palmetto leaf during labor. Whenever she drives the flies from Melanie’s face, they settle on her feet.",
+      "text_zh": "在亚特兰大一间放下窗帘的卧室里，斯卡莉特用棕榈叶给临产的梅兰妮扇风。她刚赶走脸上的苍蝇，苍蝇又落到了梅兰妮脚上。",
+      "highlight_en": [
+        "Atlanta"
+      ],
+      "highlight_zh": [
+        "亚特兰大"
+      ],
+      "status": "draft",
+      "fact_source": "https://gutenberg.net.au/ebooks02/0200161.txt"
+    },
+    {
+      "id": "usgwtw-s4",
+      "kind": "scene",
+      "book_id": "usgone-with-wind",
+      "place_ids": [
+        "usatlanta"
+      ],
+      "location": "Chapter 23",
+      "location_zh": "第 23 章",
+      "text_en": "Rhett arrives at the Atlanta house with a battered little wagon. He refuses to load a trunk and prepares to take Scarlett and the exhausted Melanie out of the city.",
+      "text_zh": "瑞德驾着一辆破旧的小马车来到亚特兰大的屋前。他拒绝装上大行李箱，准备带斯卡莉特和筋疲力尽的梅兰妮离开城里。",
+      "highlight_en": [
+        "Atlanta"
+      ],
+      "highlight_zh": [
+        "亚特兰大"
+      ],
+      "status": "draft",
+      "fact_source": "https://gutenberg.net.au/ebooks02/0200161.txt"
+    }
+  ],
   "remove_line_ids": [
     "lom-3",
     "lom-5",
@@ -11,7 +453,8 @@
     "helena",
     "burlington",
     "davenport",
-    "minneapolis"
+    "minneapolis",
+    "cairo"
   ],
   "remove_book_ids": []
 }
