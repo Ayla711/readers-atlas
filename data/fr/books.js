@@ -1,4 +1,4 @@
-// Imported from packs/fr (Codex, 2026-11-13) by tools/import_pack.py on 2026-11-14. Edit the pack and re-import rather than editing this file.
+// Imported from packs/fr (Codex, 2026-11-14) by tools/import_pack.py on 2026-11-14. Edit the pack and re-import rather than editing this file.
 window.RA_DATA = window.RA_DATA || {};
 window.RA_DATA.books = [
   { id: "fr-les-miserables", title: "Les Misérables", title_zh: "悲惨世界", title_orig: "Les Misérables", author: "Victor Hugo", author_zh: "雨果", author_orig: "Victor Hugo", year: "1862", orig_lang: "fr", public_domain: true, source_url: "https://www.gutenberg.org/ebooks/17489", aliases: [] },

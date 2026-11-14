@@ -1569,19 +1569,19 @@
     "place_ids": [
       "fr-cafe-musain"
     ],
-    "location": "Part 3, Book 4, Chapter 1, A Group which barely missed becoming Historic",
-    "location_zh": "第三部第四卷第 1 章《一个险些载入史册的团体》",
-    "text_orig": "Ils se réunissaient à Paris en deux endroits, près des halles, dans un cabaret appelé Corinthe dont il sera question plus tard, et près du Panthéon dans un petit café de la place Saint-Michel appelé le café Musain, aujourd'hui démoli; le premier de ces lieux de rendez-vous était contigu aux ouvriers, le deuxième, aux étudiants.",
+    "location": "Part 3, Book 4, Chapter 1, A Group Which Barely Missed Becoming Historic",
+    "location_zh": "第三部，第四卷，第 1 章《一个险些成为历史人物的团体》",
+    "text_orig": "Les conciliabules habituels des Amis de l'A B C se tenaient dans une arrière-salle du café Musain.\n\nCette salle, assez éloignée du café, auquel elle communiquait par un très long couloir, avait deux fenêtres et une issue avec un escalier dérobé sur la petite rue des Grès. On y fumait, on y buvait, on y jouait, on y riait. On y causait très haut de tout, et à voix basse d'autre chose. Au mur était clouée, indice suffisant pour éveiller le flair d'un agent de police, une vieille carte de la France sous la République.",
     "highlight_orig": [
-      "le café Musain"
+      "café Musain"
     ],
-    "text_en": "They assembled in Paris in two localities, near the fish-market, in a wine-shop called Corinthe, of which more will be heard later on, and near the Pantheon in a little café in the Rue Saint-Michel called the Café Musain, now torn down; the first of these meeting-places was close to the workingman, the second to the students.",
+    "text_en": "The assemblies of the Friends of the A B C were usually held in a back room of the Café Musain.\n\nThis hall, which was tolerably remote from the café, with which it was connected by an extremely long corridor, had two windows and an exit with a private stairway on the little Rue des Grès. There they smoked and drank, and gambled and laughed. There they conversed in very loud tones about everything, and in whispers of other things. An old map of France under the Republic was nailed to the wall,—a sign quite sufficient to excite the suspicion of a police agent.",
     "highlight_en": [
       "Café Musain"
     ],
-    "text_zh": "他们在巴黎有两个聚会的地方：一个在菜市场附近，是一家叫“科林斯”的酒馆，后面还会讲到；一个在先贤祠附近，圣米歇尔广场上一家叫“缪尚”的小咖啡馆，如今已经拆了。前一个地方挨着工人，后一个挨着大学生。",
+    "text_zh": "ABC 朋友会平日的秘密聚会在缪尚咖啡馆的一间后厅举行。\n\n这间屋子离咖啡馆相当远，中间由一条很长的走廊相通，有两扇窗，还有一个出口，沿暗梯通往小小的格雷街。他们在这里抽烟、喝酒、玩牌、欢笑。他们高声谈论一切，又压低声音谈论另外一些事。墙上钉着一幅共和国时期的旧法国地图——这点迹象，足以引起密探的警觉。",
     "highlight_zh": [
-      "缪尚"
+      "缪尚咖啡馆"
     ],
     "translation": "Isabel F. Hapgood (1887)",
     "source": {
@@ -1600,25 +1600,22 @@
     "place_ids": [
       "fr-corinthe-barricade"
     ],
-    "location": "Part 4, Book 12, Chapter 1, History of Corinthe from its Foundation",
-    "location_zh": "第四部第十二卷第 1 章《科林斯的建立史》",
-    "text_orig": "Les Parisiens qui, aujourd'hui, en entrant dans la rue Rambuteau du côté des halles, remarquent à leur droite, vis-à-vis la rue Mondétour, une boutique de vannier ayant pour enseigne un panier qui a la forme de l'empereur Napoléon le Grand avec cette inscription: NAPOLEON EST FAIT TOUT EN OSIER ne se doutent guère des scènes terribles que ce même emplacement a vues, il y a à peine trente ans. C'est là qu'étaient la rue de la Chanvrerie, que les anciens titres écrivent Chanverrerie, et le cabaret célèbre appelé Corinthe.",
+    "location": "Part 4, Book 12, Chapter 3, Night Begins to Descend upon Grantaire",
+    "location_zh": "第四部，第十二卷，第 3 章《夜色开始笼罩格朗泰尔》",
+    "text_orig": "La place était en fait admirablement indiquée, l'entrée de la rue évasée, le fond rétréci et en cul-de-sac, Corinthe y faisant un étranglement, la rue Mondétour facile à barrer à droite et à gauche, aucune attaque possible que par la rue Saint-Denis, c'est-à-dire de front et à découvert. Bossuet gris avait eu le coup d'oeil d'Annibal à jeun.",
     "highlight_orig": [
-      "la rue Rambuteau",
-      "la rue de la Chanvrerie",
-      "Corinthe"
+      "Corinthe",
+      "rue Mondétour"
     ],
-    "text_en": "The Parisians who nowadays on entering on the Rue Rambuteau at the end near the Halles, notice on their right, opposite the Rue Mondétour, a basket-maker’s shop having for its sign a basket in the form of Napoleon the Great with this inscription:— NAPOLEON IS MADE WHOLLY OF WILLOW, have no suspicion of the terrible scenes which this very spot witnessed hardly thirty years ago. It was there that lay the Rue de la Chanvrerie, which ancient deeds spell Chanverrerie, and the celebrated public-house called Corinthe.",
+    "text_en": "The spot was, in fact, admirably adapted, the entrance to the street widened out, the other extremity narrowed together into a pocket without exit. Corinthe created an obstacle, the Rue Mondétour was easily barricaded on the right and the left, no attack was possible except from the Rue Saint-Denis, that is to say, in front, and in full sight. Bossuet had the comprehensive glance of a fasting Hannibal.",
     "highlight_en": [
-      "Rue Rambuteau",
-      "Rue de la Chanvrerie",
-      "Corinthe"
+      "Corinthe",
+      "Rue Mondétour"
     ],
-    "text_zh": "如今走进朗布托街靠菜市场那一头的巴黎人，会看见右手边、蒙代图尔街对面，有一家篮筐铺，招牌是一只做成拿破仑大帝模样的篮子，上面写着：拿破仑全身都是柳条编的——他们哪里想得到，就在不到三十年前，这块地方上演过多么可怕的场面。麻厂街就在这里——旧地契上写作“玻璃麻街”——还有那家有名的酒馆，叫“科林斯”。",
+    "text_zh": "这地方确实选得再合适不过：街口敞开，尽头收窄，成了一条死胡同，科林斯酒馆又在这里形成一道窄口；蒙代图尔街左右两边都容易堵住，敌人只能从圣德尼街进攻，也就是说，只能从正面暴露着冲来。喝醉的博须埃，竟有清醒的汉尼拔那样的眼力。",
     "highlight_zh": [
-      "朗布托街",
-      "麻厂街",
-      "科林斯"
+      "科林斯酒馆",
+      "蒙代图尔街"
     ],
     "translation": "Isabel F. Hapgood (1887)",
     "source": {
@@ -1637,19 +1634,19 @@
     "place_ids": [
       "fr-paris-sewers"
     ],
-    "location": "Part 5, Book 2, Chapter 1, The Land impoverished by the Sea",
-    "location_zh": "第五部第二卷第 1 章《被海洋弄贫瘠的土地》",
-    "text_orig": "Paris a sous lui un autre Paris; un Paris d'égouts; lequel a ses rues, ses carrefours, ses places, ses impasses, ses artères, et sa circulation, qui est de la fange, avec la forme humaine de moins.",
+    "location": "Part 5, Book 3, Chapter 1, The Sewer and Its Surprises",
+    "location_zh": "第五部，第三卷，第 1 章《下水道及其意外》",
+    "text_orig": "Devant lui, il y avait un autre mur, un mur de nuit. La clarté du soupirail expirait à dix ou douze pas du point où était Jean Valjean, et faisait à peine une blancheur blafarde sur quelques mètres de la paroi humide de l'égout. Au delà l'opacité était massive; y pénétrer paraissait horrible, et l'entrée y semblait un engloutissement. On pouvait s'enfoncer pourtant dans cette muraille de brume, et il le fallait. Il fallait même se hâter. Jean Valjean songea que cette grille, aperçue par lui sous les pavés, pouvait l'être par les soldats, et que tout tenait à ce hasard. Ils pouvaient descendre eux aussi dans ce puits et le fouiller. Il n'y avait pas une minute à perdre. Il avait déposé Marius sur le sol, il le ramassa, ceci est encore le mot vrai, le reprit sur ses épaules et se mit en marche. Il entra résolument dans cette obscurité.",
     "highlight_orig": [
-      "un autre Paris; un Paris d'égouts"
+      "l'égout"
     ],
-    "text_en": "Paris has beneath it another Paris; a Paris of sewers; which has its streets, its crossroads, its squares, its blind-alleys, its arteries, and its circulation, which is of mire and minus the human form.",
+    "text_en": "In front of him there was another wall, a wall like night. The light of the air-hole died out ten or twelve paces from the point where Jean Valjean stood, and barely cast a wan pallor on a few metres of the damp walls of the sewer. Beyond, the opaqueness was massive; to penetrate thither seemed horrible, an entrance into it appeared like an engulfment. A man could, however, plunge into that wall of fog and it was necessary so to do. Haste was even requisite. It occurred to Jean Valjean that the grating which he had caught sight of under the flag-stones might also catch the eye of the soldiery, and that everything hung upon this chance. They also might descend into that well and search it. There was not a minute to be lost. He had deposited Marius on the ground, he picked him up again,—that is the real word for it,—placed him on his shoulders once more, and set out. He plunged resolutely into the gloom.",
     "highlight_en": [
-      "another Paris; a Paris of sewers"
+      "sewer"
     ],
-    "text_zh": "巴黎的下面还有一个巴黎，一个下水道的巴黎；它有自己的街道、十字路口、广场、死胡同、干道和交通，只不过流动的是污泥，少了人的模样。",
+    "text_zh": "前面还有一堵墙，一堵黑夜的墙。通气口的光在离冉阿让十来步处便消失了，只在下水道潮湿的壁面上留下几米惨淡的白色。再往前是一团浓得化不开的黑暗，走进去似乎十分可怕，入口像一张吞噬人的巨口。然而这堵雾墙仍能穿过，而且非穿过不可。甚至必须赶快。冉阿让想到，自己从石板下看见的那道铁栅，也可能被士兵发现，一切都系于这个偶然。他们也可能下来搜查。一分钟也不能耽搁。他先前把马吕斯放在地上，现在又把他拾起来——这个词仍然恰当——重新扛到肩上，迈开脚步，毅然走进黑暗。",
     "highlight_zh": [
-      "一个下水道的巴黎"
+      "下水道"
     ],
     "translation": "Isabel F. Hapgood (1887)",
     "source": {

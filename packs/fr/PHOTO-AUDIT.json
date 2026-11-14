@@ -534,5 +534,145 @@
       480
     ],
     "source_url": "https://commons.wikimedia.org/wiki/File:Dijon_-_Palais_des_Ducs_et_des_États_de_Bourgogne_-_01.jpg"
+  },
+  {
+    "place_id": "fr-palais-garnier",
+    "commons_file": "File:Palais Garnier, Paris.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Thomas Oboe Lee",
+    "original_width": 3600,
+    "original_height": 2700,
+    "checked": "2026-11-14",
+    "downloaded_thumbnail_size": [
+      960,
+      720
+    ],
+    "source_url": "https://commons.wikimedia.org/wiki/File:Palais Garnier, Paris.jpg"
+  },
+  {
+    "place_id": "fr-etretat-needle",
+    "commons_file": "File:L'Aiguille et la Porte d'Aval-Etretat-Normandie.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Tobi 87",
+    "original_width": 6837,
+    "original_height": 3534,
+    "checked": "2026-11-14",
+    "downloaded_thumbnail_size": [
+      960,
+      496
+    ],
+    "source_url": "https://commons.wikimedia.org/wiki/File:L'Aiguille et la Porte d'Aval-Etretat-Normandie.jpg"
+  },
+  {
+    "place_id": "fr-meung-sur-loire",
+    "commons_file": "File:Meung-sur-Loire (Loiret) (9084238244).jpg",
+    "license": "CC BY 2.0",
+    "author": "Daniel Jolivet",
+    "original_width": 4928,
+    "original_height": 3264,
+    "checked": "2026-11-14",
+    "downloaded_thumbnail_size": [
+      960,
+      636
+    ],
+    "source_url": "https://commons.wikimedia.org/wiki/File:Meung-sur-Loire (Loiret) (9084238244).jpg"
+  },
+  {
+    "place_id": "fr-cafe-musain",
+    "commons_file": "File:Paris 75006 Place Edmond-Rostand 20161226 vers rue Soufflot.jpg",
+    "license": "CC BY 2.0",
+    "author": "Guilhem Vellut from Paris, France",
+    "original_width": 5472,
+    "original_height": 3648,
+    "checked": "2026-11-14",
+    "downloaded_thumbnail_size": [
+      960,
+      640
+    ],
+    "source_url": "https://commons.wikimedia.org/wiki/File:Paris 75006 Place Edmond-Rostand 20161226 vers rue Soufflot.jpg"
+  },
+  {
+    "place_id": "fr-corinthe-barricade",
+    "commons_file": "File:Rue Mondétour - Paris I (FR75) - 2021-06-05 - 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Chabe01",
+    "original_width": 4032,
+    "original_height": 3024,
+    "checked": "2026-11-14",
+    "downloaded_thumbnail_size": [
+      960,
+      720
+    ],
+    "source_url": "https://commons.wikimedia.org/wiki/File:Rue Mondétour - Paris I (FR75) - 2021-06-05 - 1.jpg"
+  },
+  {
+    "place_id": "fr-paris-sewers",
+    "commons_file": "File:Egouts-Paris 03.JPG",
+    "license": "CC BY-SA 3.0",
+    "author": "Traumrune",
+    "original_width": 4288,
+    "original_height": 2848,
+    "checked": "2026-11-14",
+    "downloaded_thumbnail_size": [
+      960,
+      638
+    ],
+    "source_url": "https://commons.wikimedia.org/wiki/File:Egouts-Paris 03.JPG"
+  },
+  {
+    "place_id": "fr-saint-sulpice",
+    "commons_file": "File:Equinoxe St Sulpice.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Aubry Gérard",
+    "original_width": 1600,
+    "original_height": 1200,
+    "checked": "2026-11-14",
+    "downloaded_thumbnail_size": [
+      960,
+      720
+    ],
+    "source_url": "https://commons.wikimedia.org/wiki/File:Equinoxe St Sulpice.jpg"
+  },
+  {
+    "place_id": "fr-fontaine-des-innocents",
+    "commons_file": "File:Fontaine des Innocents in July 2022.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "DiscoA340",
+    "original_width": 3264,
+    "original_height": 2448,
+    "checked": "2026-11-14",
+    "downloaded_thumbnail_size": [
+      960,
+      720
+    ],
+    "source_url": "https://commons.wikimedia.org/wiki/File:Fontaine des Innocents in July 2022.jpg"
+  },
+  {
+    "place_id": "fr-shakespeare-and-company",
+    "commons_file": "File:At Paris 2009 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Photograph by Mike Peel ( www.mikepeel.net ).",
+    "original_width": 3888,
+    "original_height": 2592,
+    "checked": "2026-11-14",
+    "downloaded_thumbnail_size": [
+      960,
+      640
+    ],
+    "source_url": "https://commons.wikimedia.org/wiki/File:At Paris 2009 01.jpg"
+  },
+  {
+    "place_id": "fr-menerbes",
+    "commons_file": "File:Ménerbes 2013 05.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "François de Dijon",
+    "original_width": 4928,
+    "original_height": 3264,
+    "checked": "2026-11-14",
+    "downloaded_thumbnail_size": [
+      960,
+      636
+    ],
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ménerbes 2013 05.jpg"
   }
 ]

@@ -671,6 +671,93 @@
         "end": 643179,
         "sha256": "a126c39acbcff1422e70c942232af752c9296c7f233bdd7ebfd1e0f15ef73f95"
       }
+    },
+    {
+      "id": "fr-lm-4",
+      "original": {
+        "pg": 17494,
+        "start": 158729,
+        "end": 159258,
+        "sha256": "79894e327a20044dad5b93dd7d1fae0a8c06b74b86cd9f19d37bb54ffbacd44f"
+      },
+      "english": {
+        "pg": 135,
+        "start": 1483972,
+        "end": 1484545,
+        "sha256": "6cf3b9d6fc5e6f733737425267d3af296d7f99f9b9fd1d255a3ab7689a6346ab"
+      }
+    },
+    {
+      "id": "fr-lm-5",
+      "original": {
+        "pg": 17518,
+        "start": 604244,
+        "end": 604592,
+        "sha256": "5ceb65a2be245776a61aaa15f311b9b31964c1826121a3ba65ddd3bfae7fa4af"
+      },
+      "english": {
+        "pg": 135,
+        "start": 2479478,
+        "end": 2479888,
+        "sha256": "6cf3b9d6fc5e6f733737425267d3af296d7f99f9b9fd1d255a3ab7689a6346ab"
+      }
+    },
+    {
+      "id": "fr-lm-6",
+      "original": {
+        "pg": 17519,
+        "start": 238779,
+        "end": 240018,
+        "sha256": "d78e6ddc87cc5971b1a0107ae06f19b4cc63030553fcdfd94929c7472f0d470d"
+      },
+      "english": {
+        "pg": 135,
+        "start": 2870309,
+        "end": 2871640,
+        "sha256": "6cf3b9d6fc5e6f733737425267d3af296d7f99f9b9fd1d255a3ab7689a6346ab"
+      }
+    },
+    {
+      "id": "fr-po-1",
+      "audit_added": "2026-11-14",
+      "original": {
+        "pg": 62215,
+        "start": 3014,
+        "end": 3441,
+        "sha256": "dad6c90bf73fee7f019edf289ec922e82ee96c6bfdc7fc69b69175d08fe45d56"
+      },
+      "english": {
+        "pg": 175,
+        "start": 2316,
+        "end": 2769,
+        "sha256": "ee03c8f6775abdedb9d754205f9ff72201be99eac02a5d779dad665f6811f793"
+      }
+    },
+    {
+      "id": "fr-hn-1",
+      "audit_added": "2026-11-14",
+      "english": {
+        "pg": 4017,
+        "start": 303156,
+        "end": 303653,
+        "sha256": "a87cb718492f3edaf6772f76c0ea472e36cd5fff8ae04cef8274cfd4a5cf4186"
+      }
+    },
+    {
+      "id": "fr-tm-1",
+      "audit_added": "2026-11-14",
+      "original": {
+        "pg": 13951,
+        "start": 8506,
+        "end": 8722,
+        "sha256": "46c01913219e6ff165256b8cbcaec7034b004f785a147341911b3caee70ccfcc"
+      },
+      "english": {
+        "pg": 1257,
+        "start": 8539,
+        "end": 8784,
+        "sha256": "1682d060845717283d22462d1d884f79c2741ecdba3cfe5ceed700602ccf0e75"
+      }
     }
   ],
   "copyright": [

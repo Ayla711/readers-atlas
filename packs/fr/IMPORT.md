@@ -5,14 +5,13 @@
 ## 错误（0）
 
 
-## 提示（6）
+## 提示（5）
 
 - place fr-ajaccio: 0.4 km off the simplified coastline, counted in FR-COR
 - place fr-cap-de-la-heve: 1.1 km off the simplified coastline, counted in FR-NOR
 - place fr-avignon-palace: on the simplified map it falls in FR-OCC; region field keeps it in FR-PAC (0.2 km)
 - place fr-chateau-if: 2.8 km off the simplified coastline, counted in FR-PAC
 - place fr-etretat-needle: 0.8 km off the simplified coastline, counted in FR-NOR
-- photo fr-meung-sur-loire: only 500 px wide (the place card shows 800); a larger file would look sharper
 
 ## 脚本没有逐字核对的文本（1，审核时人工核对）
 

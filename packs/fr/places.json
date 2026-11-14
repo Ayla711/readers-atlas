@@ -716,22 +716,22 @@
     "book_ids": [
       "fr-les-miserables"
     ],
-    "fact_source": "https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables"
+    "fact_source": "https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables; https://fr.wikipedia.org/wiki/Place_Edmond-Rostand; https://www.gutenberg.org/ebooks/17494"
   },
   {
     "id": "fr-corinthe-barricade",
     "name": "Rue Mondétour and Rue Rambuteau (Corinthe and the barricade), Paris",
     "name_zh": "巴黎 · 蒙代图尔街（科林斯酒馆与街垒）",
-    "lat": 48.8627,
-    "lon": 2.3479,
+    "lat": 48.8625,
+    "lon": 2.348,
     "place_type": "original",
     "note": "1832 年 6 月起义，ABC 朋友会在麻厂街的科林斯酒馆门前筑起街垒，安灼拉、伽弗洛什和朋友们几乎全都死在这里，冉阿让背着昏迷的马吕斯从这里钻进下水道。雨果写书时，这片中世纪的窄巷已经被朗布托街拆平，他在小说里特意告诉读者：如今走进朗布托街，对面就是蒙代图尔街，当年的酒馆和街垒就在这里。蒙代图尔街还在，就在中央市场东北角，现在两旁都是咖啡馆",
     "note_en": "During the uprising of June 1832, the Friends of the ABC built their barricade outside the Corinthe tavern on the Rue de la Chanvrerie; Enjolras, Gavroche and nearly all their friends died here, and Jean Valjean carried the unconscious Marius down into the sewers from this spot. By the time Hugo wrote the novel, these medieval alleys had been flattened to make the Rue Rambuteau, and he tells his readers exactly where to look: enter the Rue Rambuteau, and the tavern and the barricade stood opposite the Rue Mondétour. Rue Mondétour is still there, at the northeast corner of Les Halles, lined with cafés",
-    "coord_checked": "Rue Mondétour (Paris) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Rue_Mondétour_(Paris)",
+    "coord_checked": "Base Adresse Nationale, 102 rue Rambuteau; site identified by Commission du Vieux Paris, 19 October 2017, pp. 33–35 — https://api-adresse.data.gouv.fr/search/?q=102%20rue%20Rambuteau%2075001%20Paris&limit=1",
     "book_ids": [
       "fr-les-miserables"
     ],
-    "fact_source": "https://en.wikipedia.org/wiki/June_Rebellion"
+    "fact_source": "https://en.wikipedia.org/wiki/June_Rebellion; https://cdn.paris.fr/paris/2019/07/24/93bb6132691fdd80e007396945d2a1e0.pdf; https://www.gutenberg.org/ebooks/17518"
   },
   {
     "id": "fr-paris-sewers",
@@ -746,7 +746,7 @@
     "book_ids": [
       "fr-les-miserables"
     ],
-    "fact_source": "https://en.wikipedia.org/wiki/Paris_sewer_museum"
+    "fact_source": "https://en.wikipedia.org/wiki/Paris_sewer_museum; https://musee-egouts.paris.fr/en/; https://www.gutenberg.org/ebooks/17519"
   },
   {
     "id": "fr-saint-sulpice",

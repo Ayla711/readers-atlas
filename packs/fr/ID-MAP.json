@@ -69,7 +69,15 @@
     "fr-letters-my-windmill",
     "fr-monday-tales",
     "fr-within-budding-grove",
-    "fr-robur-conqueror"
+    "fr-robur-conqueror",
+    "fr-phantom-of-the-opera",
+    "fr-hollow-needle",
+    "fr-little-prince",
+    "fr-da-vinci-code",
+    "fr-perfume",
+    "fr-moveable-feast",
+    "fr-all-the-light",
+    "fr-year-in-provence"
   ],
   "added_lines": [
     "fr-fg-1",
@@ -81,7 +89,19 @@
     "fr-mc-2",
     "fr-wm-1",
     "fr-mt-1",
-    "fr-bg-1"
+    "fr-bg-1",
+    "fr-po-1",
+    "fr-hn-1",
+    "fr-tm-1",
+    "fr-lm-4",
+    "fr-lm-5",
+    "fr-lm-6",
+    "fr-dvc-s1",
+    "fr-dvc-s2",
+    "fr-pf-s1",
+    "fr-mf-s1",
+    "fr-atl-s1",
+    "fr-yp-s1"
   ],
   "removed": [],
   "added_places": [
@@ -96,7 +116,18 @@
     "fr-alsace",
     "fr-verne-house",
     "fr-etretat-guillette",
-    "fr-cabourg-grand-hotel"
+    "fr-cabourg-grand-hotel",
+    "fr-palais-garnier",
+    "fr-etretat-needle",
+    "fr-meung-sur-loire",
+    "fr-cafe-musain",
+    "fr-corinthe-barricade",
+    "fr-paris-sewers",
+    "fr-saint-sulpice",
+    "fr-fontaine-des-innocents",
+    "fr-shakespeare-and-company",
+    "fr-little-prince-lyon",
+    "fr-menerbes"
   ],
   "modified_places": [
     "fr-ajaccio",
@@ -169,5 +200,20 @@
     "fr-stendhal-museum",
     "fr-thann-church",
     "fr-trouville"
-  ]
+  ],
+  "latest_revision": {
+    "date": "2026-11-14",
+    "added": [],
+    "modified_lines": [
+      "fr-lm-4",
+      "fr-lm-5",
+      "fr-lm-6"
+    ],
+    "modified_places": [
+      "fr-cafe-musain",
+      "fr-corinthe-barricade",
+      "fr-paris-sewers"
+    ],
+    "removed": []
+  }
 }
