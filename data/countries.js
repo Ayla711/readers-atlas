@@ -204,5 +204,347 @@ window.RA_COUNTRIES = [
    "data/it/lines.js"
   ],
   "open": false
+ },
+ {
+  "code": "ar",
+  "iso": "ARG",
+  "name": "Argentina",
+  "name_zh": "阿根廷",
+  "short": "Argentina",
+  "short_zh": "阿根廷",
+  "region_term": {
+   "en": "province",
+   "zh": "省"
+  },
+  "bounds": [
+   -73.6,
+   -55.1,
+   -53.6,
+   -21.8
+  ],
+  "small_regions": [
+   "AR-C"
+  ],
+  "wash": {},
+  "data": [
+   "data/ar/geo.js",
+   "data/sa/books.js",
+   "data/ar/places.js",
+   "data/ar/lines.js"
+  ],
+  "open": false
+ },
+ {
+  "code": "br",
+  "iso": "BRA",
+  "name": "Brazil",
+  "name_zh": "巴西",
+  "short": "Brazil",
+  "short_zh": "巴西",
+  "region_term": {
+   "en": "state",
+   "zh": "州"
+  },
+  "bounds": [
+   -74.0,
+   -33.8,
+   -34.8,
+   5.3
+  ],
+  "small_regions": [
+   "BR-DF"
+  ],
+  "wash": {},
+  "data": [
+   "data/br/geo.js",
+   "data/sa/books.js",
+   "data/br/places.js",
+   "data/br/lines.js"
+  ],
+  "open": false
+ },
+ {
+  "code": "cl",
+  "iso": "CHL",
+  "name": "Chile",
+  "name_zh": "智利",
+  "short": "Chile",
+  "short_zh": "智利",
+  "region_term": {
+   "en": "region",
+   "zh": "大区"
+  },
+  "bounds": [
+   -75.7,
+   -55.9,
+   -66.4,
+   -17.5
+  ],
+  "small_regions": [],
+  "wash": {},
+  "data": [
+   "data/cl/geo.js",
+   "data/sa/books.js",
+   "data/cl/places.js",
+   "data/cl/lines.js"
+  ],
+  "open": false
+ },
+ {
+  "code": "co",
+  "iso": "COL",
+  "name": "Colombia",
+  "name_zh": "哥伦比亚",
+  "short": "Colombia",
+  "short_zh": "哥伦比亚",
+  "region_term": {
+   "en": "department",
+   "zh": "省"
+  },
+  "bounds": [
+   -79.1,
+   -4.3,
+   -66.8,
+   12.5
+  ],
+  "small_regions": [
+   "CO-DC",
+   "CO-QUI"
+  ],
+  "wash": {},
+  "data": [
+   "data/co/geo.js",
+   "data/sa/books.js",
+   "data/co/places.js",
+   "data/co/lines.js"
+  ],
+  "open": false
+ },
+ {
+  "code": "pe",
+  "iso": "PER",
+  "name": "Peru",
+  "name_zh": "秘鲁",
+  "short": "Peru",
+  "short_zh": "秘鲁",
+  "region_term": {
+   "en": "region",
+   "zh": "大区"
+  },
+  "bounds": [
+   -81.4,
+   -18.4,
+   -68.6,
+   -0.0
+  ],
+  "small_regions": [
+   "PE-LMA",
+   "PE-CAL"
+  ],
+  "wash": {},
+  "data": [
+   "data/pe/geo.js",
+   "data/sa/books.js",
+   "data/pe/places.js",
+   "data/pe/lines.js"
+  ],
+  "open": false
+ },
+ {
+  "code": "uy",
+  "iso": "URY",
+  "name": "Uruguay",
+  "name_zh": "乌拉圭",
+  "short": "Uruguay",
+  "short_zh": "乌拉圭",
+  "region_term": {
+   "en": "department",
+   "zh": "省"
+  },
+  "bounds": [
+   -58.5,
+   -35.0,
+   -53.1,
+   -30.1
+  ],
+  "small_regions": [
+   "UY-MO"
+  ],
+  "wash": {},
+  "data": [
+   "data/uy/geo.js",
+   "data/sa/books.js",
+   "data/uy/places.js",
+   "data/uy/lines.js"
+  ],
+  "open": false
+ },
+ {
+  "code": "ec",
+  "iso": "ECU",
+  "name": "Ecuador",
+  "name_zh": "厄瓜多尔",
+  "short": "Ecuador",
+  "short_zh": "厄瓜多尔",
+  "region_term": {
+   "en": "province",
+   "zh": "省"
+  },
+  "bounds": [
+   -92.1,
+   -5.0,
+   -75.2,
+   1.7
+  ],
+  "small_regions": [],
+  "wash": {},
+  "data": [
+   "data/ec/geo.js",
+   "data/sa/books.js",
+   "data/ec/places.js",
+   "data/ec/lines.js"
+  ],
+  "open": false
+ },
+ {
+  "code": "ve",
+  "iso": "VEN",
+  "name": "Venezuela",
+  "name_zh": "委内瑞拉",
+  "short": "Venezuela",
+  "short_zh": "委内瑞拉",
+  "region_term": {
+   "en": "state",
+   "zh": "州"
+  },
+  "bounds": [
+   -73.4,
+   0.6,
+   -59.8,
+   12.2
+  ],
+  "small_regions": [
+   "VE-A"
+  ],
+  "wash": {},
+  "data": [
+   "data/ve/geo.js",
+   "data/sa/books.js",
+   "data/ve/places.js",
+   "data/ve/lines.js"
+  ],
+  "open": false
+ },
+ {
+  "code": "bo",
+  "iso": "BOL",
+  "name": "Bolivia",
+  "name_zh": "玻利维亚",
+  "short": "Bolivia",
+  "short_zh": "玻利维亚",
+  "region_term": {
+   "en": "department",
+   "zh": "省"
+  },
+  "bounds": [
+   -69.7,
+   -22.9,
+   -57.4,
+   -9.7
+  ],
+  "small_regions": [],
+  "wash": {},
+  "data": [
+   "data/bo/geo.js",
+   "data/sa/books.js",
+   "data/bo/places.js",
+   "data/bo/lines.js"
+  ],
+  "open": false
+ },
+ {
+  "code": "py",
+  "iso": "PRY",
+  "name": "Paraguay",
+  "name_zh": "巴拉圭",
+  "short": "Paraguay",
+  "short_zh": "巴拉圭",
+  "region_term": {
+   "en": "department",
+   "zh": "省"
+  },
+  "bounds": [
+   -62.7,
+   -27.6,
+   -54.2,
+   -19.3
+  ],
+  "small_regions": [
+   "PY-ASU"
+  ],
+  "wash": {},
+  "data": [
+   "data/py/geo.js",
+   "data/sa/books.js",
+   "data/py/places.js",
+   "data/py/lines.js"
+  ],
+  "open": false
+ },
+ {
+  "code": "gy",
+  "iso": "GUY",
+  "name": "Guyana",
+  "name_zh": "圭亚那",
+  "short": "Guyana",
+  "short_zh": "圭亚那",
+  "region_term": {
+   "en": "region",
+   "zh": "区"
+  },
+  "bounds": [
+   -61.4,
+   1.2,
+   -56.5,
+   8.6
+  ],
+  "small_regions": [],
+  "wash": {},
+  "data": [
+   "data/gy/geo.js",
+   "data/sa/books.js",
+   "data/gy/places.js",
+   "data/gy/lines.js"
+  ],
+  "open": false
+ },
+ {
+  "code": "sr",
+  "iso": "SUR",
+  "name": "Suriname",
+  "name_zh": "苏里南",
+  "short": "Suriname",
+  "short_zh": "苏里南",
+  "region_term": {
+   "en": "district",
+   "zh": "区"
+  },
+  "bounds": [
+   -58.1,
+   1.8,
+   -53.9,
+   6.1
+  ],
+  "small_regions": [
+   "SR-PM"
+  ],
+  "wash": {},
+  "data": [
+   "data/sr/geo.js",
+   "data/sa/books.js",
+   "data/sr/places.js",
+   "data/sr/lines.js"
+  ],
+  "open": false
  }
 ];

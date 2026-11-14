@@ -1,0 +1,11 @@
+{
+  "country": "ec",
+  "country_name": "Ecuador",
+  "country_name_zh": "厄瓜多尔",
+  "region_scheme": "province",
+  "notes": "南美洲第一批：厄瓜多尔。书目与南美其他国家共用 packs/sa/books.json",
+  "shared_books": "../sa/books.json",
+  "books_out": "data/sa/books.js",
+  "produced_by": "Claude",
+  "produced_at": "2026-11-13"
+}

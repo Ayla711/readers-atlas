@@ -1,0 +1,62 @@
+[
+  {
+    "id": "bo-isla-del-sol",
+    "name": "Isla del Sol, Lake Titicaca",
+    "name_zh": "的的喀喀湖 · 太阳岛",
+    "lat": -16.0206,
+    "lon": -69.1764,
+    "place_type": "original",
+    "note": "印加人相信，太阳神的一对儿女曼科·卡帕克和玛玛·奥克略就是从的的喀喀湖出发，带着一根金杖去寻找建都之地，最后在库斯科建起了帝国；湖中这座太阳岛上有印加最古老的太阳神庙。普雷斯科特在《秘鲁征服史》开篇就讲了这个传说。今天岛上没有汽车，从科帕卡巴纳坐船上岛，沿着印加梯田和石阶步道走一圈",
+    "note_en": "The Incas believed that the Sun's two children, Manco Capac and Mama Ocllo, set out from Lake Titicaca carrying a golden staff to find the place for their capital, and founded their empire at Cusco; the oldest of the Inca temples to the Sun stood on this island in the lake. Prescott tells the legend at the very start of History of the Conquest of Peru. There are no cars on the island today: you take a boat from Copacabana and walk the Inca terraces and stone paths",
+    "book_ids": [
+      "conquest-of-peru"
+    ],
+    "coord_checked": "Isla Del Sol, Bolivia (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Isla_Del_Sol,_Bolivia",
+    "fact_source": "https://en.wikipedia.org/wiki/Isla_del_Sol"
+  },
+  {
+    "id": "bo-tiwanaku",
+    "name": "Tiwanaku",
+    "name_zh": "蒂瓦纳库",
+    "lat": -16.5547,
+    "lon": -68.6733,
+    "place_type": "original",
+    "note": "的的喀喀湖南岸这座古城比印加帝国早了好几百年，连印加人自己都承认他们的建筑是以这里为范本。普雷斯科特据此推断，在印加人之前，湖边就有过一个更古老的文明。遗址里有半地下神庙的石头人头墙、卡拉萨萨亚神庙和著名的太阳门，是世界遗产",
+    "note_en": "This ancient city near the southern shore of Lake Titicaca is centuries older than the Inca Empire, and the Incas themselves admitted that their architecture was modeled on its buildings. From this Prescott concluded that an older civilization had flourished by the lake before the Incas. The site, now a World Heritage Site, has the wall of carved stone heads in the Semi-subterranean Temple, the Kalasasaya temple and the famous Gate of the Sun",
+    "book_ids": [
+      "conquest-of-peru"
+    ],
+    "coord_checked": "Tiwanaku (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Tiwanaku",
+    "fact_source": "https://en.wikipedia.org/wiki/Tiwanaku"
+  },
+  {
+    "id": "bo-la-paz-plaza-murillo",
+    "name": "Plaza Murillo, La Paz",
+    "name_zh": "拉巴斯 · 穆里略广场",
+    "lat": -16.4958,
+    "lon": -68.1336,
+    "place_type": "original",
+    "note": "1900 年代初，英国冒险家普罗杰斯坐马车从高原上一路疾驰下山进入拉巴斯，看见红瓦屋顶的城市铺在谷底，背后是伊伊马尼雪山。他记下这座城分上下两层：高处是政府大楼和有军乐队演奏的广场，低处是印第安人的大集市。他说的广场就是穆里略广场，政府宫和国会大厦至今都在广场边，满地都是鸽子",
+    "note_en": "In the early 1900s the English adventurer C. H. Prodgers came down into La Paz at a gallop on a mule coach from the high plateau, and saw the red-tiled city spread across the valley floor below the snowy peak of Illimani. He noted that the city was built on two levels, with the government buildings and a plaza where the artillery band played above, and the great Indian market below. That plaza is Plaza Murillo, where the presidential palace and the legislature still stand, among crowds of pigeons",
+    "book_ids": [
+      "adventures-in-bolivia"
+    ],
+    "coord_checked": "Plaza Murillo (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Plaza_Murillo",
+    "fact_source": "https://en.wikipedia.org/wiki/Plaza_Murillo"
+  },
+  {
+    "id": "bo-cerro-rico",
+    "name": "Cerro Rico, Potosí",
+    "name_zh": "波托西 · 富山",
+    "lat": -19.6189,
+    "lon": -65.7497,
+    "place_type": "original",
+    "note": "这座红褐色的山里挖出的白银，在 16、17 世纪撑起了西班牙帝国，“值一个波托西”在西班牙语里成了“价值连城”的意思，波托西也一度是世界上最大的城市之一。加莱亚诺在《拉丁美洲被切开的血管》里用整整一节写这座“吃人的山”：几百年间有数不清的印第安矿工死在里面。今天仍有合作社的矿工在山里作业，可以跟着当地向导下井参观",
+    "note_en": "The silver dug out of this rust-red mountain bankrolled the Spanish Empire in the sixteenth and seventeenth centuries; 'worth a Potosí' became the Spanish way of saying 'worth a fortune', and Potosí was for a time one of the largest cities in the world. In Open Veins of Latin America, Eduardo Galeano gives a whole section to 'the mountain that eats men', where countless Indigenous miners died over the centuries. Cooperative miners still work inside it today, and local guides take visitors down into the shafts",
+    "book_ids": [
+      "open-veins-of-latin-america"
+    ],
+    "coord_checked": "Cerro Rico (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Cerro_Rico",
+    "fact_source": "https://en.wikipedia.org/wiki/Cerro_Rico"
+  }
+]

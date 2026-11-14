@@ -1,0 +1,125 @@
+[
+  {
+    "id": "pe-cajamarca-ransom-room",
+    "name": "Cuarto del Rescate, Cajamarca",
+    "name_zh": "卡哈马卡 · 赎金屋",
+    "lat": -7.1578,
+    "lon": -78.5167,
+    "place_type": "original",
+    "note": "1532 年 11 月，皮萨罗带着不到两百人翻过安第斯山，在卡哈马卡的广场上设伏，俘虏了印加皇帝阿塔瓦尔帕。被囚的皇帝许诺用黄金把关他的屋子填满到他手能够到的高度，白银再填两屋。赎金如数送到，他还是在第二年被处死。这间“赎金屋”是城里唯一保存下来的印加建筑",
+    "note_en": "In November 1532 Francisco Pizarro crossed the Andes with fewer than two hundred men, set an ambush in the great square of Cajamarca and captured the Inca emperor Atahualpa. The captive emperor promised to fill the room where he was held with gold as high as he could reach, and two more rooms with silver. The ransom was paid, and he was executed anyway the following year. This 'Ransom Room' is the only Inca building still standing in the city",
+    "coord_checked": "Cuarto del Rescate (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Cuarto_del_Rescate",
+    "fact_source": "https://en.wikipedia.org/wiki/Atahualpa"
+  },
+  {
+    "id": "pe-sacsayhuaman",
+    "name": "Sacsayhuamán, Cusco",
+    "name_zh": "库斯科 · 萨克塞瓦曼",
+    "lat": -13.5078,
+    "lon": -71.9822,
+    "place_type": "original",
+    "note": "库斯科城北山上的印加要塞，巨石重达上百吨，却严丝合缝，连刀片都插不进去。普雷斯科特从没到过秘鲁，他几乎失明，靠别人朗读史料写成了《秘鲁征服史》，书中对这些石墙的惊叹至今读来仍然动人。每年 6 月的太阳节就在这里举行",
+    "note_en": "This Inca fortress on the hill above Cusco is built of stones weighing a hundred tons or more, fitted together so tightly that you can't slip a knife blade between them. Prescott never set foot in Peru. He was nearly blind and wrote History of the Conquest of Peru by having the sources read aloud to him, yet his wonder at these walls still comes through. The Inti Raymi festival of the sun is held here every June",
+    "coord_checked": "Sacsayhuamán (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Sacsayhuamán",
+    "fact_source": "https://en.wikipedia.org/wiki/Sacsayhuam%C3%A1n"
+  },
+  {
+    "id": "pe-lima-plaza-mayor",
+    "name": "Plaza Mayor, Lima",
+    "name_zh": "利马 · 主广场",
+    "lat": -12.046,
+    "lon": -77.0305,
+    "place_type": "original",
+    "note": "1535 年主显节前后，皮萨罗在里马克河边建起新都，取名“诸王之城”，这个名字没用多久就被印第安地名演变来的“利马”取代。六年后他就在这座城里被政敌刺杀，遗骨至今安放在广场边的大教堂里。1835 年达尔文来时，正赶上独立战争后的动荡年代，他眼里的利马破败不堪",
+    "note_en": "Around Epiphany in 1535, Pizarro founded his new capital beside the Rímac River and named it the City of the Kings, a name soon replaced by Lima, from the old Indigenous name of the river. Six years later he was assassinated in this city by his rivals, and his remains still lie in the cathedral on the square. When Darwin came in 1835, in the turbulent years after independence, he found Lima in a sorry state",
+    "coord_checked": "Plaza Mayor (Lima) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Plaza_Mayor_(Lima)",
+    "fact_source": "https://en.wikipedia.org/wiki/Plaza_Mayor,_Lima"
+  },
+  {
+    "id": "pe-qeswachaka",
+    "name": "Q'eswachaka bridge",
+    "name_zh": "库斯科 · 凯斯瓦查卡草绳桥",
+    "lat": -14.3813,
+    "lon": -71.484,
+    "place_type": "prototype",
+    "book_ids": [
+      "bridge-of-san-luis-rey"
+    ],
+    "coord_checked": "Qeshuachaca (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Qeshuachaca",
+    "fact_source": "https://en.wikipedia.org/wiki/Q%27eswachaka",
+    "prototype_of": "《圣路易斯雷大桥》里那座桥的原型：小说开头，1714 年利马到库斯科大道上一座印加人编织的草绳吊桥突然断裂，五个人坠入深谷，一位修士决心查明他们为什么偏偏是这五个人。凯斯瓦查卡是今天唯一还在使用的印加草绳桥，当地社区每年 6 月用新草绳重新编织一次，已列入非物质文化遗产",
+    "prototype_of_en": "The model for the bridge in The Bridge of San Luis Rey. The novel opens in 1714, when an Inca rope bridge on the road from Lima to Cusco suddenly snaps and five people fall to their deaths, and a friar sets out to learn why it was these five. Q'eswachaka is the last Inca rope bridge still in use. Every June the local communities weave it anew from fresh grass rope, a tradition recognized by UNESCO"
+  },
+  {
+    "id": "pe-machu-picchu",
+    "name": "Machu Picchu",
+    "name_zh": "马丘比丘",
+    "lat": -13.1633,
+    "lon": -72.5456,
+    "place_type": "original",
+    "note": "1943 年，聂鲁达登上这座云中的印加古城，后来写成长诗《马丘比丘之巅》，收在《漫歌》里。他在诗中向建造这座城的无名劳动者喊话，请他们通过他的嘴说话。这首诗让马丘比丘成了拉丁美洲诗歌里的圣地",
+    "note_en": "In 1943 Pablo Neruda climbed to this Inca citadel in the clouds, and later wrote The Heights of Macchu Picchu, part of his Canto General. In the poem he calls out to the nameless laborers who built the city and asks them to speak through his mouth. The poem made Machu Picchu a sacred place in Latin American poetry",
+    "coord_checked": "Machu Picchu (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Machu_Picchu",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Heights_of_Macchu_Picchu",
+    "book_ids": [
+      "the-motorcycle-diaries"
+    ]
+  },
+  {
+    "id": "pe-palma-house",
+    "name": "Casa Museo Ricardo Palma, Miraflores",
+    "name_zh": "利马米拉弗洛雷斯 · 里卡多·帕尔马故居",
+    "lat": -12.1185,
+    "lon": -77.0276,
+    "place_type": "pilgrimage",
+    "note": "里卡多·帕尔马用半个世纪写下几百篇《秘鲁传说》，把殖民时代利马的掌故、轶事和流言写成了妙趣横生的短篇，开创了一种文体。1879 年太平洋战争中智利军队焚毁了国家图书馆，战后他担任馆长，四处“讨书”重建馆藏，人称“乞讨的图书馆长”。他晚年住在米拉弗洛雷斯的这座房子里，1919 年在此去世",
+    "note_en": "Over half a century Ricardo Palma wrote hundreds of Peruvian Traditions, turning the lore, anecdotes and gossip of colonial Lima into witty short pieces and inventing a genre of his own. After Chilean troops ransacked the National Library during the War of the Pacific, he became its director and rebuilt the collection by begging books from everyone he knew, earning the nickname 'the beggar librarian'. He spent his last years in this house in Miraflores and died here in 1919",
+    "book_ids": [
+      "tradiciones-peruanas"
+    ],
+    "coord_checked": "Casa Museo Ricardo Palma (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Casa_Museo_Ricardo_Palma",
+    "fact_source": "https://en.wikipedia.org/wiki/Ricardo_Palma"
+  },
+  {
+    "id": "pe-vargas-llosa-house",
+    "name": "Casa Museo Mario Vargas Llosa, Arequipa",
+    "name_zh": "阿雷基帕 · 巴尔加斯·略萨故居博物馆",
+    "lat": -16.4065,
+    "lon": -71.5408,
+    "place_type": "pilgrimage",
+    "note": "2010 年诺贝尔文学奖得主巴尔加斯·略萨 1936 年出生在这座白色火山石之城，一岁时就随母亲搬去了玻利维亚。他出生的房子 2016 年改成博物馆，用全息影像和布景让参观者“走进”他的小说世界。他于 2025 年去世",
+    "note_en": "Mario Vargas Llosa, who won the Nobel Prize in Literature in 2010, was born in 1936 in Arequipa, the city of white volcanic stone, and left for Bolivia with his mother when he was one. The house where he was born became a museum in 2016, using holograms and stage sets to let visitors step into his novels. He died in 2025",
+    "book_ids": [
+      "the-time-of-the-hero"
+    ],
+    "coord_checked": "Casa Museo Mario Vargas Llosa (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Casa_Museo_Mario_Vargas_Llosa",
+    "fact_source": "https://en.wikipedia.org/wiki/Mario_Vargas_Llosa"
+  },
+  {
+    "id": "pe-leoncio-prado",
+    "name": "Colegio Militar Leoncio Prado, Callao",
+    "name_zh": "卡亚俄 · 莱昂西奥·普拉多军校",
+    "lat": -12.0756,
+    "lon": -77.1184,
+    "place_type": "original",
+    "note": "巴尔加斯·略萨十四岁被父亲送进这所海边的军校，两年的经历后来写成了第一部长篇《城市与狗》，揭露学员之间的暴力和欺凌。据说小说出版后，军校当众烧了一千册书。这本书让二十七岁的他一举成名",
+    "note_en": "When Vargas Llosa was fourteen, his father sent him to this military academy on the coast, and his two years here became his first novel, The Time of the Hero, which exposed the violence and bullying among the cadets. The story goes that the school publicly burned a thousand copies when it came out. The book made him famous at twenty-seven",
+    "coord_checked": "Colegio Militar Leoncio Prado (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Colegio_Militar_Leoncio_Prado",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Time_of_the_Hero"
+  },
+  {
+    "id": "pe-iquitos",
+    "name": "Plaza de Armas, Iquitos",
+    "name_zh": "伊基托斯 · 武器广场",
+    "lat": -3.7493,
+    "lon": -73.2444,
+    "place_type": "original",
+    "note": "凡尔纳的《大木筏》从这里开始：1852 年，伊基托斯附近庄园的主人若昂·加拉尔砍下整片森林，扎成一座漂浮的村庄，带着全家顺亚马孙河而下八百里格，一直漂到大西洋边的贝伦。凡尔纳写的伊基托斯只是河边四十来间茅草屋；半个世纪后，橡胶热把它变成了亚马孙的富城，广场边那座铁皮房子“铁屋”就是那个年代留下的。今天这里仍是世界上最大的不通公路的城市，只能坐船或飞机到",
+    "note_en": "Jules Verne's Eight Hundred Leagues on the Amazon starts here. In 1852 Joam Garral, owner of a farm near Iquitos, fells a whole stretch of forest, lashes it into a floating village and carries his family eight hundred leagues down the Amazon to Belém on the Atlantic. Verne's Iquitos is just forty or so thatched huts above the river; half a century later the rubber boom turned it into the richest city in the Amazon, and the iron-clad Casa de Fierro on the square is a relic of those years. It is still the largest city in the world that no road reaches, so you arrive by boat or plane",
+    "book_ids": [
+      "the-giant-raft"
+    ],
+    "coord_checked": "Plaza de armas de Iquitos (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Plaza_de_armas_de_Iquitos",
+    "fact_source": "https://en.wikipedia.org/wiki/Eight_Hundred_Leagues_on_the_Amazon"
+  }
+]

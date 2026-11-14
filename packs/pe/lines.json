@@ -1,0 +1,207 @@
+[
+  {
+    "id": "pe-pre-1",
+    "book_id": "conquest-of-peru",
+    "place_ids": [
+      "pe-cajamarca-ransom-room"
+    ],
+    "location": "Book 3, Chapter 5",
+    "location_zh": "第 3 卷第 5 章",
+    "text_en": "In the hope, therefore, to effect his purpose by appealing to the avarice of his keepers, he one day told Pizarro, that, if he would set him free, he would engage to cover the floor of the apartment on which they stood with gold. Those present listened with an incredulous smile; and, as the Inca received no answer, he said, with some emphasis, that \"he would not merely cover the floor, but would fill the room with gold as high as he could reach\"; and, standing on tiptoe, he stretched out his hand against the wall.",
+    "highlight_en": [
+      "the apartment on which they stood"
+    ],
+    "text_zh": "因此，为了达到目的，他想利用看守们的贪婪。有一天他对皮萨罗说，只要放了他，他愿意用黄金铺满他们所站的这间屋子的地面。在场的人都不相信地笑了；见没有人答话，印加王又加重语气说：“我不光要铺满地面，还要用黄金把这间屋子填满，一直填到我手能够到的地方。”说着，他踮起脚，把手伸到墙上。",
+    "highlight_zh": [
+      "这间屋子"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 1209
+    },
+    "status": "draft"
+  },
+  {
+    "id": "pe-pre-2",
+    "book_id": "conquest-of-peru",
+    "place_ids": [
+      "pe-sacsayhuaman"
+    ],
+    "location": "Book 1, Chapter 1",
+    "location_zh": "第 1 卷第 1 章",
+    "text_en": "We are filled with astonishment, when we consider, that these enormous masses were hewn from their native bed and fashioned into shape, by a people ignorant of the use of iron; that they were brought from quarries, from four to fifteen leagues distant, without the aid of beasts of burden; were transported across rivers and ravines, raised to their elevated position on the sierra, and finally adjusted there with the nicest accuracy, without the knowledge of tools and machinery familiar to the European. Twenty thousand men are said to have been employed on this great structure, and fifty years consumed in the building.",
+    "highlight_en": [
+      "this great structure"
+    ],
+    "text_zh": "想到这些巨大的石块，是由一个不会用铁的民族从原生的岩层里凿下、打磨成形的，我们就满心惊叹：它们从四到十五里格外的采石场运来，没有牲口帮忙；被运过河流和深谷，抬上高高的山岭，最后极其精确地砌合在一起——而这些人并不懂欧洲人熟悉的工具和机械。据说建造这座宏伟的工程动用了两万人，耗时五十年。",
+    "highlight_zh": [
+      "这座宏伟的工程"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 1209
+    },
+    "status": "draft"
+  },
+  {
+    "id": "pe-pre-3",
+    "book_id": "conquest-of-peru",
+    "place_ids": [
+      "pe-lima-plaza-mayor"
+    ],
+    "location": "Book 3, Chapter 9",
+    "location_zh": "第 3 卷第 9 章",
+    "text_en": "The name bestowed on the infant capital was Ciudad de los Reyes, or City of the Kings, in honor of the day, being the sixth of January, 1535 … But the Castilian name ceased to be used even within the first generation, and was supplanted by that of Lima, into which the original Indian name of Rimac was corrupted by the Spaniards.",
+    "highlight_en": [
+      "City of the Kings",
+      "Lima"
+    ],
+    "text_zh": "这座新生的首都被命名为“诸王之城”，以纪念那一天——1535 年 1 月 6 日……但这个卡斯蒂利亚名字连第一代人都没用完就被弃用了，取而代之的是“利马”：西班牙人把这里原来的印第安名字“里马克”念走了样。",
+    "highlight_zh": [
+      "诸王之城",
+      "利马"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 1209
+    },
+    "status": "draft"
+  },
+  {
+    "id": "pe-db-1",
+    "book_id": "voyage-of-the-beagle",
+    "place_ids": [
+      "pe-lima-plaza-mayor"
+    ],
+    "location": "Chapter 16, Northern Chile and Peru",
+    "location_zh": "第 16 章《智利北部与秘鲁》",
+    "text_en": "The city of Lima is now in a wretched state of decay: the streets are nearly unpaved; and heaps of filth are piled up in all directions, where the black gallinazos, tame as poultry, pick up bits of carrion.",
+    "highlight_en": [
+      "The city of Lima"
+    ],
+    "text_zh": "利马城如今衰败得很厉害：街道几乎都没有铺石，到处堆着一堆堆垃圾，黑色的兀鹫像家禽一样温驯，在里面啄食腐肉。",
+    "highlight_zh": [
+      "利马城"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 944
+    },
+    "status": "draft"
+  },
+  {
+    "id": "pe-bsl-s1",
+    "kind": "scene",
+    "book_id": "bridge-of-san-luis-rey",
+    "place_ids": [
+      "pe-qeswachaka"
+    ],
+    "location": "Part 1",
+    "location_zh": "第一部",
+    "text_en": "At noon on a Friday in July 1714, the finest bridge in Peru, a willow-and-rope span on the highroad between Lima and Cuzco, breaks and throws five travelers into the gulf below, while Brother Juniper watches from the hillside.",
+    "text_zh": "1714 年 7 月的一个星期五中午，秘鲁最好的一座桥——利马到库斯科大道上用柳条和绳索编成的吊桥——突然断裂，把五个过路人抛进了下面的深谷；朱尼珀修士正在山坡上看着这一幕。",
+    "highlight_en": [
+      "the finest bridge in Peru"
+    ],
+    "highlight_zh": [
+      "秘鲁最好的一座桥"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Bridge_of_San_Luis_Rey"
+  },
+  {
+    "id": "pe-cg-s1",
+    "kind": "scene",
+    "book_id": "canto-general",
+    "place_ids": [
+      "pe-machu-picchu"
+    ],
+    "location": "Part 2, The Heights of Macchu Picchu",
+    "location_zh": "第二部《马丘比丘之巅》",
+    "text_en": "Climbing up among the stone terraces of Machu Picchu, the poet asks the city who did the building, and in the last part calls on the dead slaves and stonecutters to rise up with him and speak through his voice.",
+    "text_zh": "诗人攀上马丘比丘的石砌梯田，追问这座城究竟是谁建造的；在长诗的最后一节，他召唤死去的奴隶和石匠和他一起站起来，借他的声音说话。",
+    "highlight_en": [
+      "Machu Picchu"
+    ],
+    "highlight_zh": [
+      "马丘比丘"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Heights_of_Macchu_Picchu"
+  },
+  {
+    "id": "pe-toh-s1",
+    "kind": "scene",
+    "book_id": "the-time-of-the-hero",
+    "place_ids": [
+      "pe-leoncio-prado"
+    ],
+    "location": "Part 1, Chapter 1",
+    "location_zh": "第一部第 1 章",
+    "text_en": "In the barracks of the Leoncio Prado Military Academy, a secret gang of cadets called the Circle draws lots to decide who will steal the answers to a chemistry exam, setting off the chain of events that ends in a cadet's death on the firing range.",
+    "text_zh": "在莱昂西奥·普拉多军校的营房里，一伙自称“圈子”的学员掷骰子决定由谁去偷化学考试的试题，由此引发的一连串事件，最后以一名学员死在靶场告终。",
+    "highlight_en": [
+      "the Leoncio Prado Military Academy"
+    ],
+    "highlight_zh": [
+      "莱昂西奥·普拉多军校"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Time_of_the_Hero"
+  },
+  {
+    "id": "pe-jan-1",
+    "book_id": "the-giant-raft",
+    "place_ids": [
+      "pe-iquitos"
+    ],
+    "location": "Part 1, Chapter 3, The Garral Family",
+    "location_zh": "第一部第 3 章《加拉尔一家》",
+    "text_orig": "Le village d'Iquitos est situé près de la rive gauche de l'Amazone, à peu près sur le soixante-quatorzième méridien, dans cette partie du grand fleuve qui porte encore le nom de Marânon, et dont le lit sépare le Pérou de la République de l'Équateur, à cinquante-cinq lieues vers l'ouest de la frontière brésilienne. … Une quarantaine de huttes, assez misérables, que leur toit de chaume rend à peine dignes du nom de chaumières, voilà tout le village, très pittoresquement groupé, d'ailleurs, sur une esplanade qui domine d'une soixantaine de pieds les rives du fleuve.",
+    "highlight_orig": [
+      "Le village d'Iquitos"
+    ],
+    "text_en": "The village of Iquitos is situated on the left bank of the Amazon, near the seventy-fourth meridian, on that portion of the great river which still bears the name of the Marânon, and of which the bed separates Peru from the republic of Ecuador. It is about fifty-five leagues to the west of the Brazilian frontier. … The village is most picturesquely grouped on a kind of esplanade, and runs along at about sixty feet from the river. It consists of some forty miserable huts, whose thatched roofs only just render them worthy of the name of cottages.",
+    "highlight_en": [
+      "The village of Iquitos"
+    ],
+    "text_zh": "伊基托斯村坐落在亚马孙河左岸，大约在西经七十四度，那一段大河还叫马拉尼翁河，河床就是秘鲁和厄瓜多尔共和国的分界，往西离巴西边境约五十五里格……村子十分别致地聚在一块台地上，离河面约六十英尺，由四十来间简陋的茅屋组成，茅草屋顶勉强让它们配得上“农舍”这个名字。",
+    "highlight_zh": [
+      "伊基托斯村"
+    ],
+    "translation": "W. J. Gordon (1881)",
+    "source": {
+      "kind": "gutenberg",
+      "id": 14806
+    },
+    "status": "draft",
+    "translation_source": {
+      "kind": "gutenberg",
+      "id": 3091
+    }
+  },
+  {
+    "id": "pe-md-s1",
+    "kind": "scene",
+    "book_id": "the-motorcycle-diaries",
+    "place_ids": [
+      "pe-machu-picchu"
+    ],
+    "location": "Machu Picchu",
+    "location_zh": "《马丘比丘》",
+    "text_en": "Ernesto and Alberto reach Machu Picchu in April 1952 and spend the day among the ruins; Ernesto writes of the Inca city as the purest expression of an Indigenous civilization, and is angered that its treasures were carried off to museums abroad.",
+    "text_zh": "1952 年 4 月，埃内斯托和阿尔贝托来到马丘比丘，在废墟间待了一整天；埃内斯托把这座印加古城写成一个原住民文明最纯粹的表达，也为城中的宝藏被运到国外博物馆而愤愤不平。",
+    "highlight_en": [
+      "Machu Picchu"
+    ],
+    "highlight_zh": [
+      "马丘比丘"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Motorcycle_Diaries_(book)"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "id": "py-trinidad",
+    "name": "Jesuit Mission of La Santísima Trinidad de Paraná",
+    "name_zh": "巴拉那河畔至圣三一耶稣会传教区",
+    "lat": -27.132,
+    "lon": -55.702,
+    "place_type": "original",
+    "note": "17、18 世纪，耶稣会士在巴拉那河两岸建起三十座瓜拉尼人的传教镇，自成一国，由神父们管理，伏尔泰在《老实人》里挖苦它“神父们什么都有，百姓一无所有”。1767 年耶稣会被逐，传教镇随之荒废。一百年后坎宁安·格雷厄姆骑马来到这里，看见藤蔓爬满了破败的教堂和钟楼，钟早已不在的窗洞里开出大团猩红和紫色的花。至圣三一是保存最好的一座，红砂岩的大教堂、拱廊民居和耶稣会士种下的棕榈都还在，是世界遗产",
+    "note_en": "In the seventeenth and eighteenth centuries the Jesuits built thirty mission towns for the Guaraní on both banks of the Paraná, a little state of their own run by the priests, which Voltaire mocked in Candide: 'the Fathers possess all, and the people nothing'. When the Jesuits were expelled in 1767 the missions fell into ruin, and a century later Cunninghame Graham rode through and found lianas climbing the broken churches and bell towers, with great masses of scarlet and purple flowers hanging from the openings where the bells had been. Trinidad is the best preserved of them all: the red sandstone church, the arcaded houses and the palms the Jesuits planted are still standing, and the site is a World Heritage Site",
+    "book_ids": [
+      "candide",
+      "a-vanished-arcadia"
+    ],
+    "coord_checked": "La Santísima Trinidad de Paraná (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:La_Santísima_Trinidad_de_Paraná",
+    "fact_source": "https://en.wikipedia.org/wiki/La_Sant%C3%ADsima_Trinidad_de_Paran%C3%A1"
+  },
+  {
+    "id": "py-asuncion-cathedral",
+    "name": "Cathedral of Asunción",
+    "name_zh": "亚松森大教堂",
+    "lat": -25.2816,
+    "lon": -57.6324,
+    "place_type": "original",
+    "note": "罗亚·巴斯托斯的《我，至高无上者》从这座大教堂的门开始：有人模仿独裁者弗朗西亚博士的笔迹，在教堂门上钉了一张告示，以他的口吻命令在他死后砍下他的头，挂在广场上示众。弗朗西亚在 1814 到 1840 年间独揽大权，自称“至高无上者”，把巴拉圭和外部世界几乎完全隔绝。这部小说与《百年孤独》等并称拉美“独裁者小说”的高峰。大教堂就在河边的老城，离总统府不远",
+    "note_en": "Roa Bastos's I the Supreme begins at the door of this cathedral, where someone has nailed up a notice forged in the hand of the dictator Dr. Francia, ordering in his own voice that when he dies his head be cut off and displayed on a pike in the square. Francia ruled Paraguay alone from 1814 to 1840, called himself 'El Supremo', and sealed the country off almost entirely from the outside world. The novel is one of the great Latin American 'dictator novels'. The cathedral stands in the old town by the river, a short walk from the presidential palace",
+    "book_ids": [
+      "i-the-supreme"
+    ],
+    "coord_checked": "Cathedral of Asunción (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Cathedral_of_Asunción",
+    "fact_source": "https://en.wikipedia.org/wiki/I_the_Supreme"
+  }
+]

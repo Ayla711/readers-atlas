@@ -1,0 +1,246 @@
+[
+  {
+    "id": "ar-plaza-de-mayo",
+    "name": "Plaza de Mayo, Buenos Aires",
+    "name_zh": "布宜诺斯艾利斯 · 五月广场",
+    "lat": -34.6083,
+    "lon": -58.3719,
+    "place_type": "original",
+    "note": "1833 年达尔文在布宜诺斯艾利斯住了一阵，最让他吃惊的是这座城方方正正的棋盘格街道。他写到的城中心广场就是今天的五月广场，四周是总统府玫瑰宫、大教堂和殖民时代的旧市政厅，两百年来阿根廷的大事几乎都在这里发生",
+    "note_en": "When Darwin stayed in Buenos Aires in 1833, what struck him most was its perfect grid of streets. The plaza at the center of town that he describes is today's Plaza de Mayo, surrounded by the Casa Rosada, the cathedral and the old colonial town hall. For two hundred years, nearly every big moment in Argentine history has played out here",
+    "coord_checked": "Plaza de Mayo, Buenos Aires (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Plaza_de_Mayo,_Buenos_Aires",
+    "fact_source": "https://en.wikipedia.org/wiki/Plaza_de_Mayo"
+  },
+  {
+    "id": "ar-punta-alta",
+    "name": "Punta Alta",
+    "name_zh": "蓬塔阿尔塔",
+    "lat": -38.88,
+    "lon": -62.075,
+    "place_type": "original",
+    "note": "1832 年，达尔文在巴伊亚布兰卡港边的蓬塔阿尔塔海滩上挖出了大地懒等巨型动物的化石。这些早已灭绝、却又和今天南美的树懒、犰狳那么相像的巨兽，让年轻的达尔文第一次认真思考物种是怎样变化的",
+    "note_en": "In 1832 Darwin dug the fossil bones of giant ground sloths and other huge beasts out of the beach at Punta Alta, on the bay of Bahía Blanca. These creatures were long extinct, yet they looked strikingly like the sloths and armadillos still living in South America, and they set the young Darwin thinking seriously for the first time about how species change",
+    "coord_checked": "Punta Alta (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Punta_Alta",
+    "fact_source": "https://en.wikipedia.org/wiki/Punta_Alta"
+  },
+  {
+    "id": "ar-carmen-de-patagones",
+    "name": "Carmen de Patagones",
+    "name_zh": "卡门德巴塔哥内斯",
+    "lat": -40.7833,
+    "lon": -62.9667,
+    "place_type": "original",
+    "note": "这座内格罗河边的小镇建于 1779 年，是巴塔哥尼亚最早的定居点之一，早年不少房屋就挖在临河的砂岩崖壁里。1833 年达尔文从这里出发，骑马穿过草原前往巴伊亚布兰卡，一路和高乔人同吃同住",
+    "note_en": "Founded in 1779 on the Río Negro, Carmen de Patagones is one of the oldest settlements in Patagonia, and many of its early houses were dug right into the sandstone cliff above the river. In 1833 Darwin set out from here on horseback across the plains to Bahía Blanca, eating and sleeping alongside the gauchos the whole way",
+    "coord_checked": "Carmen de Patagones (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Carmen_de_Patagones",
+    "fact_source": "https://en.wikipedia.org/wiki/Carmen_de_Patagones"
+  },
+  {
+    "id": "ar-puerto-deseado",
+    "name": "Puerto Deseado",
+    "name_zh": "德塞阿多港",
+    "lat": -47.75,
+    "lon": -65.9167,
+    "place_type": "original",
+    "note": "小猎犬号两次停泊在德塞阿多河口，达尔文从这里走进巴塔哥尼亚高原。这片没有树、没有水的荒原成了他一生最难忘的景象：在全书最后几页，他还在追问，为什么偏偏是这些人人都说荒凉无用的平原，牢牢占据了他的记忆",
+    "note_en": "The Beagle anchored twice in the estuary at Puerto Deseado, and from here Darwin walked out onto the Patagonian plateau. Those treeless, waterless plains became the sight he could never forget. In the last pages of the book he is still wondering why, of all places, these plains that everyone called wretched and useless had taken such a hold on his memory",
+    "coord_checked": "Puerto Deseado (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Puerto_Deseado",
+    "fact_source": "https://en.wikipedia.org/wiki/Puerto_Deseado"
+  },
+  {
+    "id": "ar-beagle-channel",
+    "name": "Beagle Channel at Ushuaia",
+    "name_zh": "乌斯怀亚 · 比格尔海峡",
+    "lat": -54.8072,
+    "lon": -68.3081,
+    "place_type": "original",
+    "note": "这条海峡就是以小猎犬号命名的，是这艘船上一次远航时测绘出来的。1833 年初，达尔文随船员划小艇穿过海峡，把三个在英国生活过一年多的火地岛人送回故乡。今天乌斯怀亚就在海峡北岸，游船沿着当年的水道往返",
+    "note_en": "The channel is named after the Beagle itself, which charted it on its previous voyage. Early in 1833 Darwin rowed through it with the crew in open boats, taking home three Fuegians who had spent more than a year in England. Today Ushuaia sits on the northern shore, and tour boats follow the same route",
+    "coord_checked": "Ushuaia (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Ushuaia",
+    "fact_source": "https://en.wikipedia.org/wiki/Beagle_Channel"
+  },
+  {
+    "id": "ar-darwin-forest-uspallata",
+    "name": "Darwin's fossil forest, Paramillos de Uspallata",
+    "name_zh": "乌斯帕亚塔 · 达尔文石化森林",
+    "lat": -32.5,
+    "lon": -69.2,
+    "place_type": "original",
+    "note": "1835 年达尔文翻越安第斯山，在乌斯帕亚塔附近的高原上看见一片直立的石化树林。他从这些石头树干里读出了一段惊人的历史：这里曾是海岸，后来沉入海底，又被抬升成高山。这片化石林如今被称作“达尔文森林”，是南美洲第一处被发现的原地埋藏的古森林",
+    "note_en": "Crossing the Andes in 1835, Darwin came upon a stand of petrified trees still standing upright on the high plateau near Uspallata. In those stone trunks he read an astonishing story: this had once been a seashore, then sank to the bottom of the ocean, and was later pushed up into mountains. The site is now known as Darwin's Forest, the first fossil forest found in place in South America",
+    "coord_checked": "Darwin forest at Agua de la Zorra (Revista de la Asociación Geológica Argentina) — https://revista.geologica.org.ar/raga/article/view/1291",
+    "fact_source": "https://revista.geologica.org.ar/raga/article/view/1291"
+  },
+  {
+    "id": "ar-pampas",
+    "name": "The Pampas",
+    "name_zh": "潘帕斯草原",
+    "lat": -35.0,
+    "lon": -62.0,
+    "place_type": "original",
+    "note": "阿根廷文学是从这片一望无际的草原开始的。萨缅托在《法昆多》里把它写成既孕育自由、也孕育暴力的荒野；埃尔南德斯笔下的高乔人马丁·菲耶罗在这里流浪，最后越过边界逃进荒漠；赫德森在这里度过了童年。草原横跨好几个省，这里收的是写整片草原的段落",
+    "note_en": "Argentine literature begins on these endless grasslands. In Facundo, Sarmiento describes the pampa as a wilderness that breeds both freedom and violence. Hernández's gaucho Martín Fierro wanders across it and finally escapes over the frontier into the desert. W. H. Hudson grew up here. The pampa stretches across several provinces, and this marker gathers the passages about it as a whole",
+    "coord_checked": "Pampas (Argentina) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Pampas_(Argentina)",
+    "fact_source": "https://en.wikipedia.org/wiki/Pampas"
+  },
+  {
+    "id": "ar-hudson-birthplace",
+    "name": "Los Veinticinco Ombúes, W. H. Hudson's birthplace",
+    "name_zh": "弗洛伦西奥·瓦雷拉 · 赫德森故居",
+    "lat": -34.8563,
+    "lon": -58.2318,
+    "place_type": "pilgrimage",
+    "note": "英国自然文学作家赫德森 1841 年出生在这座草原农舍里，在阿根廷长大，1874 年才去英国。晚年他在伦敦病床上写下回忆录《远方与往昔》，开篇就是这座以门前二十五棵翁布树命名的老房子。故居现为省立赫德森历史博物馆，四周是一片自然保护区",
+    "note_en": "The naturalist and writer W. H. Hudson was born in this farmhouse on the pampas in 1841 and grew up in Argentina, only leaving for England in 1874. Years later, ill in bed in London, he wrote his memoir Far Away and Long Ago, which opens with this old house named after the twenty-five ombú trees out front. It is now a provincial museum, surrounded by a nature reserve",
+    "book_ids": [
+      "far-away-and-long-ago"
+    ],
+    "coord_checked": "Museo Histórico Provincial \"Guillermo Enrique Hudson\" (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Museo_Histórico_Provincial_\"Guillermo_Enrique_Hudson\"",
+    "fact_source": "https://en.wikipedia.org/wiki/William_Henry_Hudson"
+  },
+  {
+    "id": "ar-tres-fronteras",
+    "name": "The Paraná at the Triple Frontier, Puerto Iguazú",
+    "name_zh": "伊瓜苏港 · 三国交界处的巴拉那河",
+    "lat": -25.5925,
+    "lon": -54.5931,
+    "place_type": "original",
+    "note": "基罗加最有名的短篇《顺流而下》就发生在这一段河上：一个被毒蛇咬伤的人，划着独木舟顺巴拉那河漂去求救。伊瓜苏河在这里汇入巴拉那河，阿根廷、巴西、巴拉圭三国隔水相望，两岸正是小说里写的玄武岩峭壁和密林。基罗加在米西奥内斯的丛林边住了很多年，这片河谷是他大部分故事的背景",
+    "note_en": "Quiroga's best-known story, Drifting, takes place on this stretch of river: a man bitten by a snake paddles his canoe down the Paraná looking for help. Here the Iguazú flows into the Paraná, and Argentina, Brazil and Paraguay face each other across the water, with the basalt cliffs and dense forest of the story on both banks. Quiroga lived for years on the edge of the Misiones jungle, and this river valley is the backdrop for most of his stories",
+    "coord_checked": "Triple Frontera (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Triple_Frontera",
+    "fact_source": "https://en.wikipedia.org/wiki/Horacio_Quiroga"
+  },
+  {
+    "id": "ar-san-ignacio-mini",
+    "name": "San Ignacio Miní",
+    "name_zh": "圣伊格纳西奥 · 圣伊格纳西奥米尼耶稣会遗址",
+    "lat": -27.2553,
+    "lon": -55.5317,
+    "place_type": "original",
+    "note": "17 世纪，耶稣会传教士在这里为瓜拉尼人建起传教村；1767 年耶稣会被逐出西班牙美洲后，村子荒废，渐渐被丛林吞没。1903 年卢贡内斯受政府委托考察这些遗址，写成《耶稣会帝国》，同行的摄影师就是年轻的基罗加，他从此爱上了米西奥内斯。红砂岩教堂正立面上的雕饰至今清晰，遗址已列入世界遗产",
+    "note_en": "In the seventeenth century Jesuit missionaries built a mission town here for the Guaraní. After the Jesuits were expelled from Spanish America in 1767 it was abandoned and slowly swallowed by the jungle. In 1903 the government sent Leopoldo Lugones to study the ruins, which led to The Jesuit Empire. His photographer on the trip was the young Horacio Quiroga, who fell in love with Misiones for good. The carvings on the red sandstone church front are still crisp, and the site is a World Heritage Site",
+    "coord_checked": "San Ignacio Miní (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:San_Ignacio_Miní",
+    "fact_source": "https://en.wikipedia.org/wiki/San_Ignacio_Min%C3%AD"
+  },
+  {
+    "id": "ar-sarmiento-birthplace",
+    "name": "Casa Natal de Sarmiento, San Juan",
+    "name_zh": "圣胡安 · 萨缅托故居",
+    "lat": -31.5347,
+    "lon": -68.5292,
+    "place_type": "pilgrimage",
+    "note": "《法昆多》的作者、后来当上阿根廷总统的萨缅托 1811 年生在这座土坯房里。房子是他母亲帕乌拉靠织布一点点攒钱盖起来的，他在回忆录《外省往事》里写过院子里无花果树下母亲的织布机。1910 年，这里成为阿根廷第一处国家历史古迹",
+    "note_en": "Sarmiento, who wrote Facundo and later became president of Argentina, was born in this adobe house in 1811. His mother, Paula, built it bit by bit with the money she earned weaving, and in his memoir Recollections of a Provincial Childhood he describes her loom under the fig tree in the courtyard. In 1910 it became the first National Historic Monument in Argentina",
+    "book_ids": [
+      "facundo"
+    ],
+    "coord_checked": "Casa Natal de Domingo Faustino Sarmiento (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Casa_Natal_de_Domingo_Faustino_Sarmiento",
+    "fact_source": "https://es.wikipedia.org/wiki/Casa_Natal_de_Sarmiento"
+  },
+  {
+    "id": "ar-recoleta-cemetery",
+    "name": "Recoleta Cemetery",
+    "name_zh": "布宜诺斯艾利斯 · 雷科莱塔公墓",
+    "lat": -34.5881,
+    "lon": -58.3931,
+    "place_type": "pilgrimage",
+    "note": "布宜诺斯艾利斯最有名的墓园，《法昆多》的作者萨缅托和《马丁·菲耶罗》的作者埃尔南德斯都葬在这里。萨缅托晚年每逢亡灵节都会来园中散步，在亲人、战友和昔日政敌的墓前一一停留，还为此写过一篇文章",
+    "note_en": "This is the most famous cemetery in Buenos Aires, and both Sarmiento, the author of Facundo, and José Hernández, the author of Martín Fierro, are buried here. In his old age Sarmiento came here every year on the Day of the Dead, stopping at the graves of family, comrades and old political enemies, and he even wrote an article about one of those visits",
+    "book_ids": [
+      "facundo",
+      "martin-fierro"
+    ],
+    "coord_checked": "Recoleta Cemetery (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Recoleta_Cemetery",
+    "fact_source": "https://en.wikipedia.org/wiki/La_Recoleta_Cemetery"
+  },
+  {
+    "id": "ar-cafe-tortoni",
+    "name": "Café Tortoni",
+    "name_zh": "布宜诺斯艾利斯 · 托尔托尼咖啡馆",
+    "lat": -34.6088,
+    "lon": -58.3783,
+    "place_type": "pilgrimage",
+    "note": "托尔托尼 1858 年开业，是布宜诺斯艾利斯最老的咖啡馆。1920 年代，地下室里成立了文艺沙龙“拉佩尼亚”，博尔赫斯、女诗人阿方西娜·斯托尔妮等作家常来聚会。如今店里一张桌边还坐着博尔赫斯、斯托尔妮和探戈歌王加德尔的塑像",
+    "note_en": "Opened in 1858, the Tortoni is the oldest café in Buenos Aires. In the 1920s an arts circle called La Peña began meeting in its cellar, and writers like Jorge Luis Borges and the poet Alfonsina Storni were regulars. Today life-size figures of Borges, Storni and the tango singer Carlos Gardel still sit together at one of its tables",
+    "book_ids": [
+      "el-aleph"
+    ],
+    "coord_checked": "Café Tortoni (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Café_Tortoni",
+    "fact_source": "https://en.wikipedia.org/wiki/Caf%C3%A9_Tortoni"
+  },
+  {
+    "id": "ar-guiraldes-museum",
+    "name": "Museo Gauchesco Ricardo Güiraldes, San Antonio de Areco",
+    "name_zh": "圣安东尼奥-德阿雷科 · 吉拉尔德斯高乔博物馆",
+    "lat": -34.2376,
+    "lon": -59.4816,
+    "place_type": "pilgrimage",
+    "note": "《堂塞贡多·松布拉》是阿根廷高乔小说的巅峰，写一个少年跟着一位老高乔人在草原上赶牛，学着做一个真正的男人。老高乔人的原型是阿雷科的真实人物塞贡多·拉米雷斯，吉拉尔德斯家的庄园就在镇外，作家也葬在这里。小镇至今是阿根廷高乔传统的中心，每年十一月都会举办传统节",
+    "note_en": "Don Segundo Sombra is the high point of the Argentine gaucho novel: a boy follows an old gaucho across the pampa on cattle drives and learns how to be a man. The old gaucho was based on a real man from Areco, Segundo Ramírez, and the Güiraldes family ranch lay just outside town. Güiraldes is buried here too. The town is still the heart of Argentine gaucho tradition and holds a big festival every November",
+    "book_ids": [
+      "don-segundo-sombra"
+    ],
+    "coord_checked": "Parque criollo Ricardo Güiraldes (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Parque_criollo_Ricardo_Güiraldes",
+    "fact_source": "https://en.wikipedia.org/wiki/Don_Segundo_Sombra"
+  },
+  {
+    "id": "ar-mafalda-statue",
+    "name": "Mafalda statue, San Telmo",
+    "name_zh": "布宜诺斯艾利斯圣特尔莫 · 玛法达雕像",
+    "lat": -34.6159,
+    "lon": -58.3717,
+    "place_type": "pilgrimage",
+    "note": "玛法达是季诺笔下那个讨厌喝汤、担心世界和平的六岁小女孩，这部 1964–1973 年连载的漫画在拉丁美洲家喻户晓，译成了几十种语言。季诺创作玛法达时就住在圣特尔莫这个街角附近，2009 年这里立起了玛法达坐在长椅上的铜像，后来又添了她的朋友苏珊娜和马诺里托。人人都会坐到她旁边合个影",
+    "note_en": "Mafalda, Quino's six-year-old who hates soup and worries about world peace, ran as a comic strip from 1964 to 1973 and is known to every reader in Latin America, in dozens of languages. Quino lived near this corner of San Telmo when he created her, and in 2009 a bronze Mafalda was set on a bench here; her friends Susanita and Manolito were added later. Everyone sits down beside her for a photo",
+    "book_ids": [
+      "mafalda"
+    ],
+    "coord_checked": "Mafalda statue (San Telmo) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Mafalda_statue_(San_Telmo)",
+    "fact_source": "https://en.wikipedia.org/wiki/Mafalda"
+  },
+  {
+    "id": "ar-galeria-guemes",
+    "name": "Galería Güemes, Buenos Aires",
+    "name_zh": "布宜诺斯艾利斯 · 古埃梅斯拱廊",
+    "lat": -34.6061,
+    "lon": -58.375,
+    "place_type": "pilgrimage",
+    "note": "1929 到 1931 年，《小王子》的作者圣埃克苏佩里在阿根廷做航空邮政公司的负责人，开辟通往巴塔哥尼亚的夜间邮路，就住在这座新艺术风格的拱廊大楼里，据说《夜航》的一部分就是在这里写的。小说讲的正是一位航空公司主管守着夜里从巴塔哥尼亚、智利和巴拉圭飞回的邮机。拱廊今天仍开放，可以走进去看彩色玻璃穹顶",
+    "note_en": "From 1929 to 1931 Antoine de Saint-Exupéry, later the author of The Little Prince, ran the airmail company in Argentina, opening night mail routes down to Patagonia, and lived in this Art Nouveau arcade building, where he is said to have written part of Night Flight. The novel is about exactly that: an airline chief waiting through the night for the mail planes coming in from Patagonia, Chile and Paraguay. The arcade is still open, and you can walk in to see its stained-glass dome",
+    "book_ids": [
+      "night-flight"
+    ],
+    "coord_checked": "Galería Güemes (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Galería_Güemes",
+    "fact_source": "https://en.wikipedia.org/wiki/Galer%C3%ADa_G%C3%BCemes"
+  },
+  {
+    "id": "ar-faro-fin-del-mundo",
+    "name": "San Juan de Salvamento lighthouse, Isla de los Estados",
+    "name_zh": "埃斯塔多斯岛 · 世界尽头的灯塔",
+    "lat": -54.7323,
+    "lon": -63.8569,
+    "place_type": "prototype",
+    "book_ids": [
+      "lighthouse-at-the-end-of-the-world"
+    ],
+    "coord_checked": "Faro del Fin del Mundo (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Faro_del_Fin_del_Mundo",
+    "fact_source": "https://en.wikipedia.org/wiki/San_Juan_de_Salvamento_Lighthouse",
+    "prototype_of": "凡尔纳最后一部小说《世界尽头的灯塔》里那座灯塔的原型：火地岛以东荒无人烟的埃斯塔多斯岛上，三名守塔人迎来了一伙海盗，最后只剩一个人躲在岩洞里，眼看着海盗熄灭灯火、引船触礁。真实的圣胡安-德萨尔瓦门托灯塔 1884 年点亮，1902 年废弃；1998 年一位法国航海家按原样在原址重建了它，乌斯怀亚的海事博物馆里也有一座复制品",
+    "prototype_of_en": "The model for the lighthouse in The Lighthouse at the End of the World, Jules Verne's last novel. On the desolate Isla de los Estados, east of Tierra del Fuego, three keepers find themselves at the mercy of a gang of pirates, and only one survives, hiding in a cave as the pirates put out the light to lure ships onto the rocks. The real San Juan de Salvamento lighthouse was lit in 1884 and abandoned in 1902; in 1998 a French sailor rebuilt it on the original site, and there is a full-size replica in the maritime museum in Ushuaia"
+  },
+  {
+    "id": "ar-parque-lezama",
+    "name": "Parque Lezama, Buenos Aires",
+    "name_zh": "布宜诺斯艾利斯 · 莱萨马公园",
+    "lat": -34.6267,
+    "lon": -58.3694,
+    "place_type": "original",
+    "note": "萨瓦托的《英雄与坟墓》开头，1953 年 5 月的一个星期六，少年马丁坐在莱萨马公园的雕像旁，感觉到有人在看他——那是神秘的亚历杭德拉，他们的相遇牵出了整部小说。这部书是阿根廷几代人的必读书，莱萨马公园也因此成了布宜诺斯艾利斯文学地图上的一站。公园在圣特尔莫和博卡之间，周末有市集",
+    "note_en": "On Heroes and Tombs opens on a Saturday in May 1953, with young Martín sitting by a statue in Parque Lezama and feeling someone's eyes on him: the mysterious Alejandra, and their meeting sets the whole novel going. Generations of Argentines have grown up reading it, and the park has become a stop on the literary map of Buenos Aires. It lies between San Telmo and La Boca and has a market at weekends",
+    "book_ids": [
+      "on-heroes-and-tombs"
+    ],
+    "coord_checked": "Parque Lezama (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Parque_Lezama",
+    "fact_source": "https://en.wikipedia.org/wiki/On_Heroes_and_Tombs"
+  }
+]

@@ -66,6 +66,13 @@ C = meta.get("country")
 if not C:
     sys.exit("pack.json has no country")
 books, places, lines = load("books.json") or [], load("places.json") or [], load("lines.json") or []
+# a group of countries can share one book list (South America, 11-13): pack.json "shared_books" points at the group's
+# books.json and "books_out" at the one data file every country of the group loads; each country's pack then holds
+# only its places and lines, and a book may have places in several countries
+SHARED = meta.get("shared_books")
+BOOKS_OUT = meta.get("books_out") or f"data/{C}/books.js"
+if SHARED:
+    books = json.load(open(os.path.join(PACK, SHARED), encoding="utf-8"))
 photos = load("photos.json") or {}
 
 # ---------- existing data of the other countries ----------
@@ -80,7 +87,7 @@ others = {"books": [], "places": [], "lines": []}
 for c in countries:
     if c["code"] == C:
         continue
-    files = [os.path.join(APP, f) for f in c["data"] if os.path.exists(os.path.join(APP, f)) and not f.endswith("geo.js")]
+    files = [os.path.join(APP, f) for f in c["data"] if os.path.exists(os.path.join(APP, f)) and not f.endswith("geo.js") and f != BOOKS_OUT]
     if files:
         d = node_json(files)
         for k in others:
@@ -114,6 +121,9 @@ check_records("book", books, others["books"])
 check_records("place", places, others["places"])
 check_records("line", lines, others["lines"])
 B = {b["id"]: b for b in books}
+# places and lines may point at a book another country already has (the app's book list is shared): Dumas's
+# Three Musketeers is in the UK data, its opening scene in France
+B = {**{b["id"]: b for b in others["books"]}, **B}
 P = {p["id"]: p for p in places}
 for p in places:
     if p.get("place_type") not in TYPES:
@@ -141,7 +151,7 @@ for p in places:
         warn(f"place {p['id']}: no line points to it")
 used_books = {l["book_id"] for l in lines} | {b for p in places for b in p.get("book_ids", [])}
 for b in books:
-    if b["id"] not in used_books:
+    if b["id"] not in used_books and not SHARED:
         warn(f"book {b['id']}: no line or place refers to it")
 
 # ---------- 4-6 text, highlights, copyright ----------
@@ -431,7 +441,7 @@ for pid, ph in photos.items():
     # is (only its alt text follows the pack): Commons throttles downloads, so only new or changed photos are fetched
     was = old_photo.get(pid)
     same_page = "https://commons.wikimedia.org/wiki/" + urllib.parse.quote(ph["commons_file"].replace(" ", "_"))
-    if was and was.get("source") == same_page and was.get("width", 0) >= 800 and bool(was.get("cropped")) == bool(ph.get("crop")) \
+    if was and was.get("source") == same_page and was.get("width", 0) >= 800 and was.get("crop") == (list(ph["crop"]) if ph.get("crop") else None) \
             and os.path.exists(os.path.join(APP, was["file"])):
         photo_out[pid] = (None, {**was, "alt_en": ph["alt_en"], "alt_zh": ph["alt_zh"]})
         kept_photos += 1
@@ -471,7 +481,7 @@ for pid, ph in photos.items():
     rel = f"images/places/{pid}.jpg"
     photo_out[pid] = (im, {"file": rel, "width": im.width, "height": im.height, "author": info["author"] or "Unknown author",
                            "license": info["license"], "license_url": info["license_url"], "source": info["page"],
-                           "alt_en": ph["alt_en"], "alt_zh": ph["alt_zh"], **({"cropped": True} if ph.get("crop") else {})})
+                           "alt_en": ph["alt_en"], "alt_zh": ph["alt_zh"], **({"cropped": True, "crop": list(ph["crop"])} if ph.get("crop") else {})})
     credit_rows.append(f"| {P[pid]['name']} | {info['author'] or 'Unknown author'} | [{info['license']}]({info['license_url']}) | [Commons]({info['page']}) |")
 
 # ---------- report ----------
@@ -496,7 +506,7 @@ def js(v):
 def obj(d):
     return "{ " + ", ".join(f"{k}: {js(v)}" for k, v in d.items()) + " }"
 def write(name, header, var, recs):
-    with open(os.path.join(APP, "data", C, name), "w", encoding="utf-8") as fh:
+    with open(os.path.join(APP, name if "/" in name else os.path.join("data", C, name)), "w", encoding="utf-8") as fh:
         fh.write(header)
         fh.write(f"window.RA_DATA = window.RA_DATA || {{}};\nwindow.RA_DATA.{var} = [\n")
         fh.write(",\n".join("  " + obj(r) for r in recs))
@@ -546,7 +556,7 @@ for l in lines:
         d["text_en"] = flat(l["text_en"])
         d["highlight_en"] = [flat(h) for h in l["highlight_en"]]
     out_lines.append(d)
-write("books.js", src_note, "books", out_books)
+write(BOOKS_OUT if SHARED else "books.js", src_note.replace(f"packs/{os.path.basename(PACK)}", f"packs/{os.path.basename(PACK)}/{SHARED}") if SHARED else src_note, "books", out_books)
 write("places.js", src_note + "// Each place's admin-1 region is worked out from its coordinates by app.js.\n", "places", out_places)
 write("lines.js", src_note + "// Gutenberg quotations were checked word for word on import (other sources by hand: see the pack's IMPORT.md); status changes only through review (tools/apply_review.py).\n", "lines", out_lines)
 for pid, (im, ph) in photo_out.items():
@@ -558,4 +568,4 @@ if credit_rows:
     rows = [r for r in credit_rows if r.split(" | [Commons](")[1] not in s]
     if rows:
         open(cp, "a", encoding="utf-8").write("\n".join(rows) + "\n")
-print(f"written: data/{C}/books.js ({len(out_books)}), places.js ({len(out_places)}), lines.js ({len(out_lines)}), {len(photo_out)} photos ({kept_photos} kept as they were)")
+print(f"written: {BOOKS_OUT} ({len(out_books)}), places.js ({len(out_places)}), lines.js ({len(out_lines)}), {len(photo_out)} photos ({kept_photos} kept as they were)")

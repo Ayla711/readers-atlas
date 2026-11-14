@@ -26,7 +26,7 @@ let { lines } = sandbox.window.RA_DATA;
 const errors = [], warnings = [];
 const err = (m) => errors.push(m), warn = (m) => warnings.push(m);
 const TYPES = ["original", "prototype", "pilgrimage", "film_location"];
-const LANGS = ["en", "enm", "sco", "zh", "ja", "fr", "de", "it", "ru", "la", "cy"];
+const LANGS = ["en", "enm", "sco", "zh", "ja", "fr", "de", "it", "ru", "la", "cy", "es", "pt", "qu"];
 const ID_RE = /^[a-z0-9]+(-[a-z0-9]+)*$/;
 
 function checkIds(list, kind) {
@@ -48,6 +48,17 @@ function need(obj, fields, label) {
 
 // ---------- books ----------
 const bookIds = checkIds(books, "book");
+// places and lines may point at a book another country already has (the app's book list is shared)
+const otherBooks = [];
+for (const c of sandbox.window.RA_COUNTRIES) {
+  if (c.code === COUNTRY_CODE) continue;
+  for (const f of c.data.filter((f) => f.endsWith("books.js") && !COUNTRY.data.includes(f))) {
+    const sb = { window: {} }; vm.createContext(sb);
+    try { vm.runInContext(fs.readFileSync(path.join(root, f), "utf8"), sb, { filename: f }); } catch (e) { continue; }
+    otherBooks.push(...(((sb.window.RA_DATA || {}).books) || []));
+  }
+}
+const refBookIds = new Set([...bookIds, ...otherBooks.map((b) => b.id)]);
 for (const b of books) {
   const label = `book ${b.id}`;
   need(b, ["title", "title_zh", "author", "author_zh", "year", "orig_lang"], label);
@@ -122,7 +133,7 @@ for (const p of places) {
     need(p, ["adaptation", "scene", "scene_en", "book_ids"], label);
     if (p.adaptation) need(p.adaptation, ["title", "year", "kind"], `${label} adaptation`);
   }
-  for (const bid of p.book_ids || []) if (!bookIds.has(bid)) err(`${label}: book_ids points to missing book "${bid}"`);
+  for (const bid of p.book_ids || []) if (!refBookIds.has(bid)) err(`${label}: book_ids points to missing book "${bid}"`);
   if (p.authors !== undefined) {
     if (p.place_type !== "pilgrimage") err(`${label}: authors is only for pilgrimage places`);
     if (!Array.isArray(p.authors) || !p.authors.length) err(`${label}: authors must be a non-empty list`);
@@ -133,7 +144,7 @@ for (const p of places) {
 // ---------- lines ----------
 checkIds(lines, "line");
 const filmPlaces = new Set(places.filter((p) => p.place_type === "film_location").map((p) => p.id));
-const bookById = Object.fromEntries(books.map((b) => [b.id, b]));
+const bookById = Object.fromEntries([...otherBooks, ...books].map((b) => [b.id, b]));
 for (const l of lines) {
   const label = `line ${l.id}`;
   // kind: "scene" = our own-words summary of a book still in copyright (spec 6.3): both languages, no source check
@@ -142,7 +153,7 @@ for (const l of lines) {
   need(l, scene ? ["book_id", "location", "location_zh", "text_en", "text_zh", "status"] : ["book_id", "location", "location_zh", "text_en", "translation", "status"], label);
   if (scene && (l.text_orig || l.checked)) err(`${label}: a scene note has no original text and no source check`);
   for (const term of (scene && l.highlight_zh) || []) if (!(l.text_zh || "").includes(term)) err(`${label}: highlight_zh "${term}" not found in text_zh`);
-  if (!bookIds.has(l.book_id)) err(`${label}: book_id points to missing book "${l.book_id}"`);
+  if (!refBookIds.has(l.book_id)) err(`${label}: book_id points to missing book "${l.book_id}"`);
   if (!Array.isArray(l.place_ids) || !l.place_ids.length) err(`${label}: needs at least one place_id`);
   for (const pid of l.place_ids || []) {
     if (!placeIds.has(pid)) err(`${label}: place_ids points to missing place "${pid}"`);

@@ -1,0 +1,50 @@
+{
+  "pe-cajamarca-ransom-room": {
+    "commons_file": "File:El cuarto del Rescate, Cajamarca, Peru.jpg",
+    "alt_en": "The Ransom Room in Cajamarca",
+    "alt_zh": "卡哈马卡的赎金屋",
+    "crop": null
+  },
+  "pe-sacsayhuaman": {
+    "commons_file": "File:009 1568 Sacsayhuamán - Peru.jpg",
+    "alt_en": "The stone walls of Sacsayhuamán",
+    "alt_zh": "萨克塞瓦曼的石墙",
+    "crop": null
+  },
+  "pe-lima-plaza-mayor": {
+    "commons_file": "File:Lima 2019-10-06-4.jpg",
+    "alt_en": "The Plaza Mayor in Lima",
+    "alt_zh": "利马主广场",
+    "crop": null
+  },
+  "pe-qeswachaka": {
+    "commons_file": "File:Puente Qeswachaka.jpg",
+    "alt_en": "The Q'eswachaka rope bridge",
+    "alt_zh": "凯斯瓦查卡草绳桥",
+    "crop": null
+  },
+  "pe-machu-picchu": {
+    "commons_file": "File:Machu Picchu, Peru.jpg",
+    "alt_en": "Machu Picchu, with Huayna Picchu behind",
+    "alt_zh": "马丘比丘与后面的华纳比丘峰",
+    "crop": null
+  },
+  "pe-palma-house": {
+    "commons_file": "File:Casa Museo Ricardo Palma (1).jpg",
+    "alt_en": "The Ricardo Palma house museum",
+    "alt_zh": "里卡多·帕尔马故居博物馆",
+    "crop": null
+  },
+  "pe-vargas-llosa-house": {
+    "commons_file": "File:Casa Museo Mario Vargas Llosa.jpg",
+    "alt_en": "Mario Vargas Llosa's birthplace, Arequipa",
+    "alt_zh": "阿雷基帕的巴尔加斯·略萨故居",
+    "crop": null
+  },
+  "pe-iquitos": {
+    "commons_file": "File:Casa de Fierro en Iquitos 2018.jpg",
+    "alt_en": "The Casa de Fierro on the Plaza de Armas, Iquitos",
+    "alt_zh": "伊基托斯武器广场边的“铁屋”",
+    "crop": null
+  }
+}

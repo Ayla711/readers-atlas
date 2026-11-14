@@ -1,0 +1,11 @@
+{
+  "country": "co",
+  "country_name": "Colombia",
+  "country_name_zh": "哥伦比亚",
+  "region_scheme": "department",
+  "notes": "南美洲第一批：哥伦比亚。书目与南美其他国家共用 packs/sa/books.json",
+  "shared_books": "../sa/books.json",
+  "books_out": "data/sa/books.js",
+  "produced_by": "Claude",
+  "produced_at": "2026-11-13"
+}

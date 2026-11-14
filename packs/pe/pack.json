@@ -1,0 +1,11 @@
+{
+  "country": "pe",
+  "country_name": "Peru",
+  "country_name_zh": "秘鲁",
+  "region_scheme": "region",
+  "notes": "南美洲第一批：秘鲁。书目与南美其他国家共用 packs/sa/books.json",
+  "shared_books": "../sa/books.json",
+  "books_out": "data/sa/books.js",
+  "produced_by": "Claude",
+  "produced_at": "2026-11-14"
+}

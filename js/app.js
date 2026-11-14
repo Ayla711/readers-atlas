@@ -35,7 +35,7 @@
     for (const b of data.books) {
       const id = slug(b.author);
       if (!authors.has(id)) authors.set(id, { id, name: b.author, name_zh: b.author_zh, orig: b.author_orig || "", books: [] });
-      authors.get(id).books.push(b);
+      if (!authors.get(id).books.some((x) => x.id === b.id)) authors.get(id).books.push(b); // a book list shared by several countries (South America) arrives once per country
     }
   }
   function push(map, key, val) {
@@ -925,7 +925,9 @@
     // seen from a wide one's view would be a pile of markers); on the world page the countries are the way in.
     let allFar = true;
     for (const { cfg } of mounted.values()) {
-      const far = state.world || z + Math.log2((cfg.bounds[2] - cfg.bounds[0]) / UK_WIDTH) < MARKERS_FROM;
+      // a book or author view shows only its own places, so they all show, even when the book spans several
+      // countries and the view is a continent (South America)
+      const far = state.world || (!state.book && !state.author && z + Math.log2((cfg.bounds[2] - cfg.bounds[0]) / UK_WIDTH) < MARKERS_FROM);
       if (!far) allFar = false;
       const farNames = z + Math.log2((cfg.bounds[2] - cfg.bounds[0]) / UK_WIDTH) < 4; // region names likewise, a little earlier
       if (farNameCountries.get(cfg.code) !== farNames) {
@@ -1327,7 +1329,18 @@
     for (const c of OPEN) {
       if (mounted.has(c.code)) continue;
       try { await ensureCountry(c.code); } catch (e) { continue; }
-      if (has(kind, id)) return true;
+      if (has(kind, id)) {
+        // a book list shared by several countries (South America) arrives with the first of them, but the book's
+        // places and lines may be in any of the others: load every country that shares the list before showing it
+        if (kind === "book" || kind === "author") {
+          const shared = (c.data || []).filter((f) => !f.startsWith(`data/${c.code}/`));
+          for (const o of OPEN) {
+            if (mounted.has(o.code) || !(o.data || []).some((f) => shared.includes(f))) continue;
+            try { await ensureCountry(o.code); } catch (e) { /* shown without that country */ }
+          }
+        }
+        return true;
+      }
     }
     return has(kind, id);
   }
@@ -1530,7 +1543,7 @@
     show(h(`
       <div class="intro">
         <h2>${t.introTitle}</h2>
-        <p class="sub">${(() => { const m = mounted.get(cur().code); return m ? t.introSub(countryShort(), m.data.books.length, m.data.lines.length, m.data.places.length) : ""; })()}</p>
+        <p class="sub">${(() => { const m = mounted.get(cur().code); return m ? t.introSub(countryShort(), new Set([...m.data.lines.map((l) => l.book_id), ...m.data.places.flatMap((p) => p.book_ids || [])]).size, m.data.lines.length, m.data.places.length) : ""; })()}</p>
         <div class="play-cards">
           <button class="feature-card" data-tab="travel">
             <span class="fc-eyebrow">${t.cardTravelEyebrow}</span>
@@ -2490,7 +2503,11 @@
     syncFlags();
     buildSearchIndex();
     regionLayoutDone = false;
-    if (started) { updateMarkers(); applyView(); if (state.world || state.tab !== "map") renderIntroIfShown(); }
+    if (started) {
+      updateMarkers(); applyView(); if (state.world || state.tab !== "map") renderIntroIfShown();
+      if (state.tab === "map" && state.book) renderBook(state.book, true); // a shared book list: this country may hold more of its places
+      else if (state.tab === "map" && state.author) renderAuthor(state.author, true);
+    }
   }
   function ensureCountry(code) {
     if (mounted.has(code)) return Promise.resolve();

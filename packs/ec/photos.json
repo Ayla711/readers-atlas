@@ -1,0 +1,20 @@
+{
+  "ec-san-cristobal": {
+    "commons_file": "File:Colony of sea lions at Puerto Baquerizo Moreno, Galapagos Islands.JPG",
+    "alt_en": "Sea lions on the beach at Puerto Baquerizo Moreno",
+    "alt_zh": "巴克里索莫雷诺港海滩上的海狮",
+    "crop": null
+  },
+  "ec-floreana": {
+    "commons_file": "File:Floreana Island - panorama.jpg",
+    "alt_en": "Floreana Island",
+    "alt_zh": "弗洛雷阿纳岛",
+    "crop": null
+  },
+  "ec-chimborazo": {
+    "commons_file": "File:Chimborazo 01.jpg",
+    "alt_en": "Chimborazo",
+    "alt_zh": "钦博拉索山",
+    "crop": null
+  }
+}

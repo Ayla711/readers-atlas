@@ -1,0 +1,71 @@
+[
+  {
+    "id": "gy-wa-1",
+    "book_id": "wanderings-in-south-america",
+    "place_ids": [
+      "gy-georgetown-stabroek"
+    ],
+    "location": "First Journey",
+    "location_zh": "第一次旅行",
+    "text_en": "In the month of April 1812 I left the town of Stabroek to travel through the wilds of Demerara and Essequibo, a part of ci-devant Dutch Guiana, in South America.",
+    "highlight_en": [
+      "the town of Stabroek"
+    ],
+    "text_zh": "1812 年 4 月，我离开斯塔布鲁克镇，去游历南美洲原荷属圭亚那的德梅拉拉和埃塞奎博的荒野。",
+    "highlight_zh": [
+      "斯塔布鲁克镇"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 8159
+    },
+    "status": "draft"
+  },
+  {
+    "id": "gy-wa-2",
+    "book_id": "wanderings-in-south-america",
+    "place_ids": [
+      "gy-bartica"
+    ],
+    "location": "Third Journey",
+    "location_zh": "第三次旅行",
+    "text_en": "By the time the cayman was within two yards of me I saw he was in a state of fear and perturbation. I instantly dropped the mast, sprung up and jumped on his back, turning half round as I vaulted, so that I gained my seat with my face in a right position. I immediately seized his fore-legs, and by main force twisted them on his back; thus they served me for a bridle.",
+    "highlight_en": [
+      "jumped on his back"
+    ],
+    "text_zh": "等那条凯门鳄离我只有两码远时，我看出它又惊又慌。我立刻扔下桅杆，一跃而起，跳上了它的背，跃起时转了半圈，好让自己落座时脸朝着正确的方向。我马上抓住它的两条前腿，使出全身力气把它们扭到它背上；这样它们就成了我的缰绳。",
+    "highlight_zh": [
+      "跳上了它的背"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 8159
+    },
+    "status": "draft"
+  },
+  {
+    "id": "gy-wa-3",
+    "book_id": "wanderings-in-south-america",
+    "place_ids": [
+      "gy-bartica"
+    ],
+    "location": "Third Journey",
+    "location_zh": "第三次旅行",
+    "text_en": "One day, as we were crossing the Essequibo, I saw a large two-toed sloth on the ground upon the bank. How he had got there nobody could tell: the Indian said he had never surprised a sloth in such a situation before. He would hardly have come there to drink, for both above and below the place the branches of the trees touched the water, and afforded him an easy and safe access to it. Be this as it may, though the trees were not above twenty yards from him, he could not make his way through the sand time enough to escape before we landed.",
+    "highlight_en": [
+      "the Essequibo"
+    ],
+    "text_zh": "有一天我们正渡埃塞奎博河，我看见岸边地上有一只很大的二趾树懒。它怎么会在那儿，谁也说不清；印第安向导说他从没在这种地方撞见过树懒。它总不会是下来喝水的，因为上下游都有树枝垂到水面，它要喝水又方便又安全。不管怎样，虽然那些树离它不过二十码，它还是没能在我们上岸之前爬过沙地逃走。",
+    "highlight_zh": [
+      "埃塞奎博河"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 8159
+    },
+    "status": "draft"
+  }
+]

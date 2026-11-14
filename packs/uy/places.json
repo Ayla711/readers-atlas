@@ -1,0 +1,92 @@
+[
+  {
+    "id": "uy-cerro-montevideo",
+    "name": "Fortaleza del Cerro, Montevideo",
+    "name_zh": "蒙得维的亚 · 塞罗山要塞",
+    "lat": -34.8883,
+    "lon": -56.26,
+    "place_type": "original",
+    "note": "《紫色的土地》开头，身无分文的英国青年理查德·兰姆在蒙得维的亚找不到工作，一气之下登上海湾对面这座小山，打算在山顶的旧要塞上对整个乌拉圭发一通诅咒——结果站在城墙上一眼望去，看到的是“上帝为人造的最美的居所之一”。要塞建于 1809–1811 年，今天是军事博物馆，城墙上还摆着旧炮，能望见整个海湾和城市",
+    "note_en": "Early in The Purple Land, Richard Lamb, a penniless young Englishman who can't find work in Montevideo, climbs this hill across the bay meaning to stand on the old fort at the top and curse the whole country. Once up on the wall, he finds himself looking at 'one of the fairest habitations God has made for man'. The fort was built in 1809–1811 and is now a military museum; old cannons still line the ramparts, with the bay and the city spread out below",
+    "book_ids": [
+      "the-purple-land"
+    ],
+    "coord_checked": "Fortaleza del Cerro (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Fortaleza_del_Cerro",
+    "fact_source": "https://en.wikipedia.org/wiki/Cerro_de_Montevideo"
+  },
+  {
+    "id": "uy-ciudad-vieja",
+    "name": "Ciudad Vieja, Montevideo",
+    "name_zh": "蒙得维的亚 · 老城",
+    "lat": -34.9067,
+    "lon": -56.2083,
+    "place_type": "original",
+    "note": "1843 到 1851 年，蒙得维的亚被围困了将近九年，大仲马为它写了一本《蒙得维的亚，或新特洛伊》，“现代特洛伊”的绰号由此传开，赫德森在《紫色的土地》里也这样叫它。就在围城期间，1846 年，后来写出《马尔多罗之歌》的洛特雷阿蒙伯爵出生在这座城里。老城就是当年城墙圈起来的半岛，今天还留着城门和殖民时期的街巷",
+    "note_en": "Montevideo held out under siege for nearly nine years, from 1843 to 1851, and Alexandre Dumas wrote a book about it called Montevideo, or a New Troy. The nickname stuck, and Hudson uses it in The Purple Land. In the middle of the siege, in 1846, Isidore Ducasse, the future Comte de Lautréamont of Les Chants de Maldoror, was born here. The Ciudad Vieja is the peninsula the old walls enclosed, and its city gate and colonial streets survive",
+    "book_ids": [
+      "the-purple-land"
+    ],
+    "coord_checked": "Ciudad Vieja, Montevideo (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Ciudad_Vieja,_Montevideo",
+    "fact_source": "https://en.wikipedia.org/wiki/Great_Siege_of_Montevideo"
+  },
+  {
+    "id": "uy-maldonado",
+    "name": "Maldonado",
+    "name_zh": "马尔多纳多",
+    "lat": -34.9088,
+    "lon": -54.9589,
+    "place_type": "original",
+    "note": "1832 年小猎犬号停靠拉普拉塔河口，达尔文在这座小镇住了十周，几乎把附近所有的鸟兽爬虫都收集了一遍，还从这里骑马深入内陆。他笔下的马尔多纳多是个“极其安静、冷清的小镇”，空荡荡的大广场更显得人少。如今它就在海滨度假胜地埃斯特角旁边，当年的主广场和大教堂还在",
+    "note_en": "When the Beagle put in at the mouth of the River Plate in 1832, Darwin spent ten weeks in this little town, collecting almost every bird, beast and reptile in the district and riding out into the interior. He called Maldonado 'a most quiet, forlorn, little town' whose huge empty plaza only made it look emptier. Today it sits next door to the beach resort of Punta del Este, and the old main square and cathedral are still at its heart",
+    "book_ids": [
+      "voyage-of-the-beagle"
+    ],
+    "coord_checked": "Catedral de San Fernando de Maldonado (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Catedral_de_San_Fernando_de_Maldonado",
+    "fact_source": "https://en.wikipedia.org/wiki/Maldonado,_Uruguay"
+  },
+  {
+    "id": "uy-fray-bentos",
+    "name": "Fray Bentos",
+    "name_zh": "弗赖本托斯",
+    "lat": -33.1165,
+    "lon": -58.3131,
+    "place_type": "original",
+    "note": "博尔赫斯的《博闻强记的富内斯》就发生在乌拉圭河边的这座小镇：叙述者 1884 年在这里度夏，遇见了能说出准确时刻、后来摔下马之后什么都忘不掉的少年伊雷内奥·富内斯。小镇后来以安格罗肉类加工厂闻名，工厂旧址 2015 年列入世界遗产",
+    "note_en": "Borges set 'Funes the Memorious' in this small town on the Uruguay River. The narrator spends the summer of 1884 here and meets Ireneo Funes, a boy who always knows the exact time and who, after a fall from a horse, can no longer forget anything. The town later became famous for the Anglo meatpacking plant, now a World Heritage Site",
+    "book_ids": [
+      "ficciones"
+    ],
+    "coord_checked": "Fray Bentos (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Fray_Bentos",
+    "fact_source": "https://en.wikipedia.org/wiki/Funes_the_Memorious"
+  },
+  {
+    "id": "uy-casa-quiroga",
+    "name": "Casa Quiroga, Salto",
+    "name_zh": "萨尔托 · 基罗加故居博物馆",
+    "lat": -31.3742,
+    "lon": -57.9589,
+    "place_type": "pilgrimage",
+    "note": "“拉丁美洲短篇小说之父”奥拉西奥·基罗加 1878 年生在萨尔托，后来去了阿根廷的米西奥内斯丛林，写出那些关于爱、疯狂和死亡的故事。他 1937 年在布宜诺斯艾利斯自杀，骨灰被送回故乡，安放在一尊用角豆树树根雕成的像里，就陈列在这座故居博物馆中",
+    "note_en": "Horacio Quiroga, often called the father of the Latin American short story, was born in Salto in 1878, and later moved to the jungle of Misiones in Argentina, where he wrote his stories of love, madness and death. He took his own life in Buenos Aires in 1937, and his ashes were brought home and placed inside a sculpture carved from the root of a carob tree, which you can see in this house museum",
+    "book_ids": [
+      "cuentos-de-amor-locura-muerte"
+    ],
+    "coord_checked": "Casa Quiroga (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Casa_Quiroga",
+    "fact_source": "https://en.wikipedia.org/wiki/Horacio_Quiroga"
+  },
+  {
+    "id": "uy-cafe-brasilero",
+    "name": "Café Brasilero, Montevideo",
+    "name_zh": "蒙得维的亚 · 巴西人咖啡馆",
+    "lat": -34.9057,
+    "lon": -56.2047,
+    "place_type": "pilgrimage",
+    "note": "老城里这家 1877 年开业的咖啡馆是蒙得维的亚最老的咖啡馆之一，写《拉丁美洲被切开的血管》的爱德华多·加莱亚诺是这里几十年的常客，常在这里写作。木头窗框、大理石桌面和老照片都还是旧时的样子，进门坐下点一杯咖啡就好",
+    "note_en": "Opened in 1877, this café in the old town is one of the oldest in Montevideo, and Eduardo Galeano, author of Open Veins of Latin America, was a regular for decades and often wrote here. The wooden window frames, marble tables and old photographs are much as they were, so just walk in, sit down and order a coffee",
+    "book_ids": [
+      "open-veins-of-latin-america"
+    ],
+    "coord_checked": "Café Brasilero (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Café_Brasilero",
+    "fact_source": "https://es.wikipedia.org/wiki/Caf%C3%A9_Brasilero"
+  }
+]

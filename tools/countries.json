@@ -767,6 +767,1724 @@
         "IT-67"
       ],
       "wash": {}
+    },
+    {
+      "code": "ar",
+      "iso": "ARG",
+      "name": "Argentina",
+      "name_zh": "阿根廷",
+      "short": "Argentina",
+      "short_zh": "阿根廷",
+      "region_term": {
+        "en": "province",
+        "zh": "省"
+      },
+      "bounds": [
+        -73.6,
+        -55.1,
+        -53.6,
+        -21.8
+      ],
+      "step": 0.02,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "adm1_code",
+            "map": {
+              "ARG-1309": "AR-E",
+              "ARG-1303": "AR-A",
+              "ARG-1301": "AR-Y",
+              "ARG-1307": "AR-P",
+              "ARG-1312": "AR-N",
+              "ARG-1306": "AR-H",
+              "ARG-1308": "AR-W",
+              "ARG-1300": "AR-K",
+              "ARG-1302": "AR-F",
+              "ARG-1273": "AR-J",
+              "ARG-1275": "AR-M",
+              "ARG-1276": "AR-Q",
+              "ARG-1274": "AR-U",
+              "ARG-1297": "AR-R",
+              "ARG-1271": "AR-Z",
+              "ARG-1272": "AR-V",
+              "ARG-1295": "AR-B",
+              "ARG-5493": "AR-C",
+              "ARG-1310": "AR-S",
+              "ARG-1305": "AR-T",
+              "ARG-1304": "AR-G",
+              "ARG-1298": "AR-D",
+              "ARG-1296": "AR-L",
+              "ARG-1299": "AR-X"
+            }
+          }
+        ],
+        "names": {
+          "AR-B": [
+            "Buenos Aires",
+            "布宜诺斯艾利斯省"
+          ],
+          "AR-K": [
+            "Catamarca",
+            "卡塔马卡省"
+          ],
+          "AR-H": [
+            "Chaco",
+            "查科省"
+          ],
+          "AR-U": [
+            "Chubut",
+            "丘布特省"
+          ],
+          "AR-C": [
+            "Ciudad de Buenos Aires",
+            "布宜诺斯艾利斯市"
+          ],
+          "AR-W": [
+            "Corrientes",
+            "科连特斯省"
+          ],
+          "AR-X": [
+            "Córdoba",
+            "科尔多瓦省"
+          ],
+          "AR-E": [
+            "Entre Ríos",
+            "恩特雷里奥斯省"
+          ],
+          "AR-P": [
+            "Formosa",
+            "福莫萨省"
+          ],
+          "AR-Y": [
+            "Jujuy",
+            "胡胡伊省"
+          ],
+          "AR-L": [
+            "La Pampa",
+            "拉潘帕省"
+          ],
+          "AR-F": [
+            "La Rioja",
+            "拉里奥哈省"
+          ],
+          "AR-M": [
+            "Mendoza",
+            "门多萨省"
+          ],
+          "AR-N": [
+            "Misiones",
+            "米西奥内斯省"
+          ],
+          "AR-Q": [
+            "Neuquén",
+            "内乌肯省"
+          ],
+          "AR-R": [
+            "Río Negro",
+            "内格罗河省"
+          ],
+          "AR-A": [
+            "Salta",
+            "萨尔塔省"
+          ],
+          "AR-J": [
+            "San Juan",
+            "圣胡安省"
+          ],
+          "AR-D": [
+            "San Luis",
+            "圣路易省"
+          ],
+          "AR-Z": [
+            "Santa Cruz",
+            "圣克鲁斯省"
+          ],
+          "AR-S": [
+            "Santa Fe",
+            "圣菲省"
+          ],
+          "AR-G": [
+            "Santiago del Estero",
+            "圣地亚哥－德尔埃斯特罗省"
+          ],
+          "AR-V": [
+            "Tierra del Fuego",
+            "火地岛省"
+          ],
+          "AR-T": [
+            "Tucumán",
+            "图库曼省"
+          ]
+        }
+      },
+      "data": [
+        "data/ar/geo.js",
+        "data/sa/books.js",
+        "data/ar/places.js",
+        "data/ar/lines.js"
+      ],
+      "open": false,
+      "small_regions": [
+        "AR-C"
+      ],
+      "wash": {},
+      "continent": "south-america"
+    },
+    {
+      "code": "br",
+      "iso": "BRA",
+      "name": "Brazil",
+      "name_zh": "巴西",
+      "short": "Brazil",
+      "short_zh": "巴西",
+      "region_term": {
+        "en": "state",
+        "zh": "州"
+      },
+      "bounds": [
+        -74.0,
+        -33.8,
+        -34.8,
+        5.3
+      ],
+      "step": 0.02,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "adm1_code",
+            "map": {
+              "BRA-612": "BR-RS",
+              "BRA-670": "BR-RR",
+              "BRA-594": "BR-PA",
+              "BRA-576": "BR-AC",
+              "BRA-681": "BR-AP",
+              "BRA-600": "BR-MS",
+              "BRA-613": "BR-PR",
+              "BRA-614": "BR-SC",
+              "BRA-592": "BR-AM",
+              "BRA-595": "BR-RO",
+              "BRA-602": "BR-MT",
+              "BRA-593": "BR-MA",
+              "BRA-622": "BR-PI",
+              "BRA-621": "BR-CE",
+              "BRA-628": "BR-RN",
+              "BRA-626": "BR-PB",
+              "BRA-1313": "BR-PE",
+              "BRA-623": "BR-AL",
+              "BRA-629": "BR-SE",
+              "BRA-624": "BR-BA",
+              "BRA-625": "BR-ES",
+              "BRA-627": "BR-RJ",
+              "BRA-1311": "BR-SP",
+              "BRA-1294": "BR-GO",
+              "BRA-599": "BR-DF",
+              "BRA-601": "BR-MG",
+              "BRA-596": "BR-TO"
+            }
+          }
+        ],
+        "names": {
+          "BR-AC": [
+            "Acre",
+            "阿克里州"
+          ],
+          "BR-AL": [
+            "Alagoas",
+            "阿拉戈斯州"
+          ],
+          "BR-AP": [
+            "Amapá",
+            "阿马帕州"
+          ],
+          "BR-AM": [
+            "Amazonas",
+            "亚马孙州"
+          ],
+          "BR-BA": [
+            "Bahia",
+            "巴伊亚州"
+          ],
+          "BR-CE": [
+            "Ceará",
+            "塞阿拉州"
+          ],
+          "BR-DF": [
+            "Distrito Federal",
+            "联邦区（巴西利亚）"
+          ],
+          "BR-ES": [
+            "Espírito Santo",
+            "圣埃斯皮里图州"
+          ],
+          "BR-GO": [
+            "Goiás",
+            "戈亚斯州"
+          ],
+          "BR-MA": [
+            "Maranhão",
+            "马拉尼昂州"
+          ],
+          "BR-MT": [
+            "Mato Grosso",
+            "马托格罗索州"
+          ],
+          "BR-MS": [
+            "Mato Grosso do Sul",
+            "南马托格罗索州"
+          ],
+          "BR-MG": [
+            "Minas Gerais",
+            "米纳斯吉拉斯州"
+          ],
+          "BR-PR": [
+            "Paraná",
+            "巴拉那州"
+          ],
+          "BR-PB": [
+            "Paraíba",
+            "帕拉伊巴州"
+          ],
+          "BR-PA": [
+            "Pará",
+            "帕拉州"
+          ],
+          "BR-PE": [
+            "Pernambuco",
+            "伯南布哥州"
+          ],
+          "BR-PI": [
+            "Piauí",
+            "皮奥伊州"
+          ],
+          "BR-RN": [
+            "Rio Grande do Norte",
+            "北里奥格兰德州"
+          ],
+          "BR-RS": [
+            "Rio Grande do Sul",
+            "南里奥格兰德州"
+          ],
+          "BR-RJ": [
+            "Rio de Janeiro",
+            "里约热内卢州"
+          ],
+          "BR-RO": [
+            "Rondônia",
+            "朗多尼亚州"
+          ],
+          "BR-RR": [
+            "Roraima",
+            "罗赖马州"
+          ],
+          "BR-SC": [
+            "Santa Catarina",
+            "圣卡塔琳娜州"
+          ],
+          "BR-SE": [
+            "Sergipe",
+            "塞尔希培州"
+          ],
+          "BR-SP": [
+            "São Paulo",
+            "圣保罗州"
+          ],
+          "BR-TO": [
+            "Tocantins",
+            "托坎廷斯州"
+          ]
+        }
+      },
+      "data": [
+        "data/br/geo.js",
+        "data/sa/books.js",
+        "data/br/places.js",
+        "data/br/lines.js"
+      ],
+      "open": false,
+      "small_regions": [
+        "BR-DF"
+      ],
+      "wash": {},
+      "continent": "south-america"
+    },
+    {
+      "code": "cl",
+      "iso": "CHL",
+      "name": "Chile",
+      "name_zh": "智利",
+      "short": "Chile",
+      "short_zh": "智利",
+      "region_term": {
+        "en": "region",
+        "zh": "大区"
+      },
+      "bounds": [
+        -75.7,
+        -55.9,
+        -66.4,
+        -17.5
+      ],
+      "step": 0.02,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "adm1_code",
+            "map": {
+              "CHL-2694": "CL-AP",
+              "CHL-2693": "CL-TA",
+              "CHL-2695": "CL-AN",
+              "CHL-2696": "CL-AT",
+              "CHL-2697": "CL-CO",
+              "CHL-2698": "CL-RM",
+              "CHL-2699": "CL-VS",
+              "CHL-2705": "CL-ML",
+              "CHL-2703": "CL-LI",
+              "CHL-20010": "CL-NB",
+              "CHL-2700": "CL-AR",
+              "CHL-2702": "CL-BI",
+              "CHL-2701": "CL-LR",
+              "CHL-2704": "CL-LL",
+              "CHL-2691": "CL-AI",
+              "CHL-2692": "CL-MA"
+            }
+          }
+        ],
+        "names": {
+          "CL-AN": [
+            "Antofagasta",
+            "安托法加斯塔大区"
+          ],
+          "CL-AP": [
+            "Arica y Parinacota",
+            "阿里卡和帕里纳科塔大区"
+          ],
+          "CL-AT": [
+            "Atacama",
+            "阿塔卡马大区"
+          ],
+          "CL-AI": [
+            "Aysén",
+            "伊瓦涅斯将军艾森大区"
+          ],
+          "CL-BI": [
+            "Biobío",
+            "比奥比奥大区"
+          ],
+          "CL-CO": [
+            "Coquimbo",
+            "科金博大区"
+          ],
+          "CL-AR": [
+            "La Araucanía",
+            "阿劳卡尼亚大区"
+          ],
+          "CL-LL": [
+            "Los Lagos",
+            "湖大区"
+          ],
+          "CL-LR": [
+            "Los Ríos",
+            "河大区"
+          ],
+          "CL-MA": [
+            "Magallanes",
+            "麦哲伦-智利南极大区"
+          ],
+          "CL-ML": [
+            "Maule",
+            "马乌莱大区"
+          ],
+          "CL-LI": [
+            "O'Higgins",
+            "奥伊金斯将军解放者大区"
+          ],
+          "CL-RM": [
+            "Santiago Metropolitan",
+            "圣地亚哥首都大区"
+          ],
+          "CL-TA": [
+            "Tarapacá",
+            "塔拉帕卡大区"
+          ],
+          "CL-VS": [
+            "Valparaíso",
+            "瓦尔帕莱索大区"
+          ],
+          "CL-NB": [
+            "Ñuble",
+            "纽布莱大区"
+          ]
+        }
+      },
+      "data": [
+        "data/cl/geo.js",
+        "data/sa/books.js",
+        "data/cl/places.js",
+        "data/cl/lines.js"
+      ],
+      "open": false,
+      "small_regions": [],
+      "wash": {},
+      "continent": "south-america",
+      "drop_rings_lon_lt": -100
+    },
+    {
+      "code": "co",
+      "iso": "COL",
+      "name": "Colombia",
+      "name_zh": "哥伦比亚",
+      "short": "Colombia",
+      "short_zh": "哥伦比亚",
+      "region_term": {
+        "en": "department",
+        "zh": "省"
+      },
+      "bounds": [
+        -79.1,
+        -4.3,
+        -66.8,
+        12.5
+      ],
+      "step": 0.015,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "adm1_code",
+            "map": {
+              "COL-1406": "CO-NAR",
+              "COL-1407": "CO-PUT",
+              "COL-1415": "CO-CHO",
+              "COL-1424": "CO-GUA",
+              "COL-1426": "CO-VAU",
+              "COL-1283": "CO-AMA",
+              "COL-1318": "CO-LAG",
+              "COL-1414": "CO-CES",
+              "COL-1421": "CO-NSA",
+              "COL-1420": "CO-ARA",
+              "COL-1315": "CO-BOY",
+              "COL-1427": "CO-VID",
+              "COL-1404": "CO-CAU",
+              "COL-1408": "CO-VAC",
+              "COL-1314": "CO-ANT",
+              "COL-1316": "CO-COR",
+              "COL-1417": "CO-SUC",
+              "COL-1413": "CO-BOL",
+              "COL-1412": "CO-ATL",
+              "COL-1416": "CO-MAG",
+              "COL-1342": "CO-SAP",
+              "COL+99?": "CO-VAC",
+              "COL-1403": "CO-CAQ",
+              "COL-1405": "CO-HUI",
+              "COL-1423": "CO-GUV",
+              "COL-1397": "CO-CAL",
+              "COL-1422": "CO-CAS",
+              "COL-1425": "CO-MET",
+              "COL-1399": "CO-DC",
+              "COL-1317": "CO-SAN",
+              "COL-1402": "CO-TOL",
+              "COL-1400": "CO-QUI",
+              "COL-1398": "CO-CUN",
+              "COL-1401": "CO-RIS"
+            }
+          }
+        ],
+        "names": {
+          "CO-AMA": [
+            "Amazonas",
+            "亚马孙省"
+          ],
+          "CO-ANT": [
+            "Antioquia",
+            "安蒂奥基亚省"
+          ],
+          "CO-ARA": [
+            "Arauca",
+            "阿劳卡省"
+          ],
+          "CO-ATL": [
+            "Atlántico",
+            "大西洋省"
+          ],
+          "CO-DC": [
+            "Bogotá",
+            "波哥大首都区"
+          ],
+          "CO-BOL": [
+            "Bolívar",
+            "玻利瓦尔省"
+          ],
+          "CO-BOY": [
+            "Boyacá",
+            "博亚卡省"
+          ],
+          "CO-CAL": [
+            "Caldas",
+            "卡尔达斯省"
+          ],
+          "CO-CAQ": [
+            "Caquetá",
+            "卡克塔省"
+          ],
+          "CO-CAS": [
+            "Casanare",
+            "卡萨纳雷省"
+          ],
+          "CO-CAU": [
+            "Cauca",
+            "考卡省"
+          ],
+          "CO-CES": [
+            "Cesar",
+            "塞萨尔省"
+          ],
+          "CO-CHO": [
+            "Chocó",
+            "乔科省"
+          ],
+          "CO-CUN": [
+            "Cundinamarca",
+            "昆迪纳马卡省"
+          ],
+          "CO-COR": [
+            "Córdoba",
+            "科尔多瓦省"
+          ],
+          "CO-GUA": [
+            "Guainía",
+            "瓜伊尼亚省"
+          ],
+          "CO-GUV": [
+            "Guaviare",
+            "瓜维亚雷省"
+          ],
+          "CO-HUI": [
+            "Huila",
+            "乌伊拉省"
+          ],
+          "CO-LAG": [
+            "La Guajira",
+            "瓜希拉省"
+          ],
+          "CO-MAG": [
+            "Magdalena",
+            "马格达莱纳省"
+          ],
+          "CO-MET": [
+            "Meta",
+            "梅塔省"
+          ],
+          "CO-NAR": [
+            "Nariño",
+            "纳里尼奥省"
+          ],
+          "CO-NSA": [
+            "Norte de Santander",
+            "北桑坦德省"
+          ],
+          "CO-PUT": [
+            "Putumayo",
+            "普图马约省"
+          ],
+          "CO-QUI": [
+            "Quindío",
+            "金迪奥省"
+          ],
+          "CO-RIS": [
+            "Risaralda",
+            "里萨拉尔达省"
+          ],
+          "CO-SAP": [
+            "San Andrés y Providencia",
+            "圣安德烈斯-普罗维登西亚省"
+          ],
+          "CO-SAN": [
+            "Santander",
+            "桑坦德省"
+          ],
+          "CO-SUC": [
+            "Sucre",
+            "苏克雷省"
+          ],
+          "CO-TOL": [
+            "Tolima",
+            "托利马省"
+          ],
+          "CO-VAC": [
+            "Valle del Cauca",
+            "考卡山谷省"
+          ],
+          "CO-VAU": [
+            "Vaupés",
+            "沃佩斯省"
+          ],
+          "CO-VID": [
+            "Vichada",
+            "比查达省"
+          ]
+        }
+      },
+      "data": [
+        "data/co/geo.js",
+        "data/sa/books.js",
+        "data/co/places.js",
+        "data/co/lines.js"
+      ],
+      "open": false,
+      "small_regions": [
+        "CO-DC",
+        "CO-QUI"
+      ],
+      "wash": {},
+      "continent": "south-america"
+    },
+    {
+      "code": "pe",
+      "iso": "PER",
+      "name": "Peru",
+      "name_zh": "秘鲁",
+      "short": "Peru",
+      "short_zh": "秘鲁",
+      "region_term": {
+        "en": "region",
+        "zh": "大区"
+      },
+      "bounds": [
+        -81.4,
+        -18.4,
+        -68.6,
+        -0.0
+      ],
+      "step": 0.015,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "adm1_code",
+            "map": {
+              "PER-575": "PE-TAC",
+              "PER-572": "PE-MDD",
+              "PER-585": "PE-LOR",
+              "PER-584": "PE-AMA",
+              "PER-578": "PE-CAJ",
+              "PER-568": "PE-TUM",
+              "PER-567": "PE-PIU",
+              "PER-583": "PE-UCA",
+              "PER-573": "PE-PUN",
+              "PER-574": "PE-MOQ",
+              "PER-570": "PE-ARE",
+              "PER-589": "PE-ICA",
+              "PER-591": "PE-LIM",
+              "PER-587": "PE-LMA",
+              "PER-3505": "PE-CAL",
+              "PER-577": "PE-ANC",
+              "PER-580": "PE-LAL",
+              "PER-566": "PE-LAM",
+              "PER-571": "PE-CUS",
+              "PER-586": "PE-AYA",
+              "PER-569": "PE-APU",
+              "PER-588": "PE-HUV",
+              "PER-582": "PE-SAM",
+              "PER-579": "PE-HUC",
+              "PER-581": "PE-PAS",
+              "PER-590": "PE-JUN"
+            }
+          }
+        ],
+        "names": {
+          "PE-AMA": [
+            "Amazonas",
+            "亚马孙大区"
+          ],
+          "PE-APU": [
+            "Apurímac",
+            "阿普里马克大区"
+          ],
+          "PE-ARE": [
+            "Arequipa",
+            "阿雷基帕大区"
+          ],
+          "PE-AYA": [
+            "Ayacucho",
+            "阿亚库乔大区"
+          ],
+          "PE-CAJ": [
+            "Cajamarca",
+            "卡哈马卡大区"
+          ],
+          "PE-CAL": [
+            "Callao",
+            "卡亚俄区"
+          ],
+          "PE-CUS": [
+            "Cusco",
+            "库斯科大区"
+          ],
+          "PE-HUV": [
+            "Huancavelica",
+            "万卡韦利卡大区"
+          ],
+          "PE-HUC": [
+            "Huánuco",
+            "瓦努科大区"
+          ],
+          "PE-ICA": [
+            "Ica",
+            "伊卡大区"
+          ],
+          "PE-JUN": [
+            "Junín",
+            "胡宁大区"
+          ],
+          "PE-LAL": [
+            "La Libertad",
+            "拉利伯塔德大区"
+          ],
+          "PE-LAM": [
+            "Lambayeque",
+            "兰巴耶克大区"
+          ],
+          "PE-LIM": [
+            "Lima",
+            "利马大区"
+          ],
+          "PE-LMA": [
+            "Lima (capital)",
+            "利马首都区"
+          ],
+          "PE-LOR": [
+            "Loreto",
+            "洛雷托大区"
+          ],
+          "PE-MDD": [
+            "Madre de Dios",
+            "马德雷德迪奥斯大区"
+          ],
+          "PE-MOQ": [
+            "Moquegua",
+            "莫克瓜大区"
+          ],
+          "PE-PAS": [
+            "Pasco",
+            "帕斯科大区"
+          ],
+          "PE-PIU": [
+            "Piura",
+            "皮乌拉大区"
+          ],
+          "PE-PUN": [
+            "Puno",
+            "普诺大区"
+          ],
+          "PE-SAM": [
+            "San Martín",
+            "圣马丁大区"
+          ],
+          "PE-TAC": [
+            "Tacna",
+            "塔克纳大区"
+          ],
+          "PE-TUM": [
+            "Tumbes",
+            "通贝斯大区"
+          ],
+          "PE-UCA": [
+            "Ucayali",
+            "乌卡亚利大区"
+          ],
+          "PE-ANC": [
+            "Áncash",
+            "安卡什大区"
+          ]
+        }
+      },
+      "data": [
+        "data/pe/geo.js",
+        "data/sa/books.js",
+        "data/pe/places.js",
+        "data/pe/lines.js"
+      ],
+      "open": false,
+      "small_regions": [
+        "PE-LMA",
+        "PE-CAL"
+      ],
+      "wash": {},
+      "continent": "south-america"
+    },
+    {
+      "code": "uy",
+      "iso": "URY",
+      "name": "Uruguay",
+      "name_zh": "乌拉圭",
+      "short": "Uruguay",
+      "short_zh": "乌拉圭",
+      "region_term": {
+        "en": "department",
+        "zh": "省"
+      },
+      "bounds": [
+        -58.5,
+        -35.0,
+        -53.1,
+        -30.1
+      ],
+      "step": 0.008,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "adm1_code",
+            "map": {
+              "URY-8": "UY-PA",
+              "URY-6": "UY-AR",
+              "URY-10": "UY-SA",
+              "URY-14": "UY-RV",
+              "URY-22": "UY-RO",
+              "URY-16": "UY-TT",
+              "URY-12": "UY-CL",
+              "URY-20": "UY-MA",
+              "URY-17": "UY-CA",
+              "URY-21": "UY-MO",
+              "URY-5": "UY-SJ",
+              "URY-4": "UY-CO",
+              "URY-11": "UY-SO",
+              "URY-9": "UY-RN",
+              "URY-15": "UY-TA",
+              "URY-13": "UY-DU",
+              "URY-7": "UY-FS",
+              "URY-18": "UY-FD",
+              "URY-19": "UY-LA"
+            }
+          }
+        ],
+        "names": {
+          "UY-AR": [
+            "Artigas",
+            "阿蒂加斯省"
+          ],
+          "UY-CA": [
+            "Canelones",
+            "卡内洛内斯省"
+          ],
+          "UY-CL": [
+            "Cerro Largo",
+            "塞罗拉尔戈省"
+          ],
+          "UY-CO": [
+            "Colonia",
+            "科洛尼亚省"
+          ],
+          "UY-DU": [
+            "Durazno",
+            "杜拉斯诺省"
+          ],
+          "UY-FS": [
+            "Flores",
+            "弗洛雷斯省"
+          ],
+          "UY-FD": [
+            "Florida",
+            "佛罗里达省"
+          ],
+          "UY-LA": [
+            "Lavalleja",
+            "拉瓦耶哈省"
+          ],
+          "UY-MA": [
+            "Maldonado",
+            "马尔多纳多省"
+          ],
+          "UY-MO": [
+            "Montevideo",
+            "蒙得维的亚"
+          ],
+          "UY-PA": [
+            "Paysandú",
+            "派桑杜省"
+          ],
+          "UY-RV": [
+            "Rivera",
+            "里韦拉省"
+          ],
+          "UY-RO": [
+            "Rocha",
+            "罗恰省"
+          ],
+          "UY-RN": [
+            "Río Negro",
+            "内格罗河省"
+          ],
+          "UY-SA": [
+            "Salto",
+            "萨尔托省"
+          ],
+          "UY-SJ": [
+            "San José",
+            "圣何塞省"
+          ],
+          "UY-SO": [
+            "Soriano",
+            "索里亚诺省"
+          ],
+          "UY-TA": [
+            "Tacuarembó",
+            "塔夸伦博省"
+          ],
+          "UY-TT": [
+            "Treinta y Tres",
+            "三十三人省"
+          ]
+        }
+      },
+      "data": [
+        "data/uy/geo.js",
+        "data/sa/books.js",
+        "data/uy/places.js",
+        "data/uy/lines.js"
+      ],
+      "open": false,
+      "small_regions": [
+        "UY-MO"
+      ],
+      "wash": {},
+      "continent": "south-america"
+    },
+    {
+      "code": "ec",
+      "iso": "ECU",
+      "name": "Ecuador",
+      "name_zh": "厄瓜多尔",
+      "short": "Ecuador",
+      "short_zh": "厄瓜多尔",
+      "region_term": {
+        "en": "province",
+        "zh": "省"
+      },
+      "bounds": [
+        -92.1,
+        -5.0,
+        -75.2,
+        1.7
+      ],
+      "step": 0.01,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "adm1_code",
+            "map": {
+              "ECU-1335": "EC-E",
+              "ECU-1409": "EC-C",
+              "ECU-1411": "EC-U",
+              "ECU-1286": "EC-D",
+              "ECU-1288": "EC-Y",
+              "ECU-1285": "EC-S",
+              "ECU-1269": "EC-Z",
+              "ECU-1268": "EC-L",
+              "ECU-1267": "EC-O",
+              "ECU-1280": "EC-G",
+              "ECU-1270": "EC-W",
+              "ECU-5507": "EC-SE",
+              "ECU-1282": "EC-M",
+              "ECU-1266": "EC-A",
+              "ECU-1278": "EC-F",
+              "ECU-1289": "EC-N",
+              "ECU-1290": "EC-T",
+              "ECU-1284": "EC-H",
+              "ECU-1277": "EC-B",
+              "ECU-1410": "EC-I",
+              "ECU-1279": "EC-X",
+              "ECU-1281": "EC-R",
+              "ECU-1287": "EC-P",
+              "ECU-5508": "EC-SD"
+            }
+          }
+        ],
+        "names": {
+          "EC-A": [
+            "Azuay",
+            "阿苏艾省"
+          ],
+          "EC-B": [
+            "Bolívar",
+            "玻利瓦尔省"
+          ],
+          "EC-C": [
+            "Carchi",
+            "卡尔奇省"
+          ],
+          "EC-F": [
+            "Cañar",
+            "卡尼亚尔省"
+          ],
+          "EC-H": [
+            "Chimborazo",
+            "钦博拉索省"
+          ],
+          "EC-X": [
+            "Cotopaxi",
+            "科托帕希省"
+          ],
+          "EC-O": [
+            "El Oro",
+            "埃尔奥罗省"
+          ],
+          "EC-E": [
+            "Esmeraldas",
+            "埃斯梅拉达斯省"
+          ],
+          "EC-W": [
+            "Galápagos",
+            "加拉帕戈斯省"
+          ],
+          "EC-G": [
+            "Guayas",
+            "瓜亚斯省"
+          ],
+          "EC-I": [
+            "Imbabura",
+            "因巴布拉省"
+          ],
+          "EC-L": [
+            "Loja",
+            "洛哈省"
+          ],
+          "EC-R": [
+            "Los Ríos",
+            "洛斯里奥斯省"
+          ],
+          "EC-M": [
+            "Manabí",
+            "马纳比省"
+          ],
+          "EC-S": [
+            "Morona Santiago",
+            "莫罗纳-圣地亚哥省"
+          ],
+          "EC-N": [
+            "Napo",
+            "纳波省"
+          ],
+          "EC-D": [
+            "Orellana",
+            "奥雷亚纳省"
+          ],
+          "EC-Y": [
+            "Pastaza",
+            "帕斯塔萨省"
+          ],
+          "EC-P": [
+            "Pichincha",
+            "皮钦查省"
+          ],
+          "EC-SE": [
+            "Santa Elena",
+            "圣埃伦娜省"
+          ],
+          "EC-SD": [
+            "Santo Domingo de los Tsáchilas",
+            "圣多明各-德洛斯查奇拉斯省"
+          ],
+          "EC-U": [
+            "Sucumbíos",
+            "苏昆比奥斯省"
+          ],
+          "EC-T": [
+            "Tungurahua",
+            "通古拉瓦省"
+          ],
+          "EC-Z": [
+            "Zamora Chinchipe",
+            "萨莫拉-钦奇佩省"
+          ]
+        }
+      },
+      "data": [
+        "data/ec/geo.js",
+        "data/sa/books.js",
+        "data/ec/places.js",
+        "data/ec/lines.js"
+      ],
+      "open": false,
+      "small_regions": [],
+      "wash": {},
+      "continent": "south-america"
+    },
+    {
+      "code": "ve",
+      "iso": "VEN",
+      "name": "Venezuela",
+      "name_zh": "委内瑞拉",
+      "short": "Venezuela",
+      "short_zh": "委内瑞拉",
+      "region_term": {
+        "en": "state",
+        "zh": "州"
+      },
+      "bounds": [
+        -73.4,
+        0.6,
+        -59.8,
+        12.2
+      ],
+      "step": 0.015,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "adm1_code",
+            "map": {
+              "VEN-65": "VE-Y",
+              "VEN-39": "VE-F",
+              "VEN-38": "VE-Z",
+              "VEN-31": "VE-V",
+              "VEN-28": "VE-S",
+              "VEN-25": "VE-C",
+              "VEN-27": "VE-L",
+              "VEN-29": "VE-T",
+              "VEN-23": "VE-I",
+              "VEN-36": "VE-U",
+              "VEN-33": "VE-G",
+              "VEN-41": "VE-D",
+              "VEN-42": "VE-X",
+              "VEN-47": "VE-M",
+              "VEN-40": "VE-B",
+              "VEN-49": "VE-R",
+              "VEN-46": "VE-N",
+              "VEN-48": "VE-O",
+              "VEN-44": "VE-W",
+              "VEN+99?": "VE-W",
+              "VEN-45": "VE-J",
+              "VEN-32": "VE-H",
+              "VEN-43": "VE-A",
+              "VEN-26": "VE-E",
+              "VEN-34": "VE-K",
+              "VEN-35": "VE-P"
+            }
+          }
+        ],
+        "names": {
+          "VE-Z": [
+            "Amazonas",
+            "亚马孙州"
+          ],
+          "VE-B": [
+            "Anzoátegui",
+            "安索阿特吉州"
+          ],
+          "VE-C": [
+            "Apure",
+            "阿普雷州"
+          ],
+          "VE-D": [
+            "Aragua",
+            "阿拉瓜州"
+          ],
+          "VE-E": [
+            "Barinas",
+            "巴里纳斯州"
+          ],
+          "VE-F": [
+            "Bolívar",
+            "玻利瓦尔州"
+          ],
+          "VE-G": [
+            "Carabobo",
+            "卡拉沃沃州"
+          ],
+          "VE-H": [
+            "Cojedes",
+            "科赫德斯州"
+          ],
+          "VE-Y": [
+            "Delta Amacuro",
+            "阿马库罗三角洲州"
+          ],
+          "VE-W": [
+            "Dependencias Federales",
+            "联邦属地"
+          ],
+          "VE-A": [
+            "Distrito Capital",
+            "首都区"
+          ],
+          "VE-I": [
+            "Falcón",
+            "法尔孔州"
+          ],
+          "VE-J": [
+            "Guárico",
+            "瓜里科州"
+          ],
+          "VE-X": [
+            "La Guaira",
+            "拉瓜伊拉州"
+          ],
+          "VE-K": [
+            "Lara",
+            "拉腊州"
+          ],
+          "VE-M": [
+            "Miranda",
+            "米兰达州"
+          ],
+          "VE-N": [
+            "Monagas",
+            "莫纳加斯州"
+          ],
+          "VE-L": [
+            "Mérida",
+            "梅里达州"
+          ],
+          "VE-O": [
+            "Nueva Esparta",
+            "新埃斯帕塔州"
+          ],
+          "VE-P": [
+            "Portuguesa",
+            "波图格萨州"
+          ],
+          "VE-R": [
+            "Sucre",
+            "苏克雷州"
+          ],
+          "VE-T": [
+            "Trujillo",
+            "特鲁希略州"
+          ],
+          "VE-S": [
+            "Táchira",
+            "塔奇拉州"
+          ],
+          "VE-U": [
+            "Yaracuy",
+            "亚拉奎州"
+          ],
+          "VE-V": [
+            "Zulia",
+            "苏利亚州"
+          ]
+        }
+      },
+      "data": [
+        "data/ve/geo.js",
+        "data/sa/books.js",
+        "data/ve/places.js",
+        "data/ve/lines.js"
+      ],
+      "open": false,
+      "small_regions": [
+        "VE-A"
+      ],
+      "wash": {},
+      "continent": "south-america"
+    },
+    {
+      "code": "bo",
+      "iso": "BOL",
+      "name": "Bolivia",
+      "name_zh": "玻利维亚",
+      "short": "Bolivia",
+      "short_zh": "玻利维亚",
+      "region_term": {
+        "en": "department",
+        "zh": "省"
+      },
+      "bounds": [
+        -69.7,
+        -22.9,
+        -57.4,
+        -9.7
+      ],
+      "step": 0.015,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "adm1_code",
+            "map": {
+              "BOL-1936": "BO-L",
+              "BOL-1937": "BO-O",
+              "BOL-1939": "BO-P",
+              "BOL-1941": "BO-T",
+              "BOL-1940": "BO-S",
+              "BOL-1292": "BO-H",
+              "BOL-1938": "BO-N",
+              "BOL-1293": "BO-B",
+              "BOL-1291": "BO-C"
+            }
+          }
+        ],
+        "names": {
+          "BO-B": [
+            "Beni",
+            "贝尼省"
+          ],
+          "BO-H": [
+            "Chuquisaca",
+            "丘基萨卡省"
+          ],
+          "BO-C": [
+            "Cochabamba",
+            "科恰班巴省"
+          ],
+          "BO-L": [
+            "La Paz",
+            "拉巴斯省"
+          ],
+          "BO-O": [
+            "Oruro",
+            "奥鲁罗省"
+          ],
+          "BO-N": [
+            "Pando",
+            "潘多省"
+          ],
+          "BO-P": [
+            "Potosí",
+            "波托西省"
+          ],
+          "BO-S": [
+            "Santa Cruz",
+            "圣克鲁斯省"
+          ],
+          "BO-T": [
+            "Tarija",
+            "塔里哈省"
+          ]
+        }
+      },
+      "data": [
+        "data/bo/geo.js",
+        "data/sa/books.js",
+        "data/bo/places.js",
+        "data/bo/lines.js"
+      ],
+      "open": false,
+      "small_regions": [],
+      "wash": {},
+      "continent": "south-america"
+    },
+    {
+      "code": "py",
+      "iso": "PRY",
+      "name": "Paraguay",
+      "name_zh": "巴拉圭",
+      "short": "Paraguay",
+      "short_zh": "巴拉圭",
+      "region_term": {
+        "en": "department",
+        "zh": "省"
+      },
+      "bounds": [
+        -62.7,
+        -27.6,
+        -54.2,
+        -19.3
+      ],
+      "step": 0.01,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "adm1_code",
+            "map": {
+              "PRY-598": "PY-19",
+              "PRY-605": "PY-15",
+              "PRY-607": "PY-11",
+              "PRY-4837": "PY-ASU",
+              "PRY-616": "PY-10",
+              "PRY-620": "PY-7",
+              "PRY-610": "PY-12",
+              "PRY-609": "PY-8",
+              "PRY-597": "PY-16",
+              "PRY-603": "PY-1",
+              "PRY-615": "PY-13",
+              "PRY-619": "PY-14",
+              "PRY-606": "PY-2",
+              "PRY-617": "PY-5",
+              "PRY-604": "PY-3",
+              "PRY-618": "PY-6",
+              "PRY-611": "PY-9",
+              "PRY-608": "PY-4"
+            }
+          }
+        ],
+        "names": {
+          "PY-16": [
+            "Alto Paraguay",
+            "上巴拉圭省"
+          ],
+          "PY-10": [
+            "Alto Paraná",
+            "上巴拉那省"
+          ],
+          "PY-13": [
+            "Amambay",
+            "阿曼拜省"
+          ],
+          "PY-ASU": [
+            "Asunción",
+            "亚松森"
+          ],
+          "PY-19": [
+            "Boquerón",
+            "博克龙省"
+          ],
+          "PY-5": [
+            "Caaguazú",
+            "卡瓜苏省"
+          ],
+          "PY-6": [
+            "Caazapá",
+            "卡萨帕省"
+          ],
+          "PY-14": [
+            "Canindeyú",
+            "卡宁德尤省"
+          ],
+          "PY-11": [
+            "Central",
+            "中央省"
+          ],
+          "PY-1": [
+            "Concepción",
+            "康塞普西翁省"
+          ],
+          "PY-3": [
+            "Cordillera",
+            "科迪勒拉省"
+          ],
+          "PY-4": [
+            "Guairá",
+            "瓜伊拉省"
+          ],
+          "PY-7": [
+            "Itapúa",
+            "伊塔普阿省"
+          ],
+          "PY-8": [
+            "Misiones",
+            "米西奥内斯省"
+          ],
+          "PY-9": [
+            "Paraguarí",
+            "巴拉瓜里省"
+          ],
+          "PY-15": [
+            "Presidente Hayes",
+            "阿耶斯总统省"
+          ],
+          "PY-2": [
+            "San Pedro",
+            "圣佩德罗省"
+          ],
+          "PY-12": [
+            "Ñeembucú",
+            "涅恩布库省"
+          ]
+        }
+      },
+      "data": [
+        "data/py/geo.js",
+        "data/sa/books.js",
+        "data/py/places.js",
+        "data/py/lines.js"
+      ],
+      "open": false,
+      "small_regions": [
+        "PY-ASU"
+      ],
+      "wash": {},
+      "continent": "south-america"
+    },
+    {
+      "code": "gy",
+      "iso": "GUY",
+      "name": "Guyana",
+      "name_zh": "圭亚那",
+      "short": "Guyana",
+      "short_zh": "圭亚那",
+      "region_term": {
+        "en": "region",
+        "zh": "区"
+      },
+      "bounds": [
+        -61.4,
+        1.2,
+        -56.5,
+        8.6
+      ],
+      "step": 0.008,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "adm1_code",
+            "map": {
+              "GUY-671": "GY-MA",
+              "GUY-676": "GY-PM",
+              "GUY-672": "GY-PT",
+              "GUY-674": "GY-UD",
+              "GUY-675": "GY-BA",
+              "GUY-678": "GY-DE",
+              "GUY-680": "GY-CU",
+              "GUY-673": "GY-UT",
+              "GUY-677": "GY-EB",
+              "GUY-679": "GY-ES"
+            }
+          }
+        ],
+        "names": {
+          "GY-BA": [
+            "Barima-Waini",
+            "巴里马-瓦伊尼区"
+          ],
+          "GY-CU": [
+            "Cuyuni-Mazaruni",
+            "库尤尼-马扎鲁尼区"
+          ],
+          "GY-DE": [
+            "Demerara-Mahaica",
+            "德梅拉拉-马海卡区"
+          ],
+          "GY-EB": [
+            "East Berbice-Corentyne",
+            "东伯比斯-科兰太因区"
+          ],
+          "GY-ES": [
+            "Essequibo Islands-West Demerara",
+            "埃塞奎博群岛-西德梅拉拉区"
+          ],
+          "GY-MA": [
+            "Mahaica-Berbice",
+            "马海卡-伯比斯区"
+          ],
+          "GY-PM": [
+            "Pomeroon-Supenaam",
+            "波默伦-苏佩纳姆区"
+          ],
+          "GY-PT": [
+            "Potaro-Siparuni",
+            "波塔罗-锡帕鲁尼区"
+          ],
+          "GY-UD": [
+            "Upper Demerara-Berbice",
+            "上德梅拉拉-伯比斯区"
+          ],
+          "GY-UT": [
+            "Upper Takutu-Upper Essequibo",
+            "上塔库图-上埃塞奎博区"
+          ]
+        }
+      },
+      "data": [
+        "data/gy/geo.js",
+        "data/sa/books.js",
+        "data/gy/places.js",
+        "data/gy/lines.js"
+      ],
+      "open": false,
+      "small_regions": [],
+      "wash": {},
+      "continent": "south-america"
+    },
+    {
+      "code": "sr",
+      "iso": "SUR",
+      "name": "Suriname",
+      "name_zh": "苏里南",
+      "short": "Suriname",
+      "short_zh": "苏里南",
+      "region_term": {
+        "en": "district",
+        "zh": "区"
+      },
+      "bounds": [
+        -58.1,
+        1.8,
+        -53.9,
+        6.1
+      ],
+      "step": 0.008,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "adm1_code",
+            "map": {
+              "SUR-69": "SR-SI",
+              "SUR-37": "SR-NI",
+              "SUR-67": "SR-MA",
+              "SUR-71": "SR-CR",
+              "SUR-73": "SR-SA",
+              "SUR-74": "SR-WA",
+              "SUR-72": "SR-PM",
+              "SUR-70": "SR-CM",
+              "SUR-68": "SR-PR",
+              "SUR-66": "SR-BR"
+            }
+          }
+        ],
+        "names": {
+          "SR-BR": [
+            "Brokopondo",
+            "布罗科蓬多区"
+          ],
+          "SR-CM": [
+            "Commewijne",
+            "科默韦讷区"
+          ],
+          "SR-CR": [
+            "Coronie",
+            "科罗尼区"
+          ],
+          "SR-MA": [
+            "Marowijne",
+            "马罗韦讷区"
+          ],
+          "SR-NI": [
+            "Nickerie",
+            "尼克里区"
+          ],
+          "SR-PR": [
+            "Para",
+            "帕拉区"
+          ],
+          "SR-PM": [
+            "Paramaribo",
+            "帕拉马里博区"
+          ],
+          "SR-SA": [
+            "Saramacca",
+            "萨拉马卡区"
+          ],
+          "SR-SI": [
+            "Sipaliwini",
+            "锡帕利维尼区"
+          ],
+          "SR-WA": [
+            "Wanica",
+            "瓦尼卡区"
+          ]
+        }
+      },
+      "data": [
+        "data/sr/geo.js",
+        "data/sa/books.js",
+        "data/sr/places.js",
+        "data/sr/lines.js"
+      ],
+      "open": false,
+      "small_regions": [
+        "SR-PM"
+      ],
+      "wash": {},
+      "continent": "south-america"
     }
   ]
 }

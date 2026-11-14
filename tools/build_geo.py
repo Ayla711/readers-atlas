@@ -229,6 +229,8 @@ def build_country(cfg):
             # islands across the antimeridian (the western Aleutians) would stretch the country over the whole map
             if "drop_rings_lon_gt" in cfg and any(x > cfg["drop_rings_lon_gt"] for x, _ in poly[0]):
                 continue
+            if "drop_rings_lon_lt" in cfg and any(x < cfg["drop_rings_lon_lt"] for x, _ in poly[0]):   # Chile's Easter Island
+                continue
             for k, ring in enumerate(poly):
                 r = clean_ring(ring, step)
                 if not r:

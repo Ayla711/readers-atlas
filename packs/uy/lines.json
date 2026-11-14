@@ -1,0 +1,116 @@
+[
+  {
+    "id": "uy-pl-1",
+    "book_id": "the-purple-land",
+    "place_ids": [
+      "uy-cerro-montevideo"
+    ],
+    "location": "Chapter 1",
+    "location_zh": "第 1 章",
+    "text_en": "The expedition to the _cerro_, as it is called, proved agreeable enough. Notwithstanding the excessive heats we were just then having, many wild flowers were blooming on its slopes, which made it a perfect garden. When I reached the old ruined fort which crowns the summit, I got upon a wall and rested for half an hour, fanned by a fresh breeze from the river and greatly enjoying the prospect before me.",
+    "highlight_en": [
+      "the old ruined fort which crowns the summit"
+    ],
+    "text_zh": "去那座“塞罗”（当地人这么叫它）的这趟出游倒是很愉快。尽管那几天热得厉害，山坡上还开着许多野花，把它变成了一座完美的花园。到了山顶那座破旧的老要塞，我爬上一段墙，坐着歇了半个钟头，河上吹来清新的风，眼前的景色叫我看得十分快意。",
+    "highlight_zh": [
+      "山顶那座破旧的老要塞"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 7132
+    },
+    "status": "draft"
+  },
+  {
+    "id": "uy-pl-2",
+    "book_id": "the-purple-land",
+    "place_ids": [
+      "uy-cerro-montevideo"
+    ],
+    "location": "Chapter 1",
+    "location_zh": "第 1 章",
+    "text_en": "“Whichever way I turn,” I said, “I see before me one of the fairest habitations God has made for man: great plains smiling with everlasting spring; ancient woods; swift, beautiful rivers; ranges of blue hills stretching away to the dim horizon.",
+    "highlight_en": [
+      "one of the fairest habitations God has made for man"
+    ],
+    "text_zh": "“无论我转向哪一边，”我说，“眼前都是上帝为人造的最美的居所之一：永远是春天的大平原在微笑；古老的森林；湍急而美丽的河流；一道道蓝色的山岭一直绵延到朦胧的天边。",
+    "highlight_zh": [
+      "上帝为人造的最美的居所之一"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 7132
+    },
+    "status": "draft"
+  },
+  {
+    "id": "uy-pl-3",
+    "book_id": "the-purple-land",
+    "place_ids": [
+      "uy-ciudad-vieja"
+    ],
+    "location": "Chapter 1",
+    "location_zh": "第 1 章",
+    "text_en": "Feeling very much dispirited, and with the soles nearly worn off my boots, I sat down on a bench beside the sea, or river--for some call it one thing, some the other, and the muddied hue and freshness of the water, and the uncertain words of geographers, leave one in doubt as to whether Montevideo is situated on the shores of the Atlantic, or only near the Atlantic and on the shores of a river one hundred and fifty miles wide at its mouth. I did not trouble my head about it; I had other things that concerned me more nearly to think of. I had a quarrel with this Oriental nation, and that was more to me than the greenness or the saltness of the vast estuary that washes the dirty feet of its queen--for this modern Troy, this city of battle, murder, and sudden death, also calls itself Queen of the Plata.",
+    "highlight_en": [
+      "Montevideo",
+      "this modern Troy"
+    ],
+    "text_zh": "我心情十分沮丧，靴底都快磨穿了，便在海边——或者说河边——的一张长椅上坐下。有人说它是海，有人说它是河：那浑浊的颜色、淡水的味道，加上地理学家含糊其辞，叫人拿不准蒙得维的亚到底是坐落在大西洋岸边，还是只是靠近大西洋，坐落在一条入海口宽达一百五十英里的河边。我没去费这个脑筋，我有更切身的事要想。我跟这个东岸民族结下了仇，这比那片冲刷着女王脏脚的辽阔河口是绿是咸要紧得多——因为这座现代特洛伊，这座战乱、凶杀和横死之城，也自称拉普拉塔女王。",
+    "highlight_zh": [
+      "蒙得维的亚",
+      "这座现代特洛伊"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 7132
+    },
+    "status": "draft"
+  },
+  {
+    "id": "uy-db-1",
+    "book_id": "voyage-of-the-beagle",
+    "place_ids": [
+      "uy-maldonado"
+    ],
+    "location": "Chapter 3, Maldonado",
+    "location_zh": "第 3 章《马尔多纳多》",
+    "text_en": "MALDONADO is situated on the northern bank of the Plata, and not very far from the mouth of the estuary. It is a most quiet, forlorn, little town; built, as is universally the case in these countries, with the streets running at right angles to each other, and having in the middle a large plaza or square, which, from its size, renders the scantiness of the population more evident.",
+    "highlight_en": [
+      "MALDONADO"
+    ],
+    "text_zh": "马尔多纳多位于拉普拉塔河北岸，离河口不远。这是一座极其安静、冷清的小镇；和这些国家的所有城镇一样，街道横平竖直，中间有一个大广场，广场之大，反倒更显出人口的稀少。",
+    "highlight_zh": [
+      "马尔多纳多"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 944
+    },
+    "status": "draft"
+  },
+  {
+    "id": "uy-fic-s1",
+    "kind": "scene",
+    "book_id": "ficciones",
+    "place_ids": [
+      "uy-fray-bentos"
+    ],
+    "location": "Funes the Memorious",
+    "location_zh": "《博闻强记的富内斯》",
+    "text_en": "Riding back into Fray Bentos one stormy evening in 1884, the narrator and his cousin see a boy running along the high narrow sidewalk; his cousin calls out to ask the time, and Ireneo Funes answers at once, without looking at the sky or stopping, to the exact minute.",
+    "text_zh": "1884 年一个暴风雨将至的傍晚，叙述者和表兄骑马回弗赖本托斯，看见一个少年沿着高高的窄人行道奔跑；表兄喊着问他几点了，伊雷内奥·富内斯不看天、也不停步，张口就报出了精确到分钟的时刻。",
+    "highlight_en": [
+      "Fray Bentos"
+    ],
+    "highlight_zh": [
+      "弗赖本托斯"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Funes_the_Memorious"
+  }
+]

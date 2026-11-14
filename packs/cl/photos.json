@@ -1,0 +1,50 @@
+{
+  "cl-valparaiso-cerro-alegre": {
+    "commons_file": "File:Calle San Enrique, Cerro Alegre, Valparaíso 20201102 114.jpg",
+    "alt_en": "A street on Cerro Alegre, Valparaíso",
+    "alt_zh": "瓦尔帕莱索阿莱格雷山上的街道",
+    "crop": null
+  },
+  "cl-castro-church": {
+    "commons_file": "File:Iglesia San Francisco (de Castro).JPG",
+    "alt_en": "The Church of San Francisco in Castro",
+    "alt_zh": "卡斯特罗的圣弗朗西斯科教堂",
+    "crop": null
+  },
+  "cl-concepcion": {
+    "commons_file": "File:Plaza de la Independencia - Wikipaseo fotográfico Concepción 2019 - (290).jpg",
+    "alt_en": "Plaza de la Independencia, Concepción",
+    "alt_zh": "康塞普西翁独立广场",
+    "crop": null
+  },
+  "cl-torres-del-paine": {
+    "commons_file": "File:All torres no clouds Torres Del Paine National Park Chile.jpg",
+    "alt_en": "The three granite towers of Torres del Paine",
+    "alt_zh": "百内的三座花岗岩塔峰",
+    "crop": null
+  },
+  "cl-robinson-crusoe-island": {
+    "commons_file": "File:CL-robinson-crusoe-island.jpg",
+    "alt_en": "Robinson Crusoe Island",
+    "alt_zh": "鲁滨逊·克鲁索岛",
+    "crop": null
+  },
+  "cl-la-sebastiana": {
+    "commons_file": "File:Casa Museo La Sebastiana - Pablo Neruda, Valparaiso.jpg",
+    "alt_en": "La Sebastiana, Neruda's house in Valparaíso",
+    "alt_zh": "瓦尔帕莱索的聂鲁达故居塞巴斯蒂安娜",
+    "crop": null
+  },
+  "cl-mistral-tomb": {
+    "commons_file": "File:Entrada Tumba Gabriela Mistral (24299716431).jpg",
+    "alt_en": "The entrance to Gabriela Mistral's grave, Montegrande",
+    "alt_zh": "蒙特格兰德的米斯特拉尔墓入口",
+    "crop": null
+  },
+  "cl-chuquicamata": {
+    "commons_file": "File:Mina de Chuquicamata, Calama, Chile, 2016-02-01, DD 110-112 PAN.JPG",
+    "alt_en": "The open pit at Chuquicamata",
+    "alt_zh": "丘基卡马塔的露天矿坑",
+    "crop": null
+  }
+}

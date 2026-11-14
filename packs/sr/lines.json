@@ -1,0 +1,79 @@
+[
+  {
+    "id": "sr-oro-1",
+    "book_id": "oroonoko",
+    "place_ids": [
+      "sr-fort-zeelandia"
+    ],
+    "location": "Oroonoko",
+    "location_zh": "《奥鲁诺可》",
+    "text_en": "That certainly had his late Majesty, of sacred Memory, but seen and known what a vast and charming World he had been Master of in that Continent, he would never have parted so easily with it to the Dutch. … It affords all Things, both for Beauty and Use; 'tis there eternal Spring, always the very Months of April, May, and June; the Shades are perpetual, the Trees bearing at once all Degrees of Leaves, and Fruit, from blooming Buds to ripe Autumn",
+    "highlight_en": [
+      "eternal Spring"
+    ],
+    "text_zh": "已故的先王陛下要是曾亲眼见过、真正了解过他在那片大陆上拥有的是怎样一个辽阔而迷人的世界，他就决不会那么轻易地把它让给荷兰人……那里样样都有，既美又有用；那里是永远的春天，总是四月、五月和六月；树荫终年不断，树上同时挂着各个时节的叶子和果实，从含苞的花蕾到成熟的秋实",
+    "highlight_zh": [
+      "永远的春天"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 29854
+    },
+    "status": "draft"
+  },
+  {
+    "id": "sr-oro-2",
+    "book_id": "oroonoko",
+    "place_ids": [
+      "sr-fort-zeelandia"
+    ],
+    "location": "Oroonoko",
+    "location_zh": "《奥鲁诺可》",
+    "text_en": "he endur'd a tedious Voyage, and at last arriv'd at the Mouth of the River of Surinam, a Colony belonging to the King of England, and where they were to deliver some Part of their Slaves.",
+    "highlight_en": [
+      "the Mouth of the River of Surinam"
+    ],
+    "text_zh": "他熬过了漫长的航程，终于到了苏里南河口；那是英国国王的殖民地，他们要在那里交出一部分奴隶。",
+    "highlight_zh": [
+      "苏里南河口"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 29854
+    },
+    "status": "draft"
+  },
+  {
+    "id": "sr-can-1",
+    "book_id": "candide",
+    "place_ids": [
+      "sr-fort-zeelandia"
+    ],
+    "location": "Chapter 19, What happened to them at Surinam",
+    "location_zh": "第 19 章《他们在苏里南的遭遇》",
+    "text_orig": "Quand nous travaillons aux sucreries, et que la meule nous attrape le doigt, on nous coupe la main: quand nous voulons nous enfuir, on nous coupe la jambe: je me suis trouvé dans les deux cas. C’est à ce prix que vous mangez du sucre en Europe.",
+    "highlight_orig": [
+      "C’est à ce prix que vous mangez du sucre en Europe"
+    ],
+    "text_en": "When we work at the sugar-canes, and the mill snatches hold of a finger, they cut off the hand; and when we attempt to run away, they cut off the leg; both cases have happened to me. This is the price at which you eat sugar in Europe.",
+    "highlight_en": [
+      "the price at which you eat sugar in Europe"
+    ],
+    "text_zh": "我们在糖厂干活，石磨轧住了手指，他们就砍掉我们的手；我们想逃跑，他们就砍掉我们的腿：这两样我都碰上了。你们在欧洲吃的糖，就是这个代价。",
+    "highlight_zh": [
+      "你们在欧洲吃的糖，就是这个代价"
+    ],
+    "translation": "anonymous English translation (Project Gutenberg #19942)",
+    "source": {
+      "kind": "gutenberg",
+      "id": 4650
+    },
+    "status": "draft",
+    "translation_source": {
+      "kind": "gutenberg",
+      "id": 19942
+    }
+  }
+]

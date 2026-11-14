@@ -1,0 +1,11 @@
+{
+  "country": "ve",
+  "country_name": "Venezuela",
+  "country_name_zh": "委内瑞拉",
+  "region_scheme": "state",
+  "notes": "南美洲第一批：委内瑞拉。书目与南美其他国家共用 packs/sa/books.json",
+  "shared_books": "../sa/books.json",
+  "books_out": "data/sa/books.js",
+  "produced_by": "Claude",
+  "produced_at": "2026-11-13"
+}
