@@ -490,7 +490,7 @@
         "data/fr/places.js",
         "data/fr/lines.js"
       ],
-      "open": false,
+      "open": true,
       "small_regions": [],
       "wash": {},
       "skip_units": [
@@ -617,7 +617,7 @@
         "data/de/places.js",
         "data/de/lines.js"
       ],
-      "open": false,
+      "open": true,
       "small_regions": [
         "DE-HB",
         "DE-HH",
@@ -761,7 +761,7 @@
         "data/it/places.js",
         "data/it/lines.js"
       ],
-      "open": false,
+      "open": true,
       "small_regions": [
         "IT-23",
         "IT-67"
@@ -924,7 +924,7 @@
         "data/ar/places.js",
         "data/ar/lines.js"
       ],
-      "open": false,
+      "open": true,
       "small_regions": [
         "AR-C"
       ],
@@ -1102,7 +1102,7 @@
         "data/br/places.js",
         "data/br/lines.js"
       ],
-      "open": false,
+      "open": true,
       "small_regions": [
         "BR-DF"
       ],
@@ -1225,7 +1225,7 @@
         "data/cl/places.js",
         "data/cl/lines.js"
       ],
-      "open": false,
+      "open": true,
       "small_regions": [],
       "wash": {},
       "continent": "south-america",
@@ -1433,7 +1433,7 @@
         "data/co/places.js",
         "data/co/lines.js"
       ],
-      "open": false,
+      "open": true,
       "small_regions": [
         "CO-DC",
         "CO-QUI"
@@ -1607,7 +1607,7 @@
         "data/pe/places.js",
         "data/pe/lines.js"
       ],
-      "open": false,
+      "open": true,
       "small_regions": [
         "PE-LMA",
         "PE-CAL"
@@ -1746,7 +1746,7 @@
         "data/uy/places.js",
         "data/uy/lines.js"
       ],
-      "open": false,
+      "open": true,
       "small_regions": [
         "UY-MO"
       ],
@@ -1909,7 +1909,7 @@
         "data/ec/places.js",
         "data/ec/lines.js"
       ],
-      "open": false,
+      "open": true,
       "small_regions": [],
       "wash": {},
       "continent": "south-america"
@@ -2076,7 +2076,7 @@
         "data/ve/places.js",
         "data/ve/lines.js"
       ],
-      "open": false,
+      "open": true,
       "small_regions": [
         "VE-A"
       ],
@@ -2164,7 +2164,7 @@
         "data/bo/places.js",
         "data/bo/lines.js"
       ],
-      "open": false,
+      "open": true,
       "small_regions": [],
       "wash": {},
       "continent": "south-america"
@@ -2295,7 +2295,7 @@
         "data/py/places.js",
         "data/py/lines.js"
       ],
-      "open": false,
+      "open": true,
       "small_regions": [
         "PY-ASU"
       ],
@@ -2388,7 +2388,7 @@
         "data/gy/places.js",
         "data/gy/lines.js"
       ],
-      "open": false,
+      "open": true,
       "small_regions": [],
       "wash": {},
       "continent": "south-america"
@@ -2479,7 +2479,7 @@
         "data/sr/places.js",
         "data/sr/lines.js"
       ],
-      "open": false,
+      "open": true,
       "small_regions": [
         "SR-PM"
       ],

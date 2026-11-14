@@ -142,7 +142,7 @@ window.RA_COUNTRIES = [
    "data/fr/places.js",
    "data/fr/lines.js"
   ],
-  "open": false
+  "open": true
  },
  {
   "code": "de",
@@ -173,7 +173,7 @@ window.RA_COUNTRIES = [
    "data/de/places.js",
    "data/de/lines.js"
   ],
-  "open": false
+  "open": true
  },
  {
   "code": "it",
@@ -203,7 +203,7 @@ window.RA_COUNTRIES = [
    "data/it/places.js",
    "data/it/lines.js"
   ],
-  "open": false
+  "open": true
  },
  {
   "code": "ar",
@@ -232,7 +232,7 @@ window.RA_COUNTRIES = [
    "data/ar/places.js",
    "data/ar/lines.js"
   ],
-  "open": false
+  "open": true
  },
  {
   "code": "br",
@@ -261,7 +261,7 @@ window.RA_COUNTRIES = [
    "data/br/places.js",
    "data/br/lines.js"
   ],
-  "open": false
+  "open": true
  },
  {
   "code": "cl",
@@ -288,7 +288,7 @@ window.RA_COUNTRIES = [
    "data/cl/places.js",
    "data/cl/lines.js"
   ],
-  "open": false
+  "open": true
  },
  {
   "code": "co",
@@ -318,7 +318,7 @@ window.RA_COUNTRIES = [
    "data/co/places.js",
    "data/co/lines.js"
   ],
-  "open": false
+  "open": true
  },
  {
   "code": "pe",
@@ -348,7 +348,7 @@ window.RA_COUNTRIES = [
    "data/pe/places.js",
    "data/pe/lines.js"
   ],
-  "open": false
+  "open": true
  },
  {
   "code": "uy",
@@ -377,7 +377,7 @@ window.RA_COUNTRIES = [
    "data/uy/places.js",
    "data/uy/lines.js"
   ],
-  "open": false
+  "open": true
  },
  {
   "code": "ec",
@@ -404,7 +404,7 @@ window.RA_COUNTRIES = [
    "data/ec/places.js",
    "data/ec/lines.js"
   ],
-  "open": false
+  "open": true
  },
  {
   "code": "ve",
@@ -433,7 +433,7 @@ window.RA_COUNTRIES = [
    "data/ve/places.js",
    "data/ve/lines.js"
   ],
-  "open": false
+  "open": true
  },
  {
   "code": "bo",
@@ -460,7 +460,7 @@ window.RA_COUNTRIES = [
    "data/bo/places.js",
    "data/bo/lines.js"
   ],
-  "open": false
+  "open": true
  },
  {
   "code": "py",
@@ -489,7 +489,7 @@ window.RA_COUNTRIES = [
    "data/py/places.js",
    "data/py/lines.js"
   ],
-  "open": false
+  "open": true
  },
  {
   "code": "gy",
@@ -516,7 +516,7 @@ window.RA_COUNTRIES = [
    "data/gy/places.js",
    "data/gy/lines.js"
   ],
-  "open": false
+  "open": true
  },
  {
   "code": "sr",
@@ -545,6 +545,6 @@ window.RA_COUNTRIES = [
    "data/sr/places.js",
    "data/sr/lines.js"
   ],
-  "open": false
+  "open": true
  }
 ];

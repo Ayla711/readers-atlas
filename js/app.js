@@ -237,7 +237,17 @@
   }
   // greedy placement in screen space, biggest areas first; a name shows only if it fits inside its area
   // screen boxes of the map furniture (title block, legend, buttons, compass, credits), in map coordinates
+  // The title block, legend, zoom buttons, compass and credits, as boxes on the map. They move only when the window
+  // is resized, the panel opens or closes, or the title or language changes, so they are measured then and not
+  // on every zoom step (each measurement made the browser restyle the whole map first).
+  let chromeCache = null;
+  const dropChrome = () => { chromeCache = null; };
+  window.addEventListener("resize", dropChrome);
   function chromeBoxes() {
+    if (!chromeCache) chromeCache = measureChrome();
+    return chromeCache;
+  }
+  function measureChrome() {
     const svgR = svg.getBoundingClientRect(), out = [];
     for (const sel of [".titleblock", ".legend", ".map-controls", ".compass", ".attribution"]) {
       const e = document.querySelector(sel);
@@ -321,6 +331,31 @@
   // in place of the basemap's own national borders there (js/basemap.js OWN_AREAS)
   for (const o of window.RA_WORLD_OWN || []) el("path", { class: "land-border", d: o.land_border.map((l) => ringPath(l, false)).join("") }, gWorld);
   const regionNodes = new Map();
+  let washTimer = null;
+  // The inland-only borders (shown instead of the full outlines once the street map supplies the coast) take a
+  // few hundred milliseconds per country to work out. With every country open that froze the first seconds of the
+  // page, so they are done one country at a time while the browser is idle, or at once when the street map comes on.
+  const pendingInner = [];
+  let innerJob = null;
+  const idle = window.requestIdleCallback ? (f) => window.requestIdleCallback(f, { timeout: 4000 }) : (f) => setTimeout(f, 300);
+  function fillInnerPaths(all) {
+    innerJob = null;
+    while (pendingInner.length) {
+      const { cfg, geo, nodes } = pendingInner.shift();
+      addCounts(regionSegs, countSegments(geo.regions.map((r) => [r.id, r.outline.map((l) => [l, false])])));
+      addCounts(unitSegs, countSegments(geo.units.map((u, i) => [cfg.code + i, u.g.map((ring) => [ring, true])])));
+      for (const r of geo.regions) {
+        const [band, edges, line] = nodes.get(r.id), d = innerPath(r.outline.map((l) => [l, false]));
+        if (d) { band.setAttribute("d", d); line.setAttribute("d", d); }
+        const e = unitEdges(r.id, geo);
+        if (e) edges.setAttribute("d", e);
+      }
+      if (!all) break;
+    }
+    if (pendingInner.length) scheduleInnerPaths();
+  }
+  function scheduleInnerPaths() { if (!innerJob && pendingInner.length) innerJob = idle(() => fillInnerPaths(false)); }
+  const regionBoxes = new Map(); // region id -> [x0, y0, x1, y1] in world units
   const regionLabels = new Map();
   const allUnits = []; // every mounted country's units, for the basemap washes
   function drawCountry(cfg, geo) {
@@ -328,39 +363,44 @@
     for (const r of geo.regions) if (regionCountry.has(r.id) && regionCountry.get(r.id) !== cfg.code) console.error(`region id ${r.id} of ${cfg.code} is already used by ${regionCountry.get(r.id)}`);
     geo.regions.forEach((r, i) => { WASH.set(r.id, (cfg.wash || {})[r.id] || WASH_CYCLE[i % WASH_CYCLE.length]); regionCountry.set(r.id, cfg.code); });
     for (const id of cfg.small_regions || []) SMALL.add(id);
-    addCounts(regionSegs, countSegments(geo.regions.map((r) => [r.id, r.outline.map((l) => [l, false])])));
-    addCounts(unitSegs, countSegments(geo.units.map((u, i) => [cfg.code + i, u.g.map((ring) => [ring, true])])));
+    const innerNodes = new Map();
     for (const r of geo.regions) {
       const g = el("g", { class: "region", "data-id": r.id }, gUK);
       const wash = cssVar(WASH.get(r.id));
       regionNodes.set(r.id, g);
+      let lo0 = Infinity, la0 = Infinity, lo1 = -Infinity, la1 = -Infinity;
       for (const u of geo.units.filter((x) => x.r === r.id)) {
         el("path", { class: "unit", d: u.g.map((ring) => ringPath(ring, true)).join(""), fill: wash, stroke: wash }, g);
         addUnitLabel(u);
+        for (const ring of u.g) for (const [lo, la] of ring) { if (lo < lo0) lo0 = lo; if (lo > lo1) lo1 = lo; if (la < la0) la0 = la; if (la > la1) la1 = la; }
       }
+      if (lo0 <= lo1) { const [x0, y0] = project(lo0, la1), [x1, y1] = project(lo1, la0); regionBoxes.set(r.id, [x0, y0, x1, y1]); } // for cullRegions()
       const outline = r.outline.map((l) => ringPath(l, false)).join("");
       el("path", { class: "region-band", d: outline, stroke: darken(wash, 0.78) }, g);
       el("path", { class: "region-line", d: outline }, g);
       // inland-only versions, used when the street basemap supplies the real coastline
-      el("path", { class: "region-band inner", d: innerPath(r.outline.map((l) => [l, false])), stroke: darken(wash, 0.78) }, g);
-      el("path", { class: "unit-edges", d: unitEdges(r.id, geo) }, g);
-      el("path", { class: "region-line inner", d: innerPath(r.outline.map((l) => [l, false])) }, g);
+      // (their shapes are worked out later, see fillInnerPaths: they are only shown once the street map is on)
+      innerNodes.set(r.id, [el("path", { class: "region-band inner", stroke: darken(wash, 0.78) }, g), el("path", { class: "unit-edges" }, g), el("path", { class: "region-line inner" }, g)]);
       const [x, y] = project(...r.centroid); // provisional; layoutRegionLabels() finds the real spot
       const label = el("text", { class: "region-label", x, y }, gLabels);
       if (SMALL.has(r.id)) label.style.display = "none";
       regionLabels.set(r.id, label);
     }
     allUnits.push(...geo.units);
-    // region washes for the basemap (drawn under its water so the coast is OpenStreetMap's)
+    pendingInner.push({ cfg, geo, nodes: innerNodes });
+    scheduleInnerPaths();
+    // region washes for the basemap (drawn under its water so the coast is OpenStreetMap's); once for a run of
+    // countries arriving together, not the whole list again after each one
     if (basemap) {
-      basemap.setRegions({
+      clearTimeout(washTimer);
+      washTimer = setTimeout(() => basemap.setRegions({
         type: "FeatureCollection",
         features: allUnits.map((u) => ({
           type: "Feature",
           properties: { r: u.r, wash: cssVar(WASH.get(u.r)) },
           geometry: { type: "MultiPolygon", coordinates: u.g.map((ring) => [ring.concat([ring[0]])]) },
         })),
-      });
+      }), 200);
     }
     const outline = worldNodes.get(cfg.iso);
     if (outline) outline.style.display = "none"; // the regions stand in for the country's outline from now on
@@ -496,6 +536,7 @@
   }
   function regionAtWorld(x, y) {
     for (const mask of masks.values()) {
+      if (!mask) continue;
       const i = Math.floor((x - mask.x0) * mask.s), j = Math.floor((y - mask.y0) * mask.s);
       if (i < 0 || j < 0 || i >= mask.w || j >= mask.h) continue;
       const n = mask.data[j * mask.w + i];
@@ -540,11 +581,21 @@
     node.dataset.scale = scale;
     node.style.fontSize = (REGION_FS * scale) / view.k + "px";
   }
+  // A name's size on screen depends only on its text and scale (the font size is set against the zoom, the
+  // letter spacing is in em), so each text is measured once. With every country open there are some 400 names
+  // and getBBox on each one, at up to six sizes, on every zoom step froze the page.
+  const labelSizes = new Map();
   function measure(node, lines, scale) {
-    setLabelScale(node, scale);
-    setLabelText(node, 0, 0, lines);
-    const b = node.getBBox();
-    return [b.width * view.k, b.height * view.k];
+    const key = lines.join("\n");
+    let base = labelSizes.get(key);
+    if (!base) {
+      setLabelScale(node, 1);
+      setLabelText(node, 0, 0, lines);
+      const b = node.getBBox();
+      base = [b.width * view.k, b.height * view.k];
+      if (base[0] > 0 && base[1] > 0) labelSizes.set(key, base);
+    }
+    return [base[0] * scale, base[1] * scale];
   }
   const regionLabelBoxes = [];
   let regionLayoutTimer = null, regionLayoutDone = false;
@@ -558,14 +609,7 @@
     if (gLabels.style.display === "none") return;
     regionLayoutDone = true;
     const k = view.k, [w, h] = size(), right = w - panelOffset();
-    const svgR = svg.getBoundingClientRect();
-    const obstacles = [];
-    for (const sel of [".titleblock", ".legend", ".map-controls", ".compass", ".attribution"]) {
-      const e = document.querySelector(sel);
-      if (!e) continue;
-      const r = e.getBoundingClientRect();
-      if (r.width && r.height) obstacles.push([r.left - svgR.left - 6, r.top - svgR.top - 6, r.right - svgR.left + 6, r.bottom - svgR.top + 6]);
-    }
+    const obstacles = chromeBoxes().slice();
     for (const g of markerNodes.values()) {
       if (markerOff(g)) continue;
       const sx = view.x + k * Number(g.dataset.x), sy = view.y + k * Number(g.dataset.y);
@@ -573,9 +617,17 @@
     }
     obstacles.push(...markerLabelBoxes);
     const hit = (b, list) => list.some((o) => b[0] < o[2] && b[2] > o[0] && b[1] < o[3] && b[3] > o[1]);
-    const maskOf = (r) => masks.get(regionCountry.get(r.id)) || null;
+    // a country's mask is built the first time one of its regions on screen needs a name (it takes a moment, and
+    // with every country open most of them are never looked at in one visit)
+    const maskOf = (r) => {
+      const code = regionCountry.get(r.id);
+      if (!masks.has(code)) { const m = mounted.get(code); masks.set(code, m ? buildRegionMask(m.geo) : null); }
+      return masks.get(code) || null;
+    };
     const area = (r) => { const m = maskOf(r); return m ? m.area.get(r.id) || 0 : 0; };
-    const order = [...regions.values()].filter((r) => !SMALL.has(r.id) && !farNameCountries.get(regionCountry.get(r.id))).sort((a, b) => area(a) - area(b)); // smallest first
+    const named = [...regions.values()].filter((r) => !SMALL.has(r.id) && !farNameCountries.get(regionCountry.get(r.id)));
+    for (const r of named) if (regionCulled.get(r.id)) regionLabels.get(r.id).style.display = "none"; // off screen: no name, no work
+    const order = named.filter((r) => !regionCulled.get(r.id)).sort((a, b) => area(a) - area(b)); // smallest first
     for (const r of order) {
       const node = regionLabels.get(r.id);
       node.style.display = "";
@@ -585,6 +637,9 @@
       if (!mask) { const [x, y] = project(...r.centroid); setLabelText(node, x, y, one); continue; }
       const id = r.id;
       const cands = mask.cands.get(id) || [];
+      // a region with no spot on screen cannot get a name: skip it before any measuring
+      const onScreen = (c) => { const sx = view.x + k * c.x, sy = view.y + k * c.y; return sx > 0 && sx < right && sy > 0 && sy < h; };
+      if (!cands.some(onScreen) && !(mask.sea.get(id) || []).some(onScreen)) { node.style.display = "none"; continue; }
       const sized = {};
       const variantsAt = (scale) => sized[scale] || (sized[scale] = [one, two].filter(Boolean).map((lines) => ({ lines, scale, size: measure(node, lines, scale) })));
       let chosen = null;
@@ -643,7 +698,7 @@
       }
     }
   }
-  if (document.fonts && document.fonts.ready) document.fonts.ready.then(() => { regionLayoutDone = false; scheduleRegionLayout(); });
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(() => { labelSizes.clear(); regionLayoutDone = false; scheduleRegionLayout(); });
 
   // marker shapes in screen pixels; each marker group is counter-scaled on zoom
   function shape(type) {
@@ -853,6 +908,7 @@
 
   // all language-dependent text outside the reading panel
   function applyLanguage() {
+    dropChrome();
     const t = T();
     document.documentElement.lang = t.htmlLang;
     document.title = t.pageTitle;
@@ -902,6 +958,18 @@
   const farNameCountries = new Map(); // country code -> its region names are hidden for now
   // switched off in the legend (display), or its country still too small on screen (is-far; a search hit shows anyway)
   const markerOff = (g) => g.style.display === "none" || (g.classList.contains("is-far") && !g.classList.contains("is-hit"));
+  // Regions wholly off screen are taken out of the drawing. With every country open the map holds some 3000 outlines,
+  // and the browser otherwise works through all of them on every zoom and drag step, also the ones nowhere near the view.
+  const regionCulled = new Map();
+  function cullRegions() {
+    const [w, hgt] = size(), M = 40;
+    for (const [id, b] of regionBoxes) {
+      const off = view.x + view.k * b[2] < -M || view.x + view.k * b[0] > w + M || view.y + view.k * b[3] < -M || view.y + view.k * b[1] > hgt + M;
+      if (regionCulled.get(id) === off) continue;
+      regionCulled.set(id, off);
+      regionNodes.get(id).style.display = off ? "none" : "";
+    }
+  }
   function zCountry(z) { const b = cur().bounds; return z + Math.log2((b[2] - b[0]) / UK_WIDTH); }
   function applyView() {
     root.setAttribute("transform", `translate(${view.x},${view.y}) scale(${view.k})`);
@@ -913,7 +981,9 @@
     svg.style.setProperty("--land-o", landO.toFixed(3));
     svg.classList.toggle("is-detail", z >= 6.6);
     svg.classList.toggle("is-tiles", tiles && z >= 6.6);
+    if (tiles && z >= 6.6 && pendingInner.length) fillInnerPaths(true); // needed now
     if (basemap) { const [bw, bh] = size(); basemap.sync(view, bw, bh); }
+    cullRegions();
     for (const t of regionLabels.values()) {
       t.style.fontSize = (11.5 * (Number(t.dataset.scale) || 1)) / view.k + "px"; // small uppercase serif, as on a vintage map
       t.style.strokeWidth = 3 / view.k + "px"; // the halo must not grow with the map
@@ -1047,7 +1117,12 @@
     if (g.classList.contains("is-hit")) return 5e5 + (linesByPlace.get(g.dataset.id) || []).length;
     return (linesByPlace.get(g.dataset.id) || []).length * 10 + (places.get(g.dataset.id).city ? 5 : 0);
   }
-  function size() { const r = svg.getBoundingClientRect(); return [r.width, r.height]; }
+  // the map's size, measured once and again only when it changes: reading it after every zoom step forced the
+  // browser to restyle thousands of outlines right then, which is what made zooming and dragging stutter
+  let svgSize = null;
+  function size() { if (!svgSize) { const r = svg.getBoundingClientRect(); svgSize = [r.width, r.height]; } return svgSize; }
+  if (window.ResizeObserver) new ResizeObserver(() => { svgSize = null; }).observe(svg);
+  window.addEventListener("resize", () => { svgSize = null; });
   // the reading panel covers the right side of the map; keep fitted content clear of it
   function panelOffset() {
     if (window.innerWidth <= 900 || document.body.classList.contains("intro-running") || !panelOpen) return 0;
@@ -1145,6 +1220,7 @@
   let drag = null;
   svg.addEventListener("pointerdown", (e) => {
     if (e.button !== 0) return;
+    autoFit = null; // the reader is moving the map: leave it where they put it
     drag = { x: e.clientX, y: e.clientY, vx: view.x, vy: view.y, moved: false };
     svg.setPointerCapture(e.pointerId);
   });
@@ -1169,6 +1245,7 @@
   });
   svg.addEventListener("wheel", (e) => {
     e.preventDefault();
+    autoFit = null;
     if (Math.abs(e.deltaX) >= 2 * Math.abs(e.deltaY)) return; // a sideways swipe moves the panel, not the zoom
     const r = svg.getBoundingClientRect();
     zoomBy(Math.exp(-e.deltaY * 0.0015), e.clientX - r.left, e.clientY - r.top);
@@ -1246,6 +1323,8 @@
   function setPanel(open) {
     if (panelOpen === open) return;
     panelOpen = open;
+    dropChrome();
+    setTimeout(() => { dropChrome(); regionLayoutDone = false; if (gLabels.style.display !== "none") scheduleRegionLayout(); }, 500); // after the slide
     document.body.classList.toggle("panel-closed", !open);
     document.getElementById("panel-open").setAttribute("aria-expanded", String(open));
     regionLayoutDone = false; // the free space for region names changed
@@ -1475,6 +1554,7 @@
     return rs.size === 1 ? [...rs][0] : null;
   }
   function renderCrumbs() {
+    dropChrome(); // the title block may change size
     const t = T();
     // on the world page the title already says "The World": the line under it describes the atlas
     // instead of repeating it (as on cartogram.earth); breadcrumbs start once you zoom in
@@ -1785,7 +1865,9 @@
   function openAuthor(aid) {
     leaveWorld();
     select({ region: null, place: null, author: aid });
-    fitPlaces(authorPlaces(aid));
+    const aps = authorPlaces(aid);
+    fitPlaces(aps);
+    autoFit = { key: "a:" + aid, n: aps.length };
     showMapTab();
     syncRoute();
     renderAuthor(aid);
@@ -1804,12 +1886,24 @@
   function openBook(bid) {
     leaveWorld();
     select({ region: null, place: null, book: bid });
-    fitPlaces(bookPlaces(bid));
+    const bps = bookPlaces(bid);
+    fitPlaces(bps);
+    autoFit = { key: "b:" + bid, n: bps.length };
     showMapTab();
     syncRoute();   // select() ran while My books was still the tab, so the address still says #/reading
     renderBook(bid);
   }
+  // A book or author opened before every country has loaded (a shared link, or soon after the page opens) is fitted
+  // to the places known so far; when another country brings more of them, the map widens to take them in, as long
+  // as the reader has not moved the map in the meantime. (Mark Twain stayed on the US, without Genoa or Heidelberg.)
+  let autoFit = null;
+  function refitIfMore() {
+    if (!autoFit || autoFit.key !== (state.book ? "b:" + state.book : state.author ? "a:" + state.author : "")) return;
+    const ps = state.book ? bookPlaces(state.book) : authorPlaces(state.author);
+    if (ps.length > autoFit.n) { const key = autoFit.key; fitPlaces(ps); autoFit = { key, n: ps.length }; }
+  }
   function fitPlaces(ps) {
+    autoFit = null;
     if (ps.length) {
       const lons = ps.map((p) => p.lon), lats = ps.map((p) => p.lat);
       // never zoom in further than about a city's width
@@ -1856,14 +1950,17 @@
     const visited = [...me.visited].map((id) => places.get(id)).filter(Boolean);
     const trips = me.itinerary.map((x, i) => ({ ...x, i })).sort((a, b) => a.date.localeCompare(b.date));
     const wish = [...me.wishlist].map((id) => places.get(id)).filter(Boolean);
+    // regions covered, only for the countries the reader has been to: with 18 countries open a number for each no longer fits
+    const beenIn = [...mounted.values()].map(({ cfg, geo }) => ({ cfg, n: new Set(visited.filter((p) => p.country === cfg.code).map((p) => p.region)).size, of: geo.regions.length })).filter((x) => x.n > 0);
     show(h(`
       <h2>${t.travelTitle}</h2>
       <p class="sub">${t.storedLocal}</p>
       <div class="stat-row">
         <div><strong>${visited.length}</strong>${t.statVisited}</div>
-        ${[...mounted.values()].map(({ cfg, geo }) => `<div><strong>${new Set(visited.filter((p) => p.country === cfg.code).map((p) => p.region)).size}/${geo.regions.length}</strong>${t.statRegions(countryShort(cfg), zh() ? cfg.region_term.zh : cfg.region_term.en)}</div>`).join("")}
+        <div><strong>${beenIn.length}/${OPEN.length}</strong>${t.statCountries}</div>
         <div><strong>${trips.length}</strong>${t.statStops}</div>
       </div>
+      ${beenIn.length ? `<div class="stat-row stat-countries">${beenIn.map(({ cfg, n, of }) => `<div><strong>${n}/${of}</strong>${t.statRegions(countryShort(cfg), zh() ? cfg.region_term.zh : cfg.region_term.en)}</div>`).join("")}</div>` : ""}
       <h3>${t.trip}</h3>
       <p class="list-sub">${t.tripSub}</p>
       ${trips.length ? `<ul class="trip-list">${trips.map((x) => {
@@ -2023,6 +2120,9 @@
   // ---------- itinerary dialog ----------
   const dialog = document.getElementById("trip-dialog");
   const form = document.getElementById("trip-form");
+  // Cancel is a plain button: as the form's first submit button it used to catch Enter, so pressing Enter in the
+  // note field threw the planned visit away instead of saving it
+  document.getElementById("trip-cancel").addEventListener("click", () => dialog.close("cancel"));
   let tripPlace = null;
   function openTripDialog(pid) {
     tripPlace = pid;
@@ -2495,8 +2595,6 @@
     indexCountry(geo, data);
     assignRegions(data.places, geo);
     drawCountry(cfg, geo);
-    const mask = buildRegionMask(geo);
-    if (mask) masks.set(cfg.code, mask);
     addMarkers(data.places);
     farCountries.delete(cfg.code); farNameCountries.delete(cfg.code); // the next applyView decides for the new markers and names
     mounted.set(cfg.code, { cfg, geo, data });
@@ -2505,8 +2603,9 @@
     regionLayoutDone = false;
     if (started) {
       updateMarkers(); applyView(); if (state.world || state.tab !== "map") renderIntroIfShown();
-      if (state.tab === "map" && state.book) renderBook(state.book, true); // a shared book list: this country may hold more of its places
-      else if (state.tab === "map" && state.author) renderAuthor(state.author, true);
+      if (state.tab === "travel") renderTravel(true); // its places and counts now include this country
+      else if (state.tab === "map" && state.book) { renderBook(state.book, true); refitIfMore(); } // a shared book list: this country may hold more of its places
+      else if (state.tab === "map" && state.author) { renderAuthor(state.author, true); refitIfMore(); }
     }
   }
   function ensureCountry(code) {
