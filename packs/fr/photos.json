@@ -1,0 +1,317 @@
+{
+  "fr-saumur": {
+    "commons_file": "File:Panorama_of_Saumur.JPG",
+    "alt_en": "Saumur across the Loire, with the château above the town",
+    "alt_zh": "从卢瓦尔河对岸望索米尔，城堡高踞城镇上方",
+    "crop": null
+  },
+  "fr-illiers-combray": {
+    "commons_file": "File:Illiers-Combray.jpg",
+    "alt_en": "A street in Illiers-Combray with Saint-Jacques Church beyond",
+    "alt_zh": "伊利耶-贡布雷的街道与远处的圣雅克教堂",
+    "crop": null
+  },
+  "fr-illiers-church": {
+    "commons_file": "File:Illiers-Combray_-_Église_Saint-Jacques_-_22.jpg",
+    "alt_en": "Saint-Jacques Church in Illiers-Combray",
+    "alt_zh": "伊利耶-贡布雷的圣雅克教堂",
+    "crop": null
+  },
+  "fr-besancon-citadel": {
+    "commons_file": "File:Aerial_image_of_the_Citadel_of_Besançon_(view_from_the_southwest).jpg",
+    "alt_en": "Aerial view of the Citadel of Besançon",
+    "alt_zh": "贝桑松城堡鸟瞰",
+    "crop": null
+  },
+  "fr-rouen": {
+    "commons_file": "File:Rouen_(37903223574).jpg",
+    "alt_en": "View over Rouen and the Seine",
+    "alt_zh": "鲁昂与塞纳河景观",
+    "crop": null
+  },
+  "fr-ry-yonville": {
+    "commons_file": "File:2012--DSC_0518-Eglise-de-Ry.jpg",
+    "alt_en": "The church in Ry",
+    "alt_zh": "里村教堂",
+    "crop": [
+      0,
+      0.46,
+      1,
+      0.88
+    ]
+  },
+  "fr-notre-dame": {
+    "commons_file": "File:Notre-Dame_de_Paris,_4_October_2017.jpg",
+    "alt_en": "Notre-Dame Cathedral in Paris in 2017",
+    "alt_zh": "2017年的巴黎圣母院",
+    "crop": null
+  },
+  "fr-place-de-greve": {
+    "commons_file": "File:Mairie_Paris_Luc_Viatour.jpg",
+    "alt_en": "Paris City Hall and its forecourt, the former Place de Grève",
+    "alt_zh": "巴黎市政厅及前方原格雷沃广场",
+    "crop": null
+  },
+  "fr-devils-pool": {
+    "commons_file": "File:Mers-sur-Indre Mare au diable 2.jpg",
+    "alt_en": "The Mare au Diable in the Chanteloube woods",
+    "alt_zh": "尚特卢布林中的魔沼",
+    "crop": [
+      0,
+      0.42,
+      1,
+      0.89
+    ]
+  },
+  "fr-digne": {
+    "commons_file": "File:Digne_les_bains_-_vue_est.jpg",
+    "alt_en": "Digne-les-Bains seen towards the east",
+    "alt_zh": "向东望迪涅莱班",
+    "crop": null
+  },
+  "fr-ajaccio": {
+    "commons_file": "File:Port_Tino_Rossi_-_Ajaccio_(15148706455).jpg",
+    "alt_en": "Port Tino Rossi in Ajaccio",
+    "alt_zh": "阿雅克肖的蒂诺·罗西港",
+    "crop": null
+  },
+  "fr-saint-malo": {
+    "commons_file": "File:Saintmalo.jpg",
+    "alt_en": "The walls of Saint-Malo at low tide",
+    "alt_zh": "退潮时的圣马洛城墙",
+    "crop": null
+  },
+  "fr-carcassonne": {
+    "commons_file": "File:1_carcassonne_aerial_2016.jpg",
+    "alt_en": "Aerial view of the fortified Cité de Carcassonne",
+    "alt_zh": "卡尔卡松城塞鸟瞰",
+    "crop": null
+  },
+  "fr-avignon-palace": {
+    "commons_file": "File:Avignon_Palais_des_Papes_2013.jpg",
+    "alt_en": "Palais des Papes in Avignon",
+    "alt_zh": "阿维尼翁教皇宫",
+    "crop": null
+  },
+  "fr-nimes-arena": {
+    "commons_file": "File:Arenes_de_Nimes_Alt_1.jpg",
+    "alt_en": "The Roman amphitheatre in Nîmes",
+    "alt_zh": "尼姆的罗马竞技场",
+    "crop": null
+  },
+  "fr-le-mans-cathedral": {
+    "commons_file": "File:Le_Mans_-_Cathedrale_St_Julien_ext_02.jpg",
+    "alt_en": "Saint-Julien Cathedral in Le Mans from Place des Jacobins",
+    "alt_zh": "从雅各宾广场望勒芒圣朱利安大教堂",
+    "crop": null
+  },
+  "fr-florac": {
+    "commons_file": "File:Chateau_et_clocher_Florac.JPG",
+    "alt_en": "The castle and church tower in Florac",
+    "alt_zh": "弗洛拉克的城堡与教堂钟楼",
+    "crop": null
+  },
+  "fr-le-monastier": {
+    "commons_file": "File:Le_Monastier_vu_du_Mont2.JPG",
+    "alt_en": "View of Le Monastier-sur-Gazeille",
+    "alt_zh": "加泽耶河畔勒莫纳斯捷全景",
+    "crop": null
+  },
+  "fr-stendhal-museum": {
+    "commons_file": "File:Treille_de_Stendhal.jpg",
+    "alt_en": "The vine-covered terrace at Appartement Gagnon in Grenoble",
+    "alt_zh": "格勒诺布尔加尼翁住宅的葡萄藤露台",
+    "crop": null
+  },
+  "fr-proust-house": {
+    "commons_file": "File:Maison_de_Tante_Léonie_à_Illiers-Combray_(1).jpg",
+    "alt_en": "The Maison de Tante Léonie in Illiers-Combray",
+    "alt_zh": "伊利耶-贡布雷的莱奥妮姑妈之家",
+    "crop": null
+  },
+  "fr-flaubert-croisset": {
+    "commons_file": "File:Pavillon_Flaubert_Croisset_Canteleu_005b.jpg",
+    "alt_en": "The surviving Flaubert pavilion at Croisset",
+    "alt_zh": "克鲁瓦塞遗存的福楼拜亭",
+    "crop": [
+      0,
+      0.24,
+      1,
+      0.66
+    ]
+  },
+  "fr-hugo-house": {
+    "commons_file": "File:OutsideVictorHugo.jpg",
+    "alt_en": "Exterior of the Maison de Victor Hugo in Paris",
+    "alt_zh": "巴黎雨果故居外观",
+    "crop": null
+  },
+  "fr-balzac-sache": {
+    "commons_file": "File:Saché (37) Château - Extérieur - 01.jpg",
+    "alt_en": "Exterior of the Château de Saché, home of the Balzac Museum",
+    "alt_zh": "设有巴尔扎克博物馆的萨谢城堡外观",
+    "crop": null
+  },
+  "fr-sand-nohant": {
+    "commons_file": "File:Nohant-Maison de George Sand-20120430.jpg",
+    "alt_en": "George Sand’s house at Nohant",
+    "alt_zh": "乔治·桑在诺昂的故居",
+    "crop": null
+  },
+  "fr-rue-tournefort": {
+    "commons_file": "File:PA180081_Paris_V_rue_Tournefort_reductwk.JPG",
+    "alt_en": "Rue Tournefort in Paris, formerly Rue Neuve-Sainte-Geneviève",
+    "alt_zh": "巴黎图尔讷福街，旧名新圣热纳维埃芙街",
+    "crop": null
+  },
+  "fr-pere-lachaise": {
+    "commons_file": "File:Pere_Lachaise_Chemin_Errazu.jpg",
+    "alt_en": "Chemin Errazu in Père Lachaise Cemetery, Paris",
+    "alt_zh": "巴黎拉雪兹神父公墓的埃拉苏小径",
+    "crop": null
+  },
+  "fr-rue-de-la-michodiere": {
+    "commons_file": "File:P1190898_Paris_II_rue_de_la_Michodière_rwk.jpg",
+    "alt_en": "Rue de la Michodière in Paris",
+    "alt_zh": "巴黎米绍迪耶尔街",
+    "crop": null
+  },
+  "fr-place-du-carrousel": {
+    "commons_file": "File:Place_du_Carrousel,_Paris_15_June_2014.jpg",
+    "alt_en": "Place du Carrousel in Paris in June 2014",
+    "alt_zh": "2014年6月的巴黎卡鲁塞尔广场",
+    "crop": null
+  },
+  "fr-luxembourg-gardens": {
+    "commons_file": "File:LuxembourgMontparnasse.JPG",
+    "alt_en": "Luxembourg Gardens and the Montparnasse skyline in Paris",
+    "alt_zh": "巴黎卢森堡公园与远处蒙帕纳斯的城市天际线",
+    "crop": null
+  },
+  "fr-marseille-old-port": {
+    "commons_file": "File:Marseille_Old_Port.jpg",
+    "alt_en": "Panoramic view of the Old Port of Marseille",
+    "alt_zh": "马赛老港全景",
+    "crop": null
+  },
+  "fr-chateau-if": {
+    "commons_file": "File:Chateau_d'If_view.jpg",
+    "alt_en": "The Château d’If on its island off Marseille",
+    "alt_zh": "马赛近海岛上的伊夫堡",
+    "crop": null
+  },
+  "fr-daudet-mill": {
+    "commons_file": "File:Fontvieille_20150725_20.jpg",
+    "alt_en": "The Saint-Pierre windmill, known as Daudet’s mill, in Fontvieille",
+    "alt_zh": "方特维耶的圣皮埃尔磨坊，又称都德磨坊",
+    "crop": null
+  },
+  "fr-alsace": {
+    "commons_file": "File:Pano.cernay.JPG",
+    "alt_en": "Cernay and the Alsace plain seen from the Vosges; a regional landscape, not the school in The Last Lesson",
+    "alt_zh": "从孚日山望塞尔奈与阿尔萨斯平原；这是地域风景，不是《最后一课》的学校",
+    "crop": null
+  },
+  "fr-verne-house": {
+    "commons_file": "File:1086_-_Musée_Jules_Verne_-_Amiens.jpg",
+    "alt_en": "The Maison de Jules Verne museum in Amiens",
+    "alt_zh": "亚眠凡尔纳故居博物馆",
+    "crop": null
+  },
+  "fr-etretat-guillette": {
+    "commons_file": "File:G_de_Maupassant_à_La_Guillette_en_1888.jpg",
+    "alt_en": "Guy de Maupassant with friends at La Guillette in July 1888; historical photograph",
+    "alt_zh": "1888年7月，莫泊桑与友人在吉耶特别墅；历史照片",
+    "crop": null
+  },
+  "fr-cabourg-grand-hotel": {
+    "commons_file": "File:CabourgHotel.jpg",
+    "alt_en": "The Grand Hôtel in Cabourg, associated with Marcel Proust",
+    "alt_zh": "卡堡与马塞尔·普鲁斯特有关的大饭店",
+    "crop": null
+  },
+  "fr-le-havre": {
+    "commons_file": "File:Panorama_of_Le_Havre,_September_2019.jpg",
+    "alt_en": "Panorama of Le Havre in September 2019",
+    "alt_zh": "2019年9月的勒阿弗尔全景",
+    "crop": null
+  },
+  "fr-nantes": {
+    "commons_file": "File:Panorama_depuis_Butte_Sainte-Anne.jpg",
+    "alt_en": "Nantes viewed from the Butte Sainte-Anne",
+    "alt_zh": "从圣安娜山丘眺望南特",
+    "crop": null
+  },
+  "fr-bordeaux": {
+    "commons_file": "File:Bordeaux_place_de_la_bourse_with_tram.JPG",
+    "alt_en": "Place de la Bourse in Bordeaux with a tram and the reflecting pool",
+    "alt_zh": "波尔多交易所广场、有轨电车与水镜",
+    "crop": null
+  },
+  "fr-dijon-palace": {
+    "commons_file": "File:Dijon_-_Palais_des_Ducs_et_des_États_de_Bourgogne_-_01.jpg",
+    "alt_en": "The Palace of the Dukes and Estates of Burgundy on Place de la Libération in Dijon",
+    "alt_zh": "第戎解放广场上的勃艮第公爵与议会宫",
+    "crop": null
+  },
+  "fr-palais-garnier": {
+    "commons_file": "File:Palais Garnier, Paris.jpg",
+    "alt_en": "The Palais Garnier, Paris",
+    "alt_zh": "巴黎加尼叶歌剧院",
+    "crop": null
+  },
+  "fr-etretat-needle": {
+    "commons_file": "File:L'Aiguille et la Porte d'Aval-Etretat-Normandie.jpg",
+    "alt_en": "The Needle and the Porte d'Aval at Étretat",
+    "alt_zh": "埃特雷塔的空心岩柱与阿瓦勒门",
+    "crop": null
+  },
+  "fr-meung-sur-loire": {
+    "commons_file": "File:Meung-sur-Loire (Loiret) (9084238244).jpg",
+    "alt_en": "The château at Meung-sur-Loire",
+    "alt_zh": "卢瓦尔河畔默恩的城堡",
+    "crop": null
+  },
+  "fr-cafe-musain": {
+    "commons_file": "File:Paris 75006 Place Edmond-Rostand 20161226 vers rue Soufflot.jpg",
+    "alt_en": "Place Edmond-Rostand, looking down rue Soufflot to the Panthéon",
+    "alt_zh": "从埃德蒙-罗斯丹广场沿苏夫洛街望向先贤祠",
+    "crop": null
+  },
+  "fr-corinthe-barricade": {
+    "commons_file": "File:Rue Mondétour - Paris I (FR75) - 2021-06-05 - 1.jpg",
+    "alt_en": "Rue Mondétour today",
+    "alt_zh": "今天的蒙代图尔街",
+    "crop": null
+  },
+  "fr-paris-sewers": {
+    "commons_file": "File:Egouts-Paris 03.JPG",
+    "alt_en": "A tunnel in the Paris sewer museum",
+    "alt_zh": "巴黎下水道博物馆里的隧道",
+    "crop": null
+  },
+  "fr-saint-sulpice": {
+    "commons_file": "File:Equinoxe St Sulpice.jpg",
+    "alt_en": "The brass meridian line of the gnomon in Saint-Sulpice",
+    "alt_zh": "圣叙尔皮斯教堂地上的日晷铜线",
+    "crop": null
+  },
+  "fr-fontaine-des-innocents": {
+    "commons_file": "File:Fontaine des Innocents in July 2022.jpg",
+    "alt_en": "The Fontaine des Innocents on the site of the old cemetery",
+    "alt_zh": "旧公墓原址上的无辜者喷泉",
+    "crop": null
+  },
+  "fr-shakespeare-and-company": {
+    "commons_file": "File:At Paris 2009 01.jpg",
+    "alt_en": "Shakespeare and Company at night",
+    "alt_zh": "夜晚的莎士比亚书店",
+    "crop": null
+  },
+  "fr-menerbes": {
+    "commons_file": "File:Ménerbes 2013 05.jpg",
+    "alt_en": "The view from Ménerbes over the Luberon",
+    "alt_zh": "从梅纳村眺望吕贝隆",
+    "crop": null
+  }
+}

@@ -1,0 +1,378 @@
+[
+  {
+    "id": "it-juliets-house",
+    "name": "Juliet's House, Verona",
+    "name_zh": "维罗纳 · 朱丽叶之家",
+    "lat": 45.442,
+    "lon": 10.9987,
+    "place_type": "prototype",
+    "prototype_of": "莎士比亚《罗密欧与朱丽叶》里“美丽的维罗纳”那座阳台的化身：这座 13 世纪的老宅属于卡佩罗家族，名字很像剧中的凯普莱特家，20 世纪 30 年代市政府给它加装了一座石阳台，从此成了全世界恋人的朝圣地。院子里有朱丽叶铜像，墙上贴满情书和纸条，“朱丽叶俱乐部”的志愿者至今还在替她回信",
+    "prototype_of_en": "The real-world stand-in for the balcony in 'fair Verona' of Shakespeare's Romeo and Juliet. This thirteenth-century house belonged to the Cappello family, a name close to the play's Capulets, and in the 1930s the city added a stone balcony to it; it has been a pilgrimage site for lovers ever since. There's a bronze Juliet in the courtyard, the walls are covered in love notes, and volunteers of the Juliet Club still answer the letters people write to her",
+    "coord_checked": "Casa di Giulietta (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Casa_di_Giulietta",
+    "book_ids": [
+      "romeo-and-juliet"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Juliet%27s_House"
+  },
+  {
+    "id": "it-rialto",
+    "name": "Rialto Bridge, Venice",
+    "name_zh": "威尼斯 · 里亚尔托桥",
+    "lat": 45.438,
+    "lon": 12.3356,
+    "place_type": "original",
+    "note": "《威尼斯商人》里，夏洛克对安东尼奥说“你在里亚尔托一次又一次骂我放高利贷”，剧中商人们打听消息也总问“里亚尔托有什么新闻”。里亚尔托一带是当年威尼斯的商业中心，银行、货栈和市场都在这里。眼前这座石桥建于 1591 年，正是莎士比亚写这部戏的年代，桥边的鱼市和菜市至今每天早上开张",
+    "note_en": "In The Merchant of Venice, Shylock reminds Antonio how often 'in the Rialto you have rated me' for lending at interest, and the merchants in the play are always asking 'What news on the Rialto?' The Rialto was the commercial heart of Venice, home to its banks, warehouses and markets. This stone bridge was finished in 1591, just about when Shakespeare wrote the play, and the fish and produce markets beside it still open every morning",
+    "coord_checked": "Ponte di Rialto (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Ponte_di_Rialto",
+    "book_ids": [
+      "merchant-of-venice"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Rialto_Bridge"
+  },
+  {
+    "id": "it-casa-di-dante",
+    "name": "Casa di Dante, Florence",
+    "name_zh": "佛罗伦萨 · 但丁故居",
+    "lat": 43.771,
+    "lon": 11.257,
+    "place_type": "pilgrimage",
+    "note": "但丁 1265 年出生在佛罗伦萨这片窄巷里，1302 年被政敌判处流放，从此再没回过故乡，《神曲》就是在流亡中写成的，诗里他对佛罗伦萨又爱又恨，在地狱篇里讽刺“佛罗伦萨，你真是伟大，连地狱里都传遍了你的名字”。这座塔楼式的“但丁之家”是 20 世纪初按中世纪样子重建的纪念馆，附近的小教堂据说是他第一次见到贝雅特丽齐的地方",
+    "note_en": "Dante was born in 1265 in these narrow streets of Florence; in 1302 his political enemies sentenced him to exile and he never came home again, writing the Divine Comedy as an exile. He loves and berates Florence in the poem, mocking it in the Inferno: 'Rejoice, O Florence, since thou art so great' that your name is spread throughout Hell. This tower-house, the Casa di Dante, is a museum rebuilt in medieval style in the early twentieth century, and the little church nearby is said to be where he first saw Beatrice",
+    "coord_checked": "Dante's house (Florence) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Dante's_house_(Florence)",
+    "book_ids": [
+      "divine-comedy"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Casa_di_Dante"
+  },
+  {
+    "id": "it-santa-croce",
+    "name": "Basilica of Santa Croce, Florence",
+    "name_zh": "佛罗伦萨 · 圣十字教堂",
+    "lat": 43.7685,
+    "lon": 11.2627,
+    "place_type": "original",
+    "note": "《看得见风景的房间》里，英国姑娘露西被同行的老小姐丢在圣十字教堂，手里没了旅游指南，只好自己看乔托的壁画，在这里遇见了不按规矩说话的乔治父子，一段爱情由此开始。这座教堂里葬着米开朗基罗、伽利略和马基雅维利，还有但丁的纪念墓。司汤达就是在这里看画看得心跳加速、头晕目眩，“司汤达综合征”由此得名",
+    "note_en": "In A Room with a View, Lucy Honeychurch is abandoned in Santa Croce by her companion without her Baedeker and has to look at the Giotto frescoes on her own, and here she meets the unconventional Emersons, father and son, and the love story begins. Michelangelo, Galileo and Machiavelli are buried in the church, and Dante has a memorial here. It was here, too, that Stendhal was so overwhelmed by the art that his heart raced and his head swam, giving its name to 'Stendhal syndrome'",
+    "coord_checked": "Santa Croce (Florence) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Santa_Croce_(Florence)",
+    "book_ids": [
+      "a-room-with-a-view"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/A_Room_with_a_View"
+  },
+  {
+    "id": "it-pinocchio-park",
+    "name": "Parco di Pinocchio, Collodi",
+    "name_zh": "科洛迪 · 匹诺曹公园",
+    "lat": 43.8991,
+    "lon": 10.6527,
+    "place_type": "pilgrimage",
+    "note": "《木偶奇遇记》的作者卡洛·洛伦齐尼小时候常来母亲的家乡科洛迪村，后来就用这个村名做了笔名。这座 1956 年开放的匹诺曹公园沿着林间小路摆着书里的场景：会说话的蟋蟀、狐狸和猫、红虾酒馆、吞下匹诺曹和杰佩托的大鲨鱼，孩子们可以钻进鲨鱼肚子里。山坡上就是老村子和加尔佐尼别墅的花园",
+    "note_en": "Carlo Lorenzini, author of Pinocchio, spent childhood stays in Collodi, his mother's home village, and later took its name as his pen name. This park, opened in 1956, lines a woodland path with scenes from the book: the Talking Cricket, the Fox and the Cat, the Red Lobster Inn, and the great shark that swallows Pinocchio and Geppetto, which children can climb inside. The old village and the gardens of Villa Garzoni are on the hill above",
+    "coord_checked": "Parco di Pinocchio (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Parco_di_Pinocchio",
+    "book_ids": [
+      "pinocchio"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Carlo_Collodi"
+  },
+  {
+    "id": "it-dante-tomb",
+    "name": "Dante's Tomb, Ravenna",
+    "name_zh": "拉文纳 · 但丁墓",
+    "lat": 44.4162,
+    "lon": 12.2009,
+    "place_type": "pilgrimage",
+    "note": "被佛罗伦萨流放的但丁在拉文纳度过最后几年，在这里写完《神曲》天堂篇，1321 年死于这座城市。佛罗伦萨几百年来一再讨要遗骨，拉文纳的方济各会修士干脆把骨头藏了起来，直到 1865 年才被重新发现。墓前有一盏长明灯，灯油至今由佛罗伦萨每年送来，算是迟到的赔罪",
+    "note_en": "Exiled from Florence, Dante spent his last years in Ravenna, finished the Paradiso here and died in the city in 1321. For centuries Florence kept demanding his bones back, so the Franciscan friars of Ravenna simply hid them, and they weren't found again until 1865. A lamp burns before the tomb, and to this day Florence sends the oil for it every year, a belated apology",
+    "coord_checked": "Dante's tomb (Ravenna) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Dante's_tomb_(Ravenna)",
+    "book_ids": [
+      "divine-comedy"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Dante%27s_Tomb"
+  },
+  {
+    "id": "it-colosseum",
+    "name": "Colosseum, Rome",
+    "name_zh": "罗马 · 斗兽场",
+    "lat": 41.8903,
+    "lon": 12.4922,
+    "place_type": "original",
+    "note": "亨利·詹姆斯的《黛西·米勒》结尾，天真任性的美国姑娘黛西半夜跑到月光下的斗兽场看风景，被温特伯恩撞见，几天后就染上“罗马热病”（疟疾）死去。19 世纪的游客都爱在月夜来这里吟诵拜伦的诗，医生们却警告说夜里的瘴气要人命。今天可以预约夜场参观，走进地下的兽笼和通道",
+    "note_en": "At the end of Henry James's Daisy Miller, Daisy, the naive and headstrong American girl, goes to see the Colosseum by moonlight at midnight, is found there by Winterbourne, and a few days later dies of 'Roman fever', malaria. Nineteenth-century tourists loved to come here on moonlit nights to recite Byron, while doctors warned that the night air was deadly. Today you can book a night tour that takes you down into the cages and passages under the arena",
+    "coord_checked": "Colosseum (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Colosseum",
+    "book_ids": [
+      "daisy-miller"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Daisy_Miller"
+  },
+  {
+    "id": "it-keats-shelley-house",
+    "name": "Keats-Shelley House, Rome",
+    "name_zh": "罗马 · 济慈-雪莱故居",
+    "lat": 41.9058,
+    "lon": 12.4826,
+    "place_type": "pilgrimage",
+    "note": "1820 年，患肺结核的济慈来罗马养病，就住在西班牙阶梯旁这座粉色房子的二楼，第二年 2 月死在这里，年仅二十五岁。他的墓在城南的新教徒公墓，墓碑上只刻着“这里躺着一个名字写在水上的人”。故居现在是纪念济慈、雪莱和拜伦的博物馆，从他的窗口就能看见阶梯和破船喷泉",
+    "note_en": "In 1820 John Keats, ill with tuberculosis, came to Rome hoping to recover and took rooms on the second floor of this pink house beside the Spanish Steps; he died here the following February, aged twenty-five. He is buried in the Protestant Cemetery in the south of the city, under a stone that reads only 'Here lies One Whose Name was writ in Water'. The house is now a museum of Keats, Shelley and Byron, and from his window you can see the steps and the Barcaccia fountain",
+    "coord_checked": "Keats-Shelley Museum (Rome) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Keats-Shelley_Museum_(Rome)",
+    "book_ids": [
+      "to-autumn"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Keats%E2%80%93Shelley_House"
+  },
+  {
+    "id": "it-piazza-navona",
+    "name": "Fountain of the Four Rivers, Piazza Navona, Rome",
+    "name_zh": "罗马 · 纳沃纳广场四河喷泉",
+    "lat": 41.899,
+    "lon": 12.4731,
+    "place_type": "original",
+    "note": "《天使与魔鬼》里，兰登教授沿着贝尼尼雕塑组成的“光明之路”在罗马城里追凶，第四个“元素”——水——就落在纳沃纳广场贝尼尼的四河喷泉：凶手要把一位枢机主教活活沉进池里，兰登跳进水里搏斗。喷泉的四尊巨像代表多瑙河、恒河、尼罗河和拉普拉塔河，广场原本是古罗马的赛场，所以是长椭圆形的",
+    "note_en": "In Angels & Demons, Robert Langdon chases a killer across Rome along a 'Path of Illumination' marked by Bernini's sculptures, and the fourth element, water, brings him to Bernini's Fountain of the Four Rivers in Piazza Navona, where the killer is drowning a cardinal and Langdon dives in to fight him. The four giant figures stand for the Danube, Ganges, Nile and Río de la Plata, and the square is long and oval because it was once an ancient Roman stadium",
+    "coord_checked": "Fontana dei fiumi (Rome) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Fontana_dei_fiumi_(Rome)",
+    "book_ids": [
+      "angels-and-demons"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Fontana_dei_Quattro_Fiumi"
+  },
+  {
+    "id": "it-rione-luzzatti",
+    "name": "Rione Luzzatti, Naples",
+    "name_zh": "那不勒斯 · 卢扎蒂区",
+    "lat": 40.8578,
+    "lon": 14.2901,
+    "place_type": "prototype",
+    "prototype_of": "《我的天才女友》里莉拉和埃莱娜长大的那个“城区”的原型：那不勒斯东边铁路旁这片 20 世纪 20 年代建的工人住宅区，费兰特在书里没有点名，但读者从小说里的隧道、铁路和教堂认出了它。两个女孩穿过隧道第一次去看海的那段，就从这里出发。这里至今是普通的居民区，还没什么游客，去时保持低调",
+    "prototype_of_en": "The model for the 'neighborhood' where Lila and Elena grow up in My Brilliant Friend: a 1920s working-class housing estate beside the railway on the east side of Naples. Ferrante never names it, but readers have recognized it from the tunnel, the railway and the church in the novel; the girls' first attempt to see the sea, through the tunnel, starts from here. It's still an ordinary residential district with few tourists, so keep a low profile",
+    "coord_checked": "San Giuseppe Maggiore dei Falegnami (Napoli) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:San_Giuseppe_Maggiore_dei_Falegnami_(Napoli)",
+    "book_ids": [
+      "my-brilliant-friend"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/My_Brilliant_Friend"
+  },
+  {
+    "id": "it-pompeii-forum",
+    "name": "Forum, Pompeii",
+    "name_zh": "庞贝 · 广场",
+    "lat": 40.7494,
+    "lon": 14.4848,
+    "place_type": "original",
+    "note": "布尔沃-利顿 1834 年的《庞贝城的末日》让维苏威火山埋掉的这座城市家喻户晓：盲眼卖花女尼迪亚在火山灰和黑暗中凭着熟悉的街道领着恋人逃生。他说庞贝是“那个时代文明的缩影”，一座让众神藏起来留给后世惊叹的玩具城。马克·吐温在《傻子出国记》里也写过在这些石板路上走、看车辙的感受。广场是古城的中心，北面远远能望见维苏威火山",
+    "note_en": "Edward Bulwer-Lytton's The Last Days of Pompeii (1834) made the city buried by Vesuvius known to everyone: in the ash and darkness the blind flower-girl Nydia, who knows the streets by heart, leads the lovers to safety. He calls Pompeii 'the miniature of the civilization of that age', a toy city the gods hid away for posterity to marvel at. Mark Twain writes in The Innocents Abroad about walking these paving stones and tracing the chariot ruts. The forum was the center of the town, with Vesuvius rising in the distance to the north",
+    "coord_checked": "Forum (Pompeii) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Forum_(Pompeii)",
+    "book_ids": [
+      "last-days-of-pompeii",
+      "innocents-abroad"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/The_Last_Days_of_Pompeii"
+  },
+  {
+    "id": "it-lecco-bridge",
+    "name": "Ponte Azzone Visconti, Lecco",
+    "name_zh": "莱科 · 阿佐内·维斯孔蒂桥",
+    "lat": 45.8475,
+    "lon": 9.3927,
+    "place_type": "original",
+    "note": "意大利人人读过的《约婚夫妇》开篇第一句就写这里：“科莫湖向南伸出的那一支……”，湖面收窄成河，一座古桥标出湖的尽头和阿达河的开始——说的就是这座 14 世纪的石桥。年轻的伦佐和露琪亚就住在莱科附近的村子，一个恶霸贵族不准他们成婚，故事由此开始。曼佐尼在莱科度过童年，他家的别墅现在是博物馆",
+    "note_en": "The Betrothed, the novel every Italian reads at school, opens right here: 'That branch of the Lake of Como which turns toward the south…', where the lake narrows into a river and an old bridge marks the point where the lake ends and the Adda begins; that's this fourteenth-century stone bridge. Young Renzo and Lucia live in a village near Lecco, and the story begins when a bullying nobleman forbids their wedding. Manzoni spent his childhood in Lecco, and his family's villa is now a museum",
+    "coord_checked": "Ponte Azzone Visconti (Lecco) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Ponte_Azzone_Visconti_(Lecco)",
+    "book_ids": [
+      "the-betrothed"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/The_Betrothed_(Manzoni_novel)"
+  },
+  {
+    "id": "it-sacra-di-san-michele",
+    "name": "Sacra di San Michele",
+    "name_zh": "圣米迦勒修道院",
+    "lat": 45.0978,
+    "lon": 7.3433,
+    "place_type": "prototype",
+    "prototype_of": "《玫瑰的名字》里那座山顶修道院的灵感来源之一：埃科写 1327 年一位方济各会修士和他的徒弟在一座意大利北部的本笃会修道院里调查一连串离奇死亡，人们普遍认为这座矗立在苏萨谷口千米岩峰上的千年修道院给了他灵感。从山脚沿古道爬上去，要穿过一道陡峭的“死者阶梯”，顶上能俯瞰整个阿尔卑斯山前的平原",
+    "prototype_of_en": "One of the inspirations for the mountaintop abbey in The Name of the Rose. Eco's novel follows a Franciscan friar and his novice investigating a string of strange deaths at a Benedictine abbey in northern Italy in 1327, and this thousand-year-old abbey on a rock a thousand meters above the mouth of the Susa valley is widely taken to have inspired it. Climb the old path from below and you pass up the steep 'Stairway of the Dead' to a view over the whole plain at the foot of the Alps",
+    "coord_checked": "Sacra di San Michele (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Sacra_di_San_Michele",
+    "book_ids": [
+      "the-name-of-the-rose"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Sacra_di_San_Michele"
+  },
+  {
+    "id": "it-castel-del-monte",
+    "name": "Castel del Monte",
+    "name_zh": "蒙特城堡",
+    "lat": 41.0848,
+    "lon": 16.2709,
+    "place_type": "prototype",
+    "prototype_of": "《玫瑰的名字》里那座八角形塔楼的藏书楼的原型之一：小说里修道院的“楼堡”四角各有一座七边形塔楼，藏着迷宫般的图书馆，常被认为是参照了这座腓特烈二世 13 世纪建在普利亚山顶的八角城堡。城堡本身八边形、八座八角塔、每层八个房间，用途至今说不清，是世界遗产，印在意大利一欧分硬币上",
+    "prototype_of_en": "One of the models for the octagon-towered library building in The Name of the Rose. The abbey's Aedificium in the novel, with a tower at each corner and a labyrinthine library inside, is often said to draw on this octagonal castle built by Frederick II on a hilltop in Apulia in the thirteenth century. The castle itself has eight sides, eight octagonal towers and eight rooms on each floor, and nobody is quite sure what it was for; it's a World Heritage Site and appears on the Italian one-cent coin",
+    "coord_checked": "Castel del Monte (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Castel_del_Monte",
+    "book_ids": [
+      "the-name-of-the-rose"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Castel_del_Monte,_Apulia"
+  },
+  {
+    "id": "it-aliano",
+    "name": "Aliano",
+    "name_zh": "阿利亚诺",
+    "lat": 40.3167,
+    "lon": 16.2333,
+    "place_type": "original",
+    "note": "1935 年，反法西斯的医生、画家卡洛·莱维被墨索里尼流放到巴西利卡塔这座悬在白色泥岩沟壑上的山村，在这里住了一年，后来写成《基督停在埃博利》：书名是农民的说法，意思是连基督都没走到这么远，文明和国家都把他们遗忘了。书里村子叫“加里亚诺”，就是阿利亚诺。莱维的故居和文学公园都在，他按遗愿葬在了村里的墓地",
+    "note_en": "In 1935 the anti-Fascist doctor and painter Carlo Levi was banished by Mussolini to this Basilicata village perched above ravines of white clay, and spent a year here; it became Christ Stopped at Eboli, a title taken from the peasants' saying that even Christ never came this far, that civilization and the state had forgotten them. The book calls the village Gagliano, and it is Aliano. You can visit Levi's house and a literary park, and he is buried in the village cemetery, as he wished",
+    "coord_checked": "Aliano (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Aliano",
+    "book_ids": [
+      "christ-stopped-at-eboli"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Christ_Stopped_at_Eboli"
+  },
+  {
+    "id": "it-rossano",
+    "name": "Rossano",
+    "name_zh": "罗萨诺",
+    "lat": 39.5667,
+    "lon": 16.6333,
+    "place_type": "original",
+    "note": "英国作家诺曼·道格拉斯 1911 年前后徒步走遍卡拉布里亚，写成《古老的卡拉布里亚》，书里这座山城的窗外是“红土峡谷、橄榄树和绿松石色的伊奥尼亚海”，远处就是古希腊的锡巴里斯平原。罗萨诺的大教堂供奉着“非人手所画”的圣母像，主教博物馆里藏着 6 世纪的紫色福音书，是世界上最古老的插图福音书之一",
+    "note_en": "The English writer Norman Douglas walked the length of Calabria around 1911 and wrote it up as Old Calabria; from his room in this hill town he looked down 'a many-folded gorge of glowing red earth' to the turquoise Ionian Sea, with the plain of ancient Sybaris beyond. Rossano's cathedral keeps an image of the Virgin said to be 'painted by no human hand', and the diocesan museum holds the sixth-century Purple Codex, one of the oldest illustrated Gospels in the world",
+    "coord_checked": "Rossano (Corigliano-Rossano) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Rossano_(Corigliano-Rossano)",
+    "book_ids": [
+      "old-calabria"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Old_Calabria"
+  },
+  {
+    "id": "it-cagliari-bastion",
+    "name": "Bastione di Saint Remy, Cagliari",
+    "name_zh": "卡利亚里 · 圣雷米棱堡",
+    "lat": 39.2161,
+    "lon": 9.1167,
+    "place_type": "original",
+    "note": "1921 年 1 月，D. H. 劳伦斯和妻子从西西里坐船来到撒丁岛，只待了九天，就写出了《大海与撒丁岛》。船靠近时，他看见卡利亚里“赤裸裸地陡然升起，金灿灿的，一直堆到天上”，像中世纪手抄本里的耶路撒冷。上岸后他爬上的那片“悬在城市上空”的大平台，就是这座圣雷米棱堡，从这里能看到港口、盐湖和海",
+    "note_en": "In January 1921 D. H. Lawrence and his wife took the boat from Sicily to Sardinia, stayed just nine days, and he wrote Sea and Sardinia. As the ship came in he saw Cagliari as 'a naked town rising steep, steep, golden-looking, piled naked to the sky', like Jerusalem in an illuminated missal. The great terrace he climbed to after landing, 'curiously suspended over the town', is this bastion of Saint Remy, with the harbor, the salt lagoons and the sea spread out below",
+    "coord_checked": "Bastione Saint Remy (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Bastione_Saint_Remy",
+    "book_ids": [
+      "sea-and-sardinia"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Sea_and_Sardinia"
+  },
+  {
+    "id": "it-punta-secca",
+    "name": "Punta Secca (Montalbano's house)",
+    "name_zh": "蓬塔塞卡 · 蒙塔巴诺的家",
+    "lat": 36.7878,
+    "lon": 14.4928,
+    "place_type": "prototype",
+    "prototype_of": "卡米莱里笔下蒙塔巴诺探长住的海边小镇“马里内拉”在电视剧里的样子：小说从《水的形状》开始，写西西里虚构小城维加塔的警长蒙塔巴诺破案、吃海鲜、清早在家门口的海里游泳。电视剧把他的家拍在蓬塔塞卡灯塔旁这座带露台的海滨小楼，从此成了粉丝必到之地，现在是一家民宿。附近的拉古萨、希克利一带也都是剧中的维加塔",
+    "prototype_of_en": "What Marinella, the seaside village where Andrea Camilleri's Inspector Montalbano lives, looks like on screen. Starting with The Shape of Water, the novels follow Montalbano in the invented Sicilian town of Vigàta as he solves crimes, eats seafood and swims in the sea outside his front door every morning. The TV series filmed his house in this beach house with a terrace next to the Punta Secca lighthouse, and fans have flocked here ever since; it's now a B&B. Nearby Ragusa and Scicli stand in for Vigàta itself",
+    "coord_checked": "Punta Secca (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Punta_Secca",
+    "book_ids": [
+      "the-shape-of-water"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Inspector_Montalbano_(TV_series)"
+  },
+  {
+    "id": "it-palazzo-tursi",
+    "name": "Palazzo Doria-Tursi, Genoa",
+    "name_zh": "热那亚 · 多利亚-图尔西宫",
+    "lat": 44.4113,
+    "lon": 8.9328,
+    "place_type": "original",
+    "note": "马克·吐温 1867 年坐游轮来欧洲，写成《傻子出国记》。在热那亚，一位导游兴奋地给他们看哥伦布的亲笔信和半身像，一行美国人故意装傻，一遍遍问“哥伦布？他……他死了吗？”，把导游急得跳脚——这是书里最有名的笑话之一。市政厅所在的这座宫殿今天仍陈列着哥伦布的书信，还有帕格尼尼的小提琴",
+    "note_en": "Mark Twain came to Europe on a cruise ship in 1867 and wrote The Innocents Abroad. In Genoa an excited guide shows the Americans a letter in Columbus's own hand and a bust of him, and they play dumb, asking again and again, 'Christopher Colombo… is he dead?', until the guide is beside himself; it's one of the most famous jokes in the book. This palace, Genoa's town hall, still displays Columbus's letters, along with Paganini's violin",
+    "coord_checked": "Palazzo Doria Tursi (Genoa) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Palazzo_Doria_Tursi_(Genoa)",
+    "book_ids": [
+      "innocents-abroad"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/The_Innocents_Abroad"
+  },
+  {
+    "id": "it-recanati-leopardi",
+    "name": "Palazzo Leopardi, Recanati",
+    "name_zh": "雷卡纳蒂 · 莱奥帕尔迪故居",
+    "lat": 43.3991,
+    "lon": 13.5527,
+    "place_type": "pilgrimage",
+    "note": "莱奥帕尔迪 1798 年生在马尔凯山城雷卡纳蒂的这座贵族府邸里，在父亲两万册藏书的图书馆里埋头苦读，自学了希腊文和希伯来文，也读坏了身体。二十一岁那年他坐在家附近的小山上，一道树篱挡住了远方的地平线，写下意大利最著名的短诗《无限》。府邸里的图书馆至今开放，那座小山就叫“无限之丘”",
+    "note_en": "Giacomo Leopardi was born in 1798 in this noble house in the hill town of Recanati in the Marche, and buried himself in his father's library of twenty thousand books, teaching himself Greek and Hebrew and ruining his health. At twenty-one, sitting on a little hill near the house where a hedge blocked out the distant horizon, he wrote 'The Infinite', the most famous short poem in Italian. The family library is still open to visitors, and the little hill is called the Colle dell'Infinito",
+    "coord_checked": "Palazzo Leopardi (Recanati) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Palazzo_Leopardi_(Recanati)",
+    "book_ids": [
+      "leopardi-canti"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Giacomo_Leopardi"
+  },
+  {
+    "id": "it-sulmona-ovid",
+    "name": "Monument to Ovid, Sulmona",
+    "name_zh": "苏尔莫纳 · 奥维德像",
+    "lat": 42.0486,
+    "lon": 13.9242,
+    "place_type": "pilgrimage",
+    "note": "《变形记》的作者奥维德公元前 43 年出生在阿布鲁佐山间的苏尔莫纳，后来被奥古斯都流放到黑海边，再没回来。他在流放中写诗说：“苏尔莫纳是我的故乡，清冽的泉水最丰沛”，城里至今把这句话的缩写 SMPE 刻在城徽上。市中心广场上立着他的铜像，这里还以彩色的糖衣杏仁闻名",
+    "note_en": "Ovid, author of the Metamorphoses, was born in 43 BC in Sulmona, in the mountains of Abruzzo; the emperor Augustus later banished him to the Black Sea, and he never came back. In exile he wrote 'Sulmo is my homeland, richest in ice-cold streams', and the town still carries the abbreviation SMPE on its coat of arms. His bronze statue stands in the main square, and the town is also famous for its colorful sugared almonds",
+    "coord_checked": "Monument to Ovid (Sulmona) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Monument_to_Ovid_(Sulmona)",
+    "book_ids": [
+      "metamorphoses"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Sulmona"
+  },
+  {
+    "id": "it-assisi",
+    "name": "Basilica of San Francesco, Assisi",
+    "name_zh": "阿西西 · 圣方济各大殿",
+    "lat": 43.0748,
+    "lon": 12.6058,
+    "place_type": "original",
+    "note": "圣方济各 1182 年生在翁布里亚的阿西西，放弃家产做了托钵修士。14 世纪的《圣方济各的小花》收集了他和弟兄们的故事：向鸟儿讲道、驯服古比奥的狼、在风雪路上讲什么是“完全的喜乐”，几百年来是意大利最受欢迎的宗教读物之一。他死后两年人们就为他建了这座上下两层的大殿，乔托画的方济各生平壁画就在上教堂里",
+    "note_en": "St Francis was born in Assisi in Umbria in 1182 and gave up his family's wealth to become a mendicant friar. The fourteenth-century Little Flowers of St Francis gathers stories of him and his brothers, preaching to the birds, taming the wolf of Gubbio, explaining on a snowy road what 'perfect joy' is, and it has been one of the best-loved religious books in Italy for centuries. This two-level basilica was begun two years after his death, and the Giotto frescoes of his life are in the Upper Church",
+    "coord_checked": "Basilica di San Francesco (Assisi) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Basilica_di_San_Francesco_(Assisi)",
+    "book_ids": [
+      "little-flowers-of-st-francis"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Little_Flowers_of_St._Francis"
+  },
+  {
+    "id": "it-joyce-trieste",
+    "name": "James Joyce statue, Ponte Rosso, Trieste",
+    "name_zh": "的里雅斯特 · 乔伊斯铜像",
+    "lat": 45.652,
+    "lon": 13.7718,
+    "place_type": "pilgrimage",
+    "note": "1904 到 1920 年，乔伊斯带着诺拉在的里雅斯特住了十几年，靠教英语糊口，写完了《都柏林人》，写了《一个青年艺术家的画像》，也开始了《尤利西斯》。他的学生里有后来的小说家斯韦沃。运河边红桥上这尊真人大小的铜像，让他像当年一样戴着礼帽、夹着书在城里散步，城里还有一条乔伊斯足迹步道",
+    "note_en": "From 1904 to 1920 James Joyce and Nora lived in Trieste, where he scraped a living teaching English, finished Dubliners, wrote A Portrait of the Artist as a Young Man and began Ulysses; one of his pupils was the future novelist Italo Svevo. This life-size bronze on the Ponte Rosso over the canal shows him strolling through town in his hat with a book under his arm, as he used to, and there's a Joyce walking trail around the city",
+    "coord_checked": "File:James Joyce Triest.jpg (Wikimedia Commons, photo location) — https://commons.wikimedia.org/wiki/File:James_Joyce_Triest.jpg",
+    "book_ids": [
+      "dubliners"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/James_Joyce"
+  },
+  {
+    "id": "it-riva-del-garda",
+    "name": "Harbor, Riva del Garda",
+    "name_zh": "加尔达湖畔里瓦 · 港口",
+    "lat": 45.8848,
+    "lon": 10.8401,
+    "place_type": "original",
+    "note": "1909 和 1913 年卡夫卡两次来加尔达湖北岸的里瓦度假疗养，后来写了短篇《猎人格拉胡斯》：一艘挂着黑帆的小船驶进里瓦的小港，船上躺着一个死了几百年、却永远到不了冥界的猎人。卡夫卡的故事里很少出现真实的地名，这是难得的一个。港口边那座方形的阿波纳莱钟楼至今还在，湖上的帆船和当年一样多",
+    "note_en": "Franz Kafka came to Riva on the northern shore of Lake Garda for holidays and rest cures in 1909 and 1913, and later wrote the short story 'The Hunter Gracchus', in which a boat with dark sails glides into Riva's little harbor carrying a hunter who died centuries ago and can never reach the land of the dead. Real place names are rare in Kafka, and this is one of them. The square Apponale tower still stands over the harbor, and the lake is as full of sailboats as ever",
+    "coord_checked": "Torre Apponale (Riva del Garda) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Torre_Apponale_(Riva_del_Garda)",
+    "book_ids": [
+      "the-hunter-gracchus"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/The_Hunter_Gracchus"
+  },
+  {
+    "id": "it-aosta-leper-tower",
+    "name": "Tower of the Leper, Aosta",
+    "name_zh": "奥斯塔 · 麻风病人塔",
+    "lat": 45.7344,
+    "lon": 7.3156,
+    "place_type": "original",
+    "note": "1811 年，萨伏依作家格扎维埃·德·梅斯特尔写了一个真实的故事：奥斯塔城墙边的一座古塔里，独居着一个被全城隔离的麻风病人，只有一个花园和他死去的妹妹的回忆陪着他，一位军官偶然闯进花园，两人聊了一个下午。这篇《奥斯塔城的麻风病人》在 19 世纪的欧洲感动了无数读者，古塔从此就叫“麻风病人塔”，至今立在城西",
+    "note_en": "In 1811 the Savoyard writer Xavier de Maistre wrote up a true story: in an old tower on the walls of Aosta lived a leper, shut away from the whole town, with only a garden and memories of his dead sister for company, until an officer wandered into the garden one day and they talked for an afternoon. 'The Leper of the City of Aosta' moved readers all over nineteenth-century Europe, and the tower has been called the Tower of the Leper ever since; it still stands on the west side of town",
+    "coord_checked": "Torre del lebbroso (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Torre_del_lebbroso",
+    "book_ids": [
+      "leper-of-aosta"
+    ],
+    "fact_source": "https://it.wikipedia.org/wiki/Torre_del_Lebbroso"
+  }
+]

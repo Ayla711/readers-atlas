@@ -1,0 +1,538 @@
+[
+  {
+    "place_id": "fr-saumur",
+    "commons_file": "File:Panorama_of_Saumur.JPG",
+    "license": "CC BY-SA 3.0",
+    "author": "Martin Falbisoner",
+    "original_width": 3968,
+    "original_height": 2645,
+    "checked": "2026-11-13",
+    "downloaded_thumbnail_size": [
+      960,
+      640
+    ]
+  },
+  {
+    "place_id": "fr-illiers-combray",
+    "commons_file": "File:Illiers-Combray.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Oxxo",
+    "original_width": 2816,
+    "original_height": 2112,
+    "checked": "2026-11-13",
+    "downloaded_thumbnail_size": [
+      960,
+      720
+    ]
+  },
+  {
+    "place_id": "fr-illiers-church",
+    "commons_file": "File:Illiers-Combray_-_Église_Saint-Jacques_-_22.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Benjamin Smith",
+    "original_width": 4427,
+    "original_height": 4427,
+    "checked": "2026-11-13",
+    "downloaded_thumbnail_size": [
+      960,
+      960
+    ]
+  },
+  {
+    "place_id": "fr-besancon-citadel",
+    "commons_file": "File:Aerial_image_of_the_Citadel_of_Besançon_(view_from_the_southwest).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Carsten Steger",
+    "original_width": 4600,
+    "original_height": 2700,
+    "checked": "2026-11-13",
+    "downloaded_thumbnail_size": [
+      960,
+      563
+    ]
+  },
+  {
+    "place_id": "fr-rouen",
+    "commons_file": "File:Rouen_(37903223574).jpg",
+    "license": "CC BY 2.0",
+    "author": "Herbert Frank from Wien (Vienna), AT",
+    "original_width": 1920,
+    "original_height": 1275,
+    "checked": "2026-11-13",
+    "downloaded_thumbnail_size": [
+      960,
+      637
+    ]
+  },
+  {
+    "place_id": "fr-ry-yonville",
+    "commons_file": "File:2012--DSC_0518-Eglise-de-Ry.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Pline",
+    "original_width": 3264,
+    "original_height": 4928,
+    "checked": "2026-11-13",
+    "downloaded_thumbnail_size": [
+      960,
+      1449
+    ]
+  },
+  {
+    "place_id": "fr-notre-dame",
+    "commons_file": "File:Notre-Dame_de_Paris,_4_October_2017.jpg",
+    "license": "CC0",
+    "author": "Ali Sabbagh",
+    "original_width": 4938,
+    "original_height": 3261,
+    "checked": "2026-11-13",
+    "downloaded_thumbnail_size": [
+      960,
+      634
+    ]
+  },
+  {
+    "place_id": "fr-place-de-greve",
+    "commons_file": "File:Mairie_Paris_Luc_Viatour.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Luc Viatour",
+    "original_width": 2654,
+    "original_height": 1381,
+    "checked": "2026-11-13",
+    "downloaded_thumbnail_size": [
+      960,
+      500
+    ]
+  },
+  {
+    "place_id": "fr-devils-pool",
+    "commons_file": "File:Mers-sur-Indre Mare au diable 2.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "JLPC",
+    "original_width": 1704,
+    "original_height": 2272,
+    "checked": "2026-11-13",
+    "downloaded_thumbnail_size": [
+      960,
+      1280
+    ]
+  },
+  {
+    "place_id": "fr-digne",
+    "commons_file": "File:Digne_les_bains_-_vue_est.jpg",
+    "license": "CC BY 3.0",
+    "author": "Jean-Christophe BENOIST",
+    "original_width": 6000,
+    "original_height": 4000,
+    "checked": "2026-11-13",
+    "downloaded_thumbnail_size": [
+      960,
+      640
+    ]
+  },
+  {
+    "place_id": "fr-ajaccio",
+    "commons_file": "File:Port_Tino_Rossi_-_Ajaccio_(15148706455).jpg",
+    "license": "CC BY 2.0",
+    "author": "JeanbaptisteM from France",
+    "original_width": 4592,
+    "original_height": 2576,
+    "checked": "2026-11-13",
+    "downloaded_thumbnail_size": [
+      960,
+      539
+    ]
+  },
+  {
+    "place_id": "fr-saint-malo",
+    "commons_file": "File:Saintmalo.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "",
+    "original_width": 1222,
+    "original_height": 882,
+    "checked": "2026-11-13",
+    "downloaded_thumbnail_size": [
+      960,
+      693
+    ]
+  },
+  {
+    "place_id": "fr-carcassonne",
+    "commons_file": "File:1_carcassonne_aerial_2016.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Chensiyuan",
+    "original_width": 7007,
+    "original_height": 4134,
+    "checked": "2026-11-13",
+    "downloaded_thumbnail_size": [
+      960,
+      566
+    ]
+  },
+  {
+    "place_id": "fr-avignon-palace",
+    "commons_file": "File:Avignon_Palais_des_Papes_2013.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "François de Dijon",
+    "original_width": 8211,
+    "original_height": 3478,
+    "checked": "2026-11-13",
+    "downloaded_thumbnail_size": [
+      960,
+      407
+    ]
+  },
+  {
+    "place_id": "fr-nimes-arena",
+    "commons_file": "File:Arenes_de_Nimes_Alt_1.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Krzysztof Golik , edited by Janke",
+    "original_width": 5565,
+    "original_height": 2186,
+    "checked": "2026-11-13",
+    "downloaded_thumbnail_size": [
+      960,
+      377
+    ]
+  },
+  {
+    "place_id": "fr-le-mans-cathedral",
+    "commons_file": "File:Le_Mans_-_Cathedrale_St_Julien_ext_02.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Selbymay",
+    "original_width": 4000,
+    "original_height": 2856,
+    "checked": "2026-11-13",
+    "downloaded_thumbnail_size": [
+      960,
+      685
+    ]
+  },
+  {
+    "place_id": "fr-florac",
+    "commons_file": "File:Chateau_et_clocher_Florac.JPG",
+    "license": "CC BY-SA 3.0",
+    "author": "The original uploader was TouN at French Wikipedia .",
+    "original_width": 1280,
+    "original_height": 960,
+    "checked": "2026-11-13",
+    "downloaded_thumbnail_size": [
+      960,
+      720
+    ]
+  },
+  {
+    "place_id": "fr-le-monastier",
+    "commons_file": "File:Le_Monastier_vu_du_Mont2.JPG",
+    "license": "CC BY-SA 3.0",
+    "author": "Daniel Giffard",
+    "original_width": 1275,
+    "original_height": 547,
+    "checked": "2026-11-13",
+    "downloaded_thumbnail_size": [
+      960,
+      412
+    ]
+  },
+  {
+    "place_id": "fr-stendhal-museum",
+    "commons_file": "File:Treille_de_Stendhal.jpg",
+    "license": "CC BY 3.0",
+    "author": "English : This photo has been taken by Matthieu Riegler ( User:Kyro ) and released under the licenses stated below. You are free to use it for any purpose as long as you credit me as author, Wikimedia Commons as site and follow the terms of the licenses. Could you be kind enough to leave me a message on this page to inform me about your use of this picture. Example : © Matthieu Riegler , CC-BY",
+    "original_width": 4373,
+    "original_height": 2915,
+    "checked": "2026-11-13",
+    "downloaded_thumbnail_size": [
+      960,
+      640
+    ]
+  },
+  {
+    "place_id": "fr-proust-house",
+    "commons_file": "File:Maison_de_Tante_Léonie_à_Illiers-Combray_(1).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Eric HOUDAS",
+    "original_width": 4928,
+    "original_height": 3264,
+    "checked": "2026-11-13",
+    "downloaded_thumbnail_size": [
+      960,
+      636
+    ]
+  },
+  {
+    "place_id": "fr-flaubert-croisset",
+    "commons_file": "File:Pavillon_Flaubert_Croisset_Canteleu_005b.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Guillaume Paumier",
+    "original_width": 2592,
+    "original_height": 3872,
+    "checked": "2026-11-13",
+    "downloaded_thumbnail_size": [
+      960,
+      1434
+    ]
+  },
+  {
+    "place_id": "fr-hugo-house",
+    "commons_file": "File:OutsideVictorHugo.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Md.altaf.rahman",
+    "original_width": 4272,
+    "original_height": 2848,
+    "checked": "2026-11-13",
+    "downloaded_thumbnail_size": [
+      960,
+      640
+    ]
+  },
+  {
+    "place_id": "fr-balzac-sache",
+    "commons_file": "File:Saché (37) Château - Extérieur - 01.jpg",
+    "license": "CC BY 4.0",
+    "author": "GO69",
+    "original_width": 3648,
+    "original_height": 2736,
+    "checked": "2026-11-13",
+    "downloaded_thumbnail_size": [
+      960,
+      720
+    ]
+  },
+  {
+    "place_id": "fr-sand-nohant",
+    "commons_file": "File:Nohant-Maison de George Sand-20120430.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Daniel VILLAFRUELA",
+    "original_width": 4272,
+    "original_height": 2848,
+    "checked": "2026-11-13",
+    "downloaded_thumbnail_size": [
+      960,
+      640
+    ]
+  },
+  {
+    "place_id": "fr-rue-tournefort",
+    "commons_file": "File:PA180081_Paris_V_rue_Tournefort_reductwk.JPG",
+    "license": "CC BY-SA 3.0",
+    "author": "Mbzt",
+    "original_width": 1500,
+    "original_height": 1242,
+    "checked": "2026-11-13",
+    "downloaded_thumbnail_size": [
+      960,
+      795
+    ],
+    "source_url": "https://commons.wikimedia.org/wiki/File:PA180081_Paris_V_rue_Tournefort_reductwk.JPG"
+  },
+  {
+    "place_id": "fr-pere-lachaise",
+    "commons_file": "File:Pere_Lachaise_Chemin_Errazu.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Peter Poradisch",
+    "original_width": 1929,
+    "original_height": 1424,
+    "checked": "2026-11-13",
+    "downloaded_thumbnail_size": [
+      960,
+      709
+    ],
+    "source_url": "https://commons.wikimedia.org/wiki/File:Pere_Lachaise_Chemin_Errazu.jpg"
+  },
+  {
+    "place_id": "fr-rue-de-la-michodiere",
+    "commons_file": "File:P1190898_Paris_II_rue_de_la_Michodière_rwk.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Mbzt",
+    "original_width": 1624,
+    "original_height": 2000,
+    "checked": "2026-11-13",
+    "downloaded_thumbnail_size": [
+      960,
+      1182
+    ],
+    "source_url": "https://commons.wikimedia.org/wiki/File:P1190898_Paris_II_rue_de_la_Michodière_rwk.jpg"
+  },
+  {
+    "place_id": "fr-place-du-carrousel",
+    "commons_file": "File:Place_du_Carrousel,_Paris_15_June_2014.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "Connie Ma from Chicago, United States of America",
+    "original_width": 4272,
+    "original_height": 2242,
+    "checked": "2026-11-13",
+    "downloaded_thumbnail_size": [
+      960,
+      504
+    ],
+    "source_url": "https://commons.wikimedia.org/wiki/File:Place_du_Carrousel,_Paris_15_June_2014.jpg"
+  },
+  {
+    "place_id": "fr-luxembourg-gardens",
+    "commons_file": "File:LuxembourgMontparnasse.JPG",
+    "license": "Public domain",
+    "author": "Kirua",
+    "original_width": 3872,
+    "original_height": 2592,
+    "checked": "2026-11-13",
+    "downloaded_thumbnail_size": [
+      960,
+      643
+    ],
+    "source_url": "https://commons.wikimedia.org/wiki/File:LuxembourgMontparnasse.JPG"
+  },
+  {
+    "place_id": "fr-marseille-old-port",
+    "commons_file": "File:Marseille_Old_Port.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Ingo Mehling",
+    "original_width": 5173,
+    "original_height": 2000,
+    "checked": "2026-11-13",
+    "downloaded_thumbnail_size": [
+      960,
+      371
+    ],
+    "source_url": "https://commons.wikimedia.org/wiki/File:Marseille_Old_Port.jpg"
+  },
+  {
+    "place_id": "fr-chateau-if",
+    "commons_file": "File:Chateau_d'If_view.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Marian78ro",
+    "original_width": 1200,
+    "original_height": 787,
+    "checked": "2026-11-13",
+    "downloaded_thumbnail_size": [
+      960,
+      630
+    ],
+    "source_url": "https://commons.wikimedia.org/wiki/File:Chateau_d'If_view.jpg"
+  },
+  {
+    "place_id": "fr-daudet-mill",
+    "commons_file": "File:Fontvieille_20150725_20.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Georges Seguin ( Okki )",
+    "original_width": 3456,
+    "original_height": 5184,
+    "checked": "2026-11-13",
+    "downloaded_thumbnail_size": [
+      960,
+      1440
+    ],
+    "source_url": "https://commons.wikimedia.org/wiki/File:Fontvieille_20150725_20.jpg"
+  },
+  {
+    "place_id": "fr-alsace",
+    "commons_file": "File:Pano.cernay.JPG",
+    "license": "Public domain",
+    "author": "Serge Nueffer at French Wikipedia",
+    "original_width": 2258,
+    "original_height": 804,
+    "checked": "2026-11-13",
+    "downloaded_thumbnail_size": [
+      960,
+      342
+    ],
+    "source_url": "https://commons.wikimedia.org/wiki/File:Pano.cernay.JPG"
+  },
+  {
+    "place_id": "fr-verne-house",
+    "commons_file": "File:1086_-_Musée_Jules_Verne_-_Amiens.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Patrick Despoix",
+    "original_width": 1920,
+    "original_height": 2560,
+    "checked": "2026-11-13",
+    "downloaded_thumbnail_size": [
+      960,
+      1280
+    ],
+    "source_url": "https://commons.wikimedia.org/wiki/File:1086_-_Musée_Jules_Verne_-_Amiens.jpg"
+  },
+  {
+    "place_id": "fr-etretat-guillette",
+    "commons_file": "File:G_de_Maupassant_à_La_Guillette_en_1888.jpg",
+    "license": "Public domain",
+    "author": "Unidentified nineteenth-century photographer (BnF historical photograph)",
+    "original_width": 2228,
+    "original_height": 3537,
+    "checked": "2026-11-13",
+    "downloaded_thumbnail_size": [
+      960,
+      1524
+    ],
+    "source_url": "https://commons.wikimedia.org/wiki/File:G_de_Maupassant_à_La_Guillette_en_1888.jpg"
+  },
+  {
+    "place_id": "fr-cabourg-grand-hotel",
+    "commons_file": "File:CabourgHotel.jpg",
+    "license": "Public domain",
+    "author": "Ji-Elle 10:05, 15 April 2007 (UTC)",
+    "original_width": 2048,
+    "original_height": 1536,
+    "checked": "2026-11-13",
+    "downloaded_thumbnail_size": [
+      960,
+      720
+    ],
+    "source_url": "https://commons.wikimedia.org/wiki/File:CabourgHotel.jpg"
+  },
+  {
+    "place_id": "fr-le-havre",
+    "commons_file": "File:Panorama_of_Le_Havre,_September_2019.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": ".mw-parser-output .commons-creator-table{background-color:#f0f0ff;box-sizing:border-box;font-size:95%;text-align:start;color:inherit}.mw-parser-output .commons-creator-table>tbody>tr{vertical-align:top}.mw-parser-output .commons-creator-table>tbody>tr>th{background-color:var(--background-color-neutral,#e0e0ee);font-weight:bold;text-align:start;color:inherit}.mw-parser-output .mw-collapsible-toggle-expanded.mw-collapsible-arrowtoggle,.mw-parser-output .mw-collapsible-toggle-expanded .mw-collapsible-arrowtoggle{padding-left:20px!important;background-image:url(\"https://upload.wikimedia.org/wikipedia/commons/1/10/MediaWiki_Vector_skin_action_arrow.png\");background-repeat:no-repeat;background-position:left center}.mw-parser-output .mw-collapsible-toggle-collapsed.mw-collapsible-arrowtoggle,.mw-parser-output .mw-collapsible-toggle-collapsed .mw-collapsible-arrowtoggle{padding-left:20px!important;background-repeat:no-repeat}.mw-parser-output .commons-creator-table[dir=\"ltr\"] .mw-collapsible-toggle-collapsed.mw-collapsible-arrowtoggle,.mw-parser-output .commons-creator-table[dir=\"ltr\"] .mw-collapsible-toggle-collapsed .mw-collapsible-arrowtoggle{background-image:url(\"https://upload.wikimedia.org/wikipedia/commons/4/41/MediaWiki_Vector_skin_right_arrow.png\");background-position:left center}.mw-parser-output .commons-creator-table[dir=\"rtl\"] .mw-collapsible-toggle-collapsed.mw-collapsible-arrowtoggle,.mw-parser-output .commons-creator-table[dir=\"rtl\"] .mw-collapsible-toggle-collapsed .mw-collapsible-arrowtoggle{background-image:url(\"https://upload.wikimedia.org/wikipedia/commons/1/1e/MediaWiki_Vector_skin_left_arrow.png\");background-position:right center}@media(max-width:719px){.mw-parser-output .commons-creator-table,.mw-parser-output .commons-creator-table>tbody{box-sizing:border-box;display:block;width:100%}.mw-parser-output .commons-creator-table>tbody{border-right:1px solid var(--border-color-base,#aaa);border-bottom:1px solid var(--border-color-base,#aaa)}.mw-parser-output .commons-creator-table>tbody>tr{border-top:1px solid var(--border-color-base,#aaa);display:flex;flex-wrap:wrap}.mw-parser-output .commons-creator-table>tbody>tr>th{border-left:1px solid var(--border-color-base,#aaa);padding:2px;flex:1 1 100%}.mw-parser-output .commons-creator-table>tbody>tr>td{border-left:1px solid var(--border-color-base,#aaa);padding:2px;flex:1 1}}@media(min-width:720px){.mw-parser-output .commons-creator-table{border:1px solid var(--border-color-base,#aaa);border-collapse:collapse;border-spacing:0;padding:5px}.mw-parser-output .commons-creator-table>tbody>tr>th,.mw-parser-output .commons-creator-table>tbody>tr>td{border:1px solid var(--border-color-base,#aaa);padding:2px}.mw-parser-output .commons-creator-table>tbody>tr>.halfwidth{max-width:10em}.mw-parser-output .commons-creator-table>tbody>tr>.fullwidth{max-width:20em}}@media screen{html.skin-theme-clientpref-night .mw-parser-output .commons-creator-table{background-color:#0c0b19}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .commons-creator-table{background-color:#0c0b19}} Martin Falbisoner (1978–)",
+    "original_width": 5539,
+    "original_height": 3030,
+    "checked": "2026-11-13",
+    "downloaded_thumbnail_size": [
+      960,
+      525
+    ],
+    "source_url": "https://commons.wikimedia.org/wiki/File:Panorama_of_Le_Havre,_September_2019.jpg"
+  },
+  {
+    "place_id": "fr-nantes",
+    "commons_file": "File:Panorama_depuis_Butte_Sainte-Anne.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Eric Brosselin",
+    "original_width": 2000,
+    "original_height": 960,
+    "checked": "2026-11-13",
+    "downloaded_thumbnail_size": [
+      960,
+      461
+    ],
+    "source_url": "https://commons.wikimedia.org/wiki/File:Panorama_depuis_Butte_Sainte-Anne.jpg"
+  },
+  {
+    "place_id": "fr-bordeaux",
+    "commons_file": "File:Bordeaux_place_de_la_bourse_with_tram.JPG",
+    "license": "CC BY-SA 3.0",
+    "author": "Phillip Maiwald ( Nikopol )",
+    "original_width": 3401,
+    "original_height": 2276,
+    "checked": "2026-11-13",
+    "downloaded_thumbnail_size": [
+      960,
+      642
+    ],
+    "source_url": "https://commons.wikimedia.org/wiki/File:Bordeaux_place_de_la_bourse_with_tram.JPG"
+  },
+  {
+    "place_id": "fr-dijon-palace",
+    "commons_file": "File:Dijon_-_Palais_des_Ducs_et_des_États_de_Bourgogne_-_01.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Benjamin Smith",
+    "original_width": 6384,
+    "original_height": 3192,
+    "checked": "2026-11-13",
+    "downloaded_thumbnail_size": [
+      960,
+      480
+    ],
+    "source_url": "https://commons.wikimedia.org/wiki/File:Dijon_-_Palais_des_Ducs_et_des_États_de_Bourgogne_-_01.jpg"
+  }
+]

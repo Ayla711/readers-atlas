@@ -1,0 +1,12 @@
+{
+  "command": "python3 -I tools/import_pack.py packs/fr --dry-run",
+  "errors": 0,
+  "map_warnings": 4,
+  "manual_english_translations": [
+    "fr-wm-1"
+  ],
+  "loose_matches": 0,
+  "source_segments": 86,
+  "protected_files_unchanged_during_final_validation": 674,
+  "protected_changes_during_final_validation": []
+}

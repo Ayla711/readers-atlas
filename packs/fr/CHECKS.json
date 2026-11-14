@@ -1,0 +1,204 @@
+{
+  "books": 23,
+  "places": 51,
+  "lines": 50,
+  "french_pairs": 37,
+  "english_originals": 13,
+  "own_english": 1,
+  "photos": 40,
+  "pilgrimage_photos": 9,
+  "other_photos": 31,
+  "other_places": 42,
+  "paris_lines": 7,
+  "regions": [
+    {
+      "code": "FR-ARA",
+      "name": "Auvergne-Rhône-Alpes",
+      "places": 2,
+      "lines": 1,
+      "books": 1,
+      "photos": 2,
+      "place_ids": [
+        "fr-le-monastier",
+        "fr-stendhal-museum"
+      ]
+    },
+    {
+      "code": "FR-BFC",
+      "name": "Bourgogne-Franche-Comté",
+      "places": 2,
+      "lines": 3,
+      "books": 2,
+      "photos": 2,
+      "place_ids": [
+        "fr-besancon-citadel",
+        "fr-dijon-palace"
+      ]
+    },
+    {
+      "code": "FR-BRE",
+      "name": "Brittany",
+      "places": 3,
+      "lines": 3,
+      "books": 1,
+      "photos": 1,
+      "place_ids": [
+        "fr-saint-malo",
+        "fr-combourg-castle",
+        "fr-plancoet"
+      ]
+    },
+    {
+      "code": "FR-CVL",
+      "name": "Centre-Val de Loire",
+      "places": 6,
+      "lines": 4,
+      "books": 2,
+      "photos": 6,
+      "place_ids": [
+        "fr-devils-pool",
+        "fr-illiers-combray",
+        "fr-illiers-church",
+        "fr-balzac-sache",
+        "fr-sand-nohant",
+        "fr-proust-house"
+      ]
+    },
+    {
+      "code": "FR-COR",
+      "name": "Corsica",
+      "places": 1,
+      "lines": 2,
+      "books": 1,
+      "photos": 1,
+      "place_ids": [
+        "fr-ajaccio"
+      ]
+    },
+    {
+      "code": "FR-GES",
+      "name": "Grand Est",
+      "places": 4,
+      "lines": 4,
+      "books": 2,
+      "photos": 1,
+      "place_ids": [
+        "fr-masevaux",
+        "fr-thann-church",
+        "fr-saint-amarin",
+        "fr-alsace"
+      ]
+    },
+    {
+      "code": "FR-HDF",
+      "name": "Hauts-de-France",
+      "places": 3,
+      "lines": 3,
+      "books": 2,
+      "photos": 1,
+      "place_ids": [
+        "fr-anzin-mining-basin",
+        "fr-montreuil-sur-mer",
+        "fr-verne-house"
+      ]
+    },
+    {
+      "code": "FR-IDF",
+      "name": "Île-de-France",
+      "places": 8,
+      "lines": 7,
+      "books": 5,
+      "photos": 8,
+      "place_ids": [
+        "fr-notre-dame",
+        "fr-place-de-greve",
+        "fr-hugo-house",
+        "fr-rue-tournefort",
+        "fr-pere-lachaise",
+        "fr-rue-de-la-michodiere",
+        "fr-place-du-carrousel",
+        "fr-luxembourg-gardens"
+      ]
+    },
+    {
+      "code": "FR-NOR",
+      "name": "Normandy",
+      "places": 8,
+      "lines": 7,
+      "books": 3,
+      "photos": 6,
+      "place_ids": [
+        "fr-rouen",
+        "fr-ry-yonville",
+        "fr-trouville",
+        "fr-cap-de-la-heve",
+        "fr-le-havre",
+        "fr-flaubert-croisset",
+        "fr-etretat-guillette",
+        "fr-cabourg-grand-hotel"
+      ]
+    },
+    {
+      "code": "FR-NAQ",
+      "name": "Nouvelle-Aquitaine",
+      "places": 2,
+      "lines": 3,
+      "books": 2,
+      "photos": 1,
+      "place_ids": [
+        "fr-angouleme",
+        "fr-bordeaux"
+      ]
+    },
+    {
+      "code": "FR-OCC",
+      "name": "Occitanie",
+      "places": 4,
+      "lines": 4,
+      "books": 2,
+      "photos": 3,
+      "place_ids": [
+        "fr-carcassonne",
+        "fr-nimes-arena",
+        "fr-florac",
+        "fr-saint-jean-du-gard"
+      ]
+    },
+    {
+      "code": "FR-PDL",
+      "name": "Pays de la Loire",
+      "places": 3,
+      "lines": 4,
+      "books": 2,
+      "photos": 3,
+      "place_ids": [
+        "fr-saumur",
+        "fr-nantes",
+        "fr-le-mans-cathedral"
+      ]
+    },
+    {
+      "code": "FR-PAC",
+      "name": "Provence-Alpes-Côte d’Azur",
+      "places": 5,
+      "lines": 5,
+      "books": 4,
+      "photos": 5,
+      "place_ids": [
+        "fr-digne",
+        "fr-avignon-palace",
+        "fr-marseille-old-port",
+        "fr-chateau-if",
+        "fr-daudet-mill"
+      ]
+    }
+  ],
+  "protected_files_unchanged": 671,
+  "concurrent_protected_changes": [
+    "data/us/places.js",
+    "data/uk/places.js",
+    "data/fr/places.js"
+  ],
+  "inherited_place_notes": 34,
+  "new_protected_files": 0
+}
