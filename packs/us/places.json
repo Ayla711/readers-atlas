@@ -6,8 +6,8 @@
     "lat": 41.6361,
     "lon": -70.9347,
     "place_type": "original",
-    "note_en": "Ishmael visits the city before taking ship for Nantucket; the marker represents the city as a whole",
-    "note": "以实玛利去楠塔基特搭船之前来到这座城市；标记代表整座城市",
+    "note_en": "This is where Ishmael waits for a whaling ship at the start of Moby-Dick. The Seamen's Bethel, the chapel where he hears Father Mapple's sermon, is still here, and in 1961 it added a pulpit shaped like a ship's bow to match the book. Melville knew the place firsthand: in 1841 he shipped out on a whaler from Fairhaven, just across the harbor",
+    "note": "《白鲸》里以实玛利出海前落脚的捕鲸城。他去听梅普尔神父布道的捕鲸人教堂（Seamen's Bethel）至今还在，船头形状的讲坛是 1961 年照小说添上的。梅尔维尔本人 1841 年就是从这里对岸的费尔黑文登上捕鲸船的",
     "coord_checked": "New Bedford, Massachusetts — https://en.wikipedia.org/wiki/New_Bedford,_Massachusetts",
     "fact_source": "https://www.gutenberg.org/ebooks/2701"
   },
@@ -18,8 +18,8 @@
     "lat": 41.2828,
     "lon": -70.0994,
     "place_type": "original",
-    "note_en": "Melville describes the island as a remote sandy outpost; the marker represents the island as a whole",
-    "note": "梅尔维尔将这座岛描写为偏远的沙地前哨；标记代表全岛",
+    "note_en": "The Pequod sails from Nantucket, and Melville writes about the island as the center of the whaling world. The funny thing is that he hadn't been here yet. His first visit was in 1852, a year after the book came out. Today the Whaling Museum brings that world back to life",
+    "note": "裴廓德号的母港。梅尔维尔把这座岛写成捕鲸业的世界中心，可他写书时还没来过——直到《白鲸》出版后的 1852 年才第一次上岛。岛上的捕鲸博物馆讲的正是书里那个世界",
     "coord_checked": "Nantucket — https://en.wikipedia.org/wiki/Nantucket",
     "fact_source": "https://www.gutenberg.org/ebooks/2701"
   },
@@ -30,8 +30,8 @@
     "lat": 42.4392,
     "lon": -71.3397,
     "place_type": "original",
-    "note_en": "Thoreau describes the pond and his life beside it; the marker represents the pond, not an exact cabin location",
-    "note": "梭罗描写这座湖泊以及湖畔生活；标记代表湖泊，并非木屋的精确位置",
+    "note_en": "Thoreau moved into a one-room cabin he'd built on the north shore on July 4, 1845, and stayed two years, two months, and two days. Walden came out of that experiment. The cabin is long gone, but stone posts mark where it stood, and visitors still add rocks to the cairn beside it. There's a replica of the cabin near the parking lot",
+    "note": "梭罗 1845 年 7 月 4 日搬进湖边自己盖的小木屋，住了两年两个月零两天，写成《瓦尔登湖》。木屋原址在北岸林中，立着石柱，旁边是一堆访客一块块添上去的石头；停车场边有一座照原样复建的小屋",
     "coord_checked": "Walden Pond — https://en.wikipedia.org/wiki/Walden_Pond",
     "fact_source": "https://www.gutenberg.org/ebooks/205"
   },
@@ -42,8 +42,8 @@
     "lat": 38.9047,
     "lon": -77.0164,
     "place_type": "original",
-    "note_en": "Whitman records visiting wartime hospitals across the city; this is a city-wide marker",
-    "note": "惠特曼记录了在全城探望战时医院的经历；此标记代表整座城市",
+    "note_en": "Whitman spent most of the Civil War in Washington. By day he worked as a government clerk; the rest of his time he spent in the army hospitals, sitting with wounded soldiers, writing letters home for them, and bringing small gifts of candy and spare change. His notes from those wards became some of the most moving pages in Specimen Days",
+    "note": "南北战争期间惠特曼在这里当政府文员，业余时间几乎都在各家战地医院里：给伤兵读书、代写家信、送零钱和糖果。《典型的日子》里那些病房记录，就是他在这座城里一天天写下的",
     "coord_checked": "Washington, D.C. — https://en.wikipedia.org/wiki/Washington,_D.C.",
     "fact_source": "https://www.gutenberg.org/ebooks/8813"
   },
@@ -54,8 +54,8 @@
     "lat": 38.3317,
     "lon": -77.4614,
     "place_type": "original",
-    "note_en": "Whitman visits a large brick mansion serving as a hospital on the Rappahannock at Falmouth; the town marker does not identify the exact building",
-    "note": "惠特曼在法尔茅斯探访拉帕汉诺克河岸一座充作医院的大砖宅；城镇标记不指认该建筑的精确位置",
+    "note_en": "In December 1862 Whitman spotted his brother George's name on a casualty list and rushed to the front at Fredericksburg. He found George, only lightly wounded, near a brick mansion on the Rappahannock that had been turned into a field hospital. Under a tree outside lay a pile of amputated arms and legs. That sight changed Whitman's life and sent him into the hospitals. The house is Chatham Manor, now part of a national military park",
+    "note": "1862 年 12 月，惠特曼在伤亡名单上看到弟弟乔治的名字，一路找到弗雷德里克斯堡前线。他在拉帕汉诺克河岸一座砖砌宅邸里找到了弟弟，门外树下堆着截下来的手脚——这一幕让他从此投身战地护理。那座宅邸就是查塔姆庄园，现属国家军事公园，可以参观",
     "coord_checked": "Falmouth, Virginia — https://en.wikipedia.org/wiki/Falmouth,_Virginia",
     "fact_source": "https://www.gutenberg.org/ebooks/8813"
   },
@@ -66,8 +66,8 @@
     "lat": 39.94,
     "lon": -75.105,
     "place_type": "original",
-    "note_en": "Whitman returns to Camden and describes a night crossing of the Delaware; the city marker is not a ferry position",
-    "note": "惠特曼返回卡姆登，描写夜渡特拉华河的景象；城市标记并非渡轮所在位置",
+    "note_en": "Whitman spent his last years in a modest house on Mickle Street, the only home he ever owned. He lived there until he died in 1892, still revising Leaves of Grass right to the end. The house is now a museum, and the granite tomb he designed for himself is in Harleigh Cemetery across town",
+    "note": "惠特曼晚年的家。米克尔街上那座小楼是他一生唯一买下的房子，他在这里住到 1892 年去世，不断修订《草叶集》；故居现为博物馆。他自己设计的花岗岩墓就在城里的哈利公墓",
     "coord_checked": "Camden, New Jersey — https://en.wikipedia.org/wiki/Camden,_New_Jersey",
     "fact_source": "https://www.gutenberg.org/ebooks/8813"
   },
@@ -78,8 +78,8 @@
     "lat": 40.4397,
     "lon": -79.9764,
     "place_type": "original",
-    "note_en": "Whitman describes the industrial city during his 1879 railway journey; the marker represents the city",
-    "note": "惠特曼在一八七九年的铁路旅途中描写这座工业城市；标记代表全城",
+    "note_en": "In 1879, at age sixty, Whitman finally took his first trip out West, and Pittsburgh was one of his stops along the way. In Specimen Days he describes the steel city at night, with its furnace fires, its smoke, and its lights reflected on the rivers",
+    "note": "1879 年惠特曼六十岁，第一次西行到大平原，途经这座炼钢城。《典型的日子》记下了他眼里夜晚的匹兹堡：火光、浓烟和河上的灯",
     "coord_checked": "Pittsburgh — https://en.wikipedia.org/wiki/Pittsburgh",
     "fact_source": "https://www.gutenberg.org/ebooks/8813"
   },
@@ -90,12 +90,10 @@
     "lat": 42.4589,
     "lon": -71.3351,
     "place_type": "prototype",
-    "note_en": "Alcott wrote and set Little Women at Orchard House; the fictional March family room is not a measured description of the surviving interior",
-    "note": "奥尔科特在果园居写作《小妇人》，并以此为故事背景；马奇家的虚构房间并非现存室内的实测描写",
     "coord_checked": "Orchard House — https://en.wikipedia.org/wiki/Orchard_House",
     "fact_source": "https://en.wikipedia.org/wiki/Orchard_House",
-    "prototype_of": "马奇家的住宅",
-    "prototype_of_en": "The March family home"
+    "prototype_of": "《小妇人》马奇家的原型：奥尔科特一家 1858 至 1877 年住在这里。1868 年路易莎就在父亲为她做的那块半月形窗间书桌上写成了《小妇人》，书桌和梅（小说里的艾米）在墙上画的画都还在",
+    "prototype_of_en": "The Marches' house in Little Women is based on this one. The Alcotts lived here from 1858 to 1877, and in 1868 Louisa wrote the novel at a little half-moon desk her father built for her between two windows. The desk is still there, along with drawings her sister May (the real Amy) sketched right on the walls"
   },
   {
     "id": "great-neck-west-egg",
@@ -104,12 +102,10 @@
     "lat": 40.7872,
     "lon": -73.7272,
     "place_type": "prototype",
-    "note_en": "Great Neck is associated with the novel’s West Egg; this marker represents the community, not Gatsby’s fictional mansion",
-    "note": "大颈镇与小说中的西卵相对应；此标记代表社区，而非盖茨比虚构的豪宅",
     "coord_checked": "Great Neck, New York — https://en.wikipedia.org/wiki/Great_Neck,_New_York",
     "fact_source": "https://en.wikipedia.org/wiki/Great_Neck,_New_York",
-    "prototype_of": "西卵",
-    "prototype_of_en": "West Egg"
+    "prototype_of": "《了不起的盖茨比》里西卵的原型：菲茨杰拉德 1922 至 1924 年租住在大颈镇，在这里开始构思这部小说。隔着曼哈塞特湾对岸的桑兹角，就是黛西住的东卵",
+    "prototype_of_en": "Great Neck is the real West Egg. Fitzgerald rented a house here from 1922 to 1924 and started The Great Gatsby while living in town. Across Manhasset Bay is Sands Point, the model for Daisy's East Egg"
   },
   {
     "id": "manhattan-plaza-hotel",
@@ -118,8 +114,8 @@
     "lat": 40.7645,
     "lon": -73.9744,
     "place_type": "original",
-    "note_en": "Jordan tells Nick about Daisy and Gatsby while they sit in the hotel’s tea garden",
-    "note": "乔丹在饭店茶园里向尼克讲述黛西与盖茨比的往事",
+    "note_en": "Two big moments in The Great Gatsby happen at the Plaza. Jordan tells Nick the story of Daisy and Gatsby over tea here, and later, on the hottest day of the summer, everyone crowds into a suite upstairs, where Tom finally confronts Gatsby. The Fitzgeralds were regulars at the hotel themselves",
+    "note": "《了不起的盖茨比》两场关键戏都在这家饭店：乔丹在茶园里向尼克讲出黛西和盖茨比的往事；第七章那个酷热的下午，几个人挤进饭店套房，汤姆当众戳穿盖茨比。菲茨杰拉德夫妇本人也是这里的常客",
     "coord_checked": "Plaza Hotel — https://en.wikipedia.org/wiki/Plaza_Hotel",
     "fact_source": "https://www.gutenberg.org/ebooks/64317"
   },
@@ -130,8 +126,8 @@
     "lat": 32.7681,
     "lon": -79.8364,
     "place_type": "original",
-    "note_en": "Poe places Legrand’s retreat on this island; the marker represents the island, not the fictional hut",
-    "note": "坡将勒格朗的隐居处设在这座岛上；标记代表岛屿，而非虚构的小屋",
+    "note_en": "This is the island where the treasure hunt in The Gold-Bug takes place. Poe knew it well: he was stationed at Fort Moultrie here in 1827 and 1828, enlisted under the name Edgar A. Perry. The island hasn't forgotten him. There's a Poe Avenue, a Goldbug Avenue, and a library named after him",
+    "note": "《金甲虫》的寻宝故事就发生在这座岛上。坡 1827 至 1828 年以“埃德加·A·佩里”的化名在岛上的穆尔特里堡当兵，后来把这片沙滩写进了小说。如今岛上有坡大道、金甲虫大道，图书馆也以他命名",
     "coord_checked": "Sullivan's Island, South Carolina — https://en.wikipedia.org/wiki/Sullivan's_Island,_South_Carolina",
     "fact_source": "https://www.gutenberg.org/ebooks/2147"
   },
@@ -142,8 +138,8 @@
     "lat": 32.8139,
     "lon": -79.9319,
     "place_type": "original",
-    "note_en": "The narrator lives in Charleston and travels to visit Legrand; this is a city-wide marker",
-    "note": "叙述者住在查尔斯顿，并从那里前往勒格朗的住处；此标记代表全城",
+    "note_en": "The narrator of The Gold-Bug lives in Charleston and takes the boat over to Sullivan's Island to visit his friend Legrand. The story's famous code-breaking scene brought cryptography to ordinary readers for the first time and inspired a long line of detective and treasure-hunt stories",
+    "note": "《金甲虫》的叙述者住在查尔斯顿，常从城里过海去沙利文岛看望勒格朗。小说里破译藏宝密码的那一段让密码学第一次走进大众阅读，影响了后来许多侦探和寻宝故事",
     "coord_checked": "Charleston, South Carolina — https://en.wikipedia.org/wiki/Charleston,_South_Carolina",
     "fact_source": "https://www.gutenberg.org/ebooks/2147"
   },
@@ -154,12 +150,10 @@
     "lat": 34.21,
     "lon": -77.8867,
     "place_type": "prototype",
-    "note_en": "The fictional Wellington reworks Wilmington and the white-supremacist violence of 1898; the marker represents the city",
-    "note": "虚构的威灵顿以威尔明顿及一八九八年的白人至上主义暴力事件为基础；标记代表全城",
     "coord_checked": "Wilmington, North Carolina — https://en.wikipedia.org/wiki/Wilmington,_North_Carolina",
     "fact_source": "https://en.wikipedia.org/wiki/The_Marrow_of_Tradition",
-    "prototype_of": "威灵顿",
-    "prototype_of_en": "Wellington"
+    "prototype_of": "《传统的精髓》里威灵顿的原型：切斯纳特把 1898 年的威明顿暴乱写进了这部小说——白人至上主义者以暴力推翻了民选的黑白联合市政府，常被称为美国本土唯一一次成功的政变。这是最早正面写这场暴行的小说之一",
+    "prototype_of_en": "Wellington, the town in The Marrow of Tradition, stands in for Wilmington. Chesnutt based the novel on the 1898 Wilmington massacre, when armed white supremacists drove out the city's elected, racially mixed government. It's often called the only successful coup in American history, and his novel was one of the first to tell the story"
   },
   {
     "id": "clyde-winesburg",
@@ -168,12 +162,10 @@
     "lat": 41.31,
     "lon": -82.9906,
     "place_type": "prototype",
-    "note_en": "Anderson’s childhood town helped shape fictional Winesburg; the marker is not the separate real town named Winesburg",
-    "note": "安德森童年居住的城镇启发了虚构的温斯堡；此标记并非另一座真实存在的同名城镇",
     "coord_checked": "Clyde, Ohio — https://en.wikipedia.org/wiki/Clyde,_Ohio",
     "fact_source": "https://en.wikipedia.org/wiki/Winesburg,_Ohio",
-    "prototype_of": "温斯堡",
-    "prototype_of_en": "Winesburg"
+    "prototype_of": "《小城畸人》温斯堡的原型：舍伍德·安德森在克莱德度过童年和少年时代，书里那些孤独古怪的小镇人物，很多能在这里找到影子。镇上至今以“温斯堡”自豪",
+    "prototype_of_en": "Clyde is the town behind Winesburg, Ohio. Sherwood Anderson grew up here, and many of the lonely, eccentric people in his stories were drawn from the neighbors he remembered. The town still proudly claims to be Winesburg"
   },
   {
     "id": "franconia-frost",
@@ -182,8 +174,8 @@
     "lat": 44.1842,
     "lon": -71.6614,
     "place_type": "original",
-    "note_en": "The title poem remembers election results displayed at a film screening in Franconia; the marker represents the town",
-    "note": "标题诗回忆弗兰科尼亚一次电影放映中公布选举结果的情景；标记代表城镇",
+    "note_en": "Frost lived on a farm in the hills outside Franconia from 1915 to 1920. His long poem New Hampshire remembers watching election results flash up on the screen at the local movie theater. The farmhouse is now The Frost Place, a small museum that hosts a poet in residence every summer",
+    "note": "弗罗斯特 1915 至 1920 年在弗兰科尼亚山间的农场生活，长诗《新罕布什尔》里写到镇上电影院放映选举结果的一幕。他的农舍如今叫“弗罗斯特之家”，是博物馆，每年夏天还接待一位驻地诗人",
     "coord_checked": "Franconia, New Hampshire — https://en.wikipedia.org/wiki/Franconia,_New_Hampshire",
     "fact_source": "https://www.gutenberg.org/ebooks/58611"
   },
@@ -194,8 +186,8 @@
     "lat": 38.69,
     "lon": -75.3856,
     "place_type": "original",
-    "note_en": "Townsend’s fictionalized account sends Patty Cannon to jail here; the marker represents the town, not a surviving jail",
-    "note": "汤森的小说化叙述写到帕蒂·坎农被押往这里的监狱；标记代表城镇，并非现存监狱",
+    "note_en": "In the early 1800s Patty Cannon ran a notorious gang on the Delmarva Peninsula that kidnapped free Black people and sold them into slavery in the South. She died in the Georgetown jail in 1829. George Alfred Townsend built his novel The Entailed Hat around her story",
+    "note": "帕蒂·坎农是 19 世纪初德尔马瓦半岛上臭名昭著的人贩子头目，专门绑架自由黑人卖往南方。1829 年她在乔治敦的监狱里死去。汤森的《世袭的帽子》以她为中心写了这段历史",
     "coord_checked": "Georgetown, Delaware — https://en.wikipedia.org/wiki/Georgetown,_Delaware",
     "fact_source": "https://www.gutenberg.org/ebooks/19146"
   },
@@ -206,8 +198,8 @@
     "lat": 38.2097,
     "lon": -75.695,
     "place_type": "original",
-    "note_en": "The novel opens with the town’s courts, churches and social hierarchy; the marker represents the town",
-    "note": "小说开篇描写城镇的法院、教堂及社会等级；标记代表城镇",
+    "note_en": "The Entailed Hat opens in this small Maryland county seat, with its courthouse, its churches, and its strict social order. Townsend grew up in Delaware and made his name as a Civil War correspondent, and in this novel he went back to the dark history of his own home peninsula",
+    "note": "《世袭的帽子》从这座马里兰小城开篇：法院、教堂和泾渭分明的社会等级。作者汤森是德拉瓦人、南北战争时的名记者，他写的正是自己家乡这片半岛的旧日阴影",
     "coord_checked": "Princess Anne, Maryland — https://en.wikipedia.org/wiki/Princess_Anne,_Maryland",
     "fact_source": "https://www.gutenberg.org/ebooks/19146"
   },
@@ -218,8 +210,8 @@
     "lat": 41.767,
     "lon": -72.7008,
     "place_type": "pilgrimage",
-    "note_en": "Harriet Beecher Stowe lived here from 1873 until her death in 1896. Her later home is now a public house museum at the Stowe Center for Literary Activism; Uncle Tom’s Cabin had been published in 1852, before she lived here",
-    "note": "哈丽特·比彻·斯托从一八七三年起住在这里，直至一八九六年去世。这座晚年故居如今是斯托文学行动中心对公众开放的故居博物馆；《汤姆叔叔的小屋》早在一八五二年便已出版，并非在此写成",
+    "note_en": "Uncle Tom's Cabin made Stowe one of the most famous writers in the world, and she spent her last twenty-plus years here in Hartford's Nook Farm neighborhood, right next door to Mark Twain. The house is now the Harriet Beecher Stowe Center, which tells the story of how her book changed the country",
+    "note": "《汤姆叔叔的小屋》让斯托成了世界上最有名的美国作家之一，晚年她在哈特福德的“书呆子农场”住了二十多年，隔壁就是马克·吐温的家。故居现为斯托中心，展出她的家具、手稿和这本书改变美国的故事",
     "coord_checked": "Harriet Beecher Stowe House (Hartford, Connecticut) — https://en.wikipedia.org/wiki/Harriet_Beecher_Stowe_House_(Hartford,_Connecticut)",
     "fact_source": "https://en.wikipedia.org/wiki/Harriet_Beecher_Stowe_House_(Hartford,_Connecticut)",
     "book_ids": [
@@ -233,8 +225,8 @@
     "lat": 43.9128,
     "lon": -69.9608,
     "place_type": "pilgrimage",
-    "note_en": "Harriet Beecher Stowe and her family rented this house from 1850 to 1852, when she wrote Uncle Tom’s Cabin. It now belongs to Bowdoin College and contains faculty offices; scheduled public access is limited to Harriet’s Writing Room. The house is not a setting of the novel",
-    "note": "哈丽特·比彻·斯托与家人于一八五〇至一八五二年租住此屋，其间写作《汤姆叔叔的小屋》。房屋现属鲍登学院，内设教师办公室；公众只能按开放安排参观哈丽特写作室。这里并非小说的故事地点",
+    "note_en": "Stowe wrote Uncle Tom's Cabin in this house between 1850 and 1852. She later said the whole book started with a vision she had during a service at First Parish Church in town, where she suddenly saw Uncle Tom being beaten to death. She went home and wrote that scene first. The house belongs to Bowdoin College, and her writing room is open to visitors on certain days",
+    "note": "《汤姆叔叔的小屋》诞生的地方。1850 至 1852 年斯托住在这里，据她回忆，小说的念头来自镇上第一教区教堂的一次礼拜，她眼前浮现出汤姆被鞭打致死的情景，回家后先写下了这一章。房子现属鲍登学院，她的写作室按开放安排可以参观",
     "coord_checked": "Harriet Beecher Stowe House (Brunswick, Maine) — https://en.wikipedia.org/wiki/Harriet_Beecher_Stowe_House_(Brunswick,_Maine)",
     "fact_source": "https://www.bowdoin.edu/english/stowe-house/index.html",
     "book_ids": [
@@ -248,8 +240,8 @@
     "lat": 41.8257,
     "lon": -71.4065,
     "place_type": "pilgrimage",
-    "note_en": "Edgar Allan Poe and Sarah Helen Whitman visited this library during their 1848 courtship; she ended their relationship here on December 23. It remains a member-supported library open to visitors. Poe did not live here, and The Gold-Bug is not set here",
-    "note": "埃德加·爱伦·坡与莎拉·海伦·惠特曼在一八四八年交往期间到访这座图书馆；十二月二十三日，她在这里结束了两人的关系。这里如今仍是向访客开放的会员制图书馆。坡并未居住于此，《金甲虫》的故事也不发生在这里",
+    "note_en": "In 1848 Poe courted the poet Sarah Helen Whitman among the stacks of this library. According to a well-known story, when she asked him who wrote an unsigned poem in a magazine here, he signed his name under it on the spot. The poem was Ulalume. That December she broke off their engagement, also at the Athenaeum. The library is still open today",
+    "note": "1848 年坡在这座图书馆的书架间追求诗人莎拉·海伦·惠特曼。据说她曾问起一首匿名发表的诗，坡当场在杂志上签下自己的名字——那首诗就是《尤娜路姆》。同年 12 月，她也是在这里结束了两人的婚约。图书馆至今开放",
     "coord_checked": "Providence Athenaeum — https://en.wikipedia.org/wiki/Providence_Athenaeum",
     "fact_source": "https://en.wikipedia.org/wiki/Providence_Athenaeum",
     "book_ids": [
@@ -263,8 +255,8 @@
     "lat": 42.9345,
     "lon": -73.2102,
     "place_type": "pilgrimage",
-    "note_en": "Robert Frost lived here from 1920 to 1929 and wrote poems collected in New Hampshire, including Stopping by Woods on a Snowy Evening. The house is now a public museum owned by Bennington College; its position does not identify the poem’s unnamed woods",
-    "note": "罗伯特·弗罗斯特于一九二〇至一九二九年居住在此，写下后来收入《新罕布什尔》的诗篇，其中包括《雪夜林边小驻》。这里如今是本宁顿学院所属、对公众开放的博物馆；故居位置不能用于确定诗中未具名的树林",
+    "note_en": "America's most famous winter poem was written in summer. On a hot June morning in 1922, Frost sat down at the dining table in this stone house and wrote Stopping by Woods on a Snowy Evening. It appeared in his collection New Hampshire, which won him the first of his four Pulitzer Prizes. He lived here from 1920 to 1929, and the house is now a museum",
+    "note": "美国最有名的雪夜诗写于盛夏：1922 年 6 月一个炎热的清晨，弗罗斯特在这座石屋的餐桌上写下了《雪夜林边小驻》，后来收进为他赢得第一个普利策奖的《新罕布什尔》。他 1920 至 1929 年住在这里，石屋现为博物馆",
     "coord_checked": "Robert Frost Stone House Museum — https://mapcarta.com/W1128346439",
     "fact_source": "https://www.bennington.edu/robert-frost-stone-house-museum",
     "book_ids": [
@@ -278,12 +270,10 @@
     "lat": 39.7097,
     "lon": -91.3939,
     "place_type": "prototype",
-    "note_en": "Huck and Tom look from the hilltop toward the town and river at night; Hannibal inspired St. Petersburg, and this point represents the city as a whole",
-    "note": "哈克和汤姆从山顶眺望小镇与夜色中的河流；汉尼拔是圣彼得斯堡的原型，坐标代表城市整体",
     "coord_checked": "Wikipedia: Hannibal — https://en.wikipedia.org/wiki/Hannibal,_Missouri",
     "fact_source": "https://sites.msudenver.edu/tpswesternregion/672-2/",
-    "prototype_of": "虚构的圣彼得斯堡镇；同时也是《密西西比河上的生活》中写到的真实汉尼拔",
-    "prototype_of_en": "The fictional town of St. Petersburg; also the real Hannibal described in Life on the Mississippi"
+    "prototype_of": "汤姆·索亚和哈克的家乡圣彼得斯堡镇的原型：马克·吐温 1839 至 1853 年在汉尼拔长大，小说里的白篱笆、卡迪夫山、河边的木筏和洞穴都能在镇上找到。《密西西比河上的生活》里，他又以真名写了重回故乡的情景",
+    "prototype_of_en": "Hannibal is the real St. Petersburg, the river town where Tom Sawyer and Huck Finn grow up. Mark Twain lived here as a boy from 1839 to 1853, and you can still find the whitewashed fence, Cardiff Hill, the cave, and of course the river. Years later, in Life on the Mississippi, he wrote about coming back to his hometown"
   },
   {
     "id": "memphis",
@@ -292,8 +282,8 @@
     "lat": 35.1461,
     "lon": -90.0519,
     "place_type": "original",
-    "note_en": "After the Pennsylvania steamboat disaster, Henry and other injured passengers receive care in Memphis. The point represents the place as a whole",
-    "note": "宾夕法尼亚号汽船失事后，亨利和其他伤员在孟菲斯接受照料。坐标代表该地点整体",
+    "note_en": "In 1858 the steamboat Pennsylvania exploded on the Mississippi. Twain's younger brother Henry, who had taken a job on the boat at Twain's urging, was badly burned and died a few days later in a makeshift hospital in Memphis. Twain later claimed he'd dreamed of Henry lying in a metal coffin before the accident. He never got over the loss, and he wrote about it in Life on the Mississippi",
+    "note": "1858 年宾夕法尼亚号汽船锅炉爆炸，吐温的弟弟亨利重伤，在孟菲斯的临时医院里去世，是吐温介绍他上船的。吐温后来说自己出事前梦见过弟弟躺在金属棺材里。《密西西比河上的生活》写下了这段他一生难忘的伤痛",
     "coord_checked": "Wikipedia: Memphis — https://en.wikipedia.org/wiki/Memphis,_Tennessee",
     "fact_source": "https://www.gutenberg.org/ebooks/245"
   },
@@ -304,8 +294,8 @@
     "lat": 42.4997,
     "lon": -90.7236,
     "place_type": "original",
-    "note_en": "Twain describes the Mississippi’s water and bluffs upstream of Dubuque; the city marker represents the nearby river landscape, not an identified viewpoint",
-    "note": "吐温描写迪比克上游密西西比河的水色与峭壁；城市标记代表附近河景，不指认某个精确观景点",
+    "note_en": "In 1882 Twain went back to the Mississippi and took a steamboat all the way upriver. Once he gets above Dubuque, Life on the Mississippi stops worrying about snags and sandbars like an old riverboat pilot and starts describing the bluffs, the islands, and the color of the water. He thought this was the most beautiful stretch of the whole river",
+    "note": "1882 年吐温重回密西西比河，一路坐汽船北上。《密西西比河上的生活》写迪比克上游时，他放下了河道领航员的眼光，写起了峭壁、岛屿和水色——在他笔下，这是整条河最美的一段",
     "coord_checked": "Wikipedia: Dubuque — https://en.wikipedia.org/wiki/Dubuque,_Iowa",
     "fact_source": "https://www.gutenberg.org/ebooks/245"
   },
@@ -316,8 +306,8 @@
     "lat": 44.9478,
     "lon": -93.1039,
     "place_type": "original",
-    "note_en": "The northbound journey ends at Saint Paul. The point represents the place as a whole",
-    "note": "北上旅程在圣保罗结束。坐标代表该地点整体",
+    "note_en": "Saint Paul is where Twain's 1882 trip in Life on the Mississippi comes to an end. He had traveled all the way up from New Orleans, and here he found a young northern city that was growing fast",
+    "note": "《密西西比河上的生活》那趟 1882 年重返大河之旅的终点。吐温从新奥尔良一路北上，到圣保罗下了船，他在书里看到的是一座迅速长大的北方新城",
     "coord_checked": "Wikipedia: Saint Paul — https://en.wikipedia.org/wiki/Saint_Paul,_Minnesota",
     "fact_source": "https://www.gutenberg.org/ebooks/245"
   },
@@ -328,8 +318,8 @@
     "lat": 29.9761,
     "lon": -90.0783,
     "place_type": "original",
-    "note_en": "Twain looks down from a high-water steamboat toward houses behind the levee, watches Canal Street crowds and recalls a torchlit Mardi Gras procession; the point represents the city as a whole",
-    "note": "吐温从高水位上的汽船俯瞰堤后的房屋，观看运河街人群，并回忆火炬照耀的狂欢节游行；坐标代表城市整体",
+    "note_en": "When Twain was a riverboat pilot, New Orleans was the end of the line. Coming back in 1882, he wrote in Life on the Mississippi about levees that rose higher than the rooftops, the crowds on Canal Street, and Mardi Gras parades lit by torches",
+    "note": "当年吐温在这条河上做领航员，新奥尔良是航线的终点。1882 年重回旧地，他在《密西西比河上的生活》里写高过屋顶的河堤、运河街的人潮和火把照亮的狂欢节游行",
     "coord_checked": "Wikipedia: New Orleans — https://en.wikipedia.org/wiki/New_Orleans",
     "fact_source": "https://www.gutenberg.org/cache/epub/245/pg245.txt"
   },
@@ -340,8 +330,8 @@
     "lat": 38.2561,
     "lon": -85.7514,
     "place_type": "original",
-    "note_en": "Aunt Chloe works for a confectioner in Louisville to help raise money to redeem Tom. The point represents the place as a whole",
-    "note": "克洛伊大娘在路易斯维尔为糖果糕点商工作，筹钱赎回汤姆。坐标代表该地点整体",
+    "note_en": "In Uncle Tom's Cabin, only the Ohio River separates Kentucky from the free states to the north. After Tom is sold down the river, his wife, Aunt Chloe, takes a job at a bakery in Louisville and saves every penny she can to buy him back",
+    "note": "《汤姆叔叔的小屋》里的肯塔基与自由州只隔一条俄亥俄河。汤姆被卖往南方后，克洛伊大娘到路易斯维尔给糕点铺做工，一分一分攒钱想把他赎回来",
     "coord_checked": "Wikipedia: Louisville — https://en.wikipedia.org/wiki/Louisville,_Kentucky",
     "fact_source": "https://www.gutenberg.org/ebooks/203"
   },
@@ -352,8 +342,8 @@
     "lat": 41.8819,
     "lon": -87.6278,
     "place_type": "original",
-    "note_en": "Carrie travels to Chicago to join her sister. The point represents the place as a whole",
-    "note": "嘉莉前往芝加哥投奔姐姐。坐标代表该地点整体",
+    "note_en": "Sister Carrie opens with eighteen-year-old Carrie on a train to Chicago, dazzled by the booming city's lights and shop windows. When the novel came out in 1900, it was considered so immoral that its own publisher barely sold it. Today it's seen as the book that launched American naturalism",
+    "note": "《嘉莉妹妹》开篇，十八岁的嘉莉坐火车来到正在疯长的芝加哥，被城市的灯火和橱窗吸引，一步步卷入欲望之中。这部书 1900 年出版时被认为有伤风化，出版社几乎没有发行，后来却被视为美国自然主义小说的开端",
     "coord_checked": "Wikipedia: Chicago — https://en.wikipedia.org/wiki/Chicago",
     "fact_source": "https://www.gutenberg.org/ebooks/233"
   },
@@ -364,12 +354,10 @@
     "lat": 39.7686,
     "lon": -86.1581,
     "place_type": "prototype",
-    "note_en": "Indianapolis is the model for the novel’s Midland town; the opening evokes spacious residential yards shaded by surviving forest trees, and the point represents the city rather than a specific fictional house",
-    "note": "印第安纳波利斯是小说中部城镇的原型；开篇描写残存林木为宽敞庭院投下浓荫，坐标代表城市整体，并不指认某座虚构住宅",
     "coord_checked": "Wikipedia: Indianapolis — https://en.wikipedia.org/wiki/Indianapolis",
     "fact_source": "https://historicindianapolis.com/indianapolis-collected-the-ravages-of-the-road/",
-    "prototype_of": "小说中未具名的中部城镇",
-    "prototype_of_en": "The unnamed Midland town"
+    "prototype_of": "《伟大的安伯森家族》里那座中西部城市的原型：塔金顿生在印第安纳波利斯，看着它从马车小城变成工业城市。小说写一个旧家族随着汽车时代到来而没落，1919 年获普利策奖，后来奥逊·威尔斯把它拍成了电影",
+    "prototype_of_en": "The unnamed Midwestern city in The Magnificent Ambersons is Indianapolis. Booth Tarkington was born here and watched it grow from a quiet town of horses and buggies into a sprawling industrial city. His novel about a proud old family ruined by the age of the automobile won the 1919 Pulitzer Prize, and Orson Welles later turned it into a film"
   },
   {
     "id": "pepin",
@@ -378,8 +366,8 @@
     "lat": 44.4425,
     "lon": -92.1478,
     "place_type": "original",
-    "note_en": "Laura and her family visit Pepin in the chapter Going to Town. The point represents the place as a whole",
-    "note": "在《进城》一章中，劳拉与家人到佩平游览购物。坐标代表该地点整体",
+    "note_en": "Laura Ingalls Wilder was born in the Big Woods near Pepin in 1867, and Little House in the Big Woods is the story of her early childhood there. When the family goes into town, it's Pepin they're visiting. A replica of the log cabin stands a few miles north of town",
+    "note": "劳拉·英格尔斯·怀尔德 1867 年生在佩平附近的大森林里，《大森林里的小木屋》写的就是这里的童年。书中一家人赶车进城买东西，就是来佩平。镇北有照原样复建的小木屋",
     "coord_checked": "Wikipedia: Pepin — https://en.wikipedia.org/wiki/Pepin,_Wisconsin",
     "fact_source": "https://www.storychasers.com/big-woods"
   },
@@ -390,12 +378,10 @@
     "lat": 31.5042,
     "lon": -87.3258,
     "place_type": "prototype",
-    "note_en": "Monroeville inspired the fictional town of Maycomb. The point represents the place as a whole",
-    "note": "门罗维尔是虚构城镇梅科姆的原型。坐标代表该地点整体",
     "coord_checked": "Wikipedia: Monroeville — https://en.wikipedia.org/wiki/Monroeville,_Alabama",
     "fact_source": "https://alabama.travel/plan-your-trip/road-trips/monroeville-the-to-kill-a-mockingbird-experience/",
-    "prototype_of_en": "Maycomb",
-    "prototype_of": "梅科姆"
+    "prototype_of_en": "Monroeville is the real Maycomb. Harper Lee grew up here, and her next-door neighbor and best friend as a child was Truman Capote, who became the model for Dill. The old courthouse on the town square is now a museum. Its courtroom was so iconic that Hollywood built an exact copy of it for the movie",
+    "prototype_of": "《杀死一只知更鸟》梅科姆镇的原型：哈珀·李在这里长大，童年的邻居和玩伴就是杜鲁门·卡波特，书里的迪儿正是以他为原型。镇中心的老法院如今是博物馆，电影里的法庭就是照它的样子搭的"
   },
   {
     "id": "eatonton",
@@ -404,12 +390,10 @@
     "lat": 33.3264,
     "lon": -83.3878,
     "place_type": "prototype",
-    "note_en": "Walker’s childhood landscape around Eatonton informs the novel’s rural Georgia setting. The point represents the place as a whole",
-    "note": "沃克在伊顿顿周边度过童年的乡村环境，为小说中的佐治亚乡村提供了背景。坐标代表该地点整体",
     "coord_checked": "Wikipedia: Eatonton — https://en.wikipedia.org/wiki/Eatonton,_Georgia",
     "fact_source": "https://catalog.afi.com/Film/67174-THE-COLOR-PURPLE?cxt=ymal",
-    "prototype_of_en": "Celie’s rural Georgia community",
-    "prototype_of": "西莉生活的佐治亚乡村"
+    "prototype_of_en": "The rural Georgia of The Color Purple comes from here. Alice Walker was born to a sharecropping family near Eatonton in 1944, and the voices, fields, and churches of the novel all come from this corner of the state. Eatonton is also the hometown of Joel Chandler Harris, who wrote the Uncle Remus stories",
+    "prototype_of": "《紫色》里西莉生活的佐治亚乡村：艾丽斯·沃克 1944 年生在伊顿顿附近的佃农家庭，小说的乡音、田地和教会都来自这里。镇上还出过另一位作家——《雷木斯大叔》的作者乔尔·钱德勒·哈里斯"
   },
   {
     "id": "oxford-mississippi",
@@ -418,12 +402,10 @@
     "lat": 34.3722,
     "lon": -89.5081,
     "place_type": "prototype",
-    "note_en": "Oxford inspired Faulkner’s fictional Jefferson. The point represents the place as a whole",
-    "note": "牛津是福克纳笔下虚构城镇杰斐逊的原型。坐标代表该地点整体",
     "coord_checked": "Wikipedia: Oxford — https://en.wikipedia.org/wiki/Oxford,_Mississippi",
     "fact_source": "https://en.wikipedia.org/wiki/Oxford,_Mississippi",
-    "prototype_of_en": "Jefferson",
-    "prototype_of": "杰斐逊"
+    "prototype_of_en": "Oxford is the model for Jefferson, the town at the center of Faulkner's work. He lived here nearly all his life, and he turned the town and the county around it into his own fictional Yoknapatawpha County, home of the Compson family in The Sound and the Fury. His house, Rowan Oak, is open to the public, and you can still see the outline of one of his novels that he wrote on the wall of his study",
+    "prototype_of": "福克纳笔下杰斐逊镇的原型：他一生几乎都住在牛津，用这座小城和周围的县造出了虚构的约克纳帕塔法县，《喧哗与骚动》的康普生家就住在这里。他的故居山楸橡树园对外开放，书房墙上还留着他亲手写的小说提纲"
   },
   {
     "id": "eatonville",
@@ -432,8 +414,8 @@
     "lat": 28.6167,
     "lon": -81.3906,
     "place_type": "original",
-    "note_en": "Janie lives in Eatonville with Joe Starks, whose store becomes a focus of town life. The point represents the place as a whole",
-    "note": "珍妮与乔·斯塔克斯住在伊顿维尔；乔的商店是镇上生活的中心之一。坐标代表该地点整体",
+    "note_en": "Founded in 1887, Eatonville was one of the first all-Black towns in America to govern itself. Zora Neale Hurston grew up here, and it's the town where Janie and Joe Starks run their store in Their Eyes Were Watching God. Joe is based on Eatonville's real mayor, Joe Clarke. The town celebrates its most famous daughter with a Zora festival every year",
+    "note": "1887 年建镇，是美国最早由黑人自治的城镇之一。赫斯顿在这里长大，《他们眼望上苍》里珍妮和乔·斯塔克斯开店的小镇就是伊顿维尔，乔的原型是真实的镇长乔·克拉克。镇上每年举办佐拉文化节",
     "coord_checked": "Wikipedia: Eatonville — https://en.wikipedia.org/wiki/Eatonville,_Florida",
     "fact_source": "https://en.wikipedia.org/wiki/Their_Eyes_Were_Watching_God"
   },
@@ -444,8 +426,8 @@
     "lat": 30.3261,
     "lon": -81.6581,
     "place_type": "original",
-    "note_en": "Janie leaves Eatonville to marry Tea Cake in Jacksonville. The point represents the place as a whole",
-    "note": "珍妮离开伊顿维尔，前往杰克逊维尔与茶点结婚。坐标代表该地点整体",
+    "note_en": "Jacksonville marks a turning point in Their Eyes Were Watching God. After her husband Joe dies, Janie leaves Eatonville with the much younger Tea Cake, marries him here, and finally starts a life she has chosen for herself",
+    "note": "《他们眼望上苍》的转折点：珍妮在乔死后离开伊顿维尔，跟年轻的茶点来到杰克逊维尔结婚，开始她自己选择的生活。小说把这座海滨城市写成她第一次真正出走的地方",
     "coord_checked": "Wikipedia: Jacksonville — https://en.wikipedia.org/wiki/Jacksonville,_Florida",
     "fact_source": "https://en.wikipedia.org/wiki/Their_Eyes_Were_Watching_God"
   },
@@ -456,8 +438,8 @@
     "lat": 46.3456,
     "lon": -85.9456,
     "place_type": "original",
-    "note_en": "Nick arrives at the fire-damaged town in Big Two-Hearted River. The point represents the place as a whole",
-    "note": "在《大双心河》中，尼克来到遭大火毁坏的塞尼。坐标代表该地点整体",
+    "note_en": "Big Two-Hearted River opens with Nick stepping off a train into a town that has burned to the ground. Seney had once been a booming lumber town. Hemingway came up here to fish in 1919, just back from the war, and turned that trip into one of his best-known stories",
+    "note": "《大双心河》开头，尼克下火车，看到的是一座被大火烧光的小镇。塞尼原是伐木热潮里的边疆镇。1919 年海明威从一战战场回来后来这里钓鱼，后来把这次旅行写成了他最有名的短篇之一",
     "coord_checked": "Wikipedia: Seney — https://en.wikipedia.org/wiki/Seney,_Michigan",
     "fact_source": "https://en.wikipedia.org/wiki/Big_Two-Hearted_River"
   },
@@ -468,12 +450,10 @@
     "lat": 46.26,
     "lon": -85.8786,
     "place_type": "prototype",
-    "note_en": "Hemingway’s fishing experience on the Fox River informed Big Two-Hearted River. The map uses the public page’s river marker, not a claimed campsite. The point represents the place as a whole",
-    "note": "海明威在福克斯河的垂钓经历为《大双心河》提供了素材。地图采用公开页面的河流标记，不指认小说营地。坐标代表该地点整体",
     "coord_checked": "Wikipedia: Fox River, Michigan — https://en.wikipedia.org/wiki/Fox_River_(Michigan)",
     "fact_source": "https://www.michiganhemingwaysociety.org/publications/hemingway-in-seney/",
-    "prototype_of_en": "The river in Big Two-Hearted River",
-    "prototype_of": "《大双心河》中的河流"
+    "prototype_of_en": "This is the river Hemingway actually fished in 1919. He liked the sound of the Two Hearted, a different river farther north, so he borrowed that name for his story. That means the river in Big Two-Hearted River isn't the Two Hearted on the map. It's the Fox",
+    "prototype_of": "《大双心河》里那条河的原型：海明威 1919 年真正钓鱼的是塞尼附近的福克斯河。他觉得北边另一条河“双心河”的名字更好听，就借了过来，所以小说里的河和地图上的双心河其实不是同一条"
   },
   {
     "id": "fort-smith",
@@ -482,8 +462,8 @@
     "lat": 35.3797,
     "lon": -94.3819,
     "place_type": "original",
-    "note_en": "Sheriff July Johnson leaves Fort Smith in pursuit of Jake Spoon. The point represents the place as a whole",
-    "note": "警长朱莱·约翰逊离开史密斯堡追捕杰克·斯普恩。坐标代表该地点整体",
+    "note_en": "In Lonesome Dove, Sheriff July Johnson leaves Fort Smith and heads across the plains to hunt down Jake Spoon. In the 1800s this border town was the gateway to Indian Territory and the home of Judge Isaac Parker's federal court. People called him the Hanging Judge",
+    "note": "《孤鸽镇》里阿肯色州的警长朱莱·约翰逊从史密斯堡出发，横穿大平原追捕凶手杰克·斯普恩。这座边境小城在十九世纪是通往印第安领地的门户，以“绞刑法官”帕克的联邦法院闻名",
     "coord_checked": "Wikipedia: Fort Smith — https://en.wikipedia.org/wiki/Fort_Smith,_Arkansas",
     "fact_source": "https://en.wikipedia.org/wiki/Lonesome_Dove"
   },
@@ -494,8 +474,8 @@
     "lat": 29.425,
     "lon": -98.4939,
     "place_type": "original",
-    "note_en": "Call returns Gus’s body to an orchard near the city in Lonesome Dove; O. Henry’s “A Fog in Santone” follows Goodall across its foggy bridges and into a concert hall. The city marker does not identify a particular orchard, bridge or hall",
-    "note": "《孤鸽镇》中，考尔将格斯的遗体送回城外果园；欧·亨利的《圣安东尼奥的雾》则跟随古德尔走过雾中桥梁、进入音乐厅。城市坐标不指认某处果园、桥梁或厅堂",
+    "note_en": "Two very different books meet in San Antonio. At the end of Lonesome Dove, Call keeps his promise to his old friend Gus and hauls his body three thousand miles from Montana back to Texas, to bury him in a grove near town where Gus once picnicked with the woman he loved. In O. Henry's A Fog in Santone, a sick young man wanders out into the fog that has settled over the city. O. Henry lived in San Antonio for a while too",
+    "note": "两本书在这里相遇。《孤鸽镇》结尾，考尔遵守承诺，把格斯的遗体从蒙大拿运回三千英里外的得克萨斯，葬在城外他们当年野餐的果园；欧·亨利的短篇《圣安东尼奥的雾》则让一个病人走进笼罩全城的雾。欧·亨利也在这座城里住过",
     "coord_checked": "Wikipedia: San Antonio — https://en.wikipedia.org/wiki/San_Antonio",
     "fact_source": "https://en.wikipedia.org/wiki/Lonesome_Dove"
   },
@@ -506,8 +486,8 @@
     "lat": 40.7608,
     "lon": -111.8911,
     "place_type": "original",
-    "note_en": "Twain describes the city seen against its surrounding mountains. The marker represents the city as a whole",
-    "note": "吐温描写群山映衬下的盐湖城；标记代表整座城市",
+    "note_en": "In 1861 a young Samuel Clemens crossed the country by stagecoach with his older brother. They stopped in Salt Lake City for two days, and he even met the Mormon leader Brigham Young. In Roughing It he describes the city, ringed by mountains, with his usual dry humor",
+    "note": "1861 年年轻的塞缪尔·克莱门斯随哥哥坐驿车横穿大陆，在盐湖城停了两天，还见到了摩门教领袖杨百翰。《苦行记》里他用一贯的幽默写了这座群山环抱的城",
     "coord_checked": "Salt Lake City — https://en.wikipedia.org/wiki/Salt_Lake_City",
     "fact_source": "https://www.gutenberg.org/ebooks/3177"
   },
@@ -518,8 +498,8 @@
     "lat": 39.3075,
     "lon": -119.6483,
     "place_type": "original",
-    "note_en": "Twain turns a single hay wagon into a newspaper story in this Nevada mining town. The marker represents the town, not a verified newspaper-office address",
-    "note": "吐温在这座内华达矿业城镇把一辆运草车编成多条新闻；标记代表城镇，并非已核实的报社地址",
+    "note_en": "This is where Mark Twain was born, at least on paper. In February 1863 Samuel Clemens signed the name 'Mark Twain' for the first time, in the local newspaper, the Territorial Enterprise. In Roughing It he jokes about his days as a young reporter here, when he could turn a single hay wagon into several news stories",
+    "note": "“马克·吐温”诞生的地方：1863 年 2 月，塞缪尔·克莱门斯在本地《领土企业报》上第一次用这个笔名署名。《苦行记》里，他还讲了自己当记者时怎么把一辆运草车编成好几条新闻",
     "coord_checked": "Virginia City, Nevada — https://en.wikipedia.org/wiki/Virginia_City,_Nevada",
     "fact_source": "https://www.gutenberg.org/ebooks/3177"
   },
@@ -530,8 +510,8 @@
     "lat": 21.3046,
     "lon": -157.8572,
     "place_type": "original",
-    "note_en": "Twain recalls the fruit available during his visit. The marker represents the city as a whole at its present-day civic center, Honolulu Hale; it does not locate the fruit passage at that building",
-    "note": "吐温回忆在此游览时吃到的水果；以今日市政厅的位置代表整个檀香山，供地图定位；并非指水果片段发生在这座建筑里",
+    "note_en": "In 1866 the Sacramento Union sent Twain to Hawaii for four months. When he got back, his lectures about the islands made him a star on the stage. The later chapters of Roughing It tell the story of that trip, including all the fruit he ate",
+    "note": "1866 年吐温作为《萨克拉门托联合报》的通讯员在夏威夷待了四个月，回去后靠讲夏威夷见闻成了走红的演讲家。《苦行记》后半部分写的就是这趟旅行，包括这里的水果",
     "coord_checked": "Honolulu Hale (representative city point) — https://en.wikipedia.org/wiki/Honolulu_Hale",
     "fact_source": "https://www.gutenberg.org/ebooks/3177"
   },
@@ -542,8 +522,8 @@
     "lat": 45.3736,
     "lon": -121.6958,
     "place_type": "original",
-    "note_en": "Muir watches Mount Hood glow in the sunset from a Willamette River bridge in Portland; the summit marks the mountain he sees, not his viewing position",
-    "note": "缪尔在波特兰的一座威拉米特河桥上欣赏胡德山的落日余晖；山顶坐标标示所见的山，而非作者的观景位置",
+    "note_en": "Standing on a bridge over the Willamette River in Portland, Muir watched the setting sun light up Mount Hood. The founder of the Sierra Club spent his life writing about the mountains of the West, and Steep Trails collects his travels in the Pacific Northwest",
+    "note": "缪尔站在波特兰的威拉米特河桥上，看夕阳把胡德山染成一片光。这位塞拉俱乐部的创始人一生为西部的山写作，《险峻的山径》收了他在太平洋西北的游记",
     "coord_checked": "Mount Hood — https://en.wikipedia.org/wiki/Mount_Hood",
     "fact_source": "https://www.gutenberg.org/ebooks/326"
   },
@@ -554,8 +534,8 @@
     "lat": 47.6039,
     "lon": -122.33,
     "place_type": "original",
-    "note_en": "Muir describes Seattle and Tacoma as rival growing towns. The marker represents Seattle as a whole",
-    "note": "缪尔描写西雅图与塔科马这两座互相竞争的新兴城镇；标记代表整个西雅图",
+    "note_en": "On his way to Alaska, Muir passed through Puget Sound when Seattle was still a small, new town competing with Tacoma to become the end of the railroad line. Travels in Alaska gives us a quick look at the city in its early days",
+    "note": "缪尔北上阿拉斯加时途经普吉特湾，那时的西雅图还是和塔科马争当铁路终点的新兴小镇。《阿拉斯加游记》留下了这座城市早年的一瞥",
     "coord_checked": "Seattle — https://en.wikipedia.org/wiki/Seattle",
     "fact_source": "https://www.gutenberg.org/ebooks/7345"
   },
@@ -566,8 +546,8 @@
     "lat": 47.2458,
     "lon": -122.4594,
     "place_type": "original",
-    "note_en": "Muir describes Tacoma as Seattle’s rival and a railway terminus. The marker represents the town as a whole",
-    "note": "缪尔将塔科马描写为西雅图的竞争对手及铁路终点；标记代表整个城镇",
+    "note_en": "When Muir came through, Tacoma had just won the race to be the Northern Pacific Railroad's western terminus, and it was busy showing up its rival Seattle; Travels in Alaska catches the two young towns sizing each other up. In 1888 Muir climbed Mount Rainier, which you can see from here. On a clear day the mountain still looms over the city from the waterfront",
+    "note": "缪尔经过时，塔科马刚被选为北太平洋铁路的终点，正和西雅图较劲，《阿拉斯加游记》写下了两座新城互不服气的样子。缪尔 1888 年还登上了从这里就能望见的雷尼尔山。今天天气好时，站在港口边仍能看到雪山压在城市上方",
     "coord_checked": "Tacoma, Washington — https://en.wikipedia.org/wiki/Tacoma,_Washington",
     "fact_source": "https://www.gutenberg.org/ebooks/7345"
   },
@@ -578,8 +558,8 @@
     "lat": 56.385,
     "lon": -132.0864,
     "place_type": "original",
-    "note_en": "Muir arrives here by canoe before planning a journey farther north. The marker represents the settlement, not an identified landing",
-    "note": "缪尔乘独木舟抵达此地，继而筹划继续北行；标记代表聚落，并非已确定的登岸地点",
+    "note_en": "In 1879 Muir set out from Wrangell by canoe with the missionary S. Hall Young and a crew of Tlingit guides. They paddled into Glacier Bay, which hardly any outsiders had seen at the time. Muir's account in Travels in Alaska made the bay famous, and today it's a national park",
+    "note": "1879 年缪尔以兰格尔为基地，和传教士扬及特林吉特向导划独木舟北上，闯进了当时外人几乎不知道的冰川湾。《阿拉斯加游记》里的这段航行让冰川湾闻名，如今那里是国家公园",
     "coord_checked": "Wrangell, Alaska — https://en.wikipedia.org/wiki/Wrangell,_Alaska",
     "fact_source": "https://www.gutenberg.org/ebooks/7345"
   },
@@ -590,8 +570,8 @@
     "lat": 41.8994,
     "lon": -106.2019,
     "place_type": "original",
-    "note_en": "The narrator’s train stops here at the beginning of The Virginian. The marker represents the town rather than an identified historic water tank",
-    "note": "《弗吉尼亚人》开篇，叙述者乘坐的列车在这里停靠；标记代表城镇，并非已确定的历史水塔",
+    "note_en": "The Virginian, often called the first true Western novel, opens at this little railroad stop in Wyoming. It's here that the hero delivers the book's most famous line: 'When you call me that, smile!' The Virginian Hotel, built in 1911 and named after the novel, is still open for business",
+    "note": "第一部西部小说《弗吉尼亚人》从这个怀俄明铁路小站开场，那句名言“你这么叫我的时候，要笑着说”就发生在这里。镇上 1911 年盖的弗吉尼亚人旅馆以小说命名，至今营业",
     "coord_checked": "Medicine Bow, Wyoming — https://en.wikipedia.org/wiki/Medicine_Bow,_Wyoming",
     "fact_source": "https://www.gutenberg.org/ebooks/1298"
   },
@@ -602,8 +582,8 @@
     "lat": 45.5786,
     "lon": -98.4119,
     "place_type": "original",
-    "note_en": "In the author’s preface, Garland recalls travelling to Ordway, where his parents lived. This is a nonfiction preface location, represented by the settlement point",
-    "note": "加兰在作者序言中回忆前往父母居住的奥德韦；这是非虚构序言中的地点，以聚落坐标代表",
+    "note_en": "Hamlin Garland's parents homesteaded near Ordway, in what was then Dakota Territory. In the preface to Main-Travelled Roads he describes coming back years later and seeing just how hard farm life was. That trip shaped the book, now a classic of Midwestern fiction",
+    "note": "加兰的父母在达科他领地开荒，就住在奥德韦附近。《大路》序言里，他回忆多年后重回这里，看到农民生活的艰辛，这本书因此成了写美国中西部农民的名作",
     "coord_checked": "Ordway, South Dakota — https://en.wikipedia.org/wiki/Ordway,_South_Dakota",
     "fact_source": "https://www.gutenberg.org/ebooks/2809"
   },
@@ -614,8 +594,8 @@
     "lat": 35.1806,
     "lon": -111.62,
     "place_type": "original",
-    "note_en": "Flagstaff is a named waypoint in the novel’s Route 66 panorama. The marker represents the city as a whole",
-    "note": "弗拉格斯塔夫是小说描写六十六号公路时点名的沿途城镇；标记代表整座城市",
+    "note_en": "Chapter 12 of The Grapes of Wrath follows Route 66 town by town, and Flagstaff is one of the stops. That same chapter is where Steinbeck called Route 66 'the mother road,' a nickname that has stuck ever since",
+    "note": "《愤怒的葡萄》第十二章写 66 号公路，一口气念出沿途城镇的名字，弗拉格斯塔夫是其中之一。斯坦贝克在这一章里把 66 号公路叫作“母亲之路”，这个名字从此跟着这条路",
     "coord_checked": "Flagstaff, Arizona — https://en.wikipedia.org/wiki/Flagstaff,_Arizona",
     "fact_source": "https://americanliterature.com/author/john-steinbeck/book/the-grapes-of-wrath/chapter-12"
   },
@@ -626,8 +606,8 @@
     "lat": 35.4606,
     "lon": -94.8072,
     "place_type": "original",
-    "note_en": "Tom Joad returns to his family’s home near Sallisaw. The town point represents the surrounding setting; it does not locate the fictional farm",
-    "note": "汤姆·乔德回到萨利索附近的家；以城镇坐标代表周边故事区域，并非虚构农场的精确位置",
+    "note_en": "Sallisaw is the Joad family's home. The Grapes of Wrath opens with Tom, just out of prison, coming back to find that the bank has taken the farm and tractors have knocked down the house. Sallisaw wasn't actually in the worst part of the Dust Bowl, but thanks to the novel, it became the symbol of the Okie migration",
+    "note": "乔德一家的老家。《愤怒的葡萄》开篇，汤姆出狱回到萨利索附近，发现家里的农场已被银行收走、拖拉机推平。萨利索其实不在沙尘暴最严重的地带，但小说让它成了沙尘暴难民的代名词",
     "coord_checked": "Sallisaw, Oklahoma — https://en.wikipedia.org/wiki/Sallisaw,_Oklahoma",
     "fact_source": "https://en.wikipedia.org/wiki/The_Grapes_of_Wrath"
   },
@@ -638,12 +618,10 @@
     "lat": 35.2231,
     "lon": -118.9053,
     "place_type": "prototype",
-    "note_en": "The real migrant camp informed the government camp depicted in The Grapes of Wrath. The marker identifies the historic camp",
-    "note": "这座真实的移民劳工营地为《愤怒的葡萄》中的政府营地提供了素材；标记指向历史营地",
     "coord_checked": "Weedpatch Camp — https://en.wikipedia.org/wiki/Weedpatch_Camp",
     "fact_source": "https://en.wikipedia.org/wiki/Weedpatch_Camp",
-    "prototype_of": "《愤怒的葡萄》中的政府移民营地",
-    "prototype_of_en": "The government migrant camp in The Grapes of Wrath"
+    "prototype_of": "《愤怒的葡萄》里政府移民营地的原型：1936 年开放的阿尔文联邦营地，乔德一家在这里第一次得到尊严。斯坦贝克多次来访，营地主任汤姆·柯林斯就是书前献词里那位“亲身经历过的汤姆”。几座当年的营地建筑保留至今，加州正在考虑把这里建成州立公园",
+    "prototype_of_en": "The government camp in The Grapes of Wrath, where the Joads are finally treated with dignity, was based on this one, the Arvin Federal Government Camp, which opened in 1936. Steinbeck visited often, and the camp's manager, Tom Collins, is the 'Tom who lived it' in the book's dedication. A few of the original buildings are still standing, and California is now considering turning the site into a state park"
   },
   {
     "id": "denver",
@@ -652,8 +630,8 @@
     "lat": 39.74,
     "lon": -104.99,
     "place_type": "original",
-    "note_en": "Sal meets Dean, Carlo and their circle in Denver on his first westward trip. The marker represents the city as a whole",
-    "note": "萨尔初次西行时在丹佛与迪安、卡洛及他们的朋友会合；标记代表整座城市",
+    "note_en": "Denver is where Sal heads on his first trip west in On the Road, and it's Dean Moriarty's hometown. Dean was based on Neal Cassady, who grew up here. In 1947 Kerouac came to Denver to find him, and that trip became the backbone of the Beat Generation's defining novel",
+    "note": "《在路上》里萨尔第一次西行的目的地，是迪安·莫里亚蒂的家乡。迪安的原型尼尔·卡萨迪就在丹佛长大，1947 年凯鲁亚克来这里找他，后来写成了“垮掉的一代”的代表作",
     "coord_checked": "Denver — https://en.wikipedia.org/wiki/Denver",
     "fact_source": "https://en.wikipedia.org/wiki/On_the_Road"
   },
@@ -664,8 +642,8 @@
     "lat": 37.7775,
     "lon": -122.4164,
     "place_type": "original",
-    "note_en": "Sal looks across the city toward the Pacific before leaving; The Sea-Wolf opens aboard a fogbound ferry bound here from Sausalito. The city marker represents these views and destination, not the exact lookout or collision site",
-    "note": "萨尔离开前越过城市眺望太平洋；《海狼》则从索萨利托驶往此地的雾中渡轮开篇。城市坐标代表所见城市及航程终点，不指认眺望处或碰撞地点",
+    "note_en": "Two novels pass through San Francisco. The Sea-Wolf opens with a ferry sinking in thick fog on the bay, and the narrator is pulled from the water by Wolf Larsen's ship. In On the Road, Sal crosses the entire continent to get here and looks out at the Pacific before heading back",
+    "note": "两部小说在这里交会：《海狼》开篇，渡轮在旧金山湾的大雾里被撞沉，主人公落水后被“海狼”拉森的船救起；《在路上》里，萨尔一路横穿大陆，来到这座城市，又在离开前回望太平洋",
     "coord_checked": "San Francisco — https://en.wikipedia.org/wiki/San_Francisco",
     "fact_source": "https://en.wikipedia.org/wiki/On_the_Road"
   },
@@ -676,8 +654,8 @@
     "lat": 46.8733,
     "lon": -96.8272,
     "place_type": "original",
-    "note_en": "Steinbeck compares the Fargo he visits with the place he has imagined. The marker represents the city as a whole",
-    "note": "斯坦贝克将亲见的法戈与心中的想象比较；标记代表整座城市",
+    "note_en": "In 1960 Steinbeck set off across America in a camper truck with his poodle Charley. Ever since he was a boy, Fargo had seemed to him like the most far-off, mysterious name on the map, and in Travels with Charley he describes what it felt like to finally get there",
+    "note": "1960 年斯坦贝克带着狗查理开着露营车环游美国。他从小就觉得法戈是地图上最遥远、最神秘的地方，《与查理同行》写了他终于来到法戈时的感受",
     "coord_checked": "Fargo, North Dakota — https://en.wikipedia.org/wiki/Fargo,_North_Dakota",
     "fact_source": "https://en.wikipedia.org/wiki/Travels_with_Charley"
   },
@@ -688,8 +666,8 @@
     "lat": 45.7836,
     "lon": -108.5061,
     "place_type": "original",
-    "note_en": "Steinbeck buys a hat in Billings as he lingers in Montana. The marker represents the city, not an identified shop",
-    "note": "斯坦贝克流连蒙大拿时在比灵斯买了一顶帽子；标记代表城市，并非已确定的店铺",
+    "note_en": "In Travels with Charley, Steinbeck declares 'I am in love with Montana' as soon as he crosses the state line, stops in Billings to buy himself a hat, and finds the people unhurried and kind. It's one of the warmest passages in the book. Billings is Montana's biggest city now, and trails along the Rimrocks, the sandstone cliffs north of town, look out over the city and the Yellowstone valley",
+    "note": "《与查理同行》里，斯坦贝克一进蒙大拿就说“我爱上了蒙大拿”，在比灵斯停下来买了一顶帽子，觉得这里的人从容又友善。这是全书最温暖的一段。比灵斯今天是蒙大拿最大的城市，城北那道砂岩悬崖“里姆罗克斯”上有步道，可以俯瞰全城和黄石河谷",
     "coord_checked": "Billings, Montana — https://en.wikipedia.org/wiki/Billings,_Montana",
     "fact_source": "https://gutenbergcanada.ca/ebooks/steinbeckj-travelswithcharley/steinbeckj-travelswithcharley-00-h.html"
   },
@@ -700,8 +678,8 @@
     "lat": 43.4903,
     "lon": -116.3717,
     "place_type": "original",
-    "note_en": "Stegner evokes the station landscape after the train’s noise fades, with wind in the wires and roads crossing treeless sage country; the existing point represents Kuna as a whole",
-    "note": "斯特格纳描写列车声散去后的车站风景：电线间低吟的风，以及穿过无树蒿草地的道路；坐标代表库纳整体",
+    "note_en": "In Angle of Repose, Susan Ward comes out to Idaho to join her husband and gets off the train at Kuna, a lonely station surrounded by sagebrush. Wallace Stegner based the novel on the letters of the writer and illustrator Mary Hallock Foote, and it won the Pulitzer Prize in 1972",
+    "note": "《安息角》里，苏珊·沃德来爱达荷与丈夫团聚，在库纳这个荒野小站下了火车。斯泰格纳以 19 世纪女作家兼插画家玛丽·哈洛克·富特的书信为底本写成这部小说，1972 年获普利策奖",
     "coord_checked": "Kuna, Idaho — https://en.wikipedia.org/wiki/Kuna,_Idaho",
     "fact_source": "https://en.wikipedia.org/wiki/Kuna,_Idaho"
   },
@@ -712,8 +690,8 @@
     "lat": 39.2506,
     "lon": -106.2911,
     "place_type": "original",
-    "note_en": "Leadville belongs to the Wards’ mining-world itinerary in Angle of Repose. The marker represents the town as a whole",
-    "note": "莱德维尔是《安息角》中沃德一家在矿业世界辗转的地点之一；标记代表整个城镇",
+    "note_en": "Leadville was a mountain mining town at the height of Colorado's silver rush. The Wards in Angle of Repose live here for a while, just as Mary Hallock Foote and her husband did in 1879, the year the boom was at its wildest",
+    "note": "科罗拉多银矿热潮中的高山矿镇。《安息角》里沃德夫妇在这里度过一段时光，原型富特夫妇 1879 年确实住在莱德维尔，那是这座城最疯狂的年代",
     "coord_checked": "Leadville, Colorado — https://en.wikipedia.org/wiki/Leadville,_Colorado",
     "fact_source": "https://en.wikipedia.org/wiki/Angle_of_Repose"
   },
@@ -724,8 +702,8 @@
     "lat": 42.3603,
     "lon": -71.0578,
     "place_type": "original",
-    "note_en": "Hawthorne stages Hester’s public punishment in colonial Boston; this city-wide marker does not identify a surviving prison or scaffold",
-    "note": "霍桑把海丝特当众受罚的情节设在殖民时期的波士顿；此城市代表点不表示现存的监狱或刑台",
+    "note_en": "The Scarlet Letter opens in colonial Boston, with Hester Prynne standing on the scaffold, her baby in her arms and a scarlet A sewn onto her dress. In King's Chapel Burying Ground there's a gravestone for a woman named Elizabeth Pain, and legend says she was Hawthorne's inspiration for Hester",
+    "note": "《红字》开篇，海丝特抱着婴儿、胸前戴着红色的 A 字，站在殖民地波士顿的刑台上示众。国王礼拜堂墓地里有一块伊丽莎白·佩恩的墓碑，相传就是海丝特的原型",
     "coord_checked": "Boston — https://en.wikipedia.org/wiki/Boston",
     "fact_source": "https://en.wikipedia.org/wiki/Boston"
   },
@@ -736,8 +714,8 @@
     "lat": 42.5214,
     "lon": -70.8869,
     "place_type": "pilgrimage",
-    "note_en": "Hawthorne worked here from 1846 to 1849 and described it in The Scarlet Letter’s introduction; the preserved National Park Service building contains exhibits and his office",
-    "note": "霍桑于1846至1849年在此工作，并在《红字》导言中描写这里；现由美国国家公园管理局保存，设有展览及其办公室",
+    "note_en": "This is where The Scarlet Letter began. Hawthorne worked here as the surveyor from 1846 to 1849, and after he lost the job, he wrote the novel. In the book's introduction he claims he found a faded scarlet A and an old manuscript in a room upstairs, which is of course part of the fiction. The Custom House is now part of a national historic site, and you can see his office",
+    "note": "《红字》是从这里来的：霍桑 1846 至 1849 年在海关当检查官，丢了这份差事后写成了小说。他在序言里说，自己在楼上一间旧屋里找到一块褪色的红布 A 字和一份旧手稿——这当然是小说家的设计。海关大楼现属国家公园，可以看到他的办公室",
     "coord_checked": "Salem Custom House — https://www.hmdb.org/m.asp?m=86927",
     "fact_source": "https://www.nps.gov/places/custom-house.htm",
     "book_ids": [
@@ -751,8 +729,8 @@
     "lat": 42.3761,
     "lon": -72.5144,
     "place_type": "pilgrimage",
-    "note_en": "Dickinson lived in the Homestead from 1855 to 1886, writing poems and letters and tending its garden; the preserved house and neighboring Evergreens form a museum open on guided tours",
-    "note": "狄金森于1855至1886年居住在宅邸，写诗、通信并照料花园；故居与相邻的常青居组成博物馆，可参加导览参观",
+    "note_en": "Emily Dickinson was born in this house in 1830 and barely left Amherst her whole life. In her later years she hardly left the house at all. After she died, her sister found nearly 1,800 poems tucked away in her bedroom. Only about ten had ever been published. The Homestead and her brother's house next door, the Evergreens, now make up the Emily Dickinson Museum, and you can visit the room where she wrote",
+    "note": "狄金森 1830 年生在这座宅邸，一生几乎没有离开阿默斯特，后半生更是很少走出家门。她去世后，妹妹在她卧室里发现了近一千八百首诗，其中只有十来首在生前发表过。故居和隔壁哥哥的常青居组成博物馆，可以看到她写诗的卧室",
     "coord_checked": "Emily Dickinson Museum, Homestead — https://en.wikipedia.org/wiki/Emily_Dickinson_Museum",
     "fact_source": "https://en.wikipedia.org/wiki/Emily_Dickinson_Museum",
     "book_ids": [
@@ -766,8 +744,8 @@
     "lat": 42.3311,
     "lon": -73.282,
     "place_type": "pilgrimage",
-    "note_en": "Edith Wharton lived here from 1902 to 1911; her designed house and gardens are now a public museum and cultural center, linked here as an author home rather than a setting of The Age of Innocence",
-    "note": "伊迪丝·华顿于1902至1911年在此居住；她设计的宅邸与花园现为向公众开放的博物馆及文化中心，这里是作家故居而非《纯真年代》的故事地点",
+    "note_en": "Edith Wharton designed this house herself, following the ideas she'd laid out in her book The Decoration of Houses. She lived here from 1902 to 1911 and wrote her first bestseller, The House of Mirth, at The Mount. The old New York high society she later wrote about in The Age of Innocence was the world she grew up in",
+    "note": "华顿亲自设计的宅邸，把她和建筑师合写的《房屋装饰》里的主张全盖了出来。她 1902 至 1911 年住在这里，写成了第一部畅销小说《欢乐之家》。后来的《纯真年代》写的老纽约上流社会，正是她在这里过的那种生活",
     "coord_checked": "The Mount — https://en.wikipedia.org/wiki/The_Mount_(Lenox,_Massachusetts)",
     "fact_source": "https://en.wikipedia.org/wiki/The_Mount_(Lenox,_Massachusetts)",
     "book_ids": [
@@ -781,8 +759,8 @@
     "lat": 41.7625,
     "lon": -72.6742,
     "place_type": "original",
-    "note_en": "Dickens describes Hartford’s setting, Charter Oak and encounters at its asylum during his 1842 visit; this city marker does not pinpoint the vanished oak or individual hospital rooms",
-    "note": "狄更斯描写1842年访问期间所见的哈特福德景观、宪章橡树及疗养院里的交谈；此城市标记不代表已消失的橡树或某一病房",
+    "note_en": "Hartford gave Dickens a huge welcome on his first trip to America in 1842. In American Notes he describes the town and the Charter Oak, the tree where colonists supposedly hid Connecticut's charter (it came down in a storm in 1856). He also writes about the conversations he had with patients at the local asylum",
+    "note": "1842 年狄更斯首次访美，在哈特福德受到盛大欢迎。《美国札记》写了这座小城和传说中藏过殖民地特许状的宪章橡树（这棵树 1856 年倒下），还记下了他在精神病院里和病人的交谈",
     "coord_checked": "Hartford — https://en.wikipedia.org/wiki/Hartford,_Connecticut",
     "fact_source": "https://en.wikipedia.org/wiki/Hartford,_Connecticut"
   },
@@ -793,8 +771,8 @@
     "lat": 41.3083,
     "lon": -72.925,
     "place_type": "original",
-    "note_en": "Dickens describes the elm-lined streets and Yale buildings as a meeting of town and country; this marker represents the city as a whole",
-    "note": "狄更斯描写榆树成行的街道与耶鲁校舍，仿佛城市和乡村在此相遇；标记代表整座城市",
+    "note_en": "Passing through New Haven in 1842, Dickens admired Yale's buildings set among long rows of elm trees and felt that town and country had somehow met here. New Haven was already known as the Elm City, though most of those old elms were later killed by Dutch elm disease",
+    "note": "1842 年狄更斯路过纽黑文，看到耶鲁的校舍掩映在一排排榆树下，说这里仿佛是城市和乡村握了手。纽黑文本来就以“榆树之城”著称，可惜那些老榆树后来大多死于荷兰榆树病",
     "coord_checked": "New Haven — https://en.wikipedia.org/wiki/New_Haven,_Connecticut",
     "fact_source": "https://en.wikipedia.org/wiki/New_Haven,_Connecticut"
   },
@@ -805,8 +783,8 @@
     "lat": 40.7346,
     "lon": -73.9885,
     "place_type": "original",
-    "note_en": "The novel opens in the opera house’s red-and-gold boxes; the original building, opened in 1854, was demolished in 1926",
-    "note": "小说从歌剧院红金相间的包厢写起；原建筑于1854年开业，1926年拆除",
+    "note_en": "The Age of Innocence begins here: 'On a January evening of the early seventies, Christine Nilsson was singing in Faust at the Academy of Music in New York.' This opera house was the stronghold of old New York society. The newly rich couldn't get boxes, so in 1883 they built their own opera house, the Metropolitan. The Academy was torn down in 1926. It stood at 14th Street and Irving Place",
+    "note": "《纯真年代》开篇第一句：七十年代初一个一月的晚上，克丽丝汀·尼尔松正在音乐学院唱《浮士德》。这座歌剧院是老纽约世家的地盘，新富们挤不进包厢，就在 1883 年另建了大都会歌剧院。原楼 1926 年拆除，原址在十四街和欧文广场路口",
     "coord_checked": "Site of the Academy of Music — https://en.wikipedia.org/wiki/Academy_of_Music_(New_York_City)",
     "fact_source": "https://en.wikipedia.org/wiki/Academy_of_Music_(New_York_City)"
   },
@@ -817,8 +795,8 @@
     "lat": 40.7312,
     "lon": -73.9971,
     "place_type": "original",
-    "note_en": "Archer walks north from Washington Square along Fifth Avenue; the modern arch supplies a representative endpoint, not an object present in the novel’s 1870s scene, and the seasonal passage describes the avenue broadly",
-    "note": "阿切尔从华盛顿广场沿第五大道向北散步；今天的拱门仅提供代表性端点，并非小说十九世纪七十年代场景里的建筑，季节性段落则描写整条大道",
+    "note_en": "Washington Square and lower Fifth Avenue were home to the old-money families of The Age of Innocence. Walking up the avenue, Newland Archer moves through a world where keeping up appearances matters more than anything. Wharton herself was born just a few blocks away, on West 23rd Street",
+    "note": "华盛顿广场和第五大道南端是《纯真年代》里老纽约世家住的地方。纽兰·阿切尔沿着这条大道向北走，一路走过他那个讲究体面、不容越界的世界。华顿本人也出生在离这里不远的西二十三街",
     "coord_checked": "Lower Fifth Avenue at Washington Square — https://en.wikipedia.org/wiki/Washington_Square_Arch",
     "fact_source": "https://en.wikipedia.org/wiki/Washington_Square_Arch"
   },
@@ -829,12 +807,10 @@
     "lat": 40.0703,
     "lon": -80.6986,
     "place_type": "prototype",
-    "note_en": "Davis’s industrial town is based on Wheeling’s mills and immigrant communities; this marker represents the city, not a surviving fictional mill",
-    "note": "戴维斯笔下的工业城镇以惠灵的工厂及移民社区为基础；标记代表整座城市，而非小说中仍然存在的某间工厂",
     "coord_checked": "Wheeling — https://en.wikipedia.org/wiki/Wheeling,_West_Virginia",
     "fact_source": "https://en.wikipedia.org/wiki/Life_in_the_Iron_Mills",
-    "prototype_of": "未具名的炼铁城镇",
-    "prototype_of_en": "The unnamed iron-mill town"
+    "prototype_of": "《铁厂的生活》里那座炼铁城镇的原型：丽贝卡·哈丁·戴维斯在惠灵长大，看着工人在高炉边耗尽一生。这篇小说 1861 年匿名发表在《大西洋月刊》上，被认为是美国现实主义文学的开端之一",
+    "prototype_of_en": "The iron town in Life in the Iron Mills is Wheeling. Rebecca Harding Davis grew up here, watching workers wear out their lives in front of the furnaces. Her story appeared anonymously in The Atlantic in 1861, and it's now considered one of the first works of American realism"
   },
   {
     "id": "us-baltimore-poe-house",
@@ -843,8 +819,8 @@
     "lat": 39.2913,
     "lon": -76.6331,
     "place_type": "pilgrimage",
-    "note_en": "Poe lived here with his aunt’s family around 1833–1835; now a public house museum, it commemorates the author rather than the South Carolina setting of The Gold-Bug",
-    "note": "坡约于1833至1835年在此与姨母一家居住；现为向公众开放的故居博物馆，用以纪念作家，并非《金甲虫》在南卡罗来纳州的故事地点",
+    "note_en": "From about 1833 to 1835, Poe lived in this tiny brick house with his aunt, Maria Clemm, and his young cousin Virginia, who would later become his wife. He wrote some of his early stories here, and one of them, MS. Found in a Bottle, won a prize from a Baltimore newspaper. It was the first real money he'd ever made from writing. Poe is buried in Baltimore too",
+    "note": "坡和姨母玛丽亚·克莱姆一家约 1833 至 1835 年挤在这座小砖房里，阁楼一样的小房间里住着后来成为他妻子的表妹弗吉尼亚。他在这里写出早期短篇，《瓶中手稿》赢得巴尔的摩一家报纸的征文奖，第一次拿到了稿费。坡最后也葬在巴尔的摩",
     "coord_checked": "Edgar Allan Poe House and Museum — https://en.wikipedia.org/wiki/Edgar_Allan_Poe_House_and_Museum",
     "fact_source": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe_House_and_Museum",
     "book_ids": [
@@ -858,8 +834,8 @@
     "lat": 39.9617,
     "lon": -75.1503,
     "place_type": "pilgrimage",
-    "note_en": "Poe rented this house in 1843–1844, during his productive Philadelphia years when The Gold-Bug appeared; the preserved house is now a National Park Service historic site",
-    "note": "坡于1843至1844年租住此屋，正值其在费城创作丰收、《金甲虫》发表的时期；保存下来的故居现为美国国家公园管理局的历史遗址",
+    "note_en": "Poe lived at several addresses in Philadelphia, but this is the only one still standing. He was here in 1843 and 1844, during the most productive stretch of his career, when The Gold-Bug came out and became a hit. Visitors say the cellar looks a lot like the one in The Black Cat, where a body is walled up, and there's a raven statue out front. It's run by the National Park Service and free to visit",
+    "note": "坡在费城住过好几处，只有这一处留存下来。1843 至 1844 年他住在这里，正是创作最旺盛的时期，《金甲虫》就在这时发表并大获成功。故居地下室被认为很像《黑猫》里把尸体砌进墙里的那间，门前还立着一只乌鸦雕塑。现属国家公园管理局，免费开放",
     "coord_checked": "Edgar Allan Poe National Historic Site — https://en.wikipedia.org/wiki/Edgar_Allan_Poe_National_Historic_Site",
     "fact_source": "https://www.nps.gov/edal/learn/historyculture/timelines-lifeandtimespoe.htm",
     "book_ids": [
@@ -873,8 +849,8 @@
     "lat": 37.36694,
     "lon": -121.98389,
     "place_type": "original",
-    "note_en": "Buck’s sheltered life at Judge Miller’s fictional estate begins in this real valley; the point represents the valley, not an identified house",
-    "note": "巴克在米勒法官的虚构庄园里过着安逸生活，故事从真实的圣克拉拉谷开始；坐标代表山谷，并不指认某座住宅",
+    "note_en": "The Call of the Wild opens on Judge Miller's sunny estate in California, where Buck lives like a king until he's stolen and shipped off to the Klondike. The estate was based on Judge Hiram Bond's ranch in the Santa Clara Valley. Jack London met Bond's sons and their big dog during the gold rush, and that dog became Buck",
+    "note": "《野性的呼唤》开篇，巴克是加州阳光下米勒法官庄园里的大狗，直到被偷走卖往克朗代克。法官庄园以圣克拉拉谷的邦德法官家为原型；杰克·伦敦在淘金地认识了邦德家的儿子和他们的狗，那只狗就是巴克的原型",
     "coord_checked": "https://en.wikipedia.org/wiki/Santa_Clara_Valley (37.36694, -121.98389)",
     "fact_source": "https://www.gutenberg.org/ebooks/215"
   },
@@ -885,8 +861,8 @@
     "lat": 30.2727,
     "lon": -97.7393,
     "place_type": "original",
-    "note_en": "In “Bexar Scrip No. 2692,” the narrator evokes the heavy stone building and Sharp hides a land document in his coat; the surviving building is the story’s named setting",
-    "note": "在《贝克萨土地凭证第2692号》中，叙述者描写厚重的石砌建筑，夏普则将土地文件藏进外套；这座现存建筑正是故事点名的发生地",
+    "note_en": "O. Henry worked as a draftsman in this castle-like stone building from 1887 to 1891, and later used it as the setting for several stories, including Bexar Scrip No. 2692. Today it's the Texas Capitol Visitors Center",
+    "note": "欧·亨利 1887 至 1891 年在这座德国城堡式的石楼里当绘图员，后来把它写进了好几个短篇，《贝克萨土地凭证第 2692 号》就发生在这里。大楼现为得克萨斯州议会大厦游客中心",
     "coord_checked": "https://en.wikipedia.org/wiki/General_Land_Office_Building_(Austin,_Texas) (30.2727, -97.7393)",
     "fact_source": "https://www.gutenberg.org/ebooks/3815"
   },
@@ -897,12 +873,10 @@
     "lat": 40.08639,
     "lon": -98.52222,
     "place_type": "prototype",
-    "note_en": "Cather’s childhood town is the model for Black Hawk in My Ántonia; the marker represents the town rather than an identified fictional station",
-    "note": "凯瑟童年居住的小镇是《我的安东妮亚》中黑鹰镇的原型；标记代表小镇，并不指认小说车站的精确位置",
     "coord_checked": "https://en.wikipedia.org/wiki/Red_Cloud,_Nebraska (40.08639, -98.52222)",
     "fact_source": "https://www.willacather.org/big-read",
-    "prototype_of_en": "Black Hawk",
-    "prototype_of": "黑鹰镇"
+    "prototype_of_en": "Black Hawk, the town in My Ántonia, is based on Red Cloud. Willa Cather moved here from Virginia when she was nine and grew up on the Nebraska prairie. Red Cloud shows up under different names in six of her novels. The National Willa Cather Center offers tours of the opera house, train depot, and homes that appear in her books",
+    "prototype_of": "《我的安东妮亚》黑鹰镇的原型：凯瑟九岁随家人从弗吉尼亚搬到内布拉斯加，在雷德克劳德长大。她六部小说里的小镇都能在这里找到原型，镇上的国家薇拉·凯瑟中心可以参观她写进书里的歌剧院、火车站和房屋"
   },
   {
     "id": "us-santa-fe-cathedral",
@@ -911,12 +885,10 @@
     "lat": 35.6865,
     "lon": -105.9363,
     "place_type": "prototype",
-    "note_en": "The cathedral built by Archbishop Lamy is the model for Latour’s cathedral; Cather’s fictional architect and private recollections are not documentary accounts of its construction",
-    "note": "拉米大主教建造的教堂是拉图尔主教座堂的原型；凯瑟虚构的建筑师与私人回忆，并非真实建造过程的历史记录",
     "coord_checked": "https://en.wikipedia.org/wiki/Cathedral_Basilica_of_St._Francis_of_Assisi_(Santa_Fe) (35.6865, -105.9363)",
     "fact_source": "https://www.willacather.org/about/willa-cather-biography",
-    "prototype_of": "拉图尔主教座堂",
-    "prototype_of_en": "Latour’s cathedral"
+    "prototype_of": "《死神来迎接大主教》里拉图尔主教那座教堂的原型：真实的拉米大主教 1869 年起在圣菲修建这座罗马式大教堂，凯瑟以他为原型写了小说。拉米的铜像立在教堂门前，他本人就葬在教堂里",
+    "prototype_of_en": "This is the cathedral that Bishop Latour dreams of building in Death Comes for the Archbishop. Cather based Latour on the real Archbishop Jean-Baptiste Lamy, who began building this Romanesque cathedral in Santa Fe in 1869. His bronze statue stands by the entrance, and he's buried inside"
   },
   {
     "id": "us-wolf-house",
@@ -925,8 +897,8 @@
     "lat": 38.35056,
     "lon": -122.54306,
     "place_type": "pilgrimage",
-    "note_en": "Jack London began building this planned home in 1911; it burned in August 1913 before he and Charmian moved in. The masonry ruins are preserved in Jack London State Historic Park, with walking trails and guided tours",
-    "note": "杰克·伦敦于1911年开始修建这座理想住宅；1913年8月房屋失火，他与查米恩从未入住。砖石遗迹如今保存在杰克·伦敦州立历史公园内，可沿步道及参加导览参观",
+    "note_en": "Jack London poured his book money into his dream house, built from volcanic stone and redwood. In August 1913, just days before he and his wife were going to move in, it burned down in a single night. The stone walls that survived are the ruins you see today. London died three years later, and his ashes are buried on a small hill nearby, under a big red boulder",
+    "note": "杰克·伦敦用版税盖的梦想之家，石头和红木建了两年，1913 年 8 月在完工前夕一夜烧毁，他和妻子一天也没住过。烧剩的石墙就是今天的废墟。他三年后去世，骨灰埋在废墟附近的小山丘上，压着一块红色熔岩巨石",
     "coord_checked": "https://en.wikipedia.org/wiki/Wolf_House_(Glen_Ellen,_California) — 38°21′2″N 122°32′35″W",
     "fact_source": "https://jacklondonpark.com/wolf-house/",
     "book_ids": [
@@ -941,8 +913,8 @@
     "lat": 40.08778,
     "lon": -98.52111,
     "place_type": "pilgrimage",
-    "note_en": "Cather lived here from 1884 until leaving for university in 1890. The National Historic Landmark is managed by the Willa Cather Foundation and offers guided tours; it reopened in December 2023 after restoration",
-    "note": "凯瑟从1884年起住在这里，1890年赴大学求学后离开。这处美国国家历史地标由薇拉·凯瑟基金会管理，提供导览参观；修复后于2023年12月重新开放",
+    "note_en": "As a teenager, Willa Cather lived in the attic of this house and put up the wallpaper herself. Much of that wallpaper is still there. She later gave her attic room to Thea, the heroine of The Song of the Lark. The house reopened for tours in 2023 after a restoration",
+    "note": "凯瑟十几岁时住在这座房子的阁楼里，墙纸是她自己贴上去的，这些墙纸大部分保存至今。后来她在《云雀之歌》里把这间阁楼写成了主人公西娅的小屋。故居修复后 2023 年重新开放导览",
     "coord_checked": "https://en.wikipedia.org/wiki/Willa_Cather_House — 40°5′16″N 98°31′16″W",
     "fact_source": "https://www.nps.gov/places/willa-cather-house-ne.htm",
     "book_ids": [
@@ -957,8 +929,8 @@
     "lat": 30.26583,
     "lon": -97.73917,
     "place_type": "pilgrimage",
-    "note_en": "O. Henry and his family rented this cottage from 1893 to 1895. Relocated to Brush Square in 1934, it is now a city museum interpreting his Austin years through artifacts, exhibits and tours",
-    "note": "欧·亨利与家人于1893至1895年租住这座小屋。1934年建筑迁至布拉什广场，如今作为市立博物馆，以文物、展览和导览讲述他的奥斯汀岁月",
+    "note_en": "O. Henry lived in this cottage from 1893 to 1895, back when he was still William Sydney Porter, and ran a humor weekly called The Rolling Stone. Not long after, he was charged with embezzling money from the bank where he'd worked. It was in prison that he started writing stories under the name O. Henry. The cottage is now a museum, and every year it hosts the O. Henry Pun-Off",
+    "note": "1893 至 1895 年，还叫威廉·西德尼·波特的欧·亨利在这里住，同时办了一份幽默周刊《滚石》。不久他被控挪用银行公款，后来在狱中开始用“欧·亨利”这个笔名写小说。小屋现为博物馆，每年还举办“欧·亨利双关语大赛”",
     "coord_checked": "https://en.wikipedia.org/wiki/O._Henry_Museum — 30°15′57″N 97°44′21″W",
     "fact_source": "https://www.austintexas.gov/o-henry",
     "book_ids": [
@@ -972,12 +944,10 @@
     "lat": 37.12487,
     "lon": -95.83678,
     "place_type": "prototype",
-    "note_en": "The museum occupies the Kansas homesite associated with Wilder’s childhood and the novel’s prairie cabin. Its visible cabin is a replica; the marker identifies the remembered setting rather than an authenticated location of each fictional event",
-    "note": "博物馆坐落于堪萨斯州与怀尔德童年及小说草原小屋相联系的旧居遗址。现存木屋为复制品；标记指向回忆中的背景地，并不证明每个小说事件发生于某一精确位置",
     "coord_checked": "https://mapcarta.com/W1098598188 — 37.12487, -95.83678",
     "fact_source": "https://www.lhopmuseum.com/",
-    "prototype_of": "英格尔斯一家的草原小屋",
-    "prototype_of_en": "The Ingalls family’s prairie cabin"
+    "prototype_of": "《草原上的小木屋》的原型：1869 至 1871 年英格尔斯一家在这里开荒，爸爸亲手盖起小木屋。原址上复建了小木屋，旁边保留着当年的学校和邮局",
+    "prototype_of_en": "This is the real Little House on the Prairie. The Ingalls family homesteaded here from 1869 to 1871, and Pa built the cabin with his own hands. A replica cabin now stands on the site, along with an old one-room schoolhouse and post office"
   },
   {
     "id": "usatlanta",
@@ -986,8 +956,8 @@
     "lat": 33.7489,
     "lon": -84.39,
     "place_type": "original",
-    "note_en": "Scarlett attends the hospital bazaar, nurses wounded soldiers and stays with Melanie in wartime Atlanta; the city point represents these dispersed fictional scenes",
-    "note": "斯卡莉特在战时的亚特兰大参加医院义卖会、照料伤兵并陪伴梅兰妮；城市坐标代表这些分散的小说场景",
+    "note_en": "Atlanta is the city of Gone with the Wind. It's where Scarlett dances at the charity bazaar, nurses wounded soldiers, and finally flees as the city burns. Margaret Mitchell wrote the novel between 1926 and 1929 in a cramped Midtown apartment she nicknamed 'the Dump.' The building is now the Margaret Mitchell House museum",
+    "note": "《飘》的城市。斯嘉丽在战时的亚特兰大参加义卖舞会、照料伤兵，又在城市陷落的大火中逃出。玛格丽特·米切尔 1926 至 1929 年在市中心一间被她叫作“垃圾堆”的小公寓里写成了这部小说，公寓楼现为玛格丽特·米切尔故居博物馆",
     "coord_checked": "Wikipedia: Atlanta — https://en.wikipedia.org/wiki/Atlanta",
     "fact_source": "https://gutenberg.net.au/ebooks02/0200161.txt"
   },
@@ -998,8 +968,8 @@
     "lat": 29.9586,
     "lon": -90.065,
     "place_type": "original",
-    "note_en": "Twain walks through the old French quarter with George Washington Cable, observing weather-stained plaster and iron balconies; the point represents the quarter as a whole",
-    "note": "吐温与乔治·华盛顿·凯布尔漫游古老的法国区，观察风雨染色的灰泥墙和铁艺阳台；坐标代表该街区整体",
+    "note_en": "In 1882 Twain strolled through the French Quarter with the novelist George Washington Cable, taking in the weathered stucco walls and lacy iron balconies. Cable was famous at the time for his stories about Creole New Orleans, and Life on the Mississippi describes their walk together",
+    "note": "1882 年吐温和作家乔治·华盛顿·凯布尔一起漫步法国区，看风雨染色的灰泥墙和铁艺阳台。凯布尔写新奥尔良克里奥尔人的小说当时正红，《密西西比河上的生活》里写了这次同游",
     "coord_checked": "Wikipedia: French Quarter, New Orleans — https://en.wikipedia.org/wiki/French_Quarter",
     "fact_source": "https://www.gutenberg.org/cache/epub/245/pg245.txt"
   },
@@ -1010,8 +980,8 @@
     "lat": 30.0122,
     "lon": -90.1181,
     "place_type": "original",
-    "note_en": "Twain dines on a veranda above Lake Pontchartrain at West End; the point represents the lakeside district, not an identified surviving restaurant",
-    "note": "吐温在西区庞恰特雷恩湖水面上的露台用餐；坐标代表湖滨地区，并不指认某家现存餐馆",
+    "note_en": "West End was the lakeside resort where New Orleans went to relax on weekends. In Life on the Mississippi, Twain has dinner on a terrace overlooking Lake Pontchartrain, enjoying the evening breeze and the lights on the water",
+    "note": "当年新奥尔良人周末消遣的湖滨度假区。吐温在《密西西比河上的生活》里写自己坐在庞恰特雷恩湖上的露台吃饭，看着湖面的晚风和灯光",
     "coord_checked": "Wikipedia: West End, New Orleans — https://en.wikipedia.org/wiki/West_End,_New_Orleans",
     "fact_source": "https://www.gutenberg.org/cache/epub/245/pg245.txt"
   },
@@ -1022,10 +992,8 @@
     "lat": 39.6886,
     "lon": -91.3315,
     "place_type": "prototype",
-    "prototype_of": "麦克杜格尔洞穴",
-    "prototype_of_en": "McDougal’s Cave",
-    "note": "汤姆与贝基迷路的洞穴以此为原型；坐标代表真实洞穴入口，不指认小说中的地下湖",
-    "note_en": "This cave inspired the cavern where Tom and Becky become lost; the point marks the real cave entrance, not the fictional underground lake",
+    "prototype_of": "《汤姆·索亚历险记》里麦克杜格尔洞的原型：汤姆和贝琪在洞里迷路三天，印第安·乔最后困死在洞口。吐温小时候常来这里探险。洞穴至今开放导览，路线里能看到书里写到的地方",
+    "prototype_of_en": "This is McDougal's Cave from Tom Sawyer, where Tom and Becky get lost for three days and where Injun Joe dies trapped behind the sealed door. Twain explored this cave as a boy, and it's still open for guided tours that take you past spots from the book",
     "coord_checked": "Wikipedia: Mark Twain Cave — https://en.wikipedia.org/wiki/Mark_Twain_Cave",
     "fact_source": "https://www.marktwaincave.com/history-of-our-caves/"
   },
@@ -1036,8 +1004,8 @@
     "lat": 38.6272,
     "lon": -90.1978,
     "place_type": "original",
-    "note": "哈克夜乘木筏经过圣路易斯，隔水看见寂静城市铺展开的灯火；坐标代表城市整体",
-    "note_en": "Huck passes St. Louis by raft at night and sees the silent city spread with lights; the point represents the city as a whole",
+    "note": "《哈克贝利·费恩历险记》里，哈克和吉姆夜里乘木筏顺流而下，从河上看圣路易斯的万家灯火铺满岸边，整座城一点声音也没有。这是全书写河夜最美的段落之一",
+    "note_en": "In Huckleberry Finn, Huck and Jim drift past St. Louis on their raft in the middle of the night and see the city's lights stretched out along the shore, without a sound. It's one of the most beautiful night scenes on the river in the whole book",
     "coord_checked": "Wikipedia: St. Louis — https://en.wikipedia.org/wiki/St._Louis",
     "fact_source": "https://www.gutenberg.org/ebooks/76"
   },
@@ -1053,8 +1021,8 @@
       "ushuckleberry-finn",
       "life-on-mississippi"
     ],
-    "note": "汉尼拔保留下来的吐温少年故居，如今属于介绍其生平与创作的博物馆",
-    "note_en": "Twain’s preserved childhood home in Hannibal is part of a museum interpreting his life and writing",
+    "note": "汤姆·索亚的家：马克·吐温在这座白房子里度过少年时代，门前就是汤姆骗小伙伴替他刷的那道白篱笆。街对面是贝琪·撒切尔原型劳拉·霍金斯的家。故居和周边几座房子组成博物馆",
+    "note_en": "This white house is where Mark Twain grew up, and where Tom Sawyer lives. Out front is the fence that Tom tricks his friends into whitewashing for him. Across the street is the house of Laura Hawkins, the girl who inspired Becky Thatcher. The house and the buildings around it make up the Mark Twain Boyhood Home and Museum",
     "coord_checked": "Wikipedia: Mark Twain Boyhood Home — https://en.wikipedia.org/wiki/Mark_Twain_Boyhood_Home_%26_Museum",
     "fact_source": "https://marktwainmuseum.org/about/our-history/"
   },
@@ -1065,8 +1033,8 @@
     "lat": 41.8529,
     "lon": -71.3828,
     "place_type": "pilgrimage",
-    "note_en": "Lovecraft lies in the Phillips family plot, near the corner of Pond Avenue and Avenue B; his small headstone, beside the family obelisk, reads “I Am Providence”. The point marks the cemetery, not the exact plot",
-    "note": "洛夫克拉夫特葬在菲利普斯家族墓地，靠近 Pond Avenue 与 Avenue B 的路口；家族方尖碑旁是他的小墓碑，上面刻着“I Am Providence”（我即普罗维登斯）。坐标标的是公墓，不是墓穴的确切位置",
+    "note_en": "Lovecraft's headstone carries just three words, 'I Am Providence', a line from one of his letters with a neat double meaning: the city he could never leave, and fate itself. After two miserable years in New York he came home and wrote Providence into his cosmic horror. When he was buried in 1937 his name went only on the family monument; fans raised this stone for him in 1977",
+    "note": "墓碑上只有一句“I Am Providence”，出自洛夫克拉夫特的书信，一语双关：既是他一生离不开的普罗维登斯，又是“天意”。他在纽约潦倒两年后回到家乡，把这座城写进了自己的恐怖宇宙。他下葬时只在家族碑上有个名字，这块墓碑是书迷 1977 年为他立的",
     "coord_checked": "Swan Point Cemetery — https://en.wikipedia.org/wiki/Swan_Point_Cemetery",
     "fact_source": "https://www.atlasobscura.com/places/hp-lovecrafts-grave",
     "book_ids": [
@@ -1080,8 +1048,8 @@
     "lat": 41.8297,
     "lon": -71.4085,
     "place_type": "original",
-    "note_en": "The real house behind Lovecraft’s story, on the east side of Benefit Street; a private home, seen from the street only",
-    "note": "洛夫克拉夫特这篇小说写的就是这座真实的房子，在贝尼菲特街东侧；现为私人住宅，只能在街上看",
+    "note_en": "Lovecraft's story The Shunned House is about this real house. It opens by pointing out that Edgar Allan Poe, while courting Sarah Helen Whitman in Providence, used to walk right past this door on Benefit Street, never guessing what was inside. It's a private home, so view it from the street",
+    "note": "洛夫克拉夫特小说《凶宅》写的就是这座真实的房子。小说开头说，当年坡在普罗维登斯追求惠特曼夫人时，常沿着贝尼菲特街散步，每次都从这座房子门前走过，却不知道它的秘密。现为私宅，只能在街上看",
     "coord_checked": "135 Benefit Street — https://en.wikipedia.org/wiki/The_Shunned_House",
     "fact_source": "https://en.wikipedia.org/wiki/The_Shunned_House",
     "book_ids": [
@@ -1095,8 +1063,8 @@
     "lat": 43.6186,
     "lon": -70.5222,
     "place_type": "original",
-    "note_en": "The town where the novella puts the hayfield with Andy’s buried box; the field itself is invented, so the point marks the town",
-    "note": "小说里安迪埋下铁盒的那片干草地就在这个镇上；田地本身是虚构的，坐标标的是镇子",
+    "note_en": "This is the setting of the most moving promise in Shawshank. Andy tells Red that if he ever gets out, he should go to a hayfield in Buxton, follow a stone wall to a big oak tree, and look for a piece of black volcanic glass that has no business being in a Maine field. When Red is paroled, he goes. The hayfield is fictional, but the town is real",
+    "note": "《肖申克的救赎》里最动人的约定：安迪告诉瑞德，出狱后去巴克斯顿一片干草地，沿着石墙走到一棵橡树下，找一块不属于缅因州的黑色火山岩。瑞德假释后真的来了。干草地是虚构的，小镇是真的",
     "coord_checked": "Buxton, Maine — https://en.wikipedia.org/wiki/Buxton,_Maine",
     "fact_source": "https://www.supersummary.com/rita-hayworth-and-shawshank-redemption",
     "book_ids": [
@@ -1115,8 +1083,8 @@
       "year": 1994,
       "kind": "电影"
     },
-    "scene": "片中的肖申克监狱：典狱长办公室、假释听证室和安迪逃出去的地道都在这里拍摄。故事设在缅因州，电影却是在俄亥俄拍的",
-    "scene_en": "Shawshank prison in the film: the warden’s office, the parole board room and Andy’s escape tunnel were all shot here. The story is set in Maine; the film was made in Ohio",
+    "scene": "片中的肖申克监狱：典狱长办公室、假释听证室和安迪逃出去的地道都在这里拍摄。故事设在缅因州，电影却是在俄亥俄这座 1896 年的城堡式监狱里拍的；监狱 1990 年关闭，如今开放参观，还有“肖申克步道”串起周边取景地",
+    "scene_en": "this is Shawshank prison. The warden's office, the parole board scenes, and Andy's escape route were all filmed here. The story takes place in Maine, but the movie was shot at this castle-like prison in Ohio, which opened in 1896 and closed in 1990. It's now open for tours, and the Shawshank Trail will take you to other filming locations nearby",
     "coord_checked": "Ohio State Reformatory, 100 Reformatory Road — https://en.wikipedia.org/wiki/Ohio_State_Reformatory",
     "fact_source": "https://shawshanktrail.com/a-path-worth-remembering.html",
     "book_ids": [
@@ -1136,7 +1104,7 @@
       "kind": "电影"
     },
     "scene": "朱莉爬上去不肯下来的那棵梧桐树：2009年夏天在这座公园拍摄。这里原本是两棵并排的悬铃木，后期用特效去掉了一棵，成了片中孤零零的一棵大树",
-    "scene_en": "The sycamore Juli climbs and refuses to leave, filmed in this park in summer 2009. Two London plane trees stood side by side here; one was removed digitally to leave the film’s lone tree",
+    "scene_en": "the sycamore tree Juli climbs and refuses to come down from was filmed in this park in the summer of 2009. There were actually two trees standing side by side here, and the filmmakers digitally removed one to create the movie's lone sycamore",
     "coord_checked": "Virginia Park, 500 Virginia Ave — https://www.topozone.com/?p=515777",
     "fact_source": "https://annarborchronicle.com/2009/06/27/ann-arbor-park-gets-movie-stimulus/index.html",
     "book_ids": [
