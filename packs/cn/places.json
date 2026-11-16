@@ -6,11 +6,11 @@
     "lat": 39.9245,
     "lon": 116.3523,
     "place_type": "pilgrimage",
-    "note": "鲁迅 1924 到 1926 年住在阜成门内西三条这座小四合院，《野草》《彷徨》里的许多篇就写在后院一间被他叫作“老虎尾巴”的小屋里，《秋夜》开头那两株枣树就长在院墙外。故居保持着他离开时的样子，旁边是收藏手稿和遗物的鲁迅博物馆",
-    "note_en": "Lu Xun lived in this small courtyard house at Xisantiao from 1924 to 1926 and wrote much of Wild Grass and Wandering in the cramped back room he called the Tiger's Tail; the two jujube trees that open 'Autumn Night' stood just beyond the wall. The house is kept as he left it, beside a museum of his manuscripts and belongings",
+    "note": "鲁迅 1924 到 1926 年住在阜成门内西三条这座小四合院，《彷徨》里的《孤独者》《伤逝》等篇就写在后院一间被他叫作“老虎尾巴”的小屋里。故居保持着他离开时的样子，旁边是收藏手稿和遗物的鲁迅博物馆",
+    "note_en": "Lu Xun lived in this small courtyard house at Xisantiao from 1924 to 1926, and wrote stories of Wandering such as 'The Misanthrope' and 'Regret for the Past' in the cramped back room he called the Tiger's Tail. The house is kept as he left it, beside a museum of his manuscripts and belongings",
     "coord_checked": "Beijing Lu Xun Museum (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Beijing_Lu_Xun_Museum",
     "book_ids": [
-      "wild-grass",
+      "wandering",
       "call-to-arms"
     ],
     "fact_source": "https://en.wikipedia.org/wiki/Beijing_Lu_Xun_Museum"
@@ -57,7 +57,8 @@
     "note_en": "Cao Yu, author of the play Thunderstorm, grew up in Tianjin, and this Italianate house was his boyhood home. He began acting in plays at Nankai Middle School and wrote Thunderstorm at twenty-three; the stifling family household of the play is often said to draw on his own childhood. The house, on Minzhu Road in the old Italian Concession, is now a museum to him",
     "coord_checked": "File:民主道25号曹禺旧居.jpg (Wikimedia Commons, photo location) — https://commons.wikimedia.org/wiki/File:民主道25号曹禺旧居.jpg",
     "book_ids": [
-      "thunderstorm"
+      "thunderstorm",
+      "sunrise"
     ],
     "fact_source": "https://en.wikipedia.org/wiki/Cao_Yu"
   },
@@ -193,7 +194,8 @@
     "coord_checked": "File:常德公寓·爱林登公寓·上海.jpg (Wikimedia Commons, photo location) — https://commons.wikimedia.org/wiki/File:常德公寓·爱林登公寓·上海.jpg",
     "book_ids": [
       "love-in-a-fallen-city",
-      "golden-cangue"
+      "golden-cangue",
+      "red-rose-white-rose"
     ],
     "fact_source": "https://en.wikipedia.org/wiki/Eileen_Chang"
   },
@@ -298,7 +300,9 @@
     "note_en": "Lu Xun was born in 1881 in the Zhou family mansion on this street in Shaoxing, and the Hundred Plant Garden and the Three Flavours Study of his childhood essays are here too. In the story 'My Old Home' the narrator comes back to sell the family house, as Lu Xun himself did in 1919. His house, the garden, the old school room and the streets around them are now one historic quarter",
     "coord_checked": "File:鲁迅故居 Luxun native place - panoramio.jpg (Wikimedia Commons, photo location) — https://commons.wikimedia.org/wiki/File:鲁迅故居_Luxun_native_place_-_panoramio.jpg",
     "book_ids": [
-      "call-to-arms"
+      "call-to-arms",
+      "wandering",
+      "dawn-blossoms"
     ],
     "fact_source": "https://en.wikipedia.org/wiki/Lu_Xun"
   },
@@ -453,21 +457,6 @@
     "fact_source": "https://en.wikipedia.org/wiki/Daxiangguo_Temple"
   },
   {
-    "id": "cn-shaolin",
-    "name": "Shaolin Monastery, Mount Song",
-    "name_zh": "嵩山 · 少林寺",
-    "lat": 34.5071,
-    "lon": 112.9357,
-    "place_type": "original",
-    "note": "金庸的武侠小说里，少林寺是天下武学的源头，《天龙八部》最后的大戏就在少室山上：萧峰在群雄面前为父母讨个说法，藏经阁里一位不起眼的扫地老僧化解了几代人的恩怨。少林寺在嵩山少室山下，千佛殿的砖地上留着历代武僧练功踩出的坑，寺西是历代高僧的塔林",
-    "note_en": "In Jin Yong's martial arts novels the Shaolin Monastery is the fountainhead of all kung fu, and the climax of Demi-Gods and Semi-Devils plays out on its mountain: Xiao Feng confronts the assembled heroes over the truth about his parents, and an unassuming old monk who sweeps the scripture library ends a feud that has run for generations. The monastery stands below Mount Song; inside, the floor of the Thousand Buddha Hall is still pitted by centuries of practice, and the Pagoda Forest of its abbots lies just to the west",
-    "coord_checked": "Shaolin Monastery (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Shaolin_Monastery",
-    "book_ids": [
-      "demi-gods-and-semi-devils"
-    ],
-    "fact_source": "https://en.wikipedia.org/wiki/Shaolin_Monastery"
-  },
-  {
     "id": "cn-yellow-crane-tower",
     "name": "Yellow Crane Tower, Wuhan",
     "name_zh": "武汉 · 黄鹤楼",
@@ -523,7 +512,8 @@
     "note_en": "Shen Congwen was born in 1902 in Fenghuang, in the hills of western Hunan, and his novella Border Town, with its ferry, stilt houses and the girl Cuicui, is set in Chadong, a river town on the border where Hunan, Chongqing and Guizhou meet, in the same hill country. Fenghuang's stilt houses still line the Tuo River; his family house is in the old town, and his grave lies on Tingtao Hill to the east",
     "coord_checked": "Fenghuang Ancient Town (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Fenghuang_Ancient_Town",
     "book_ids": [
-      "border-town"
+      "border-town",
+      "west-hunan-sketches"
     ],
     "fact_source": "https://en.wikipedia.org/wiki/Shen_Congwen"
   },
@@ -618,21 +608,6 @@
     "fact_source": "https://en.wikipedia.org/wiki/Huangguoshu_Waterfall"
   },
   {
-    "id": "cn-three-pagodas",
-    "name": "Three Pagodas of Chongsheng Temple, Dali",
-    "name_zh": "大理 · 崇圣寺三塔",
-    "lat": 25.7085,
-    "lon": 100.1459,
-    "place_type": "original",
-    "note": "金庸《天龙八部》的主角段誉是大理国王子，书里大理段氏皇族世代出家的天龙寺，就是这座崇圣寺，寺里高僧守着段家的绝学“六脉神剑”，吐蕃国师鸠摩智上门强索，引出一场大战。崇圣寺三塔是大理的标志，背靠苍山，前临洱海，主塔建于唐代",
-    "note_en": "Duan Yu, hero of Jin Yong's Demi-Gods and Semi-Devils, is a prince of the Kingdom of Dali, and the Tianlong Temple where generations of Duan kings retire as monks is this Chongsheng Temple. Its monks guard the family's secret Six Meridians Divine Sword, and the Tibetan monk Jiumozhi's attempt to seize it leads to a famous battle. The three pagodas, the tallest built in the Tang, are the emblem of Dali, with the Cang Mountains behind and Erhai Lake in front",
-    "coord_checked": "Three Pagodas of Chongsheng Temple (Dali) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Three_Pagodas_of_Chongsheng_Temple_(Dali)",
-    "book_ids": [
-      "demi-gods-and-semi-devils"
-    ],
-    "fact_source": "https://en.wikipedia.org/wiki/Three_Pagodas"
-  },
-  {
     "id": "cn-potala",
     "name": "Potala Palace, Lhasa",
     "name_zh": "拉萨 · 布达拉宫",
@@ -703,7 +678,8 @@
     "note_en": "The 'Kokonor' of Tang poetry is this, China's largest saltwater lake, then a battlefield fought over again and again by the Tang and the Tibetan empire. Du Fu's 'Ballad of the Army Carts', on men forced from their homes to fight, ends with the bones by its shore that 'no one has ever gathered', one of the most bitter lines in Chinese poetry. Today the lake is ringed by grassland and rapeseed fields, a favourite route for cyclists, and its Bird Island fills with migrants each summer",
     "coord_checked": "Qinghai Lake (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Qinghai_Lake",
     "book_ids": [
-      "ballad-of-the-army-carts"
+      "ballad-of-the-army-carts",
+      "criminal-lu-yanshi"
     ],
     "fact_source": "https://en.wikipedia.org/wiki/Qinghai_Lake"
   },
@@ -714,11 +690,11 @@
     "lat": 38.6147,
     "lon": 106.0683,
     "place_type": "pilgrimage",
-    "note": "作家张贤亮 20 世纪 60 年代在宁夏劳改时见到这两座明清边堡的废墟，把它写进小说《绿化树》。1993 年他用稿费把废墟改成影视城，《红高粱》《大话西游》《新龙门客栈》都在这里拍过外景，他自己说是“出卖荒凉”。今天古堡里保留着这些电影的布景",
-    "note_en": "The writer Zhang Xianliang came across the ruins of these two Ming and Qing frontier forts while in a labour camp in Ningxia in the 1960s and put them into his novel Mimosa. In 1993 he used his royalties to turn the ruins into a film studio, 'selling desolation', as he put it, and Red Sorghum, A Chinese Odyssey and New Dragon Gate Inn were all shot here. The sets from those films are still in the old forts",
+    "note": "作家张贤亮 20 世纪 60 年代在宁夏劳改时见到这两座明清边堡的废墟，后来把它写进了小说；他写劳改岁月的《男人的一半是女人》也以宁夏的劳改农场为背景。1993 年他用稿费把废墟改成影视城，《红高粱》《大话西游》《新龙门客栈》都在这里拍过外景，他自己说是“出卖荒凉”。今天古堡里保留着这些电影的布景",
+    "note_en": "The writer Zhang Xianliang came across the ruins of these two Ming and Qing frontier forts while in a labour camp in Ningxia in the 1960s and later put them into his fiction; his novel of the camp years, Half of Man Is Woman, is set on a labour farm in Ningxia. In 1993 he used his royalties to turn the ruins into a film studio, 'selling desolation', as he put it, and Red Sorghum, A Chinese Odyssey and New Dragon Gate Inn were all shot here. The sets from those films are still in the old forts",
     "coord_checked": "File:镇北堡西部影城.jpg (Wikimedia Commons, photo location) — https://commons.wikimedia.org/wiki/File:镇北堡西部影城.jpg",
     "book_ids": [
-      "mimosa"
+      "half-of-man"
     ],
     "fact_source": "https://en.wikipedia.org/wiki/Zhang_Xianliang"
   },
@@ -733,7 +709,8 @@
     "note_en": "Li Juan's My Altay is about the years she spent in the Altay region with her mother, who ran a small shop and did tailoring for the Kazakh herders: the moves to the summer pastures, winter camps in the snow, the little village of Kawutu, all told plainly and with a lot of humour. Since the 2024 TV adaptation Altay has become a popular place to visit. The town sits at the foot of the Altai Mountains, with grassland and Kanas Lake to the north in summer and some of China's best skiing in winter",
     "coord_checked": "Altay City (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Altay_City",
     "book_ids": [
-      "my-altay"
+      "my-altay",
+      "winter-pasture"
     ],
     "fact_source": "https://en.wikipedia.org/wiki/Li_Juan_(writer)"
   },
@@ -813,21 +790,6 @@
     "fact_source": "https://en.wikipedia.org/wiki/The_Song_of_Everlasting_Sorrow_(novel)"
   },
   {
-    "id": "cn-ginling-college",
-    "name": "Former Ginling Women's College (Nanjing Normal University)",
-    "name_zh": "南京 · 金陵女子大学旧址（南京师范大学随园校区）",
-    "lat": 32.05446,
-    "lon": 118.76449,
-    "place_type": "prototype",
-    "prototype_of": "严歌苓的《金陵十三钗》写 1937 年南京沦陷时，躲进一座美国教堂的女学生和十三个秦淮河妓女的故事。她说灵感来自金陵女子文理学院教务长魏特琳的日记，魏特琳当年在这座校园里收容了上万名妇女和儿童。校园今天是南京师范大学随园校区，大屋顶的老建筑都还在",
-    "prototype_of_en": "Yan Geling's The Flowers of War tells of schoolgirls and thirteen courtesans from the Qinhuai River hiding in an American church when Nanjing fell in 1937. She has said the story grew out of the diary of Minnie Vautrin, dean of Ginling Women's College, who sheltered some ten thousand women and children on this campus. It is now the Suiyuan campus of Nanjing Normal University, and its old buildings with their great Chinese-style roofs are all still standing",
-    "coord_checked": "File:南师大教育馆3.jpg (Wikimedia Commons, photo location) — https://commons.wikimedia.org/wiki/File:南师大教育馆3.jpg",
-    "book_ids": [
-      "flowers-of-war"
-    ],
-    "fact_source": "https://en.wikipedia.org/wiki/Minnie_Vautrin"
-  },
-  {
     "id": "cn-longchuan",
     "name": "Longchuan, Dehong (Yunnan)",
     "name_zh": "云南 · 陇川",
@@ -838,7 +800,8 @@
     "note_en": "Wang Xiaobo was seventeen when he was sent from Beijing to Longchuan, on the Burmese border, as an educated youth in 1969, and spent two years here. His novel The Golden Age, about the twenty-one-year-old sent-down youth Wang Er and the farm doctor Chen Qingyang in the hills of Yunnan, draws on those years. Longchuan is now a border county town in Dehong, best known for the Jingpo people's Munao Zongge festival",
     "coord_checked": "File:陇川县天际线 - 2024-05-28.jpg (Wikimedia Commons, photo location) — https://commons.wikimedia.org/wiki/File:陇川县天际线_-_2024-05-28.jpg",
     "book_ids": [
-      "golden-age"
+      "golden-age",
+      "maverick-pig"
     ],
     "fact_source": "https://www.thepaper.cn/newsDetail_forward_12149755"
   },
@@ -901,5 +864,322 @@
       "border-town"
     ],
     "fact_source": "https://m.voc.com.cn/xhn/news/202208/14269301.html"
+  },
+  {
+    "id": "cn-hku",
+    "name": "Main Building, University of Hong Kong",
+    "name_zh": "香港 · 香港大学本部大楼",
+    "lat": 22.28417,
+    "lon": 114.13778,
+    "place_type": "pilgrimage",
+    "note": "1939 年张爱玲到香港大学读书，1941 年底日军攻打香港，期末考试取消，她的学业就此中断。她在《烬余录》里写港大的战时日子，《沉香屑·第一炉香》等香港故事也取材于这几年。本部大楼 1912 年落成，红砖拱廊和钟楼至今还在",
+    "note_en": "Eileen Chang came to study at the University of Hong Kong in 1939; when Japan attacked Hong Kong at the end of 1941 her exams were cancelled and her studies were over. She wrote about the university in wartime in From the Ashes, and her Hong Kong stories, Aloeswood Incense: The First Brazier among them, draw on these years. The Main Building, opened in 1912, still has its red-brick arcades and clock tower",
+    "coord_checked": "Main Building of the University of Hong Kong (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Main_Building_of_the_University_of_Hong_Kong",
+    "book_ids": [
+      "first-brazier"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Eileen_Chang"
+  },
+  {
+    "id": "cn-yanchuan",
+    "name": "Yanchuan County, Shaanxi (Lu Yao's boyhood home)",
+    "name_zh": "陕北 · 延川（路遥的少年时代）",
+    "lat": 36.87953,
+    "lon": 110.18655,
+    "place_type": "pilgrimage",
+    "note": "路遥七岁时被过继给延川县郭家沟村的伯父，在这里读书、当民办教师，度过了少年时代。他的《平凡的世界》写七八十年代黄土高原上孙少安、孙少平兄弟的奋斗，延川和他出生的清涧县都有村子说小说里的双水村就是自己。延川在黄河西岸，县里的乾坤湾是黄河拐出的一道大弯",
+    "note_en": "Lu Yao was seven when he was sent to be raised by his uncle in Guojiagou village in Yanchuan County, and he went to school and taught in the village school here. His Ordinary World follows the brothers Sun Shao'an and Sun Shaoping on the loess plateau in the 1970s and 80s, and villages both here and in Qingjian, where he was born, claim to be the model for its Shuangshui. Yanchuan lies on the west bank of the Yellow River, which makes a great loop at Qiankun Bend",
+    "coord_checked": "Yanchuan County (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Yanchuan_County",
+    "book_ids": [
+      "ordinary-world"
+    ],
+    "fact_source": "https://www.chinawriter.com.cn/n1/2023/1027/c403994-40104711.html"
+  },
+  {
+    "id": "cn-lianda",
+    "name": "Former site of the National Southwestern Associated University, Kunming",
+    "name_zh": "昆明 · 西南联大旧址",
+    "lat": 25.05913,
+    "lon": 102.69573,
+    "place_type": "pilgrimage",
+    "note": "抗战时北大、清华、南开迁到昆明，合办西南联合大学，写《红烛》《死水》的诗人闻一多在这里教书，1946 年 7 月在昆明遇刺。旧址在今云南师范大学校内，保留着冯友兰撰文的联大纪念碑和“一二·一”运动纪念馆",
+    "note_en": "During the war with Japan, Peking, Tsinghua and Nankai universities moved to Kunming and taught together as the National Southwestern Associated University. The poet Wen Yiduo, author of Red Candle and Dead Water, taught here and was assassinated in Kunming in July 1946. The site, now inside Yunnan Normal University, keeps the university's memorial stele and a museum of the student movement of 1945",
+    "coord_checked": "File:國立西南聯合大學紀念碑2.jpg (Wikimedia Commons, photo location) — https://commons.wikimedia.org/wiki/File:國立西南聯合大學紀念碑2.jpg",
+    "book_ids": [
+      "red-candle",
+      "dead-water"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Wen_Yiduo"
+  },
+  {
+    "id": "cn-beiji-village",
+    "name": "Beiji Village, Mohe (Chi Zijian's birthplace)",
+    "name_zh": "漠河 · 北极村（迟子建的出生地）",
+    "lat": 53.49703,
+    "lon": 122.315,
+    "place_type": "pilgrimage",
+    "note": "迟子建 1964 年生在漠河北极村，中国最北的村子。她写东北边地的森林、小镇和普通人，《额尔古纳河右岸》和《群山之巅》都发生在这片大兴安岭北部的群山里。北极村在黑龙江边，对岸就是俄罗斯，冬天积雪很深，运气好能看到极光",
+    "note_en": "Chi Zijian was born in 1964 in Beiji, China's northernmost village, and her fiction keeps returning to the forests, small towns and ordinary people of the far northeast; The Last Quarter of the Moon and Atop the Mountains are both set in these northern Khingan hills. The village sits on the Heilongjiang with Russia on the far bank; winter snow lies deep, and with luck you can see the northern lights",
+    "coord_checked": "File:北极村的童话世界 QQ696847 - panoramio.jpg (Wikimedia Commons, photo location) — https://commons.wikimedia.org/wiki/File:北极村的童话世界_QQ696847_-_panoramio.jpg",
+    "book_ids": [
+      "atop-the-mountains"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Chi_Zijian"
+  },
+  {
+    "id": "cn-waibaidu",
+    "name": "Waibaidu Bridge (Garden Bridge), Shanghai",
+    "name_zh": "上海 · 外白渡桥",
+    "lat": 31.24519,
+    "lon": 121.4855,
+    "place_type": "original",
+    "note": "茅盾的《子夜》开篇从高处俯瞰苏州河汇入黄浦江的地方，写 1930 年上海的霓虹、汽车和交易所，乡下来的吴老太爷当晚就被这座城市吓死了。外白渡桥就横在这个河口，1908 年通车，桥北是上海大厦，桥南就是外滩",
+    "note_en": "Mao Dun's Midnight opens with a view from above of the point where Suzhou Creek runs into the Huangpu, the Shanghai of 1930 with its neon, motor cars and stock exchange, a city that frightens old Mr Wu from the countryside to death on his first night. Waibaidu Bridge, opened in 1908, crosses right at that river mouth, with Broadway Mansions to the north and the Bund to the south",
+    "coord_checked": "File:Shanghai-Bund-22-Su Zhou-River-Bruecke-2012-gje.jpg (Wikimedia Commons, photo location) — https://commons.wikimedia.org/wiki/File:Shanghai-Bund-22-Su_Zhou-River-Bruecke-2012-gje.jpg",
+    "book_ids": [
+      "midnight"
+    ],
+    "fact_source": "https://www.aisixiang.com/data/94500.html"
+  },
+  {
+    "id": "cn-jingan-temple",
+    "name": "Jing'an Temple, Shanghai",
+    "name_zh": "上海 · 静安寺",
+    "lat": 31.225,
+    "lon": 121.44083333333,
+    "place_type": "original",
+    "note": "金宇澄的《繁花》第一句就是“沪生经过静安寺菜场”，小说用上海话的腔调写六七十年代和九十年代两段上海往事。静安寺是上海最古老的寺庙之一，金色的殿顶在南京西路的高楼之间很显眼，马路对面是静安公园",
+    "note_en": "The first line of Jin Yucheng's Blossoms has Hu Sheng walking past the Jing'an Temple market, and the novel, written in the cadences of Shanghainese, moves between the city of the 1960s and 70s and the city of the 1990s. Jing'an Temple is one of Shanghai's oldest, its golden roofs bright among the towers of West Nanjing Road, with Jing'an Park across the street",
+    "coord_checked": "Jing'an Temple (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Jing'an_Temple",
+    "book_ids": [
+      "blossoms"
+    ],
+    "fact_source": "https://news.sina.cn/2024-01-06/detail-inaaqvky8011091.d.html"
+  },
+  {
+    "id": "cn-qian-zhongshu",
+    "name": "Qian Zhongshu's former residence, Wuxi",
+    "name_zh": "无锡 · 钱锺书故居",
+    "lat": 31.57427,
+    "lon": 120.29356,
+    "place_type": "pilgrimage",
+    "note": "钱锺书 1910 年生在无锡这座钱家老宅“钱绳武堂”，在这里长大。他的《围城》写留洋回国的方鸿渐在上海和内地之间辗转，书里把婚姻比作被围困的城堡，这个比喻后来人人都知道。故居是一座江南大宅，今天是纪念馆，陈列他的生平和著作",
+    "note_en": "Qian Zhongshu was born in 1910 in this Qian family house in Wuxi, the Shengwu Hall, and grew up here. His Fortress Besieged follows Fang Hongjian, back from Europe, as he drifts between Shanghai and the interior, and its image of marriage as a besieged fortress has become a byword. The house, a large old Jiangnan residence, is now a museum of his life and work",
+    "coord_checked": "File:Qian Sheng Wu Tang 2.jpg (Wikimedia Commons, photo location) — https://commons.wikimedia.org/wiki/File:Qian_Sheng_Wu_Tang_2.jpg",
+    "book_ids": [
+      "fortress-besieged"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Qian_Zhongshu"
+  },
+  {
+    "id": "cn-ba-jin-residence",
+    "name": "Ba Jin's former residence, Shanghai",
+    "name_zh": "上海 · 巴金故居",
+    "lat": 31.2105,
+    "lon": 121.4360556,
+    "place_type": "pilgrimage",
+    "note": "巴金从 1955 年起住在武康路这座花园洋房，直到 2005 年去世。他的《家》写成都一个大家族里觉新、觉民、觉慧三兄弟，取材于他自己在成都的老家。故居今天开放参观，书房、客厅和院子里的草坪都照原样保留",
+    "note_en": "Ba Jin lived in this house with its garden on Wukang Road from 1955 until his death in 2005. His novel Family, about the three brothers Juexin, Juemin and Juehui in a great household in Chengdu, draws on his own family home there. The house is open to visitors, with his study, sitting room and lawn kept as they were",
+    "coord_checked": "File:Ba Jin house, Shanghai.JPG (Wikimedia Commons, photo location) — https://commons.wikimedia.org/wiki/File:Ba_Jin_house,_Shanghai.JPG",
+    "book_ids": [
+      "family-ba-jin"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Ba_Jin"
+  },
+  {
+    "id": "cn-niangziguan-plant",
+    "name": "Niangziguan Power Plant, Yangquan (Liu Cixin's workplace)",
+    "name_zh": "阳泉 · 娘子关发电厂（刘慈欣工作过的地方）",
+    "lat": 37.96124,
+    "lon": 113.85277,
+    "place_type": "pilgrimage",
+    "note": "刘慈欣在娘子关发电厂当了多年工程师，白天上班，晚上写科幻，《三体》前两部和《流浪地球》都是在电厂工作的那些年写的。电厂在山西阳泉娘子关镇附近，冷却塔就在路边，不远处是长城上的古关口娘子关",
+    "note_en": "Liu Cixin spent years as an engineer at the Niangziguan power plant, working by day and writing science fiction by night; the first two volumes of The Three-Body Problem and The Wandering Earth were written while he worked here. The plant stands near the town of Niangziguan in Yangquan, Shanxi, its cooling tower beside the road, a short way from the old Great Wall pass that gives the town its name",
+    "coord_checked": "File:娘子关发电厂 20260516.jpg (Wikimedia Commons, photo location) — https://commons.wikimedia.org/wiki/File:娘子关发电厂_20260516.jpg",
+    "book_ids": [
+      "three-body"
+    ],
+    "fact_source": "https://www.thepaper.cn/newsDetail_forward_2976750"
+  },
+  {
+    "id": "cn-mo-yan-museum",
+    "name": "Mo Yan Literature Museum, Gaomi",
+    "name_zh": "高密 · 莫言文学馆",
+    "lat": 36.38859,
+    "lon": 119.76307,
+    "place_type": "pilgrimage",
+    "note": "莫言 1955 年生在高密东北乡，后来把家乡写成一整片文学版图，《红高粱家族》《生死疲劳》《蛙》都发生在这里，2012 年他获得诺贝尔文学奖。高密城里的莫言文学馆陈列他的手稿、各种版本和生平，从这里往东北就是他笔下的东北乡",
+    "note_en": "Mo Yan was born in 1955 in Northeast Gaomi Township and turned his home country into a whole literary territory: Red Sorghum, Life and Death Are Wearing Me Out and Frog all happen here, and in 2012 he won the Nobel Prize. The Mo Yan Literature Museum in Gaomi town shows his manuscripts, editions and life, and the township of his books lies to the northeast",
+    "coord_checked": "File:20211107 高密莫言文化馆.jpg (Wikimedia Commons, photo location) — https://commons.wikimedia.org/wiki/File:20211107_高密莫言文化馆.jpg",
+    "book_ids": [
+      "life-and-death",
+      "frog"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Mo_Yan"
+  },
+  {
+    "id": "cn-yangzhou",
+    "name": "Yangzhou (Dongguan Street)",
+    "name_zh": "扬州（东关街）",
+    "lat": 32.39986,
+    "lon": 119.44621,
+    "place_type": "original",
+    "note": "金庸《鹿鼎记》的主角韦小宝生在扬州一家妓院，靠一张嘴和一身机灵混进紫禁城，成了康熙的心腹，小说里他几次回到扬州，最后也在扬州收场。东关街是扬州保存最完整的老街，青石板路两旁是老字号和盐商宅院，街东头是古运河边的东关古渡",
+    "note_en": "Wei Xiaobao, the hero of Jin Yong's The Deer and the Cauldron, is born in a Yangzhou brothel and talks and tricks his way into the Forbidden City to become the Kangxi Emperor's right-hand man; the novel brings him back to Yangzhou more than once. Dongguan Street is the best preserved of the city's old streets, its flagstones lined with old shops and salt merchants' houses, ending at the old ferry on the Grand Canal",
+    "coord_checked": "File:东关街 - Dongguan Street - 2015.04 - panoramio.jpg (Wikimedia Commons, photo location) — https://commons.wikimedia.org/wiki/File:东关街_-_Dongguan_Street_-_2015.04_-_panoramio.jpg",
+    "book_ids": [
+      "deer-and-cauldron"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/The_Deer_and_the_Cauldron"
+  },
+  {
+    "id": "cn-taipei",
+    "name": "Taipei",
+    "name_zh": "台北",
+    "lat": 25.0375,
+    "lon": 121.5625,
+    "place_type": "original",
+    "note": "白先勇的《台北人》十四个短篇都发生在六十年代的台北，写的却是从大陆来台的人：上海百乐门的舞女、南京的将军夫人、桂林米粉店的老板娘，人在台北，心还留在过去。书里的仁爱路、长春路这些街名今天都还在",
+    "note_en": "The fourteen stories of Pai Hsien-yung's Taipei People are all set in 1960s Taipei, yet their people come from the mainland: a dance hostess from Shanghai's Paramount, a general's widow from Nanjing, the owner of a Guilin rice-noodle shop, all living in Taipei with their hearts still in the past. Streets the stories name, such as Ren'ai Road and Changchun Road, are still there",
+    "coord_checked": "Taipei (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Taipei",
+    "book_ids": [
+      "taipei-people"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Taipei_People"
+  },
+  {
+    "id": "cn-xiaoyangjia",
+    "name": "Xiaoyangjia Hutong (the 'Little Sheep Fold' of the novel), Beijing",
+    "name_zh": "北京 · 小杨家胡同（小说里的小羊圈胡同）",
+    "lat": 39.93603,
+    "lon": 116.37323,
+    "place_type": "original",
+    "note": "老舍 1899 年生在新街口附近的这条胡同，当年叫小羊圈胡同。《四世同堂》写北平沦陷八年间，住在小羊圈的祁家四代人和街坊邻居怎样熬过来，书里说这条胡同像个葫芦，口小肚大。胡同今天仍是居民区，灰墙小门还是老北京的样子",
+    "note_en": "Lao She was born in 1899 in this lane near Xinjiekou, then called Little Sheep Fold Lane. Four Generations Under One Roof follows the four generations of the Qi family and their neighbours in Little Sheep Fold through the eight years of Japanese occupation, and describes the lane as shaped like a gourd, narrow at the mouth and wide inside. It is still a residential lane, its grey walls and small doors much as old Beijing looked",
+    "coord_checked": "Google Maps place pin for Xiaoyangjia Hutong (link supplied by the user) — https://www.google.com/maps/place/Xiao+Yang+Jia+Hu+Tong/@39.93603,116.37323",
+    "book_ids": [
+      "four-generations"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Lao_She"
+  },
+  {
+    "id": "cn-xijiang-village",
+    "name": "Xijiang Village on the White Deer Plain, Xi'an (Chen Zhongshi's home)",
+    "name_zh": "西安 · 白鹿原西蒋村（陈忠实的老家）",
+    "lat": 34.212729,
+    "lon": 109.176584,
+    "place_type": "pilgrimage",
+    "note": "陈忠实 1942 年生在白鹿原脚下的西蒋村，1988 年到 1992 年住在原上的老家写成《白鹿原》，写白、鹿两家在这片原上半个世纪的恩怨。村子在西安东郊灞桥区，背靠白鹿原，灞河从村前流过",
+    "note_en": "Chen Zhongshi was born in 1942 in Xijiang, a village at the foot of the White Deer Plain, and wrote White Deer Plain between 1988 and 1992 living in his family home here, a novel of half a century of feuding between the Bai and Lu families on the plain above. The village lies in Baqiao District on the eastern edge of Xi'an, with the plain behind it and the Ba River in front",
+    "coord_checked": "Google Maps place pin for Xijiangcun (link supplied by the user) — https://www.google.com/maps/place/Xijiangcun/@34.212729,109.176584",
+    "book_ids": [
+      "white-deer-plain"
+    ],
+    "fact_source": "https://paper.people.com.cn/hqrw/html/2016-05/16/content_1725415.htm"
+  },
+  {
+    "id": "cn-changjiang-apartments",
+    "name": "Changjiang Apartments, 65 Huanghe Road, Shanghai",
+    "name_zh": "上海 · 长江公寓（黄河路 65 号）",
+    "lat": 31.234063,
+    "lon": 121.470806,
+    "place_type": "pilgrimage",
+    "note": "张爱玲离开上海前住的最后一处公寓就是这里。1950 年到 1951 年，她用“梁京”的笔名在上海《亦报》连载长篇《十八春》，后来改写成《半生缘》。公寓在黄河路上，离南京西路和人民广场都很近，至今仍是住宅",
+    "note_en": "This was the last apartment Eileen Chang lived in before she left Shanghai. In 1950 and 1951 she serialised the novel Eighteen Springs in the Shanghai paper Yi Bao under the pen name Liang Jing, later rewriting it as Half a Lifelong Romance. The building stands on Huanghe Road, a few minutes from West Nanjing Road and People's Square, and is still lived in",
+    "coord_checked": "Google Maps place pin for Changjiang Apartments (link supplied by the user) — https://www.google.com/maps/place/%E9%95%BF%E6%B1%9F%E5%85%AC%E5%AF%93/@31.234063,121.470806",
+    "book_ids": [
+      "half-a-lifelong-romance"
+    ],
+    "fact_source": "https://www.chinawriter.com.cn/n1/2020/1013/c404064-31889883.html"
+  },
+  {
+    "id": "cn-luxiangyuan",
+    "name": "Luxiangyuan Road, site of the Garden of Dew Fragrance, Shanghai",
+    "name_zh": "上海 · 露香园路（露香园旧址）",
+    "lat": 31.22523,
+    "lon": 121.48542,
+    "place_type": "prototype",
+    "prototype_of": "明代嘉靖年间进士顾名世在上海城里修了露香园，顾家女眷的刺绣因此叫“露香园顾绣”。王安忆的《天香》写明代上海申家天香园里几代女人的刺绣“天香园绣”，取材正是顾绣。园子早已不存，只在老城厢留下一条露香园路",
+    "prototype_of_en": "In the Ming dynasty the official Gu Mingshi built the Garden of Dew Fragrance inside the walls of Shanghai, and the embroidery of the Gu women became famous as Luxiang Garden Gu embroidery. Wang Anyi's Heavenly Fragrance, about generations of women in the Shen family's Tianxiang Garden and their embroidery, draws on Gu embroidery. The garden is long gone; only Luxiangyuan Road in the old walled city keeps its name",
+    "coord_checked": "Google Maps place pin for Lu Xiang Yuan Lu (link supplied by the user) — https://www.google.com/maps/place/Lu+Xiang+Yuan+Lu/@31.22523,121.48542",
+    "book_ids": [
+      "heavenly-fragrance"
+    ],
+    "fact_source": "https://www.thepaper.cn/newsDetail_forward_29500172"
+  },
+  {
+    "id": "cn-haiyan",
+    "name": "Haiyan, Zhejiang (Yu Hua's home town)",
+    "name_zh": "浙江 · 海盐（余华长大的地方）",
+    "lat": 30.5255299,
+    "lon": 120.94579,
+    "place_type": "pilgrimage",
+    "note": "余华 1960 年生在杭州，在海盐县城长大，当过几年牙医，就是在这里开始写小说的。他说写作是回到海盐的一种方式，许多作品都以海盐为背景。《活着》里福贵一生送走所有亲人的故事，取材于他祖辈的家族往事。海盐在杭州湾北岸，县城不大",
+    "note_en": "Yu Hua was born in Hangzhou in 1960 but grew up in the county town of Haiyan, where he worked for some years as a dentist and began to write fiction. He has called writing a way of going back to Haiyan, and many of his stories are set there. To Live, in which Fugui outlives everyone he loves, draws on his own family's history. Haiyan is a small county town on the north shore of Hangzhou Bay",
+    "coord_checked": "Google Maps place pin for Haiyan (link supplied by the user) — https://www.google.com/maps/place/Haiyan,+Jiaxing,+Zhejiang,+China/@30.5255299,120.94579",
+    "book_ids": [
+      "to-live"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Yu_Hua"
+  },
+  {
+    "id": "cn-wang-xiaobo-grave",
+    "name": "Wang Xiaobo's grave, Foshan Cemetery, Beijing",
+    "name_zh": "北京 · 佛山陵园（王小波墓）",
+    "lat": 40.132466,
+    "lon": 116.135829,
+    "place_type": "pilgrimage",
+    "note": "王小波 1997 年 4 月 11 日在北京去世，年仅 44 岁，葬在佛山陵园。每年清明和他的忌日，都有读者来墓前放上鲜花、香烟和二锅头。他去世那年，杂文集《沉默的大多数》出版，书里那种不肯人云亦云的态度影响了很多读者",
+    "note_en": "Wang Xiaobo died in Beijing on 11 April 1997, aged only 44, and is buried in Foshan Cemetery. Every Qingming and on the anniversary of his death, readers come to leave flowers, cigarettes and bottles of erguotou at his grave. His essay collection The Silent Majority came out the year he died, and its refusal to repeat what everyone else was saying has stayed with many readers",
+    "coord_checked": "Google Maps place pin for Foshan Cemetery (link supplied by the user) — https://www.google.com/maps/place/%E4%BD%9B%E5%B1%B1%E9%99%B5%E5%9B%AD/@40.132466,116.135829",
+    "book_ids": [
+      "silent-majority"
+    ],
+    "fact_source": "https://i.ifeng.com/c/8Ou2uTX8COh"
+  },
+  {
+    "id": "cn-jiangan-drama-school",
+    "name": "Former National Drama School, Jiang'an, Sichuan",
+    "name_zh": "四川 · 江安国立剧专旧址",
+    "lat": 28.730121,
+    "lon": 105.065678,
+    "place_type": "pilgrimage",
+    "note": "抗战时国立戏剧专科学校从 1939 年到 1945 年迁到长江边的小县城江安，曹禺在这里教书，《蜕变》和《北京人》都是在江安写成的。《北京人》写北平一个没落的士大夫家庭，写尽了旧家庭里的压抑。一所戏剧学校在小城里办了六年，培养出一大批后来的戏剧人",
+    "note_en": "During the war with Japan the National Drama School moved to Jiang'an, a small county town on the Yangtze, from 1939 to 1945. Cao Yu taught here, and both Metamorphosis and Peking Man were written in Jiang'an. Peking Man depicts a decaying scholar-official family in Peiping and the stifling air of the old household. For six years the little town was home to a drama school that trained a generation of theatre people",
+    "coord_checked": "Google Maps place pin for the former National Drama School (link supplied by the user) — https://www.google.com/maps/place/%E5%9B%BD%E7%AB%8B%E6%88%8F%E5%89%A7%E4%B8%93%E7%A7%91%E5%AD%A6%E6%A0%A1%E6%97%A7%E5%9D%80/@28.730121,105.065678",
+    "book_ids": [
+      "peking-man"
+    ],
+    "fact_source": "https://www.chinanews.com/zhuanzhu/2000-11-30/358.html"
+  },
+  {
+    "id": "cn-fangzheng",
+    "name": "Japanese settlers' cemetery, Sino-Japanese Friendship Garden, Fangzheng",
+    "name_zh": "黑龙江 · 方正中日友好园林（日本人公墓）",
+    "lat": 45.825248,
+    "lon": 128.890162,
+    "place_type": "pilgrimage",
+    "note": "严歌苓的《小姨多鹤》从 1945 年写起：日本战败，东北的日本开拓团在逃亡中大批死去，十六岁的多鹤活了下来，被卖进一户中国人家。小说没写方正，这里却是那段历史的见证：1963 年，中方把死在方正一带的开拓团民遗骨收葬在此，建成公墓",
+    "note_en": "Yan Geling's Little Aunt Crane begins in 1945: as Japan is defeated, the Japanese settlers in Manchuria die in their thousands as they flee, and sixteen-year-old Duohe survives to be sold to a Chinese family. The novel does not mention Fangzheng, but this is where that history can be seen: in 1963 the Chinese side gathered the remains of settlers who had died around Fangzheng and buried them here in a cemetery",
+    "coord_checked": "Google Maps place pin for the Sino-Japanese Friendship Garden, Fangzheng (link supplied by the user) — https://www.google.com/maps/place/%E4%B8%AD%E6%97%A5%E5%8F%8B%E5%A5%BD%E5%9B%AD%E6%9E%97/@45.825248,128.890162",
+    "book_ids": [
+      "little-aunt-crane"
+    ],
+    "fact_source": "https://chinadigitaltimes.net/chinese/?p=176273"
+  },
+  {
+    "id": "cn-liulichang",
+    "name": "Liulichang, Beijing (Ah Cheng's boyhood haunt)",
+    "name_zh": "北京 · 琉璃厂（阿城少年时常去的地方）",
+    "lat": 39.893752,
+    "lon": 116.378366,
+    "place_type": "pilgrimage",
+    "note": "阿城 1949 年生在北京，少年时常在琉璃厂的画店、书摊和古玩铺里流连。1968 年他下乡，辗转山西、内蒙古，最后在云南的兵团农场待了将近十年，《棋王》写的就是知青在边地农场的日子。琉璃厂今天仍是北京的书画古玩街，街口就有卖旧书的中国书店",
+    "note_en": "Ah Cheng was born in Beijing in 1949, and as a boy he spent hours in the painting shops, bookstalls and antique dealers of Liulichang. Sent to the countryside in 1968, he passed through Shanxi and Inner Mongolia and spent nearly ten years on a state farm in Yunnan; The King of Chess is about sent-down youth on just such a frontier farm. Liulichang is still Beijing's street of paintings, calligraphy and antiques, with a China Bookstore selling old books at its entrance",
+    "coord_checked": "File:Beijing-Liulichang Dongjie-02-gje.jpg (Wikimedia Commons, photo location) — https://commons.wikimedia.org/wiki/File:Beijing-Liulichang_Dongjie-02-gje.jpg",
+    "book_ids": [
+      "king-of-chess"
+    ],
+    "fact_source": "https://www.thepaper.cn/newsDetail_forward_22192246"
   }
 ]

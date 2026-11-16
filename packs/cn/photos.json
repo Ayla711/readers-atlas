@@ -179,12 +179,6 @@
     "alt_zh": "开封大相国寺",
     "crop": null
   },
-  "cn-shaolin": {
-    "commons_file": "File:Shaolin Temple (10200955683).jpg",
-    "alt_en": "The Shaolin Monastery",
-    "alt_zh": "少林寺",
-    "crop": null
-  },
   "cn-yellow-crane-tower": {
     "commons_file": "File:Yellow Crane Tower 61426-Wuhan (49150471556).jpg",
     "alt_en": "The Yellow Crane Tower, Wuhan",
@@ -243,12 +237,6 @@
     "commons_file": "File:Huangguoshu Waterfall Guizhou Province.jpg",
     "alt_en": "The Huangguoshu Waterfall",
     "alt_zh": "黄果树瀑布",
-    "crop": null
-  },
-  "cn-three-pagodas": {
-    "commons_file": "File:Chongsheng Temple 崇聲寺 and Three Pagodas 三塔, Yunnan, China - 37656204436.jpg",
-    "alt_en": "The Three Pagodas of Chongsheng Temple, Dali",
-    "alt_zh": "大理崇圣寺三塔",
     "crop": null
   },
   "cn-potala": {
@@ -323,12 +311,6 @@
     "alt_zh": "上海田子坊的石库门弄堂",
     "crop": null
   },
-  "cn-ginling-college": {
-    "commons_file": "File:Building 100, Nanjing Normal University.jpg",
-    "alt_en": "An old Ginling College building, now Nanjing Normal University",
-    "alt_zh": "金陵女子大学老楼，今南京师范大学",
-    "crop": null
-  },
   "cn-longchuan": {
     "commons_file": "File:陇川县天际线 - 2024-05-28.jpg",
     "alt_en": "Longchuan county town, Yunnan",
@@ -345,6 +327,102 @@
     "commons_file": "File:國立政治大學「四維堂」、「果夫樓」、「志希樓」.jpg",
     "alt_en": "National Chengchi University at the foot of Zhinan Mountain",
     "alt_zh": "指南山下的政治大学",
+    "crop": null
+  },
+  "cn-hku": {
+    "commons_file": "File:20250906 Main Building.jpg",
+    "alt_en": "The Main Building of the University of Hong Kong",
+    "alt_zh": "香港大学本部大楼",
+    "crop": null
+  },
+  "cn-yanchuan": {
+    "commons_file": "File:Qiankun Bend.jpg",
+    "alt_en": "The Yellow River at Qiankun Bend, Yanchuan County",
+    "alt_zh": "延川乾坤湾的黄河",
+    "crop": null
+  },
+  "cn-lianda": {
+    "commons_file": "File:國立西南聯合大學紀念碑2.jpg",
+    "alt_en": "The memorial stele of the National Southwestern Associated University, Kunming",
+    "alt_zh": "昆明西南联大纪念碑",
+    "crop": null
+  },
+  "cn-beiji-village": {
+    "commons_file": "File:北极村的童话世界 QQ696847 - panoramio.jpg",
+    "alt_en": "Beiji Village in winter, Mohe",
+    "alt_zh": "冬天的漠河北极村",
+    "crop": null
+  },
+  "cn-waibaidu": {
+    "commons_file": "File:Shanghai-Bund-22-Su Zhou-River-Bruecke-2012-gje.jpg",
+    "alt_en": "Waibaidu Bridge over Suzhou Creek, Shanghai",
+    "alt_zh": "上海苏州河上的外白渡桥",
+    "crop": null
+  },
+  "cn-jingan-temple": {
+    "commons_file": "File:0371 Shanghai Jing'an Temple 20090627.jpg",
+    "alt_en": "Jing'an Temple, Shanghai",
+    "alt_zh": "上海静安寺",
+    "crop": null
+  },
+  "cn-qian-zhongshu": {
+    "commons_file": "File:Qian Sheng Wu Tang 2.jpg",
+    "alt_en": "The Shengwu Hall in Qian Zhongshu's former residence, Wuxi",
+    "alt_zh": "无锡钱锺书故居钱绳武堂",
+    "crop": null
+  },
+  "cn-ba-jin-residence": {
+    "commons_file": "File:Ba Jin house, Shanghai.JPG",
+    "alt_en": "Ba Jin's house on Wukang Road, Shanghai",
+    "alt_zh": "上海武康路巴金故居",
+    "crop": null
+  },
+  "cn-niangziguan-plant": {
+    "commons_file": "File:娘子关发电厂 20260516.jpg",
+    "alt_en": "The gate of the Niangziguan Power Plant, Yangquan",
+    "alt_zh": "阳泉娘子关发电厂大门",
+    "crop": null
+  },
+  "cn-mo-yan-museum": {
+    "commons_file": "File:20211107 高密莫言文化馆.jpg",
+    "alt_en": "The Mo Yan Literature Museum, Gaomi",
+    "alt_zh": "高密莫言文学馆",
+    "crop": null
+  },
+  "cn-yangzhou": {
+    "commons_file": "File:东关街 - Dongguan Street - 2015.04 - panoramio.jpg",
+    "alt_en": "Dongguan Street, Yangzhou",
+    "alt_zh": "扬州东关街",
+    "crop": null
+  },
+  "cn-taipei": {
+    "commons_file": "File:Ximending-alley.jpg",
+    "alt_en": "An alley in Ximending, Taipei",
+    "alt_zh": "台北西门町的小巷",
+    "crop": null
+  },
+  "cn-xiaoyangjia": {
+    "commons_file": "File:小杨家胡同.JPG",
+    "alt_en": "Xiaoyangjia Hutong, Beijing",
+    "alt_zh": "北京小杨家胡同",
+    "crop": null
+  },
+  "cn-changjiang-apartments": {
+    "commons_file": "File:长江公寓 sh.jpg",
+    "alt_en": "Changjiang Apartments on Huanghe Road, Shanghai",
+    "alt_zh": "上海黄河路长江公寓",
+    "crop": null
+  },
+  "cn-fangzheng": {
+    "commons_file": "File:方正地区日本人公墓A096229.jpg",
+    "alt_en": "The Japanese settlers' cemetery at Fangzheng",
+    "alt_zh": "方正地区日本人公墓",
+    "crop": null
+  },
+  "cn-liulichang": {
+    "commons_file": "File:Beijing-Liulichang Dongjie-02-gje.jpg",
+    "alt_en": "Liulichang, with the China Bookstore, Beijing",
+    "alt_zh": "北京琉璃厂的中国书店",
     "crop": null
   }
 }

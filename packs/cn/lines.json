@@ -1,32 +1,5 @@
 [
   {
-    "id": "cn-ll-1",
-    "book_id": "wild-grass",
-    "place_ids": [
-      "cn-lu-xun-museum-beijing"
-    ],
-    "location": "Autumn Night",
-    "location_zh": "《秋夜》",
-    "text_orig": "這上面的夜的天空，奇怪而高，我生平沒有見過這樣奇怪而高的天空。他彷彿要離開人間而去，使人們仰面不再看見。然而現在卻非常之藍，閃閃地夾著幾十個星星的眼，冷眼。他的口角上現出微笑，似乎自以為大有深意，而將繁霜灑在我的園裡的野花草上。",
-    "highlight_orig": [
-      "我的園裡"
-    ],
-    "text_en": "The night sky above is strange and high; I have never in my life seen a sky so strange and so high. It seems to want to leave the human world behind, so that people looking up will no longer see it. Yet now it is a deep, deep blue, its dozens of starry eyes blinking, cold eyes. A smile plays at the corners of its mouth, as if it thought itself very profound, and it scatters a heavy frost over the wild flowers and grasses in my garden.",
-    "highlight_en": [
-      "my garden"
-    ],
-    "text_zh": "这上面的夜的天空，奇怪而高，我生平没有见过这样奇怪而高的天空。他仿佛要离开人间而去，使人们仰面不再看见。然而现在却非常之蓝，闪闪地夹着几十个星星的眼，冷眼。他的口角上现出微笑，似乎自以为大有深意，而将繁霜洒在我的园里的野花草上。",
-    "highlight_zh": [
-      "我的园里"
-    ],
-    "translation": "own",
-    "source": {
-      "kind": "gutenberg",
-      "id": 25242
-    },
-    "status": "draft"
-  },
-  {
     "id": "cn-mp-1",
     "book_id": "travels-of-marco-polo",
     "place_ids": [
@@ -993,46 +966,6 @@
     "fact_source": "https://en.wikipedia.org/wiki/Love_in_a_Fallen_City"
   },
   {
-    "id": "cn-dg-s1",
-    "kind": "scene",
-    "book_id": "demi-gods-and-semi-devils",
-    "place_ids": [
-      "cn-three-pagodas"
-    ],
-    "location": "Chapters 10–11",
-    "location_zh": "第十至十一回",
-    "text_en": "At the Tianlong Temple in Dali, the monks of the royal Duan clan gather to defend the manual of the Six Meridians Divine Sword when the Tibetan monk Jiumozhi arrives to demand it, and the young prince Duan Yu discovers he can wield the sword himself.",
-    "text_zh": "大理天龙寺里，段氏皇族的高僧们聚在一起，守护六脉神剑剑谱，吐蕃国师鸠摩智上门强索，年轻的段誉发现自己竟能使出六脉神剑。",
-    "highlight_en": [
-      "the Tianlong Temple"
-    ],
-    "highlight_zh": [
-      "天龙寺"
-    ],
-    "status": "draft",
-    "fact_source": "https://en.wikipedia.org/wiki/Demi-Gods_and_Semi-Devils"
-  },
-  {
-    "id": "cn-dg-s2",
-    "kind": "scene",
-    "book_id": "demi-gods-and-semi-devils",
-    "place_ids": [
-      "cn-shaolin"
-    ],
-    "location": "Chapters 41–43",
-    "location_zh": "第四十一至四十三回",
-    "text_en": "At the Shaolin Monastery, a nameless old monk who sweeps the scripture library steps out of the shadows and, in front of the assembled heroes, ends the feud between Xiao Feng, his father and Murong Bo.",
-    "text_zh": "在少林寺，藏经阁里一位无名扫地老僧从暗处现身，当着天下英雄的面，化解了萧峰父子与慕容博之间的恩怨。",
-    "highlight_en": [
-      "the Shaolin Monastery"
-    ],
-    "highlight_zh": [
-      "少林寺"
-    ],
-    "status": "draft",
-    "fact_source": "https://en.wikipedia.org/wiki/Demi-Gods_and_Semi-Devils"
-  },
-  {
     "id": "cn-ch-s1",
     "kind": "scene",
     "book_id": "legend-of-the-condor-heroes",
@@ -1111,26 +1044,6 @@
     ],
     "status": "draft",
     "fact_source": "https://en.wikipedia.org/wiki/The_Song_of_Everlasting_Sorrow_(novel)"
-  },
-  {
-    "id": "cn-fw-s1",
-    "kind": "scene",
-    "book_id": "flowers-of-war",
-    "place_ids": [
-      "cn-ginling-college"
-    ],
-    "location": "The Flowers of War",
-    "location_zh": "《金陵十三钗》",
-    "text_en": "In December 1937, as Japanese troops take Nanjing, convent schoolgirls sheltering in an American church are joined by thirteen courtesans from the Qinhuai River; when soldiers come to take the girls, the courtesans dress as schoolgirls and go in their place.",
-    "text_zh": "1937 年 12 月日军攻入南京，躲在一座美国教堂里的女学生中间，闯进来十三个秦淮河的妓女；日本兵来要带走女学生时，她们换上学生装，替女孩们去了。",
-    "highlight_en": [
-      "Nanjing"
-    ],
-    "highlight_zh": [
-      "南京"
-    ],
-    "status": "draft",
-    "fact_source": "https://en.wikipedia.org/wiki/Minnie_Vautrin"
   },
   {
     "id": "cn-te-s1",
@@ -1213,43 +1126,660 @@
     "fact_source": "https://www.hunantoday.cn/news/xhn/202604/31913405.html"
   },
   {
-    "id": "cn-bt-s2",
+    "id": "cn-rrwr-s1",
     "kind": "scene",
-    "book_id": "border-town",
+    "book_id": "red-rose-white-rose",
     "place_ids": [
-      "cn-chadong"
+      "cn-changde-apartment"
     ],
-    "location": "Chapters 3–6",
-    "location_zh": "第三至六章",
-    "text_en": "At the Dragon Boat Festival the whole of Chadong crowds the riverbank to watch the boat races and the men diving after ducks. Still waiting for her grandfather by the river after dark, Cuicui meets Nuosong, the second son of the boat-master, who sends a man with a torch to see her home; from then on she carries him in her heart.",
-    "text_zh": "端午节，茶峒全城的人挤到河边看龙舟竞渡、看人下水捉鸭子。翠翠天黑了还在河边等爷爷，遇见船总的二儿子傩送，他叫人打着火把送她回家，从此她心里就有了这个人。",
+    "location": "Red Rose, White Rose",
+    "location_zh": "《红玫瑰与白玫瑰》",
+    "text_en": "Tong Zhenbao, everyone's idea of a good man, falls for Jiaorui, his friend's passionate wife, then gives her up and marries the pale, proper Yanli. Years later he runs into Jiaorui on a bus, calmly settled as someone else's wife and mother, and it is he who breaks down in tears.",
+    "text_zh": "人人称道的“好人”佟振保爱上朋友热烈的妻子娇蕊，却又放弃了她，娶了苍白规矩的烟鹂。多年后他在公共汽车上重遇娇蕊，她已平静地做了别人的妻子和母亲，哭的反倒是他。",
     "highlight_en": [
-      "the Dragon Boat Festival"
+      "on a bus"
     ],
     "highlight_zh": [
-      "端午节"
+      "公共汽车上"
     ],
     "status": "draft",
-    "fact_source": "https://www.hunantoday.cn/news/xhn/202604/31913405.html"
+    "fact_source": "https://en.wikipedia.org/wiki/Eileen_Chang"
   },
   {
-    "id": "cn-bt-s3",
+    "id": "cn-fb-s1",
     "kind": "scene",
-    "book_id": "border-town",
+    "book_id": "first-brazier",
     "place_ids": [
-      "cn-chadong"
+      "cn-hku"
     ],
-    "location": "Chapters 19–21",
-    "location_zh": "第十九至二十一章",
-    "text_en": "On a night of thunder and rain the white pagoda by the stream falls, and by morning the old ferryman is dead. Cuicui keeps the ferry on her own, waiting for Nuosong, who has gone away down the river; no one knows when he will come back, or whether he ever will.",
-    "text_zh": "一个雷雨夜，溪边的白塔塌了，天亮时摆渡的老人已经死去。翠翠独自守着渡船，等那个顺着河下去了的傩送，没人知道他什么时候回来，也许再也不回来。",
+    "location": "Aloeswood Incense: The First Brazier",
+    "location_zh": "《沉香屑·第一炉香》",
+    "text_en": "Ge Weilong, a Shanghai schoolgirl in Hong Kong whose family is about to go home, climbs alone to her rich aunt Madame Liang's white mansion in the Mid-Levels to ask for help to stay on at school, and is drawn step by step into her aunt's glittering, corrupt world.",
+    "text_zh": "上海女学生葛薇龙一家要离开香港，她为了留下来念书，独自上半山去求有钱的姑妈梁太太，从此一步步陷进姑妈那座白房子里纸醉金迷的世界。",
     "highlight_en": [
-      "white pagoda"
+      "Mid-Levels"
     ],
     "highlight_zh": [
-      "白塔"
+      "半山"
     ],
     "status": "draft",
-    "fact_source": "https://www.hunantoday.cn/news/xhn/202604/31913405.html"
+    "fact_source": "https://en.wikipedia.org/wiki/Eileen_Chang"
+  },
+  {
+    "id": "cn-mp-s1",
+    "kind": "scene",
+    "book_id": "maverick-pig",
+    "place_ids": [
+      "cn-longchuan"
+    ],
+    "location": "A Maverick Pig",
+    "location_zh": "《一只特立独行的猪》",
+    "text_en": "On the farm where the narrator is sent down, one pig refuses to live as a pig should: it leaps onto the roofs, learns to imitate the sugar mill's whistle so that the whole team knocks off work early, and when the cadres come after it with guns, it breaks through and escapes into the hills.",
+    "text_zh": "“我”插队的地方有一只猪，不肯像猪那样活着：它能跳上房顶，学会了模仿糖厂的汽笛，害得全队提前收工；指导员带人拿着枪来围捕，它冲出包围，跑进了山里。",
+    "highlight_en": [
+      "the sugar mill's whistle"
+    ],
+    "highlight_zh": [
+      "糖厂的汽笛"
+    ],
+    "status": "draft",
+    "fact_source": "https://www.thepaper.cn/newsDetail_forward_12149755"
+  },
+  {
+    "id": "cn-zf-1",
+    "book_id": "wandering",
+    "place_ids": [
+      "cn-lu-xun-native-place"
+    ],
+    "location": "New Year's Sacrifice",
+    "location_zh": "《祝福》",
+    "text_orig": "舊歷的年底畢竟最像年底，村鎮上不必說，就在天空中也顯出將到新年的氣象來。灰白色的沉重的晚雲中間時時發出閃光，接著一聲鈍響，是送灶的爆竹；近處燃放的可就更強烈了，震耳的大音還沒有息，空氣里已經散滿了幽微的火藥香。我是正在這一夜回到我的故鄉魯鎮的。",
+    "highlight_orig": [
+      "魯鎮"
+    ],
+    "text_en": "The end of the year by the old calendar does feel most like the end of a year. Not only in the villages and towns: even the sky shows that the New Year is coming. From the heavy grey clouds of evening came flash after flash, then a dull bang, the firecrackers seeing off the Kitchen God; nearer by they were louder still, and before the deafening noise had died the air was full of a faint smell of gunpowder. It was on this night that I came back to Lu Town, my old home.",
+    "highlight_en": [
+      "Lu Town"
+    ],
+    "text_zh": "旧历的年底毕竟最像年底，村镇上不必说，就在天空中也显出将到新年的气象来。灰白色的沉重的晚云中间时时发出闪光，接着一声钝响，是送灶的爆竹；近处燃放的可就更强烈了，震耳的大音还没有息，空气里已经散满了幽微的火药香。我是正在这一夜回到我的故乡鲁镇的。",
+    "highlight_zh": [
+      "鲁镇"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 24042
+    },
+    "status": "draft"
+  },
+  {
+    "id": "cn-ss-1",
+    "book_id": "wandering",
+    "place_ids": [
+      "cn-lu-xun-museum-beijing"
+    ],
+    "location": "Regret for the Past",
+    "location_zh": "《伤逝》",
+    "text_orig": "如果我能夠，我要寫下我的悔恨和悲哀，為子君，為自己。",
+    "highlight_orig": [
+      "悔恨和悲哀"
+    ],
+    "text_en": "If I can, I want to write down my remorse and my grief, for Zijun, and for myself.",
+    "highlight_en": [
+      "my remorse and my grief"
+    ],
+    "text_zh": "如果我能够，我要写下我的悔恨和悲哀，为子君，为自己。",
+    "highlight_zh": [
+      "悔恨和悲哀"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 24042
+    },
+    "status": "draft"
+  },
+  {
+    "id": "cn-ac-1",
+    "book_id": "dawn-blossoms",
+    "place_ids": [
+      "cn-lu-xun-native-place"
+    ],
+    "location": "Ah Chang and the Classic of Mountains and Seas",
+    "location_zh": "《阿长与山海经》",
+    "text_orig": "長媽媽，已經說過，是一個一向帶領著我的女工，說得闊氣一點，就是我的保姆。……仁厚黑暗的地母呵，願在你懷裏永安她的魂靈！",
+    "highlight_orig": [
+      "長媽媽"
+    ],
+    "text_en": "Mother Chang, as I have said, was the servant who looked after me; to put it more grandly, she was my nurse. … Kind, dark Mother Earth, may her soul rest for ever in your arms!",
+    "highlight_en": [
+      "Mother Chang"
+    ],
+    "text_zh": "长妈妈，已经说过，是一个一向带领着我的女工，说得阔气一点，就是我的保姆。……仁厚黑暗的地母呵，愿在你怀里永安她的魂灵！",
+    "highlight_zh": [
+      "长妈妈"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 25271
+    },
+    "status": "draft"
+  },
+  {
+    "id": "cn-sw-1",
+    "book_id": "dead-water",
+    "place_ids": [
+      "cn-lianda"
+    ],
+    "location": "Dead Water",
+    "location_zh": "《死水》",
+    "text_orig": "這是一溝絕望的死水，\n清風吹不起半點漪淪。\n不如多扔些破銅爛鐵，\n爽性潑你的賸菜殘羹。",
+    "highlight_orig": [
+      "絕望的死水"
+    ],
+    "text_en": "Here is a ditch of hopeless dead water,\nno breeze can raise the slightest ripple on it.\nYou might as well throw in more scrap copper and iron,\nor tip in all your leftover food.",
+    "highlight_en": [
+      "hopeless dead water"
+    ],
+    "text_zh": "这是一沟绝望的死水，\n清风吹不起半点漪沦。\n不如多扔些破铜烂铁，\n爽性泼你的剩菜残羹。",
+    "highlight_zh": [
+      "绝望的死水"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "wikisource",
+      "url": "https://zh.wikisource.org/wiki/%E6%AD%BB%E6%B0%B4"
+    },
+    "status": "draft",
+    "keep_breaks": true
+  },
+  {
+    "id": "cn-hz-1",
+    "book_id": "red-candle",
+    "place_ids": [
+      "cn-lianda"
+    ],
+    "location": "Red Candle",
+    "location_zh": "《红烛》",
+    "text_orig": "紅燭啊！\n這樣紅的燭！\n詩人啊！\n吐出你的心來比，\n可是一般顔色？",
+    "highlight_orig": [
+      "紅燭"
+    ],
+    "text_en": "Red candle!\nSo red a candle!\nPoet!\nSpit out your heart and compare:\nis it the same colour?",
+    "highlight_en": [
+      "Red candle"
+    ],
+    "text_zh": "红烛啊！\n这样红的烛！\n诗人啊！\n吐出你的心来比，\n可是一般颜色？",
+    "highlight_zh": [
+      "红烛"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "wikisource",
+      "url": "https://zh.wikisource.org/wiki/%E7%B4%85%E7%87%AD"
+    },
+    "status": "draft",
+    "keep_breaks": true
+  },
+  {
+    "id": "cn-sr-s1",
+    "kind": "scene",
+    "book_id": "sunrise",
+    "place_ids": [
+      "cn-cao-yu-residence"
+    ],
+    "location": "Sunrise",
+    "location_zh": "《日出》",
+    "text_en": "In a suite of a grand hotel in a big city, Chen Bailu, kept by the banker Pan Yueting, lives a life of nightly parties; she tries to save a young girl, Little Thing, from being sold into a brothel, but cannot even save herself.",
+    "text_zh": "陈白露住在大城市一家大旅馆的套房里，靠银行经理潘月亭供养，夜夜笙歌；她想救下要被卖进妓院的小女孩“小东西”，却连自己也救不了。",
+    "highlight_en": [
+      "a grand hotel"
+    ],
+    "highlight_zh": [
+      "大旅馆"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Cao_Yu"
+  },
+  {
+    "id": "cn-xx-s1",
+    "kind": "scene",
+    "book_id": "west-hunan-sketches",
+    "place_ids": [
+      "cn-fenghuang"
+    ],
+    "location": "Recollections of West Hunan",
+    "location_zh": "《湘行散记》",
+    "text_en": "In the winter of 1934 Shen Congwen goes home by small boat up the Yuan River to see his sick mother, writing to his new wife every day; the boatmen, the riverside towns and the women at the windows of the stilt houses fill the pages.",
+    "text_zh": "1934 年冬，沈从文坐小船沿沅水回湘西看望病中的母亲，一路天天给新婚的妻子写信；船夫、河边的小城和吊脚楼窗口的女人，都写进了这本书。",
+    "highlight_en": [
+      "the Yuan River"
+    ],
+    "highlight_zh": [
+      "沅水"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Shen_Congwen"
+  },
+  {
+    "id": "cn-wp-s1",
+    "kind": "scene",
+    "book_id": "winter-pasture",
+    "place_ids": [
+      "cn-altay"
+    ],
+    "location": "Winter Pasture",
+    "location_zh": "《冬牧场》",
+    "text_en": "Li Juan spends a winter with a Kazakh herding family in the desert south of the Ulungur River, sleeping in a pit dug into the sand and following the sheep across the snow.",
+    "text_zh": "李娟跟着一户哈萨克牧民在乌伦古河南面的荒漠里过了一个冬天，住在沙地里挖出的地窝子里，跟着羊群在雪地上走。",
+    "highlight_en": [
+      "the Ulungur River"
+    ],
+    "highlight_zh": [
+      "乌伦古河"
+    ],
+    "status": "draft",
+    "fact_source": "https://writingchinese.leeds.ac.uk/book-club/january-2021-li-juan-李娟"
+  },
+  {
+    "id": "cn-hm-s1",
+    "kind": "scene",
+    "book_id": "half-of-man",
+    "place_ids": [
+      "cn-zhenbeibu"
+    ],
+    "location": "Half of Man Is Woman",
+    "location_zh": "《男人的一半是女人》",
+    "text_en": "On a labour farm in Ningxia, the prisoner Zhang Yonglin glimpses a woman bathing in the reed marsh; years later he meets her again and marries her, only to find how much the camps have taken from him.",
+    "text_zh": "在宁夏的劳改农场，犯人章永璘在芦苇荡里瞥见一个洗澡的女人；多年后两人重逢、结了婚，他才发现劳改从自己身上拿走了多少东西。",
+    "highlight_en": [
+      "Ningxia"
+    ],
+    "highlight_zh": [
+      "宁夏"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Zhang_Xianliang"
+  },
+  {
+    "id": "cn-mn-s1",
+    "kind": "scene",
+    "book_id": "midnight",
+    "place_ids": [
+      "cn-waibaidu"
+    ],
+    "location": "Chapter 1",
+    "location_zh": "第一章",
+    "text_en": "At dusk, where Suzhou Creek runs into the Huangpu, a neon sign across the river flashes 'Light, Heat, Power'. Old Mr Wu, brought from the countryside by car through the city, is so shaken by Shanghai that he dies that night in his son Wu Sunfu's house.",
+    "text_zh": "黄昏，苏州河流进黄浦江的地方，对岸的霓虹灯一闪一闪地亮着 Light, Heat, Power。从乡下接来的吴老太爷坐着汽车穿过上海，被这座城市吓坏了，当晚就死在儿子吴荪甫家里。",
+    "highlight_en": [
+      "Suzhou Creek"
+    ],
+    "highlight_zh": [
+      "苏州河"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Midnight:_A_Romance_of_China,_1930"
+  },
+  {
+    "id": "cn-fh-s1",
+    "kind": "scene",
+    "book_id": "blossoms",
+    "place_ids": [
+      "cn-jingan-temple"
+    ],
+    "location": "Prologue",
+    "location_zh": "引子",
+    "text_en": "Hu Sheng is walking past the Jing'an Temple market when Taotao, who sells hairy crabs there, calls out to him; their talk opens a novel that moves between the Shanghai of the 1960s and that of the 1990s.",
+    "text_zh": "沪生经过静安寺菜场，在菜场卖大闸蟹的陶陶叫住了他；两人这一番闲谈，引出了一部在六十年代和九十年代的上海之间来回的小说。",
+    "highlight_en": [
+      "Jing'an Temple market"
+    ],
+    "highlight_zh": [
+      "静安寺菜场"
+    ],
+    "status": "draft",
+    "fact_source": "https://news.sina.cn/2024-01-06/detail-inaaqvky8011091.d.html"
+  },
+  {
+    "id": "cn-wc-s1",
+    "kind": "scene",
+    "book_id": "fortress-besieged",
+    "place_ids": [
+      "cn-qian-zhongshu"
+    ],
+    "location": "Chapter 1",
+    "location_zh": "第一章",
+    "text_en": "Coming home from Europe in 1937 with a doctorate from a non-existent university, bought from a swindler, Fang Hongjian drifts through Shanghai drawing rooms, takes a post at a new university deep in the interior, and marries a woman he hardly knows.",
+    "text_zh": "1937 年，方鸿渐带着一张从骗子手里买来的、根本不存在的大学的博士文凭回国，在上海的客厅里周旋，又去内地一所新办的大学教书，娶了一个他并不了解的女人。",
+    "highlight_en": [
+      "Shanghai"
+    ],
+    "highlight_zh": [
+      "上海"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Fortress_Besieged"
+  },
+  {
+    "id": "cn-fm-s1",
+    "kind": "scene",
+    "book_id": "family-ba-jin",
+    "place_ids": [
+      "cn-ba-jin-residence"
+    ],
+    "location": "Family",
+    "location_zh": "《家》",
+    "text_en": "In the great Gao household in Chengdu, the eldest grandson Juexin gives up the girl he loves and marries the bride his family has chosen, while his youngest brother Juehui rebels and in the end leaves home.",
+    "text_zh": "成都高公馆里，长房长孙觉新放弃了心爱的表妹，娶了家里挑定的新娘；最小的弟弟觉慧却起来反抗，最后离家出走。",
+    "highlight_en": [
+      "Chengdu"
+    ],
+    "highlight_zh": [
+      "成都"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Family_(Ba_Jin_novel)"
+  },
+  {
+    "id": "cn-tb-s1",
+    "kind": "scene",
+    "book_id": "three-body",
+    "place_ids": [
+      "cn-niangziguan-plant"
+    ],
+    "location": "Part 1",
+    "location_zh": "第一部",
+    "text_en": "During the Cultural Revolution the astrophysicist Ye Wenjie, working at the secret Red Coast base in the Greater Khingan Mountains, sends a signal into space, and an answer comes back.",
+    "text_zh": "文革期间，天体物理学家叶文洁在大兴安岭的秘密基地“红岸”工作，她向太空发出的信号收到了回答。",
+    "highlight_en": [
+      "Red Coast"
+    ],
+    "highlight_zh": [
+      "红岸"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)"
+  },
+  {
+    "id": "cn-ow-s1",
+    "kind": "scene",
+    "book_id": "ordinary-world",
+    "place_ids": [
+      "cn-yanchuan"
+    ],
+    "location": "Ordinary World",
+    "location_zh": "《平凡的世界》",
+    "text_en": "In the poor village of Shuangshui on the loess plateau, the elder brother Sun Shao'an stays to farm and build up a brickworks, while the younger, Sun Shaoping, leaves to labour in the town and then goes down the coal mines.",
+    "text_zh": "黄土高原上贫穷的双水村，哥哥孙少安留在村里种地、办砖场，弟弟孙少平出门揽工，后来下了煤矿。",
+    "highlight_en": [
+      "Shuangshui"
+    ],
+    "highlight_zh": [
+      "双水村"
+    ],
+    "status": "draft",
+    "fact_source": "https://www.chinawriter.com.cn/n1/2023/1027/c403994-40104711.html"
+  },
+  {
+    "id": "cn-lf-s1",
+    "kind": "scene",
+    "book_id": "criminal-lu-yanshi",
+    "place_ids": [
+      "cn-qinghai-lake"
+    ],
+    "location": "The Criminal Lu Yanshi",
+    "location_zh": "《陆犯焉识》",
+    "text_en": "Lu Yanshi, a Shanghai professor condemned as a counter-revolutionary, spends nearly twenty years in a labour camp on the grasslands of Qinghai, where his thoughts keep returning to the wife he once neglected.",
+    "text_zh": "上海的大学教授陆焉识被打成反革命，在青海草原上的劳改农场熬了将近二十年，心里一直念着当年被他冷落的妻子。",
+    "highlight_en": [
+      "Qinghai"
+    ],
+    "highlight_zh": [
+      "青海"
+    ],
+    "status": "draft",
+    "fact_source": "https://inbetweenreview.substack.com/p/9b4"
+  },
+  {
+    "id": "cn-ld-s1",
+    "kind": "scene",
+    "book_id": "life-and-death",
+    "place_ids": [
+      "cn-mo-yan-museum"
+    ],
+    "location": "Life and Death Are Wearing Me Out",
+    "location_zh": "《生死疲劳》",
+    "text_en": "Ximen Nao, a landlord shot in the land reform of 1950, is reborn again and again in his own village in Northeast Gaomi, as a donkey, an ox, a pig, a dog and a monkey, and watches fifty years of change through animal eyes.",
+    "text_zh": "1950 年土改时被枪毙的地主西门闹，一次次投胎回到高密东北乡自己的村子，做驴、做牛、做猪、做狗、做猴，用动物的眼睛看了五十年的变迁。",
+    "highlight_en": [
+      "Northeast Gaomi"
+    ],
+    "highlight_zh": [
+      "高密东北乡"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Life_and_Death_Are_Wearing_Me_Out"
+  },
+  {
+    "id": "cn-fr-s1",
+    "kind": "scene",
+    "book_id": "frog",
+    "place_ids": [
+      "cn-mo-yan-museum"
+    ],
+    "location": "Frog",
+    "location_zh": "《蛙》",
+    "text_en": "Gugu, the midwife of Northeast Gaomi, brings countless babies into the world, then, under the one-child policy, carries out abortions; in old age she is haunted by the children she would not let be born.",
+    "text_zh": "高密东北乡的乡村医生姑姑接生过无数婴儿，到了计划生育年代又亲手做了许多流产手术；晚年，那些没能出生的孩子一直纠缠着她。",
+    "highlight_en": [
+      "Northeast Gaomi"
+    ],
+    "highlight_zh": [
+      "高密东北乡"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Frog_(novel)"
+  },
+  {
+    "id": "cn-dc-s1",
+    "kind": "scene",
+    "book_id": "deer-and-cauldron",
+    "place_ids": [
+      "cn-yangzhou"
+    ],
+    "location": "Chapter 1",
+    "location_zh": "第一回",
+    "text_en": "Wei Xiaobao, the son of a woman in a Yangzhou brothel, cannot read and fears nothing; a chance meeting takes him to Beijing, where, posing as a palace eunuch, he becomes the young Kangxi Emperor's wrestling partner and friend.",
+    "text_zh": "扬州丽春院妓女的儿子韦小宝一字不识、天不怕地不怕，一次偶遇把他带到了北京，冒充小太监混进宫里，成了少年康熙的摔跤玩伴和朋友。",
+    "highlight_en": [
+      "Yangzhou"
+    ],
+    "highlight_zh": [
+      "扬州"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Deer_and_the_Cauldron"
+  },
+  {
+    "id": "cn-tp-s1",
+    "kind": "scene",
+    "book_id": "taipei-people",
+    "place_ids": [
+      "cn-taipei"
+    ],
+    "location": "The Eternal Snow Beauty",
+    "location_zh": "《永远的尹雪艳》",
+    "text_en": "In Taipei, Yin Xueyan, once the queen of Shanghai's Paramount ballroom, never seems to age; her drawing room fills every night with exiles from Shanghai who come to gamble and remember, while the men who love her come to grief one after another.",
+    "text_zh": "在台北，当年上海百乐门的红舞女尹雪艳总也不老；她的客厅每晚坐满从上海来的旧客，打牌、叙旧，而爱上她的男人一个接一个地出了事。",
+    "highlight_en": [
+      "Taipei"
+    ],
+    "highlight_zh": [
+      "台北"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Taipei_People"
+  },
+  {
+    "id": "cn-fg-s1",
+    "kind": "scene",
+    "book_id": "four-generations",
+    "place_ids": [
+      "cn-xiaoyangjia"
+    ],
+    "location": "Part 1",
+    "location_zh": "第一部",
+    "text_en": "Old Mr Qi, nearly eighty, has stocked up on grain and pickles, sure that no trouble in Peiping lasts more than three months; then the Japanese take the city, and his family of four generations and their neighbours in Little Sheep Fold Lane live through eight years of fear, hunger and betrayal.",
+    "text_zh": "快八十岁的祁老人存好了粮食和咸菜，认定北平有什么灾难都过不去三个月；可日本人占了北平，小羊圈胡同里祁家四代人和街坊们，一熬就是八年的恐惧、饥饿和背叛。",
+    "highlight_en": [
+      "Little Sheep Fold Lane"
+    ],
+    "highlight_zh": [
+      "小羊圈胡同"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Four_Generations_Under_One_Roof"
+  },
+  {
+    "id": "cn-wd-s1",
+    "kind": "scene",
+    "book_id": "white-deer-plain",
+    "place_ids": [
+      "cn-xijiang-village"
+    ],
+    "location": "Chapter 1",
+    "location_zh": "第一章",
+    "text_en": "On the White Deer Plain, Bai Jiaxuan, head of the village, buries six wives before the seventh survives, and for half a century, from the last years of the Qing to the 1940s, he and his rival Lu Zilin contend over land, family honour and the village itself.",
+    "text_zh": "白鹿原上的族长白嘉轩先后娶了七房女人，前六个都死了；从清末到四十年代的半个世纪里，他和对头鹿子霖为土地、家族的脸面和整个村子明争暗斗。",
+    "highlight_en": [
+      "White Deer Plain"
+    ],
+    "highlight_zh": [
+      "白鹿原"
+    ],
+    "status": "draft",
+    "fact_source": "https://paper.people.com.cn/hqrw/html/2016-05/16/content_1725415.htm"
+  },
+  {
+    "id": "cn-hl-s1",
+    "kind": "scene",
+    "book_id": "half-a-lifelong-romance",
+    "place_ids": [
+      "cn-changjiang-apartments"
+    ],
+    "location": "Half a Lifelong Romance",
+    "location_zh": "《半生缘》",
+    "text_en": "In 1930s Shanghai, Shen Shijun, son of a Nanjing family, falls in love with Gu Manzhen, a clerk in the same factory; Manzhen's own sister and brother-in-law trap her, the lovers lose each other, and when they meet again many years later it is too late.",
+    "text_zh": "三十年代的上海，南京人家的少爷沈世钧和同厂的职员顾曼桢相爱；曼桢却被自己的姐姐和姐夫设计困住，两人从此错过，多年后重逢，一切都回不去了。",
+    "highlight_en": [
+      "Shanghai"
+    ],
+    "highlight_zh": [
+      "上海"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Eileen_Chang"
+  },
+  {
+    "id": "cn-hf-s1",
+    "kind": "scene",
+    "book_id": "heavenly-fragrance",
+    "place_ids": [
+      "cn-luxiangyuan"
+    ],
+    "location": "Heavenly Fragrance",
+    "location_zh": "《天香》",
+    "text_en": "In Ming-dynasty Shanghai the Shen family builds a lavish garden, Tianxiang, and its women, wives and daughters across several generations, turn embroidery from a pastime into an art and finally into a living, as the family's fortune runs out.",
+    "text_zh": "明代上海，申家修起了豪华的天香园；园中几代女人把刺绣从闺阁消遣做成了艺术，等到家道中落，又靠它养家。",
+    "highlight_en": [
+      "Tianxiang"
+    ],
+    "highlight_zh": [
+      "天香园"
+    ],
+    "status": "draft",
+    "fact_source": "https://www.xsyk021.com/article/Y2023/I1/154"
+  },
+  {
+    "id": "cn-tl-s1",
+    "kind": "scene",
+    "book_id": "to-live",
+    "place_ids": [
+      "cn-haiyan"
+    ],
+    "location": "To Live",
+    "location_zh": "《活着》",
+    "text_en": "Fugui, a landlord's son who gambles away the family land, lives through civil war, famine and the Cultural Revolution and outlives everyone he loves; in old age he ploughs with an old ox he has named after himself.",
+    "text_zh": "地主少爷福贵赌光了家产，又熬过内战、饥荒和文革，送走了所有亲人；到老，他和一头也叫“福贵”的老牛一起耕地。",
+    "highlight_en": [
+      "Fugui"
+    ],
+    "highlight_zh": [
+      "福贵"
+    ],
+    "status": "draft",
+    "fact_source": "https://chinadigitaltimes.net/chinese/252090.html"
+  },
+  {
+    "id": "cn-pm-s1",
+    "kind": "scene",
+    "book_id": "peking-man",
+    "place_ids": [
+      "cn-jiangan-drama-school"
+    ],
+    "location": "Peking Man",
+    "location_zh": "《北京人》",
+    "text_en": "In the decaying Zeng household in Peiping, the gentle, idle eldest son Zeng Wenqing cannot bring himself to leave, while his cousin Sufang serves the whole family in silence, until at last, before dawn, she walks out of the house.",
+    "text_zh": "北平没落的曾家，长子曾文清温和却一事无成，怎么也走不出这个家；他的表妹愫方默默伺候着一家老小，最后在天亮前离开了曾家。",
+    "highlight_en": [
+      "Peiping"
+    ],
+    "highlight_zh": [
+      "北平"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Cao_Yu"
+  },
+  {
+    "id": "cn-lac-s1",
+    "kind": "scene",
+    "book_id": "little-aunt-crane",
+    "place_ids": [
+      "cn-fangzheng"
+    ],
+    "location": "Little Aunt Crane",
+    "location_zh": "《小姨多鹤》",
+    "text_en": "In 1945, as Japan's empire collapses, the settlers of a Japanese village in Manchuria die in flight; sixteen-year-old Duohe survives and is sold to the Zhang family to bear children for their son, whose wife cannot have any.",
+    "text_zh": "1945 年日本战败，东北一个日本开拓团村子的人在逃亡中死去；十六岁的多鹤活了下来，被卖给张家，替不能生育的儿媳给儿子生孩子。",
+    "highlight_en": [
+      "Manchuria"
+    ],
+    "highlight_zh": [
+      "东北"
+    ],
+    "status": "draft",
+    "fact_source": "https://paper-republic.org/works/little-aunt-crane/"
+  },
+  {
+    "id": "cn-kc-s1",
+    "kind": "scene",
+    "book_id": "king-of-chess",
+    "place_ids": [
+      "cn-liulichang"
+    ],
+    "location": "The King of Chess",
+    "location_zh": "《棋王》",
+    "text_en": "On the crowded train taking educated youths to a frontier farm, the narrator meets Wang Yisheng, a thin boy who cares about only two things, food and Chinese chess; later, at a district sports meet, Wang plays nine opponents at once, blindfold, from morning until dusk.",
+    "text_zh": "在送知青去边地农场的拥挤火车上，“我”认识了瘦小的王一生，他只在乎两件事：吃饭和下象棋；后来在地区运动会上，他同时和九个人下盲棋，从早上一直下到天黑。",
+    "highlight_en": [
+      "Chinese chess"
+    ],
+    "highlight_zh": [
+      "象棋"
+    ],
+    "status": "draft",
+    "fact_source": "https://book.douban.com/annotation/147953291/"
   }
 ]
