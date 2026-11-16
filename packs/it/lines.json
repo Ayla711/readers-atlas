@@ -24,30 +24,6 @@
     "keep_breaks": true
   },
   {
-    "id": "it-mv-1",
-    "book_id": "merchant-of-venice",
-    "place_ids": [
-      "it-rialto"
-    ],
-    "location": "Act 1, Scene 3",
-    "location_zh": "第一幕第三场",
-    "text_en": "Signior Antonio, many a time and oft\nIn the Rialto you have rated me\nAbout my moneys and my usances.",
-    "highlight_en": [
-      "the Rialto"
-    ],
-    "text_zh": "安东尼奥先生，你多少次\n在里亚尔托骂我\n放钱、收利息。",
-    "highlight_zh": [
-      "里亚尔托"
-    ],
-    "translation": "original",
-    "source": {
-      "kind": "gutenberg",
-      "id": 1515
-    },
-    "status": "draft",
-    "keep_breaks": true
-  },
-  {
     "id": "it-dc-1",
     "book_id": "divine-comedy",
     "place_ids": [
@@ -106,29 +82,6 @@
     },
     "status": "draft",
     "keep_breaks": true
-  },
-  {
-    "id": "it-dm-1",
-    "book_id": "daisy-miller",
-    "place_ids": [
-      "it-colosseum"
-    ],
-    "location": "Part 4",
-    "location_zh": "第四部分",
-    "text_en": "When, on his return from the villa (it was eleven o’clock), Winterbourne approached the dusky circle of the Colosseum, it recurred to him, as a lover of the picturesque, that the interior, in the pale moonshine, would be well worth a glance. He turned aside and walked to one of the empty arches, near which, as he observed, an open carriage--one of the little Roman streetcabs--was stationed. Then he passed in, among the cavernous shadows of the great structure, and emerged upon the clear and silent arena. The place had never seemed to him more impressive. One-half of the gigantic circus was in deep shade, the other was sleeping in the luminous dusk.",
-    "highlight_en": [
-      "the Colosseum"
-    ],
-    "text_zh": "（那时是十一点）温特伯恩从别墅回来，走近斗兽场那黑黢黢的圆环时，作为一个爱好风景如画的人，他想到在苍白的月光下，里面一定值得一看。他拐到一个空荡荡的拱门前，看见门边停着一辆敞篷马车——罗马街头那种小马车。他走进去，穿过这座巨大建筑洞穴般的阴影，来到空旷寂静的竞技场上。这地方从没让他觉得这么震撼过。巨大的圆场一半沉在深深的阴影里，另一半在明亮的暮色中沉睡。",
-    "highlight_zh": [
-      "斗兽场"
-    ],
-    "translation": "original",
-    "source": {
-      "kind": "gutenberg",
-      "id": 208
-    },
-    "status": "draft"
   },
   {
     "id": "it-ldp-1",
@@ -468,5 +421,380 @@
     ],
     "status": "draft",
     "fact_source": "https://it.wikipedia.org/wiki/Il_lebbroso_della_citt%C3%A0_d%27Aosta"
+  },
+  {
+    "id": "it-dec-1",
+    "book_id": "decameron",
+    "place_ids": [
+      "it-santa-maria-novella"
+    ],
+    "location": "Day 1, Introduction",
+    "location_zh": "第一天 · 引子",
+    "text_en": "it chanced (as I afterward heard from a person worthy of credit) that there foregathered in the venerable church of Santa Maria Novella, one Tuesday morning when there was well nigh none else there, seven young ladies, all knit one to another by friendship or neighbourhood or kinship, who had heard divine service in mourning attire, as sorted with such a season.",
+    "highlight_en": [
+      "Santa Maria Novella"
+    ],
+    "text_zh": "碰巧（这是我后来从一位可靠的人那里听说的），一个星期二的早上，几乎没有别人的时候，可敬的新圣母大殿里聚着七位年轻女子，她们彼此或是朋友，或是邻居，或是亲戚，都穿着与这个时节相称的丧服，刚刚听完弥撒。",
+    "highlight_zh": [
+      "新圣母大殿"
+    ],
+    "translation": "John Payne (1886)",
+    "source": {
+      "kind": "gutenberg",
+      "id": 23700
+    },
+    "status": "draft"
+  },
+  {
+    "id": "it-aen-1",
+    "book_id": "aeneid",
+    "place_ids": [
+      "it-virgil-mantua"
+    ],
+    "location": "Book 10",
+    "location_zh": "第十卷",
+    "text_orig": "Ille etiam patriis agmen ciet Ocnus ab oris,\nfatidicae Mantus et Tusci filius amnis,\nqui muros matrisque dedit tibi, Mantua, nomen,\nMantua, dives avis; sed non genus omnibus unum:\ngens illi triplex, populi sub gente quaterni,\nipsa caput populis, Tusco de sanguine vires.",
+    "highlight_orig": [
+      "Mantua"
+    ],
+    "text_en": "Ocnus was next, who led his native train\nOf hardy warriors thro’ the wat’ry plain:\nThe son of Manto by the Tuscan stream,\nFrom whence the Mantuan town derives the name—\nAn ancient city, but of mix’d descent:\nThree sev’ral tribes compose the government;\nFour towns are under each; but all obey\nThe Mantuan laws, and own the Tuscan sway.",
+    "highlight_en": [
+      "the Mantuan town"
+    ],
+    "text_zh": "接着来的是俄克诺斯，他率领故乡的\n骁勇战士，穿过水上的平原：\n他是曼托和托斯卡纳河神的儿子，\n曼托瓦城就由他母亲得名——\n一座古老的城，血统却很混杂：\n三个部族共同治理；\n每族各领四座城镇；但人人都服从\n曼托瓦的法律，归顺托斯卡纳的统治。",
+    "highlight_zh": [
+      "曼托瓦城"
+    ],
+    "translation": "John Dryden (1697)",
+    "source": {
+      "kind": "gutenberg",
+      "id": 227
+    },
+    "status": "draft",
+    "translation_source": {
+      "kind": "gutenberg",
+      "id": 228
+    },
+    "keep_breaks": true
+  },
+  {
+    "id": "it-cuo-1",
+    "book_id": "cuore",
+    "place_ids": [
+      "it-de-amicis-monument"
+    ],
+    "location": "October: The Calabrian Boy",
+    "location_zh": "十月 · 卡拉布里亚男孩",
+    "text_en": "Bear well in mind what I have said to you. In order that this case might occur, that a Calabrian boy should be as though in his own house at Turin, and that a boy from Turin should be at home in Calabria, our country fought for fifty years, and thirty thousand Italians died.",
+    "highlight_en": [
+      "Turin"
+    ],
+    "text_zh": "记住我对你们说的话。为了能有今天这样的事——一个卡拉布里亚的孩子在都灵就像在自己家里，一个都灵的孩子在卡拉布里亚也像在自己家里——我们的国家打了五十年仗，死了三万意大利人。",
+    "highlight_zh": [
+      "都灵"
+    ],
+    "translation": "Isabel F. Hapgood (1887)",
+    "source": {
+      "kind": "gutenberg",
+      "id": 28961
+    },
+    "status": "draft"
+  },
+  {
+    "id": "it-oth-1",
+    "book_id": "othello",
+    "place_ids": [
+      "it-contarini-fasan"
+    ],
+    "location": "Act 1, Scene 1",
+    "location_zh": "第一幕第一场",
+    "text_en": "What tell’st thou me of robbing?\nThis is Venice. My house is not a grange.",
+    "highlight_en": [
+      "Venice"
+    ],
+    "text_zh": "你跟我说什么抢劫？\n这里是威尼斯，我家可不是乡下的农庄。",
+    "highlight_zh": [
+      "威尼斯"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 1531
+    },
+    "status": "draft",
+    "keep_breaks": true
+  },
+  {
+    "id": "it-asp-1",
+    "book_id": "the-aspern-papers",
+    "place_ids": [
+      "it-soranzo-cappello"
+    ],
+    "location": "Chapter 1",
+    "location_zh": "第 1 章",
+    "text_en": "The gondola stopped, the old palace was there; it was a house of the class which in Venice carries even in extreme dilapidation the dignified name. “How charming! It’s gray and pink!” my companion exclaimed; and that is the most comprehensive description of it.",
+    "highlight_en": [
+      "the old palace"
+    ],
+    "text_zh": "贡多拉停了下来，那座老宫殿就在眼前；在威尼斯，这类房子即便破败到极点，也还配得上“宫殿”这个体面的名称。“真迷人！是灰色和粉色的！”我的同伴叫道；这句话就是对它最全面的描述。",
+    "highlight_zh": [
+      "那座老宫殿"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 211
+    },
+    "status": "draft"
+  },
+  {
+    "id": "it-wod-1",
+    "book_id": "the-wings-of-the-dove",
+    "place_ids": [
+      "it-palazzo-barbaro"
+    ],
+    "location": "Book 7, Chapter 3",
+    "location_zh": "第七部第 3 章",
+    "text_en": "Palazzo Leporelli held its history still in its great lap, even like a painted idol, a solemn puppet hung about with decorations.",
+    "highlight_en": [
+      "Palazzo Leporelli"
+    ],
+    "text_zh": "莱波雷利宫仍把它的历史揽在宽大的怀里，就像一尊彩绘的偶像，一个挂满饰物的庄严木偶。",
+    "highlight_zh": [
+      "莱波雷利宫"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 30059
+    },
+    "status": "draft"
+  },
+  {
+    "id": "it-div-1",
+    "book_id": "death-in-venice",
+    "place_ids": [
+      "it-hotel-des-bains"
+    ],
+    "location": "Chapter 3",
+    "location_zh": "第 3 章",
+    "text_orig": "Er gab Weisung, sein Gepäck ins Bäder-Hotel zu bringen, und folgte dem Karren durch die Allee, die weißblühende Allee, welche, Tavernen, Bazare, Pensionen zu beiden Seiten, quer über die Insel zum Strande läuft.",
+    "highlight_orig": [
+      "Bäder-Hotel"
+    ],
+    "text_en": "He gave instructions for his luggage to be taken to the Hotel des Bains and followed the barrow along the avenue, the white-blossoming avenue that runs across the island to the beach, with taverns, bazaars and guesthouses on either side.",
+    "highlight_en": [
+      "the Hotel des Bains"
+    ],
+    "text_zh": "他吩咐人把行李送到浴场饭店，自己跟着手推车走上那条林荫道，那条开满白花的林荫道，两旁是小酒馆、杂货铺和公寓，横穿小岛一直通到海滩。",
+    "highlight_zh": [
+      "浴场饭店"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 12108
+    },
+    "status": "draft"
+  },
+  {
+    "id": "it-leo-s1",
+    "kind": "scene",
+    "book_id": "the-leopard",
+    "place_ids": [
+      "it-palazzo-filangeri"
+    ],
+    "location": "Part 2, August 1860",
+    "location_zh": "第二部 · 1860 年 8 月",
+    "text_en": "After three days on dusty roads across the interior of Sicily, the Prince of Salina and his family reach Donnafugata, where the town band strikes up, the household goes in procession to a Te Deum in the church and then into the great palace; that evening the mayor's daughter Angelica comes to dinner and dazzles Tancredi.",
+    "text_zh": "萨利纳亲王一家在西西里内陆尘土飞扬的路上走了三天，终于来到多纳富加塔；镇上的乐队奏起乐，全家先列队去教堂听感恩赞美诗，再走进宏大的府邸。当晚，镇长的女儿安杰莉卡来赴晚宴，让坦克雷迪看得目眩神迷。",
+    "highlight_en": [
+      "Donnafugata"
+    ],
+    "highlight_zh": [
+      "多纳富加塔"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Leopard"
+  },
+  {
+    "id": "it-fc-s1",
+    "kind": "scene",
+    "book_id": "the-garden-of-the-finzi-continis",
+    "place_ids": [
+      "it-corso-ercole"
+    ],
+    "location": "Part 2",
+    "location_zh": "第二部",
+    "text_en": "In the autumn of 1938, after the racial laws get the narrator and his Jewish friends thrown out of the town tennis club, Alberto and Micòl Finzi-Contini invite them to play on the private court in their huge garden behind the wall on Corso Ercole I d'Este, and the narrator falls in love with Micòl.",
+    "text_zh": "1938 年秋天，种族法让叙述者和他的犹太朋友们被赶出了城里的网球俱乐部；阿尔贝托和米科尔·芬齐-孔蒂尼邀请他们到埃尔科莱一世大道围墙后自家的大花园里，在私人球场上打球，叙述者爱上了米科尔。",
+    "highlight_en": [
+      "Corso Ercole I d'Este"
+    ],
+    "highlight_zh": [
+      "埃尔科莱一世大道"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Garden_of_the_Finzi-Continis"
+  },
+  {
+    "id": "it-sqe-s1",
+    "kind": "scene",
+    "book_id": "if-this-is-a-man",
+    "place_ids": [
+      "it-fossoli"
+    ],
+    "location": "Chapter 1, The Journey",
+    "location_zh": "第 1 章《旅程》",
+    "text_en": "On 21 February 1944 the prisoners at Fossoli are told that every Jew will leave the next day. Through the night each family prepares in its own way: the mothers cook food for the journey, wash the children and pack, and at dawn everyone is loaded into the freight cars.",
+    "text_zh": "1944 年 2 月 21 日，福索利营里的人被告知，所有犹太人第二天都要被送走。这一夜每家人都用自己的方式准备：母亲们给路上做吃的，给孩子洗澡，收拾行李；天一亮，所有人都被装进了闷罐车。",
+    "highlight_en": [
+      "Fossoli"
+    ],
+    "highlight_zh": [
+      "福索利"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/If_This_Is_a_Man"
+  },
+  {
+    "id": "it-sto-s1",
+    "kind": "scene",
+    "book_id": "history-a-novel",
+    "place_ids": [
+      "it-san-lorenzo"
+    ],
+    "location": "1943",
+    "location_zh": "1943 年",
+    "text_en": "On 19 July 1943 Ida is out with little Useppe when American bombers hit San Lorenzo; they come back through smoke and rubble to find their building gone and their dog Blitz lost in the ruins, and they are left homeless.",
+    "text_zh": "1943 年 7 月 19 日，伊达带着小乌塞佩在外面，美国轰炸机炸中了圣洛伦佐区；两人穿过浓烟和瓦砾回去，发现住的楼已经没了，小狗布利茨也埋在了废墟里，他们从此无家可归。",
+    "highlight_en": [
+      "San Lorenzo"
+    ],
+    "highlight_zh": [
+      "圣洛伦佐区"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/History_(novel)"
+  },
+  {
+    "id": "it-art-s1",
+    "kind": "scene",
+    "book_id": "arturos-island",
+    "place_ids": [
+      "it-procida"
+    ],
+    "location": "Part 1",
+    "location_zh": "第一部",
+    "text_en": "Motherless Arturo runs free on Procida with his boat and his dog, reading about heroes and waiting for his father Wilhelm to come back from his travels, until one day Wilhelm returns with Nunziata, a sixteen-year-old bride from Naples.",
+    "text_zh": "没有母亲的阿图罗带着小船和狗在普罗奇达岛上自由自在，读英雄的故事，等着出门远行的父亲威廉回来；直到有一天，威廉带回了那不勒斯来的十六岁新娘努恩齐亚塔。",
+    "highlight_en": [
+      "Procida"
+    ],
+    "highlight_zh": [
+      "普罗奇达岛"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Arturo%27s_Island"
+  },
+  {
+    "id": "it-bar-s1",
+    "kind": "scene",
+    "book_id": "the-baron-in-the-trees",
+    "place_ids": [
+      "it-la-pigna"
+    ],
+    "location": "Chapter 1",
+    "location_zh": "第 1 章",
+    "text_en": "On 15 June 1767 at lunch in the family villa at Ombrosa, twelve-year-old Cosimo refuses to eat the snails his sister has cooked, storms out, climbs the holm oak in the garden and declares that he will never come down.",
+    "text_zh": "1767 年 6 月 15 日，在翁布罗萨的家族别墅里吃午饭时，十二岁的柯西莫不肯吃姐姐做的蜗牛，摔门而出，爬上花园里的圣栎树，宣布自己再也不下来了。",
+    "highlight_en": [
+      "Ombrosa"
+    ],
+    "highlight_zh": [
+      "翁布罗萨"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Baron_in_the_Trees"
+  },
+  {
+    "id": "it-c22-s1",
+    "kind": "scene",
+    "book_id": "catch-22",
+    "place_ids": [
+      "it-pianosa"
+    ],
+    "location": "Chapter 5",
+    "location_zh": "第 5 章",
+    "text_en": "On Pianosa, Yossarian asks Doc Daneeka to ground Orr for being crazy, and learns about Catch-22: anyone who asks to be taken off combat duty is plainly sane, so he has to keep flying.",
+    "text_zh": "在皮亚诺萨岛上，约塞连请丹尼卡医生以发疯为由让奥尔停飞，这才知道有第二十二条军规：凡是要求不再出战的人，显然都没疯，所以还得接着飞。",
+    "highlight_en": [
+      "Pianosa"
+    ],
+    "highlight_zh": [
+      "皮亚诺萨岛"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Catch-22"
+  },
+  {
+    "id": "it-inf-s1",
+    "kind": "scene",
+    "book_id": "inferno-dan-brown",
+    "place_ids": [
+      "it-salone-cinquecento"
+    ],
+    "location": "Chapters 30–40",
+    "location_zh": "第 30–40 章",
+    "text_en": "On the run through Florence with Sienna Brooks, Robert Langdon slips into Palazzo Vecchio and climbs to the Hall of the Five Hundred to look for the words 'cerca trova' in Vasari's Battle of Marciano, then follows the trail to Dante's death mask, which has vanished from its case.",
+    "text_zh": "罗伯特·兰登和西恩娜·布鲁克斯在佛罗伦萨一路逃亡，溜进维奇奥宫，登上五百人大厅，在瓦萨里的《马尔恰诺之战》里寻找“寻找就会发现”这几个字，又循着线索去找但丁的死亡面具，却发现它已从展柜里不翼而飞。",
+    "highlight_en": [
+      "the Hall of the Five Hundred"
+    ],
+    "highlight_zh": [
+      "五百人大厅"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Inferno_(Brown_novel)"
+  },
+  {
+    "id": "it-8m-s1",
+    "kind": "scene",
+    "book_id": "the-eight-mountains",
+    "place_ids": [
+      "it-estoul"
+    ],
+    "location": "Part 1",
+    "location_zh": "第一部",
+    "text_en": "Eleven-year-old Pietro arrives from Milan with his parents for the summer in Grana, a half-abandoned village below Monte Rosa, and meets Bruno, a boy of his age who tends the cows; together they explore the empty houses and the river, and a lifelong friendship begins.",
+    "text_zh": "十一岁的皮埃特罗随父母从米兰来到罗莎峰下半荒废的山村格拉纳过夏天，认识了同龄的放牛娃布鲁诺；两人一起钻空房子、在河边玩，开始了一辈子的友谊。",
+    "highlight_en": [
+      "Grana"
+    ],
+    "highlight_zh": [
+      "格拉纳"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Eight_Mountains"
+  },
+  {
+    "id": "it-blp-s1",
+    "kind": "scene",
+    "book_id": "the-story-of-the-lost-child",
+    "place_ids": [
+      "it-rione-luzzatti"
+    ],
+    "location": "Maturity",
+    "location_zh": "《成熟》",
+    "text_en": "Back in the old neighborhood in the 1980s, Elena and Lila live in the same building with their young daughters, until one Sunday Lila's four-year-old Tina vanishes from the street outside and is never found.",
+    "text_zh": "八十年代，埃莱娜回到老城区，和莉拉带着各自的小女儿住在同一栋楼里；直到一个星期天，莉拉四岁的女儿蒂娜在楼外的街上不见了，再也没有找回来。",
+    "highlight_en": [
+      "the old neighborhood"
+    ],
+    "highlight_zh": [
+      "老城区"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Story_of_the_Lost_Child"
   }
 ]

@@ -5,12 +5,6 @@
     "alt_zh": "维罗纳的朱丽叶阳台",
     "crop": null
   },
-  "it-rialto": {
-    "commons_file": "File:Panorama of Canal Grande and Ponte di Rialto, Venice - September 2017.jpg",
-    "alt_en": "The Grand Canal and the Rialto Bridge",
-    "alt_zh": "大运河与里亚尔托桥",
-    "crop": null
-  },
   "it-casa-di-dante": {
     "commons_file": "File:Casa di Dante (firenze).JPG",
     "alt_en": "The Casa di Dante in Florence",
@@ -33,12 +27,6 @@
     "commons_file": "File:Ravenna, tomba di Dante (26).jpg",
     "alt_en": "The inscription on Dante's tomb, Ravenna",
     "alt_zh": "拉文纳但丁墓的铭文",
-    "crop": null
-  },
-  "it-colosseum": {
-    "commons_file": "File:View of Colosseo from Ponte degli Annibaldi.jpg",
-    "alt_en": "The Colosseum",
-    "alt_zh": "罗马斗兽场",
     "crop": null
   },
   "it-keats-shelley-house": {
@@ -125,12 +113,6 @@
     "alt_zh": "翁布里亚山谷上的圣方济各大殿",
     "crop": null
   },
-  "it-joyce-trieste": {
-    "commons_file": "File:James Joyce Triest.jpg",
-    "alt_en": "The statue of James Joyce on the Ponte Rosso, Trieste",
-    "alt_zh": "的里雅斯特红桥上的乔伊斯铜像",
-    "crop": null
-  },
   "it-riva-del-garda": {
     "commons_file": "File:L07 431 Hafen Riva, Torre Apponale.jpg",
     "alt_en": "The harbor at Riva del Garda with the Torre Apponale",
@@ -141,6 +123,228 @@
     "commons_file": "File:Torre del lebbroso.jpg",
     "alt_en": "The Tower of the Leper in Aosta",
     "alt_zh": "奥斯塔的麻风病人塔",
+    "crop": null
+  },
+  "it-arqua-petrarca": {
+    "commons_file": "File:Casa del Petrarca 2017-03-26 f05.jpg",
+    "alt_en": "Petrarch's house at Arquà Petrarca",
+    "alt_zh": "阿尔夸彼特拉克的彼特拉克故居",
+    "crop": null
+  },
+  "it-santa-maria-novella": {
+    "commons_file": "File:Santa Maria Novella Florence façade.jpg",
+    "alt_en": "Alberti's façade of Santa Maria Novella",
+    "alt_zh": "新圣母大殿阿尔贝蒂设计的立面",
+    "crop": null
+  },
+  "it-casa-ariosto": {
+    "commons_file": "File:Casa di Ludovico Ariosto - facciata.jpg",
+    "alt_en": "The front of Ariosto's house in Ferrara",
+    "alt_zh": "费拉拉阿里奥斯托故居的门面",
+    "crop": null
+  },
+  "it-sant-onofrio": {
+    "commons_file": "File:Roma, sant'onofrio, ext..JPG",
+    "alt_en": "Sant'Onofrio on the Janiculum",
+    "alt_zh": "贾尼科洛山上的圣奥诺弗里奥修道院",
+    "crop": null
+  },
+  "it-virgil-mantua": {
+    "commons_file": "File:Piazza Virgiliana a Mantova2.jpg",
+    "alt_en": "The monument to Virgil in Piazza Virgiliana, Mantua",
+    "alt_zh": "曼托瓦维吉尔广场上的维吉尔纪念碑",
+    "crop": null
+  },
+  "it-colloredo": {
+    "commons_file": "File:IL CASTELLO - panoramio - iw3rua.jpg",
+    "alt_en": "The castle of Colloredo di Monte Albano",
+    "alt_zh": "科洛雷多城堡",
+    "crop": null
+  },
+  "it-aci-trezza": {
+    "commons_file": "File:Porto (Aci Trezza) 26 07 2025 02.jpg",
+    "alt_en": "The harbor of Aci Trezza and the Cyclopean Isles",
+    "alt_zh": "阿奇特雷扎港和独眼巨人礁",
+    "crop": null
+  },
+  "it-vizzini": {
+    "commons_file": "File:Verga, Giovanni - Ansicht von Vizzini, der Stadt, in der sich die Geschehnisse in Vergas Roman »Maestro Don Gesualdo« abspielten (Zeno Fotografie).jpg",
+    "alt_en": "Vizzini, photographed by Verga himself",
+    "alt_zh": "维尔加亲手拍的维齐尼",
+    "crop": null
+  },
+  "it-palazzo-zuccari": {
+    "commons_file": "File:Roma - Bibliotheca Hertziana Palazzetto Zuccari (29023641238).jpg",
+    "alt_en": "The monster's-mouth window of Palazzo Zuccari",
+    "alt_zh": "祖卡里宫的怪兽大嘴窗",
+    "crop": null
+  },
+  "it-casa-pascoli": {
+    "commons_file": "File:Casa-pascoli-barga.jpg",
+    "alt_en": "Pascoli's house at Castelvecchio",
+    "alt_zh": "卡斯泰尔韦基奥的帕斯科利故居",
+    "crop": null
+  },
+  "it-san-nicolo-arena": {
+    "commons_file": "File:Catania, ex Monastero dei Benedettini 1.jpg",
+    "alt_en": "The Benedictine monastery of San Nicolò l'Arena, Catania",
+    "alt_zh": "卡塔尼亚的圣尼科洛本笃会修道院",
+    "crop": null
+  },
+  "it-pirandello-caos": {
+    "commons_file": "File:IMG 6572 - Agrigento - caos la casa natale di Luigi Pirandello - 2 di 2 -.jpg",
+    "alt_en": "Pirandello's birthplace at Caos",
+    "alt_zh": "“混沌”的皮兰德娄故居",
+    "crop": null
+  },
+  "it-svevo-statue": {
+    "commons_file": "File:ItaloSvevo statue 10.jpg",
+    "alt_en": "The plaque at the foot of Svevo's statue, with a line from Zeno's Conscience",
+    "alt_zh": "斯韦沃铜像脚下刻着《泽诺的意识》句子的铭牌",
+    "crop": null
+  },
+  "it-monterosso": {
+    "commons_file": "File:Monterosso al mare.jpg",
+    "alt_en": "Monterosso al Mare above the sea",
+    "alt_zh": "海边的蒙特罗索",
+    "crop": null
+  },
+  "it-san-martino-carso": {
+    "commons_file": "File:Parco Ungaretti.jpg",
+    "alt_en": "The Parco Ungaretti at San Martino del Carso",
+    "alt_zh": "圣马蒂诺德尔卡尔索的翁加雷蒂公园",
+    "crop": null
+  },
+  "it-buzzati-villa": {
+    "commons_file": "File:Villa Buzzati a Belluno.jpg",
+    "alt_en": "Villa Buzzati outside Belluno",
+    "alt_zh": "贝卢诺城外的布扎蒂别墅",
+    "crop": null
+  },
+  "it-fossoli": {
+    "commons_file": "File:Campo di Fossoli - Baracca ricostruita 2.jpg",
+    "alt_en": "A rebuilt barrack at the Fossoli camp",
+    "alt_zh": "福索利集中营重建的营房",
+    "crop": null
+  },
+  "it-la-pigna": {
+    "commons_file": "File:Sanremo - panoramio (1).jpg",
+    "alt_en": "A lane in the old Pigna quarter of Sanremo",
+    "alt_zh": "圣雷莫皮尼亚老城的小巷",
+    "crop": null
+  },
+  "it-calvino-sanremo": {
+    "commons_file": "File:Lungomare Italo Calvino - panoramio.jpg",
+    "alt_en": "The Lungomare Italo Calvino in Sanremo",
+    "alt_zh": "圣雷莫的卡尔维诺海滨大道",
+    "crop": null
+  },
+  "it-corte-milion": {
+    "commons_file": "File:Corte seconda del Milion e porticato del teatro Venezia.jpg",
+    "alt_en": "The Corte Seconda del Milion, Venice",
+    "alt_zh": "威尼斯的第二百万宅院",
+    "crop": null
+  },
+  "it-procida": {
+    "commons_file": "File:Corricella 2016, Procida (6).jpg",
+    "alt_en": "The harbor of Corricella on Procida",
+    "alt_zh": "普罗奇达岛的科里切拉渔港",
+    "crop": null
+  },
+  "it-san-lorenzo": {
+    "commons_file": "File:Basilica of Saint Lawrence outside the Walls.jpg",
+    "alt_en": "San Lorenzo fuori le Mura, Rome",
+    "alt_zh": "罗马圣洛伦佐城外大殿",
+    "crop": null
+  },
+  "it-palazzo-filangeri": {
+    "commons_file": "File:Santa Margherita di Belice - Palazzo Filangeri.jpg",
+    "alt_en": "Palazzo Filangeri-Cutò, rebuilt after the earthquake",
+    "alt_zh": "震后重建的菲兰杰里-库托宫",
+    "crop": null
+  },
+  "it-corso-ercole": {
+    "commons_file": "File:Ferrara Corso Ercole I d'Este 2022.jpg",
+    "alt_en": "A garden wall on Corso Ercole I d'Este",
+    "alt_zh": "埃尔科莱一世大道边的花园围墙",
+    "crop": null
+  },
+  "it-villa-valguarnera": {
+    "commons_file": "File:Villa Valguarnera 01.jpg",
+    "alt_en": "The gates of Villa Valguarnera, Bagheria",
+    "alt_zh": "巴盖里亚瓦尔瓜尔内拉别墅的大门",
+    "crop": null
+  },
+  "it-vecchiano": {
+    "commons_file": "File:Vecchiano - Viale dei Pini - 2025-09-30 04-35-30 001.jpg",
+    "alt_en": "The Viale dei Pini in Vecchiano",
+    "alt_zh": "韦基亚诺的松树大道",
+    "crop": null
+  },
+  "it-contarini-fasan": {
+    "commons_file": "File:Palazzo Contarini Fasan und Palazzo Venier Contarini (Venedig).jpg",
+    "alt_en": "Palazzo Contarini Fasan (left) on the Grand Canal",
+    "alt_zh": "大运河边的孔塔里尼-法桑宫（左）",
+    "crop": null
+  },
+  "it-hotel-des-bains": {
+    "commons_file": "File:Venedig Lido Grand Hotel Des Bains-6187.jpg",
+    "alt_en": "The Grand Hotel des Bains on the Lido",
+    "alt_zh": "丽都岛上的浴场大饭店",
+    "crop": null
+  },
+  "it-pianosa": {
+    "commons_file": "File:Pianosa, Porto Antico.jpg",
+    "alt_en": "The old harbor of Pianosa",
+    "alt_zh": "皮亚诺萨岛的老港",
+    "crop": null
+  },
+  "it-salone-cinquecento": {
+    "commons_file": "File:Salone dei Cinquecento, Palazzo Vecchio, Florence.jpg",
+    "alt_en": "The Hall of the Five Hundred in Palazzo Vecchio",
+    "alt_zh": "维奇奥宫五百人大厅",
+    "crop": null
+  },
+  "it-palazzo-barbaro": {
+    "commons_file": "File:Palazzo Barbaro a San Vidal.jpg",
+    "alt_en": "Palazzo Barbaro on the Grand Canal",
+    "alt_zh": "大运河边的巴巴罗宫",
+    "crop": null
+  },
+  "it-soranzo-cappello": {
+    "commons_file": "File:De Palazzo Mocenigo a Iglesia de los Scalzi 15.jpg",
+    "alt_en": "Palazzo Soranzo Cappello and its garden gate on the Rio Marin",
+    "alt_zh": "里奥马林运河边的索兰佐-卡佩罗宫和花园大门",
+    "crop": null
+  },
+  "it-estoul": {
+    "commons_file": "File:Gita al rifugio Arp 2011 abc25 Estoul.jpg",
+    "alt_en": "The pastures of Estoul below the mountains",
+    "alt_zh": "群山下埃斯图尔的牧场",
+    "crop": null
+  },
+  "it-de-amicis-monument": {
+    "commons_file": "File:Monumento a Edmondo de Amicis (Edoardo Rubino 1914).jpg",
+    "alt_en": "The monument to De Amicis in Turin, with his portrait in relief",
+    "alt_zh": "都灵的德·亚米契斯纪念碑和他的浮雕头像",
+    "crop": null
+  },
+  "it-luras": {
+    "commons_file": "File:Galluras Museum - Sa femmina aggabbadora -Building.jpg",
+    "alt_en": "The Galluras museum in Luras",
+    "alt_zh": "卢拉斯的加卢拉斯民俗博物馆",
+    "crop": null
+  },
+  "it-arsita": {
+    "commons_file": "File:Panorama dell'Abruzzo, parco nazionale del Gran Sasso - panoramio.jpg",
+    "alt_en": "The Abruzzo hills below the Gran Sasso",
+    "alt_zh": "大萨索山下的阿布鲁佐山区",
+    "crop": null
+  },
+  "it-crema-duomo": {
+    "commons_file": "File:Crema, cattedrale di Santa Maria Assunta 03.jpg",
+    "alt_en": "The façade of Crema Cathedral",
+    "alt_zh": "克雷马大教堂立面",
     "crop": null
   }
 }

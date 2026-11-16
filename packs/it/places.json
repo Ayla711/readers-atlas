@@ -15,32 +15,18 @@
     "fact_source": "https://en.wikipedia.org/wiki/Juliet%27s_House"
   },
   {
-    "id": "it-rialto",
-    "name": "Rialto Bridge, Venice",
-    "name_zh": "威尼斯 · 里亚尔托桥",
-    "lat": 45.438,
-    "lon": 12.3356,
-    "place_type": "original",
-    "note": "《威尼斯商人》里，夏洛克对安东尼奥说“你在里亚尔托一次又一次骂我放高利贷”，剧中商人们打听消息也总问“里亚尔托有什么新闻”。里亚尔托一带是当年威尼斯的商业中心，银行、货栈和市场都在这里。眼前这座石桥建于 1591 年，正是莎士比亚写这部戏的年代，桥边的鱼市和菜市至今每天早上开张",
-    "note_en": "In The Merchant of Venice, Shylock reminds Antonio how often 'in the Rialto you have rated me' for lending at interest, and the merchants in the play are always asking 'What news on the Rialto?' The Rialto was the commercial heart of Venice, home to its banks, warehouses and markets. This stone bridge was finished in 1591, just about when Shakespeare wrote the play, and the fish and produce markets beside it still open every morning",
-    "coord_checked": "Ponte di Rialto (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Ponte_di_Rialto",
-    "book_ids": [
-      "merchant-of-venice"
-    ],
-    "fact_source": "https://en.wikipedia.org/wiki/Rialto_Bridge"
-  },
-  {
     "id": "it-casa-di-dante",
     "name": "Casa di Dante, Florence",
     "name_zh": "佛罗伦萨 · 但丁故居",
     "lat": 43.771,
     "lon": 11.257,
     "place_type": "pilgrimage",
-    "note": "但丁 1265 年出生在佛罗伦萨这片窄巷里，1302 年被政敌判处流放，从此再没回过故乡，《神曲》就是在流亡中写成的，诗里他对佛罗伦萨又爱又恨，在地狱篇里讽刺“佛罗伦萨，你真是伟大，连地狱里都传遍了你的名字”。这座塔楼式的“但丁之家”是 20 世纪初按中世纪样子重建的纪念馆，附近的小教堂据说是他第一次见到贝雅特丽齐的地方",
-    "note_en": "Dante was born in 1265 in these narrow streets of Florence; in 1302 his political enemies sentenced him to exile and he never came home again, writing the Divine Comedy as an exile. He loves and berates Florence in the poem, mocking it in the Inferno: 'Rejoice, O Florence, since thou art so great' that your name is spread throughout Hell. This tower-house, the Casa di Dante, is a museum rebuilt in medieval style in the early twentieth century, and the little church nearby is said to be where he first saw Beatrice",
+    "note": "但丁 1265 年出生在佛罗伦萨这片窄巷里，九岁时第一次见到贝雅特丽齐，后来把这份爱写成了诗文集《新生》。1302 年他被政敌判处流放，再没回过故乡，《神曲》就是在流亡中写成的。这座塔楼式的“但丁之家”是 20 世纪初按中世纪样子重建的纪念馆，附近的小教堂据说是他第一次见到贝雅特丽齐的地方",
+    "note_en": "Dante was born in 1265 in these narrow streets of Florence and first saw Beatrice when he was nine, a love he later turned into the Vita Nuova. In 1302 his political enemies sentenced him to exile and he never came home again, writing the Divine Comedy as an exile. This tower-house, the Casa di Dante, is a museum rebuilt in medieval style in the early twentieth century, and the little church nearby is said to be where he first saw Beatrice",
     "coord_checked": "Dante's house (Florence) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Dante's_house_(Florence)",
     "book_ids": [
-      "divine-comedy"
+      "divine-comedy",
+      "vita-nuova"
     ],
     "fact_source": "https://en.wikipedia.org/wiki/Casa_di_Dante"
   },
@@ -90,21 +76,6 @@
     "fact_source": "https://en.wikipedia.org/wiki/Dante%27s_Tomb"
   },
   {
-    "id": "it-colosseum",
-    "name": "Colosseum, Rome",
-    "name_zh": "罗马 · 斗兽场",
-    "lat": 41.8903,
-    "lon": 12.4922,
-    "place_type": "original",
-    "note": "亨利·詹姆斯的《黛西·米勒》结尾，天真任性的美国姑娘黛西半夜跑到月光下的斗兽场看风景，被温特伯恩撞见，几天后就染上“罗马热病”（疟疾）死去。19 世纪的游客都爱在月夜来这里吟诵拜伦的诗，医生们却警告说夜里的瘴气要人命。今天可以预约夜场参观，走进地下的兽笼和通道",
-    "note_en": "At the end of Henry James's Daisy Miller, Daisy, the naive and headstrong American girl, goes to see the Colosseum by moonlight at midnight, is found there by Winterbourne, and a few days later dies of 'Roman fever', malaria. Nineteenth-century tourists loved to come here on moonlit nights to recite Byron, while doctors warned that the night air was deadly. Today you can book a night tour that takes you down into the cages and passages under the arena",
-    "coord_checked": "Colosseum (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Colosseum",
-    "book_ids": [
-      "daisy-miller"
-    ],
-    "fact_source": "https://en.wikipedia.org/wiki/Daisy_Miller"
-  },
-  {
     "id": "it-keats-shelley-house",
     "name": "Keats-Shelley House, Rome",
     "name_zh": "罗马 · 济慈-雪莱故居",
@@ -141,11 +112,12 @@
     "lat": 40.8578,
     "lon": 14.2901,
     "place_type": "prototype",
-    "prototype_of": "《我的天才女友》里莉拉和埃莱娜长大的那个“城区”的原型：那不勒斯东边铁路旁这片 20 世纪 20 年代建的工人住宅区，费兰特在书里没有点名，但读者从小说里的隧道、铁路和教堂认出了它。两个女孩穿过隧道第一次去看海的那段，就从这里出发。这里至今是普通的居民区，还没什么游客，去时保持低调",
-    "prototype_of_en": "The model for the 'neighborhood' where Lila and Elena grow up in My Brilliant Friend: a 1920s working-class housing estate beside the railway on the east side of Naples. Ferrante never names it, but readers have recognized it from the tunnel, the railway and the church in the novel; the girls' first attempt to see the sea, through the tunnel, starts from here. It's still an ordinary residential district with few tourists, so keep a low profile",
+    "prototype_of": "那不勒斯四部曲里莉拉和埃莱娜长大的那个“城区”的原型：东边铁路旁这片 20 世纪 20 年代建的工人住宅区，费兰特在书里没有点名，读者从隧道、铁路和教堂认出了它。第一部里两个女孩从这里穿过隧道去看海；最后一部《失踪的孩子》里，莉拉四岁的女儿蒂娜就在这片街上不见了。这里至今是普通居民区，去时保持低调",
+    "prototype_of_en": "The model for the 'neighborhood' where Lila and Elena grow up in the Neapolitan Novels: a 1920s working-class housing estate beside the railway on the east side of Naples. Ferrante never names it, but readers have recognized it from the tunnel, the railway and the church. In the first book the girls set off through the tunnel from here to see the sea; in the last, The Story of the Lost Child, Lila's four-year-old daughter Tina vanishes from these streets. It's still an ordinary residential district, so keep a low profile",
     "coord_checked": "San Giuseppe Maggiore dei Falegnami (Napoli) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:San_Giuseppe_Maggiore_dei_Falegnami_(Napoli)",
     "book_ids": [
-      "my-brilliant-friend"
+      "my-brilliant-friend",
+      "the-story-of-the-lost-child"
     ],
     "fact_source": "https://en.wikipedia.org/wiki/My_Brilliant_Friend"
   },
@@ -331,21 +303,6 @@
     "fact_source": "https://en.wikipedia.org/wiki/Little_Flowers_of_St._Francis"
   },
   {
-    "id": "it-joyce-trieste",
-    "name": "James Joyce statue, Ponte Rosso, Trieste",
-    "name_zh": "的里雅斯特 · 乔伊斯铜像",
-    "lat": 45.652,
-    "lon": 13.7718,
-    "place_type": "pilgrimage",
-    "note": "1904 到 1920 年，乔伊斯带着诺拉在的里雅斯特住了十几年，靠教英语糊口，写完了《都柏林人》，写了《一个青年艺术家的画像》，也开始了《尤利西斯》。他的学生里有后来的小说家斯韦沃。运河边红桥上这尊真人大小的铜像，让他像当年一样戴着礼帽、夹着书在城里散步，城里还有一条乔伊斯足迹步道",
-    "note_en": "From 1904 to 1920 James Joyce and Nora lived in Trieste, where he scraped a living teaching English, finished Dubliners, wrote A Portrait of the Artist as a Young Man and began Ulysses; one of his pupils was the future novelist Italo Svevo. This life-size bronze on the Ponte Rosso over the canal shows him strolling through town in his hat with a book under his arm, as he used to, and there's a Joyce walking trail around the city",
-    "coord_checked": "File:James Joyce Triest.jpg (Wikimedia Commons, photo location) — https://commons.wikimedia.org/wiki/File:James_Joyce_Triest.jpg",
-    "book_ids": [
-      "dubliners"
-    ],
-    "fact_source": "https://en.wikipedia.org/wiki/James_Joyce"
-  },
-  {
     "id": "it-riva-del-garda",
     "name": "Harbor, Riva del Garda",
     "name_zh": "加尔达湖畔里瓦 · 港口",
@@ -374,5 +331,569 @@
       "leper-of-aosta"
     ],
     "fact_source": "https://it.wikipedia.org/wiki/Torre_del_Lebbroso"
+  },
+  {
+    "id": "it-arqua-petrarca",
+    "name": "Petrarch's House, Arquà Petrarca",
+    "name_zh": "阿尔夸彼特拉克 · 彼特拉克故居",
+    "lat": 45.27046,
+    "lon": 11.7157,
+    "place_type": "pilgrimage",
+    "note": "彼特拉克写给劳拉的三百多首诗编成《歌集》，给整个欧洲定下了十四行诗的样子。他晚年隐居在尤加内丘陵的这座小村，1374 年死在这里，村子后来干脆改名叫“阿尔夸彼特拉克”。故居保留着他的书房，还有一只据说是他养的猫的标本，他的墓就在教堂前的广场上",
+    "note_en": "Petrarch's Canzoniere, more than three hundred poems mostly to Laura, set the pattern for the sonnet all over Europe. He spent his last years in this village in the Euganean Hills and died here in 1374, and the village later renamed itself Arquà Petrarca. The house keeps his study and a mummified cat said to have been his, and his tomb stands in the square in front of the church",
+    "coord_checked": "Francesco Petrarca's house (Arquà Petrarca) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Francesco_Petrarca's_house_(Arquà_Petrarca)",
+    "book_ids": [
+      "petrarch-canzoniere"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Petrarch"
+  },
+  {
+    "id": "it-santa-maria-novella",
+    "name": "Santa Maria Novella, Florence",
+    "name_zh": "佛罗伦萨 · 新圣母大殿",
+    "lat": 43.7743,
+    "lon": 11.249367,
+    "place_type": "original",
+    "note": "《十日谈》的故事从这里开始：1348 年黑死病横扫佛罗伦萨，七位年轻女子在新圣母大殿做完弥撒，约上三位青年躲到城外的乡间别墅，十天里每人每天讲一个故事，一共一百个。教堂的大理石立面出自阿尔贝蒂之手，里面有马萨乔的《三位一体》和乔托画的十字架",
+    "note_en": "The Decameron begins here: in 1348, as the Black Death sweeps through Florence, seven young women meet after Mass in Santa Maria Novella and, joined by three young men, escape to villas outside the city, where each tells a story a day for ten days, a hundred in all. The marble façade is by Alberti, and inside are Masaccio's Trinity and a crucifix painted by Giotto",
+    "coord_checked": "Santa Maria Novella (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Santa_Maria_Novella",
+    "book_ids": [
+      "decameron"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/The_Decameron"
+  },
+  {
+    "id": "it-casa-ariosto",
+    "name": "House of Ludovico Ariosto, Ferrara",
+    "name_zh": "费拉拉 · 阿里奥斯托故居",
+    "lat": 44.844346,
+    "lon": 11.616865,
+    "place_type": "pilgrimage",
+    "note": "阿里奥斯托为费拉拉的埃斯特家族写了《疯狂的罗兰》：骑士为爱发疯，阿斯托尔福骑着鹰头马飞上月亮替罗兰找回理智，是文艺复兴最受欢迎的长诗。晚年他用积蓄盖了这座小楼，门面上刻着拉丁文“小，但合我意”，1533 年死在这里，楼里是一座小纪念馆",
+    "note_en": "Ariosto wrote Orlando Furioso for the Este court of Ferrara: knights driven mad by love, and Astolfo riding the hippogriff to the moon to fetch back Orlando's wits; it was the best-loved long poem of the Renaissance. Late in life he built this small house with his savings and had 'Small, but suited to me' carved in Latin on its front; he died here in 1533, and it is now a small museum",
+    "coord_checked": "House of Ludovico Ariosto (Ferrara) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:House_of_Ludovico_Ariosto_(Ferrara)",
+    "book_ids": [
+      "orlando-furioso"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Ludovico_Ariosto"
+  },
+  {
+    "id": "it-sant-onofrio",
+    "name": "Sant'Onofrio al Gianicolo, Rome",
+    "name_zh": "罗马 · 贾尼科洛山圣奥诺弗里奥修道院",
+    "lat": 41.89725,
+    "lon": 12.46119,
+    "place_type": "pilgrimage",
+    "note": "塔索写十字军攻下耶路撒冷的《被解放的耶路撒冷》，一生被精神病和迫害妄想折磨，在费拉拉被关了七年。1595 年他住进贾尼科洛山上的这座修道院，等着教皇为他加冕桂冠诗人，没等到就死在了这里。教堂里有他的墓，附近公园里那棵“塔索橡树”的枯干还在",
+    "note_en": "Tasso wrote Jerusalem Delivered, the epic of the crusaders taking Jerusalem, and was tormented all his life by mental illness and fears of persecution; Ferrara kept him locked up for seven years. In 1595 he moved into this monastery on the Janiculum to await his crowning as poet laureate by the pope, and died here before it could happen. His tomb is in the church, and the dead trunk of 'Tasso's oak' still stands in the park nearby",
+    "coord_checked": "Sant'Onofrio al Gianicolo (Rome) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Sant'Onofrio_al_Gianicolo_(Rome)",
+    "book_ids": [
+      "jerusalem-delivered"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Torquato_Tasso"
+  },
+  {
+    "id": "it-virgil-mantua",
+    "name": "Monument to Virgil, Mantua",
+    "name_zh": "曼托瓦 · 维吉尔纪念碑",
+    "lat": 45.163056,
+    "lon": 10.795556,
+    "place_type": "pilgrimage",
+    "note": "维吉尔公元前 70 年生在曼托瓦附近，他在《埃涅阿斯纪》第十卷里专门写到故乡：这座城由女先知曼托的儿子建立，以母亲的名字命名。《神曲》里给但丁引路的维吉尔，开口也说自己的父母“都是曼托瓦人”。湖边的维吉尔广场上立着 1927 年落成的诗人像",
+    "note_en": "Virgil was born near Mantua in 70 BC, and wrote his hometown into Book 10 of the Aeneid: a city founded by the son of the prophetess Manto and named after his mother. In Dante's Inferno, Virgil introduces himself the same way, saying that his parents were both Mantuans. His statue, unveiled in 1927, stands in the Piazza Virgiliana near the lakes",
+    "coord_checked": "Monument to Virgil (Mantua) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Monument_to_Virgil_(Mantua)",
+    "book_ids": [
+      "aeneid"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Virgil"
+  },
+  {
+    "id": "it-colloredo",
+    "name": "Castello di Colloredo di Monte Albano",
+    "name_zh": "科洛雷多城堡",
+    "lat": 46.1667,
+    "lon": 13.138746,
+    "place_type": "pilgrimage",
+    "note": "涅埃沃 1857 到 1858 年在母亲家族的科洛雷多城堡里，用八个多月写完了《一个意大利人的自白》：八十岁的卡尔洛回忆自己从威尼斯共和国覆灭到意大利统一的一生。三年后他乘船遇难，年仅二十九岁，没能看到书出版。城堡在 1976 年弗留利地震中严重损毁，近年才修复",
+    "note_en": "In 1857–58 Nievo wrote Confessions of an Italian in a little over eight months at Colloredo, the castle of his mother's family: the eighty-year-old Carlo looks back on a life that runs from the fall of the Venetian Republic to the unification of Italy. Three years later Nievo was lost at sea at twenty-nine and never saw the book published. The castle was badly damaged in the Friuli earthquake of 1976 and has been restored in recent years",
+    "coord_checked": "Castello di Colloredo di Monte Albano (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Castello_di_Colloredo_di_Monte_Albano",
+    "book_ids": [
+      "confessions-of-an-italian"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Ippolito_Nievo"
+  },
+  {
+    "id": "it-aci-trezza",
+    "name": "Aci Trezza",
+    "name_zh": "阿奇特雷扎",
+    "lat": 37.561546,
+    "lon": 15.157492,
+    "place_type": "original",
+    "note": "维尔加的《马拉沃利亚一家》写的就是卡塔尼亚北边这个渔村：一家渔民押上全部家当，赊了一船羽扇豆去卖，船却在风暴里沉了，从此家道败落。海里那几块黑色的火山岩叫“独眼巨人礁”，传说是独眼巨人朝奥德修斯扔的石头。村里有一座以小说命名的“枇杷树之家”小纪念馆",
+    "note_en": "Verga's The House by the Medlar Tree is set in this fishing village north of Catania: a family of fishermen stake everything on a cargo of lupins bought on credit, the boat goes down in a storm, and their long decline begins. The black volcanic stacks offshore, the Cyclopean Isles, are said to be the rocks the Cyclops hurled at Odysseus. The village has a small museum named after the novel, the Casa del Nespolo",
+    "coord_checked": "Aci Trezza (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Aci_Trezza",
+    "book_ids": [
+      "the-house-by-the-medlar-tree"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/I_Malavoglia"
+  },
+  {
+    "id": "it-vizzini",
+    "name": "Vizzini",
+    "name_zh": "维齐尼",
+    "lat": 37.166667,
+    "lon": 14.75,
+    "place_type": "original",
+    "note": "维尔加的家族来自卡塔尼亚内陆的山城维齐尼，《堂·杰苏阿尔多师傅》就以这里为背景：泥瓦匠出身的杰苏阿尔多拼命挣下家业，娶了没落贵族的女儿，却被贵族和穷亲戚两头看不起。小城的老街和贵族宅邸都还在，广场上有维尔加的雕像，他的《乡村骑士》也发生在这一带",
+    "note_en": "Verga's family came from Vizzini, a hill town inland from Catania, and Mastro-don Gesualdo is set here: Gesualdo, a mason who scrapes together a fortune and marries the daughter of a fallen noble house, is looked down on by the gentry and his poor relations alike. The old streets and noble houses are still there, with a statue of Verga, and his 'Cavalleria rusticana' is set around here too",
+    "coord_checked": "Vizzini (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Vizzini",
+    "book_ids": [
+      "mastro-don-gesualdo"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Mastro-don_Gesualdo"
+  },
+  {
+    "id": "it-palazzo-zuccari",
+    "name": "Palazzo Zuccari, Rome",
+    "name_zh": "罗马 · 祖卡里宫",
+    "lat": 41.90566667,
+    "lon": 12.48388889,
+    "place_type": "original",
+    "note": "邓南遮的《欢乐》写 19 世纪末罗马的唯美派贵族安德烈亚·斯佩雷利，他就住在西班牙阶梯顶上的祖卡里宫，在两个女人之间周旋。这座 16 世纪画家祖卡里给自己盖的房子，最出名的是格雷戈里亚纳街那面张着怪兽大嘴的门窗。今天这里是赫尔齐亚纳艺术史图书馆",
+    "note_en": "D'Annunzio's The Child of Pleasure follows Andrea Sperelli, an aesthete aristocrat in late nineteenth-century Rome, who lives in Palazzo Zuccari at the top of the Spanish Steps and is torn between two women. The house the painter Federico Zuccari built for himself in the sixteenth century is famous for the monsters' gaping mouths that frame its door and windows on Via Gregoriana. It is now the Bibliotheca Hertziana, an art-history library",
+    "coord_checked": "Palazzo Zuccari, Rome (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Palazzo_Zuccari,_Rome",
+    "book_ids": [
+      "the-child-of-pleasure"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Il_Piacere"
+  },
+  {
+    "id": "it-casa-pascoli",
+    "name": "Casa Pascoli, Castelvecchio",
+    "name_zh": "卡斯泰尔韦基奥 · 帕斯科利故居",
+    "lat": 44.084163,
+    "lon": 10.462714,
+    "place_type": "pilgrimage",
+    "note": "帕斯科利少年时父亲被人杀害，家人又接连去世，他的诗里满是乡野的小东西：《柽柳集》写鸟、树篱、田间的活计和死去的亲人。1895 年起他和妹妹住在托斯卡纳山谷里的这座房子，后来的许多诗都写在这里。房子保持着他生前的样子，他就葬在家里的小礼拜堂",
+    "note_en": "Pascoli's father was murdered when he was a boy and more family deaths followed; his poems are full of small country things, and Myricae is about birds, hedges, work in the fields and the family dead. From 1895 he lived with his sister in this house in a Tuscan valley and wrote much of his later poetry here. The house is kept as he left it, and he is buried in its chapel",
+    "coord_checked": "Casa Museo Giovanni Pascoli (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Casa_Museo_Giovanni_Pascoli",
+    "book_ids": [
+      "myricae"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Giovanni_Pascoli"
+  },
+  {
+    "id": "it-san-nicolo-arena",
+    "name": "Monastery of San Nicolò l'Arena, Catania",
+    "name_zh": "卡塔尼亚 · 圣尼科洛本笃会修道院",
+    "lat": 37.503611,
+    "lon": 15.079444,
+    "place_type": "original",
+    "note": "德·罗伯托的《总督》写西班牙总督后裔乌泽达家族在意大利统一前后的贪婪和争产，家里的小儿子被送进卡塔尼亚的这座本笃会修道院，修士们过的是贵族般的奢华日子。这座欧洲最大的修道院之一现在是卡塔尼亚大学的人文学院，可以参观回廊和地下的古罗马遗迹",
+    "note_en": "De Roberto's The Viceroys follows the greedy, quarrelling Uzeda family, descendants of the Spanish viceroys, through the years of Italian unification; younger sons are packed off to this Benedictine monastery in Catania, where the monks live like lords. One of the largest monasteries in Europe, it now houses the University of Catania's humanities department, and you can tour its cloisters and the Roman remains beneath",
+    "coord_checked": "Monastero di San Nicolò l'Arena (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Monastero_di_San_Nicolò_l'Arena",
+    "book_ids": [
+      "the-viceroys"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Federico_De_Roberto"
+  },
+  {
+    "id": "it-pirandello-caos",
+    "name": "Pirandello's birthplace, Caos, Agrigento",
+    "name_zh": "阿格里真托 · 皮兰德娄故居",
+    "lat": 37.29123,
+    "lon": 13.55197,
+    "place_type": "pilgrimage",
+    "note": "皮兰德娄 1867 年生在阿格里真托城外这片叫“混沌”的乡间，常说自己是“混沌之子”。《已故的帕斯卡尔》里被误认为已死、借机换个身份重活的男人，《六个寻找剧作家的角色》里闯进排练场的剧中人，都在追问“我是谁”。故居现在是博物馆，他的骨灰安放在屋旁的一块岩石里",
+    "note_en": "Pirandello was born in 1867 in this stretch of country outside Agrigento called Caos, 'Chaos', and liked to call himself a son of Chaos. The man in The Late Mattia Pascal who is wrongly declared dead and seizes the chance to become someone else, and the characters in Six Characters in Search of an Author who burst in on a rehearsal, are all asking who they are. The house is a museum, and his ashes lie in a rock beside it",
+    "coord_checked": "File:Casa natale di Pirandello.JPG (Wikimedia Commons, photo location) — https://commons.wikimedia.org/wiki/File:Casa_natale_di_Pirandello.JPG",
+    "book_ids": [
+      "the-late-mattia-pascal",
+      "six-characters-in-search-of-an-author",
+      "one-no-one-and-one-hundred-thousand"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Luigi_Pirandello"
+  },
+  {
+    "id": "it-svevo-statue",
+    "name": "Statue of Italo Svevo, Trieste",
+    "name_zh": "的里雅斯特 · 斯韦沃铜像",
+    "lat": 45.64697,
+    "lon": 13.76488,
+    "place_type": "pilgrimage",
+    "note": "斯韦沃是的里雅斯特的商人，白天管岳父家的油漆厂，夜里写小说，前两部无人问津，直到他的英语老师乔伊斯把他推荐给法国评论家，《泽诺的意识》才走红：一个总也戒不掉烟的商人，听心理医生的话写下自己的一生。老城霍尔蒂斯广场上有他的铜像，脚下刻着书里的一句话",
+    "note_en": "Svevo was a Trieste businessman who ran his in-laws' paint company by day and wrote at night; his first two novels went unnoticed until his English teacher, James Joyce, brought Zeno's Conscience to French critics: a businessman who can never quite give up smoking writes down his life on his psychoanalyst's orders. His bronze stands in Piazza Hortis in the old town, with a line from the novel set in the pavement at his feet",
+    "coord_checked": "File:Italo Svevo at Piazza Hortis - panoramio.jpg (Wikimedia Commons, photo location) — https://commons.wikimedia.org/wiki/File:Italo_Svevo_at_Piazza_Hortis_-_panoramio.jpg",
+    "book_ids": [
+      "zenos-conscience"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Italo_Svevo"
+  },
+  {
+    "id": "it-monterosso",
+    "name": "Monterosso al Mare",
+    "name_zh": "五渔村 · 蒙特罗索",
+    "lat": 44.146286,
+    "lon": 9.65555,
+    "place_type": "original",
+    "note": "蒙塔莱童年和青年时代的夏天都在五渔村的蒙特罗索度过，家里的别墅就在费吉纳海滩边。《乌贼骨》里灼热的岩石、龙舌兰、晒白的墙和拍岸的海，写的就是这段利古里亚海岸，他后来凭诗歌获得诺贝尔文学奖。镇上的小路边有刻着他诗句的石板",
+    "note_en": "Montale spent the summers of his childhood and youth at Monterosso in the Cinque Terre, where his family's villa stood by Fegina beach. The burning rocks, agaves, sun-bleached walls and pounding sea of Cuttlefish Bones are this stretch of Ligurian coast, and he went on to win the Nobel Prize for his poetry. Stone tablets carved with his lines stand along the paths of the town",
+    "coord_checked": "Monterosso al Mare (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Monterosso_al_Mare",
+    "book_ids": [
+      "cuttlefish-bones"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Eugenio_Montale"
+  },
+  {
+    "id": "it-san-martino-carso",
+    "name": "San Martino del Carso",
+    "name_zh": "圣马蒂诺德尔卡尔索",
+    "lat": 45.87583,
+    "lon": 13.53528,
+    "place_type": "original",
+    "note": "一战时翁加雷蒂是卡尔索高原前线的步兵，在战壕里用铅笔把短诗写在明信片和纸片上，后来编成《欢乐集》。其中一首就叫《圣马蒂诺德尔卡尔索》，写这个被炮火夷平的村子只剩几截残墙，而他的心才是最残破的村庄。村边的翁加雷蒂公园里立着刻这首诗的石碑",
+    "note_en": "In the First World War Ungaretti was an infantryman on the Carso front, pencilling short poems on postcards and scraps of paper in the trenches; they became L'Allegria. One of them is named after this village, flattened by the guns: only shreds of wall are left of its houses, he writes, but his heart is the most shattered village of all. A stone carved with the poem stands in the Parco Ungaretti by the village",
+    "coord_checked": "San Martino del Carso (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:San_Martino_del_Carso",
+    "book_ids": [
+      "l-allegria"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Giuseppe_Ungaretti"
+  },
+  {
+    "id": "it-buzzati-villa",
+    "name": "Villa Buzzati, Belluno",
+    "name_zh": "贝卢诺 · 布扎蒂别墅",
+    "lat": 46.13385,
+    "lon": 12.20768,
+    "place_type": "pilgrimage",
+    "note": "布扎蒂 1906 年生在贝卢诺城外家族的这座别墅里，一辈子爱多洛米蒂山。《鞑靼人沙漠》里年轻军官德罗戈被派到边境要塞，一年又一年等着从北方沙漠来的敌人，等到老也没等来；那荒凉的群山里，有他故乡山影的影子。别墅至今属于布扎蒂家族",
+    "note_en": "Buzzati was born in 1906 in his family's villa outside Belluno and loved the Dolomites all his life. In The Tartar Steppe the young officer Drogo is posted to a frontier fortress and waits year after year for an enemy from the northern desert who never comes, among bleak mountains that owe something to those of his home. The villa still belongs to the Buzzati family",
+    "coord_checked": "File:Villa Buzzati a Belluno.jpg (Wikimedia Commons, photo location) — https://commons.wikimedia.org/wiki/File:Villa_Buzzati_a_Belluno.jpg",
+    "book_ids": [
+      "the-tartar-steppe"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Dino_Buzzati"
+  },
+  {
+    "id": "it-fossoli",
+    "name": "Fossoli camp",
+    "name_zh": "福索利集中营",
+    "lat": 44.828333,
+    "lon": 10.902778,
+    "place_type": "original",
+    "note": "1944 年初，作为游击队员被捕的普里莫·莱维被关进摩德纳附近的福索利中转营，2 月 22 日和六百多名犹太人一起被塞进闷罐车送往奥斯维辛。《这是不是个人》第一章就从这里的最后一夜写起。营地残存的营房正在修复，旁边卡尔皮城里有被驱逐者纪念馆",
+    "note_en": "Early in 1944 Primo Levi, arrested as a partisan, was held in the Fossoli transit camp near Modena, and on 22 February he and some 650 Jews were loaded into freight cars for Auschwitz. The first chapter of If This Is a Man begins with the last night here. What remains of the barracks is being restored, and the Museum-Monument to the Deportee is in nearby Carpi",
+    "coord_checked": "Campo di transito (Fossoli) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Campo_di_transito_(Fossoli)",
+    "book_ids": [
+      "if-this-is-a-man"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Fossoli_camp"
+  },
+  {
+    "id": "it-la-pigna",
+    "name": "La Pigna, Sanremo",
+    "name_zh": "圣雷莫 · 皮尼亚老城",
+    "lat": 43.8187748,
+    "lon": 7.7743458,
+    "place_type": "prototype",
+    "prototype_of": "《树上的男爵》里翁布罗萨的原型：十二岁的柯西莫赌气爬上树，从此一辈子没再落地，在树上读书、恋爱、帮山贼、见拿破仑。卡尔维诺在圣雷莫长大，书里那座临海的山城和连绵的树林，就是照着故乡的利古里亚海岸写的。皮尼亚老城的陡巷和过街拱至今像一座迷宫",
+    "prototype_of_en": "The model for Ombrosa in The Baron in the Trees: at twelve, Cosimo climbs a tree in a sulk and never sets foot on the ground again, reading, falling in love, helping brigands and meeting Napoleon from the branches. Calvino grew up in Sanremo, and the hill town above the sea and the endless woods of the book are drawn from this Ligurian coast. The steep lanes and archways of the old Pigna quarter are still a maze",
+    "coord_checked": "La Pigna (Sanremo) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:La_Pigna_(Sanremo)",
+    "book_ids": [
+      "the-baron-in-the-trees"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/The_Baron_in_the_Trees"
+  },
+  {
+    "id": "it-calvino-sanremo",
+    "name": "Lungomare Italo Calvino, Sanremo",
+    "name_zh": "圣雷莫 · 卡尔维诺海滨大道",
+    "lat": 43.81363,
+    "lon": 7.77194,
+    "place_type": "pilgrimage",
+    "note": "卡尔维诺两岁时随父母回到圣雷莫，在这座海滨小城一直长到二十出头。《马可瓦尔多》写的却是北方工业城市里的一个搬运工：他在水泥和霓虹灯之间寻找蘑菇、鸽子和一点点季节的痕迹，二十个故事正好走过五轮春夏秋冬。圣雷莫把港口边这段海滨大道命名为卡尔维诺大道",
+    "note_en": "Calvino was brought to Sanremo at the age of two and grew up in this seaside town until his early twenties. Marcovaldo, though, is about a laborer in a northern industrial city who hunts for mushrooms, pigeons and any trace of the seasons among the concrete and neon; its twenty stories run through five rounds of spring, summer, autumn and winter. Sanremo has named this stretch of seafront by the harbor after him",
+    "coord_checked": "File:Lungomare Italo Calvino - panoramio.jpg (Wikimedia Commons, photo location) — https://commons.wikimedia.org/wiki/File:Lungomare_Italo_Calvino_-_panoramio.jpg",
+    "book_ids": [
+      "marcovaldo",
+      "the-baron-in-the-trees"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Italo_Calvino"
+  },
+  {
+    "id": "it-corte-milion",
+    "name": "Corte del Milion, Venice",
+    "name_zh": "威尼斯 · 百万宅院",
+    "lat": 45.43887,
+    "lon": 12.33786,
+    "place_type": "original",
+    "note": "《看不见的城市》里，马可·波罗向忽必烈汗讲述他走过的五十五座奇异城市，可汗发现他一次也没提到威尼斯，波罗回答说，每次描述一座城市，他说的都是威尼斯。里亚尔托桥附近这座小院叫“百万宅院”，据说就是波罗家住过的地方，他的游记在意大利就叫《百万》",
+    "note_en": "In Invisible Cities, Marco Polo describes fifty-five fantastic cities to Kublai Khan, and when the Khan points out that he has never once mentioned Venice, Polo answers that every time he describes a city he is saying something about Venice. This little courtyard near the Rialto is the Corte del Milion, where the Polo family is said to have lived; in Italian his book of travels is called Il Milione",
+    "coord_checked": "File:Corte seconda del Milion e porticato del teatro Venezia.jpg (Wikimedia Commons, photo location) — https://commons.wikimedia.org/wiki/File:Corte_seconda_del_Milion_e_porticato_del_teatro_Venezia.jpg",
+    "book_ids": [
+      "invisible-cities"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Invisible_Cities"
+  },
+  {
+    "id": "it-procida",
+    "name": "Procida",
+    "name_zh": "普罗奇达岛",
+    "lat": 40.7611,
+    "lon": 14.0193,
+    "place_type": "original",
+    "note": "莫兰特的《阿图罗的岛》写少年阿图罗在那不勒斯湾的普罗奇达岛上野生野长，崇拜总是离家远行的父亲，直到父亲带回一个十六岁的新娘。岛顶那座古城堡改成的监狱，在书里一直投下阴影。科里切拉渔港的彩色房子层层叠叠，是岛上最美的一角",
+    "note_en": "Morante's Arturo's Island is about a boy growing up wild on Procida in the Bay of Naples, worshipping a father who is always away, until the father brings home a sixteen-year-old bride. The old castle turned prison at the top of the island casts its shadow over the book. The stacked pastel houses of the fishing harbor of Corricella are the island's loveliest corner",
+    "coord_checked": "Procida (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Procida",
+    "book_ids": [
+      "arturos-island"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Arturo%27s_Island",
+    "offshore_island": true
+  },
+  {
+    "id": "it-san-lorenzo",
+    "name": "San Lorenzo, Rome",
+    "name_zh": "罗马 · 圣洛伦佐区",
+    "lat": 41.902534,
+    "lon": 12.520547,
+    "place_type": "original",
+    "note": "《历史》的主人公是罗马的小学女教师伊达，她带着被德国士兵强暴后生下的小儿子乌塞佩，在战争和饥饿里挣扎。1943 年 7 月 19 日盟军轰炸罗马，她住的圣洛伦佐工人区被炸成废墟。区里的圣洛伦佐城外大殿也在那天被炸，后来按原样修复",
+    "note_en": "The heroine of History is Ida, a Roman schoolteacher struggling through war and hunger with Useppe, the little son born after a German soldier raped her. On 19 July 1943 Allied bombs fell on Rome and reduced her working-class neighborhood of San Lorenzo to rubble. The basilica of San Lorenzo fuori le Mura was hit the same day and was rebuilt as it had been",
+    "coord_checked": "San Lorenzo fuori le mura (Rome) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:San_Lorenzo_fuori_le_mura_(Rome)",
+    "book_ids": [
+      "history-a-novel"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/History_(novel)"
+  },
+  {
+    "id": "it-palazzo-filangeri",
+    "name": "Palazzo Filangeri-Cutò, Santa Margherita di Belice",
+    "name_zh": "圣玛格丽塔迪贝利切 · 菲兰杰里-库托宫",
+    "lat": 37.692014,
+    "lon": 13.024139,
+    "place_type": "prototype",
+    "prototype_of": "《豹》里萨利纳亲王一家每年夏天去住的多纳富加塔府邸的原型：作者托马西·迪·兰佩杜萨小时候常在母亲家族的这座宫殿里度夏，晚年把这段记忆写进了小说。宫殿在 1968 年贝利切地震中几乎全毁，重建后成了市政厅和一座关于《豹》的文学博物馆",
+    "prototype_of_en": "The model for Donnafugata, the palace where the Prince of Salina takes his family every summer in The Leopard: Giuseppe Tomasi di Lampedusa spent childhood summers in this palace of his mother's family and put the memory into his novel late in life. It was almost destroyed in the Belice earthquake of 1968; rebuilt, it now houses the town hall and a literary museum devoted to the novel",
+    "coord_checked": "Palazzo Filangeri-Cutò (Santa Margherita di Belice) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Palazzo_Filangeri-Cutò_(Santa_Margherita_di_Belice)",
+    "book_ids": [
+      "the-leopard"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/The_Leopard"
+  },
+  {
+    "id": "it-corso-ercole",
+    "name": "Corso Ercole I d'Este, Ferrara",
+    "name_zh": "费拉拉 · 埃尔科莱一世大道",
+    "lat": 44.842114,
+    "lon": 11.621381,
+    "place_type": "original",
+    "note": "巴萨尼的《芬齐-孔蒂尼花园》写 1938 年种族法颁布后的费拉拉：被赶出网球俱乐部的犹太青年们，聚到城墙边富有的芬齐-孔蒂尼家的大花园里打球、恋爱，几年后都被送进了集中营。这家人是虚构的，但书里那条通往城墙的林荫大道就是这条埃尔科莱一世大道",
+    "note_en": "Bassani's The Garden of the Finzi-Continis is set in Ferrara after the racial laws of 1938: young Jews thrown out of the tennis club gather to play and fall in love in the great garden of the wealthy Finzi-Continis by the city walls, a few years before they are deported. The family is invented, but the avenue running out to the walls in the book is this Corso Ercole I d'Este",
+    "coord_checked": "Corso Ercole I d'Este (Ferrara) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Corso_Ercole_I_d'Este_(Ferrara)",
+    "book_ids": [
+      "the-garden-of-the-finzi-continis"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/The_Garden_of_the_Finzi-Continis"
+  },
+  {
+    "id": "it-villa-valguarnera",
+    "name": "Villa Valguarnera, Bagheria",
+    "name_zh": "巴盖里亚 · 瓦尔瓜尔内拉别墅",
+    "lat": 38.0763984,
+    "lon": 13.5151034,
+    "place_type": "prototype",
+    "prototype_of": "《玛丽安娜·乌克里亚漫长的一生》里那座别墅的原型：18 世纪的西西里贵族女子玛丽安娜幼年受惊后变得又聋又哑，十三岁嫁给自己的舅舅，靠读书和写字在沉默中活出了自己。马莱伊尼母亲的家族就是这座别墅的主人，玛丽安娜也真有其人，是她的祖先。别墅是私人宅邸",
+    "prototype_of_en": "The model for the villa in The Silent Duchess: Marianna, an eighteenth-century Sicilian noblewoman left deaf and mute by a childhood shock and married at thirteen to her own uncle, makes a life of her own in silence through reading and writing. The villa belonged to Dacia Maraini's mother's family, and Marianna was a real ancestor of hers. It is a private house",
+    "coord_checked": "Villa Valguarnera (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Villa_Valguarnera",
+    "book_ids": [
+      "the-silent-duchess"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Dacia_Maraini"
+  },
+  {
+    "id": "it-vecchiano",
+    "name": "Vecchiano",
+    "name_zh": "韦基亚诺",
+    "lat": 43.783333,
+    "lon": 10.383333,
+    "place_type": "pilgrimage",
+    "note": "塔布齐 1943 年生在比萨，在附近韦基亚诺乡下的外祖父母家长大，一辈子把这里当家。《佩雷拉的证词》写 1938 年萨拉查独裁下的里斯本，一个胖胖的老报人怎样一点点醒过来，这本书在意大利成了抗争的象征。他爱上葡萄牙，最后葬在里斯本，而这片松林小路是他童年的风景",
+    "note_en": "Tabucchi was born in Pisa in 1943 and grew up at his grandparents' home in Vecchiano nearby, which he always treated as home. Pereira Maintains is set in Lisbon in 1938 under Salazar, where a stout old newspaperman slowly wakes up to the dictatorship, and in Italy the book became a byword for resistance. He fell in love with Portugal and is buried in Lisbon, but these pine-lined lanes were the landscape of his childhood",
+    "coord_checked": "Vecchiano (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Vecchiano",
+    "book_ids": [
+      "pereira-maintains"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Antonio_Tabucchi"
+  },
+  {
+    "id": "it-contarini-fasan",
+    "name": "Palazzo Contarini Fasan, Venice",
+    "name_zh": "威尼斯 · 孔塔里尼-法桑宫（苔丝狄蒙娜之家）",
+    "lat": 45.431752,
+    "lon": 12.334269,
+    "place_type": "prototype",
+    "prototype_of": "大运河边这座窄窄的哥特式小宫殿，几百年来被威尼斯人叫作“苔丝狄蒙娜之家”，当成《奥赛罗》里那位嫁给摩尔将军的元老之女的家。剧里她父亲勃拉班修半夜被叫醒，开口就是“这里是威尼斯，我家不是乡下农庄”。宫殿是私宅，从对岸或水上巴士上看最好",
+    "prototype_of_en": "This narrow Gothic palazzo on the Grand Canal has been called 'Desdemona's House' by Venetians for centuries, the home of the senator's daughter in Othello who marries the Moorish general. When her father Brabantio is roused in the night in the play, his first retort is 'This is Venice. My house is not a grange.' It's a private house, best seen from the opposite bank or a vaporetto",
+    "coord_checked": "Palazzo Contarini Fasan (Venice) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Palazzo_Contarini_Fasan_(Venice)",
+    "book_ids": [
+      "othello"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Palazzo_Contarini_Fasan"
+  },
+  {
+    "id": "it-hotel-des-bains",
+    "name": "Hotel des Bains, Lido di Venezia",
+    "name_zh": "威尼斯丽都岛 · 浴场大饭店",
+    "lat": 45.413403,
+    "lon": 12.374744,
+    "place_type": "original",
+    "note": "1911 年托马斯·曼和妻子住进丽都岛这家海滨大饭店，在这里见到一个美丽的波兰少年，回去写了《死于威尼斯》：作家阿申巴赫住进同一家“浴场饭店”，迷上少年塔齐奥，霍乱在城里蔓延也不肯离开。维斯康蒂的同名电影也在这里拍摄。饭店 2010 年已歇业，只能从外面看",
+    "note_en": "In 1911 Thomas Mann and his wife stayed at this grand seaside hotel on the Lido, where he saw a beautiful Polish boy, and he went home to write Death in Venice: the writer Aschenbach checks into the same 'Bäder-Hotel', becomes infatuated with the boy Tadzio and will not leave as cholera spreads through the city. Visconti filmed it here too. The hotel closed in 2010 and can only be seen from outside",
+    "coord_checked": "Hotel des Bains (Lido di Venezia) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Hotel_des_Bains_(Lido_di_Venezia)",
+    "book_ids": [
+      "death-in-venice"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Death_in_Venice"
+  },
+  {
+    "id": "it-pianosa",
+    "name": "Pianosa",
+    "name_zh": "皮亚诺萨岛",
+    "lat": 42.583333,
+    "lon": 10.083333,
+    "place_type": "original",
+    "note": "海勒把《第二十二条军规》里美军轰炸机中队的基地放在托斯卡纳群岛的皮亚诺萨岛，又在书前说明这座岛其实小得装不下书里发生的事。他本人二战时驻扎在旁边的科西嘉岛，飞了六十次任务。这座平坦的小岛后来长期是重刑犯监狱，现在属于国家公园，限量乘船登岛",
+    "note_en": "Heller put the bomber squadron of Catch-22 on Pianosa, in the Tuscan Archipelago, while noting at the front of the book that the island is far too small to hold everything that happens in it. He himself flew sixty missions from neighboring Corsica in the war. The flat little island was long a maximum-security prison and is now part of a national park, with a limited number of visitors allowed over by boat",
+    "coord_checked": "Isola di Pianosa (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Isola_di_Pianosa",
+    "book_ids": [
+      "catch-22"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Catch-22"
+  },
+  {
+    "id": "it-salone-cinquecento",
+    "name": "Salone dei Cinquecento, Palazzo Vecchio, Florence",
+    "name_zh": "佛罗伦萨 · 维奇奥宫五百人大厅",
+    "lat": 43.76934444,
+    "lon": 11.25679167,
+    "place_type": "original",
+    "note": "丹·布朗的《地狱》里，兰登在佛罗伦萨醒来，失去了记忆，追着但丁《地狱篇》留下的线索奔走，一条关键线索就藏在维奇奥宫五百人大厅瓦萨里的巨幅战争壁画里：一面小旗上写着“寻找就会发现”。这句字真的在画上，传说画后面还藏着达·芬奇失传的壁画",
+    "note_en": "In Dan Brown's Inferno, Robert Langdon wakes up in Florence with no memory and chases clues hidden in Dante's Inferno; a key one is in Vasari's huge battle fresco in the Hall of the Five Hundred in Palazzo Vecchio, where a tiny flag reads 'cerca trova', seek and you shall find. The words really are in the painting, and legend says a lost mural by Leonardo lies behind it",
+    "coord_checked": "Salone dei Cinquecento (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Salone_dei_Cinquecento",
+    "book_ids": [
+      "inferno-dan-brown"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Inferno_(Brown_novel)"
+  },
+  {
+    "id": "it-palazzo-barbaro",
+    "name": "Palazzo Barbaro, Venice",
+    "name_zh": "威尼斯 · 巴巴罗宫",
+    "lat": 45.43171,
+    "lon": 12.32993,
+    "place_type": "prototype",
+    "prototype_of": "《鸽翼》里莱波雷利宫的原型：身患绝症的美国女继承人米莉租下大运河边的这座宫殿，在这里度过最后的日子，身边的人各怀心思等着她的遗产。亨利·詹姆斯多次住在朋友柯蒂斯一家的巴巴罗宫，萨金特、惠斯勒也是这里的常客。宫殿至今是私宅",
+    "prototype_of_en": "The model for Palazzo Leporelli in The Wings of the Dove, where Milly Theale, a dying American heiress, spends her last days on the Grand Canal while those around her wait, each with designs on her fortune. Henry James stayed many times at Palazzo Barbaro with his friends the Curtises, whose guests also included Sargent and Whistler. It is still a private house",
+    "coord_checked": "File:Palazzo Barbaro a San Vidal.jpg (Wikimedia Commons, photo location) — https://commons.wikimedia.org/wiki/File:Palazzo_Barbaro_a_San_Vidal.jpg",
+    "book_ids": [
+      "the-wings-of-the-dove"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Palazzo_Barbaro"
+  },
+  {
+    "id": "it-soranzo-cappello",
+    "name": "Palazzo Soranzo Cappello, Venice",
+    "name_zh": "威尼斯 · 索兰佐-卡佩罗宫",
+    "lat": 45.439984,
+    "lon": 12.324442,
+    "place_type": "prototype",
+    "prototype_of": "《阿斯彭文稿》里那座破旧宫殿的原型：一个美国编辑化名住进去，想从一位老小姐手里套出已故诗人阿斯彭的情书。詹姆斯写的是一条冷清小运河边带大花园的宫殿，一般认为原型就是这座索兰佐-卡佩罗宫，它的花园在威尼斯数一数二。现在是文物保护部门的办公楼",
+    "prototype_of_en": "The model for the shabby palace in The Aspern Papers, where an American editor takes rooms under a false name, hoping to wheedle the dead poet Aspern's love letters out of an old lady. James describes a palace with a large garden on a quiet, melancholy canal, and it is generally taken to be this Palazzo Soranzo Cappello, whose garden is one of the largest in Venice. It now houses offices of the heritage authority",
+    "coord_checked": "Palazzo Soranzo Cappello (Venice) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Palazzo_Soranzo_Cappello_(Venice)",
+    "book_ids": [
+      "the-aspern-papers"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/The_Aspern_Papers"
+  },
+  {
+    "id": "it-estoul",
+    "name": "Estoul, Brusson",
+    "name_zh": "布鲁松 · 埃斯图尔",
+    "lat": 45.75774,
+    "lon": 7.76426,
+    "place_type": "prototype",
+    "prototype_of": "《八座山》里格拉纳村的原型之一：城里男孩皮埃特罗每年夏天随父母来到罗莎峰下的小山村，和放牛娃布鲁诺成了一辈子的朋友，又跟着父亲一座座登上冰川。科涅蒂小时候的夏天就在布鲁松山上的埃斯图尔度过，后来常年住在阿尔卑斯山里写作。从村子往上能走到绿湖和阿尔普小屋",
+    "prototype_of_en": "One of the models for Grana in The Eight Mountains: every summer Pietro, a city boy, comes with his parents to a little village below Monte Rosa, where he and Bruno, a cowherd, become friends for life, and his father leads him up one glacier after another. Cognetti spent the summers of his childhood at Estoul, above Brusson, and later went to live in the Alps to write. Paths from the village climb to the Lac Vert and the Arp hut",
+    "coord_checked": "Estoul (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Estoul",
+    "book_ids": [
+      "the-eight-mountains"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/The_Eight_Mountains"
+  },
+  {
+    "id": "it-de-amicis-monument",
+    "name": "Monument to Edmondo De Amicis, Turin",
+    "name_zh": "都灵 · 德·亚米契斯纪念碑",
+    "lat": 45.06367,
+    "lon": 7.67929,
+    "place_type": "pilgrimage",
+    "note": "德·亚米契斯在都灵住了大半辈子，《爱的教育》就是都灵小学生安利柯三年级一整年的日记：班上来了卡拉布里亚的新同学，老师每月讲一个“每月故事”，比如《万里寻母》。都灵人在新门火车站前的桑布伊花园里给他立了这座纪念碑，碑座正面有他的浮雕头像",
+    "note_en": "De Amicis lived most of his life in Turin, and Heart is the diary of Enrico, a Turin schoolboy, through one school year: a new boy arrives from Calabria, and each month the teacher reads a 'monthly story' such as 'From the Apennines to the Andes'. Turin put up this monument to him in the Giardino Sambuy in front of Porta Nuova station, with his portrait in relief on the front of the base",
+    "coord_checked": "File:Monumento a Edmondo de Amicis (Edoardo Rubino 1914).jpg (Wikimedia Commons, photo location) — https://commons.wikimedia.org/wiki/File:Monumento_a_Edmondo_de_Amicis_(Edoardo_Rubino_1914).jpg",
+    "book_ids": [
+      "cuore"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Heart_(novel)"
+  },
+  {
+    "id": "it-luras",
+    "name": "Galluras Museum, Luras",
+    "name_zh": "卢拉斯 · 加卢拉斯民俗博物馆",
+    "lat": 40.935833,
+    "lon": 9.174722,
+    "place_type": "original",
+    "note": "《送终女人》写 50 年代撒丁岛的小村：六岁的玛丽亚被过继给裁缝老妇博纳利亚，后来才知道养母还是村里的“送终女人”，夜里去替痛苦不止的垂死者结束生命。加卢拉高原上卢拉斯镇的加卢拉斯民俗博物馆里，陈列着一把据说属于送终女人的木槌，是这个传说少见的实物",
+    "note_en": "Accabadora is set in a Sardinian village in the 1950s: six-year-old Maria is adopted by Bonaria, an old seamstress, and only later learns that her new mother is also the village's accabadora, who goes out at night to end the lives of the dying who are suffering. The Galluras ethnographic museum in the town of Luras, in the Gallura hills, displays a wooden mallet said to have belonged to an accabadora, a rare physical trace of the tradition",
+    "coord_checked": "Luras (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Luras",
+    "book_ids": [
+      "accabadora"
+    ],
+    "fact_source": "https://it.wikipedia.org/wiki/Accabadora"
+  },
+  {
+    "id": "it-arsita",
+    "name": "Arsita",
+    "name_zh": "阿尔西塔",
+    "lat": 42.502256,
+    "lon": 13.784519,
+    "place_type": "pilgrimage",
+    "note": "迪·彼得兰托尼奥 1962 年生在阿布鲁佐大萨索山脚下的阿尔西塔，在山村长大，后来做了儿童牙医。《被归还的女孩》写 1975 年一个十三岁女孩突然被养父母送回从没见过的亲生家庭，一个贫穷的山村大家庭，书里的方言和乡下日子都来自她熟悉的这片山区",
+    "note_en": "Di Pietrantonio was born in 1962 in Arsita, below the Gran Sasso in Abruzzo, grew up in the mountain countryside and became a children's dentist. A Girl Returned is about a thirteen-year-old who in 1975 is suddenly sent back by the couple who raised her to a birth family she has never known, a big, poor household in the hills; the dialect and country life of the book come from this part of Abruzzo she knows",
+    "coord_checked": "Arsita (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Arsita",
+    "book_ids": [
+      "a-girl-returned"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Donatella_Di_Pietrantonio"
+  },
+  {
+    "id": "it-crema-duomo",
+    "name": "Crema Cathedral",
+    "name_zh": "克雷马 · 大教堂广场",
+    "lat": 45.36314,
+    "lon": 9.68718,
+    "place_type": "film_location",
+    "adaptation": {
+      "title": "Call Me by Your Name",
+      "year": 2017,
+      "kind": "电影"
+    },
+    "scene": "小说把故事放在八十年代意大利海边的一座别墅里，电影把时间定在 1983 年夏天，搬到伦巴第平原的小城克雷马拍摄：少年埃利奥和来家里做客的美国学者奥利弗骑着自行车穿过大教堂前的广场和老城小巷。导演瓜达尼诺就住在克雷马，电影上映后这里成了影迷打卡地",
+    "scene_en": "the novel sets the story in a villa on the Italian coast in the 1980s; the film moves it to the summer of 1983 and to Crema in the Lombard plain, where Elio and Oliver, the American scholar staying with his family, cycle across the cathedral square and through the old streets. The director Luca Guadagnino lives in Crema, and fans have been coming ever since the film came out",
+    "book_ids": [
+      "call-me-by-your-name"
+    ],
+    "coord_checked": "Category:Duomo (Crema) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Duomo_(Crema)",
+    "fact_source": "https://en.wikipedia.org/wiki/Call_Me_by_Your_Name_(film)"
   }
 ]
