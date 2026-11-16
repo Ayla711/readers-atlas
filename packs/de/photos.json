@@ -286,5 +286,11 @@
     "alt_en": "The university square in Heidelberg",
     "alt_zh": "海德堡大学广场",
     "crop": null
+  },
+  "de-potsdam-academy": {
+    "commons_file": "File:Universitaet Potsdam - Babelsberg - Haus 1.jpg",
+    "alt_en": "The former academy building, now the University of Potsdam at Griebnitzsee",
+    "alt_zh": "原国家与法学研究院大楼，今波茨坦大学格里布尼茨湖校区",
+    "crop": null
   }
 }

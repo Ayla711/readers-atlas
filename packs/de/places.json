@@ -737,5 +737,20 @@
       "the-reader"
     ],
     "fact_source": "https://www.heidelberg.de/HD/Leben/Autoren.html"
+  },
+  {
+    "id": "de-potsdam-academy",
+    "name": "Former Academy of Political and Legal Sciences, Potsdam",
+    "name_zh": "波茨坦 · 原国家与法学研究院",
+    "lat": 52.3928,
+    "lon": 13.1273,
+    "place_type": "original",
+    "note": "《光芒渐逝的年代》写一个东德家庭四代人。祖母夏洛特和继祖父威廉从墨西哥流亡归来，住在波茨坦附近诺伊恩多夫的别墅里，夏洛特就在当地的国家与法学研究院工作。这座大楼当年正是民主德国的国家与法学研究院，现在是波茨坦大学格里布尼茨湖校区的主楼",
+    "note_en": "In Times of Fading Light follows four generations of an East German family. The grandmother Charlotte and her husband Wilhelm come back from exile in Mexico to a villa in Neuendorf near Potsdam, and Charlotte works at the Academy of Political and Legal Sciences there. This building really was East Germany's Academy of Political and Legal Sciences, and is now the main building of the University of Potsdam's Griebnitzsee campus",
+    "coord_checked": "Ehemaliges Präsidialgebäude des Deutschen Roten Kreuzes (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Ehemaliges_Präsidialgebäude_des_Deutschen_Roten_Kreuzes",
+    "book_ids": [
+      "in-times-of-fading-light"
+    ],
+    "fact_source": "https://dewiki.de/Lexikon/In_Zeiten_des_abnehmenden_Lichts"
   }
 ]

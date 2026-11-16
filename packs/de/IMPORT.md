@@ -1,16 +1,17 @@
 # 导入报告 · Germany · 2026-11-16
 
-包：56 本书、48 个地点、31 条摘句和场景说明、48 张照片。
+包：57 本书、49 个地点、31 条摘句和场景说明、49 张照片。
 
 ## 错误（0）
 
 
-## 提示（4）
+## 提示（5）
 
 - place de-leipzig-markt: no line points to it
 - place de-moelln-eulenspiegel: no line points to it
 - place de-goettingen-observatory: no line points to it
 - place de-heidelberg-old-university: no line points to it
+- place de-potsdam-academy: no line points to it
 
 ## 脚本没有逐字核对的文本（3，审核时人工核对）
 
@@ -29,7 +30,7 @@
 | Baden-Württemberg | 5 |
 | Bavaria | 4 |
 | Berlin | 6 |
-| Brandenburg | 2 |
+| Brandenburg | 3 |
 | Bremen | 1 |
 | Hamburg | 1 |
 | Hesse | 4 |

@@ -492,3 +492,4 @@
 | Bonn Hauptbahnhof | ➨ Redvers from Belgium/UK | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABonn_Hauptbahnhof.jpg) |
 | Old University, Heidelberg | Ribax ( Diskussion ) 22:55, 7. Mär. 2014 (CET) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ADer_Universit%C3%A4tsplatz_in_Heidelberg_an_einem_Sp%C3%A4therbst_Nachmittag.JPG) |
 | Brocken | Leonhard Lenz | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File%3ABrocken_from_Schindelstieg_Harz_2022-04-08_02.jpg) |
+| Former Academy of Political and Legal Sciences, Potsdam | Jorges at German Wikipedia | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3AUniversitaet_Potsdam_-_Babelsberg_-_Haus_1.jpg) |
