@@ -1,37 +1,44 @@
-# 导入报告 · Germany · 2026-11-14
+# 导入报告 · Germany · 2026-11-16
 
-包：18 本书、21 个地点、17 条摘句和场景说明、21 张照片。
+包：56 本书、48 个地点、31 条摘句和场景说明、48 张照片。
 
 ## 错误（0）
 
 
-## 提示（0）
+## 提示（4）
 
+- place de-leipzig-markt: no line points to it
+- place de-moelln-eulenspiegel: no line points to it
+- place de-goettingen-observatory: no line points to it
+- place de-heidelberg-old-university: no line points to it
 
-## 脚本没有逐字核对的文本（1，审核时人工核对）
+## 脚本没有逐字核对的文本（3，审核时人工核对）
 
 - `de-bud-1` text_en: translation 'own' has no translation_source
+- `de-st-1` text_en: translation 'own' has no translation_source
+- `de-kh-1` text_en: translation 'own' has no translation_source
 
-## 忽略大小写、行号、注码后才对上的文本（0）
+## 忽略大小写、行号、注码后才对上的文本（1）
 
+- `de-nib-1` text_orig
 
 ## 每个一级区的地点数
 
 | 区 | 地点 |
 |---|---:|
-| Baden-Württemberg | 2 |
-| Bavaria | 1 |
-| Berlin | 2 |
-| Brandenburg | 1 |
+| Baden-Württemberg | 5 |
+| Bavaria | 4 |
+| Berlin | 6 |
+| Brandenburg | 2 |
 | Bremen | 1 |
 | Hamburg | 1 |
-| Hesse | 2 |
+| Hesse | 4 |
 | Mecklenburg-Vorpommern | 1 |
-| Lower Saxony | 2 |
-| North Rhine-Westphalia | 1 |
-| Rhineland-Palatinate | 1 |
+| Lower Saxony | 5 |
+| North Rhine-Westphalia | 2 |
+| Rhineland-Palatinate | 3 |
 | Saarland | 1 |
-| Saxony | 2 |
+| Saxony | 6 |
 | Saxony-Anhalt | 1 |
-| Schleswig-Holstein | 1 |
-| Thuringia | 1 |
+| Schleswig-Holstein | 4 |
+| Thuringia | 2 |

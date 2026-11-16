@@ -47,12 +47,6 @@
     "alt_zh": "旧市立屠宰场，今天的德累斯顿会展中心",
     "crop": null
   },
-  "de-wittenberg": {
-    "commons_file": "File:Wittenberg Lutherhaus courtyard.jpg",
-    "alt_en": "The Lutherhaus in Wittenberg",
-    "alt_zh": "维滕堡的路德故居",
-    "crop": null
-  },
   "de-nollendorfplatz": {
     "commons_file": "File:17 Nollendorfstraße 01.JPG",
     "alt_en": "Nollendorfstraße 17, where Isherwood lived",
@@ -123,6 +117,174 @@
     "commons_file": "File:Brennender Berg Fisheye.jpg",
     "alt_en": "The woods of the Burning Mountain",
     "alt_zh": "燃烧的山的林间",
+    "crop": null
+  },
+  "de-lottehaus-wetzlar": {
+    "commons_file": "File:Lottehaus-2011-wetzlar-063.jpg",
+    "alt_en": "The Lottehaus in the Teutonic Order courtyard, Wetzlar",
+    "alt_zh": "韦茨拉尔德意志骑士团院子里的绿蒂故居",
+    "crop": null
+  },
+  "de-brocken": {
+    "commons_file": "File:Brocken from Schindelstieg Harz 2022-04-08 02.jpg",
+    "alt_en": "The Brocken seen across the Harz forest",
+    "alt_zh": "从哈尔茨林间远望布罗肯峰",
+    "crop": null
+  },
+  "de-stechlinsee": {
+    "commons_file": "File:Blick vom Ostufer über den Stechlinsee.jpg",
+    "alt_en": "Looking across the Stechlinsee from the east shore",
+    "alt_zh": "从东岸望大施泰希林湖",
+    "crop": null
+  },
+  "de-kaestner-museum": {
+    "commons_file": "File:Antonstraße 1 Dresden Kdm.JPG",
+    "alt_en": "Villa Augustin, home of the Erich Kästner Museum",
+    "alt_zh": "凯斯特纳博物馆所在的奥古斯丁别墅",
+    "crop": null
+  },
+  "de-worms-hagen": {
+    "commons_file": "File:Worms- Am Rhein- Hagendenkmal 16.6.2013.jpg",
+    "alt_en": "Hagen throwing the Nibelung hoard into the Rhine at Worms",
+    "alt_zh": "沃尔姆斯莱茵河边哈根抛宝的铜像",
+    "crop": null
+  },
+  "de-hoelderlinturm": {
+    "commons_file": "File:Tübingen, Neckar, Hölderlinturm IMG 5192.JPG",
+    "alt_en": "The Hölderlin Tower on the Neckar, Tübingen",
+    "alt_zh": "图宾根内卡河边的荷尔德林塔",
+    "crop": null
+  },
+  "de-kleist-grave": {
+    "commons_file": "File:Kleistgrab Überblick (2009).jpg",
+    "alt_en": "Kleist's grave by the Kleiner Wannsee",
+    "alt_zh": "小万湖边的克莱斯特墓",
+    "crop": null
+  },
+  "de-buechnerhaus": {
+    "commons_file": "File:Riedstadt-Goddelau Büchnerhaus 1.jpg",
+    "alt_en": "Büchner's birthplace in Goddelau",
+    "alt_zh": "戈德劳的毕希纳故居",
+    "crop": null
+  },
+  "de-leipzig-markt": {
+    "commons_file": "File:01 649 Leipzig, Markt.jpg",
+    "alt_en": "The market square and Old Town Hall, Leipzig",
+    "alt_zh": "莱比锡集市广场和老市政厅",
+    "crop": null
+  },
+  "de-osthofen": {
+    "commons_file": "File:Gedenkstätte Osthofen (ehemaliges Konzentrationslager), Außenansicht.jpg",
+    "alt_en": "The Osthofen memorial in the old paper factory",
+    "alt_zh": "旧造纸厂里的奥斯特霍芬纪念馆",
+    "crop": null
+  },
+  "de-grass-house": {
+    "commons_file": "File:GGH Skulpturengarten 2016.jpg",
+    "alt_en": "The sculpture garden of the Günter Grass House, Lübeck",
+    "alt_zh": "吕贝克格拉斯之家的雕塑花园",
+    "crop": null
+  },
+  "de-krabat-mill": {
+    "commons_file": "File:Hoyerswerda Schwarzkollm Krabatmuehle.jpg",
+    "alt_en": "The Krabat Mill at Schwarzkollm",
+    "alt_zh": "施瓦茨科尔姆的克拉巴特磨坊",
+    "crop": null
+  },
+  "de-ende-kurpark": {
+    "commons_file": "File:Garmisch-Partenkirchen, Michael-Ende-Park, Freilichtbühne.JPG",
+    "alt_en": "The open-air stage in the Michael Ende Park",
+    "alt_zh": "米切尔·恩德公园里的露天舞台",
+    "crop": null
+  },
+  "de-moelln-eulenspiegel": {
+    "commons_file": "File:Schleswig holstein 2011 036.jpg",
+    "alt_en": "Till Eulenspiegel in the Eulenspiegel Museum, Mölln",
+    "alt_zh": "默尔恩欧伊伦施皮格尔博物馆里的蒂尔像",
+    "crop": null
+  },
+  "de-goettingen-observatory": {
+    "commons_file": "File:Sternwarte goettingen.jpg",
+    "alt_en": "The Göttingen Observatory, where Gauss lived",
+    "alt_zh": "高斯住过的哥廷根天文台",
+    "crop": null
+  },
+  "de-weisser-hirsch": {
+    "commons_file": "File:20060505080DR Dresden-Weißer Hirsch Straußstraße 1.jpg",
+    "alt_en": "A villa in the Weißer Hirsch quarter, Dresden",
+    "alt_zh": "德累斯顿白鹿区的一座别墅",
+    "crop": null
+  },
+  "de-marzahn": {
+    "commons_file": "File:Aussicht Skywalk Marzahn Plattenbau Fassendekoration Jan-Petersen-Straße Berlin-Marzahn 02.jpg",
+    "alt_en": "Prefabricated tower blocks in Marzahn",
+    "alt_zh": "马灿的预制板高楼",
+    "crop": null
+  },
+  "de-emmertsgrund": {
+    "commons_file": "File:Emmertsgrund 2.jpg",
+    "alt_en": "The high-rises of Emmertsgrund on the hillside above Heidelberg",
+    "alt_zh": "海德堡山坡上的埃默茨格伦德高楼",
+    "crop": null
+  },
+  "de-ingolstadt-anatomy": {
+    "commons_file": "File:Alte Anatomie in Ingolstadt.jpg",
+    "alt_en": "The Old Anatomy building, Ingolstadt",
+    "alt_zh": "因戈尔施塔特的老解剖楼",
+    "crop": null
+  },
+  "de-dachau": {
+    "commons_file": "File:160929 Dachau KZ.jpg",
+    "alt_en": "The roll-call square of the Dachau memorial",
+    "alt_zh": "达豪纪念馆的点名广场",
+    "crop": null
+  },
+  "de-checkpoint-charlie": {
+    "commons_file": "File:2018-08-09 DE Berlin-Friedrichshain-Kreuzberg, Friedrichstraße, Checkpoint Charlie (49918288678).jpg",
+    "alt_en": "Checkpoint Charlie on the Friedrichstraße",
+    "alt_zh": "弗里德里希街上的查理检查站",
+    "crop": null
+  },
+  "de-schillerhaus-weimar": {
+    "commons_file": "File:Schiller Weimar.jpg",
+    "alt_en": "Schiller's house in Weimar",
+    "alt_zh": "魏玛的席勒故居",
+    "crop": null
+  },
+  "de-lessinghaus": {
+    "commons_file": "File:Lessinghaus Wolfenbüttel 2014.jpg",
+    "alt_en": "The Lessing House in Wolfenbüttel",
+    "alt_zh": "沃尔芬比特尔的莱辛故居",
+    "crop": null
+  },
+  "de-storm-husum": {
+    "commons_file": "File:Husum-Theodor-Storm-Haus-msu-2020-9-8443.jpg",
+    "alt_en": "The Theodor Storm House in Husum",
+    "alt_zh": "胡苏姆的施托姆故居",
+    "crop": null
+  },
+  "de-remarque-osnabrueck": {
+    "commons_file": "File:Erich Maria Remarque-Friedenszentrum am Markt.jpg",
+    "alt_en": "The Remarque Peace Centre on Osnabrück's market square",
+    "alt_zh": "奥斯纳布吕克集市广场边的雷马克和平中心",
+    "crop": null
+  },
+  "de-berliner-ensemble": {
+    "commons_file": "File:Berliner Ensemble building (Theater am Schiffbauerdamm).jpg",
+    "alt_en": "The Berliner Ensemble's theater on the Schiffbauerdamm",
+    "alt_zh": "船坞剧院里的柏林剧团",
+    "crop": null
+  },
+  "de-bonn-hbf": {
+    "commons_file": "File:Bonn Hauptbahnhof.jpg",
+    "alt_en": "Bonn's main station",
+    "alt_zh": "波恩火车总站",
+    "crop": null
+  },
+  "de-heidelberg-old-university": {
+    "commons_file": "File:Der Universitätsplatz in Heidelberg an einem Spätherbst Nachmittag.JPG",
+    "alt_en": "The university square in Heidelberg",
+    "alt_zh": "海德堡大学广场",
     "crop": null
   }
 }

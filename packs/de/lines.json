@@ -164,30 +164,6 @@
     "keep_breaks": true
   },
   {
-    "id": "de-ham-1",
-    "book_id": "hamlet",
-    "place_ids": [
-      "de-wittenberg"
-    ],
-    "location": "Act 1, Scene 2",
-    "location_zh": "第一幕第二场",
-    "text_en": "For your intent\nIn going back to school in Wittenberg,\nIt is most retrograde to our desire:",
-    "highlight_en": [
-      "Wittenberg"
-    ],
-    "text_zh": "至于你想回维滕堡\n去念书的打算，\n那与我们的心愿完全相反：",
-    "highlight_zh": [
-      "维滕堡"
-    ],
-    "translation": "original",
-    "source": {
-      "kind": "gutenberg",
-      "id": 1524
-    },
-    "status": "draft",
-    "keep_breaks": true
-  },
-  {
     "id": "de-bud-1",
     "book_id": "buddenbrooks",
     "place_ids": [
@@ -423,5 +399,357 @@
     ],
     "status": "draft",
     "fact_source": "https://en.wikipedia.org/wiki/Beneath_the_Wheel"
+  },
+  {
+    "id": "de-wer-1",
+    "book_id": "the-sorrows-of-young-werther",
+    "place_ids": [
+      "de-lottehaus-wetzlar"
+    ],
+    "location": "Book 1, letter of 16 June",
+    "location_zh": "第一部，6 月 16 日的信",
+    "text_orig": "Ich ging durch den Hof nach dem wohlgebauten Hause, und da ich die vorliegenden Treppen hinaufgestiegen war und in die Tür trat, fiel mir das reizendste Schauspiel in die Augen, das ich je gesehen habe. in dem Vorsaale wimmelten sechs Kinder von eilf zu zwei Jahren um ein Mädchen von schöner Gestalt, mittlerer Größe, die ein simples weißes Kleid, mit blaßroten Schleifen an Arm und Brust, anhatte.",
+    "highlight_orig": [
+      "dem wohlgebauten Hause"
+    ],
+    "text_en": "I walked across the court to a well-built house, and, ascending the flight of steps in front, opened the door, and saw before me the most charming spectacle I had ever witnessed. Six children, from eleven to two years old, were running about the hall, and surrounding a lady of middle height, with a lovely figure, dressed in a robe of simple white, trimmed with pink ribbons.",
+    "highlight_en": [
+      "a well-built house"
+    ],
+    "text_zh": "我穿过院子，走向一座造得很好的房子，登上门前的台阶，推门进去，眼前是我见过的最迷人的景象：六个从十一岁到两岁的孩子，在前厅里围着一个身材匀称、中等个子的姑娘团团转，她穿一件朴素的白衣裙，袖口和胸前系着淡红色的缎带。",
+    "highlight_zh": [
+      "一座造得很好的房子"
+    ],
+    "translation": "R. Dillon Boylan (1854)",
+    "source": {
+      "kind": "gutenberg",
+      "id": 2407
+    },
+    "status": "draft",
+    "translation_source": {
+      "kind": "gutenberg",
+      "id": 2527
+    }
+  },
+  {
+    "id": "de-fa-2",
+    "book_id": "faust",
+    "place_ids": [
+      "de-brocken"
+    ],
+    "location": "Part 1, Walpurgis Night",
+    "location_zh": "第一部《瓦尔普吉斯之夜》",
+    "text_orig": "Die Hexen zu dem Brocken ziehn,\nDie Stoppel ist gelb, die Saat ist grün.\nDort sammelt sich der große Hauf,\nHerr Urian sitzt oben auf.",
+    "highlight_orig": [
+      "Brocken"
+    ],
+    "text_en": "The witches ride to the Brocken’s top,\nThe stubble is yellow, and green the crop.\nThere gathers the crowd for carnival:\nSir Urian sits over all.",
+    "highlight_en": [
+      "the Brocken"
+    ],
+    "text_zh": "女巫们骑向布罗肯山顶，\n麦茬已黄，新苗正青。\n一大群都在那里聚会，\n乌利安老爷高坐在上头。",
+    "highlight_zh": [
+      "布罗肯山"
+    ],
+    "translation": "Bayard Taylor (1870)",
+    "source": {
+      "kind": "gutenberg",
+      "id": 2229
+    },
+    "status": "draft",
+    "translation_source": {
+      "kind": "gutenberg",
+      "id": 14591
+    },
+    "keep_breaks": true
+  },
+  {
+    "id": "de-st-1",
+    "book_id": "the-stechlin",
+    "place_ids": [
+      "de-stechlinsee"
+    ],
+    "location": "Chapter 1",
+    "location_zh": "第 1 章",
+    "text_orig": "Im Norden der Grafschaft Ruppin, hart an der mecklenburgischen Grenze, zieht sich von dem Städtchen Gransee bis nach Rheinsberg hin (und noch darüber hinaus) eine mehrere Meilen lange Seenkette durch eine menschenarme, nur hie und da mit ein paar alten Dörfern, sonst aber ausschließlich mit Förstereien, Glas- und Teeröfen besetzte Waldung.",
+    "highlight_orig": [
+      "eine mehrere Meilen lange Seenkette"
+    ],
+    "text_en": "In the north of the county of Ruppin, close to the Mecklenburg border, a chain of lakes several miles long runs from the little town of Gransee to Rheinsberg (and on beyond it) through woodland that has few people in it, only an old village here and there and otherwise nothing but forest lodges, glassworks and tar kilns.",
+    "highlight_en": [
+      "a chain of lakes several miles long"
+    ],
+    "text_zh": "鲁平伯爵领的北部，紧挨着梅克伦堡的边界，从小城格兰塞到莱茵斯贝格（还要再往外去），有一串好几英里长的湖泊穿过一片人烟稀少的林地，林子里只零星有几座老村庄，其余全是林务所、玻璃作坊和焦油窑。",
+    "highlight_zh": [
+      "一串好几英里长的湖泊"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 53628
+    },
+    "status": "draft"
+  },
+  {
+    "id": "de-kh-1",
+    "book_id": "michael-kohlhaas",
+    "place_ids": [
+      "de-kleist-grave"
+    ],
+    "location": "Opening",
+    "location_zh": "开篇",
+    "text_orig": "An den Ufern der Havel lebte, um die Mitte des sechzehnten Jahrhunderts, ein Roßhändler, namens Michael Kohlhaas, Sohn eines Schulmeisters, einer der rechtschaffensten zugleich und entsetzlichsten Menschen seiner Zeit.",
+    "highlight_orig": [
+      "Ufern der Havel"
+    ],
+    "text_en": "On the banks of the Havel, around the middle of the sixteenth century, there lived a horse dealer named Michael Kohlhaas, a schoolmaster's son, one of the most upright and at the same time most terrible men of his age.",
+    "highlight_en": [
+      "the banks of the Havel"
+    ],
+    "text_zh": "十六世纪中叶，哈弗尔河畔住着一个马贩子，名叫米夏埃尔·科尔哈斯，是一位教书先生的儿子，他是那个时代最正直、同时也最可怕的人之一。",
+    "highlight_zh": [
+      "哈弗尔河畔"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 6645
+    },
+    "status": "draft"
+  },
+  {
+    "id": "de-nib-1",
+    "book_id": "the-nibelungenlied",
+    "place_ids": [
+      "de-worms-hagen"
+    ],
+    "location": "Adventure 1, stanza 6",
+    "location_zh": "第一歌第 6 节",
+    "text_orig": "In Worms am Rheine wohnten die Herrn in ihrer Kraft.\nVon ihren Landen diente viel stolze Ritterschaft",
+    "highlight_orig": [
+      "Worms am Rheine"
+    ],
+    "text_en": "At Worms, by the Rhine, they dwelled in might with many a proud lord for vassal.",
+    "highlight_en": [
+      "Worms, by the Rhine"
+    ],
+    "text_zh": "他们住在莱茵河畔的沃尔姆斯，威势赫赫，\n许多骄傲的骑士从他们的领地前来效命。",
+    "highlight_zh": [
+      "莱茵河畔的沃尔姆斯"
+    ],
+    "translation": "Margaret Armour (1897)",
+    "source": {
+      "kind": "gutenberg",
+      "id": 14915
+    },
+    "status": "draft",
+    "translation_source": {
+      "kind": "gutenberg",
+      "id": 3636
+    },
+    "keep_breaks": true
+  },
+  {
+    "id": "de-fr-1",
+    "book_id": "frankenstein",
+    "place_ids": [
+      "de-ingolstadt-anatomy"
+    ],
+    "location": "Chapter 3",
+    "location_zh": "第 3 章",
+    "text_en": "I had sufficient leisure for these and many other reflections during my journey to Ingolstadt, which was long and fatiguing. At length the high white steeple of the town met my eyes.",
+    "highlight_en": [
+      "Ingolstadt"
+    ],
+    "text_zh": "去因戈尔施塔特的路又长又累，我有足够的空闲去想这些事和别的许多事。终于，那座城高高的白色尖塔映入了我的眼帘。",
+    "highlight_zh": [
+      "因戈尔施塔特"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 84
+    },
+    "status": "draft"
+  },
+  {
+    "id": "de-sc7-s1",
+    "kind": "scene",
+    "book_id": "the-seventh-cross",
+    "place_ids": [
+      "de-osthofen"
+    ],
+    "location": "Chapter 1",
+    "location_zh": "第 1 章",
+    "text_en": "In the autumn of 1937 seven prisoners break out of the Westhofen concentration camp near the Rhine. The commandant has seven plane trees cut into crosses to tie them to once they are caught; the others are caught or killed one by one, but George Heisler gets away, and the seventh cross stays empty.",
+    "text_zh": "1937 年秋，七个囚犯从莱茵河边的韦斯特霍芬集中营越狱。营长叫人把七棵梧桐树砍成十字架，抓回一个就绑上一个；其他人一个个被抓回或死去，只有格奥尔格·海斯勒逃脱了，第七个十字架一直空着。",
+    "highlight_en": [
+      "the Westhofen concentration camp"
+    ],
+    "highlight_zh": [
+      "韦斯特霍芬集中营"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Seventh_Cross"
+  },
+  {
+    "id": "de-kr-s1",
+    "kind": "scene",
+    "book_id": "krabat",
+    "place_ids": [
+      "de-krabat-mill"
+    ],
+    "location": "The first year",
+    "location_zh": "第一年",
+    "text_en": "Krabat, a fourteen-year-old beggar boy, dreams three nights running of eleven ravens and a voice calling him to come to the mill at Schwarzkollm. He follows it to a mill hidden in the Koselbruch marsh, where the master takes him on as the twelfth apprentice and teaches him black magic.",
+    "text_zh": "十四岁的乞丐少年克拉巴特一连三夜梦见十一只乌鸦，还有一个声音叫他到施瓦茨科尔姆的磨坊去。他循着声音来到藏在科瑟尔沼泽里的磨坊，磨坊主收他当了第十二个学徒，教他黑魔法。",
+    "highlight_en": [
+      "the mill at Schwarzkollm"
+    ],
+    "highlight_zh": [
+      "施瓦茨科尔姆的磨坊"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Krabat_(novel)"
+  },
+  {
+    "id": "de-tow-s1",
+    "kind": "scene",
+    "book_id": "the-tower",
+    "place_ids": [
+      "de-weisser-hirsch"
+    ],
+    "location": "Book 1",
+    "location_zh": "第一部",
+    "text_en": "In the villa quarter on the slopes above the Elbe that its residents call 'the Tower', families of doctors and publishers keep up their music evenings and old books in the 1980s as if East Germany were not outside the door; the schoolboy Christian Hoffmann grows up among them before the army and the autumn of 1989.",
+    "text_zh": "易北河上方山坡的别墅区被住户们叫作“塔”。八十年代，这里的医生和出版人家庭照样开音乐晚会、守着旧书，好像门外不是民主德国；中学生克里斯蒂安·霍夫曼就在他们中间长大，然后去当兵，迎来 1989 年秋天。",
+    "highlight_en": [
+      "the villa quarter on the slopes above the Elbe"
+    ],
+    "highlight_zh": [
+      "易北河上方山坡的别墅区"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Tower_(Tellkamp_novel)"
+  },
+  {
+    "id": "de-tsc-s1",
+    "kind": "scene",
+    "book_id": "why-we-took-the-car",
+    "place_ids": [
+      "de-marzahn"
+    ],
+    "location": "Chapters 1–15",
+    "location_zh": "第 1–15 章",
+    "text_en": "Maik Klingenberg, fourteen, lives in a villa in Marzahn and is the class nobody. When his mother goes off to rehab and his father off with his assistant, he is left alone for the summer, until Tschick, the new boy from Russia, turns up in a stolen Lada and they set off with no map.",
+    "text_zh": "十四岁的迈克·克林根贝格住在马灿的一座别墅里，在班上没人理。妈妈去戒酒、爸爸带着女助理出门，暑假里只剩他一个人，直到俄罗斯来的转学生契克开着一辆偷来的拉达出现，两人不带地图就上路了。",
+    "highlight_en": [
+      "Marzahn"
+    ],
+    "highlight_zh": [
+      "马灿"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Why_We_Took_the_Car"
+  },
+  {
+    "id": "de-her-s1",
+    "kind": "scene",
+    "book_id": "where-you-come-from",
+    "place_ids": [
+      "de-emmertsgrund"
+    ],
+    "location": "Emmertsgrund",
+    "location_zh": "《埃默茨格伦德》",
+    "text_en": "Arriving in Heidelberg at fourteen as a refugee from Bosnia, the narrator ends up in Emmertsgrund, a hillside estate of high-rises full of other newcomers, where the place that does most for integration is a run-down Aral petrol station.",
+    "text_zh": "十四岁的叙述者作为波黑难民来到海德堡，落脚在山坡上满是外来户的高楼区埃默茨格伦德；在这里，最出力帮人融入的地方是一座破旧的阿拉尔加油站。",
+    "highlight_en": [
+      "Emmertsgrund"
+    ],
+    "highlight_zh": [
+      "埃默茨格伦德"
+    ],
+    "status": "draft",
+    "fact_source": "https://www.freitag.de/autoren/konstantin-ulmer/katze-sprich"
+  },
+  {
+    "id": "de-bt-s1",
+    "kind": "scene",
+    "book_id": "the-book-thief",
+    "place_ids": [
+      "de-dachau"
+    ],
+    "location": "The march to Dachau",
+    "location_zh": "去达豪的队伍",
+    "text_en": "A column of Jewish prisoners is marched through Molching on the way to Dachau. Hans Hubermann steps out of the crowd and gives an old man a piece of bread; a soldier whips them both, and Hans fears that he has put the Jew hidden in his basement in danger.",
+    "text_zh": "一队犹太囚犯被押着穿过莫尔兴镇，往达豪去。汉斯·胡伯曼从人群里走出来，递给一个老人一块面包；士兵把两人都抽了鞭子，汉斯开始担心自己连累了藏在地下室里的那个犹太人。",
+    "highlight_en": [
+      "Dachau"
+    ],
+    "highlight_zh": [
+      "达豪"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Book_Thief"
+  },
+  {
+    "id": "de-spy-s1",
+    "kind": "scene",
+    "book_id": "the-spy-who-came-in-from-the-cold",
+    "place_ids": [
+      "de-checkpoint-charlie"
+    ],
+    "location": "Chapter 1",
+    "location_zh": "第 1 章",
+    "text_en": "Alec Leamas waits through the night at the checkpoint for Karl Riemeck, his last agent in the East, to come across. Riemeck rides up on a bicycle, the searchlights catch him, and he is shot down a few yards short of the West.",
+    "text_zh": "利玛斯在检查站等了一整夜，等他在东边的最后一名特工卡尔·里梅克过来。里梅克骑着自行车来了，被探照灯照住，离西边只差几码就被打死了。",
+    "highlight_en": [
+      "the checkpoint"
+    ],
+    "highlight_zh": [
+      "检查站"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Spy_Who_Came_in_from_the_Cold"
+  },
+  {
+    "id": "de-clo-s1",
+    "kind": "scene",
+    "book_id": "the-clown",
+    "place_ids": [
+      "de-bonn-hbf"
+    ],
+    "location": "The ending",
+    "location_zh": "结尾",
+    "text_en": "With nothing left, Hans Schnier paints his face white, takes his guitar and a cushion and sits on the steps of Bonn station among the Carnival crowds, singing and holding out his hat, while he waits for Marie's train from Rome.",
+    "text_zh": "一无所有的汉斯·施尼尔抹上白脸，带着吉他和一个坐垫，坐在狂欢节人群中的波恩火车站台阶上，一边唱歌一边伸着帽子讨钱，等着玛丽从罗马坐火车回来。",
+    "highlight_en": [
+      "Bonn station"
+    ],
+    "highlight_zh": [
+      "波恩火车站"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Clown_(novel)"
+  },
+  {
+    "id": "de-obe-s1",
+    "kind": "scene",
+    "book_id": "the-black-obelisk",
+    "place_ids": [
+      "de-remarque-osnabrueck"
+    ],
+    "location": "Chapter 1",
+    "location_zh": "第 1 章",
+    "text_en": "In 1923, as inflation makes money worthless by the hour, the twenty-five-year-old Ludwig Bodmer sells gravestones for a monument firm in the small town of Werdenbrück; the black obelisk in the yard, too ugly for anyone to buy, becomes the joke and the emblem of the times.",
+    "text_zh": "1923 年通货膨胀，钱一个钟头一个价，二十五岁的路德维希·博德默在小城维尔登布吕克替一家墓碑公司卖墓碑；院子里那块丑得没人买的黑色方尖碑，成了那个时代的笑话，也成了它的象征。",
+    "highlight_en": [
+      "Werdenbrück"
+    ],
+    "highlight_zh": [
+      "维尔登布吕克"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Black_Obelisk"
   }
 ]
