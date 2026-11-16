@@ -1,0 +1,1255 @@
+[
+  {
+    "id": "cn-ll-1",
+    "book_id": "wild-grass",
+    "place_ids": [
+      "cn-lu-xun-museum-beijing"
+    ],
+    "location": "Autumn Night",
+    "location_zh": "《秋夜》",
+    "text_orig": "這上面的夜的天空，奇怪而高，我生平沒有見過這樣奇怪而高的天空。他彷彿要離開人間而去，使人們仰面不再看見。然而現在卻非常之藍，閃閃地夾著幾十個星星的眼，冷眼。他的口角上現出微笑，似乎自以為大有深意，而將繁霜灑在我的園裡的野花草上。",
+    "highlight_orig": [
+      "我的園裡"
+    ],
+    "text_en": "The night sky above is strange and high; I have never in my life seen a sky so strange and so high. It seems to want to leave the human world behind, so that people looking up will no longer see it. Yet now it is a deep, deep blue, its dozens of starry eyes blinking, cold eyes. A smile plays at the corners of its mouth, as if it thought itself very profound, and it scatters a heavy frost over the wild flowers and grasses in my garden.",
+    "highlight_en": [
+      "my garden"
+    ],
+    "text_zh": "这上面的夜的天空，奇怪而高，我生平没有见过这样奇怪而高的天空。他仿佛要离开人间而去，使人们仰面不再看见。然而现在却非常之蓝，闪闪地夹着几十个星星的眼，冷眼。他的口角上现出微笑，似乎自以为大有深意，而将繁霜洒在我的园里的野花草上。",
+    "highlight_zh": [
+      "我的园里"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 25242
+    },
+    "status": "draft"
+  },
+  {
+    "id": "cn-mp-1",
+    "book_id": "travels-of-marco-polo",
+    "place_ids": [
+      "cn-lugou-bridge"
+    ],
+    "location": "Book 2, Chapter 35, Concerning the River Pulisanghin, and the Bridge over it",
+    "location_zh": "第二卷第 35 章《普里桑干河及河上的桥》",
+    "text_en": "When you leave the City of Cambaluc and have ridden ten miles, you come to a very large river which is called PULISANGHIN, and flows into the ocean, so that merchants with their merchandise ascend it from the sea. Over this River there is a very fine stone bridge, so fine indeed, that it has very few equals. The fashion of it is this: it is 300 paces in length, and it must have a good eight paces of width, for ten mounted men can ride across it abreast.",
+    "highlight_en": [
+      "a very fine stone bridge"
+    ],
+    "text_zh": "出了汗八里城，骑行十英里，就来到一条很大的河，名叫普里桑干，一直流入大海，商人们带着货物从海上溯河而上。河上有一座非常美的石桥，美到世上少有能与它相比的。它的样子是这样的：桥长三百步，宽足有八步，十个骑马的人可以并排走过。",
+    "highlight_zh": [
+      "一座非常美的石桥"
+    ],
+    "translation": "Henry Yule (1871), revised by Henri Cordier (1903)",
+    "source": {
+      "kind": "gutenberg",
+      "id": 12410
+    },
+    "status": "draft"
+  },
+  {
+    "id": "cn-xx-1",
+    "book_id": "romance-of-the-western-chamber",
+    "place_ids": [
+      "cn-pujiu-temple"
+    ],
+    "location": "Part 1, Act 1",
+    "location_zh": "第一本第一折",
+    "text_orig": "俺這里有座寺，名日普救寺，是則天皇后香火院，蓋造非俗：琉璃殿相近青霄，舍利塔直侵云漢。",
+    "highlight_orig": [
+      "普救寺"
+    ],
+    "text_en": "There's a temple near here called Pujiu, the Empress Wu Zetian's own temple, and it's no ordinary building: its glazed halls reach almost to the blue sky, and its relic pagoda soars straight up into the Milky Way.",
+    "highlight_en": [
+      "Pujiu"
+    ],
+    "text_zh": "俺这里有座寺，名曰普救寺，是则天皇后香火院，盖造非俗：琉璃殿相近青霄，舍利塔直侵云汉。",
+    "highlight_zh": [
+      "普救寺"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 23906
+    },
+    "status": "draft"
+  },
+  {
+    "id": "cn-dfz-1",
+    "book_id": "thoughts-on-ancient-sites",
+    "place_ids": [
+      "cn-zhaojun-tomb"
+    ],
+    "location": "Three Hundred Tang Poems, No. 192",
+    "location_zh": "《唐诗三百首》第 192 首",
+    "text_orig": "群山萬壑赴荊門，\n生長明妃尚有村。\n一去紫臺連朔漠，\n獨留青塚向黃昏。\n畫圖省識春風面，\n環珮空歸月下魂。\n千載琵琶作胡語，\n分明怨恨曲中論。",
+    "highlight_orig": [
+      "青塚"
+    ],
+    "text_en": "A thousand hills and gorges run down to Jingmen,\nwhere the village that raised the Bright Consort still stands.\nOnce gone from the purple palace into the northern desert,\nshe left only the Green Mound, facing the dusk.\nFrom a painting the emperor half knew her spring-wind face;\nin vain her jade pendants come home, a soul under the moon.\nFor a thousand years the pipa has spoken in a foreign tongue,\nand in its music her grievance is plain to hear.",
+    "highlight_en": [
+      "the Green Mound"
+    ],
+    "text_zh": "群山万壑赴荆门，\n生长明妃尚有村。\n一去紫台连朔漠，\n独留青冢向黄昏。\n画图省识春风面，\n环佩空归月夜魂。\n千载琵琶作胡语，\n分明怨恨曲中论。",
+    "highlight_zh": [
+      "青冢"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 52323
+    },
+    "status": "draft",
+    "keep_breaks": true
+  },
+  {
+    "id": "cn-fq-1",
+    "book_id": "maple-bridge",
+    "place_ids": [
+      "cn-hanshan-temple"
+    ],
+    "location": "Three Hundred Tang Poems, No. 273",
+    "location_zh": "《唐诗三百首》第 273 首",
+    "text_orig": "月落烏啼霜滿天，\n江楓漁火對愁眠。\n姑蘇城外寒山寺，\n夜半鐘聲到客船。",
+    "highlight_orig": [
+      "寒山寺"
+    ],
+    "text_en": "The moon sets, a crow caws, frost fills the sky;\nriver maples, fishing lights, face my sleepless sorrow.\nOutside the walls of Gusu, Hanshan Temple:\nits midnight bell reaches the traveller's boat.",
+    "highlight_en": [
+      "Hanshan Temple"
+    ],
+    "text_zh": "月落乌啼霜满天，\n江枫渔火对愁眠。\n姑苏城外寒山寺，\n夜半钟声到客船。",
+    "highlight_zh": [
+      "寒山寺"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 52323
+    },
+    "status": "draft",
+    "keep_breaks": true
+  },
+  {
+    "id": "cn-fs-1",
+    "book_id": "six-records-of-a-floating-life",
+    "place_ids": [
+      "cn-canglang-pavilion"
+    ],
+    "location": "Book 1, Wedded Bliss",
+    "location_zh": "卷一《闺房记乐》",
+    "text_orig": "過石橋，進門折東，曲徑而入。疊石成山，林木蔥翠，亭在土山之巔。循級至亭心，周望極目可數里，炊煙四起，晚霞燦然。隔岸名「近山林」，為大憲行台宴集之地，時正誼書院猶未啟也。攜一毯設亭中，席地環坐，守著烹茶以進。少焉，一輪明月已上林梢，漸覺風生袖底，月到波心，俗慮塵懷，爽然頓釋。",
+    "highlight_orig": [
+      "亭在土山之巔"
+    ],
+    "text_en": "We crossed the stone bridge, went in at the gate, turned east and followed a winding path. Rocks were piled into hills among lush green trees, and the pavilion stood on top of an earthen mound. We climbed the steps into it and could see for miles all around, with cooking smoke rising everywhere and the sunset glowing. Across the water was the Near the Hills Grove, where the high officials held their banquets; the Zhengyi Academy had not yet been built. We spread a rug in the pavilion and sat on the ground in a circle while the keeper brewed tea for us. Soon a bright full moon rose over the treetops, and we felt the breeze in our sleeves and the moon in the heart of the water, and all our worldly cares were suddenly washed away.",
+    "highlight_en": [
+      "the pavilion stood on top of an earthen mound"
+    ],
+    "text_zh": "过石桥，进门折东，曲径而入。叠石成山，林木葱翠，亭在土山之巅。循级至亭心，周望极目可数里，炊烟四起，晚霞灿然。隔岸名“近山林”，为大宪行台宴集之地，时正谊书院犹未启也。携一毯设亭中，席地环坐，守着烹茶以进。少焉，一轮明月已上林梢，渐觉风生袖底，月到波心，俗虑尘怀，爽然顿释。",
+    "highlight_zh": [
+      "亭在土山之巅"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 25192
+    },
+    "status": "draft"
+  },
+  {
+    "id": "cn-pqh-1",
+    "book_id": "mooring-on-the-qinhuai",
+    "place_ids": [
+      "cn-qinhuai"
+    ],
+    "location": "Three Hundred Tang Poems, No. 291",
+    "location_zh": "《唐诗三百首》第 291 首",
+    "text_orig": "煙籠寒水月籠沙，\n夜泊秦淮近酒家。\n商女不知亡國恨，\n隔江猶唱後庭花。",
+    "highlight_orig": [
+      "秦淮"
+    ],
+    "text_en": "Mist veils the cold water, moonlight veils the sand;\nat night I moor on the Qinhuai, close by the wine shops.\nThe singing girls don't know the grief of a fallen kingdom:\nacross the river they still sing 'Flowers in the Rear Court'.",
+    "highlight_en": [
+      "the Qinhuai"
+    ],
+    "text_zh": "烟笼寒水月笼沙，\n夜泊秦淮近酒家。\n商女不知亡国恨，\n隔江犹唱后庭花。",
+    "highlight_zh": [
+      "秦淮"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 52323
+    },
+    "status": "draft",
+    "keep_breaks": true
+  },
+  {
+    "id": "cn-xyj-1",
+    "book_id": "journey-to-the-west",
+    "place_ids": [
+      "cn-huaguo-mountain"
+    ],
+    "location": "Chapter 1",
+    "location_zh": "第一回",
+    "text_orig": "這部書單表東勝神洲。海外有一國土，名曰傲來國。國近大海，海中有一座名山，喚為花果山。此山乃十洲之祖脈，三島之來龍，自開清濁而立，鴻濛判後而成。",
+    "highlight_orig": [
+      "花果山"
+    ],
+    "text_en": "This book tells only of the Eastern Continent of Superior Body. Beyond the sea there is a country called Aolai, close by a great ocean, and in that ocean stands a famous mountain called the Mountain of Flowers and Fruit. It is the ancestral vein of the Ten Continents and the source of the Three Islands; it rose when the clear and the murky first separated, and took its shape when primeval chaos divided.",
+    "highlight_en": [
+      "the Mountain of Flowers and Fruit"
+    ],
+    "text_zh": "这部书单表东胜神洲。海外有一国土，名曰傲来国。国近大海，海中有一座名山，唤为花果山。此山乃十洲之祖脉，三岛之来龙，自开清浊而立，鸿蒙判后而成。",
+    "highlight_zh": [
+      "花果山"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 23962
+    },
+    "status": "draft"
+  },
+  {
+    "id": "cn-hxt-1",
+    "book_id": "searching-for-west-lake-in-dreams",
+    "place_ids": [
+      "cn-huxin-pavilion"
+    ],
+    "location": "Viewing the Snow from the Mid-Lake Pavilion",
+    "location_zh": "《湖心亭小记》（湖心亭看雪）",
+    "text_orig": "崇禎五年十二月，余住西湖。大雪三日，湖中人鳥聲俱絕。是日更定矣，余拿一小舟，擁毳衣爐火，獨往湖心亭看雪。霧淞沆碭，天與雲、與山、與水，上下一白。湖上影子，惟長堤一痕，湖心亭一點，與余舟一芥，舟中人兩三粒而已。",
+    "highlight_orig": [
+      "湖心亭"
+    ],
+    "text_en": "In the twelfth month of the fifth year of Chongzhen, I was living by West Lake. It had snowed for three days, and on the lake every sound of people and birds had died away. That evening, after the first watch, I took a little boat and, wrapped in furs with a brazier, went alone to the Mid-Lake Pavilion to see the snow. Frost and mist hung everywhere, and sky, clouds, hills and water were one white, above and below. The only shapes on the lake were a trace of the long causeway, a dot of the pavilion, a mustard seed of my boat, and two or three grains that were the people in it.",
+    "highlight_en": [
+      "the Mid-Lake Pavilion"
+    ],
+    "text_zh": "崇祯五年十二月，余住西湖。大雪三日，湖中人鸟声俱绝。是日更定矣，余拿一小舟，拥毳衣炉火，独往湖心亭看雪。雾凇沆砀，天与云、与山、与水，上下一白。湖上影子，惟长堤一痕，湖心亭一点，与余舟一芥，舟中人两三粒而已。",
+    "highlight_zh": [
+      "湖心亭"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 27165
+    },
+    "status": "draft"
+  },
+  {
+    "id": "cn-gx-1",
+    "book_id": "call-to-arms",
+    "place_ids": [
+      "cn-lu-xun-native-place"
+    ],
+    "location": "My Old Home",
+    "location_zh": "《故乡》",
+    "text_orig": "我冒了嚴寒，回到相隔二千余里，別了二十余年的故鄉去。\n\n時候既然是深冬；漸近故鄉時，天氣又陰晦了，冷風吹進船艙中，嗚嗚的響，從蓬隙向外一望，蒼黃的天底下，遠近橫著幾個蕭索的荒村，沒有一些活氣。我的心禁不住悲涼起來了。",
+    "highlight_orig": [
+      "故鄉"
+    ],
+    "text_en": "Braving the bitter cold, I went back to my old home, more than two thousand li away, which I had left more than twenty years before.\n\nIt was the depth of winter, and as we drew near my home town the sky turned overcast. A cold wind blew into the cabin, moaning, and when I looked out through a gap in the awning, under a sallow sky a few bleak, desolate villages lay scattered far and near, with no sign of life. My heart could not help growing sad.",
+    "highlight_en": [
+      "my old home"
+    ],
+    "text_zh": "我冒了严寒，回到相隔二千余里，别了二十余年的故乡去。\n\n时候既然是深冬；渐近故乡时，天气又阴晦了，冷风吹进船舱中，呜呜的响，从篷隙向外一望，苍黄的天底下，远近横着几个萧索的荒村，没有一些活气。我的心禁不住悲凉起来了。",
+    "highlight_zh": [
+      "故乡"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 27166
+    },
+    "status": "draft"
+  },
+  {
+    "id": "cn-kyj-1",
+    "book_id": "call-to-arms",
+    "place_ids": [
+      "cn-xianheng-tavern"
+    ],
+    "location": "Kong Yiji",
+    "location_zh": "《孔乙己》",
+    "text_orig": "魯鎮的酒店的格局，是和別處不同的︰都是當街一個曲尺形的大櫃台，櫃里面預備著熱水，可以隨時溫酒。…我從十二歲起，便在鎮口的咸亨酒店里當伙計，掌櫃說，樣子太傻，怕侍候不了長衫主顧，就在外面做點事罷。",
+    "highlight_orig": [
+      "咸亨酒店"
+    ],
+    "text_en": "The taverns of Lu Town are laid out differently from anywhere else: each has a big L-shaped counter facing the street, with hot water kept ready behind it so the wine can be warmed at any time. … From the age of twelve I worked as a boy in the Xianheng Tavern at the edge of town. The boss said I looked too stupid to wait on the customers in long gowns, so I was given work out front.",
+    "highlight_en": [
+      "the Xianheng Tavern"
+    ],
+    "text_zh": "鲁镇的酒店的格局，是和别处不同的：都是当街一个曲尺形的大柜台，柜里面预备着热水，可以随时温酒。……我从十二岁起，便在镇口的咸亨酒店里当伙计，掌柜说，样子太傻，怕侍候不了长衫主顾，就在外面做点事罢。",
+    "highlight_zh": [
+      "咸亨酒店"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 27166
+    },
+    "status": "draft"
+  },
+  {
+    "id": "cn-xxk-1",
+    "book_id": "travel-diaries-of-xu-xiake",
+    "place_ids": [
+      "cn-tiandu-peak"
+    ],
+    "location": "Second Journey to Huangshan, 4th day of the 9th month, 1618",
+    "location_zh": "《游黄山日记（后）》，戊午九月初四日",
+    "text_orig": "遂達峰頂。惟一石頂壁起猶數十丈，澄源尋視其側，得級，挾予以登。萬峰無不下伏，獨蓮花與抗耳。時濃霧半作半止，第一陣至，則對面不見。眺蓮花諸峰，多在霧中。獨上天都，予至其前，則霧徙於後；予越其右，則霧出於左。其松猶有曲挺縱橫者；柏雖大於如臂，無不平貼石上、如苔蘚然。山高風巨，霧氣去來無定。下盼諸峰，時出為碧嶠，時沒為銀海；再眺山下，則日光晶晶，別一區宇也。",
+    "highlight_orig": [
+      "萬峰無不下伏"
+    ],
+    "text_en": "At last we reached the top of the peak. Only one rock still rose sheer for several dozen feet; Chengyuan searched along its side, found footholds and helped me up. Ten thousand peaks all bowed below, and Lotus Peak alone stood level with us. A thick mist kept coming and going: when it rolled in we could not see each other face to face, and the peaks around Lotus were mostly lost in it. Only on Tiandu, wherever I went in front, the mist moved behind; when I crossed to the right, it came out on the left. The pines here still twisted and stood in every direction, but the cypresses, though thicker than an arm, lay flat against the rocks like moss. The mountain was high and the wind fierce, and the mist came and went without pattern. Looking down, the peaks now rose as green crags, now sank into a silver sea; and beyond, at the foot of the mountain, the sun shone bright on another world.",
+    "highlight_en": [
+      "Ten thousand peaks all bowed below"
+    ],
+    "text_zh": "遂达峰顶。惟一石顶壁起犹数十丈，澄源寻视其侧，得级，挟予以登。万峰无不下伏，独莲花与抗耳。时浓雾半作半止，第一阵至，则对面不见。眺莲花诸峰，多在雾中。独上天都，予至其前，则雾徙于后；予越其右，则雾出于左。其松犹有曲挺纵横者；柏虽大于如臂，无不平贴石上、如苔藓然。山高风巨，雾气去来无定。下盼诸峰，时出为碧峤，时没为银海；再眺山下，则日光晶晶，别一区宇也。",
+    "highlight_zh": [
+      "万峰无不下伏"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 23876
+    },
+    "status": "draft"
+  },
+  {
+    "id": "cn-zwt-1",
+    "book_id": "old-drunkards-pavilion",
+    "place_ids": [
+      "cn-zuiweng-pavilion"
+    ],
+    "location": "Guwen Guanzhi, Book 10",
+    "location_zh": "《古文观止》卷十",
+    "text_orig": "環滁皆山也。其西南諸峰，林壑尤美。望之蔚然而深秀者，瑯琊也。山行六七里，漸聞水聲潺潺；而瀉出於兩峰之間者，釀泉也。峰回路轉，有亭翼然臨於泉上者，醉翁亭也。",
+    "highlight_orig": [
+      "醉翁亭"
+    ],
+    "text_en": "Chuzhou is ringed by hills. To the southwest the peaks, their woods and valleys, are especially lovely, and the one that looks so lush and deep and graceful is Langya. Six or seven li along the mountain path you begin to hear the gurgle of water, and what pours out between two peaks is the Brewing Spring. Where the path turns with the hills, a pavilion spreads its eaves like wings above the spring: this is the Old Drunkard's Pavilion.",
+    "highlight_en": [
+      "the Old Drunkard's Pavilion"
+    ],
+    "text_zh": "环滁皆山也。其西南诸峰，林壑尤美。望之蔚然而深秀者，琅琊也。山行六七里，渐闻水声潺潺；而泻出于两峰之间者，酿泉也。峰回路转，有亭翼然临于泉上者，醉翁亭也。",
+    "highlight_zh": [
+      "醉翁亭"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 25225
+    },
+    "status": "draft"
+  },
+  {
+    "id": "cn-yqs-1",
+    "book_id": "letter-to-my-wife",
+    "place_ids": [
+      "cn-lin-juemin-residence"
+    ],
+    "location": "Letter to My Wife",
+    "location_zh": "《与妻书》",
+    "text_orig": "吾真真不能忘汝也。廽憶後街之屋，入門穿廊，過前後㕔，又三、四折，有小厛，厛旁一室为吾與汝雙棲之所。初婚三、四个月，適冬之望日前後，窗外疏梅篩月影，依稀掩映，吾與汝並肩携手，低低切切，何事不語？何情不訴？及今思之，空餘淚痕。",
+    "highlight_orig": [
+      "後街之屋"
+    ],
+    "text_en": "I truly, truly cannot forget you. I remember our house on the back street: through the gate, along the corridor, past the front and back halls, three or four turns more, and there was a little hall, and beside it the room where you and I lived together. Three or four months after our wedding, around the full moon in winter, the sparse plum blossoms outside the window sifted the moonlight, shadows half seen, and we sat shoulder to shoulder, hand in hand, whispering. What was there we did not say? What feeling did we not confide? Thinking of it now, all that is left is tears.",
+    "highlight_en": [
+      "our house on the back street"
+    ],
+    "text_zh": "吾真真不能忘汝也。回忆后街之屋，入门穿廊，过前后厅，又三四折，有小厅，厅旁一室为吾与汝双栖之所。初婚三四个月，适冬之望日前后，窗外疏梅筛月影，依稀掩映，吾与汝并肩携手，低低切切，何事不语？何情不诉？及今思之，空余泪痕。",
+    "highlight_zh": [
+      "后街之屋"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "wikisource",
+      "url": "https://zh.wikisource.org/wiki/%E8%88%87%E5%A6%BB%E6%9B%B8"
+    },
+    "status": "draft"
+  },
+  {
+    "id": "cn-twg-1",
+    "book_id": "prince-teng-pavilion",
+    "place_ids": [
+      "cn-tengwang-pavilion"
+    ],
+    "location": "Guwen Guanzhi, Book 7",
+    "location_zh": "《古文观止》卷七",
+    "text_orig": "虹銷雨霽，彩徹區明。落霞與孤鶩齊飛，秋水共長天一色。漁舟唱晚，響窮彭蠡之濱，雁陣驚寒，聲斷衡陽之浦。",
+    "highlight_orig": [
+      "落霞與孤鶩齊飛"
+    ],
+    "text_en": "The rainbow fades, the rain clears, and the light pours through the bright sky. The sunset clouds fly with a lone wild duck; the autumn water shares one colour with the endless sky. Fishing boats sing in the evening, their songs reaching the shores of Lake Pengli; wild geese in formation, startled by the cold, cry until their voices break on the banks at Hengyang.",
+    "highlight_en": [
+      "The sunset clouds fly with a lone wild duck"
+    ],
+    "text_zh": "虹销雨霁，彩彻区明。落霞与孤鹜齐飞，秋水共长天一色。渔舟唱晚，响穷彭蠡之滨，雁阵惊寒，声断衡阳之浦。",
+    "highlight_zh": [
+      "落霞与孤鹜齐飞"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 25225
+    },
+    "status": "draft"
+  },
+  {
+    "id": "cn-lsp-1",
+    "book_id": "lushan-waterfall",
+    "place_ids": [
+      "cn-lushan-xiufeng"
+    ],
+    "location": "Viewing the Waterfall at Mount Lu, second of two poems",
+    "location_zh": "《望庐山瀑布》其二",
+    "text_orig": "日照香爐生紫煙，\n遙看瀑布挂前川。\n飛流直下三千尺，\n疑是銀河落九天。",
+    "highlight_orig": [
+      "瀑布"
+    ],
+    "text_en": "Sun on Incense Burner Peak raises a purple haze;\nfar off I see the waterfall hanging over the stream.\nIts torrent plunges straight down three thousand feet,\nas if the Milky Way were falling from the ninth heaven.",
+    "highlight_en": [
+      "the waterfall"
+    ],
+    "text_zh": "日照香炉生紫烟，\n遥看瀑布挂前川。\n飞流直下三千尺，\n疑是银河落九天。",
+    "highlight_zh": [
+      "瀑布"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 24060
+    },
+    "status": "draft",
+    "keep_breaks": true
+  },
+  {
+    "id": "cn-lcy-1",
+    "book_id": "travels-of-lao-can",
+    "place_ids": [
+      "cn-daming-lake"
+    ],
+    "location": "Chapter 2",
+    "location_zh": "第二回",
+    "text_orig": "正在歎賞不絕，忽聽一聲漁唱，響遏行雲，低頭看去，誰知那明湖業已澄清得同鏡子一般。那千佛山的倒影映在湖裏，顯得明明白白。那樓臺樹木格外光彩，覺得比上頭的一個千佛山還要好看，還要清楚。",
+    "highlight_orig": [
+      "明湖"
+    ],
+    "text_en": "He was still lost in admiration when a fisherman's song rang out, loud enough to stop the drifting clouds, and looking down he saw that the lake had grown as clear as a mirror. The reflection of Thousand Buddha Mountain lay in it, sharp and distinct, its temples and trees shining even brighter, so that it seemed finer and clearer than the mountain above.",
+    "highlight_en": [
+      "the lake"
+    ],
+    "text_zh": "正在叹赏不绝，忽听一声渔唱，响遏行云，低头看去，谁知那明湖业已澄清得同镜子一般。那千佛山的倒影映在湖里，显得明明白白。那楼台树木格外光彩，觉得比上头的一个千佛山还要好看，还要清楚。",
+    "highlight_zh": [
+      "明湖"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 25124
+    },
+    "status": "draft"
+  },
+  {
+    "id": "cn-wy-1",
+    "book_id": "gazing-at-mount-tai",
+    "place_ids": [
+      "cn-mount-tai"
+    ],
+    "location": "Three Hundred Tang Poems, No. 8",
+    "location_zh": "《唐诗三百首》第 8 首",
+    "text_orig": "岱宗夫如何？\n齊魯青未了。\n造化鍾神秀，\n陰陽割昏曉。\n盪胸生層雲，\n決眥入歸鳥。\n會當凌絕頂，\n一覽眾山小。",
+    "highlight_orig": [
+      "岱宗"
+    ],
+    "text_en": "And what of Mount Tai, first of the sacred peaks?\nOver Qi and Lu its green never ends.\nNature gathered here all its marvels;\nits north and south slopes split dusk from dawn.\nLayered clouds rise and stir my breast;\nI strain my eyes after birds flying home.\nOne day I will stand on its very summit\nand see all other mountains small.",
+    "highlight_en": [
+      "Mount Tai"
+    ],
+    "text_zh": "岱宗夫如何？\n齐鲁青未了。\n造化钟神秀，\n阴阳割昏晓。\n荡胸生层云，\n决眦入归鸟。\n会当凌绝顶，\n一览众山小。",
+    "highlight_zh": [
+      "岱宗"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 52323
+    },
+    "status": "draft",
+    "keep_breaks": true
+  },
+  {
+    "id": "cn-sh-1",
+    "book_id": "water-margin",
+    "place_ids": [
+      "cn-daxiangguo"
+    ],
+    "location": "Chapter 6",
+    "location_zh": "第六回",
+    "text_orig": "智深相了一相，走到樹前，把直掇脫了，用右手向下，把身倒繳著；卻把左手拔住上截，把腰只一趁，將那株綠楊樹帶根拔起。衆潑皮見了，一齊拜倒在地，只叫：「師父非是凡人，正是真羅漢！身體無千萬斤氣力，如何拔得起！」",
+    "highlight_orig": [
+      "綠楊樹帶根拔起"
+    ],
+    "text_en": "Zhishen sized it up, walked over to the tree and took off his robe. He reached down with his right hand and bent his body upside down, gripped the upper trunk with his left hand, gave one heave of his back, and pulled the green willow out of the ground, roots and all. The toughs all fell to their knees and cried, 'Master, you're no ordinary man, you're a true arhat! Without a body as strong as ten thousand catties, how could anyone pull that up?'",
+    "highlight_en": [
+      "pulled the green willow out of the ground, roots and all"
+    ],
+    "text_zh": "智深相了一相，走到树前，把直裰脱了，用右手向下，把身倒缴着；却把左手拔住上截，把腰只一趁，将那株绿杨树带根拔起。众泼皮见了，一齐拜倒在地，只叫：“师父非是凡人，正是真罗汉！身体无千万斤气力，如何拔得起！”",
+    "highlight_zh": [
+      "绿杨树带根拔起"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 23863
+    },
+    "status": "draft"
+  },
+  {
+    "id": "cn-hhl-1",
+    "book_id": "yellow-crane-tower-poem",
+    "place_ids": [
+      "cn-yellow-crane-tower"
+    ],
+    "location": "Three Hundred Tang Poems, No. 170",
+    "location_zh": "《唐诗三百首》第 170 首",
+    "text_orig": "昔人已乘黃鶴去，\n此地空餘黃鶴樓。\n黃鶴一去不復返，\n白雲千載空悠悠。\n晴川歷歷漢陽樹，\n芳草萋萋鸚鵡洲。\n日暮鄉關何處是？\n煙波江上使人愁。",
+    "highlight_orig": [
+      "黃鶴樓"
+    ],
+    "text_en": "The immortal of old has flown off on his yellow crane,\nand here nothing is left but the Yellow Crane Tower.\nThe yellow crane, once gone, never returned;\nfor a thousand years white clouds have drifted, empty.\nIn the clear light across the river, every tree of Hanyang;\nlush and green, the grass on Parrot Island.\nAt dusk, where is my home?\nMist on the waves of the river fills me with sorrow.",
+    "highlight_en": [
+      "the Yellow Crane Tower"
+    ],
+    "text_zh": "昔人已乘黄鹤去，\n此地空余黄鹤楼。\n黄鹤一去不复返，\n白云千载空悠悠。\n晴川历历汉阳树，\n芳草萋萋鹦鹉洲。\n日暮乡关何处是？\n烟波江上使人愁。",
+    "highlight_zh": [
+      "黄鹤楼"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 52323
+    },
+    "status": "draft",
+    "keep_breaks": true
+  },
+  {
+    "id": "cn-cbf-1",
+    "book_id": "red-cliff-ode",
+    "place_ids": [
+      "cn-dongpo-chibi"
+    ],
+    "location": "First Ode on the Red Cliff (Guwen Guanzhi, Book 11)",
+    "location_zh": "《前赤壁赋》（《古文观止》卷十一）",
+    "text_orig": "蘇子與客泛舟遊於赤壁之下。清風徐來，水波不興。舉酒屬客，誦明月之詩，歌窈窕之章。少焉，月出於東山之上，徘徊於斗牛之間。白露橫江，水光接天。",
+    "highlight_orig": [
+      "赤壁"
+    ],
+    "text_en": "Master Su and his guests went boating below the Red Cliff. A gentle breeze came slowly over the water, raising no waves. He lifted his wine to his guests, recited the poem of the bright moon and sang the verse of the lovely maiden. Soon the moon rose above the eastern hills and lingered between the Dipper and the Ox. A white mist lay across the river, and the gleam of the water met the sky.",
+    "highlight_en": [
+      "the Red Cliff"
+    ],
+    "text_zh": "苏子与客泛舟游于赤壁之下。清风徐来，水波不兴。举酒属客，诵明月之诗，歌窈窕之章。少焉，月出于东山之上，徘徊于斗牛之间。白露横江，水光接天。",
+    "highlight_zh": [
+      "赤壁"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 25225
+    },
+    "status": "draft"
+  },
+  {
+    "id": "cn-yyl-1",
+    "book_id": "yueyang-tower-record",
+    "place_ids": [
+      "cn-yueyang-tower"
+    ],
+    "location": "Guwen Guanzhi, Book 9",
+    "location_zh": "《古文观止》卷九",
+    "text_orig": "予觀夫巴陵勝狀，在洞庭一湖。銜遠山，吞長江，浩浩湯湯，橫無際涯；朝暉夕陰，氣象萬千；此則岳陽樓之大觀也…先天下之憂而憂，後天下之樂而樂乎",
+    "highlight_orig": [
+      "岳陽樓"
+    ],
+    "text_en": "As I see it, the glory of Baling lies in one lake, Dongting. It holds the distant hills in its mouth and swallows the Yangtze, vast and surging, without limit; in morning light and evening shade its moods change ten thousand ways. This is the grand view from Yueyang Tower … To be first to worry over the world's troubles, and last to enjoy its happiness.",
+    "highlight_en": [
+      "Yueyang Tower"
+    ],
+    "text_zh": "予观夫巴陵胜状，在洞庭一湖。衔远山，吞长江，浩浩汤汤，横无际涯；朝晖夕阴，气象万千；此则岳阳楼之大观也……先天下之忧而忧，后天下之乐而乐乎",
+    "highlight_zh": [
+      "岳阳楼"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 25225
+    },
+    "status": "draft"
+  },
+  {
+    "id": "cn-jew-1",
+    "book_id": "crocodile-address",
+    "place_ids": [
+      "cn-han-yu-temple"
+    ],
+    "location": "Guwen Guanzhi, Book 8",
+    "location_zh": "《古文观止》卷八",
+    "text_orig": "維年月日，潮州刺史韓愈，使軍事衙推奏濟，以羊一豬一，投惡谿之潭水，以與鱷魚食，而告之曰：",
+    "highlight_orig": [
+      "潮州刺史韓愈"
+    ],
+    "text_en": "On this year, month and day, Han Yu, Prefect of Chaozhou, sends the military clerk Qin Ji to throw a sheep and a pig into the pools of the Evil Creek to feed the crocodiles, and addresses them thus:",
+    "highlight_en": [
+      "Han Yu, Prefect of Chaozhou"
+    ],
+    "text_zh": "维年月日，潮州刺史韩愈，使军事衙推秦济，以羊一猪一，投恶溪之潭水，以与鳄鱼食，而告之曰：",
+    "highlight_zh": [
+      "潮州刺史韩愈"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 25225
+    },
+    "status": "draft"
+  },
+  {
+    "id": "cn-lz-1",
+    "book_id": "liuzhou-city-tower",
+    "place_ids": [
+      "cn-liuhou-park"
+    ],
+    "location": "Three Hundred Tang Poems, No. 203",
+    "location_zh": "《唐诗三百首》第 203 首",
+    "text_orig": "城上高樓接大荒，\n海天愁思正茫茫。\n驚風亂颭芙蓉水，\n密雨斜侵薜荔牆。\n嶺樹重遮千里目，\n江流曲似九迴腸。\n共來百越文身地，\n猶自音書滯一鄉。",
+    "highlight_orig": [
+      "城上高樓"
+    ],
+    "text_en": "The high tower on the city wall looks out on the wilderness;\nmy sorrow is as boundless as the sea and sky.\nA sudden gust whips the lotus pond,\ndense rain slants against the ivied walls.\nTrees on the ranges block my thousand-li gaze;\nthe river winds like my twisting heart.\nWe all came to this land of tattooed tribes,\nyet our letters still stop, each in his own town.",
+    "highlight_en": [
+      "The high tower on the city wall"
+    ],
+    "text_zh": "城上高楼接大荒，\n海天愁思正茫茫。\n惊风乱飐芙蓉水，\n密雨斜侵薜荔墙。\n岭树重遮千里目，\n江流曲似九回肠。\n共来百越文身地，\n犹自音书滞一乡。",
+    "highlight_zh": [
+      "城上高楼"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 52323
+    },
+    "status": "draft",
+    "keep_breaks": true
+  },
+  {
+    "id": "cn-bd-1",
+    "book_id": "leaving-baidi",
+    "place_ids": [
+      "cn-baidicheng"
+    ],
+    "location": "Three Hundred Tang Poems, No. 269",
+    "location_zh": "《唐诗三百首》第 269 首",
+    "text_orig": "朝辭白帝彩雲間，\n千里江陵一日還；\n兩岸猿聲啼不住，\n輕舟已過萬重山。",
+    "highlight_orig": [
+      "白帝"
+    ],
+    "text_en": "At dawn I left Baidi among the rainbow clouds;\na thousand li to Jiangling, back in a single day.\nOn both banks the gibbons never stopped crying\nas my light boat slipped past ten thousand hills.",
+    "highlight_en": [
+      "Baidi"
+    ],
+    "text_zh": "朝辞白帝彩云间，\n千里江陵一日还。\n两岸猿声啼不住，\n轻舟已过万重山。",
+    "highlight_zh": [
+      "白帝"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 52323
+    },
+    "status": "draft",
+    "keep_breaks": true
+  },
+  {
+    "id": "cn-sx-1",
+    "book_id": "prime-minister-of-shu",
+    "place_ids": [
+      "cn-wuhou-shrine"
+    ],
+    "location": "Three Hundred Tang Poems, No. 182",
+    "location_zh": "《唐诗三百首》第 182 首",
+    "text_orig": "丞相祠堂何處尋？\n錦官城外柏森森。\n映階碧草自春色，\n隔葉黃鸝空好音。\n三顧頻煩天下計，\n兩朝開濟老臣心。\n出師未捷身先死，\n長使英雄淚滿襟。",
+    "highlight_orig": [
+      "丞相祠堂"
+    ],
+    "text_en": "Where shall I find the Prime Minister's shrine?\nBeyond the walls of the Brocade City, among dense cypresses.\nGreen grass lights the steps with its own spring colour;\nbehind the leaves an oriole sings its lovely song for no one.\nThree visits, and he gave his plan for the empire;\ntwo reigns he served with an old minister's loyal heart.\nHe died before his campaign was won,\nand ever since, heroes have wept into their sleeves.",
+    "highlight_en": [
+      "the Prime Minister's shrine"
+    ],
+    "text_zh": "丞相祠堂何处寻？\n锦官城外柏森森。\n映阶碧草自春色，\n隔叶黄鹂空好音。\n三顾频烦天下计，\n两朝开济老臣心。\n出师未捷身先死，\n长使英雄泪满襟。",
+    "highlight_zh": [
+      "丞相祠堂"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 52323
+    },
+    "status": "draft",
+    "keep_breaks": true
+  },
+  {
+    "id": "cn-xxk-2",
+    "book_id": "travel-diaries-of-xu-xiake",
+    "place_ids": [
+      "cn-huangguoshu"
+    ],
+    "location": "Guizhou Diary, 23rd day of the 4th month, 1638",
+    "location_zh": "《黔游日记》，戊寅四月二十三日",
+    "text_orig": "透隴隙南顧，則路左一溪懸搗，萬練飛空，溪上石如蓮葉下覆，中剜三門，水由葉上漫頂而下，如鮫綃萬幅，橫罩門外，直下者不可以丈數計，搗珠崩玉，飛沫反湧，如煙霧騰空，勢甚雄厲，所謂「珠簾鉤不捲，匹練掛遙峰」，俱不足以擬其壯也。蓋余所見瀑布，高峻數倍者有之，而從無此闊而大者",
+    "highlight_orig": [
+      "一溪懸搗"
+    ],
+    "text_en": "Looking south through a gap in the ridge, I saw on the left of the path a whole river hurled down, ten thousand bolts of silk flying through the air. The rock above it curved over like a lotus leaf turned down, hollowed into three openings, and the water poured over the top of the leaf like ten thousand lengths of mermaid's silk hung across the openings. Its fall could not be measured in feet; it crashed like pearls and burst like jade, the spray flying back up like smoke and mist rising into the sky, overwhelming in its power. The old lines about 'a pearl curtain never rolled up, a bolt of silk hung from a distant peak' fall far short of its grandeur. I have seen waterfalls several times as high, but never one so broad and mighty",
+    "highlight_en": [
+      "a whole river hurled down"
+    ],
+    "text_zh": "透陇隙南顾，则路左一溪悬捣，万练飞空，溪上石如莲叶下覆，中剜三门，水由叶上漫顶而下，如鲛绡万幅，横罩门外，直下者不可以丈数计，捣珠崩玉，飞沫反涌，如烟雾腾空，势甚雄厉，所谓“珠帘钩不卷，匹练挂遥峰”，俱不足以拟其壮也。盖余所见瀑布，高峻数倍者有之，而从无此阔而大者",
+    "highlight_zh": [
+      "一溪悬捣"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 23876
+    },
+    "status": "draft"
+  },
+  {
+    "id": "cn-chg-1",
+    "book_id": "song-of-everlasting-sorrow",
+    "place_ids": [
+      "cn-huaqing-palace"
+    ],
+    "location": "Three Hundred Tang Poems, No. 71",
+    "location_zh": "《唐诗三百首》第 71 首",
+    "text_orig": "春寒賜浴華清池，\n溫泉水滑洗凝脂；\n侍兒扶起嬌無力，\n始是新承恩澤時。",
+    "highlight_orig": [
+      "華清池"
+    ],
+    "text_en": "In the chill of spring he granted her a bath in the Huaqing pools,\nwhere the warm, smooth water washed her creamy skin;\nher maids helped her up, languid and weak:\nthis was when she first received the emperor's favour.",
+    "highlight_en": [
+      "the Huaqing pools"
+    ],
+    "text_zh": "春寒赐浴华清池，\n温泉水滑洗凝脂；\n侍儿扶起娇无力，\n始是新承恩泽时。",
+    "highlight_zh": [
+      "华清池"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 52323
+    },
+    "status": "draft",
+    "keep_breaks": true
+  },
+  {
+    "id": "cn-lzc-1",
+    "book_id": "liangzhou-song",
+    "place_ids": [
+      "cn-yumenguan"
+    ],
+    "location": "Three Hundred Tang Poems, No. 319",
+    "location_zh": "《唐诗三百首》第 319 首",
+    "text_orig": "黃河遠上白雲間，\n一片孤城萬仞山。\n羌笛何須怨楊柳，\n春風不度玉門關。",
+    "highlight_orig": [
+      "玉門關"
+    ],
+    "text_en": "The Yellow River climbs far up into the white clouds;\na lone fort stands among mountains ten thousand feet high.\nWhy should the Qiang flute lament the willows?\nThe spring wind never crosses the Jade Gate Pass.",
+    "highlight_en": [
+      "the Jade Gate Pass"
+    ],
+    "text_zh": "黄河远上白云间，\n一片孤城万仞山。\n羌笛何须怨杨柳，\n春风不度玉门关。",
+    "highlight_zh": [
+      "玉门关"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 52323
+    },
+    "status": "draft",
+    "keep_breaks": true
+  },
+  {
+    "id": "cn-bcx-1",
+    "book_id": "ballad-of-the-army-carts",
+    "place_ids": [
+      "cn-qinghai-lake"
+    ],
+    "location": "Three Hundred Tang Poems, No. 86",
+    "location_zh": "《唐诗三百首》第 86 首",
+    "text_orig": "君不見青海頭，\n古來白骨無人收？\n新鬼煩冤舊鬼哭，\n天陰雨濕聲啾啾。",
+    "highlight_orig": [
+      "青海頭"
+    ],
+    "text_en": "Have you not seen, by the shores of Kokonor,\nthe white bones from of old that no one has gathered?\nThe new ghosts rage at their wrongs, the old ghosts weep,\nand under dark wet skies their voices wail and wail.",
+    "highlight_en": [
+      "the shores of Kokonor"
+    ],
+    "text_zh": "君不见青海头，\n古来白骨无人收？\n新鬼烦冤旧鬼哭，\n天阴雨湿声啾啾。",
+    "highlight_zh": [
+      "青海头"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 52323
+    },
+    "status": "draft",
+    "keep_breaks": true
+  },
+  {
+    "id": "cn-tws-1",
+    "book_id": "general-history-of-taiwan",
+    "place_ids": [
+      "cn-chihkan-tower"
+    ],
+    "location": "Preface",
+    "location_zh": "序",
+    "text_orig": "臺灣固無史也，荷人啓之，鄭氏作之，清代營之，開物成務，以立我丕基，至於今三百有餘年矣。",
+    "highlight_orig": [
+      "臺灣"
+    ],
+    "text_en": "Taiwan had no history of its own. The Dutch began it, the Zheng family built it up, the Qing developed it; they opened up its resources and set its affairs in order, and laid our great foundation, and now more than three hundred years have passed.",
+    "highlight_en": [
+      "Taiwan"
+    ],
+    "text_zh": "台湾固无史也，荷人启之，郑氏作之，清代营之，开物成务，以立我丕基，至于今三百有余年矣。",
+    "highlight_zh": [
+      "台湾"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 25557
+    },
+    "status": "draft"
+  },
+  {
+    "id": "cn-qz-1",
+    "book_id": "seven-sons",
+    "place_ids": [
+      "cn-a-ma-temple"
+    ],
+    "location": "Macau",
+    "location_zh": "《澳门》",
+    "text_orig": "你可知「媽港」不是我的眞名姓？……\n我離開你的襁褓太久了，母親！\n但是他們擄去的是我的肉體，\n你依然保管着我內心的靈魂。\n三百年來夢寐不忘的生母啊！\n請叫兒的乳名，叫我一聲「澳門」！\n母親！我要囘來，母親！",
+    "highlight_orig": [
+      "媽港"
+    ],
+    "text_en": "Do you know that 'Macau' is not my real name? …\nI have been gone from your arms too long, Mother!\nThey carried off my body,\nbut you still keep my inmost soul.\nMother, whom I have dreamed of for three hundred years,\ncall me by my childhood name, call me 'Aomen'!\nMother! I want to come home, Mother!",
+    "highlight_en": [
+      "'Macau'"
+    ],
+    "text_zh": "你可知“妈港”不是我的真名姓？……\n我离开你的襁褓太久了，母亲！\n但是他们掳去的是我的肉体，\n你依然保管着我内心的灵魂。\n三百年来梦寐不忘的生母啊！\n请叫儿的乳名，叫我一声“澳门”！\n母亲！我要回来，母亲！",
+    "highlight_zh": [
+      "妈港"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "wikisource",
+      "url": "https://zh.wikisource.org/wiki/%E4%B8%83%E5%AD%90%E4%B9%8B%E6%AD%8C"
+    },
+    "status": "draft",
+    "keep_breaks": true
+  },
+  {
+    "id": "cn-lc-s1",
+    "kind": "scene",
+    "book_id": "lotus-creek",
+    "place_ids": [
+      "cn-baiyangdian"
+    ],
+    "location": "Lotus Creek",
+    "location_zh": "《荷花淀》",
+    "text_en": "Shuisheng's wife and four other young women row out across Baiyangdian to look for their husbands, who have joined the guerrillas, and, chased by a Japanese motor launch, hide their little boat deep in the lotus marsh, just where their husbands are lying in ambush.",
+    "text_zh": "水生嫂和另外四个年轻媳妇摇着小船穿过白洋淀去找参加了游击队的丈夫，被一只日本汽船追赶，她们把船划进荷花淀深处，正撞上丈夫们设下的埋伏。",
+    "highlight_en": [
+      "Baiyangdian"
+    ],
+    "highlight_zh": [
+      "白洋淀"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Sun_Li"
+  },
+  {
+    "id": "cn-lqm-s1",
+    "kind": "scene",
+    "book_id": "last-quarter-of-the-moon",
+    "place_ids": [
+      "cn-ergun"
+    ],
+    "location": "Morning, Noon, Dusk",
+    "location_zh": "上部、中部、尾声",
+    "text_en": "Sitting by the fire on the last night before her people move down from the mountains, the ninety-year-old wife of the last Evenki chieftain tells the story of her clan, the reindeer they followed through the forests on the right bank of the Argun, and the loves and deaths of a hundred years.",
+    "text_zh": "族人搬下山定居前的最后一夜，鄂温克最后一位酋长九十岁的妻子坐在火塘边，讲起她的氏族、他们跟着驯鹿在额尔古纳河右岸森林里迁徙的日子，以及一百年来的爱与死。",
+    "highlight_en": [
+      "the right bank of the Argun"
+    ],
+    "highlight_zh": [
+      "额尔古纳河右岸"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Last_Quarter_of_the_Moon"
+  },
+  {
+    "id": "cn-fe-s1",
+    "kind": "scene",
+    "book_id": "from-emperor-to-citizen",
+    "place_ids": [
+      "cn-fushun-prison"
+    ],
+    "location": "Chapter 6",
+    "location_zh": "第六章",
+    "text_en": "At the Fushun prison in the early 1950s the former emperor, who had never dressed himself, tries to wash his own clothes and mend his own socks, and is laughed at by his fellow prisoners, some of them his own relatives and servants.",
+    "text_zh": "50 年代初在抚顺战犯管理所，从没自己穿过衣服的前皇帝学着自己洗衣服、补袜子，被同监的犯人嘲笑，其中还有他自己的亲属和旧日仆从。",
+    "highlight_en": [
+      "Fushun"
+    ],
+    "highlight_zh": [
+      "抚顺"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Puyi"
+  },
+  {
+    "id": "cn-fe-s2",
+    "kind": "scene",
+    "book_id": "from-emperor-to-citizen",
+    "place_ids": [
+      "cn-manchukuo-palace"
+    ],
+    "location": "Chapter 4",
+    "location_zh": "第四章",
+    "text_en": "In the Changchun palace the 'emperor' of Manchukuo finds that every decree is drafted by the Japanese, and lives in such fear of them that he will not even leave the palace grounds.",
+    "text_zh": "在长春的宫里，“满洲国皇帝”发现每一道诏书都由日本人拟好，他对日本人怕到连宫门都不敢出。",
+    "highlight_en": [
+      "Changchun"
+    ],
+    "highlight_zh": [
+      "长春"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Puyi"
+  },
+  {
+    "id": "cn-hlh-s1",
+    "kind": "scene",
+    "book_id": "tales-of-hulan-river",
+    "place_ids": [
+      "cn-xiao-hong-residence"
+    ],
+    "location": "Chapter 3",
+    "location_zh": "第三章",
+    "text_en": "In the back garden of the family house in Hulan, the little girl follows her grandfather about as he hoes the vegetables, throws the seeds wherever she likes, mistakes the weeds for millet, and when she is tired falls asleep in the shade.",
+    "text_zh": "在呼兰老宅的后花园里，小女孩跟着锄地的祖父转来转去，把菜籽乱撒一气，把狗尾草当成谷穗，玩累了就在阴凉处睡着了。",
+    "highlight_en": [
+      "the back garden"
+    ],
+    "highlight_zh": [
+      "后花园"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Tales_of_Hulan_River"
+  },
+  {
+    "id": "cn-lfc-s1",
+    "kind": "scene",
+    "book_id": "love-in-a-fallen-city",
+    "place_ids": [
+      "cn-repulse-bay"
+    ],
+    "location": "Love in a Fallen City",
+    "location_zh": "《倾城之恋》",
+    "text_en": "Walking with Liuyuan beside a grey brick wall on the road below the Repulse Bay Hotel, Liusu hears him say that one day, when civilization has fallen, she might be true to him, at least for a moment.",
+    "text_zh": "在浅水湾饭店下面的路上，柳原和流苏走到一堵灰砖墙边，柳原说，有一天，等文明整个毁掉了，她也许会对他有一点真心。",
+    "highlight_en": [
+      "the Repulse Bay Hotel"
+    ],
+    "highlight_zh": [
+      "浅水湾饭店"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Love_in_a_Fallen_City"
+  },
+  {
+    "id": "cn-dg-s1",
+    "kind": "scene",
+    "book_id": "demi-gods-and-semi-devils",
+    "place_ids": [
+      "cn-three-pagodas"
+    ],
+    "location": "Chapters 10–11",
+    "location_zh": "第十至十一回",
+    "text_en": "At the Tianlong Temple in Dali, the monks of the royal Duan clan gather to defend the manual of the Six Meridians Divine Sword when the Tibetan monk Jiumozhi arrives to demand it, and the young prince Duan Yu discovers he can wield the sword himself.",
+    "text_zh": "大理天龙寺里，段氏皇族的高僧们聚在一起，守护六脉神剑剑谱，吐蕃国师鸠摩智上门强索，年轻的段誉发现自己竟能使出六脉神剑。",
+    "highlight_en": [
+      "the Tianlong Temple"
+    ],
+    "highlight_zh": [
+      "天龙寺"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Demi-Gods_and_Semi-Devils"
+  },
+  {
+    "id": "cn-dg-s2",
+    "kind": "scene",
+    "book_id": "demi-gods-and-semi-devils",
+    "place_ids": [
+      "cn-shaolin"
+    ],
+    "location": "Chapters 41–43",
+    "location_zh": "第四十一至四十三回",
+    "text_en": "At the Shaolin Monastery, a nameless old monk who sweeps the scripture library steps out of the shadows and, in front of the assembled heroes, ends the feud between Xiao Feng, his father and Murong Bo.",
+    "text_zh": "在少林寺，藏经阁里一位无名扫地老僧从暗处现身，当着天下英雄的面，化解了萧峰父子与慕容博之间的恩怨。",
+    "highlight_en": [
+      "the Shaolin Monastery"
+    ],
+    "highlight_zh": [
+      "少林寺"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Demi-Gods_and_Semi-Devils"
+  },
+  {
+    "id": "cn-ch-s1",
+    "kind": "scene",
+    "book_id": "legend-of-the-condor-heroes",
+    "place_ids": [
+      "cn-mount-hua"
+    ],
+    "location": "Chapter 39–40",
+    "location_zh": "第三十九至四十回",
+    "text_en": "On the snowy summit of Mount Hua, Hong Qigong, Huang Yaoshi and Ouyang Feng meet for the second contest of swordplay to decide the greatest fighter under heaven, and the young Guo Jing is made to fight each of them in turn.",
+    "text_zh": "雪中的华山之巅，洪七公、黄药师、欧阳锋相约第二次华山论剑，争夺“天下第一”的名号，年轻的郭靖被拉进来，和三人轮番过招。",
+    "highlight_en": [
+      "Mount Hua"
+    ],
+    "highlight_zh": [
+      "华山"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Legend_of_the_Condor_Heroes"
+  },
+  {
+    "id": "cn-ma-s1",
+    "kind": "scene",
+    "book_id": "my-altay",
+    "place_ids": [
+      "cn-altay"
+    ],
+    "location": "My Altay",
+    "location_zh": "《我的阿勒泰》",
+    "text_en": "Helping in her mother's little shop in a Kazakh village in the Altay, the young narrator watches the herders come down from the mountains to buy flour and thread, listens to them haggle in a language she barely knows, and follows them up to the summer pastures.",
+    "text_zh": "在阿勒泰一个哈萨克村子里，年轻的“我”帮母亲照看小卖部，看牧民从山上下来买面粉和线，听他们用她几乎听不懂的话讨价还价，后来跟着他们上了夏牧场。",
+    "highlight_en": [
+      "Altay"
+    ],
+    "highlight_zh": [
+      "阿勒泰"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Li_Juan_(writer)"
+  },
+  {
+    "id": "cn-ga-s1",
+    "kind": "scene",
+    "book_id": "golden-age",
+    "place_ids": [
+      "cn-longchuan"
+    ],
+    "location": "Chapter 1",
+    "location_zh": "第一章",
+    "text_en": "Wang Er, a twenty-one-year-old sent-down youth on a farm in the hills of Yunnan, is asked by the farm doctor Chen Qingyang to prove that she is not what everyone calls her; when the affair that follows comes out, the two of them are made to write confession after confession.",
+    "text_zh": "二十一岁的知青王二在云南山里的农场插队，队医陈清扬找他证明自己不是别人说的那种人；两人后来的事被发现，他们被叫去没完没了地写交代材料。",
+    "highlight_en": [
+      "Yunnan"
+    ],
+    "highlight_zh": [
+      "云南"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Wang_Xiaobo"
+  },
+  {
+    "id": "cn-ses-s1",
+    "kind": "scene",
+    "book_id": "song-of-everlasting-sorrow-novel",
+    "place_ids": [
+      "cn-tianzifang"
+    ],
+    "location": "Part 1",
+    "location_zh": "第一部",
+    "text_en": "The novel begins high above Shanghai, looking down on the sea of lane-house roofs, before it comes to Wang Qiyao, a girl of the lanes who is placed third in the 1946 Miss Shanghai contest and lives out the next forty years in the city's longtang.",
+    "text_zh": "小说从高处俯瞰上海一片片弄堂的屋顶写起，然后才写到王琦瑶：这个弄堂里长大的女孩 1946 年选上“上海小姐”第三名，此后四十年都在上海的弄堂里度过。",
+    "highlight_en": [
+      "the city's longtang"
+    ],
+    "highlight_zh": [
+      "上海的弄堂"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Song_of_Everlasting_Sorrow_(novel)"
+  },
+  {
+    "id": "cn-fw-s1",
+    "kind": "scene",
+    "book_id": "flowers-of-war",
+    "place_ids": [
+      "cn-ginling-college"
+    ],
+    "location": "The Flowers of War",
+    "location_zh": "《金陵十三钗》",
+    "text_en": "In December 1937, as Japanese troops take Nanjing, convent schoolgirls sheltering in an American church are joined by thirteen courtesans from the Qinhuai River; when soldiers come to take the girls, the courtesans dress as schoolgirls and go in their place.",
+    "text_zh": "1937 年 12 月日军攻入南京，躲在一座美国教堂里的女学生中间，闯进来十三个秦淮河的妓女；日本兵来要带走女学生时，她们换上学生装，替女孩们去了。",
+    "highlight_en": [
+      "Nanjing"
+    ],
+    "highlight_zh": [
+      "南京"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Minnie_Vautrin"
+  },
+  {
+    "id": "cn-te-s1",
+    "kind": "scene",
+    "book_id": "temple-of-earth-and-i",
+    "place_ids": [
+      "cn-temple-of-earth"
+    ],
+    "location": "The Temple of Earth and I",
+    "location_zh": "《我与地坛》",
+    "text_en": "Year after year the young man wheels himself into the deserted garden of the old altar and sits among the cypresses thinking about whether and how to live, while his mother, too anxious to stay at home, walks the park looking for him without ever letting him see her.",
+    "text_zh": "年复一年，年轻人摇着轮椅进入荒芜的古园，坐在柏树下想该不该活、该怎样活；他的母亲在家坐不住，悄悄到园子里找他，又从不让他看见。",
+    "highlight_en": [
+      "the old altar"
+    ],
+    "highlight_zh": [
+      "古园"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Shi_Tiesheng"
+  },
+  {
+    "id": "cn-cb-s1",
+    "kind": "scene",
+    "book_id": "crystal-boys",
+    "place_ids": [
+      "cn-228-park"
+    ],
+    "location": "Part 1",
+    "location_zh": "第一部",
+    "text_en": "Thrown out of home by his father, Li Qing finds his way to the lotus pond in Taipei's New Park, where boys like him gather at night in a hidden kingdom with its own rules, and where they look after one another.",
+    "text_zh": "被父亲赶出家门的李青来到台北新公园的莲花池边，加入夜里聚在这里的少年们，那是一个有自己规矩、只在黑夜里存在的王国，他们在这里互相照应。",
+    "highlight_en": [
+      "New Park"
+    ],
+    "highlight_zh": [
+      "新公园"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Crystal_Boys"
+  },
+  {
+    "id": "cn-mob-s1",
+    "kind": "scene",
+    "book_id": "memories-of-old-beijing",
+    "place_ids": [
+      "cn-lin-haiyin-residence"
+    ],
+    "location": "Hui'an Guild Hall",
+    "location_zh": "《惠安馆》",
+    "text_en": "Little Yingzi makes friends with Xiuzhen, the 'madwoman' of the Hui'an Guild Hall at the end of the lane, who is still waiting for the student lover who left her and the baby who was taken from her, and Yingzi comes to see that her playmate Niuer is that lost child.",
+    "text_zh": "小英子和胡同口惠安馆里的“疯子”秀贞交上了朋友。秀贞一直在等离开她的大学生，等被人抱走的孩子，英子慢慢发现，自己的小伙伴妞儿就是那个孩子。",
+    "highlight_en": [
+      "the Hui'an Guild Hall"
+    ],
+    "highlight_zh": [
+      "惠安馆"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Lin_Haiyin"
+  },
+  {
+    "id": "cn-bt-s1",
+    "kind": "scene",
+    "book_id": "border-town",
+    "place_ids": [
+      "cn-chadong"
+    ],
+    "location": "Chapter 1",
+    "location_zh": "第一章",
+    "text_en": "Where the old road from Sichuan into Hunan reaches the little hill town of Chadong, a stream runs below a small white pagoda, and beside it lives a household of three: an old ferryman, his granddaughter Cuicui and a yellow dog. The old man hauls travellers across on a rope ferry and will not take their money; when someone presses it on him, he gives it back.",
+    "text_zh": "从四川进湖南的官路，到湘西边境一个叫茶峒的小山城，有一条小溪，溪边一座白色小塔，塔下住着一户人家：一个摆渡的老人、他的孙女翠翠和一条黄狗。老人拉着横跨溪面的缆绳渡人过河，不肯收钱，有人硬塞，他也要还回去。",
+    "highlight_en": [
+      "Chadong"
+    ],
+    "highlight_zh": [
+      "茶峒"
+    ],
+    "status": "draft",
+    "fact_source": "https://www.hunantoday.cn/news/xhn/202604/31913405.html"
+  },
+  {
+    "id": "cn-bt-s2",
+    "kind": "scene",
+    "book_id": "border-town",
+    "place_ids": [
+      "cn-chadong"
+    ],
+    "location": "Chapters 3–6",
+    "location_zh": "第三至六章",
+    "text_en": "At the Dragon Boat Festival the whole of Chadong crowds the riverbank to watch the boat races and the men diving after ducks. Still waiting for her grandfather by the river after dark, Cuicui meets Nuosong, the second son of the boat-master, who sends a man with a torch to see her home; from then on she carries him in her heart.",
+    "text_zh": "端午节，茶峒全城的人挤到河边看龙舟竞渡、看人下水捉鸭子。翠翠天黑了还在河边等爷爷，遇见船总的二儿子傩送，他叫人打着火把送她回家，从此她心里就有了这个人。",
+    "highlight_en": [
+      "the Dragon Boat Festival"
+    ],
+    "highlight_zh": [
+      "端午节"
+    ],
+    "status": "draft",
+    "fact_source": "https://www.hunantoday.cn/news/xhn/202604/31913405.html"
+  },
+  {
+    "id": "cn-bt-s3",
+    "kind": "scene",
+    "book_id": "border-town",
+    "place_ids": [
+      "cn-chadong"
+    ],
+    "location": "Chapters 19–21",
+    "location_zh": "第十九至二十一章",
+    "text_en": "On a night of thunder and rain the white pagoda by the stream falls, and by morning the old ferryman is dead. Cuicui keeps the ferry on her own, waiting for Nuosong, who has gone away down the river; no one knows when he will come back, or whether he ever will.",
+    "text_zh": "一个雷雨夜，溪边的白塔塌了，天亮时摆渡的老人已经死去。翠翠独自守着渡船，等那个顺着河下去了的傩送，没人知道他什么时候回来，也许再也不回来。",
+    "highlight_en": [
+      "white pagoda"
+    ],
+    "highlight_zh": [
+      "白塔"
+    ],
+    "status": "draft",
+    "fact_source": "https://www.hunantoday.cn/news/xhn/202604/31913405.html"
+  }
+]
