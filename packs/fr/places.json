@@ -1,17 +1,5 @@
 [
   {
-    "id": "fr-saumur",
-    "name": "Old town, Saumur",
-    "name_zh": "索米尔 · 老城",
-    "lat": 47.26,
-    "lon": -0.0769,
-    "place_type": "original",
-    "note_en": "Old Grandet, the most famous miser in all of literature, lives in this Loire Valley town. Eugénie Grandet opens with Balzac walking us up the steep street to the château, past old timber houses with grotesque faces carved into their beams. The Grandet house itself is made up, but the street and the old town below the château are still here",
-    "note": "文学史上最有名的吝啬鬼老葛朗台就住在这座卢瓦尔河小城。《欧也妮·葛朗台》开篇，巴尔扎克带读者走上从城里通向城堡的陡街，看两旁雕着怪脸的木梁老屋。葛朗台家是虚构的，但那条街和城堡下的老城都还在",
-    "coord_checked": "Old town, Saumur — https://en.wikipedia.org/wiki/Saumur",
-    "fact_source": "https://en.wikipedia.org/wiki/Saumur; https://www.gutenberg.org/ebooks/11049"
-  },
-  {
     "id": "fr-angouleme",
     "name": "Upper and lower towns, Angoulême",
     "name_zh": "昂古莱姆 · 上城与下城",
@@ -49,7 +37,10 @@
     "coord_checked": "Illiers-Combray — https://en.wikipedia.org/wiki/Illiers-Combray",
     "fact_source": "https://www.amisdeproust.fr/en/maison-de-tante-leonie/the-house",
     "prototype_of": "《追忆似水年华》贡布雷的原型：普鲁斯特童年在姑妈家过复活节假期的小城。1971 年普鲁斯特百年诞辰时，伊利耶正式改名伊利耶-贡布雷，这是法国唯一一座以小说里的地名改名的城镇",
-    "prototype_of_en": "Illiers is the real Combray from In Search of Lost Time. As a boy, Proust spent his Easter holidays here with his aunt. In 1971, to mark the hundredth anniversary of his birth, the town officially renamed itself Illiers-Combray. It's the only town in France to take its name from a place in a novel"
+    "prototype_of_en": "Illiers is the real Combray from In Search of Lost Time. As a boy, Proust spent his Easter holidays here with his aunt. In 1971, to mark the hundredth anniversary of his birth, the town officially renamed itself Illiers-Combray. It's the only town in France to take its name from a place in a novel",
+    "book_ids": [
+      "fr-time-regained"
+    ]
   },
   {
     "id": "fr-illiers-church",
@@ -87,7 +78,10 @@
     "note_en": "Rouen is Flaubert's hometown, and the big city Emma Bovary dreams about. She meets Léon at the cathedral, and then the two of them spend an entire afternoon riding around town in a cab with the blinds pulled down. That scene was one of the reasons the novel was put on trial for obscenity in 1857. The hospital where Flaubert was born is now a museum about him and the history of medicine",
     "note": "福楼拜的故乡，也是《包法利夫人》里爱玛向往的“大城市”。她和莱昂在大教堂约会，随后坐进一辆拉上窗帘的马车在城里兜了一下午——这一幕让小说 1857 年被告上法庭。福楼拜出生的市立医院现为福楼拜与医学史博物馆",
     "coord_checked": "Rouen — https://en.wikipedia.org/wiki/Rouen",
-    "fact_source": "https://en.wikipedia.org/wiki/Rouen; https://www.gutenberg.org/ebooks/14155"
+    "fact_source": "https://en.wikipedia.org/wiki/Rouen; https://www.gutenberg.org/ebooks/14155",
+    "book_ids": [
+      "fr-boule-de-suif"
+    ]
   },
   {
     "id": "fr-ry-yonville",
@@ -172,22 +166,13 @@
     "lat": 49.3683,
     "lon": 0.0825,
     "place_type": "original",
-    "note_en": "In the 1800s, Trouville was the most fashionable beach in Normandy. In Pierre and Jean, Pierre arrives by boat and sees the beach covered in colorful umbrellas, like a flower garden. Years earlier, in 1836, a fourteen-year-old Flaubert met Madame Schlésinger on this beach. He loved her for the rest of his life and put that love into Sentimental Education",
-    "note": "十九世纪最时髦的诺曼底海滩。《皮埃尔与让》里皮埃尔坐船来到这里，远看满滩彩色阳伞像一座花园。更早的 1836 年，十四岁的福楼拜在这片海滩上遇见施莱辛格夫人，从此爱了她一辈子，后来写进了《情感教育》",
+    "note_en": "In the 1800s Trouville was the most fashionable beach in Normandy. In 1836 the fourteen-year-old Flaubert met Élisa Schlésinger, eleven years older than he was, on this beach and loved her for the rest of his life; more than thirty years later she became Madame Arnoux in Sentimental Education. The boardwalk and the nineteenth-century villas along the sea are still there",
+    "note": "十九世纪最时髦的诺曼底海滩。1836 年，十四岁的福楼拜在这片海滩上遇见比他大十一岁的施莱辛格夫人，从此爱了她一辈子，三十多年后把她写成了《情感教育》里的阿尔努夫人。海边的木板栈道和十九世纪的别墅都还在",
     "coord_checked": "Trouville-sur-Mer beach — https://en.wikipedia.org/wiki/Trouville-sur-Mer",
-    "fact_source": "https://en.wikipedia.org/wiki/Trouville-sur-Mer; https://www.gutenberg.org/ebooks/11131"
-  },
-  {
-    "id": "fr-cap-de-la-heve",
-    "name": "Cap de la Hève lighthouse site",
-    "name_zh": "圣阿德雷斯 · 拉埃沃角灯塔旧址",
-    "lat": 49.5125,
-    "lon": 0.0692,
-    "place_type": "original",
-    "note_en": "In Pierre and Jean, Pierre walks along the harbor at night, troubled, and watches the twin electric lighthouses on Cap de la Hève sweep the sea like a pair of one-eyed giants. Those twin towers are gone now, but a lighthouse still stands on the cliff nearby",
-    "note": "《皮埃尔与让》里，心事重重的皮埃尔夜里在勒阿弗尔港边散步，看拉埃沃角上那对电灯灯塔像两个独眼巨人照着海面。那对双塔已经不在，今天的灯塔立在原处附近的悬崖上",
-    "coord_checked": "Cap de la Hève lighthouse site — https://fr.wikipedia.org/wiki/Phare_de_la_H%C3%A8ve",
-    "fact_source": "https://fr.wikipedia.org/wiki/Phare_de_la_H%C3%A8ve; https://www.gutenberg.org/ebooks/11131"
+    "fact_source": "https://en.wikipedia.org/wiki/Trouville-sur-Mer; https://www.gutenberg.org/ebooks/11131",
+    "book_ids": [
+      "fr-sentimental-education"
+    ]
   },
   {
     "id": "fr-le-havre",
@@ -196,8 +181,8 @@
     "lat": 49.49,
     "lon": 0.1,
     "place_type": "original",
-    "note_en": "Pierre and Jean takes place in Le Havre. An unexpected inheritance drives a wedge between two brothers, and as Pierre wanders among the lights of the port, he slowly figures out his mother's secret. Maupassant grew up nearby in Étretat and wrote about this port city as if it were his own backyard",
-    "note": "《皮埃尔与让》的故事发生在勒阿弗尔：一笔意外的遗产让兄弟俩反目，哥哥皮埃尔在港口的灯火之间一点点猜出了母亲的秘密。莫泊桑在附近的埃特雷塔长大，把这座港城写得像自己家门口",
+    "note_en": "In Manon Lescaut, Manon is marched to Le Havre with other 'women of pleasure' to be shipped off to America, and the Chevalier des Grieux follows the convoy all the way and boards the ship with her. The port was almost flattened in the Second World War and rebuilt in concrete by the architect Auguste Perret; its centre is a World Heritage site",
+    "note": "《曼侬·莱斯科》里，曼侬作为“风流女子”被押往勒阿弗尔，要从这里装船流放到美洲，骑士德·格里厄一路跟着押送的队伍，最后陪她一起上了船。港口城市在二战中几乎被炸平，战后由建筑师佩雷用混凝土重建，市中心被列为世界遗产",
     "coord_checked": "Le Havre harbour — https://en.wikipedia.org/wiki/Le_Havre",
     "fact_source": "https://en.wikipedia.org/wiki/Le_Havre; https://www.gutenberg.org/ebooks/11131"
   },
@@ -437,7 +422,6 @@
     "coord_checked": "Château de Saché, Balzac Museum — https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Sach%C3%A9",
     "fact_source": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Sach%C3%A9",
     "book_ids": [
-      "fr-eugenie-grandet",
       "fr-lost-illusions"
     ]
   },
@@ -448,12 +432,13 @@
     "lat": 46.625,
     "lon": 1.9756,
     "place_type": "pilgrimage",
-    "note_en": "George Sand spent most of her life at Nohant, and her house was one of the liveliest artistic gathering places in nineteenth-century France. Chopin spent seven summers here and wrote many of his greatest pieces, and Liszt, Delacroix, Balzac, and Flaubert all came to stay. The house still has her dining table, her study, and the puppet theater her son built",
-    "note": "乔治·桑在诺昂度过了大半生，这里是十九世纪法国最热闹的文艺沙龙之一：肖邦在这里度过七个夏天、写下许多名作，李斯特、德拉克洛瓦、巴尔扎克、福楼拜都来做过客。故居保留着她的餐桌、书房和她儿子做的木偶剧场",
+    "note_en": "George Sand spent most of her life at Nohant, and her country novels, The Devil's Pool and Little Fadette, are about the peasants of the surrounding Berry countryside. Her house was also one of the liveliest artistic salons of nineteenth-century France: Chopin spent seven summers here, and Liszt, Delacroix, Balzac and Flaubert all came to stay. The dining table, her study and the puppet theatre her son built are all still there",
+    "note": "乔治·桑在诺昂度过了大半生，《魔沼》《小法岱特》这些田园小说写的都是周围贝里乡间的农民。这里也是十九世纪法国最热闹的文艺沙龙之一：肖邦在这里度过七个夏天，李斯特、德拉克洛瓦、巴尔扎克、福楼拜都来做过客。故居保留着她的餐桌、书房和她儿子做的木偶剧场",
     "coord_checked": "House of George Sand, Nohant — https://en.wikipedia.org/wiki/House_of_George_Sand",
     "fact_source": "https://en.wikipedia.org/wiki/House_of_George_Sand",
     "book_ids": [
-      "fr-the-devils-pool"
+      "fr-the-devils-pool",
+      "fr-little-fadette"
     ]
   },
   {
@@ -562,7 +547,10 @@
     "note_en": "In Les Misérables Marius walks in the Luxembourg Garden every day, and at the end of a quiet path he notices an old white-haired man and his daughter, Jean Valjean and Cosette. A year later Cosette has grown into a beautiful young woman, they exchange one look under the chestnut trees, and Marius falls in love. You can drag the park's green metal chairs into any patch of shade you like; the Medici Fountain is the quietest corner",
     "note": "《悲惨世界》里马吕斯天天来卢森堡公园散步，在一条僻静的小径尽头注意到一位白发老人和他的女儿——就是冉阿让和珂赛特。一年后再见，珂赛特已经长成美丽的少女，两人在栗树下交换了一个眼神，马吕斯就此坠入爱河。公园里的绿色铁椅可以随便搬到树荫下坐，美第奇喷泉一带最安静",
     "coord_checked": "Luxembourg Gardens, Paris — https://en.wikipedia.org/wiki/Jardin_du_Luxembourg",
-    "fact_source": "https://en.wikipedia.org/wiki/Jardin_du_Luxembourg ; https://www.gutenberg.org/ebooks/17494"
+    "fact_source": "https://en.wikipedia.org/wiki/Jardin_du_Luxembourg ; https://www.gutenberg.org/ebooks/17494",
+    "book_ids": [
+      "fr-the-ambassadors"
+    ]
   },
   {
     "id": "fr-marseille-old-port",
@@ -638,12 +626,13 @@
     "lat": 49.7025,
     "lon": 0.2138,
     "place_type": "pilgrimage",
-    "note_en": "Maupassant grew up in Étretat on the Normandy coast, and once he was famous he built himself a villa here, La Guillette, where he spent his summers writing. His well-known essay on the novel that opens Pierre and Jean is signed 'La Guillette, Étretat, September 1887', while the novel itself takes place in Le Havre, a few dozen kilometers away. The villa still stands, a few minutes' walk from the white cliffs Monet painted again and again",
-    "note": "莫泊桑在诺曼底海边的埃特雷塔长大，成名后在这里盖了自己的别墅“吉耶特”，夏天就在这里写作。《皮埃尔与让》卷首那篇著名的小说论《论小说》，结尾就署着“吉耶特别墅，埃特雷塔，1887 年 9 月”，小说本身则发生在几十公里外的勒阿弗尔。别墅还在，离莫奈画过无数次的白色悬崖只有几分钟路",
+    "note_en": "Maupassant grew up in Étretat on the Normandy coast, and once he was famous he built his own villa here, La Guillette, and spent his summers writing in it. His first novel, A Woman's Life, follows a young noblewoman's disillusioned life on this coast, with walks along the cliffs to nearby Yport; Bel-Ami follows a penniless ex-soldier who climbs through Paris journalism by way of women. The villa is still there, a few minutes from the white cliffs Monet painted again and again",
+    "note": "莫泊桑在诺曼底海边的埃特雷塔长大，成名后在这里盖了自己的别墅“吉耶特”，夏天就在这里写作。他的第一部长篇《一生》写诺曼底海边一个贵族女子幻灭的一生，女主人公常沿着悬崖走到附近的伊波尔；《漂亮朋友》写一个穷军官靠女人在巴黎报界往上爬。别墅还在，离莫奈画过无数次的白色悬崖只有几分钟路",
     "coord_checked": "Villa La Guillette, Étretat — https://fr.wikipedia.org/wiki/Villa_La_Guillette",
     "fact_source": "https://pop.culture.gouv.fr/notice/merimee/PA76000101 ; https://www.gutenberg.org/ebooks/11131",
     "book_ids": [
-      "fr-pierre-and-jean"
+      "fr-a-womans-life",
+      "fr-bel-ami"
     ]
   },
   {
@@ -822,5 +811,640 @@
       "fr-year-in-provence"
     ],
     "fact_source": "https://en.wikipedia.org/wiki/A_Year_in_Provence"
+  },
+  {
+    "id": "fr-la-deviniere",
+    "name": "La Devinière, Rabelais Museum, Seuilly",
+    "name_zh": "瑟伊 · 拉德维尼耶尔（拉伯雷博物馆）",
+    "lat": 47.14062,
+    "lon": 0.17833,
+    "place_type": "pilgrimage",
+    "note": "拉伯雷据说就出生在希农附近的这座农庄，《巨人传》第一部里的毕克罗壳战争就打在农庄周围这几块地上，书里的小地名在这里都找得到。现在是拉伯雷博物馆，石砌农舍、鸽舍和葡萄园还在，从院子能望见对面山坡上的瑟伊修道院",
+    "note_en": "Rabelais is said to have been born at this farm near Chinon, and the Picrocholine War in the first book of Gargantua and Pantagruel is fought over the fields around it; the little place names of the book can all be found here. It is now the Rabelais Museum, with the stone farmhouse, dovecote and vineyard, and from the yard you can see the abbey of Seuilly on the slope opposite",
+    "coord_checked": "Musée Rabelais, Maison La Devinière (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Musée_Rabelais,_Maison_La_Devinière",
+    "book_ids": [
+      "fr-gargantua"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Rabelais"
+  },
+  {
+    "id": "fr-chateau-montaigne",
+    "name": "Château de Montaigne and its tower library",
+    "name_zh": "蒙田城堡（书塔）",
+    "lat": 44.878333,
+    "lon": 0.03,
+    "place_type": "pilgrimage",
+    "note": "蒙田 38 岁辞去法官职务，回到家族城堡，在一座圆塔三楼的书房里写了二十年《随笔集》，天花板的木梁上刻满了他喜欢的希腊和拉丁格言。城堡主楼 1885 年毁于大火后重建，但这座书塔躲过一劫，至今可以登上去看那些格言",
+    "note_en": "At thirty-eight Montaigne gave up his post as a magistrate and came home to the family château, where he spent twenty years writing the Essays in a library on the third floor of a round tower, its ceiling beams carved with his favourite Greek and Latin maxims. The main house burned in 1885 and was rebuilt, but the tower survived, and you can still climb up to read the beams",
+    "coord_checked": "Château de Montaigne (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Château_de_Montaigne",
+    "book_ids": [
+      "fr-essays"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Michel_de_Montaigne"
+  },
+  {
+    "id": "fr-comedie-francaise",
+    "name": "Comédie-Française, Salle Richelieu, Paris",
+    "name_zh": "巴黎 · 法兰西喜剧院",
+    "lat": 48.863611,
+    "lon": 2.335833,
+    "place_type": "pilgrimage",
+    "note": "法兰西喜剧院 1680 年由莫里哀的剧团和另一家剧团合并而成，至今被叫作“莫里哀之家”，《伪君子》《恨世者》《无病呻吟》都是常演剧目。1673 年莫里哀主演《无病呻吟》第四场时病倒，当晚去世；他当时坐的那把扶手椅就保存在这座剧院里",
+    "note_en": "The Comédie-Française was formed in 1680 from Molière's company and a rival troupe, and it is still called 'the House of Molière'; Tartuffe, The Misanthrope and The Imaginary Invalid are always in its repertoire. In 1673 Molière collapsed while playing the lead in the fourth performance of The Imaginary Invalid and died that night; the armchair he sat in on stage is kept in the theatre",
+    "coord_checked": "Salle Richelieu (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Salle_Richelieu",
+    "book_ids": [
+      "fr-tartuffe",
+      "fr-misanthrope",
+      "fr-imaginary-invalid"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Com%C3%A9die-Fran%C3%A7aise"
+  },
+  {
+    "id": "fr-la-fontaine-museum",
+    "name": "Jean de La Fontaine Museum, Château-Thierry",
+    "name_zh": "蒂耶里堡 · 拉封丹故居",
+    "lat": 49.04675,
+    "lon": 3.399994,
+    "place_type": "pilgrimage",
+    "note": "拉封丹 1621 年生在蒂耶里堡的这座宅子里，后来在这一带做了多年管河流森林的官，《寓言诗》里的狐狸、乌鸦、狼和羊，不少就来自他熟悉的香槟乡间。故居现在是拉封丹博物馆，收藏着历代画家为寓言画的插图",
+    "note_en": "La Fontaine was born in this house in Château-Thierry in 1621 and later spent years here as a royal officer in charge of rivers and forests; many of the foxes, crows, wolves and sheep of his Fables come from the Champagne countryside he knew. The house is now the La Fontaine Museum, with illustrations of the fables by painters down the centuries",
+    "coord_checked": "Musée Jean de La Fontaine (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Musée_Jean_de_La_Fontaine",
+    "book_ids": [
+      "fr-fables"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Jean_de_La_Fontaine"
+  },
+  {
+    "id": "fr-racine-ferte-milon",
+    "name": "Racine's childhood home, La Ferté-Milon",
+    "name_zh": "拉费泰米隆 · 拉辛童年故居",
+    "lat": 49.174813,
+    "lon": 3.126858,
+    "place_type": "pilgrimage",
+    "note": "拉辛 1639 年生在拉费泰米隆，幼年父母双亡，在祖父母的这座房子里长大，后来进了冉森派的波尔-罗亚尔修道院读书。《费德尔》是他最后一部世俗悲剧，写王后对继子无法自拔的爱。这座房子现在是拉辛博物馆",
+    "note_en": "Racine was born in La Ferté-Milon in 1639, lost both parents as a small child and grew up in this house of his grandparents before being schooled by the Jansenists of Port-Royal. Phèdre, the queen's helpless passion for her stepson, was the last tragedy he wrote for the public stage. The house is now the Racine Museum",
+    "coord_checked": "Maison d'enfance de Jean Racine (La Ferté-Milon) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Maison_d'enfance_de_Jean_Racine_(La_Ferté-Milon)",
+    "book_ids": [
+      "fr-phedre"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Jean_Racine"
+  },
+  {
+    "id": "fr-coulommiers",
+    "name": "Château de Coulommiers",
+    "name_zh": "库洛米耶城堡",
+    "lat": 48.8247,
+    "lon": 3.10667,
+    "place_type": "original",
+    "note": "《克莱芙王妃》最有名的一场就在库洛米耶：王妃躲到乡下的城堡，内穆尔公爵打猎迷路，摸到花园里的小楼，偷听到她向丈夫坦白自己爱上了别人，而那人正是他。城堡是 17 世纪的真实建筑，主体早已拆毁，如今剩下残垣和环绕护城河的公园",
+    "note_en": "The most famous scene in The Princess of Clèves happens at Coulommiers: the princess has retreated to the château, and the Duc de Nemours, lost while hunting, finds his way to a pavilion in the garden and overhears her confess to her husband that she loves another man, Nemours himself. The château was a real seventeenth-century building; most of it was pulled down long ago, and ruins and a moated park remain",
+    "coord_checked": "Château de Coulommiers-en-Brie (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Château_de_Coulommiers-en-Brie",
+    "book_ids": [
+      "fr-princesse-de-cleves"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/The_Princess_of_Cl%C3%A8ves"
+  },
+  {
+    "id": "fr-ferney",
+    "name": "Château de Voltaire, Ferney-Voltaire",
+    "name_zh": "费尔奈-伏尔泰 · 伏尔泰城堡",
+    "lat": 46.2574,
+    "lon": 6.1036,
+    "place_type": "pilgrimage",
+    "note": "伏尔泰 1758 年买下紧挨日内瓦边境的费尔奈庄园，第二年出版《老实人》，此后在这里住了近二十年，把一个小村建成了小城，村子后来改名叫“费尔奈-伏尔泰”。小说结尾那句“还是种我们的园子要紧”，正像他在这里的晚年。城堡和花园对外开放",
+    "note_en": "Voltaire bought the Ferney estate, right on the border with Geneva, in 1758, published Candide the following year and lived here for nearly twenty years, turning a hamlet into a small town that later renamed itself Ferney-Voltaire. The novel's last line, 'let us cultivate our garden', fits his old age here. The château and its gardens are open to visitors",
+    "coord_checked": "Château de Ferney-Voltaire (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Château_de_Ferney-Voltaire",
+    "book_ids": [
+      "fr-candide"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Voltaire"
+  },
+  {
+    "id": "fr-ile-d-aix",
+    "name": "Île-d'Aix",
+    "name_zh": "艾克斯岛",
+    "lat": 46.015,
+    "lon": -1.175,
+    "place_type": "pilgrimage",
+    "note": "拉克洛是炮兵军官，1779 年被派到大西洋上的艾克斯岛修筑防御工事，在驻守的空闲里写成了书信体小说《危险关系》，1782 年一出版就轰动巴黎。这座小岛至今不通汽车，岛上保留着要塞城墙和护城河，拿破仑最后离开法国前也在岛上住过几天",
+    "note_en": "Laclos, an artillery officer, was posted in 1779 to the Atlantic island of Aix to build its fortifications, and in the idle hours of garrison life he wrote the letters of Dangerous Liaisons, a sensation in Paris when it appeared in 1782. The island still has no cars, and its ramparts and moats survive; Napoleon spent his last days on French soil here",
+    "coord_checked": "Île-d'Aix (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Île-d'Aix",
+    "book_ids": [
+      "fr-dangerous-liaisons"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Pierre_Choderlos_de_Laclos",
+    "offshore_island": true
+  },
+  {
+    "id": "fr-odeon",
+    "name": "Théâtre de l'Odéon, Paris",
+    "name_zh": "巴黎 · 奥德翁剧院",
+    "lat": 48.8495,
+    "lon": 2.33875,
+    "place_type": "original",
+    "note": "《费加罗的婚礼》被路易十六禁演多年，1784 年 4 月终于在刚落成的法兰西剧院首演，观众挤破了门，一连演了几十场，后来被看作大革命的前奏。那座剧院就是今天的奥德翁剧院，新古典主义的柱廊对着卢森堡公园",
+    "note_en": "Louis XVI kept The Marriage of Figaro off the stage for years; when it finally opened in April 1784 at the newly built Théâtre-Français, crowds broke down the doors, it ran for dozens of nights, and it came to be seen as a prelude to the Revolution. That theatre is today's Odéon, its neoclassical portico facing the Luxembourg Gardens",
+    "coord_checked": "Théâtre de l'Odéon (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Théâtre_de_l'Odéon",
+    "book_ids": [
+      "fr-marriage-of-figaro"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/The_Marriage_of_Figaro_(play)"
+  },
+  {
+    "id": "fr-langres-diderot",
+    "name": "Maison des Lumières Denis Diderot, Langres",
+    "name_zh": "朗格勒 · 狄德罗启蒙之家",
+    "lat": 47.866582,
+    "lon": 5.331652,
+    "place_type": "pilgrimage",
+    "note": "狄德罗 1713 年生在朗格勒，是刀匠的儿子，后来主编了改变欧洲的《百科全书》。《宿命论者雅克》写仆人雅克和主人一路骑马闲聊，故事一个打断一个。城里的布勒伊宅邸现在是狄德罗启蒙之家博物馆，广场上还有他的雕像",
+    "note_en": "Diderot was born in Langres in 1713, the son of a cutler, and went on to edit the Encyclopédie that changed Europe. Jacques the Fatalist follows a servant and his master chatting on horseback, each story interrupted by the next. The Hôtel du Breuil in the town is now a museum devoted to him, and his statue stands in the square",
+    "coord_checked": "Hôtel du Breuil-de-Saint-Germain (Langres) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Hôtel_du_Breuil-de-Saint-Germain_(Langres)",
+    "book_ids": [
+      "fr-jacques-the-fatalist"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Denis_Diderot"
+  },
+  {
+    "id": "fr-sorbonne",
+    "name": "The Sorbonne, Latin Quarter, Paris",
+    "name_zh": "巴黎拉丁区 · 索邦",
+    "lat": 48.84864,
+    "lon": 2.34356,
+    "place_type": "pilgrimage",
+    "note": "维庸 1452 年在巴黎大学拿到文学硕士，此后却打架杀人、入室偷窃，几次险些被绞死。他的《遗嘱集》用诗给熟人和仇人一一“分遗产”，《绞刑犯谣》像是写给自己的墓志铭。拉丁区的索邦就在他当年读书的那片街区",
+    "note_en": "Villon took his master's degree at the University of Paris in 1452, then killed a priest in a brawl, burgled a college and more than once came close to the gallows. His Testament doles out mock bequests in verse to friends and enemies, and the Ballade of the Hanged reads like his own epitaph. The Sorbonne stands in the Latin Quarter streets where he studied",
+    "coord_checked": "Sorbonne (building) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Sorbonne_(building)",
+    "book_ids": [
+      "fr-villon-testament"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Villon"
+  },
+  {
+    "id": "fr-ermenonville",
+    "name": "Parc Jean-Jacques-Rousseau, Ermenonville",
+    "name_zh": "埃默农维尔 · 让-雅克·卢梭公园",
+    "lat": 49.12111,
+    "lon": 2.69111,
+    "place_type": "original",
+    "note": "奈瓦尔的《西尔薇》是对瓦卢瓦乡间童年和初恋的回忆，叙述者在一夜之间回到故乡，穿过森林走到埃默农维尔。卢梭 1778 年死在这里，葬在湖心的白杨岛上，后来遗骨迁进先贤祠。这座园林现在叫让-雅克·卢梭公园，白杨岛和那座空墓都还在",
+    "note_en": "Nerval's Sylvie is a memory of childhood and first love in the Valois countryside; the narrator goes back overnight and walks through the forest to Ermenonville. Rousseau died here in 1778 and was buried on the Isle of Poplars in the lake before his remains were moved to the Panthéon. The grounds are now the Parc Jean-Jacques-Rousseau, and the island and its empty tomb are still there",
+    "coord_checked": "Parc Jean-Jacques-Rousseau (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Parc_Jean-Jacques-Rousseau",
+    "book_ids": [
+      "fr-sylvie"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Sylvie_(novella)"
+  },
+  {
+    "id": "fr-fontenay-aux-roses",
+    "name": "Fontenay-aux-Roses",
+    "name_zh": "丰特奈-奥罗斯",
+    "lat": 48.789167,
+    "lon": 2.285556,
+    "place_type": "original",
+    "note": "于斯曼的《逆流》里，厌倦了巴黎的贵族德泽森特在丰特奈-奥罗斯的山坡上买下一座孤零零的房子，把自己关在里面，用香水、宝石、拉丁文书和一只背上镶满宝石的乌龟布置一个人工的天堂。这本书被称为颓废派的“圣经”，一般认为王尔德《道林·格雷的画像》里那本“黄皮书”就是它",
+    "note_en": "In Huysmans's Against Nature, Des Esseintes, an aristocrat sick of Paris, buys an isolated house on the hill at Fontenay-aux-Roses and shuts himself in to build an artificial paradise of perfumes, precious stones, Latin books and a tortoise with jewels set in its shell. The book became the bible of the Decadents, and it is generally taken to be the 'yellow book' in Wilde's The Picture of Dorian Gray",
+    "coord_checked": "Fontenay-aux-Roses (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Fontenay-aux-Roses",
+    "book_ids": [
+      "fr-against-nature"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/%C3%80_rebours"
+  },
+  {
+    "id": "fr-rimbaud-museum",
+    "name": "Musée Arthur Rimbaud, Charleville-Mézières",
+    "name_zh": "沙勒维尔-梅济耶尔 · 兰波博物馆",
+    "lat": 49.775725,
+    "lon": 4.722056,
+    "place_type": "pilgrimage",
+    "note": "兰波 1854 年生在沙勒维尔，在这座阿登小城度过憋闷的少年时代，十几岁就写出了《醉舟》和《元音》，诗里那个周四晚上听军乐的车站广场就在城里。默兹河边的老磨坊现在是兰波博物馆，他也葬在城里的墓地",
+    "note_en": "Rimbaud was born in Charleville in 1854 and spent a stifling adolescence in this Ardennes town, writing 'The Drunken Boat' and 'Vowels' while still in his teens; the station square where the bourgeois listen to the band on Thursday evenings in one of his poems is here. The Old Mill on the Meuse is now the Rimbaud Museum, and he is buried in the town cemetery",
+    "coord_checked": "Musée Arthur Rimbaud (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Musée_Arthur_Rimbaud",
+    "book_ids": [
+      "fr-rimbaud-poems"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Arthur_Rimbaud"
+  },
+  {
+    "id": "fr-pont-mirabeau",
+    "name": "Pont Mirabeau, Paris",
+    "name_zh": "巴黎 · 米拉波桥",
+    "lat": 48.84639,
+    "lon": 2.27639,
+    "place_type": "original",
+    "note": "阿波利奈尔和画家玛丽·洛朗桑分手前后，常走这座桥回欧特伊的住处，写下了《米拉波桥》：“米拉波桥下塞纳河流淌，我们的爱情”。这首诗收进《醇酒集》，成了法语里最有名的情诗之一，桥头有刻着它的牌子",
+    "note_en": "Around the end of his affair with the painter Marie Laurencin, Apollinaire often crossed this bridge on his way home to Auteuil, and wrote 'Le Pont Mirabeau': under the Mirabeau Bridge the Seine flows, and our loves. The poem, in Alcools, became one of the best-known love poems in French, and a plaque on the bridge carries it",
+    "coord_checked": "Pont Mirabeau (Paris) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Pont_Mirabeau_(Paris)",
+    "book_ids": [
+      "fr-alcools"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Pont_Mirabeau"
+  },
+  {
+    "id": "fr-place-de-clichy",
+    "name": "Place de Clichy, Paris",
+    "name_zh": "巴黎 · 克利希广场",
+    "lat": 48.883519,
+    "lon": 2.327394,
+    "place_type": "original",
+    "note": "《茫茫黑夜漫游》第一页就在这里：医学生巴达缪坐在克利希广场的咖啡馆里跟朋友抬杠，一支团队奏着军乐走过，他一时冲动跟上去报名参军，从此被卷进一战、非洲殖民地、美国和巴黎郊区的黑夜。塞利纳本人后来在附近的克利希做了多年诊所医生",
+    "note_en": "Journey to the End of the Night opens here: Bardamu, a medical student, is arguing with a friend in a café on the Place de Clichy when a regiment marches past behind its band, and on an impulse he follows it and enlists, setting off a journey through the war, colonial Africa, America and the Paris suburbs. Céline himself later worked for years as a clinic doctor in nearby Clichy",
+    "coord_checked": "Place de Clichy (Paris) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Place_de_Clichy_(Paris)",
+    "book_ids": [
+      "fr-journey-end-of-night"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Journey_to_the_End_of_the_Night"
+  },
+  {
+    "id": "fr-belleville",
+    "name": "Belleville, Paris",
+    "name_zh": "巴黎 · 美丽城",
+    "lat": 48.873889,
+    "lon": 2.385278,
+    "place_type": "original",
+    "note": "《如此人生》写美丽城一栋没有电梯的楼的六层，年老的前妓女罗莎太太替妓女们带孩子，阿拉伯男孩莫莫是她带大的最后一个。加里用笔名“埃米尔·阿雅尔”发表这本书，拿了龚古尔奖，成了唯一得过两次龚古尔奖的作家。美丽城至今是巴黎各地移民混居最多的街区",
+    "note_en": "The Life Before Us is set six floors up a walk-up building in Belleville, where Madame Rosa, an ageing former prostitute, looks after the children of women on the game, and Momo, an Arab boy, is the last she raises. Gary published it as 'Émile Ajar' and won the Goncourt, the only writer ever to win it twice. Belleville is still the most mixed immigrant neighborhood in Paris",
+    "coord_checked": "Belleville, Paris (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Belleville,_Paris",
+    "book_ids": [
+      "fr-life-before-us"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/The_Life_Before_Us"
+  },
+  {
+    "id": "fr-nice-promenade",
+    "name": "Promenade des Anglais, Nice",
+    "name_zh": "尼斯 · 英国人大道",
+    "lat": 43.691111,
+    "lon": 7.2475,
+    "place_type": "pilgrimage",
+    "note": "加里少年时随母亲从波兰辗转来到尼斯，母亲靠倒卖小物件、后来经营一家小公寓旅馆把他养大，一心相信儿子会成为法国大使和大作家。《童年的许诺》写的就是这份几乎让人窒息的母爱和他在尼斯的少年时代。海边的英国人大道是尼斯最有名的风景",
+    "note_en": "Gary came to Nice from Poland as a teenager with his mother, who raised him by selling odds and ends and then running a small boarding house, utterly convinced that her son would become a French ambassador and a great writer. Promise at Dawn is about that almost suffocating love and his youth in Nice. The Promenade des Anglais along the sea is the city's best-known sight",
+    "coord_checked": "Promenade des Anglais (Nice) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Promenade_des_Anglais_(Nice)",
+    "book_ids": [
+      "fr-promise-at-dawn"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Promise_at_Dawn"
+  },
+  {
+    "id": "fr-perec-rue-linne",
+    "name": "13 rue Linné, Paris",
+    "name_zh": "巴黎 · 林奈街 13 号（佩雷克故居）",
+    "lat": 48.84449,
+    "lon": 2.35462,
+    "place_type": "pilgrimage",
+    "note": "佩雷克 1974 到 1982 年住在这栋楼里，《人生拼图版》就写于这些年：小说把巴黎一栋虚构公寓楼的正面揭开，像下国际象棋的马一样跳着走遍九十九个房间，讲出楼里所有人的故事。门口挂着纪念他的牌子",
+    "note_en": "Perec lived in this building from 1974 to 1982 and wrote Life: A User's Manual here: the novel lifts the façade off an imaginary Paris apartment block and moves through its ninety-nine rooms like a chess knight, telling the stories of everyone in the building. A plaque at the door commemorates him",
+    "coord_checked": "File:Plaque Georges Perec 13 rue Linné Paris.jpg (geotagged, Wikimedia Commons) — https://commons.wikimedia.org/wiki/File:Plaque_Georges_Perec_13_rue_Linné_Paris.jpg",
+    "book_ids": [
+      "fr-life-a-users-manual"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Life_A_User%27s_Manual"
+  },
+  {
+    "id": "fr-yvetot",
+    "name": "Yvetot",
+    "name_zh": "伊沃托",
+    "lat": 49.616944,
+    "lon": 0.753056,
+    "place_type": "pilgrimage",
+    "note": "埃尔诺在诺曼底小城伊沃托长大，父母在这里开一家兼卖杂货的小咖啡馆。《位置》写父亲从农场工人变成小店主的一生，《悠悠岁月》用照片、歌曲和流行语写出一代法国人六十年的变化。2022 年她获得诺贝尔文学奖，书里的小城就是这里",
+    "note_en": "Ernaux grew up in the Normandy market town of Yvetot, where her parents kept a café that was also a grocery. A Man's Place tells her father's life from farm hand to shopkeeper, and The Years traces sixty years of change in France through photographs, songs and catchphrases. She won the Nobel Prize in 2022, and this is the small town of her books",
+    "coord_checked": "Yvetot (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Yvetot",
+    "book_ids": [
+      "fr-the-years",
+      "fr-a-mans-place"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Annie_Ernaux"
+  },
+  {
+    "id": "fr-issy-leveque",
+    "name": "Issy-l'Évêque",
+    "name_zh": "伊西莱韦克",
+    "lat": 46.707778,
+    "lon": 3.973333,
+    "place_type": "pilgrimage",
+    "note": "1940 年德军占领法国后，内米洛夫斯基带着两个女儿躲到勃艮第的小镇伊西莱韦克，在这里写《法兰西组曲》，第二部写的就是一座驻了德军的乡下小镇。1942 年她在这里被捕，死于奥斯维辛，手稿被女儿装在箱子里保存了六十年，2004 年才出版",
+    "note_en": "After the Germans occupied France in 1940, Némirovsky took refuge with her two daughters in the Burgundy village of Issy-l'Évêque and wrote Suite française here; its second part is set in a country town with German soldiers billeted on it. She was arrested here in 1942 and died at Auschwitz; her daughters kept the manuscript in a suitcase for sixty years, and it was published in 2004",
+    "coord_checked": "Issy-l'Évêque (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Issy-l'Évêque",
+    "book_ids": [
+      "fr-suite-francaise"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Suite_fran%C3%A7aise"
+  },
+  {
+    "id": "fr-chatelus",
+    "name": "Châtelus-le-Marcheix",
+    "name_zh": "夏特吕-勒马尔谢",
+    "lat": 45.999444,
+    "lon": 1.607778,
+    "place_type": "original",
+    "note": "《地图与疆域》的结尾，功成名就的艺术家杰德搬回克勒兹省夏特吕-勒马尔谢的祖父母老宅，在那里隐居到生命尽头。韦勒贝克在书里让自己作为人物出场并被残忍杀害，这本书拿下了 2010 年龚古尔奖。小村在利穆赞的山地上，四周是森林和牧场",
+    "note_en": "At the end of The Map and the Territory, Jed, a successful artist, moves back to his grandparents' house at Châtelus-le-Marcheix in the Creuse and lives there alone until he dies. Houellebecq wrote himself into the novel as a character who is brutally murdered, and the book won the 2010 Goncourt. The village sits in the Limousin uplands among forests and pasture",
+    "coord_checked": "Châtelus-le-Marcheix (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Châtelus-le-Marcheix",
+    "book_ids": [
+      "fr-map-and-territory"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/The_Map_and_the_Territory"
+  },
+  {
+    "id": "fr-lutetia",
+    "name": "Hôtel Lutetia, Paris",
+    "name_zh": "巴黎 · 吕特西亚酒店",
+    "lat": 48.851354,
+    "lon": 2.327203,
+    "place_type": "original",
+    "note": "《天上再见》写一战归来的两个老兵：脸被炸毁的爱德华和穷会计阿尔贝，靠卖根本不存在的阵亡将士纪念碑骗了一大笔钱。骗局得手后，爱德华住进左岸豪华的吕特西亚酒店，戴着自己做的面具挥金如土。这家 1910 年开业的酒店二战后曾是集中营归来者的接待站，2018 年翻修后重新开业",
+    "note_en": "The Great Swindle follows two veterans back from the First World War, Édouard, whose face was shot away, and Albert, a poor bookkeeper, who make a fortune selling war memorials that do not exist. Once the scam pays off, Édouard moves into the luxurious Hôtel Lutetia on the Left Bank and spends wildly behind masks he makes himself. The hotel, opened in 1910, received deportees returning from the camps in 1945 and reopened after restoration in 2018",
+    "coord_checked": "Hôtel Lutetia (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Hôtel_Lutetia",
+    "book_ids": [
+      "fr-the-great-swindle"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/The_Great_Swindle"
+  },
+  {
+    "id": "fr-villa-seurat",
+    "name": "18 Villa Seurat, Paris",
+    "name_zh": "巴黎 · 修拉别墅巷 18 号",
+    "lat": 48.8262,
+    "lon": 2.33283,
+    "place_type": "prototype",
+    "prototype_of": "《北回归线》开头说“我”住在“博尔盖塞别墅”，原型就是蒙帕纳斯南边这条小巷里的 18 号：1931 年米勒穷得没地方住，借宿在朋友弗兰克尔家里，1934 年他自己也搬了进来。书出版后在英美被禁了近三十年。巷子两边是 20 年代给艺术家建的工作室，被列为历史建筑",
+    "prototype_of_en": "The 'Villa Borghese' where the narrator says he is living at the start of Tropic of Cancer is number 18 in this lane south of Montparnasse: in 1931 the penniless Miller was staying with his friend Michael Fraenkel here, and in 1934 he moved in himself. The book was banned in Britain and America for nearly thirty years. The lane is lined with artists' studios built in the 1920s and is a listed monument",
+    "coord_checked": "Villa Seurat (Paris) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Villa_Seurat_(Paris)",
+    "book_ids": [
+      "fr-tropic-of-cancer"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Tropic_of_Cancer_(novel)"
+  },
+  {
+    "id": "fr-place-de-la-concorde",
+    "name": "Place de la Concorde, Paris",
+    "name_zh": "巴黎 · 协和广场",
+    "lat": 48.865633,
+    "lon": 2.321236,
+    "place_type": "original",
+    "note": "贝梅尔曼斯 1939 年出版的《玛德琳》写巴黎一座爬满藤蔓的老房子里，十二个小女孩排成两行出门散步，最小的玛德琳半夜阑尾炎发作被送进医院。书里画满了巴黎街景，初版的环衬画的就是协和广场。广场中央是埃及方尖碑，两边是喷泉",
+    "note_en": "Bemelmans's Madeline of 1939 is about twelve little girls in an old vine-covered house in Paris who go out walking in two straight lines, until the smallest, Madeline, is rushed to hospital one night with appendicitis. The pictures are full of Paris, and the endpapers of the first edition show the Place de la Concorde. The Egyptian obelisk stands at its centre between two fountains",
+    "coord_checked": "Place de la Concorde (Paris) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Place_de_la_Concorde_(Paris)",
+    "book_ids": [
+      "fr-madeline"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Madeline_(book)"
+  },
+  {
+    "id": "fr-arc-de-triomphe",
+    "name": "Arc de Triomphe, Paris",
+    "name_zh": "巴黎 · 凯旋门",
+    "lat": 48.87378,
+    "lon": 2.29504,
+    "place_type": "original",
+    "note": "雷马克的《凯旋门》写 1938 年流亡巴黎的德国外科医生拉维克，他没有合法证件，只能替法国医生做见不得人的“影子手术”，住在凯旋门附近一家收留难民的旅馆里，看着欧洲一步步滑向战争。凯旋门顶上能看到十二条大街从脚下放射出去",
+    "note_en": "Remarque's Arch of Triumph follows Ravic, a German surgeon living in Paris in 1938 without papers, who earns his keep doing 'ghost' operations for French doctors and lodges in a refugee hotel near the Arc de Triomphe, watching Europe slide toward war. From the top of the arch you can see twelve avenues radiating out below",
+    "coord_checked": "Arc de Triomphe de l'Étoile (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Arc_de_Triomphe_de_l'Étoile",
+    "book_ids": [
+      "fr-arch-of-triumph"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Arch_of_Triumph_(novel)"
+  },
+  {
+    "id": "fr-cafe-de-flore",
+    "name": "Café de Flore, Paris",
+    "name_zh": "巴黎 · 花神咖啡馆",
+    "lat": 48.853889,
+    "lon": 2.3325,
+    "place_type": "pilgrimage",
+    "note": "鲍德温 1948 年带着 40 美元来到巴黎，住在圣日耳曼德佩一带的廉价旅馆，常在花神咖啡馆写作，《乔瓦尼的房间》大部分就写于巴黎。小说写一个美国青年和意大利酒保乔瓦尼在巴黎的爱情。花神咖啡馆也是萨特和波伏瓦当年的“办公室”",
+    "note_en": "Baldwin arrived in Paris in 1948 with forty dollars, lived in cheap hotels around Saint-Germain-des-Prés and wrote at the Café de Flore; much of Giovanni's Room was written in Paris. The novel is about the love between a young American and Giovanni, an Italian barman, in the city. The Flore was also where Sartre and Beauvoir worked",
+    "coord_checked": "Café de Flore (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Café_de_Flore",
+    "book_ids": [
+      "fr-giovannis-room"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Giovanni%27s_Room"
+  },
+  {
+    "id": "fr-la-couronne",
+    "name": "La Couronne, Rouen",
+    "name_zh": "鲁昂 · 王冠餐厅",
+    "lat": 49.442778,
+    "lon": 1.087778,
+    "place_type": "original",
+    "note": "1948 年 11 月，茱莉亚·查尔德刚踏上法国，就在鲁昂老市场广场的王冠餐厅吃了一份黄油煎鳎鱼，她后来说这顿饭让她整个人都打开了，从此决心学做法国菜。《我的法兰西岁月》就从这一餐写起。王冠餐厅自称是法国最古老的客栈，至今营业",
+    "note_en": "In November 1948, on her first day in France, Julia Child ate sole meunière at La Couronne on the Place du Vieux-Marché in Rouen; she later said the meal opened her up completely, and she resolved to learn French cooking. My Life in France begins with that lunch. La Couronne claims to be the oldest inn in France and is still open",
+    "coord_checked": "La Couronne (restaurant) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:La_Couronne_(restaurant)",
+    "book_ids": [
+      "fr-my-life-in-france"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/My_Life_in_France"
+  },
+  {
+    "id": "fr-urrugne",
+    "name": "Urrugne",
+    "name_zh": "乌鲁涅",
+    "lat": 43.362222,
+    "lon": -1.7,
+    "place_type": "prototype",
+    "prototype_of": "《夜莺》里伊莎贝尔一次次带着被击落的盟军飞行员翻越比利牛斯山，人物原型是比利时姑娘安德蕾·德容：她组织的“彗星线”把数百名飞行员送进西班牙，翻山的起点就在乌鲁涅村外的农庄。村子在圣让-德吕兹湾背后，往南就是比利牛斯山",
+    "prototype_of_en": "Isabelle, who leads downed Allied airmen over the Pyrenees again and again in The Nightingale, was inspired by Andrée de Jongh, a young Belgian whose Comet Line smuggled hundreds of airmen into Spain; the crossings set out from farms outside Urrugne. The village lies behind the bay of Saint-Jean-de-Luz, with the Pyrenees rising to the south",
+    "coord_checked": "Urrugne (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Urrugne",
+    "book_ids": [
+      "fr-the-nightingale"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/The_Nightingale_(Hannah_novel)"
+  },
+  {
+    "id": "fr-chitry",
+    "name": "Chitry-les-Mines",
+    "name_zh": "希特里莱米讷",
+    "lat": 47.260556,
+    "lon": 3.651944,
+    "place_type": "pilgrimage",
+    "note": "勒纳尔在勃艮第的希特里莱米讷长大，《胡萝卜须》写一个红头发、满脸雀斑、被母亲冷落的男孩，用的多是他自己的童年。他后来当了这个村子的村长，就葬在村里的墓地。村边是约讷河，乡间风景和书里差不多",
+    "note_en": "Renard grew up in Chitry-les-Mines in Burgundy, and Carrot Top, the red-haired, freckled boy his mother cannot love, draws largely on his own childhood. He later became mayor of the village and is buried in its cemetery. The Yonne runs past, through countryside much like the book's",
+    "coord_checked": "Chitry-les-Mines (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Chitry-les-Mines",
+    "book_ids": [
+      "fr-poil-de-carotte"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Jules_Renard"
+  },
+  {
+    "id": "fr-les-charmettes",
+    "name": "Les Charmettes, Chambéry",
+    "name_zh": "尚贝里 · 沙梅特",
+    "lat": 45.553239,
+    "lon": 5.929689,
+    "place_type": "original",
+    "note": "1730 年代后期，年轻的卢梭和华伦夫人住在尚贝里城外这座山谷里的乡间小屋，他在《忏悔录》里把这几年称作一生中唯一完全幸福的时光：读书、种菜、采草药。小屋现在是卢梭纪念馆，保留着当年的房间和种着十八世纪植物的花园",
+    "note_en": "In the late 1730s the young Rousseau lived with Madame de Warens in this country house in a valley outside Chambéry, and in the Confessions he calls those years the only time in his life he was wholly happy: reading, gardening, gathering plants. The house is now a Rousseau museum, with its rooms and a garden of eighteenth-century plants",
+    "coord_checked": "Les Charmettes (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Les_Charmettes",
+    "book_ids": [
+      "fr-confessions"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Confessions_(Rousseau)"
+  },
+  {
+    "id": "fr-rue-d-hauteville",
+    "name": "Rue d'Hauteville, Paris",
+    "name_zh": "巴黎 · 奥特维尔街",
+    "lat": 48.8741,
+    "lon": 2.35065,
+    "place_type": "original",
+    "note": "《温柔之歌》开头就是一场命案：巴黎十区奥特维尔街的一套公寓里，保姆路易丝杀死了她照顾的两个孩子，小说再倒回去写这个“完美保姆”怎样一步步走到这里。斯利马尼凭这本书获得 2016 年龚古尔奖。这是十区一条普通的住宅街",
+    "note_en": "Lullaby opens with a crime: in an apartment on the Rue d'Hauteville in the 10th arrondissement, Louise, the nanny, has killed the two children in her care, and the novel goes back to show how this 'perfect nanny' got there. Slimani won the 2016 Goncourt for it. It is an ordinary residential street in the 10th",
+    "coord_checked": "Rue d'Hauteville (Paris) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Rue_d'Hauteville_(Paris)",
+    "book_ids": [
+      "fr-lullaby"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Lullaby_(Slimani_novel)"
+  },
+  {
+    "id": "fr-train-bleu",
+    "name": "Gare de Lyon and Le Train Bleu, Paris",
+    "name_zh": "巴黎 · 里昂车站蓝色列车餐厅",
+    "lat": 48.845,
+    "lon": 2.373333,
+    "place_type": "original",
+    "note": "《变》全书只发生在一趟火车上：一个中年男人从巴黎里昂车站坐车去罗马，打算离开妻子去找情人，一路上的回忆让他改变了主意。全书用第二人称“您”来写，拿了 1957 年勒诺多奖。车站楼上的蓝色列车餐厅金碧辉煌，是为 1900 年世博会建的",
+    "note_en": "Second Thoughts takes place entirely on one train journey: a middle-aged man leaves the Gare de Lyon for Rome, meaning to leave his wife for his mistress, and changes his mind on the way. It is written in the second person and won the 1957 Prix Renaudot. Upstairs in the station, the gilded Train Bleu restaurant was built for the 1900 World's Fair",
+    "coord_checked": "Le Train Bleu (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Le_Train_Bleu",
+    "book_ids": [
+      "fr-second-thoughts"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/La_Modification"
+  },
+  {
+    "id": "fr-cite-veron",
+    "name": "Cité Véron, Paris",
+    "name_zh": "巴黎 · 维隆巷",
+    "lat": 48.8846,
+    "lon": 2.33213,
+    "place_type": "pilgrimage",
+    "note": "维昂和普雷韦尔是蒙马特这条小巷里的邻居，两家共用一个屋顶露台，正对着红磨坊的风车。维昂的《岁月的泡沫》写一个有钱的年轻人和他得了“肺里长睡莲”怪病的妻子，普雷韦尔的《话语集》是法国卖得最好的诗集之一。维昂的公寓保留原样，可以预约参观",
+    "note_en": "Vian and Prévert were neighbours in this Montmartre alley, their flats sharing a roof terrace that looks onto the sails of the Moulin Rouge. Vian's Froth on the Daydream is about a rich young man whose wife falls ill with a water lily growing in her lung, and Prévert's Paroles is one of the best-selling books of poetry in French. Vian's flat is kept as it was and can be visited by appointment",
+    "coord_checked": "Cité Véron (Paris) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Cité_Véron_(Paris)",
+    "book_ids": [
+      "fr-froth-on-the-daydream",
+      "fr-paroles"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Boris_Vian"
+  },
+  {
+    "id": "fr-colette-house",
+    "name": "Colette's birthplace, Saint-Sauveur-en-Puisaye",
+    "name_zh": "圣索沃尔昂皮伊塞 · 科莱特故居",
+    "lat": 47.616792,
+    "lon": 3.197971,
+    "place_type": "pilgrimage",
+    "note": "科莱特 1873 年生在勃艮第的圣索沃尔昂皮伊塞，《茜多》写的就是这座房子、它的花园和她的母亲茜多，母亲在花园里看云识天、照料花草的样子是全书的中心。故居 2016 年按她童年时的样子修复开放，花园也重新种了起来",
+    "note_en": "Colette was born in 1873 in Saint-Sauveur-en-Puisaye in Burgundy, and Sido is about this house, its garden and her mother Sido, whose way of reading the sky and tending the garden is at the heart of the book. The house was restored as it was in her childhood and opened in 2016, and the garden has been replanted",
+    "coord_checked": "Maison natale de Colette (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Maison_natale_de_Colette",
+    "book_ids": [
+      "fr-sido"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Colette"
+  },
+  {
+    "id": "fr-villequier",
+    "name": "Victor Hugo Museum, Villequier",
+    "name_zh": "维勒基耶 · 雨果纪念馆",
+    "lat": 49.5125,
+    "lon": 0.674175,
+    "place_type": "pilgrimage",
+    "note": "1843 年，雨果的长女莱奥波尔迪娜新婚半年，和丈夫在塞纳河上泛舟时在维勒基耶翻船溺亡。雨果此后几年几乎停笔，《静观集》以这次死亡为界分成“往昔”和“今日”，《明天，天一亮》写的就是去她的墓前。她夫家的房子现在是雨果纪念馆，墓在村里的墓地",
+    "note_en": "In 1843, six months after her wedding, Hugo's elder daughter Léopoldine drowned with her husband when their boat capsized on the Seine at Villequier. Hugo nearly stopped writing for years; Les Contemplations is divided by her death into 'Then' and 'Today', and 'Tomorrow, at dawn' is his walk to her grave. Her husband's family house is now the Victor Hugo Museum, and her grave is in the village cemetery",
+    "coord_checked": "Musée Victor-Hugo (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Musée_Victor-Hugo",
+    "book_ids": [
+      "fr-contemplations"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Les_Contemplations"
+  },
+  {
+    "id": "fr-maison-de-balzac",
+    "name": "Maison de Balzac, Paris",
+    "name_zh": "巴黎 · 巴尔扎克故居",
+    "lat": 48.855278,
+    "lon": 2.280833,
+    "place_type": "pilgrimage",
+    "note": "1840 年为躲债主，巴尔扎克化名住进帕西山坡上的这座小房子，房子有两个出口，债主从前门来，他就从后门溜到坡下的街上。他在这里修订《人间喜剧》，写成了《贝姨》。这是他在巴黎唯一保存下来的住所，现在是巴尔扎克故居博物馆，书房里还摆着他的桌椅",
+    "note_en": "In 1840, hiding from his creditors, Balzac moved under an assumed name into this little house on the slope of Passy; it had two exits, so when creditors came to the front door he could slip out the back to the street below. He revised the Human Comedy here and wrote Cousin Bette. It is the only one of his Paris homes to survive, now the Maison de Balzac museum, with his desk and chair in the study",
+    "coord_checked": "Maison de Balzac (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Maison_de_Balzac",
+    "book_ids": [
+      "fr-cousin-bette"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Maison_de_Balzac"
+  },
+  {
+    "id": "fr-goutte-d-or",
+    "name": "Rue de la Goutte-d'Or, Paris",
+    "name_zh": "巴黎 · 金滴街",
+    "lat": 48.885,
+    "lon": 2.35297,
+    "place_type": "original",
+    "note": "《小酒店》写洗衣女工绮尔维丝在巴黎北边金滴街一带的奋斗和沉沦：她靠自己开起了洗衣店，最后被酗酒的丈夫和生活拖垮。左拉写的是十九世纪中期的工人街区，金滴街如今是巴黎最有烟火气的非洲移民街区之一，布料店和小餐馆挤在一起",
+    "note_en": "L'Assommoir follows Gervaise, a laundress, through her rise and fall around the Rue de la Goutte-d'Or in the north of Paris: she manages to open her own laundry and is finally dragged down by her drinking husband and by life. Zola was writing about a mid-nineteenth-century working-class district; the Goutte d'Or is now one of the liveliest African neighbourhoods in Paris, crowded with fabric shops and small restaurants",
+    "coord_checked": "Rue de la Goutte-d'Or (Paris) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Rue_de_la_Goutte-d'Or_(Paris)",
+    "book_ids": [
+      "fr-lassommoir"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/L%27Assommoir"
+  },
+  {
+    "id": "fr-pont-l-eveque",
+    "name": "Pont-l'Évêque",
+    "name_zh": "主教桥",
+    "lat": 49.285556,
+    "lon": 0.183889,
+    "place_type": "original",
+    "note": "福楼拜母亲家在主教桥一带有房产，他小时候常来。《一颗简单的心》写主教桥的女佣费莉西泰忠心服侍主人半个世纪，最后把一只鹦鹉当成了圣灵。小城保存着不少半木结构老房子，附近的特鲁维尔和翁弗勒尔也出现在小说里",
+    "note_en": "Flaubert's mother's family owned property around Pont-l'Évêque, and he often came here as a boy. A Simple Heart is about Félicité, a servant in Pont-l'Évêque who serves her mistress faithfully for half a century and ends up taking a parrot for the Holy Ghost. The town keeps many half-timbered houses, and nearby Trouville and Honfleur appear in the story too",
+    "coord_checked": "Pont-l'Évêque (Calvados) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Pont-l'Évêque_(Calvados)",
+    "book_ids": [
+      "fr-a-simple-heart"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/A_Simple_Heart"
+  },
+  {
+    "id": "fr-tarascon",
+    "name": "Maison de Tartarin, Tarascon",
+    "name_zh": "塔拉斯孔 · 戴达伦之家",
+    "lat": 43.80768,
+    "lon": 4.66128,
+    "place_type": "original",
+    "note": "都德把爱吹牛的南方人戴达伦放在罗讷河边的塔拉斯孔：他满屋子摆着武器，从没离开过小城，却天天讲自己的冒险，最后真的跑去阿尔及利亚打狮子。塔拉斯孔人当年很不高兴，如今城里却开了一座“戴达伦之家”，按小说布置了他的花园和猴面包树",
+    "note_en": "Daudet set his boastful southerner Tartarin in Tarascon on the Rhône: his house is full of weapons, he has never left town, he tells tales of adventure every day, and in the end he really does go off to Algeria to hunt lions. The people of Tarascon were not amused at the time, but the town now has a Maison de Tartarin, with his garden and baobab laid out as in the novel",
+    "coord_checked": "File:Villa Tartarin, 55B Bd Itam, Tarascon.jpg (geotagged, Wikimedia Commons) — https://commons.wikimedia.org/wiki/File:Villa_Tartarin,_55B_Bd_Itam,_Tarascon.jpg",
+    "book_ids": [
+      "fr-tartarin"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Tartarin_de_Tarascon"
+  },
+  {
+    "id": "fr-montparnasse-cemetery",
+    "name": "Montparnasse Cemetery, Paris",
+    "name_zh": "巴黎 · 蒙帕纳斯公墓",
+    "lat": 48.83778,
+    "lon": 2.32833,
+    "place_type": "pilgrimage",
+    "note": "波德莱尔 1867 年去世，葬在蒙帕纳斯公墓的家族墓里，和他一向不和的继父同穴。《巴黎的忧郁》是他晚年写的五十首散文诗，写煤气灯下的林荫大道、穷人的眼睛和城市里的陌生人。公墓里还葬着莫泊桑、萨特、波伏瓦和贝克特",
+    "note_en": "Baudelaire died in 1867 and lies in his family's grave in Montparnasse Cemetery, alongside the stepfather he never got on with. Paris Spleen gathers the fifty prose poems of his last years: boulevards under gaslight, the eyes of the poor, strangers in the city. Maupassant, Sartre, Beauvoir and Beckett are buried here too",
+    "coord_checked": "Cimetière du Montparnasse (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Cimetière_du_Montparnasse",
+    "book_ids": [
+      "fr-paris-spleen"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Paris_Spleen"
+  },
+  {
+    "id": "fr-le-select",
+    "name": "Le Select, Montparnasse, Paris",
+    "name_zh": "巴黎 · 蒙帕纳斯塞莱克特咖啡馆",
+    "lat": 48.8425,
+    "lon": 2.32833,
+    "place_type": "original",
+    "note": "《太阳照常升起》的前半部在巴黎：战争中受了伤的记者杰克和朋友们几乎夜夜泡在蒙帕纳斯的咖啡馆里，塞莱克特咖啡馆是他们最常去的一家，勃莱特也常在这里出现，然后一伙人出发去潘普洛纳看斗牛。这家 1925 年开业的咖啡馆至今还是老样子",
+    "note_en": "The first half of The Sun Also Rises is set in Paris, where Jake, a newspaperman wounded in the war, and his friends spend nearly every night in the cafés of Montparnasse; the Select is their usual haunt and Brett often turns up there, before the whole group sets off for the bullfights in Pamplona. The café, opened in 1925, looks much as it did",
+    "coord_checked": "Le Select (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Le_Select",
+    "book_ids": [
+      "fr-sun-also-rises"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/The_Sun_Also_Rises"
   }
 ]

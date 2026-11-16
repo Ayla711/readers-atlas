@@ -1,36 +1,5 @@
 [
   {
-    "id": "fr-eg-1",
-    "book_id": "fr-eugenie-grandet",
-    "place_ids": [
-      "fr-saumur"
-    ],
-    "location": "Opening description of Saumur",
-    "location_zh": "开篇：索米尔描写",
-    "text_zh": "这些忧郁的气息，都体现在索米尔一座宅子的面貌上。它坐落在一条陡街的尽头，那条街由城镇高处通向城堡。如今这条街行人稀少，夏日炎热，冬日寒冷，有些地方阴暗；它那始终干净、干燥的小石子路面响声清脆，街道狭窄曲折，属于老城的房屋安静地俯临城墙。",
-    "status": "draft",
-    "translation": "Katharine Prescott Wormeley (1886)",
-    "text_en": "Such elements of sadness formed the physiognomy, as it were, of a dwelling-house in Saumur which stands at the end of the steep street leading to the chateau in the upper part of the town. This street--now little frequented, hot in summer, cold in winter, dark in certain sections--is remarkable for the resonance of its little pebbly pavement, always clean and dry, for the narrowness of its tortuous road-way, for the peaceful stillness of its houses, which belong to the Old town and are over-topped by the ramparts.",
-    "highlight_en": [
-      "Saumur"
-    ],
-    "highlight_zh": [
-      "索米尔"
-    ],
-    "text_orig": "Ces principes de mélancolie existent dans la physionomie d'un logis situé à Saumur, au bout de la rue montueuse qui mène au château, par le haut de la ville. Cette rue, maintenant peu fréquentée, chaude en été, froide en hiver, obscure en quelques endroits, est remarquable par la sonorité de son petit pavé caillouteux, toujours propre et sec, par l'étroitesse de sa voie tortueuse, par la paix de ses maisons qui appartiennent à la vieille ville, et que dominent les remparts.",
-    "highlight_orig": [
-      "Saumur"
-    ],
-    "source": {
-      "kind": "gutenberg",
-      "id": 11049
-    },
-    "translation_source": {
-      "kind": "gutenberg",
-      "id": 1715
-    }
-  },
-  {
     "id": "fr-il-1",
     "book_id": "fr-lost-illusions",
     "place_ids": [
@@ -471,102 +440,6 @@
     }
   },
   {
-    "id": "fr-pj-1",
-    "book_id": "fr-pierre-and-jean",
-    "place_ids": [
-      "fr-trouville"
-    ],
-    "location": "Chapter 5",
-    "location_zh": "第 5 章",
-    "text_zh": "不到一小时，船便到了特鲁维尔港。正是海浴的时候，皮埃尔走向海滩。远看，海滩像一座开满鲜艳花朵的长花园。从堤岸到黑岩一带的黄色大沙丘上，各色阳伞、各式帽子、各种色调的衣裙，或成群聚在更衣室前，或沿水边排成行，或零星散落，真像无边草地上巨大的花束。轻柔的空气里，远近纷乱的人声、呼喊、入浴孩子的叫声、女人清脆的笑声，汇成持续而温柔的喧响，混入几乎感觉不到的微风，同它一起被吸进胸中。",
-    "status": "draft",
-    "translation": "Clara Bell (1890)",
-    "text_en": "They reached the harbour of Trouville in less than an hour, and as it was the time of day when the world was bathing, Pierre went to the shore.\n\nFrom a distance it looked like a garden full of gaudy flowers. All along the stretch of yellow sand, from the pier as far as the Roches Noires, sun-shades of every hue, hats of every shape, dresses of every colour, in groups outside the bathing huts, in long rows by the margin of the waves, or scattered here and there, really looked like immense bouquets on a vast meadow. And the Babel of sounds—voices near and far ringing thin in the light atmosphere, shouts and cries of children being bathed, clear laughter of women—all made a pleasant, continuous din, mingling with the unheeding breeze, and breathed with the air itself.",
-    "highlight_en": [
-      "Trouville"
-    ],
-    "highlight_zh": [
-      "特鲁维尔"
-    ],
-    "text_orig": "En moins d'une heure on parvint au port de Trouville, et comme c'était le moment du bain, Pierre se rendit sur la plage.\n\nDe loin, elle avait l'air d'un long jardin plein de fleurs éclatantes. Sur la grande dune de sable jaune, depuis la jetée jusqu'aux Roches-Noires, les ombrelles de toutes les couleurs, les chapeaux de toutes les formes, les toilettes de toutes les nuances, par groupes devant les cabines, par lignes le long du flot ou dispersés ça et là, ressemblaient vraiment à des bouquets énormes dans une prairie démesurée. Et le bruit confus, proche et lointain des voix égrenées dans l'air léger, les appels, les cris d'enfants qu'on baigne, les rires clairs des femmes faisaient une rumeur continue et douce, mêlée à la brise insensible et qu'on aspirait avec elle.",
-    "highlight_orig": [
-      "Trouville"
-    ],
-    "source": {
-      "kind": "gutenberg",
-      "id": 11131
-    },
-    "translation_source": {
-      "kind": "gutenberg",
-      "id": 3804
-    }
-  },
-  {
-    "id": "fr-pj-2",
-    "book_id": "fr-pierre-and-jean",
-    "place_ids": [
-      "fr-cap-de-la-heve"
-    ],
-    "location": "Chapter 2",
-    "location_zh": "第 2 章",
-    "text_zh": "又走了几步，他停下来眺望港湾。右边，在圣阿德雷斯上方，拉埃沃角的两座电灯灯塔像两个巨大而孪生的独眼巨人，把悠长有力的目光投向海面。两束平行的光从相邻的灯火中射出，如两颗彗星的巨尾，沿一条笔直、无比漫长的斜线，从岸顶直落到地平线尽头。",
-    "status": "draft",
-    "translation": "Clara Bell (1890)",
-    "text_en": "A few steps further on he stopped again, looking out at the roads. On the right, above Sainte-Adresse, the two electric lights of Cape la Hève, like monstrous twin Cyclops, shot their long and powerful beams across the sea. Starting from two neighbouring centres, the two parallel shafts of light, like the colossal tails of two comets, fell in a straight and endless slope from the top of the cliff to the uttermost horizon.",
-    "highlight_en": [
-      "Cape la Hève"
-    ],
-    "highlight_zh": [
-      "拉埃沃角"
-    ],
-    "text_orig": "Ayant fait encore quelques pas, il s'arrêta pour contempler la rade. Sur sa droite, au-dessus de Sainte-Adresse, les deux phares électriques du cap de la Hève, semblables à deux cyclopes monstrueux et jumeaux, jetaient sur la mer leurs longs et puissants regards. Partis des deux foyers voisins, les deux rayons parallèles, pareils aux queues géantes de deux comètes, descendaient, suivant une pente droite et démesurée, du sommet de la côte au fond de l'horizon.",
-    "highlight_orig": [
-      "cap de la Hève"
-    ],
-    "source": {
-      "kind": "gutenberg",
-      "id": 11131
-    },
-    "translation_source": {
-      "kind": "gutenberg",
-      "id": 3804
-    }
-  },
-  {
-    "id": "fr-pj-3",
-    "book_id": "fr-pierre-and-jean",
-    "place_ids": [
-      "fr-le-havre"
-    ],
-    "location": "Chapter 2",
-    "location_zh": "第 2 章",
-    "text_zh": "接着，在两座防波堤上，另两盏灯——那些巨人的孩子——标出勒阿弗尔的入口；远处塞纳河的另一边，还能看见许多灯，有的固定，有的闪烁，忽明忽灭，如眼睛般开合。那是港口的眼睛，黄色、红色、绿色，注视着布满船只的暗海；好客陆地上活着的眼睛，仅凭眼皮规律不变的机械运动便在说：“是我。我是特鲁维尔，我是翁弗勒尔，我是蓬托德梅尔河。”比所有灯都高的埃图维尔灯塔，从远处看仿佛一颗行星，越过大河河口的沙洲指示通往鲁昂的道路。随后，深水之上，无边的水面比天空更暗，仿佛这里那里散落着星星。它们在夜雾里微颤，小小的，或近或远，有白的，也有绿的、红的。几乎全都不动，只有几颗似乎在奔跑；那是抛锚等待下次涨潮的船灯，或是正驶来寻找泊位的船灯。",
-    "status": "draft",
-    "translation": "Clara Bell (1890)",
-    "text_en": "Then, on the two piers, two more lights, the children of these giants, marked the entrance to the harbour; and far away on the other side of the Seine others were in sight, many others, steady or winking, flashing or revolving, opening and shutting like eyes—the eyes of the ports—yellow, red, and green, watching the night-wrapped sea covered with ships; the living eyes of the hospitable shore saying, merely by the mechanical and regular movement of their eye-lids: “I am here. I am Trouville; I am Honfleur; I am the Andemer River.” And high above all the rest, so high that from this distance it might be taken for a planet, the airy lighthouse of Etouville showed the way to Rouen across the sand banks at the mouth of the great river.\n\nOut on the deep water, the limitless water, darker than the sky, stars seemed to have fallen here and there. They twinkled in the night haze, small, close to shore or far away—white, red, and green, too. Most of them were motionless; some, however, seemed to be scudding onward. These were the lights of the ships at anchor or moving about in search of moorings.",
-    "highlight_en": [
-      "two piers",
-      "harbour"
-    ],
-    "highlight_zh": [
-      "两座防波堤",
-      "勒阿弗尔"
-    ],
-    "text_orig": "Puis sur les deux jetées, deux autres feux, enfants de ces colosses, indiquaient l'entrée du Havre; et là-bas, de l'autre côté de la Seine, on en voyait d'autres encore, beaucoup d'autres, fixes ou clignotants, à éclats et à éclipses, s'ouvrant et se fermant comme des yeux, les yeux des ports, jaunes, rouges, verts, guettant la mer obscure couverte de navires, les yeux vivants de la terre hospitalière disant, rien que par le mouvement mécanique invariable et régulier de leurs paupières: «C'est moi. Je suis Trouville, je suis Honfleur, je suis la rivière de Pont-Audemer.» Et dominant tous les autres, si haut que, de si loin, on le prenait pour une planète, le phare aérien d'Étouville montrait la route de Rouen, à travers les bancs de sable de l'embouchure du grand fleuve.\n\nPuis sur l'eau profonde, sur l'eau sans limites, plus sombre que le ciel, on croyait voir, çà et là, des étoiles. Elles tremblotaient dans la brume nocturne, petites, proches ou lointaines, blanches, vertes ou rouges aussi. Presque toutes étaient immobiles, quelques-unes, cependant, semblaient courir; c'étaient les feux des bâtiments à l'ancre attendant la marée prochaine, ou des bâtiments en marche venant chercher un mouillage.",
-    "highlight_orig": [
-      "deux jetées",
-      "Havre"
-    ],
-    "source": {
-      "kind": "gutenberg",
-      "id": 11131
-    },
-    "translation_source": {
-      "kind": "gutenberg",
-      "id": 3804
-    }
-  },
-  {
     "id": "fr-cg-1",
     "book_id": "fr-memoirs-beyond-grave",
     "place_ids": [
@@ -784,37 +657,6 @@
     "translation_source": {
       "kind": "gutenberg",
       "id": 7178
-    }
-  },
-  {
-    "id": "fr-eg-2",
-    "book_id": "fr-eugenie-grandet",
-    "place_ids": [
-      "fr-saumur"
-    ],
-    "location": "Opening description of Saumur",
-    "location_zh": "开篇：索米尔描写",
-    "text_zh": "从这些房屋前经过，很难不赞叹那些巨大的木梁：梁端雕成奇形怪状的面孔，像一道黑色浮雕冠在大多数房屋的底层上方。这里，横木上覆着石板，在单薄墙面上画出蓝线；屋顶的木构已被岁月压弯，腐朽的木瓦在雨打日晒交替的作用下扭曲了。",
-    "status": "draft",
-    "translation": "Katharine Prescott Wormeley (1886)",
-    "text_en": "It is difficult to pass these houses without admiring the enormous oaken beams, their ends carved into fantastic figures, which crown with a black bas-relief the lower floor of most of them. In one place these transverse timbers are covered with slate and mark a bluish line along the frail wall of a dwelling covered by a roof _en colombage_ which bends beneath the weight of years, and whose rotting shingles are twisted by the alternate action of sun and rain.",
-    "highlight_en": [
-      "houses"
-    ],
-    "highlight_zh": [
-      "房屋"
-    ],
-    "text_orig": "Il est difficile de passer devant ces maisons, sans admirer les énormes madriers dont les bouts sont taillés en figures bizarres et qui couronnent d'un bas-relief noir le rez-de-chaussée de la plupart d'entre elles. Ici, des pièces de bois transversales sont couvertes en ardoises et dessinent des lignes bleues sur les frêles murailles d'un logis terminé par un toit en colombage que les ans ont fait plier, dont les bardeaux pourris ont été tordus par l'action alternative de la pluie et du soleil.",
-    "highlight_orig": [
-      "maisons"
-    ],
-    "source": {
-      "kind": "gutenberg",
-      "id": 11049
-    },
-    "translation_source": {
-      "kind": "gutenberg",
-      "id": 1715
     }
   },
   {
@@ -1778,5 +1620,523 @@
     ],
     "status": "draft",
     "fact_source": "https://en.wikipedia.org/wiki/A_Year_in_Provence"
+  },
+  {
+    "id": "fr-ess-1",
+    "book_id": "fr-essays",
+    "place_ids": [
+      "fr-chateau-montaigne"
+    ],
+    "location": "Book 3, Chapter 3, Of Three Kinds of Commerce",
+    "location_zh": "第三卷第三章《论三种交往》",
+    "text_orig": "Chez moy, ie me destourne vn peu plus souuent à ma librairie, d'où, tout d'vne main, ie commande mon mesnage. Ie suis sur l'entree, et vois soubs moy, mon iardin, ma basse cour, ma cour, et dans la plus part des membres de ma maison.",
+    "highlight_orig": [
+      "ma librairie"
+    ],
+    "text_en": "When at home, I a little more frequent my library, whence I overlook at once all the concerns of my family. ‘Tis situated at the entrance into my house, and I thence see under me my garden, court, and base-court, and almost all parts of the building.",
+    "highlight_en": [
+      "my library"
+    ],
+    "text_zh": "在家的时候，我常常躲到我的书房里去，在那里一手就能照管全部家务。书房在进门处，从那里我能看到脚下的花园、前院、后院和房子的大部分。",
+    "highlight_zh": [
+      "我的书房"
+    ],
+    "translation": "Charles Cotton (1685)",
+    "source": {
+      "kind": "gutenberg",
+      "id": 58801
+    },
+    "status": "draft",
+    "translation_source": {
+      "kind": "gutenberg",
+      "id": 3600
+    }
+  },
+  {
+    "id": "fr-gar-1",
+    "book_id": "fr-gargantua",
+    "place_ids": [
+      "fr-la-deviniere"
+    ],
+    "location": "Book 1, Chapter 47",
+    "location_zh": "第一部第 47 章",
+    "text_en": "and therefore was content at that time to give order only for bringing along the legions which he maintained in his ordinary garrison towns of the Deviniere, of Chavigny, of Gravot, and of the Quinquenais,",
+    "highlight_en": [
+      "Deviniere"
+    ],
+    "text_zh": "因此他当时只下令，把他平时驻扎在拉德维尼耶尔、沙维尼、格拉沃和坎克内这几处要塞里的军团调来，",
+    "highlight_zh": [
+      "拉德维尼耶尔"
+    ],
+    "translation": "Thomas Urquhart and Peter Motteux (1653–1694)",
+    "source": {
+      "kind": "gutenberg",
+      "id": 8166
+    },
+    "status": "draft"
+  },
+  {
+    "id": "fr-can-1",
+    "book_id": "fr-candide",
+    "place_ids": [
+      "fr-ferney"
+    ],
+    "location": "Chapter 30",
+    "location_zh": "第三十章",
+    "text_orig": "Cela est bien dit, répondit Candide, mais il faut cultiver notre jardin",
+    "highlight_orig": [
+      "cultiver notre jardin"
+    ],
+    "text_en": "\"All that is very well,\" answered Candide, \"but let us cultivate our garden.\"",
+    "highlight_en": [
+      "let us cultivate our garden"
+    ],
+    "text_zh": "“说得都很好，”老实人答道，“可是还是种我们的园子要紧。”",
+    "highlight_zh": [
+      "种我们的园子"
+    ],
+    "translation": "anonymous English translation (Project Gutenberg #19942)",
+    "source": {
+      "kind": "gutenberg",
+      "id": 4650
+    },
+    "status": "draft",
+    "translation_source": {
+      "kind": "gutenberg",
+      "id": 19942
+    }
+  },
+  {
+    "id": "fr-man-1",
+    "book_id": "fr-manon-lescaut",
+    "place_ids": [
+      "fr-le-havre"
+    ],
+    "location": "Part 1",
+    "location_zh": "第一部",
+    "text_orig": "c'est une douzaine de filles de joie que je conduis, avec mes compagnons, jusqu'au Havre-de-Grâce, où nous les ferons embarquer pour l'Amérique.",
+    "highlight_orig": [
+      "Havre-de-Grâce"
+    ],
+    "text_en": "it's a dozen women of pleasure whom I and my companions are taking as far as Le Havre-de-Grâce, where we will put them on a ship for America.",
+    "highlight_en": [
+      "Le Havre-de-Grâce"
+    ],
+    "text_zh": "这是一打风流女子，我和同伴们押着她们一直走到勒阿弗尔，在那里送她们上船去美洲。",
+    "highlight_zh": [
+      "勒阿弗尔"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 17983
+    },
+    "status": "draft"
+  },
+  {
+    "id": "fr-con-1",
+    "book_id": "fr-contemplations",
+    "place_ids": [
+      "fr-villequier"
+    ],
+    "location": "Book 4, XIV: Tomorrow, at dawn",
+    "location_zh": "第四卷第十四首《明天，天一亮》",
+    "text_orig": "Je ne regarderai ni l'or du soir qui tombe,\nNi les voiles au loin descendant vers Harfleur,\nEt, quand j'arriverai, je mettrai sur ta tombe\nUn bouquet de houx vert et de bruyère en fleur.",
+    "highlight_orig": [
+      "ta tombe"
+    ],
+    "text_en": "I will not look at the gold of evening falling,\nNor at the far-off sails going down toward Harfleur,\nAnd when I arrive, I will lay upon your grave\nA bouquet of green holly and heather in flower.",
+    "highlight_en": [
+      "your grave"
+    ],
+    "text_zh": "我不看黄昏落下的金光，\n也不看远处驶向阿夫勒尔的帆，\n到了那里，我会在你的墓上\n放一束绿冬青和开花的石楠。",
+    "highlight_zh": [
+      "你的墓"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 29844
+    },
+    "status": "draft"
+  },
+  {
+    "id": "fr-csi-1",
+    "book_id": "fr-a-simple-heart",
+    "place_ids": [
+      "fr-pont-l-eveque"
+    ],
+    "location": "Chapter 1",
+    "location_zh": "第 1 章",
+    "text_orig": "Pendant un demi-siècle, les bourgeoises de Pont-l'Évêque envièrent à Mme Aubain sa servante Félicité.",
+    "highlight_orig": [
+      "Pont-l'Évêque"
+    ],
+    "text_en": "For half a century the ladies of Pont-l'Évêque envied Madame Aubain her servant Félicité.",
+    "highlight_en": [
+      "Pont-l'Évêque"
+    ],
+    "text_zh": "半个世纪里，主教桥的太太们都羡慕欧班太太有个女佣叫费莉西泰。",
+    "highlight_zh": [
+      "主教桥"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 12065
+    },
+    "status": "draft"
+  },
+  {
+    "id": "fr-uv-1",
+    "book_id": "fr-a-womans-life",
+    "place_ids": [
+      "fr-etretat-guillette"
+    ],
+    "location": "Chapter 1",
+    "location_zh": "第 1 章",
+    "text_orig": "Bientôt apparut le village d'Yport. Des femmes qui raccommodaient des hardes, assises sur le seuil de leurs demeures, les regardaient passer.",
+    "highlight_orig": [
+      "Yport"
+    ],
+    "text_en": "Soon the village of Yport came into view. Women mending old clothes, sitting on their doorsteps, watched them go by.",
+    "highlight_en": [
+      "Yport"
+    ],
+    "text_zh": "不久，伊波尔村出现在眼前。坐在门槛上缝补旧衣服的女人们看着他们走过。",
+    "highlight_zh": [
+      "伊波尔村"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 17457
+    },
+    "status": "draft"
+  },
+  {
+    "id": "fr-bds-1",
+    "book_id": "fr-boule-de-suif",
+    "place_ids": [
+      "fr-rouen"
+    ],
+    "location": "Opening",
+    "location_zh": "开头",
+    "text_orig": "Les Prussiens allaient entrer dans Rouen, disait-on.",
+    "highlight_orig": [
+      "Rouen"
+    ],
+    "text_en": "The Prussians were about to enter Rouen, people said.",
+    "highlight_en": [
+      "Rouen"
+    ],
+    "text_zh": "人们说，普鲁士人就要进鲁昂了。",
+    "highlight_zh": [
+      "鲁昂"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 10746
+    },
+    "status": "draft"
+  },
+  {
+    "id": "fr-cle-1",
+    "book_id": "fr-princesse-de-cleves",
+    "place_ids": [
+      "fr-coulommiers"
+    ],
+    "location": "Part 3",
+    "location_zh": "第三部",
+    "text_orig": "il sut qu'il était proche de Coulommiers. A ce mot de Coulommiers, sans faire aucune réflexion et sans savoir quel était son dessein, il alla à toute bride du côté qu'on le lui montrait. Il arriva dans la forêt, et se laissa conduire au hasard par des routes faites avec soin, qu'il jugea bien qui conduisaient vers le château.",
+    "highlight_orig": [
+      "Coulommiers"
+    ],
+    "text_en": "he learned that he was near Coulommiers. At the word Coulommiers, without a moment's thought and without knowing what he meant to do, he rode at full gallop in the direction he was shown. He came into the forest and let himself be led at random along carefully laid paths, which he judged must lead to the château.",
+    "highlight_en": [
+      "Coulommiers"
+    ],
+    "text_zh": "他得知自己离库洛米耶不远了。一听到“库洛米耶”这个名字，他什么也没想，也不知道自己要干什么，就朝人家指的方向纵马飞奔。他进了森林，任由那些修得很整齐的小路带着走，他判断这些路一定通向城堡。",
+    "highlight_zh": [
+      "库洛米耶"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 18797
+    },
+    "status": "draft"
+  },
+  {
+    "id": "fr-syl-1",
+    "book_id": "fr-sylvie",
+    "place_ids": [
+      "fr-ermenonville"
+    ],
+    "location": "Chapter 9, Ermenonville",
+    "location_zh": "第九章《埃默农维尔》",
+    "text_orig": "Il me vint l'idée de me distraire par une promenade à Ermenonville, distant d'une lieue par le chemin de la forêt. C'était par un beau temps d'été. Je pris plaisir d'abord à la fraîcheur de cette route qui semble l'allée d'un parc.",
+    "highlight_orig": [
+      "Ermenonville"
+    ],
+    "text_en": "I had the idea of taking my mind off things with a walk to Ermenonville, a league away by the forest road. It was a fine summer day. At first I enjoyed the coolness of the road, which is like the avenue of a park.",
+    "highlight_en": [
+      "Ermenonville"
+    ],
+    "text_zh": "我想到去埃默农维尔走走，散散心，走森林里的路只有一里远。那是夏天的好天气。起初我很享受这条路上的凉意，它就像公园里的林荫道。",
+    "highlight_zh": [
+      "埃默农维尔"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 55554
+    },
+    "status": "draft"
+  },
+  {
+    "id": "fr-reb-1",
+    "book_id": "fr-against-nature",
+    "place_ids": [
+      "fr-fontenay-aux-roses"
+    ],
+    "location": "Notice (prologue)",
+    "location_zh": "序章",
+    "text_orig": "Il fouilla les environs de la capitale, et découvrit une bicoque à vendre, en haut de Fontenay-aux-Roses, dans un endroit écarté, sans voisins, près du fort",
+    "highlight_orig": [
+      "Fontenay-aux-Roses"
+    ],
+    "text_en": "He searched the outskirts of the capital and found a little house for sale at the top of Fontenay-aux-Roses, in an out-of-the-way spot, with no neighbours, near the fort",
+    "highlight_en": [
+      "Fontenay-aux-Roses"
+    ],
+    "text_zh": "他在巴黎近郊四处寻找，在丰特奈-奥罗斯的高处找到一座待售的小房子，地方偏僻，没有邻居，靠近要塞",
+    "highlight_zh": [
+      "丰特奈-奥罗斯"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 56149
+    },
+    "status": "draft"
+  },
+  {
+    "id": "fr-alc-1",
+    "book_id": "fr-alcools",
+    "place_ids": [
+      "fr-pont-mirabeau"
+    ],
+    "location": "Le Pont Mirabeau",
+    "location_zh": "《米拉波桥》",
+    "text_orig": "Sous le pont Mirabeau coule la Seine\nEt nos amours\nFaut-il qu'il m'en souvienne\nLa joie venait toujours après la peine.",
+    "highlight_orig": [
+      "pont Mirabeau"
+    ],
+    "text_en": "Under the Mirabeau Bridge the Seine flows\nAnd our loves\nMust I remember them\nJoy always came after pain",
+    "highlight_en": [
+      "the Mirabeau Bridge"
+    ],
+    "text_zh": "米拉波桥下塞纳河流淌\n我们的爱情\n我得记住吗\n欢乐总在痛苦后来临",
+    "highlight_zh": [
+      "米拉波桥"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 15462
+    },
+    "status": "draft"
+  },
+  {
+    "id": "fr-rim-1",
+    "book_id": "fr-rimbaud-poems",
+    "place_ids": [
+      "fr-rimbaud-museum"
+    ],
+    "location": "To Music (Place de la Gare, Charleville)",
+    "location_zh": "《致音乐》（沙勒维尔车站广场）",
+    "text_orig": "Sur la place taillée en mesquines pelouses,\nSquare où tout est correct, les arbres et les fleurs,\nTous les bourgeois poussifs qu'étranglent les chaleurs\nPortent, les jeudis soirs, leurs bêtises jalouses.",
+    "highlight_orig": [
+      "la place"
+    ],
+    "text_en": "On the square cut into shabby little lawns,\nA square where all is correct, the trees and the flowers,\nAll the wheezing bourgeois strangled by the heat\nBring, on Thursday evenings, their jealous stupidities.",
+    "highlight_en": [
+      "the square"
+    ],
+    "text_zh": "在剪成寒碜小草坪的广场上，\n一个什么都规规矩矩的广场，树和花都是，\n所有被暑热勒得直喘的有产者\n每个星期四晚上都带着他们嫉妒的蠢话来到这里。",
+    "highlight_zh": [
+      "广场"
+    ],
+    "translation": "own",
+    "source": {
+      "kind": "gutenberg",
+      "id": 29302
+    },
+    "status": "draft"
+  },
+  {
+    "id": "fr-amb-1",
+    "book_id": "fr-the-ambassadors",
+    "place_ids": [
+      "fr-luxembourg-gardens"
+    ],
+    "location": "Book 2, Chapter 2",
+    "location_zh": "第二部第 2 章",
+    "text_en": "In the Luxembourg Gardens he pulled up; here at last he found his nook, and here, on a penny chair from which terraces, alleys, vistas, fountains, little trees in green tubs, little women in white caps and shrill little girls at play all sunnily “composed” together, he passed an hour in which the cup of his impressions seemed truly to overflow.",
+    "highlight_en": [
+      "the Luxembourg Gardens"
+    ],
+    "text_zh": "到了卢森堡公园他停了下来；在这里他终于找到了自己的角落，在这里，坐在一把一便士的椅子上——从这里望去，台地、小径、远景、喷泉、绿桶里的小树、戴白帽子的小妇人和尖声嬉闹的小女孩，全都在阳光下“构成”了一幅画——他度过了一个小时，觉得满心的印象几乎要溢出来了。",
+    "highlight_zh": [
+      "卢森堡公园"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 432
+    },
+    "status": "draft"
+  },
+  {
+    "id": "fr-jen-s1",
+    "kind": "scene",
+    "book_id": "fr-journey-end-of-night",
+    "place_ids": [
+      "fr-place-de-clichy"
+    ],
+    "location": "Opening",
+    "location_zh": "开头",
+    "text_en": "Bardamu, a medical student, sits on the terrace of a café on the Place de Clichy arguing with his friend Arthur about the French; a regiment goes by with its band playing, and to prove a point he runs after it and signs up, just before the war breaks out.",
+    "text_zh": "医学生巴达缪坐在克利希广场一家咖啡馆的露天座上，和朋友阿蒂尔争论法国人是什么样的人；一支团队奏着军乐走过，他为了赌一口气追上去报了名，没过多久战争就爆发了。",
+    "highlight_en": [
+      "the Place de Clichy"
+    ],
+    "highlight_zh": [
+      "克利希广场"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Journey_to_the_End_of_the_Night"
+  },
+  {
+    "id": "fr-vds-s1",
+    "kind": "scene",
+    "book_id": "fr-life-before-us",
+    "place_ids": [
+      "fr-belleville"
+    ],
+    "location": "Ending",
+    "location_zh": "结尾",
+    "text_en": "As Madame Rosa grows too ill to climb the six flights, Momo helps her down to the secret cellar she calls her 'Jewish hole', the hiding place she has kept since the war, and stays beside her there to the end.",
+    "text_zh": "罗莎太太病得再也爬不动六层楼梯，莫莫把她扶到地下室里那个她叫作“犹太洞”的秘密藏身处——那是她从战争年代就留着的地方——一直陪她到最后。",
+    "highlight_en": [
+      "Momo"
+    ],
+    "highlight_zh": [
+      "莫莫"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Life_Before_Us"
+  },
+  {
+    "id": "fr-gsw-s1",
+    "kind": "scene",
+    "book_id": "fr-the-great-swindle",
+    "place_ids": [
+      "fr-lutetia"
+    ],
+    "location": "Part 3",
+    "location_zh": "第三部",
+    "text_en": "With the money from the fake war memorials pouring in, Édouard takes a suite at the Hôtel Lutetia under a false name, throws money about and receives the staff behind the extravagant masks he makes to hide his ruined face.",
+    "text_zh": "卖假纪念碑的钱滚滚而来，爱德华用假名住进吕特西亚酒店的套房，大把花钱，戴着自己做的夸张面具遮住被炸毁的脸，接待酒店的侍者。",
+    "highlight_en": [
+      "the Hôtel Lutetia"
+    ],
+    "highlight_zh": [
+      "吕特西亚酒店"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Great_Swindle"
+  },
+  {
+    "id": "fr-lul-s1",
+    "kind": "scene",
+    "book_id": "fr-lullaby",
+    "place_ids": [
+      "fr-rue-d-hauteville"
+    ],
+    "location": "Opening",
+    "location_zh": "开头",
+    "text_en": "The police arrive at the Massé family's apartment on the Rue d'Hauteville to find the two small children dead and the nanny, Louise, who has tried to kill herself; the novel then goes back to the day the parents hired her.",
+    "text_zh": "警察赶到奥特维尔街马塞家的公寓，两个小孩已经死了，保姆路易丝自杀未遂；小说随后倒回父母雇用她的那一天。",
+    "highlight_en": [
+      "the Rue d'Hauteville"
+    ],
+    "highlight_zh": [
+      "奥特维尔街"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Lullaby_(Slimani_novel)"
+  },
+  {
+    "id": "fr-mod-s1",
+    "kind": "scene",
+    "book_id": "fr-second-thoughts",
+    "place_ids": [
+      "fr-train-bleu"
+    ],
+    "location": "Part 1",
+    "location_zh": "第一部",
+    "text_en": "Léon Delmont, a Paris manager for an Italian typewriter firm, boards the morning train for Rome at the Gare de Lyon with a small suitcase, meaning to tell his mistress Cécile that he has found her a job in Paris and will leave his wife.",
+    "text_zh": "意大利打字机公司的巴黎经理莱昂·德尔蒙提着一只小箱子，在里昂车站登上去罗马的早班火车，打算告诉情人塞西尔，他已经在巴黎替她找到工作，自己要离开妻子。",
+    "highlight_en": [
+      "the Gare de Lyon"
+    ],
+    "highlight_zh": [
+      "里昂车站"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/La_Modification"
+  },
+  {
+    "id": "fr-sar-s1",
+    "kind": "scene",
+    "book_id": "fr-sun-also-rises",
+    "place_ids": [
+      "fr-le-select"
+    ],
+    "location": "Book 1",
+    "location_zh": "第一部",
+    "text_en": "Night after night Jake Barnes and his friends drift between the cafés of Montparnasse, and they keep ending up at the Select, where Brett Ashley turns up with a crowd and the plan to go down to Pamplona for the fiesta takes shape.",
+    "text_zh": "杰克·巴恩斯和朋友们夜复一夜在蒙帕纳斯的咖啡馆之间游荡，最后总是落脚在塞莱克特，勃莱特·阿什利带着一群人出现，去潘普洛纳过节的计划也在这里商定。",
+    "highlight_en": [
+      "the Select"
+    ],
+    "highlight_zh": [
+      "塞莱克特"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Sun_Also_Rises"
+  },
+  {
+    "id": "fr-mlf-s1",
+    "kind": "scene",
+    "book_id": "fr-my-life-in-france",
+    "place_ids": [
+      "fr-la-couronne"
+    ],
+    "location": "Chapter 1",
+    "location_zh": "第 1 章",
+    "text_en": "On her first day in France in November 1948, Julia and Paul Child stop for lunch in Rouen at La Couronne, where she eats oysters and a sole meunière browned in butter, sips Chablis, and decides on the spot that French food is what she wants to learn.",
+    "text_zh": "1948 年 11 月到法国的第一天，茱莉亚和保罗·查尔德在鲁昂的王冠餐厅吃午饭，她吃了生蚝和黄油煎鳎鱼，喝着夏布利，当场认定自己要学的就是法国菜。",
+    "highlight_en": [
+      "La Couronne"
+    ],
+    "highlight_zh": [
+      "王冠餐厅"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/My_Life_in_France"
   }
 ]

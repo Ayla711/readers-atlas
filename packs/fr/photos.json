@@ -1,10 +1,4 @@
 {
-  "fr-saumur": {
-    "commons_file": "File:Panorama_of_Saumur.JPG",
-    "alt_en": "Saumur across the Loire, with the château above the town",
-    "alt_zh": "从卢瓦尔河对岸望索米尔，城堡高踞城镇上方",
-    "crop": null
-  },
   "fr-illiers-combray": {
     "commons_file": "File:Illiers-Combray.jpg",
     "alt_en": "A street in Illiers-Combray with Saint-Jacques Church beyond",
@@ -312,6 +306,258 @@
     "commons_file": "File:Ménerbes 2013 05.jpg",
     "alt_en": "The view from Ménerbes over the Luberon",
     "alt_zh": "从梅纳村眺望吕贝隆",
+    "crop": null
+  },
+  "fr-la-deviniere": {
+    "commons_file": "File:La Devinière - Maison du Vigneron.JPG",
+    "alt_en": "The farmhouse of La Devinière, Rabelais's birthplace",
+    "alt_zh": "拉伯雷出生的拉德维尼耶尔农舍",
+    "crop": null
+  },
+  "fr-chateau-montaigne": {
+    "commons_file": "File:Château de Montaigne.jpg",
+    "alt_en": "The Château de Montaigne",
+    "alt_zh": "蒙田城堡",
+    "crop": null
+  },
+  "fr-comedie-francaise": {
+    "commons_file": "File:Façade de la Comédie Française, place Colette.JPG",
+    "alt_en": "The Comédie-Française on Place Colette",
+    "alt_zh": "科莱特广场上的法兰西喜剧院",
+    "crop": null
+  },
+  "fr-la-fontaine-museum": {
+    "commons_file": "File:Château-Thierry Musée Jean-de-La-Fontaine face.JPG",
+    "alt_en": "La Fontaine's birthplace, now a museum",
+    "alt_zh": "拉封丹出生的宅子，现为博物馆",
+    "crop": null
+  },
+  "fr-racine-ferte-milon": {
+    "commons_file": "File:Musée Jean Racine Ferté Milon 3.jpg",
+    "alt_en": "Racine's childhood home in La Ferté-Milon",
+    "alt_zh": "拉费泰米隆的拉辛童年故居",
+    "crop": null
+  },
+  "fr-coulommiers": {
+    "commons_file": "File:Château Coulommiers Brie 2.jpg",
+    "alt_en": "Ruins of the Château de Coulommiers in its park",
+    "alt_zh": "公园里的库洛米耶城堡遗迹",
+    "crop": null
+  },
+  "fr-ferney": {
+    "commons_file": "File:Château de Voltaire à Ferney 10.JPG",
+    "alt_en": "Voltaire's château and garden at Ferney",
+    "alt_zh": "费尔奈的伏尔泰城堡和花园",
+    "crop": null
+  },
+  "fr-ile-d-aix": {
+    "commons_file": "File:Aix fort rade entree.JPG",
+    "alt_en": "The ramparts and lighthouses of Île-d'Aix",
+    "alt_zh": "艾克斯岛的城墙和灯塔",
+    "crop": null
+  },
+  "fr-odeon": {
+    "commons_file": "File:Théâtre de l'Odéon, place Paul-Claudel, Paris 6e.jpg",
+    "alt_en": "The Théâtre de l'Odéon",
+    "alt_zh": "奥德翁剧院",
+    "crop": null
+  },
+  "fr-langres-diderot": {
+    "commons_file": "File:Langres (52) Hôtel du Breuil-de-Saint-Germain - Extérieur 01.jpg",
+    "alt_en": "The Hôtel du Breuil, now the Diderot museum, Langres",
+    "alt_zh": "朗格勒的布勒伊宅邸，现为狄德罗博物馆",
+    "crop": null
+  },
+  "fr-sorbonne": {
+    "commons_file": "File:Bâtiment Sorbonne - Paris V (FR75) - 2025-03-29 - 1.jpg",
+    "alt_en": "An entrance to the Sorbonne",
+    "alt_zh": "索邦的一处大门",
+    "crop": null
+  },
+  "fr-ermenonville": {
+    "commons_file": "File:Ermenonville (60), parc Jean-Jacques Rousseau, île des Peupliers 7.jpg",
+    "alt_en": "The Isle of Poplars and Rousseau's empty tomb",
+    "alt_zh": "白杨岛和卢梭的空墓",
+    "crop": null
+  },
+  "fr-fontenay-aux-roses": {
+    "commons_file": "File:Mairie - Fontenay-aux-Roses (FR92) - 2021-01-03 - 1.jpg",
+    "alt_en": "The town hall of Fontenay-aux-Roses",
+    "alt_zh": "丰特奈-奥罗斯市政厅",
+    "crop": null
+  },
+  "fr-rimbaud-museum": {
+    "commons_file": "File:Charleville-Mézières - musée Arthur Rimbaud (02).JPG",
+    "alt_en": "The Old Mill, home of the Rimbaud Museum",
+    "alt_zh": "兰波博物馆所在的老磨坊",
+    "crop": null
+  },
+  "fr-pont-mirabeau": {
+    "commons_file": "File:Pont Mirabeau - Paris XV (FR75) - 2021-08-08 - 1.jpg",
+    "alt_en": "The Pont Mirabeau",
+    "alt_zh": "米拉波桥",
+    "crop": null
+  },
+  "fr-place-de-clichy": {
+    "commons_file": "File:Place de Clichy (49570494817).jpg",
+    "alt_en": "The Place de Clichy",
+    "alt_zh": "克利希广场",
+    "crop": null
+  },
+  "fr-belleville": {
+    "commons_file": "File:Belleville @ Paris (28829063754).jpg",
+    "alt_en": "A street in Belleville",
+    "alt_zh": "美丽城的街头",
+    "crop": null
+  },
+  "fr-nice-promenade": {
+    "commons_file": "File:20211112.Beaches of Nice.-013.jpg",
+    "alt_en": "The Promenade des Anglais and the beach at Nice",
+    "alt_zh": "尼斯的英国人大道和海滩",
+    "crop": null
+  },
+  "fr-perec-rue-linne": {
+    "commons_file": "File:Plaque Georges Perec 13 rue Linné Paris.jpg",
+    "alt_en": "The plaque to Georges Perec at 13 rue Linné",
+    "alt_zh": "林奈街 13 号的佩雷克纪念牌",
+    "crop": null
+  },
+  "fr-yvetot": {
+    "commons_file": "File:Yvetot, F-76.jpg",
+    "alt_en": "Market day in Yvetot",
+    "alt_zh": "伊沃托的集市日",
+    "crop": null
+  },
+  "fr-issy-leveque": {
+    "commons_file": "File:Issy-l'Évêque - Eglise Saint-Jacques-le-Majeur - 01.jpg",
+    "alt_en": "The church of Issy-l'Évêque",
+    "alt_zh": "伊西莱韦克的教堂",
+    "crop": null
+  },
+  "fr-chatelus": {
+    "commons_file": "File:Le bourg de Châtelus-le-Marcheix.JPG",
+    "alt_en": "The village of Châtelus-le-Marcheix",
+    "alt_zh": "夏特吕-勒马尔谢村",
+    "crop": null
+  },
+  "fr-lutetia": {
+    "commons_file": "File:Hôtel Lutetia, Paris 6e 4-1.jpg",
+    "alt_en": "The Hôtel Lutetia on Boulevard Raspail",
+    "alt_zh": "拉斯帕伊大道上的吕特西亚酒店",
+    "crop": null
+  },
+  "fr-villa-seurat": {
+    "commons_file": "File:Villa Seurat.jpg",
+    "alt_en": "The Villa Seurat",
+    "alt_zh": "修拉别墅巷",
+    "crop": null
+  },
+  "fr-place-de-la-concorde": {
+    "commons_file": "File:Champs Elysée @ Place de la Concorde @ Paris (34758709511).jpg",
+    "alt_en": "The Place de la Concorde at the foot of the Champs-Élysées",
+    "alt_zh": "香榭丽舍大街起点的协和广场",
+    "crop": null
+  },
+  "fr-arc-de-triomphe": {
+    "commons_file": "File:Arc de Triomphe (17).JPG",
+    "alt_en": "The Arc de Triomphe",
+    "alt_zh": "凯旋门",
+    "crop": null
+  },
+  "fr-cafe-de-flore": {
+    "commons_file": "File:Café de Flore - Boulevard Saint-Germain.JPG",
+    "alt_en": "The Café de Flore on Boulevard Saint-Germain",
+    "alt_zh": "圣日耳曼大道上的花神咖啡馆",
+    "crop": null
+  },
+  "fr-la-couronne": {
+    "commons_file": "File:Façade du Restaurant La Couronne - 2023.jpg",
+    "alt_en": "La Couronne on the Place du Vieux-Marché, Rouen",
+    "alt_zh": "鲁昂老市场广场上的王冠餐厅",
+    "crop": null
+  },
+  "fr-urrugne": {
+    "commons_file": "File:Urruña - Irudiak (2025) 12.jpg",
+    "alt_en": "A street in Urrugne",
+    "alt_zh": "乌鲁涅的街道",
+    "crop": null
+  },
+  "fr-chitry": {
+    "commons_file": "File:Yonne river in Chitry-les-Mines (1).jpg",
+    "alt_en": "The Yonne at Chitry-les-Mines",
+    "alt_zh": "希特里莱米讷的约讷河",
+    "crop": null
+  },
+  "fr-les-charmettes": {
+    "commons_file": "File:Esterno della casa dove ha vissuto Jean-Jacques Rousseau - panoramio.jpg",
+    "alt_en": "Les Charmettes and its garden",
+    "alt_zh": "沙梅特小屋和花园",
+    "crop": null
+  },
+  "fr-rue-d-hauteville": {
+    "commons_file": "File:Rue d'Hauteville (Paris) 01.jpg",
+    "alt_en": "The Rue d'Hauteville",
+    "alt_zh": "奥特维尔街",
+    "crop": null
+  },
+  "fr-train-bleu": {
+    "commons_file": "File:Le Train Bleu, novembre 2019 (2).jpg",
+    "alt_en": "The ceiling of Le Train Bleu at the Gare de Lyon",
+    "alt_zh": "里昂车站蓝色列车餐厅的天顶",
+    "crop": null
+  },
+  "fr-cite-veron": {
+    "commons_file": "File:Cité Véron - Paris XVIII (FR75) - 2021-08-04 - 1.jpg",
+    "alt_en": "The Cité Véron",
+    "alt_zh": "维隆巷",
+    "crop": null
+  },
+  "fr-colette-house": {
+    "commons_file": "File:Maison natale de Colette en avril 2013.jpg",
+    "alt_en": "Colette's birthplace at Saint-Sauveur-en-Puisaye",
+    "alt_zh": "圣索沃尔昂皮伊塞的科莱特故居",
+    "crop": null
+  },
+  "fr-villequier": {
+    "commons_file": "File:Maison de Victor Hugo à Villequier.jpg",
+    "alt_en": "The Victor Hugo Museum at Villequier and its garden",
+    "alt_zh": "维勒基耶的雨果纪念馆和花园",
+    "crop": null
+  },
+  "fr-maison-de-balzac": {
+    "commons_file": "File:Maison de Balzac 06.JPG",
+    "alt_en": "Balzac's study in the Maison de Balzac",
+    "alt_zh": "巴尔扎克故居里的书房",
+    "crop": null
+  },
+  "fr-goutte-d-or": {
+    "commons_file": "File:Rue Goutte Or - Paris XVIII (FR75) - 2025-02-01 - 1.jpg",
+    "alt_en": "The Rue de la Goutte-d'Or",
+    "alt_zh": "金滴街",
+    "crop": null
+  },
+  "fr-pont-l-eveque": {
+    "commons_file": "File:Pont-l'Evêque 10.jpg",
+    "alt_en": "Half-timbered houses in Pont-l'Évêque",
+    "alt_zh": "主教桥的半木结构老房子",
+    "crop": null
+  },
+  "fr-tarascon": {
+    "commons_file": "File:Villa de Tartarin 01.jpg",
+    "alt_en": "The Maison de Tartarin in Tarascon",
+    "alt_zh": "塔拉斯孔的戴达伦之家",
+    "crop": null
+  },
+  "fr-montparnasse-cemetery": {
+    "commons_file": "File:Charles Baudelaire tomb in Montparnasse Cemetery.jpg",
+    "alt_en": "Baudelaire's grave in Montparnasse Cemetery",
+    "alt_zh": "蒙帕纳斯公墓里的波德莱尔墓",
+    "crop": null
+  },
+  "fr-le-select": {
+    "commons_file": "File:Le Select Paris.jpg",
+    "alt_en": "Le Select on Boulevard du Montparnasse",
+    "alt_zh": "蒙帕纳斯大道上的塞莱克特咖啡馆",
     "crop": null
   }
 }

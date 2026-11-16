@@ -895,5 +895,55 @@
     ],
     "coord_checked": "Category:Duomo (Crema) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Duomo_(Crema)",
     "fact_source": "https://en.wikipedia.org/wiki/Call_Me_by_Your_Name_(film)"
+  },
+  {
+    "id": "it-pizzoli",
+    "name": "Pizzoli",
+    "name_zh": "皮佐利",
+    "lat": 42.43603,
+    "lon": 13.29886,
+    "place_type": "pilgrimage",
+    "note": "1940 年，金兹伯格的丈夫、反法西斯知识分子莱昂内·金兹伯格被流放到阿布鲁佐山区的皮佐利，她带着孩子随行，在这里住了三年。《家庭絮语》用一家人挂在嘴边的口头禅串起列维家几十年的生活，也写到了这段流放。镇上的图书馆以莱昂内和娜塔莉娅的名字命名",
+    "note_en": "In 1940 Natalia Ginzburg's husband Leone, an anti-fascist intellectual, was sent into internal exile at Pizzoli in the Abruzzo mountains; she followed with their children and lived here for three years. Family Lexicon strings decades of the Levi family's life on the sayings they repeated at home, and it covers these years of exile too. The town library is named after Leone and Natalia Ginzburg",
+    "coord_checked": "Pizzoli (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Pizzoli",
+    "book_ids": [
+      "family-lexicon"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Natalia_Ginzburg"
+  },
+  {
+    "id": "it-turin-monumentale",
+    "name": "Monumental Cemetery, Turin",
+    "name_zh": "都灵 · 纪念公墓（普里莫·莱维墓）",
+    "lat": 45.0798,
+    "lon": 7.70678,
+    "place_type": "pilgrimage",
+    "note": "普里莫·莱维一生住在都灵，从奥斯维辛活下来后，1945 年绕道东欧走了九个月才回到这里的家，《休战》写的就是这段漫长的归途。他 1987 年在都灵去世，葬在纪念公墓的犹太区，墓碑上刻着他在集中营的编号 174517",
+    "note_en": "Primo Levi lived in Turin all his life; after surviving Auschwitz he spent nine months getting home in 1945, by a roundabout route through Eastern Europe, and The Truce tells that long way back. He died in Turin in 1987 and is buried in the Jewish section of the Monumental Cemetery, his camp number, 174517, carved on the stone",
+    "coord_checked": "Cimitero Monumentale (Torino) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Cimitero Monumentale (Torino)",
+    "book_ids": [
+      "the-truce"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Primo_Levi"
+  },
+  {
+    "id": "it-candela",
+    "name": "Candela and the wheat fields of the Ofanto valley",
+    "name_zh": "坎代拉 · 奥凡托河谷的麦田",
+    "lat": 41.133333,
+    "lon": 15.516667,
+    "place_type": "film_location",
+    "adaptation": {
+      "title": "I'm Not Scared",
+      "year": 2003,
+      "kind": "电影"
+    },
+    "scene": "小说写 1978 年夏天普利亚一个只有几户人家的小村，九岁的米凯莱在麦田边一座废弃农舍的坑里发现了一个被锁着的男孩。萨尔瓦托雷斯 2003 年的电影在普利亚和巴西利卡塔交界一带的麦田里拍摄，坎代拉是取景地之一",
+    "scene_en": "the novel is set in the summer of 1978 in a tiny hamlet in Apulia, where nine-year-old Michele finds a boy chained in a pit beside an abandoned farmhouse in the wheat fields. Gabriele Salvatores's 2003 film was shot in the wheat country on the border of Apulia and Basilicata, with Candela among its locations",
+    "book_ids": [
+      "im-not-scared"
+    ],
+    "coord_checked": "Category:Candela (Italy) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Candela_(Italy)",
+    "fact_source": "https://en.wikipedia.org/wiki/I%27m_Not_Scared"
   }
 ]

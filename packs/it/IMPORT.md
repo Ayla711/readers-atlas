@@ -1,6 +1,6 @@
 # 导入报告 · Italy · 2026-11-16
 
-包：60 本书、59 个地点、35 条摘句和场景说明、58 张照片。
+包：63 本书、62 个地点、35 条摘句和场景说明、61 张照片。
 
 ## 错误（0）
 
@@ -21,7 +21,7 @@
 - place it-procida: 4.1 km off the simplified coastline, counted in IT-72
 - place it-hotel-des-bains: 0.8 km off the simplified coastline, counted in IT-34
 - regions without a place: Molise
-- photo it-de-amicis-monument: portrait image (800×1047); the place card is designed for landscape
+- photo it-pizzoli: only 500 px wide (the place card shows 800); a larger file would look sharper
 
 ## 脚本没有逐字核对的文本（2，审核时人工核对）
 
@@ -35,7 +35,7 @@
 
 | 区 | 地点 |
 |---|---:|
-| Piedmont | 2 |
+| Piedmont | 3 |
 | Aosta Valley | 2 |
 | Lombardy | 3 |
 | Trentino-South Tyrol | 1 |
@@ -47,10 +47,10 @@
 | Umbria | 1 |
 | Marche | 1 |
 | Lazio | 5 |
-| Abruzzo | 2 |
+| Abruzzo | 3 |
 | Molise | 0 |
 | Campania | 3 |
-| Apulia | 1 |
+| Apulia | 2 |
 | Basilicata | 1 |
 | Calabria | 1 |
 | Sicily | 7 |

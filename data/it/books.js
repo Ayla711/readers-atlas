@@ -60,5 +60,8 @@ window.RA_DATA.books = [
   { id: "death-in-venice", title: "Death in Venice", title_zh: "死于威尼斯", title_orig: "Der Tod in Venedig", author: "Thomas Mann", author_zh: "托马斯·曼", author_orig: "Thomas Mann", year: "1912", orig_lang: "de", public_domain: true, source_url: "https://www.gutenberg.org/ebooks/12108" },
   { id: "catch-22", title: "Catch-22", title_zh: "第二十二条军规", author: "Joseph Heller", author_zh: "约瑟夫·海勒", author_orig: "Joseph Heller", year: "1961", orig_lang: "en", public_domain: false, source_url: null },
   { id: "call-me-by-your-name", title: "Call Me by Your Name", title_zh: "请以你的名字呼唤我", author: "André Aciman", author_zh: "安德烈·艾西蒙", author_orig: "André Aciman", year: "2007", orig_lang: "en", public_domain: false, source_url: null },
-  { id: "inferno-dan-brown", title: "Inferno", title_zh: "地狱", author: "Dan Brown", author_zh: "丹·布朗", author_orig: "Dan Brown", year: "2013", orig_lang: "en", public_domain: false, source_url: null }
+  { id: "inferno-dan-brown", title: "Inferno", title_zh: "地狱", author: "Dan Brown", author_zh: "丹·布朗", author_orig: "Dan Brown", year: "2013", orig_lang: "en", public_domain: false, source_url: null },
+  { id: "family-lexicon", title: "Family Lexicon", title_zh: "家庭絮语", title_orig: "Lessico famigliare", author: "Natalia Ginzburg", author_zh: "娜塔莉娅·金兹伯格", author_orig: "Natalia Ginzburg", year: "1963", orig_lang: "it", public_domain: false, source_url: null },
+  { id: "the-truce", title: "The Truce", title_zh: "休战", title_orig: "La tregua", author: "Primo Levi", author_zh: "普里莫·莱维", author_orig: "Primo Levi", year: "1963", orig_lang: "it", public_domain: false, source_url: null, aliases: ["The Reawakening"] },
+  { id: "im-not-scared", title: "I'm Not Scared", title_zh: "我不害怕", title_orig: "Io non ho paura", author: "Niccolò Ammaniti", author_zh: "尼科洛·阿曼尼蒂", author_orig: "Niccolò Ammaniti", year: "2001", orig_lang: "it", public_domain: false, source_url: null }
 ];

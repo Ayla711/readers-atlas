@@ -346,5 +346,23 @@
     "alt_en": "The façade of Crema Cathedral",
     "alt_zh": "克雷马大教堂立面",
     "crop": null
+  },
+  "it-pizzoli": {
+    "commons_file": "File:Biblioteca comunale Leone e Natalia Ginzburg a Pizzoli.jpg",
+    "alt_en": "The Leone and Natalia Ginzburg library in Pizzoli",
+    "alt_zh": "皮佐利的莱昂内和娜塔莉娅·金兹伯格图书馆",
+    "crop": null
+  },
+  "it-turin-monumentale": {
+    "commons_file": "File:Torino - Cimitero Monumentale di Torino - 2025-09-15 11-46-15 001.jpg",
+    "alt_en": "The Monumental Cemetery of Turin",
+    "alt_zh": "都灵纪念公墓",
+    "crop": null
+  },
+  "it-candela": {
+    "commons_file": "File:CANDELA.jpg",
+    "alt_en": "Candela above the Ofanto valley",
+    "alt_zh": "奥凡托河谷上方的坎代拉",
+    "crop": null
   }
 }
