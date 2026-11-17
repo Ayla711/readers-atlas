@@ -2451,5 +2451,20 @@
       "wizard-of-oz"
     ],
     "fact_source": "https://en.wikipedia.org/wiki/Chittenango,_New_York"
+  },
+  {
+    "id": "us-manhasset-bay",
+    "name": "Manhasset Bay",
+    "name_zh": "曼哈塞特湾",
+    "lat": 40.829008,
+    "lon": -73.714571,
+    "place_type": "prototype",
+    "prototype_of": "盖茨比夜里站在草坪上，朝黑沉沉的海水伸出双臂，尼克只望见对岸码头尽头一盏又小又远的绿灯。小说里隔开西卵和东卵的那道“礼貌湾”，原型就是大颈镇和桑兹角之间的曼哈塞特湾。今天湾里停满帆船游艇，从东岸华盛顿港的海湾步道可以眺望对岸",
+    "prototype_of_en": "Gatsby stands on his lawn at night stretching his arms toward the dark water, and all Nick can make out across it is a single green light, minute and far away, at the end of a dock. The 'courtesy bay' that separates West Egg from East Egg in the novel is Manhasset Bay, between Great Neck and Sands Point. Today the bay is full of moored sailboats, and the Bay Walk on the Port Washington shore looks across it",
+    "coord_checked": "Manhasset Bay (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Manhasset_Bay",
+    "book_ids": [
+      "great-gatsby"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Sands_Point,_New_York"
   }
 ]

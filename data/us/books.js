@@ -1,4 +1,4 @@
-// Imported from packs/us (Codex, 2026-11-11) by tools/import_pack.py on 2026-11-16. Edit the pack and re-import rather than editing this file.
+// Imported from packs/us (Codex, 2026-11-11) by tools/import_pack.py on 2026-11-17. Edit the pack and re-import rather than editing this file.
 window.RA_DATA = window.RA_DATA || {};
 window.RA_DATA.books = [
   { id: "moby-dick", title: "Moby-Dick", title_zh: "白鲸", author: "Herman Melville", author_zh: "赫尔曼·梅尔维尔", year: "1851", orig_lang: "en", public_domain: true, source_url: "https://www.gutenberg.org/ebooks/2701", aliases: [] },

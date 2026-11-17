@@ -1,11 +1,11 @@
-# 导入报告 · United States · 2026-11-16
+# 导入报告 · United States · 2026-11-17
 
-包：163 本书、174 个地点、114 条摘句和场景说明、139 张照片。
+包：163 本书、175 个地点、116 条摘句和场景说明、140 张照片。
 
 ## 错误（0）
 
 
-## 提示（73）
+## 提示（74）
 
 - place us-seven-gables: no line points to it
 - place us-wall-street: no line points to it
@@ -80,6 +80,7 @@
 - place us-outer-banks: 1.1 km off the simplified coastline, counted in NC
 - place us-westport: 1.1 km off the simplified coastline, counted in CT
 - place us-el-paso: 0.8 km off the simplified coastline, counted in TX
+- place us-manhasset-bay: 1.1 km off the simplified coastline, counted in NY
 
 ## 脚本没有逐字核对的文本（0，审核时人工核对）
 
@@ -125,7 +126,7 @@
 | New Jersey | 3 |
 | New Mexico | 1 |
 | Nevada | 1 |
-| New York | 17 |
+| New York | 18 |
 | Ohio | 5 |
 | Oklahoma | 2 |
 | Oregon | 1 |

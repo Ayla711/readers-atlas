@@ -2410,5 +2410,53 @@
     ],
     "status": "draft",
     "fact_source": "https://en.wikipedia.org/wiki/Just_Mercy"
+  },
+  {
+    "id": "usgg-3",
+    "book_id": "great-gatsby",
+    "place_ids": [
+      "us-manhasset-bay",
+      "great-neck-west-egg"
+    ],
+    "location": "Chapter 1",
+    "location_zh": "第1章",
+    "text_en": "I decided to call to him. Miss Baker had mentioned him at dinner, and that would do for an introduction. But I didn’t call to him, for he gave a sudden intimation that he was content to be alone—he stretched out his arms toward the dark water in a curious way, and, far as I was from him, I could have sworn he was trembling. Involuntarily I glanced seaward—and distinguished nothing except a single green light, minute and far away, that might have been the end of a dock. When I looked once more for Gatsby he had vanished, and I was alone again in the unquiet darkness.",
+    "highlight_en": [
+      "green light"
+    ],
+    "text_zh": "我决定招呼他一声。贝克小姐吃晚饭时提起过他，这就够作介绍了。可我终究没有开口，因为他忽然流露出想一个人待着的意思——他朝着黑沉沉的海水，以一种古怪的姿势伸出双臂，虽然离他很远，我敢发誓他在发抖。我不由自主地朝海上望去——什么也没看清，只有一盏绿灯，又小又远，也许是一座码头的尽头。等我再回头找盖茨比，他已经不见了，只剩我一个人留在不安的黑暗里。",
+    "highlight_zh": [
+      "绿灯"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 64317
+    },
+    "status": "draft"
+  },
+  {
+    "id": "usgg-4",
+    "book_id": "great-gatsby",
+    "place_ids": [
+      "great-neck-west-egg",
+      "us-manhasset-bay"
+    ],
+    "location": "Chapter 9",
+    "location_zh": "第9章",
+    "text_en": "And as I sat there brooding on the old, unknown world, I thought of Gatsby’s wonder when he first picked out the green light at the end of Daisy’s dock. He had come a long way to this blue lawn, and his dream must have seemed so close that he could hardly fail to grasp it. He did not know that it was already behind him, somewhere back in that vast obscurity beyond the city, where the dark fields of the republic rolled on under the night. Gatsby believed in the green light, the orgiastic future that year by year recedes before us. It eluded us then, but that’s no matter—tomorrow we will run faster, stretch out our arms further … And one fine morning— So we beat on, boats against the current, borne back ceaselessly into the past.",
+    "highlight_en": [
+      "green light"
+    ],
+    "text_zh": "我坐在那里，想着那个古老而未知的世界，也想起盖茨比第一次认出黛西码头尽头那盏绿灯时的惊奇。他走了很远的路才来到这片蓝色的草坪，他的梦想一定近得仿佛伸手就能抓住。他不知道，那个梦早已落在他身后，落在城市那头无边的混沌里，落在合众国黑沉沉的田野在夜色下绵延起伏的地方。盖茨比信奉那盏绿灯，信奉那个一年年在我们眼前退去的、令人狂喜的未来。那时它从我们手边溜走了，不过没关系——明天我们会跑得更快，把手臂伸得更远……总有一个晴朗的早晨——于是我们奋力向前，如逆水行舟，不停地被推回到过去。",
+    "highlight_zh": [
+      "绿灯"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 64317
+    },
+    "status": "draft"
   }
 ]
