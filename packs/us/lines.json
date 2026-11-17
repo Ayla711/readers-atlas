@@ -2310,5 +2310,105 @@
       "id": 215
     },
     "status": "draft"
+  },
+  {
+    "id": "us-fire-s1",
+    "kind": "scene",
+    "book_id": "fire-next-time",
+    "place_ids": [
+      "us-harlem"
+    ],
+    "location": "Down at the Cross",
+    "location_zh": "《在十字架下》",
+    "text_en": "Baldwin remembers the summer he turned fourteen in Harlem, when the streets, the bars and the hustlers seemed to lie in wait for every boy, and how he fled into the church and became a boy preacher for three years.",
+    "text_zh": "鲍德温回忆十四岁那年夏天的哈莱姆：街头、酒吧和皮条客好像都在等着每一个男孩，他逃进了教会，当了三年少年牧师。",
+    "highlight_en": [
+      "Harlem"
+    ],
+    "highlight_zh": [
+      "哈莱姆"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Fire_Next_Time"
+  },
+  {
+    "id": "us-herzog-s1",
+    "kind": "scene",
+    "book_id": "herzog",
+    "place_ids": [
+      "chicago"
+    ],
+    "location": "The Chicago chapter",
+    "location_zh": "芝加哥一章",
+    "text_en": "Herzog flies to Chicago, takes his late father's old pistol from his stepmother's house, and watches through a bathroom window as Valentine Gersbach bathes his little daughter June; he cannot shoot, and the next day he crashes his car with June beside him.",
+    "text_zh": "赫索格飞到芝加哥，从继母家拿走亡父的旧手枪，隔着浴室窗户看见格斯巴赫在给他的小女儿琼洗澡。他没有开枪。第二天，他带着琼开车出了车祸。",
+    "highlight_en": [
+      "Chicago"
+    ],
+    "highlight_zh": [
+      "芝加哥"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Herzog_(novel)"
+  },
+  {
+    "id": "us-mixedup-s1",
+    "kind": "scene",
+    "book_id": "mixed-up-files",
+    "place_ids": [
+      "us-met"
+    ],
+    "location": "Chapters 2-3",
+    "location_zh": "第二、三章",
+    "text_en": "Eleven-year-old Claudia Kincaid runs away with her younger brother Jamie and hides in the Metropolitan Museum of Art, sleeping in an antique bed, bathing in the fountain and trying to find out whether a marble angel was carved by Michelangelo.",
+    "text_zh": "十一岁的克劳迪娅带着弟弟杰米离家出走，躲进大都会艺术博物馆，睡古董床，在喷泉里洗澡，还想查清一尊大理石天使像是不是米开朗琪罗的作品。",
+    "highlight_en": [
+      "Metropolitan Museum of Art"
+    ],
+    "highlight_zh": [
+      "大都会艺术博物馆"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/From_the_Mixed-Up_Files_of_Mrs._Basil_E._Frankweiler"
+  },
+  {
+    "id": "us-agee-s1",
+    "kind": "scene",
+    "book_id": "death-in-family",
+    "place_ids": [
+      "us-knoxville"
+    ],
+    "location": "Part One",
+    "location_zh": "第一部",
+    "text_en": "In Knoxville in 1915, six-year-old Rufus Follet's father Jay is called away in the night to his own father's sickbed, and on the drive home he is killed when his car goes off the road.",
+    "text_zh": "1915 年的诺克斯维尔，六岁的鲁弗斯的父亲杰伊半夜被叫去看病危的祖父，回家路上汽车翻下公路，他当场身亡。",
+    "highlight_en": [
+      "Knoxville"
+    ],
+    "highlight_zh": [
+      "诺克斯维尔"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/A_Death_in_the_Family"
+  },
+  {
+    "id": "us-mercy-s1",
+    "kind": "scene",
+    "book_id": "just-mercy",
+    "place_ids": [
+      "monroeville"
+    ],
+    "location": "Chapter 1",
+    "location_zh": "第一章",
+    "text_en": "Walter McMillian, a Black man from Monroeville, is convicted on false testimony of murdering a young white woman and sent to death row in 1988, in the town that proudly celebrates To Kill a Mockingbird; Bryan Stevenson fights for years until he is freed in 1993.",
+    "text_zh": "门罗维尔的黑人沃尔特·麦克米利安凭着伪证被判谋杀一名白人年轻女子，1988 年送上死囚区，而这座小镇正以《杀死一只知更鸟》为傲。布莱恩·史蒂文森为他奔走多年，1993 年他终于获释。",
+    "highlight_en": [
+      "Monroeville"
+    ],
+    "highlight_zh": [
+      "门罗维尔"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Just_Mercy"
   }
 ]
