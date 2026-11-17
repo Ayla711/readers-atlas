@@ -550,29 +550,6 @@
     "keep_breaks": true
   },
   {
-    "id": "de-fr-1",
-    "book_id": "frankenstein",
-    "place_ids": [
-      "de-ingolstadt-anatomy"
-    ],
-    "location": "Chapter 3",
-    "location_zh": "第 3 章",
-    "text_en": "I had sufficient leisure for these and many other reflections during my journey to Ingolstadt, which was long and fatiguing. At length the high white steeple of the town met my eyes.",
-    "highlight_en": [
-      "Ingolstadt"
-    ],
-    "text_zh": "去因戈尔施塔特的路又长又累，我有足够的空闲去想这些事和别的许多事。终于，那座城高高的白色尖塔映入了我的眼帘。",
-    "highlight_zh": [
-      "因戈尔施塔特"
-    ],
-    "translation": "original",
-    "source": {
-      "kind": "gutenberg",
-      "id": 84
-    },
-    "status": "draft"
-  },
-  {
     "id": "de-sc7-s1",
     "kind": "scene",
     "book_id": "the-seventh-cross",
@@ -751,5 +728,28 @@
     ],
     "status": "draft",
     "fact_source": "https://en.wikipedia.org/wiki/The_Black_Obelisk"
+  },
+  {
+    "id": "de-fr-2",
+    "book_id": "frankenstein",
+    "place_ids": [
+      "de-ingolstadt-anatomy"
+    ],
+    "location": "Chapter 5",
+    "location_zh": "第 5 章",
+    "text_en": "It was on a dreary night of November that I beheld the accomplishment of my toils. With an anxiety that almost amounted to agony, I collected the instruments of life around me, that I might infuse a spark of being into the lifeless thing that lay at my feet. It was already one in the morning; the rain pattered dismally against the panes, and my candle was nearly burnt out, when, by the glimmer of the half-extinguished light, I saw the dull yellow eye of the creature open; it breathed hard, and a convulsive motion agitated its limbs. … Morning, dismal and wet, at length dawned and discovered to my sleepless and aching eyes the church of Ingolstadt, its white steeple and clock, which indicated the sixth hour.",
+    "highlight_en": [
+      "Ingolstadt"
+    ],
+    "text_zh": "那是十一月一个阴沉的夜晚，我终于看到了自己辛劳的成果。我焦虑得几近痛苦，把赋予生命的器具收拢在身边，好往躺在脚下的那具没有生命的东西里注入一星生命的火花。已经是凌晨一点了；雨点凄凉地打着窗玻璃，我的蜡烛也快燃尽了。就在这将灭未灭的微光里，我看见那造物昏黄的眼睛睁开了；它粗重地喘着气，四肢一阵痉挛。…… 阴冷潮湿的早晨终于来了，我那失眠而酸痛的眼睛看见了因戈尔施塔特的教堂，白色的尖塔和钟，时针指着六点。",
+    "highlight_zh": [
+      "因戈尔施塔特"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 84
+    },
+    "status": "draft"
   }
 ]

@@ -1,4 +1,4 @@
-// Imported from packs/de (Claude, 2026-11-16) by tools/import_pack.py on 2026-11-16. Edit the pack and re-import rather than editing this file.
+// Imported from packs/de (Claude, 2026-11-16) by tools/import_pack.py on 2026-11-17. Edit the pack and re-import rather than editing this file.
 window.RA_DATA = window.RA_DATA || {};
 window.RA_DATA.books = [
   { id: "pied-piper-of-hamelin", title: "The Pied Piper of Hamelin", title_zh: "花衣吹笛人", author: "Robert Browning", author_zh: "罗伯特·勃朗宁", author_orig: "Robert Browning", year: "1842", orig_lang: "en", public_domain: true, source_url: "https://www.gutenberg.org/ebooks/18343" },

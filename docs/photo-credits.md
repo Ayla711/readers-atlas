@@ -658,3 +658,4 @@
 | University of Missouri, Columbia | DSparrow14 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AJesse_Hall_and_Columns.jpg) |
 | Chittenango, New York | Idawriter | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AChittenango%2C_New_York_-_panoramio.jpg) |
 | Manhasset Bay | D. Benjamin Miller | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File%3ALong-exposure_view_of_Manhasset_Bay_facing_north_from_North_Plandome_Road%2C_across_from_Leeds_Pond%2C_January_2%2C_2024.jpg) |
+| The Battery, Manhattan | Joe Mabel (on Flickr as Joe Mabel from Seattle, US) | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABattery_Park_from_New_York_Harbor_01_%289441158603%29.jpg) |

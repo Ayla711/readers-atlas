@@ -1,4 +1,4 @@
-// Imported from packs/fr (Codex, 2026-11-14) by tools/import_pack.py on 2026-11-16. Edit the pack and re-import rather than editing this file.
+// Imported from packs/fr (Codex, 2026-11-14) by tools/import_pack.py on 2026-11-17. Edit the pack and re-import rather than editing this file.
 // Each place's admin-1 region is worked out from its coordinates by app.js.
 window.RA_DATA = window.RA_DATA || {};
 window.RA_DATA.places = [

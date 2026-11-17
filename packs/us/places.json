@@ -111,18 +111,6 @@
     "prototype_of_en": "Great Neck is the real West Egg. Fitzgerald rented a house here from 1922 to 1924 and started The Great Gatsby while living in town. Across Manhasset Bay is Sands Point, the model for Daisy's East Egg"
   },
   {
-    "id": "manhattan-plaza-hotel",
-    "name": "The Plaza Hotel",
-    "name_zh": "曼哈顿 · 广场饭店",
-    "lat": 40.7645,
-    "lon": -73.9744,
-    "place_type": "original",
-    "note_en": "Two big moments in The Great Gatsby happen at the Plaza. Jordan tells Nick the story of Daisy and Gatsby over tea here, and later, on the hottest day of the summer, everyone crowds into a suite upstairs, where Tom finally confronts Gatsby. The Fitzgeralds were regulars at the hotel themselves",
-    "note": "《了不起的盖茨比》两场关键戏都在这家饭店：乔丹在茶园里向尼克讲出黛西和盖茨比的往事；第七章那个酷热的下午，几个人挤进饭店套房，汤姆当众戳穿盖茨比。菲茨杰拉德夫妇本人也是这里的常客",
-    "coord_checked": "Plaza Hotel — https://en.wikipedia.org/wiki/Plaza_Hotel",
-    "fact_source": "https://www.gutenberg.org/ebooks/64317"
-  },
-  {
     "id": "sullivans-island",
     "name": "Sullivan’s Island",
     "name_zh": "沙利文岛",
@@ -2466,5 +2454,20 @@
       "great-gatsby"
     ],
     "fact_source": "https://en.wikipedia.org/wiki/Sands_Point,_New_York"
+  },
+  {
+    "id": "us-battery",
+    "name": "The Battery, Manhattan",
+    "name_zh": "曼哈顿 · 炮台公园",
+    "lat": 40.703611111111,
+    "lon": -74.016111111111,
+    "place_type": "original",
+    "note": "《白鲸》开篇，以实玛利说每当心里像阴冷潮湿的十一月，他就得出海，接着把读者领到曼哈顿最南端的炮台，看成群的人站在堤岸上对着大海出神。梅尔维尔 1819 年就生在离这里几个街口的珍珠街。今天的炮台公园里还立着克林顿堡，开往自由女神像的渡轮从这里出发",
+    "note_en": "Moby-Dick opens with Ishmael saying that whenever it is a damp, drizzly November in his soul he must go to sea, and then leads the reader to the Battery at the southern tip of Manhattan, where crowds stand on the waterfront lost in ocean reveries. Melville was born in 1819 on Pearl Street, a few blocks away. Castle Clinton still stands in Battery Park, and the ferries to the Statue of Liberty leave from here",
+    "coord_checked": "The Battery (Manhattan) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:The_Battery_(Manhattan)",
+    "book_ids": [
+      "moby-dick"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/The_Battery_(Manhattan)"
   }
 ]

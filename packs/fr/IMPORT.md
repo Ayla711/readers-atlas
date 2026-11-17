@@ -1,11 +1,11 @@
-# 导入报告 · France · 2026-11-16
+# 导入报告 · France · 2026-11-17
 
-包：83 本书、102 个地点、78 条摘句和场景说明、91 张照片。
+包：83 本书、102 个地点、80 条摘句和场景说明、91 张照片。
 
 ## 错误（0）
 
 
-## 提示（18）
+## 提示（16）
 
 - place fr-trouville: no line points to it
 - place fr-odeon: no line points to it
@@ -23,8 +23,6 @@
 - place fr-etretat-needle: 0.8 km off the simplified coastline, counted in FR-NOR
 - place fr-ferney: 1.1 km off the simplified coastline, counted in FR-ARA
 - place fr-ile-d-aix: 5.1 km off the simplified coastline, counted in FR-NAQ
-- photo fr-cite-veron: portrait image (800×1067); the place card is designed for landscape
-- photo fr-montparnasse-cemetery: portrait image (800×1067); the place card is designed for landscape
 
 ## 脚本没有逐字核对的文本（11，审核时人工核对）
 

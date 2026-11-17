@@ -1,4 +1,4 @@
-// Imported from packs/it (Claude, 2026-11-14) by tools/import_pack.py on 2026-11-16. Edit the pack and re-import rather than editing this file.
+// Imported from packs/it (Claude, 2026-11-14) by tools/import_pack.py on 2026-11-17. Edit the pack and re-import rather than editing this file.
 window.RA_DATA = window.RA_DATA || {};
 window.RA_DATA.books = [
   { id: "romeo-and-juliet", title: "Romeo and Juliet", title_zh: "罗密欧与朱丽叶", author: "William Shakespeare", author_zh: "莎士比亚", author_orig: "William Shakespeare", year: "1597", orig_lang: "en", public_domain: true, source_url: "https://www.gutenberg.org/ebooks/1513" },

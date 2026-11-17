@@ -796,5 +796,61 @@
     ],
     "status": "draft",
     "fact_source": "https://en.wikipedia.org/wiki/The_Story_of_the_Lost_Child"
+  },
+  {
+    "id": "it-rj-2",
+    "book_id": "romeo-and-juliet",
+    "place_ids": [
+      "it-juliets-house"
+    ],
+    "location": "Act 2, Scene 2",
+    "location_zh": "第二幕第二场",
+    "text_en": "But soft, what light through yonder window breaks?\nIt is the east, and Juliet is the sun!\n…\nO Romeo, Romeo, wherefore art thou Romeo?\nDeny thy father and refuse thy name.\nOr if thou wilt not, be but sworn my love,\nAnd I’ll no longer be a Capulet.\n…\nWhat’s in a name? That which we call a rose\nBy any other name would smell as sweet;",
+    "highlight_en": [
+      "yonder window"
+    ],
+    "text_zh": "但是轻声！那边窗户里亮起的是什么光？\n那是东方，朱丽叶就是太阳！\n……\n罗密欧啊，罗密欧！为什么你偏偏是罗密欧？\n否认你的父亲，抛弃你的姓氏吧；\n要是你不肯，只要你发誓做我的爱人，\n我就不再姓凯普莱特了。\n……\n名字算什么？我们叫作玫瑰的那种花，\n换个名字，闻起来还是一样香；",
+    "highlight_zh": [
+      "那边窗户"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 1513
+    },
+    "status": "draft",
+    "keep_breaks": true
+  },
+  {
+    "id": "it-dc-2",
+    "book_id": "divine-comedy",
+    "place_ids": [
+      "it-casa-di-dante"
+    ],
+    "location": "Inferno, Canto 1",
+    "location_zh": "《地狱篇》第 1 歌",
+    "text_orig": "Nel mezzo del cammin di nostra vita\nmi ritrovai per una selva oscura,\nché la diritta via era smarrita.\n\nAhi quanto a dir qual era è cosa dura\nesta selva selvaggia e aspra e forte\nche nel pensier rinova la paura!\n\nTant’ è amara che poco è più morte;\nma per trattar del ben ch’i’ vi trovai,\ndirò de l’altre cose ch’i’ v’ho scorte.",
+    "highlight_orig": [
+      "selva oscura"
+    ],
+    "text_en": "Midway upon the journey of our life\nI found myself within a forest dark,\nFor the straightforward pathway had been lost.\n\nAh me! how hard a thing it is to say\nWhat was this forest savage, rough, and stern,\nWhich in the very thought renews the fear.\n\nSo bitter is it, death is little more;\nBut of the good to treat, which there I found,\nSpeak will I of the other things I saw there.",
+    "highlight_en": [
+      "forest dark"
+    ],
+    "text_zh": "在人生旅程的中途，\n我发现自己身在一座幽暗的森林，\n因为正直的道路已经迷失。\n\n啊！要说出那是怎样一座森林，\n多么荒野、艰险、难行，是何等困难，\n一想起它，恐惧又重新袭来！\n\n那苦涩，死亡也不过稍甚于此；\n但为了讲述我在那里遇到的善，\n我要说出我在那里看见的其他事物。",
+    "highlight_zh": [
+      "幽暗的森林"
+    ],
+    "translation": "Henry Wadsworth Longfellow (1867)",
+    "source": {
+      "kind": "gutenberg",
+      "id": 997
+    },
+    "status": "draft",
+    "translation_source": {
+      "kind": "gutenberg",
+      "id": 1001
+    },
+    "keep_breaks": true
   }
 ]
