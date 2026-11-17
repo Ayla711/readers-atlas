@@ -69,7 +69,10 @@
     "note_en": "Whitman spent his last years in a modest house on Mickle Street, the only home he ever owned. He lived there until he died in 1892, still revising Leaves of Grass right to the end. The house is now a museum, and the granite tomb he designed for himself is in Harleigh Cemetery across town",
     "note": "惠特曼晚年的家。米克尔街上那座小楼是他一生唯一买下的房子，他在这里住到 1892 年去世，不断修订《草叶集》；故居现为博物馆。他自己设计的花岗岩墓就在城里的哈利公墓",
     "coord_checked": "Camden, New Jersey — https://en.wikipedia.org/wiki/Camden,_New_Jersey",
-    "fact_source": "https://www.gutenberg.org/ebooks/8813"
+    "fact_source": "https://www.gutenberg.org/ebooks/8813",
+    "book_ids": [
+      "leaves-of-grass"
+    ]
   },
   {
     "id": "pittsburgh-whitman",
@@ -272,8 +275,11 @@
     "place_type": "prototype",
     "coord_checked": "Wikipedia: Hannibal — https://en.wikipedia.org/wiki/Hannibal,_Missouri",
     "fact_source": "https://sites.msudenver.edu/tpswesternregion/672-2/",
-    "prototype_of": "汤姆·索亚和哈克的家乡圣彼得斯堡镇的原型：马克·吐温 1839 至 1853 年在汉尼拔长大，小说里的白篱笆、卡迪夫山、河边的木筏和洞穴都能在镇上找到。《密西西比河上的生活》里，他又以真名写了重回故乡的情景",
-    "prototype_of_en": "Hannibal is the real St. Petersburg, the river town where Tom Sawyer and Huck Finn grow up. Mark Twain lived here as a boy from 1839 to 1853, and you can still find the whitewashed fence, Cardiff Hill, the cave, and of course the river. Years later, in Life on the Mississippi, he wrote about coming back to his hometown"
+    "prototype_of": "汤姆·索亚和哈克的家乡圣彼得斯堡镇的原型：马克·吐温 1839 至 1853 年在汉尼拔长大，小说里的白篱笆、卡迪夫山、河边的木筏和洞穴都能在镇上找到。2024 年，珀西瓦尔·埃弗里特的《詹姆斯》从逃奴吉姆的视角重写了这段顺河而下的故事",
+    "prototype_of_en": "The model for St. Petersburg, Tom Sawyer's and Huck's home town: Mark Twain grew up in Hannibal from 1839 to 1853, and the whitewashed fence, Cardiff Hill, the river rafts and the cave of the novels can all be found here. In 2024 Percival Everett's James retold the voyage down the river from the side of Jim, the runaway slave",
+    "book_ids": [
+      "james-everett"
+    ]
   },
   {
     "id": "memphis",
@@ -404,8 +410,12 @@
     "place_type": "prototype",
     "coord_checked": "Wikipedia: Oxford — https://en.wikipedia.org/wiki/Oxford,_Mississippi",
     "fact_source": "https://en.wikipedia.org/wiki/Oxford,_Mississippi",
-    "prototype_of_en": "Oxford is the model for Jefferson, the town at the center of Faulkner's work. He lived here nearly all his life, and he turned the town and the county around it into his own fictional Yoknapatawpha County, home of the Compson family in The Sound and the Fury. His house, Rowan Oak, is open to the public, and you can still see the outline of one of his novels that he wrote on the wall of his study",
-    "prototype_of": "福克纳笔下杰斐逊镇的原型：他一生几乎都住在牛津，用这座小城和周围的县造出了虚构的约克纳帕塔法县，《喧哗与骚动》的康普生家就住在这里。他的故居山楸橡树园对外开放，书房墙上还留着他亲手写的小说提纲"
+    "prototype_of_en": "The model for Faulkner's town of Jefferson: he lived in Oxford almost all his life and built his imaginary Yoknapatawpha County out of the town and the county around it. The Compsons of The Sound and the Fury, the Bundrens hauling a coffin to town in As I Lay Dying, and Lena Grove and Joe Christmas of Light in August all live in this county. His home, Rowan Oak, is open to visitors, with the outline of a novel still written in his hand on the study wall",
+    "prototype_of": "福克纳笔下杰斐逊镇的原型：他一生几乎都住在牛津，用这座小城和周围的县造出了虚构的约克纳帕塔法县，《喧哗与骚动》的康普生家、《我弥留之际》里拉着棺材进城的本德伦一家、《八月之光》里的莉娜和乔·克里斯默斯都在这个县里。他的故居山楸橡树园对外开放，书房墙上还留着他亲手写的小说提纲",
+    "book_ids": [
+      "as-i-lay-dying",
+      "light-in-august"
+    ]
   },
   {
     "id": "eatonville",
@@ -702,10 +712,13 @@
     "lat": 42.3603,
     "lon": -71.0578,
     "place_type": "original",
-    "note_en": "The Scarlet Letter opens in colonial Boston, with Hester Prynne standing on the scaffold, her baby in her arms and a scarlet A sewn onto her dress. In King's Chapel Burying Ground there's a gravestone for a woman named Elizabeth Pain, and legend says she was Hawthorne's inspiration for Hester",
-    "note": "《红字》开篇，海丝特抱着婴儿、胸前戴着红色的 A 字，站在殖民地波士顿的刑台上示众。国王礼拜堂墓地里有一块伊丽莎白·佩恩的墓碑，相传就是海丝特的原型",
+    "note_en": "The Scarlet Letter opens with Hester, her baby in her arms and a scarlet A on her breast, on the scaffold of colonial Boston; Elizabeth Pain's gravestone in King's Chapel Burying Ground is said to have inspired her. More than two centuries later, Henry James's The Bostonians sets Olive Chancellor, a Boston feminist, against her Southern cousin in a struggle for the young speaker Verena Tarrant",
+    "note": "《红字》开篇，海丝特抱着婴儿、胸前戴着红色的 A 字，站在殖民地波士顿的刑台上示众，国王礼拜堂墓地里伊丽莎白·佩恩的墓碑相传就是她的原型。两百多年后，亨利·詹姆斯的《波士顿人》写这座城里的女权运动者奥利芙，和她的南方表亲争夺年轻的女演说家维丽娜",
     "coord_checked": "Boston — https://en.wikipedia.org/wiki/Boston",
-    "fact_source": "https://en.wikipedia.org/wiki/Boston"
+    "fact_source": "https://en.wikipedia.org/wiki/Boston",
+    "book_ids": [
+      "bostonians"
+    ]
   },
   {
     "id": "us-salem-custom-house",
@@ -734,7 +747,8 @@
     "coord_checked": "Emily Dickinson Museum, Homestead — https://en.wikipedia.org/wiki/Emily_Dickinson_Museum",
     "fact_source": "https://en.wikipedia.org/wiki/Emily_Dickinson_Museum",
     "book_ids": [
-      "letters-emily-dickinson"
+      "letters-emily-dickinson",
+      "dickinson-poems"
     ]
   },
   {
@@ -749,7 +763,8 @@
     "coord_checked": "The Mount — https://en.wikipedia.org/wiki/The_Mount_(Lenox,_Massachusetts)",
     "fact_source": "https://en.wikipedia.org/wiki/The_Mount_(Lenox,_Massachusetts)",
     "book_ids": [
-      "age-of-innocence"
+      "age-of-innocence",
+      "house-of-mirth"
     ]
   },
   {
@@ -824,7 +839,8 @@
     "coord_checked": "Edgar Allan Poe House and Museum — https://en.wikipedia.org/wiki/Edgar_Allan_Poe_House_and_Museum",
     "fact_source": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe_House_and_Museum",
     "book_ids": [
-      "gold-bug"
+      "gold-bug",
+      "poe-tales"
     ]
   },
   {
@@ -839,7 +855,8 @@
     "coord_checked": "Edgar Allan Poe National Historic Site — https://en.wikipedia.org/wiki/Edgar_Allan_Poe_National_Historic_Site",
     "fact_source": "https://www.nps.gov/edal/learn/historyculture/timelines-lifeandtimespoe.htm",
     "book_ids": [
-      "gold-bug"
+      "gold-bug",
+      "poe-tales"
     ]
   },
   {
@@ -1110,5 +1127,854 @@
     "book_ids": [
       "us-flipped"
     ]
+  },
+  {
+    "id": "us-evangeline-oak",
+    "name": "Evangeline Oak, St. Martinville",
+    "name_zh": "圣马丁维尔 · 伊万杰琳橡树",
+    "lat": 30.125,
+    "lon": -91.8306,
+    "place_type": "pilgrimage",
+    "note": "朗费罗的长诗《伊万杰琳》写阿卡迪亚人被英军逐出新斯科舍，伊万杰琳一路寻找失散的恋人，来到路易斯安那的泰什河畔。圣马丁维尔是阿卡迪亚流亡者在这里的落脚点，镇上把河边一棵老橡树叫作伊万杰琳橡树，相传她就在树下等过恋人",
+    "note_en": "Longfellow's Evangeline follows an Acadian girl driven out of Nova Scotia by the British, searching for her lost lover all the way to the Bayou Teche in Louisiana. St. Martinville was where many Acadian exiles settled, and the town calls an old oak on the bayou the Evangeline Oak, where legend says she waited for him",
+    "coord_checked": "St. Martinville, Louisiana (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:St._Martinville,_Louisiana",
+    "book_ids": [
+      "evangeline"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/St._Martinville,_Louisiana"
+  },
+  {
+    "id": "us-seven-gables",
+    "name": "The House of the Seven Gables, Salem",
+    "name_zh": "塞勒姆 · 七角楼",
+    "lat": 42.521944,
+    "lon": -70.884722,
+    "place_type": "prototype",
+    "prototype_of": "霍桑《七角楼》里品钦家那座被诅咒的老宅的原型。房子建于 1668 年，霍桑的远房表姐住在这里，他常来做客，听她讲房子早年有七个尖顶。现在是博物馆，可以钻进壁炉旁那道窄小的暗梯，霍桑出生的老房子也被搬到了同一个院子里",
+    "prototype_of_en": "The model for the cursed Pyncheon house in Hawthorne's novel. Built in 1668, it belonged to Hawthorne's cousin, whom he often visited and who told him the house had once had seven gables. It is now a museum where you can climb the narrow secret staircase beside the chimney, and the house where Hawthorne was born has been moved onto the same grounds",
+    "coord_checked": "House of the Seven Gables (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:House_of_the_Seven_Gables",
+    "book_ids": [
+      "seven-gables"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/House_of_the_Seven_Gables"
+  },
+  {
+    "id": "us-wall-street",
+    "name": "Wall Street, Manhattan",
+    "name_zh": "曼哈顿 · 华尔街",
+    "lat": 40.706185,
+    "lon": -74.009107,
+    "place_type": "original",
+    "note": "梅尔维尔《抄写员巴特比》的副标题就是“一个华尔街的故事”。巴特比在华尔街一家律师事务所里抄文件，对着窗外一堵砖墙，什么都用一句“我宁愿不”回绝，最后死在监狱里。今天的华尔街高楼林立，那堵墙已经无处可寻，但窄街和老教堂还在",
+    "note_en": "Melville's Bartleby is subtitled 'A Story of Wall Street.' Bartleby copies documents in a Wall Street law office facing a brick wall, answers every request with 'I would prefer not to,' and ends up dying in prison. Today the street is lined with towers and the wall is long gone, but the narrow street and Trinity Church at its head are still there",
+    "coord_checked": "Wall Street (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Wall_Street",
+    "book_ids": [
+      "bartleby"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Bartleby,_the_Scrivener"
+  },
+  {
+    "id": "us-fulton-ferry",
+    "name": "Fulton Ferry Landing, Brooklyn",
+    "name_zh": "布鲁克林 · 富尔顿渡口",
+    "lat": 40.70333333,
+    "lon": -73.995,
+    "place_type": "original",
+    "note": "惠特曼在《草叶集》的《过布鲁克林渡口》里，站在曼哈顿和布鲁克林之间的渡船上，对着百年后的读者说话：你们看到的河水和海鸥，我也看过。那时还没有布鲁克林大桥，这里就是渡船靠岸的地方。现在是布鲁克林大桥公园的一角，栏杆上刻着这首诗的诗句",
+    "note_en": "In 'Crossing Brooklyn Ferry,' from Leaves of Grass, Whitman stands on the ferry between Manhattan and Brooklyn and speaks to readers a hundred years later: the river and the gulls you see, I saw too. There was no Brooklyn Bridge yet, and this was where the ferry came in. It is now a corner of Brooklyn Bridge Park, with lines from the poem set into the railing",
+    "coord_checked": "Fulton Ferry Landing (Brooklyn Bridge Park) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Fulton_Ferry_Landing_(Brooklyn_Bridge_Park)",
+    "book_ids": [
+      "leaves-of-grass"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Fulton_Ferry,_Brooklyn"
+  },
+  {
+    "id": "us-fells-point",
+    "name": "Fell's Point, Baltimore",
+    "name_zh": "巴尔的摩 · 费尔斯角",
+    "lat": 39.2831,
+    "lon": -76.5928,
+    "place_type": "original",
+    "note": "道格拉斯少年时被送到巴尔的摩，在这一带的主人家里偷偷学会识字，后来又在费尔斯角的造船厂干活，挨过白人工人的毒打。1838 年他扮成水手，从这里坐火车逃往北方。《道格拉斯自述》写了他在巴尔的摩的日子，为保护帮过他的人，逃跑的细节没写。码头区的砖房和石子路至今保存完好",
+    "note_en": "As a boy Douglass was sent to Baltimore, where he secretly taught himself to read in his master's house; later he worked in the shipyards at Fell's Point and was savagely beaten by white workers. In 1838 he escaped north by train from this city, disguised as a sailor. The Narrative tells of his Baltimore years, leaving out how he escaped to protect those who helped him. The brick houses and cobbled streets of the waterfront are still well preserved",
+    "coord_checked": "Fell's Point, Baltimore (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Fell's_Point,_Baltimore",
+    "book_ids": [
+      "douglass-narrative"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Fells_Point,_Baltimore"
+  },
+  {
+    "id": "us-cedar-hill",
+    "name": "Frederick Douglass National Historic Site (Cedar Hill)",
+    "name_zh": "华盛顿 · 道格拉斯故居（雪松山）",
+    "lat": 38.8633,
+    "lon": -76.9853,
+    "place_type": "pilgrimage",
+    "note": "逃出奴隶制的道格拉斯晚年住在华盛顿东南的这座山坡宅院里，从 1877 年住到 1895 年去世。他在这里写完最后一部自传，后院有他读书写作的石头小屋，他叫它“咆哮室”。故居由国家公园管理局开放，屋里大部分家具和藏书都是原物",
+    "note_en": "Douglass, who had escaped slavery, spent his last years in this hilltop house in southeast Washington, from 1877 until his death in 1895. He finished his last autobiography here, and behind the house is the little stone cabin where he read and wrote, which he called 'the Growlery.' The National Park Service runs it, and most of the furniture and books are his own",
+    "coord_checked": "Frederick Douglass National Historic Site (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Frederick_Douglass_National_Historic_Site",
+    "book_ids": [
+      "douglass-narrative"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Frederick_Douglass_National_Historic_Site"
+  },
+  {
+    "id": "us-washington-square-park",
+    "name": "Washington Square Park, Manhattan",
+    "name_zh": "曼哈顿 · 华盛顿广场",
+    "lat": 40.730833333333,
+    "lon": -73.997777777778,
+    "place_type": "original",
+    "note": "詹姆斯《华盛顿广场》里的斯洛珀医生和女儿凯瑟琳就住在广场北边的红砖排屋里，詹姆斯自己的祖母也住在这一排。一百年后，鲍德温《另一个国家》里的人物在广场周围的格林威治村喝酒、相爱、绝望。凯旋门和广场北侧那排老房子都还在",
+    "note_en": "In James's Washington Square, Dr. Sloper and his daughter Catherine live in the red-brick row on the north side of the square, where James's own grandmother lived. A century later the characters of Baldwin's Another Country drink, love and despair in the Greenwich Village streets around it. The arch and the old row on the north side are still there",
+    "coord_checked": "Washington Square Park (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Washington_Square_Park",
+    "book_ids": [
+      "washington-square",
+      "another-country"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Washington_Square_Park"
+  },
+  {
+    "id": "us-grand-isle",
+    "name": "Grand Isle, Louisiana",
+    "name_zh": "路易斯安那 · 格兰德岛",
+    "lat": 29.2278,
+    "lon": -90.0122,
+    "place_type": "original",
+    "note": "肖邦《觉醒》开篇，新奥尔良的有钱人家在这座墨西哥湾的小岛上避暑，艾德娜在这里第一次学会游泳，也第一次意识到自己想要另一种生活。小说结尾她又回到这片海里。岛上现在是钓鱼和观鸟的去处，州立公园有长长的海滩",
+    "note_en": "The Awakening opens on this Gulf of Mexico island, where wealthy New Orleans families spend the summer; here Edna learns to swim and first realises she wants another kind of life, and at the end of the novel she returns to this sea. Today the island is known for fishing and birdwatching, and the state park has a long beach",
+    "coord_checked": "Grand Isle, Louisiana (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Grand_Isle,_Louisiana",
+    "book_ids": [
+      "awakening"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/The_Awakening_(Chopin_novel)"
+  },
+  {
+    "id": "us-chancellorsville",
+    "name": "Chancellorsville Battlefield, Virginia",
+    "name_zh": "弗吉尼亚 · 钱斯勒斯维尔战场",
+    "lat": 38.30341,
+    "lon": -77.65141,
+    "place_type": "prototype",
+    "prototype_of": "克莱恩《红色英勇勋章》里那场没有名字的战役，一般认为写的就是 1863 年的钱斯勒斯维尔战役。克莱恩生于战后，没打过仗，全凭老兵的回忆写出了一个新兵临阵脱逃又回到队伍的心理。战场现在属于弗雷德里克斯堡和斯波特瑟尔韦尼亚国家军事公园，有步道和讲解牌",
+    "prototype_of_en": "The unnamed battle in The Red Badge of Courage is generally taken to be Chancellorsville, fought in 1863. Crane was born after the war and never saw combat, yet from veterans' memories he wrote the inner life of a recruit who runs from battle and then returns to his regiment. The battlefield is now part of a national military park, with trails and markers",
+    "coord_checked": "File:Chancellorsville Battlefield 2009.jpg (geotagged, Wikimedia Commons) — https://commons.wikimedia.org/wiki/File:Chancellorsville_Battlefield_2009.jpg",
+    "book_ids": [
+      "red-badge"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/The_Red_Badge_of_Courage"
+  },
+  {
+    "id": "us-fort-william-henry",
+    "name": "Fort William Henry, Lake George",
+    "name_zh": "乔治湖 · 威廉·亨利堡",
+    "lat": 43.420277777778,
+    "lon": -73.711111111111,
+    "place_type": "original",
+    "note": "库珀《最后的莫希干人》写的就是 1757 年威廉·亨利堡之围：英军向法军投降后撤出要塞，途中遭到法军的印第安盟军袭击。小说里门罗上校的两个女儿正是要赶到这座堡里去。现在的木堡是按原样重建的，做成了博物馆，就在乔治湖南岸",
+    "note_en": "The Last of the Mohicans is built around the siege of Fort William Henry in 1757, when the British surrendered to the French and were attacked by France's Native allies as they marched out. Colonel Munro's two daughters are trying to reach this fort when the novel opens. The log fort, rebuilt as it was, is now a museum on the south shore of Lake George",
+    "coord_checked": "Fort William Henry (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Fort_William_Henry",
+    "book_ids": [
+      "last-of-mohicans"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Siege_of_Fort_William_Henry"
+  },
+  {
+    "id": "us-big-moose-lake",
+    "name": "Big Moose Lake, Adirondacks",
+    "name_zh": "阿迪朗达克 · 大穆斯湖",
+    "lat": 43.81829,
+    "lon": -74.87692,
+    "place_type": "prototype",
+    "prototype_of": "德莱塞《美国的悲剧》取材于真实案件：1906 年切斯特·吉莱特带着怀孕的女友格雷丝·布朗来到阿迪朗达克山区的大穆斯湖划船，她溺死在湖里，他后来被判死刑。小说里的“大苦水湖”就是这里。湖边至今还是安静的度假屋和划船码头",
+    "prototype_of_en": "An American Tragedy is drawn from a real case: in 1906 Chester Gillette took his pregnant girlfriend Grace Brown out in a rowboat on Big Moose Lake in the Adirondacks, she drowned, and he was later executed. The novel's Big Bittern Lake is this lake. Its shores are still quiet cabins and boat docks",
+    "coord_checked": "File:Big Moose Lake - Gazebo Dock.jpg (geotagged, Wikimedia Commons) — https://commons.wikimedia.org/wiki/File:Big_Moose_Lake_-_Gazebo_Dock.jpg",
+    "book_ids": [
+      "american-tragedy"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/An_American_Tragedy"
+  },
+  {
+    "id": "us-jack-london-square",
+    "name": "Jack London Square, Oakland",
+    "name_zh": "奥克兰 · 杰克·伦敦广场",
+    "lat": 37.7942,
+    "lon": -122.2747,
+    "place_type": "pilgrimage",
+    "note": "杰克·伦敦在奥克兰长大，少年时在这片码头当过蚝贼，在海诺尔德的“第一家也是最后一家机会”酒馆里读书、听水手讲故事。《马丁·伊登》里那个靠自学当上作家的奥克兰水手，很大程度上就是他自己。那家 1883 年开的小酒馆还在营业，地板歪得厉害",
+    "note_en": "Jack London grew up in Oakland, raided oyster beds off this waterfront as a teenager, and read and listened to sailors' stories in Heinold's First and Last Chance Saloon. Martin Eden, the self-taught Oakland sailor who becomes a writer, is largely London himself. The little saloon, open since 1883, still serves drinks on its badly tilted floor",
+    "coord_checked": "Jack London Square, Oakland, California (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Jack_London_Square,_Oakland,_California",
+    "book_ids": [
+      "martin-eden"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Jack_London_Square"
+  },
+  {
+    "id": "us-petes-tavern",
+    "name": "Pete's Tavern, Irving Place",
+    "name_zh": "曼哈顿 · 皮特酒馆",
+    "lat": 40.7365,
+    "lon": -73.9867,
+    "place_type": "pilgrimage",
+    "note": "欧·亨利 1903 至 1907 年住在对面的欧文广场 55 号，这家号称纽约最老的酒馆说他就是在店里第二个卡座写出了《麦琪的礼物》，不过这多半是传说。故事里那对用头发和金表换礼物的穷夫妻，就是他笔下“四百万”纽约小人物中的一对。酒馆至今营业",
+    "note_en": "O. Henry lived across the street at 55 Irving Place from 1903 to 1907, and this tavern, which calls itself the oldest in New York, says he wrote The Gift of the Magi in its second booth, though that is probably legend. The poor young couple who trade hair and watch for Christmas gifts are two of his 'four million' ordinary New Yorkers. The tavern is still open",
+    "coord_checked": "Pete's Tavern (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Pete's_Tavern",
+    "book_ids": [
+      "gift-of-magi"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Pete%27s_Tavern"
+  },
+  {
+    "id": "us-tuolumne-meadows",
+    "name": "Tuolumne Meadows, Yosemite",
+    "name_zh": "约塞米蒂 · 图奥勒米草甸",
+    "lat": 37.875,
+    "lon": -119.35,
+    "place_type": "original",
+    "note": "1869 年，三十一岁的缪尔跟着一群羊上山放牧，在约塞米蒂高地过了一个夏天，《夏日走过山间》就是那年的日记，最后几周写的正是图奥勒米草甸。他后来力主在这里设立国家公园。现在草甸是高山徒步的起点，夏天才能开车上来",
+    "note_en": "In 1869 the thirty-one-year-old Muir went up into the Yosemite high country with a flock of sheep and spent the summer there; My First Summer in the Sierra is his journal of that year, and its last weeks are spent in Tuolumne Meadows. He later campaigned for the national park. The meadows are now a starting point for high-country hikes, reachable by road only in summer",
+    "coord_checked": "Tuolumne Meadows (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Tuolumne_Meadows",
+    "book_ids": [
+      "my-first-summer"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/My_First_Summer_in_the_Sierra"
+  },
+  {
+    "id": "us-frost-farm",
+    "name": "Robert Frost Farm, Derry",
+    "name_zh": "德里 · 罗伯特·弗罗斯特农场",
+    "lat": 42.871667,
+    "lon": -71.295,
+    "place_type": "pilgrimage",
+    "note": "弗罗斯特 1900 至 1911 年在这座新罕布什尔的农场种地养鸡，日子过得很穷，却积下了后来《波士顿以北》里的大部分题材：修墙的邻居、雇工之死、乡下人的家长里短。他说这些年是他一生的根。农舍和谷仓保存下来，屋后有一条走得到那段石墙的小路",
+    "note_en": "Frost farmed and kept chickens on this New Hampshire farm from 1900 to 1911, poor but gathering most of the material for North of Boston: the neighbour mending wall, the death of the hired man, the talk of country people. He called these years the core of his life. The farmhouse and barn survive, and a path behind the house leads to the stone wall",
+    "coord_checked": "Robert Frost Farm State Historic Site (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Robert_Frost_Farm_State_Historic_Site",
+    "book_ids": [
+      "north-of-boston"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Robert_Frost_Farm_(Derry,_New_Hampshire)"
+  },
+  {
+    "id": "us-hemingway-house",
+    "name": "Ernest Hemingway House, Key West",
+    "name_zh": "基韦斯特 · 海明威故居",
+    "lat": 24.551111,
+    "lon": -81.800833,
+    "place_type": "pilgrimage",
+    "note": "海明威 1931 至 1939 年住在基韦斯特的这座西班牙殖民风格的房子里，常从这里出海去古巴附近的湾流钓大马林鱼，后来写成了《老人与海》里老渔夫和大鱼搏斗的故事（小说发生在古巴）。故居现为博物馆，院子里住着几十只六趾猫，据说是他那只猫的后代",
+    "note_en": "Hemingway lived in this Spanish Colonial house in Key West from 1931 to 1939, and from here he went out into the Gulf Stream toward Cuba after marlin, the experience behind the old fisherman's fight in The Old Man and the Sea (which is set in Cuba). The house is a museum, and dozens of six-toed cats, said to descend from his, live in the garden",
+    "coord_checked": "Ernest Hemingway House (Key West) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Ernest_Hemingway_House_(Key_West)",
+    "book_ids": [
+      "old-man-sea"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Ernest_Hemingway_House"
+  },
+  {
+    "id": "us-steinbeck-house",
+    "name": "Steinbeck House, Salinas",
+    "name_zh": "萨利纳斯 · 斯坦贝克故居",
+    "lat": 36.676667,
+    "lon": -121.658056,
+    "place_type": "pilgrimage",
+    "note": "斯坦贝克 1902 年生在这座维多利亚式小楼里，在萨利纳斯长大。《伊甸之东》写萨利纳斯谷两个家族几代人的恩怨，书里的汉密尔顿家就是他外祖父一家，他自己也以叙述者身份出现。故居现在是一家午餐餐厅，镇上还有国家斯坦贝克中心",
+    "note_en": "Steinbeck was born in this Victorian house in 1902 and grew up in Salinas. East of Eden follows two families through generations in the Salinas Valley; the Hamiltons are his mother's family, and he appears himself as the narrator. The house is now a lunch restaurant, and the National Steinbeck Center is nearby in town",
+    "coord_checked": "John Steinbeck House (Salinas, California) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:John_Steinbeck_House_(Salinas,_California)",
+    "book_ids": [
+      "east-of-eden"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/East_of_Eden_(novel)"
+  },
+  {
+    "id": "us-plum-creek",
+    "name": "Walnut Grove and Plum Creek, Minnesota",
+    "name_zh": "明尼苏达 · 沃尔纳特格罗夫（梅溪）",
+    "lat": 44.223611111111,
+    "lon": -95.468888888889,
+    "place_type": "original",
+    "note": "《梅溪岸边》里，英格尔斯一家搬到明尼苏达，先住在梅溪岸边挖进土坡的地洞屋里，后来盖了木屋，又遇上蝗灾。镇外的梅溪边还能看到那个地洞屋留下的凹坑，镇上有劳拉·英格尔斯·怀尔德博物馆，每年夏天演出露天剧",
+    "note_en": "In On the Banks of Plum Creek the Ingalls family moves to Minnesota, lives first in a dugout cut into the creek bank, then builds a frame house and is hit by a plague of grasshoppers. Outside town you can still see the hollow left by the dugout beside the creek, and Walnut Grove has a Laura Ingalls Wilder Museum and an outdoor pageant every summer",
+    "coord_checked": "Walnut Grove, Minnesota (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Walnut_Grove,_Minnesota",
+    "book_ids": [
+      "plum-creek"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Walnut_Grove,_Minnesota"
+  },
+  {
+    "id": "us-peterborough",
+    "name": "Peterborough, New Hampshire",
+    "name_zh": "新罕布什尔 · 彼得伯勒",
+    "lat": 42.870555555556,
+    "lon": -71.951666666667,
+    "place_type": "prototype",
+    "prototype_of": "怀尔德在彼得伯勒的麦克道威尔艺术村写过《我们的小镇》的一部分，剧中的“格罗夫斯角”常被认为是照这座新英格兰小镇写的：几户人家、一座教堂、山坡上的墓地，生老病死都在这里。镇中心的砖楼和白色教堂仍是那个样子",
+    "prototype_of_en": "Wilder wrote part of Our Town at the MacDowell Colony in Peterborough, and Grover's Corners is often said to be modelled on this New England town: a few families, a church, a cemetery on the hill, where people are born, marry and die. The brick buildings and white church of the town centre look much the same today",
+    "coord_checked": "Peterborough, New Hampshire (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Peterborough,_New_Hampshire",
+    "book_ids": [
+      "our-town"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Our_Town"
+  },
+  {
+    "id": "us-monte-cristo-cottage",
+    "name": "Monte Cristo Cottage, New London",
+    "name_zh": "新伦敦 · 基督山小屋",
+    "lat": 41.33194444,
+    "lon": -72.09625,
+    "place_type": "original",
+    "note": "奥尼尔一家每年夏天住在这座海边小屋，名字来自父亲一辈子演的《基督山伯爵》。《长夜漫漫路迢迢》写 1912 年夏天这一家人一天里的争吵和互相伤害：酗酒的父兄、吸毒的母亲、病中的儿子，几乎就是他自己的家。故居现为博物馆，客厅照剧本的舞台说明布置",
+    "note_en": "The O'Neills spent every summer in this seaside cottage, named after The Count of Monte Cristo, the play the father acted in all his life. Long Day's Journey into Night follows one day of quarrels and wounds in the summer of 1912 — drinking father and brother, addicted mother, sick younger son — almost exactly his own family. The cottage is a museum, its living room arranged from the play's stage directions",
+    "coord_checked": "Monte Cristo Cottage (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Monte_Cristo_Cottage",
+    "book_ids": [
+      "long-days-journey"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Monte_Cristo_Cottage"
+  },
+  {
+    "id": "us-fleur-de-lys",
+    "name": "Fleur-de-Lys Studios, Providence",
+    "name_zh": "普罗维登斯 · 鸢尾花工作室",
+    "lat": 41.827778,
+    "lon": -71.409167,
+    "place_type": "original",
+    "note": "洛夫克拉夫特《克苏鲁的呼唤》里，年轻雕塑家威尔考克斯梦见沉没的城市后做出那块怪异的浅浮雕，他就住在托马斯街这座“鸢尾花大楼”里。洛夫克拉夫特把真实的楼名直接写进了小说。这座 1885 年的仿中世纪画室楼还在，就在第一浸信会教堂旁边的坡上",
+    "note_en": "In The Call of Cthulhu, the young sculptor Wilcox makes his strange bas-relief after dreaming of a sunken city, and he lives in the 'Fleur-de-Lys Building' on Thomas Street; Lovecraft used the real name. The mock-medieval studio building of 1885 is still there, on the slope beside the First Baptist Church",
+    "coord_checked": "Fleur-de-lys Studios (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Fleur-de-lys_Studios",
+    "book_ids": [
+      "call-of-cthulhu"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/The_Call_of_Cthulhu"
+  },
+  {
+    "id": "us-la-capitol",
+    "name": "Louisiana State Capitol, Baton Rouge",
+    "name_zh": "巴吞鲁日 · 路易斯安那州议会大厦",
+    "lat": 30.457072222222,
+    "lon": -91.187405555556,
+    "place_type": "prototype",
+    "prototype_of": "沃伦《国王的人马》里的州长威利·斯塔克，原型是路易斯安那的平民主义州长休伊·朗。这座全美最高的州议会大厦就是朗主持修建的，1935 年他在大楼走廊里遇刺身亡，小说结尾斯塔克也在议会大厦里中枪。走廊墙上至今还能看到弹孔，朗就葬在楼前的花园里",
+    "prototype_of_en": "Willie Stark, the governor in All the King's Men, is modelled on Louisiana's populist governor Huey Long. Long built this capitol, the tallest in the United States, and was shot dead in one of its corridors in 1935; Stark too is shot in the capitol at the end of the novel. Bullet marks can still be seen in the corridor wall, and Long is buried in the garden in front",
+    "coord_checked": "Louisiana State Capitol (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Louisiana_State_Capitol",
+    "book_ids": [
+      "all-kings-men"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Louisiana_State_Capitol"
+  },
+  {
+    "id": "us-brooklyn",
+    "name": "Brooklyn Heights Promenade",
+    "name_zh": "布鲁克林 · 高地步道",
+    "lat": 40.6975,
+    "lon": -73.9973,
+    "place_type": "original",
+    "note": "布鲁克林是好几部美国名作的家：《推销员之死》里威利·洛曼一家住在高楼包围中的布鲁克林小屋；《苏菲的抉择》里南方青年斯丁哥和集中营幸存者苏菲同住在弗拉特布什一座粉色公寓里；《卡瓦利与克雷》里逃出布拉格的乔就投奔布鲁克林的表弟。高地步道能望见整个曼哈顿下城",
+    "note_en": "Brooklyn is home to several great American books: Willy Loman's family lives in a small Brooklyn house hemmed in by apartment blocks in Death of a Salesman; Stingo, a young Southerner, shares a pink boarding house in Flatbush with the camp survivor Sophie in Sophie's Choice; and Joe, escaping Prague in Kavalier & Clay, comes to his cousin in Brooklyn. The Heights Promenade looks across to lower Manhattan",
+    "coord_checked": "Brooklyn Heights Promenade (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Brooklyn_Heights_Promenade",
+    "book_ids": [
+      "death-of-salesman",
+      "sophies-choice",
+      "kavalier-clay"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Brooklyn"
+  },
+  {
+    "id": "us-rebecca-nurse",
+    "name": "Rebecca Nurse Homestead, Danvers",
+    "name_zh": "丹弗斯 · 丽贝卡·纳斯故居",
+    "lat": 42.5582,
+    "lon": -70.9504,
+    "place_type": "original",
+    "note": "1692 年塞勒姆审巫案中，七十一岁的丽贝卡·纳斯被控行巫，在绞刑架上死去。阿瑟·米勒《萨勒姆的女巫》把她写成剧中最正直的人。她的农舍就在当年的塞勒姆村、今天的丹弗斯，屋旁的家族墓地里立着纪念碑，院里还有一座复原的塞勒姆村会堂",
+    "note_en": "In the Salem witch trials of 1692, seventy-one-year-old Rebecca Nurse was accused of witchcraft and hanged. Arthur Miller made her the most upright figure in The Crucible. Her farmhouse stands in what was Salem Village, today Danvers, with a memorial in the family burying ground and a replica of the Salem Village meeting house on the grounds",
+    "coord_checked": "Rebecca Nurse Homestead (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Rebecca_Nurse_Homestead",
+    "book_ids": [
+      "crucible"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Rebecca_Nurse_Homestead"
+  },
+  {
+    "id": "us-harlem",
+    "name": "Harlem, 125th Street",
+    "name_zh": "曼哈顿 · 哈莱姆 125 街",
+    "lat": 40.80992,
+    "lon": -73.95017,
+    "place_type": "original",
+    "note": "哈莱姆是两部黑人文学经典的家：鲍德温生在这里，《向苍天呼吁》写一个哈莱姆少年在十四岁生日那天，在继父的小教堂里经历宗教上的“得救”；埃利森在这里写了七年《看不见的人》，无名的叙述者从南方来到哈莱姆，最后躲进地下室。125 街是哈莱姆的主街，阿波罗剧院就在这里",
+    "note_en": "Harlem is home to two classics of Black American writing: Baldwin was born here, and Go Tell It on the Mountain follows a Harlem boy who is 'saved' in his stepfather's storefront church on his fourteenth birthday; Ellison spent seven years here writing Invisible Man, whose nameless narrator comes up from the South to Harlem and ends up hiding in a basement. 125th Street is Harlem's main street, home of the Apollo Theater",
+    "coord_checked": "File:Apollo Theater Harlem NYC 2010.JPG (geotagged, Wikimedia Commons) — https://commons.wikimedia.org/wiki/File:Apollo_Theater_Harlem_NYC_2010.JPG",
+    "book_ids": [
+      "go-tell-it",
+      "invisible-man"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Harlem"
+  },
+  {
+    "id": "us-desolation-peak",
+    "name": "Desolation Peak Lookout, North Cascades",
+    "name_zh": "北喀斯喀特 · 荒凉峰瞭望塔",
+    "lat": 48.911297,
+    "lon": -121.016319,
+    "place_type": "original",
+    "note": "1956 年夏天，凯鲁亚克在北喀斯喀特山的荒凉峰顶当了六十三天山火瞭望员，一个人守着小木屋看云看山。《达摩流浪者》的结尾就写这段山上的日子，是他听了诗人朋友加里·斯奈德的建议上山的。木屋还在，徒步上去要一整天",
+    "note_en": "In the summer of 1956 Kerouac spent sixty-three days alone as a fire lookout on top of Desolation Peak in the North Cascades, watching the clouds and mountains from a small cabin. The end of The Dharma Bums tells of those days on the mountain, which he took on at the urging of his poet friend Gary Snyder. The cabin still stands, a full day's hike up",
+    "coord_checked": "Desolation Peak Lookout (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Desolation_Peak_Lookout",
+    "book_ids": [
+      "dharma-bums"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Desolation_Peak_(Washington)"
+  },
+  {
+    "id": "us-andalusia",
+    "name": "Andalusia Farm, Milledgeville",
+    "name_zh": "米利奇维尔 · 安达卢西亚农场",
+    "lat": 33.125166666667,
+    "lon": -83.267777777778,
+    "place_type": "pilgrimage",
+    "note": "奥康纳二十五岁时确诊红斑狼疮，从此和母亲住在佐治亚中部这座农场，养了几十只孔雀，每天上午写作三小时，直到 1964 年去世。《智血》的定稿和她大部分短篇都写在这里。农场现由佐治亚学院管理开放，她的卧室兼书房原样保留，院子里又养起了孔雀",
+    "note_en": "Diagnosed with lupus at twenty-five, O'Connor lived on this middle-Georgia farm with her mother from then on, kept dozens of peacocks, and wrote three hours every morning until she died in 1964. She finished Wise Blood and wrote most of her stories here. The farm is open to visitors under Georgia College; her bedroom-study is kept as it was, and peacocks are back in the yard",
+    "coord_checked": "Andalusia (Milledgeville, Georgia) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Andalusia_(Milledgeville,_Georgia)",
+    "book_ids": [
+      "wise-blood",
+      "oconnor-stories"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Andalusia_(Milledgeville,_Georgia)"
+  },
+  {
+    "id": "us-lorain",
+    "name": "Lorain, Ohio",
+    "name_zh": "俄亥俄 · 洛雷恩",
+    "lat": 41.448333333333,
+    "lon": -82.168888888889,
+    "place_type": "original",
+    "note": "莫里森生在伊利湖边这座钢铁小城，她的第一部小说《最蓝的眼睛》就写 1941 年的洛雷恩：一个黑人小女孩每天祈祷自己有一双蓝眼睛。镇上的公共图书馆有一间以莫里森命名的阅览室，湖边还是当年的钢厂和船坞",
+    "note_en": "Morrison was born in this steel town on Lake Erie, and her first novel, The Bluest Eye, is set in Lorain in 1941, where a little Black girl prays every day for blue eyes. The public library has a reading room named after Morrison, and the steel mill and docks still line the lake",
+    "coord_checked": "Lorain, Ohio (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Lorain,_Ohio",
+    "book_ids": [
+      "bluest-eye"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/The_Bluest_Eye"
+  },
+  {
+    "id": "us-leopold-shack",
+    "name": "Aldo Leopold Shack, Baraboo",
+    "name_zh": "巴拉布 · 利奥波德小屋",
+    "lat": 43.562778,
+    "lon": -89.659167,
+    "place_type": "original",
+    "note": "1935 年利奥波德在威斯康星河边买下一片被耗尽的农场，把唯一剩下的鸡舍改成小屋，一家人周末来这里种了几千棵松树。《沙乡年鉴》按月份记下这片地上的花鸟和季节，提出了“土地伦理”。小屋和他们种的松林都还在，由利奥波德基金会带人参观",
+    "note_en": "In 1935 Leopold bought a worn-out farm on the Wisconsin River, turned its only remaining building, a chicken coop, into a cabin, and the family came on weekends to plant thousands of pines. A Sand County Almanac records the birds, flowers and seasons of this land month by month and sets out his 'land ethic.' The shack and the pines they planted are still there, with tours by the Leopold Foundation",
+    "coord_checked": "Aldo Leopold Shack (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Aldo_Leopold_Shack",
+    "book_ids": [
+      "sand-county"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Aldo_Leopold_Shack_and_Farm"
+  },
+  {
+    "id": "us-albany",
+    "name": "Downtown Albany",
+    "name_zh": "纽约州 · 奥尔巴尼老城",
+    "lat": 42.649167,
+    "lon": -73.751944,
+    "place_type": "original",
+    "note": "肯尼迪的“奥尔巴尼三部曲”都写他的家乡。《紫苑草》里，1938 年万圣节前后，当年的棒球手弗朗西斯·费伦流浪回奥尔巴尼，在墓地给人挖坟，一边被鬼魂纠缠，一边想回到抛下二十二年的家。州政府大楼和老城区的街道今天还是小说里的样子",
+    "note_en": "All of William Kennedy's Albany novels are set in his home town. In Ironweed, around Halloween 1938, Francis Phelan, once a ballplayer, drifts back to Albany, digs graves in the cemetery, is haunted by ghosts, and tries to return to the family he left twenty-two years before. The state capitol and the old downtown streets still look much as they do in the book",
+    "coord_checked": "Downtown Albany Historic District (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Downtown_Albany_Historic_District",
+    "book_ids": [
+      "ironweed"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Ironweed_(novel)"
+  },
+  {
+    "id": "us-freedom-center",
+    "name": "National Underground Railroad Freedom Center, Cincinnati",
+    "name_zh": "辛辛那提 · 地下铁道自由中心",
+    "lat": 39.0979,
+    "lon": -84.51148,
+    "place_type": "pilgrimage",
+    "note": "辛辛那提隔着俄亥俄河就是蓄奴的肯塔基，很多逃亡者从这里踏上自由州。1856 年玛格丽特·加纳带着孩子逃到这里，追捕者赶到时她杀死了自己的女儿，莫里森据此写成《宠儿》，故事就发生在城外。河边的自由中心讲地下铁道的历史，怀特黑德在《地下铁道》里把这条秘密通道想象成了真的铁路",
+    "note_en": "Across the Ohio River from Cincinnati lay slaveholding Kentucky, and many fugitives first touched free soil here. In 1856 Margaret Garner fled here with her children and killed her daughter when the slave catchers came; Morrison made her story into Beloved, set just outside the city. The Freedom Center on the riverbank tells the history of the Underground Railroad, which Colson Whitehead reimagined as a real railroad",
+    "coord_checked": "National Underground Railroad Freedom Center (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:National_Underground_Railroad_Freedom_Center",
+    "book_ids": [
+      "beloved",
+      "underground-railroad"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/National_Underground_Railroad_Freedom_Center"
+  },
+  {
+    "id": "us-turtle-mountain",
+    "name": "Turtle Mountain Reservation, North Dakota",
+    "name_zh": "北达科他 · 龟山保留地",
+    "lat": 48.85,
+    "lon": -99.7836,
+    "place_type": "prototype",
+    "prototype_of": "厄德里克是龟山奇佩瓦部落的登记成员，外祖父当过部落主席。《爱药》《圆屋》写北达科他一个奇佩瓦保留地上几个家族几十年的故事，这个保留地很像龟山。《圆屋》里十三岁的乔为遭到侵害的母亲寻找真相。保留地在加拿大边境旁的丘陵湖泊之间",
+    "prototype_of_en": "Erdrich is an enrolled member of the Turtle Mountain Band of Chippewa, and her grandfather was its tribal chairman. Love Medicine and The Round House follow several families over decades on an Ojibwe reservation in North Dakota much like Turtle Mountain; in The Round House thirteen-year-old Joe searches for the truth after his mother is attacked. The reservation lies among hills and lakes by the Canadian border",
+    "coord_checked": "Turtle Mountain Indian Reservation (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Turtle_Mountain_Indian_Reservation",
+    "book_ids": [
+      "love-medicine",
+      "round-house"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Turtle_Mountain_Indian_Reservation"
+  },
+  {
+    "id": "us-san-angelo",
+    "name": "San Angelo, Texas",
+    "name_zh": "得克萨斯 · 圣安杰洛",
+    "lat": 31.45,
+    "lon": -100.45,
+    "place_type": "original",
+    "note": "麦卡锡《天下骏马》开篇在 1949 年的圣安杰洛一带：外祖父去世，十六岁的约翰·格雷迪眼看家里的牧场要被卖掉，就和朋友骑马南下，越过边境去墨西哥找属于牛仔的生活。这座西得克萨斯小城至今还是牧场和牛仔竞技的中心",
+    "note_en": "All the Pretty Horses opens around San Angelo in 1949: his grandfather dead and the family ranch about to be sold, sixteen-year-old John Grady Cole rides south with a friend across the border into Mexico in search of a cowboy's life. This West Texas town is still a centre of ranching and rodeo",
+    "coord_checked": "San Angelo, Texas (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:San_Angelo,_Texas",
+    "book_ids": [
+      "all-pretty-horses"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/All_the_Pretty_Horses_(novel)"
+  },
+  {
+    "id": "us-knoxville",
+    "name": "Knoxville, Tennessee",
+    "name_zh": "田纳西 · 诺克斯维尔",
+    "lat": 35.961666666667,
+    "lon": -83.923333333333,
+    "place_type": "pilgrimage",
+    "note": "麦卡锡在诺克斯维尔长大，早期小说《沙崔》就写这座城。《长路》里没有一个地名，父子推着购物车穿过一片烧焦的大地往南走向大海，许多读者从山路、桥和河认出了他熟悉的东田纳西。诺克斯维尔老城有麦卡锡长大的街区，田纳西河从城中流过",
+    "note_en": "McCarthy grew up in Knoxville, and his early novel Suttree is set here. The Road names no places at all — a father and son push a shopping cart south through a burned land toward the sea — but many readers recognise the mountain roads, bridges and rivers of the East Tennessee he knew. The Tennessee River runs through the city",
+    "coord_checked": "Knoxville, Tennessee (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Knoxville,_Tennessee",
+    "book_ids": [
+      "the-road"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Cormac_McCarthy"
+  },
+  {
+    "id": "us-bennington",
+    "name": "Bennington College, Vermont",
+    "name_zh": "佛蒙特 · 本宁顿学院",
+    "lat": 42.924817,
+    "lon": -73.23673,
+    "place_type": "prototype",
+    "prototype_of": "塔特《校园秘史》里那所佛蒙特小学院“汉普登”，一般认为照的是她自己念过的本宁顿学院：一小群学古希腊文的学生，在山间校园里杀了自己的同学。本宁顿以艺术和写作出名，同时期的同学里还有作家布雷特·伊斯顿·埃利斯。校园在小镇外的山坡草地上",
+    "prototype_of_en": "Hampden, the small Vermont college of The Secret History, is generally taken to be Bennington, where Tartt studied: a small circle of students of ancient Greek murder one of their own on a hillside campus. Bennington is known for the arts and writing, and Bret Easton Ellis was a fellow student. The campus spreads over meadows on a hill outside town",
+    "coord_checked": "Bennington College (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Bennington_College",
+    "book_ids": [
+      "secret-history"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/The_Secret_History"
+  },
+  {
+    "id": "us-met",
+    "name": "The Metropolitan Museum of Art",
+    "name_zh": "曼哈顿 · 大都会艺术博物馆",
+    "lat": 40.779444444444,
+    "lon": -73.963333333333,
+    "place_type": "original",
+    "note": "塔特《金翅雀》开篇，十三岁的西奥和母亲在大都会博物馆看画，一场爆炸夺走了母亲，他在废墟中拿走了法布里蒂乌斯的小画《金翅雀》，从此带着它过了十几年。那幅画真迹在海牙的莫瑞泰斯皇家美术馆。博物馆的大台阶是纽约人约见的地方",
+    "note_en": "The Goldfinch opens with thirteen-year-old Theo and his mother looking at paintings in the Met when a bomb goes off; his mother is killed, and from the rubble he takes Fabritius's small painting The Goldfinch and carries it for more than a decade. The real painting hangs in the Mauritshuis in The Hague. The museum's great steps are where New Yorkers meet",
+    "coord_checked": "Metropolitan Museum of Art (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Metropolitan_Museum_of_Art",
+    "book_ids": [
+      "goldfinch"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/The_Goldfinch_(novel)"
+  },
+  {
+    "id": "us-detroit",
+    "name": "Detroit",
+    "name_zh": "底特律",
+    "lat": 42.3339,
+    "lon": -83.0478,
+    "place_type": "original",
+    "note": "两部小说都写底特律的汽车工厂：塞利纳《茫茫黑夜漫游》里，巴尔达穆从纽约来到底特律，在福特的流水线上做工，觉得人被机器吞掉；尤金尼德斯《中性》里，希腊移民祖父也在福特厂里谋生，一家人后来搬到格罗斯波因特的米德尔塞克斯大道。底特律是福特发家的城市",
+    "note_en": "Two novels go into Detroit's car plants: in Céline's Journey to the End of the Night, Bardamu comes from New York to work on Ford's assembly line and feels swallowed by the machines; in Eugenides's Middlesex, the Greek immigrant grandfather finds work at Ford too, and the family later moves to Middlesex Boulevard in Grosse Pointe. Detroit is the city where Ford began",
+    "coord_checked": "Downtown Detroit (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Downtown_Detroit",
+    "book_ids": [
+      "fr-journey-end-of-night",
+      "middlesex"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Middlesex_(novel)"
+  },
+  {
+    "id": "us-great-falls-paterson",
+    "name": "Great Falls of the Passaic, Paterson",
+    "name_zh": "帕特森 · 帕塞伊克大瀑布",
+    "lat": 40.916189,
+    "lon": -74.181597,
+    "place_type": "original",
+    "note": "迪亚斯《奥斯卡·瓦奥短暂而奇妙的一生》里，胖胖的多米尼加裔书呆子奥斯卡在新泽西的帕特森长大，读科幻、玩桌游，一心想谈恋爱。帕特森是美国早期的工业城市，靠的就是城中这道瀑布的水力，诗人威廉斯也写过一部长诗《帕特森》。瀑布现属国家历史公园",
+    "note_en": "In The Brief Wondrous Life of Oscar Wao, Oscar, an overweight Dominican nerd who reads science fiction, plays role-playing games and longs for love, grows up in Paterson, New Jersey. Paterson was one of America's first industrial cities, powered by these falls, and William Carlos Williams wrote a long poem named after it. The falls are now a national historical park",
+    "coord_checked": "Great Falls (Passaic River) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Great_Falls_(Passaic_River)",
+    "book_ids": [
+      "oscar-wao"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Paterson,_New_Jersey"
+  },
+  {
+    "id": "us-indian-springs",
+    "name": "Indian Springs School, Alabama",
+    "name_zh": "亚拉巴马 · 印第安斯普林斯学校",
+    "lat": 33.342925,
+    "lon": -86.770535,
+    "place_type": "prototype",
+    "prototype_of": "约翰·格林念过伯明翰郊外这所寄宿学校，《寻找阿拉斯加》里的卡尔弗溪寄宿学校就是照它写的：迈尔斯转学到这里寻找“伟大的或许”，遇见了神秘的女孩阿拉斯加。校园在伯明翰南边的树林里，有一片湖",
+    "prototype_of_en": "John Green attended this boarding school outside Birmingham, and Culver Creek in Looking for Alaska is based on it: Miles transfers here in search of a 'Great Perhaps' and meets the enigmatic Alaska Young. The campus lies in the woods south of Birmingham, around a lake",
+    "coord_checked": "Indian Springs School (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Indian_Springs_School",
+    "book_ids": [
+      "looking-alaska"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Looking_for_Alaska"
+  },
+  {
+    "id": "us-outer-banks",
+    "name": "North Carolina coastal marshes",
+    "name_zh": "北卡罗来纳海岸沼泽",
+    "lat": 35.5668467,
+    "lon": -75.4684908,
+    "place_type": "original",
+    "note": "欧文斯《蝲蛄吟唱的地方》里，被家人一个个抛下的女孩凯娅独自在北卡罗来纳海边的沼泽里长大，被镇上人叫作“沼泽女孩”。小说里的巴克利湾小镇是虚构的。北卡罗来纳的外滩群岛一带有大片盐沼、潮汐河道和水鸟，正是书里那样的风景",
+    "note_en": "In Where the Crawdads Sing, Kya, abandoned by her family one by one, grows up alone in the marshes of the North Carolina coast, where the townspeople call her 'the Marsh Girl.' The town of Barkley Cove is fictional. The Outer Banks of North Carolina have wide salt marshes, tidal creeks and water birds, the landscape of the book",
+    "coord_checked": "Outer Banks (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Outer_Banks",
+    "book_ids": [
+      "crawdads"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Where_the_Crawdads_Sing"
+  },
+  {
+    "id": "us-dozier",
+    "name": "Dozier School for Boys, Marianna",
+    "name_zh": "玛丽安娜 · 多齐尔男校旧址",
+    "lat": 30.76,
+    "lon": -85.255,
+    "place_type": "prototype",
+    "prototype_of": "怀特黑德《黑人男孩》里的“尼克尔学院”原型是佛罗里达的这所少年感化院，1900 年到 2011 年关闭，一百多年里有大量男孩遭到毒打，2012 年起考古学家在校园里挖出了五十多具无名遗骸。小说里埃尔伍德因为搭错一趟车被送进这里。旧址现已荒废",
+    "prototype_of_en": "The Nickel Academy of The Nickel Boys is based on this Florida reform school, open from 1900 until 2011, where generations of boys were brutally beaten; from 2012 archaeologists dug up more than fifty unmarked graves on the grounds. In the novel Elwood is sent here after accepting the wrong ride. The site is now abandoned",
+    "coord_checked": "Florida School for Boys (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Florida_School_for_Boys",
+    "book_ids": [
+      "nickel-boys"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Florida_School_for_Boys"
+  },
+  {
+    "id": "us-parchman",
+    "name": "Mississippi State Penitentiary (Parchman Farm)",
+    "name_zh": "密西西比州立监狱（帕奇曼农场）",
+    "lat": 33.931666666667,
+    "lon": -90.550833333333,
+    "place_type": "original",
+    "note": "沃德《歌唱吧，未安葬的魂灵》里，母亲莉奥妮带着两个孩子开车穿过密西西比，去帕奇曼监狱接出狱的丈夫，外祖父年轻时也被关在这里，一个死在这里的黑人少年的鬼魂跟着他们回家。帕奇曼建在三角洲的棉田里，曾是南方最残酷的劳役监狱",
+    "note_en": "In Sing, Unburied, Sing, Leonie drives her two children across Mississippi to collect her husband from Parchman; their grandfather was held here as a young man, and the ghost of a Black boy who died here follows them home. Parchman sits among Delta cotton fields and was once the harshest labour prison in the South",
+    "coord_checked": "Mississippi State Penitentiary (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Mississippi_State_Penitentiary",
+    "book_ids": [
+      "sing-unburied"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Sing,_Unburied,_Sing"
+  },
+  {
+    "id": "us-lee-county",
+    "name": "Lee County, Virginia",
+    "name_zh": "弗吉尼亚 · 李县",
+    "lat": 36.71,
+    "lon": -83.13,
+    "place_type": "original",
+    "note": "金索沃把狄更斯的《大卫·科波菲尔》搬到弗吉尼亚最西端的李县：主人公“恶魔”在阿巴拉契亚山区的单宽活动房里出生，经历寄养、童工、橄榄球和止痛药成瘾的浪潮。金索沃自己在肯塔基乡下长大，熟悉这片山区。县里是连绵的山岭和煤矿小镇",
+    "note_en": "Kingsolver moved Dickens's David Copperfield to Lee County, at the far western tip of Virginia: her hero 'Demon' is born in a single-wide trailer in the Appalachian mountains and lives through foster care, child labour, football and the opioid epidemic. Kingsolver herself grew up in rural Kentucky and knows these mountains. The county is ridges and old coal towns",
+    "coord_checked": "Lee County, Virginia (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Lee_County,_Virginia",
+    "book_ids": [
+      "demon-copperhead"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Demon_Copperhead"
+  },
+  {
+    "id": "us-boulder",
+    "name": "Boulder, Colorado",
+    "name_zh": "科罗拉多 · 博尔德",
+    "lat": 40.019444444444,
+    "lon": -105.29277777778,
+    "place_type": "original",
+    "note": "斯蒂芬·金《末日逼近》里，一场瘟疫杀死了几乎所有人，幸存者分成两边：好人跟着一百零八岁的阿巴盖尔大妈聚到博尔德，建起“博尔德自由区”，坏人投奔拉斯维加斯。金写这本书时就住在博尔德。城边是熨斗山的红色岩壁",
+    "note_en": "In Stephen King's The Stand a plague kills almost everyone and the survivors divide: the good gather around 108-year-old Mother Abagail in Boulder to found the 'Boulder Free Zone,' the evil go to Las Vegas. King lived in Boulder while writing it. The red rock slabs of the Flatirons rise at the edge of town",
+    "coord_checked": "Boulder, Colorado (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Boulder,_Colorado",
+    "book_ids": [
+      "stand-king"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/The_Stand"
+  },
+  {
+    "id": "us-stanley-hotel",
+    "name": "The Stanley Hotel, Estes Park",
+    "name_zh": "埃斯蒂斯帕克 · 斯坦利酒店",
+    "lat": 40.38272,
+    "lon": -105.51907,
+    "place_type": "prototype",
+    "prototype_of": "1974 年斯蒂芬·金和妻子在落基山脚下这家酒店住了一晚，正赶上停业前夕，偌大的酒店只有他们两个客人，他住的是 217 号房。这一夜给了他《闪灵》里远望酒店的灵感。酒店至今营业，217 号房常被预订，还有专门的“鬼魂导览”",
+    "prototype_of_en": "In 1974 Stephen King and his wife spent a night in this hotel at the foot of the Rockies just before it closed for the season, the only guests in the whole building; he stayed in room 217. That night gave him the Overlook Hotel of The Shining. The hotel is still open, room 217 is much in demand, and there are ghost tours",
+    "coord_checked": "File:Stanley Hotel profile.jpg (geotagged, Wikimedia Commons) — https://commons.wikimedia.org/wiki/File:Stanley_Hotel_profile.jpg",
+    "book_ids": [
+      "shining"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/The_Stanley_Hotel"
+  },
+  {
+    "id": "us-cairo-illinois",
+    "name": "Cairo, Illinois",
+    "name_zh": "伊利诺伊 · 开罗",
+    "lat": 37.013055555556,
+    "lon": -89.180277777778,
+    "place_type": "prototype",
+    "prototype_of": "狄更斯 1842 年游美国时坐船经过密西西比河和俄亥俄河交汇处的开罗，觉得这片低洼泥沼是他见过最凄惨的地方。《马丁·瞿述伟》里，马丁被骗买下“伊甸”殖民地的地，到了才发现是一片疫病横行的沼泽，一般认为写的就是开罗。小城今天人口已很稀少，老街上多是空楼",
+    "prototype_of_en": "On his American tour of 1842 Dickens passed Cairo, where the Ohio meets the Mississippi, and thought the low swamp the most dismal place he had seen. In Martin Chuzzlewit, Martin is swindled into buying land in the settlement of 'Eden' and finds a fever-ridden swamp, generally taken to be Cairo. The town is much emptier now, its old streets lined with vacant buildings",
+    "coord_checked": "Cairo, Illinois (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Cairo,_Illinois",
+    "book_ids": [
+      "martin-chuzzlewit"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Cairo,_Illinois"
+  },
+  {
+    "id": "us-house-on-the-rock",
+    "name": "House on the Rock, Spring Green",
+    "name_zh": "斯普林格林 · 岩上之屋",
+    "lat": 43.1,
+    "lon": -90.136111111111,
+    "place_type": "original",
+    "note": "盖曼《美国众神》里，奥丁化身的星期三先生把各路古老神祇召集到威斯康星的岩上之屋，在世界最大的旋转木马上把他们带进神的国度。这座建在岩柱上的奇屋是亚历克斯·乔丹一手造的，堆满了自动乐器、怪诞收藏和一个伸出山崖的“无限房间”",
+    "note_en": "In Gaiman's American Gods, Mr. Wednesday — Odin in disguise — summons the old gods to the House on the Rock in Wisconsin and carries them off to the realm of the gods on the world's largest carousel. Alex Jordan built this strange house on a rock pillar, crammed with mechanical music machines, bizarre collections and an 'Infinity Room' jutting out over the valley",
+    "coord_checked": "House on the Rock (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:House_on_the_Rock",
+    "book_ids": [
+      "american-gods"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/House_on_the_Rock"
+  },
+  {
+    "id": "us-dyea",
+    "name": "Dyea, Alaska",
+    "name_zh": "阿拉斯加 · 戴伊",
+    "lat": 59.504444444444,
+    "lon": -135.36,
+    "place_type": "original",
+    "note": "《野性的呼唤》第二章，被偷卖的大狗巴克在戴伊的海滩上第一次见识北方的规矩：同伴被狗群撕碎，他被套上雪橇。1897 年淘金潮时，杰克·伦敦本人也在这里上岸，背着行李翻过奇尔库特山口去育空。戴伊如今只剩树林里的墓地和码头残桩，奇尔库特步道的起点就在这里",
+    "note_en": "In chapter two of The Call of the Wild, Buck, stolen and sold north, learns the law of the North on the beach at Dyea, where a dog is torn apart and he is put in harness. In the gold rush of 1897 Jack London himself landed here and packed his gear over the Chilkoot Pass to the Yukon. Dyea is now just a cemetery in the woods and the stumps of a wharf, at the start of the Chilkoot Trail",
+    "coord_checked": "Dyea, Alaska (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Dyea,_Alaska",
+    "book_ids": [
+      "us-call-of-the-wild"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Dyea,_Alaska"
+  },
+  {
+    "id": "us-elysian-fields",
+    "name": "Elysian Fields Avenue, Faubourg Marigny, New Orleans",
+    "name_zh": "新奥尔良 · 极乐世界大道",
+    "lat": 29.9647,
+    "lon": -90.0553,
+    "place_type": "original",
+    "note": "《欲望号街车》开场，布兰奇按妹妹斯黛拉给的指路，先坐“欲望”号街车，再换乘“墓地”号，在“极乐世界”下车，来到斯坦利和斯黛拉在法国区边上的两居室。这条大道真实存在，从密西西比河边一直通到庞恰特雷恩湖。威廉斯写这部剧时就住在附近",
+    "note_en": "At the start of A Streetcar Named Desire, Blanche follows her sister's directions: take a streetcar named Desire, transfer to one called Cemeteries, and get off at Elysian Fields — the street of Stanley and Stella's two-room flat at the edge of the French Quarter. The avenue is real, running from the Mississippi to Lake Pontchartrain. Williams lived nearby while writing the play",
+    "coord_checked": "Faubourg Marigny (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Faubourg_Marigny",
+    "book_ids": [
+      "streetcar"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Elysian_Fields_Avenue"
+  },
+  {
+    "id": "us-gentilly",
+    "name": "Gentilly, New Orleans",
+    "name_zh": "新奥尔良 · 让蒂伊",
+    "lat": 30.0144,
+    "lon": -90.0605,
+    "place_type": "original",
+    "note": "珀西《看电影的人》的主人公宾克斯是新奥尔良的股票经纪人，住在中产郊区让蒂伊，靠看电影打发日子，在狂欢节前的一周里开始“寻找”。他特意离开花园区的老家族圈子，搬到这片平淡的新住宅区。让蒂伊在城北，靠近庞恰特雷恩湖",
+    "note_en": "Binx Bolling, The Moviegoer's hero, is a New Orleans stockbroker who lives in the middle-class suburb of Gentilly, passes his days at the movies, and in the week before Mardi Gras sets out on a 'search.' He has deliberately left his old family circle in the Garden District for these plain new houses. Gentilly lies on the north side of the city near Lake Pontchartrain",
+    "coord_checked": "Gentilly, New Orleans (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Gentilly,_New_Orleans",
+    "book_ids": [
+      "moviegoer"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/The_Moviegoer"
+  },
+  {
+    "id": "us-vonnegut-museum",
+    "name": "Kurt Vonnegut Museum and Library, Indianapolis",
+    "name_zh": "印第安纳波利斯 · 冯内古特博物馆",
+    "lat": 39.775583,
+    "lon": -86.166269,
+    "place_type": "pilgrimage",
+    "note": "冯内古特生在印第安纳波利斯。二战时他作为战俘在德累斯顿的屠宰场地下室里躲过了盟军大轰炸，二十多年后写成《五号屠场》，主人公比利“在时间里脱了节”。故乡的博物馆陈列他的打字机、画作和战俘时期的经历，还有一间“被禁书”展室",
+    "note_en": "Vonnegut was born in Indianapolis. As a prisoner of war he survived the Allied firebombing of Dresden in the cellar of a slaughterhouse, and more than twenty years later wrote Slaughterhouse-Five, whose hero Billy Pilgrim 'has come unstuck in time.' The museum in his home town shows his typewriter, drawings and his wartime experience, with a room on banned books",
+    "coord_checked": "Kurt Vonnegut Museum and Library (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Kurt_Vonnegut_Museum_and_Library",
+    "book_ids": [
+      "slaughterhouse"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Kurt_Vonnegut_Museum_and_Library"
+  },
+  {
+    "id": "us-beale-street",
+    "name": "Beale Street, Memphis",
+    "name_zh": "孟菲斯 · 比尔街",
+    "lat": 35.139444,
+    "lon": -90.051944,
+    "place_type": "original",
+    "note": "赖特在自传《黑孩子》里写，十七岁时他从密西西比来到孟菲斯，住在比尔街附近，做杂役攒钱，借白人同事的图书证偷偷去图书馆借门肯的书，从此决心当作家，再一路北上芝加哥。比尔街是布鲁斯音乐的发源地之一，今天满街是酒吧和音乐现场",
+    "note_en": "In Black Boy, Wright tells how at seventeen he came up from Mississippi to Memphis, lodged near Beale Street, saved his wages from odd jobs, and borrowed a white co-worker's library card to read H. L. Mencken — the moment he decided to be a writer before heading north to Chicago. Beale Street is one of the birthplaces of the blues and is full of bars and live music today",
+    "coord_checked": "Beale Street, Memphis (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Beale_Street,_Memphis",
+    "book_ids": [
+      "black-boy"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Black_Boy"
+  },
+  {
+    "id": "us-bronzeville",
+    "name": "Bronzeville, Chicago",
+    "name_zh": "芝加哥 · 布朗兹维尔",
+    "lat": 41.82611,
+    "lon": -87.62573,
+    "place_type": "original",
+    "note": "《土生子》里的比格·托马斯一家挤在芝加哥南区一间爬满老鼠的单间公寓里，他去给富人家当司机，失手杀死了主人的女儿。南区的布朗兹维尔是黑人大迁徙后形成的“城中之城”，赖特 1927 年到芝加哥后就住在这一带。街区里还有很多当年的老楼",
+    "note_en": "Native Son's Bigger Thomas lives with his family in a rat-infested one-room flat on Chicago's South Side, takes a job as a rich family's chauffeur and accidentally kills their daughter. Bronzeville on the South Side became a 'city within a city' after the Great Migration, and Wright lived around here after reaching Chicago in 1927. Many of the old buildings still stand",
+    "coord_checked": "File:22 121278 YMCA from el, Bronzeville Chicago.jpg (geotagged, Wikimedia Commons) — https://commons.wikimedia.org/wiki/File:22_121278_YMCA_from_el,_Bronzeville_Chicago.jpg",
+    "book_ids": [
+      "native-son"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/Native_Son"
+  },
+  {
+    "id": "us-humboldt-park",
+    "name": "Humboldt Park, Chicago",
+    "name_zh": "芝加哥 · 洪堡公园",
+    "lat": 41.9065,
+    "lon": -87.7018,
+    "place_type": "original",
+    "note": "“我是美国人，生在芝加哥。”贝娄《奥吉·马奇历险记》这样开头，奥吉就在西北区洪堡公园一带的穷人家长大，贝娄自己少年时也住在这里。他后来的《洪堡的礼物》写芝加哥的作家和他那位落魄诗人朋友洪堡。公园里有湖、船屋和老式的花园",
+    "note_en": "'I am an American, Chicago born' — so begins The Adventures of Augie March, whose hero grows up poor around Humboldt Park on the Northwest Side, where Bellow himself lived as a boy. His later Humboldt's Gift follows a Chicago writer and his ruined poet friend Humboldt. The park has a lagoon, a boathouse and old formal gardens",
+    "coord_checked": "Humboldt Park (Chicago park) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Humboldt_Park_(Chicago_park)",
+    "book_ids": [
+      "augie-march",
+      "humboldt"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/The_Adventures_of_Augie_March"
+  },
+  {
+    "id": "us-westminster-place",
+    "name": "Tennessee Williams's home, Westminster Place, St. Louis",
+    "name_zh": "圣路易斯 · 威斯敏斯特街威廉斯旧居",
+    "lat": 38.64972,
+    "lon": -90.26361,
+    "place_type": "prototype",
+    "prototype_of": "《玻璃动物园》是田纳西·威廉斯的“回忆剧”，温菲尔德一家住在圣路易斯一座小巷里的公寓，照的就是他少年时和母亲、姐姐住过的这一带公寓，姐姐罗丝正是剧中摆弄玻璃动物的劳拉的原型。威斯敏斯特街这座公寓楼至今还在，是私人住宅",
+    "prototype_of_en": "The Glass Menagerie is Williams's 'memory play.' The Wingfields' alley apartment in St. Louis is modelled on the apartment where he lived as a youth with his mother and his sister Rose, the model for Laura with her glass animals. The building on Westminster Place still stands as private flats",
+    "coord_checked": "File:Westminster Place Entrance.jpg (geotagged, Wikimedia Commons) — https://commons.wikimedia.org/wiki/File:Westminster_Place_Entrance.jpg",
+    "book_ids": [
+      "glass-menagerie"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/The_Glass_Menagerie"
+  },
+  {
+    "id": "us-westport",
+    "name": "Compo Beach, Westport",
+    "name_zh": "韦斯特波特 · 康波海滩",
+    "lat": 41.106388888889,
+    "lon": -73.350555555556,
+    "place_type": "pilgrimage",
+    "note": "1920 年 5 月，刚结婚的菲茨杰拉德夫妇从纽约搬到康涅狄格的韦斯特波特，在康波海滩附近租了一座小屋过夏天，派对不断，有一回客人恶作剧拉响了火警。《美丽与毁灭》写一对挥霍青春、坐等遗产的纽约夫妻，在城里公寓和乡下房子之间来回，有很多这段日子的影子。海滩至今是镇上夏天最热闹的地方",
+    "note_en": "In May 1920 the newly married Fitzgeralds moved from New York to Westport, Connecticut, and rented a cottage near Compo Beach for the summer; the parties never stopped, and once a guest pulled the fire alarm as a prank. The Beautiful and Damned, about a New York couple squandering their youth while waiting for an inheritance, shuttling between a city apartment and a country house, carries much of that summer. The beach is still the liveliest place in town in summer",
+    "coord_checked": "Compo Beach (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Compo_Beach",
+    "book_ids": [
+      "beautiful-and-damned"
+    ],
+    "fact_source": "https://en.wikipedia.org/wiki/The_Beautiful_and_Damned"
   }
 ]

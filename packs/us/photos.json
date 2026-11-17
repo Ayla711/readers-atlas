@@ -326,5 +326,341 @@
       0.89,
       1
     ]
+  },
+  "us-evangeline-oak": {
+    "commons_file": "File:Evangeline Oak, St. Martinville, LA 2013 05.jpg",
+    "alt_en": "The Evangeline Oak on the Bayou Teche",
+    "alt_zh": "泰什河畔的伊万杰琳橡树",
+    "crop": null
+  },
+  "us-seven-gables": {
+    "commons_file": "File:House of the Seven Gables MA1.jpg",
+    "alt_en": "The House of the Seven Gables",
+    "alt_zh": "七角楼",
+    "crop": null
+  },
+  "us-wall-street": {
+    "commons_file": "File:40 Wall Street April 2022.jpg",
+    "alt_en": "40 Wall Street",
+    "alt_zh": "华尔街 40 号",
+    "crop": null
+  },
+  "us-fulton-ferry": {
+    "commons_file": "File:Brooklyn Bridge Park - Flickr - Maëlick.jpg",
+    "alt_en": "The old ferry landing and lower Manhattan beyond the East River",
+    "alt_zh": "旧渡口和东河对岸的曼哈顿下城",
+    "crop": null
+  },
+  "us-fells-point": {
+    "commons_file": "File:Fells Point Waterfront Area.jpg",
+    "alt_en": "The Fell's Point waterfront from the harbour",
+    "alt_zh": "从港口望费尔斯角码头区",
+    "crop": null
+  },
+  "us-cedar-hill": {
+    "commons_file": "File:FREDERICK DOUGLASS N.H.S. WASHINGTON D.C..jpg",
+    "alt_en": "Douglass's study at Cedar Hill",
+    "alt_zh": "雪松山故居里道格拉斯的书房",
+    "crop": null
+  },
+  "us-washington-square-park": {
+    "commons_file": "File:Greenwich Village January 2026 022.jpg",
+    "alt_en": "The Washington Square Arch",
+    "alt_zh": "华盛顿广场凯旋门",
+    "crop": null
+  },
+  "us-grand-isle": {
+    "commons_file": "File:Clouds above grand isle (5015332240).jpg",
+    "alt_en": "The Gulf of Mexico off Grand Isle",
+    "alt_zh": "格兰德岛外的墨西哥湾",
+    "crop": null
+  },
+  "us-chancellorsville": {
+    "commons_file": "File:Chancellorsville Battlefield 2009.jpg",
+    "alt_en": "Cannon on the Chancellorsville battlefield",
+    "alt_zh": "钱斯勒斯维尔战场上的火炮",
+    "crop": null
+  },
+  "us-fort-william-henry": {
+    "commons_file": "File:Fort William Henry 2026.jpg",
+    "alt_en": "The rebuilt Fort William Henry on Lake George",
+    "alt_zh": "乔治湖畔重建的威廉·亨利堡",
+    "crop": null
+  },
+  "us-big-moose-lake": {
+    "commons_file": "File:Big Moose Lake - Gazebo Dock.jpg",
+    "alt_en": "A dock on Big Moose Lake in autumn",
+    "alt_zh": "秋天大穆斯湖上的码头",
+    "crop": null
+  },
+  "us-jack-london-square": {
+    "commons_file": "File:Heinold's First and Last Chance Saloon-10.jpg",
+    "alt_en": "A mural of Jack London outside Heinold's First and Last Chance Saloon",
+    "alt_zh": "海诺尔德酒馆外的杰克·伦敦壁画",
+    "crop": null
+  },
+  "us-petes-tavern": {
+    "commons_file": "File:Pete's Tavern (51708610272).jpg",
+    "alt_en": "Pete's Tavern on Irving Place",
+    "alt_zh": "欧文广场上的皮特酒馆",
+    "crop": null
+  },
+  "us-tuolumne-meadows": {
+    "commons_file": "File:17 25 119 tuolumne meadows.jpg",
+    "alt_en": "Tuolumne Meadows in the Yosemite high country",
+    "alt_zh": "约塞米蒂高地的图奥勒米草甸",
+    "crop": null
+  },
+  "us-frost-farm": {
+    "commons_file": "File:Robert Frost Farm - Buildings (5039508634).jpg",
+    "alt_en": "The farmhouse and barn of the Robert Frost Farm",
+    "alt_zh": "弗罗斯特农场的农舍和谷仓",
+    "crop": null
+  },
+  "us-hemingway-house": {
+    "commons_file": "File:Ernest Hemingway Home - Key West, FL.jpg",
+    "alt_en": "The Ernest Hemingway Home in Key West",
+    "alt_zh": "基韦斯特的海明威故居",
+    "crop": null
+  },
+  "us-steinbeck-house": {
+    "commons_file": "File:Steinbeck House 001.jpg",
+    "alt_en": "A dining room in the Steinbeck House",
+    "alt_zh": "斯坦贝克故居里的餐厅",
+    "crop": null
+  },
+  "us-plum-creek": {
+    "commons_file": "File:WalnutGroveLauraMuseum.JPG",
+    "alt_en": "The Laura Ingalls Wilder Museum in Walnut Grove",
+    "alt_zh": "沃尔纳特格罗夫的劳拉·英格尔斯·怀尔德博物馆",
+    "crop": null
+  },
+  "us-peterborough": {
+    "commons_file": "File:Main St, Peterborough NH.jpg",
+    "alt_en": "Main Street, Peterborough",
+    "alt_zh": "彼得伯勒的主街",
+    "crop": null
+  },
+  "us-monte-cristo-cottage": {
+    "commons_file": "File:Monte Cristo Cottage.jpg",
+    "alt_en": "Monte Cristo Cottage",
+    "alt_zh": "基督山小屋",
+    "crop": null
+  },
+  "us-fleur-de-lys": {
+    "commons_file": "File:Fleur-de-lys Studios from the yard of the First Baptist Church.jpg",
+    "alt_en": "The Fleur-de-Lys Studios (centre) on Thomas Street",
+    "alt_zh": "托马斯街上的鸢尾花工作室（中）",
+    "crop": null
+  },
+  "us-la-capitol": {
+    "commons_file": "File:2014 Louisiana State Capitol.JPG",
+    "alt_en": "The Louisiana State Capitol",
+    "alt_zh": "路易斯安那州议会大厦",
+    "crop": null
+  },
+  "us-brooklyn": {
+    "commons_file": "File:Brooklyn Heights Promenade (55268460453).jpg",
+    "alt_en": "Lower Manhattan from the Brooklyn Heights Promenade",
+    "alt_zh": "从布鲁克林高地步道望曼哈顿下城",
+    "crop": null
+  },
+  "us-rebecca-nurse": {
+    "commons_file": "File:Rebecca Nurse Homestead.jpg",
+    "alt_en": "The Rebecca Nurse Homestead",
+    "alt_zh": "丽贝卡·纳斯故居",
+    "crop": null
+  },
+  "us-harlem": {
+    "commons_file": "File:Harlem 125th street Apollo.jpg",
+    "alt_en": "125th Street and the Apollo Theater",
+    "alt_zh": "125 街和阿波罗剧院",
+    "crop": null
+  },
+  "us-desolation-peak": {
+    "commons_file": "File:Desolation Peak Lookout with a view.jpg",
+    "alt_en": "The fire lookout on Desolation Peak",
+    "alt_zh": "荒凉峰顶的瞭望木屋",
+    "crop": null
+  },
+  "us-andalusia": {
+    "commons_file": "File:18-24-021-andalusia.jpg",
+    "alt_en": "The dining room at Andalusia",
+    "alt_zh": "安达卢西亚农场的餐厅",
+    "crop": null
+  },
+  "us-lorain": {
+    "commons_file": "File:Lorain lighthouse at dusk.jpg",
+    "alt_en": "The Lorain lighthouse on Lake Erie at dusk",
+    "alt_zh": "黄昏时伊利湖上的洛雷恩灯塔",
+    "crop": null
+  },
+  "us-leopold-shack": {
+    "commons_file": "File:Aldo Leopold's Shack (13968959421).jpg",
+    "alt_en": "Aldo Leopold's shack",
+    "alt_zh": "利奥波德小屋",
+    "crop": null
+  },
+  "us-albany": {
+    "commons_file": "File:StateStreetAlbanyNY.JPG",
+    "alt_en": "State Street in downtown Albany",
+    "alt_zh": "奥尔巴尼老城的州街",
+    "crop": null
+  },
+  "us-freedom-center": {
+    "commons_file": "File:NationalUndergroundRailroadFreedomCenter.jpg",
+    "alt_en": "The National Underground Railroad Freedom Center",
+    "alt_zh": "地下铁道自由中心",
+    "crop": null
+  },
+  "us-turtle-mountain": {
+    "commons_file": "File:TMCC Aerial.jpg",
+    "alt_en": "Turtle Mountain Community College and the lakes of the reservation",
+    "alt_zh": "龟山社区学院和保留地的湖泊",
+    "crop": null
+  },
+  "us-san-angelo": {
+    "commons_file": "File:San Angelo September 2019 13 (Texas Theatre).jpg",
+    "alt_en": "The Texas Theatre in downtown San Angelo",
+    "alt_zh": "圣安杰洛老城的得克萨斯剧院",
+    "crop": null
+  },
+  "us-knoxville": {
+    "commons_file": "File:McCrary & Branson, photographer Bridge over Tennessee. Looking South., 1870s 01.jpg",
+    "alt_en": "The bridge over the Tennessee River at Knoxville, 1870s",
+    "alt_zh": "1870 年代诺克斯维尔的田纳西河大桥",
+    "crop": null
+  },
+  "us-bennington": {
+    "commons_file": "File:BennSC 80 AG441 se dusk v3.jpg",
+    "alt_en": "A building on the Bennington College campus at dusk",
+    "alt_zh": "黄昏时本宁顿学院的一座楼",
+    "crop": null
+  },
+  "us-met": {
+    "commons_file": "File:At New York City 2024 317.jpg",
+    "alt_en": "The Metropolitan Museum of Art seen from Central Park",
+    "alt_zh": "从中央公园望大都会艺术博物馆",
+    "crop": null
+  },
+  "us-detroit": {
+    "commons_file": "File:Detroit August 2025 01 (skyline).jpg",
+    "alt_en": "The Detroit skyline",
+    "alt_zh": "底特律的天际线",
+    "crop": null
+  },
+  "us-great-falls-paterson": {
+    "commons_file": "File:Great Falls of Paterson NJ.jpg",
+    "alt_en": "The Great Falls of the Passaic in Paterson",
+    "alt_zh": "帕特森的帕塞伊克大瀑布",
+    "crop": null
+  },
+  "us-indian-springs": {
+    "commons_file": "File:Indian Springs School, 2019.png",
+    "alt_en": "Indian Springs School",
+    "alt_zh": "印第安斯普林斯学校",
+    "crop": null
+  },
+  "us-outer-banks": {
+    "commons_file": "File:Bay side marsh - Flickr - pellaea.jpg",
+    "alt_en": "A bayside marsh on the Outer Banks",
+    "alt_zh": "外滩群岛靠海湾一侧的沼泽",
+    "crop": null
+  },
+  "us-dozier": {
+    "commons_file": "File:Florida School for Boys 1.jpg",
+    "alt_en": "A building of the former Dozier School",
+    "alt_zh": "多齐尔男校旧址的一座房子",
+    "crop": null
+  },
+  "us-parchman": {
+    "commons_file": "File:Parchmanmaingate.jpg",
+    "alt_en": "The main gate of Parchman",
+    "alt_zh": "帕奇曼监狱大门",
+    "crop": null
+  },
+  "us-lee-county": {
+    "commons_file": "File:Lee County Courthouse in Jonesville, front.jpg",
+    "alt_en": "The Lee County Courthouse in Jonesville",
+    "alt_zh": "琼斯维尔的李县法院",
+    "crop": null
+  },
+  "us-boulder": {
+    "commons_file": "File:Boulder from above 01.jpg",
+    "alt_en": "Boulder from the foothills",
+    "alt_zh": "从山脚高处俯瞰博尔德",
+    "crop": null
+  },
+  "us-stanley-hotel": {
+    "commons_file": "File:Stanley Hotel profile.jpg",
+    "alt_en": "The Stanley Hotel",
+    "alt_zh": "斯坦利酒店",
+    "crop": null
+  },
+  "us-cairo-illinois": {
+    "commons_file": "File:Illinois - Cairo - NARA - 23939565.jpg",
+    "alt_en": "Cairo, Illinois from the air",
+    "alt_zh": "空中俯瞰伊利诺伊州开罗",
+    "crop": null
+  },
+  "us-house-on-the-rock": {
+    "commons_file": "File:House on the Rock self-playing musical instruments.jpg",
+    "alt_en": "Self-playing instruments at the House on the Rock",
+    "alt_zh": "岩上之屋里的自动乐器",
+    "crop": null
+  },
+  "us-dyea": {
+    "commons_file": "File:Dyea, Alaska from Dyea Mt., ca. 1899 - DPLA - 303d151c4211c76e79d72a5ee7e0b206.jpg",
+    "alt_en": "Dyea and the Taiya Inlet, about 1899",
+    "alt_zh": "约 1899 年的戴伊和泰亚湾",
+    "crop": null
+  },
+  "us-elysian-fields": {
+    "commons_file": "File:Elysian Fields Avenue, Faubourg Marigny, New Orleans, 2022-08-08 - 09.jpg",
+    "alt_en": "Elysian Fields Avenue in the Faubourg Marigny",
+    "alt_zh": "马里尼区的极乐世界大道",
+    "crop": null
+  },
+  "us-gentilly": {
+    "commons_file": "File:Leaving New Orleans by Train July 2019 Gentilly Overpass.jpg",
+    "alt_en": "Gentilly seen from a passing train",
+    "alt_zh": "火车上望见的让蒂伊",
+    "crop": null
+  },
+  "us-vonnegut-museum": {
+    "commons_file": "File:Kurt Vonnegut Museum and Library 2026-11-11 E.jpg",
+    "alt_en": "The Kurt Vonnegut Museum and Library",
+    "alt_zh": "冯内古特博物馆",
+    "crop": null
+  },
+  "us-beale-street": {
+    "commons_file": "File:Beale Street at Sunset (27028377141).jpg",
+    "alt_en": "Beale Street at dusk",
+    "alt_zh": "黄昏的比尔街",
+    "crop": null
+  },
+  "us-bronzeville": {
+    "commons_file": "File:22 121278 YMCA from el, Bronzeville Chicago.jpg",
+    "alt_en": "Bronzeville seen from the elevated railway",
+    "alt_zh": "从高架铁路上望布朗兹维尔",
+    "crop": null
+  },
+  "us-humboldt-park": {
+    "commons_file": "File:Humbolt Park (29782246401).jpg",
+    "alt_en": "Humboldt Park from the air",
+    "alt_zh": "空中俯瞰洪堡公园",
+    "crop": null
+  },
+  "us-westport": {
+    "commons_file": "File:Compo Beach, Westport, CT.JPG",
+    "alt_en": "Compo Beach, Westport",
+    "alt_zh": "韦斯特波特的康波海滩",
+    "crop": null
+  },
+  "us-westminster-place": {
+    "commons_file": "File:Westminster Place Entrance.jpg",
+    "alt_en": "The gate of Westminster Place",
+    "alt_zh": "威斯敏斯特街的大门",
+    "crop": null
   }
 }

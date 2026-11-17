@@ -1967,5 +1967,348 @@
     ],
     "status": "draft",
     "fact_source": "https://www.supersummary.com/rita-hayworth-and-shawshank-redemption"
+  },
+  {
+    "id": "us-streetcar-s1",
+    "kind": "scene",
+    "book_id": "streetcar",
+    "place_ids": [
+      "us-elysian-fields"
+    ],
+    "location": "Scene One",
+    "location_zh": "第一场",
+    "text_en": "Blanche DuBois arrives in New Orleans with a suitcase, having ridden a streetcar named Desire and transferred to one called Cemeteries, and gets off at Elysian Fields, where her sister Stella lives with Stanley Kowalski in a cramped two-room flat.",
+    "text_zh": "布兰奇·杜波依斯提着箱子来到新奥尔良，坐了“欲望”号街车，又换乘“墓地”号，在“极乐世界”大道下车。妹妹斯黛拉和斯坦利·科瓦尔斯基就住在这里一套局促的两居室里。",
+    "highlight_en": [
+      "Elysian Fields"
+    ],
+    "highlight_zh": [
+      "极乐世界"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/A_Streetcar_Named_Desire"
+  },
+  {
+    "id": "us-salesman-s1",
+    "kind": "scene",
+    "book_id": "death-of-salesman",
+    "place_ids": [
+      "us-brooklyn"
+    ],
+    "location": "Act One",
+    "location_zh": "第一幕",
+    "text_en": "Willy Loman, sixty-three and worn out, comes home late at night to his small house in Brooklyn, now boxed in by apartment buildings, after failing to make it through a sales trip to New England.",
+    "text_zh": "六十三岁、筋疲力尽的推销员威利·洛曼没能跑完去新英格兰的推销，深夜回到布鲁克林的小房子。房子四周早已被公寓楼团团围住。",
+    "highlight_en": [
+      "Brooklyn"
+    ],
+    "highlight_zh": [
+      "布鲁克林"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Death_of_a_Salesman"
+  },
+  {
+    "id": "us-sophie-s1",
+    "kind": "scene",
+    "book_id": "sophies-choice",
+    "place_ids": [
+      "us-brooklyn"
+    ],
+    "location": "Chapter 1",
+    "location_zh": "第一章",
+    "text_en": "In 1947 Stingo, a young Southerner who wants to be a writer, leaves his publishing job and rents a room in a pink boarding house in Flatbush, Brooklyn, where he meets Sophie, a Polish survivor of Auschwitz, and her lover Nathan.",
+    "text_zh": "1947 年，想当作家的南方青年斯丁哥辞掉出版社的工作，在布鲁克林弗拉特布什一座粉色的公寓里租了个房间，在这里认识了奥斯维辛幸存者、波兰女子苏菲和她的情人内森。",
+    "highlight_en": [
+      "Brooklyn"
+    ],
+    "highlight_zh": [
+      "布鲁克林"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Sophie%27s_Choice_(novel)"
+  },
+  {
+    "id": "us-kavalier-s1",
+    "kind": "scene",
+    "book_id": "kavalier-clay",
+    "place_ids": [
+      "us-brooklyn"
+    ],
+    "location": "Part I",
+    "location_zh": "第一部",
+    "text_en": "In 1939 Joe Kavalier escapes Nazi-occupied Prague and comes to live with his seventeen-year-old cousin Sammy Klayman in Brooklyn; together they invent a comic-book hero, the Escapist.",
+    "text_zh": "1939 年，乔·卡瓦利逃出被纳粹占领的布拉格，投奔住在布鲁克林的十七岁表弟萨米·克莱曼。两人一起创造了漫画英雄“逃脱者”。",
+    "highlight_en": [
+      "Brooklyn"
+    ],
+    "highlight_zh": [
+      "布鲁克林"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Amazing_Adventures_of_Kavalier_%26_Clay"
+  },
+  {
+    "id": "us-invisible-s1",
+    "kind": "scene",
+    "book_id": "invisible-man",
+    "place_ids": [
+      "us-harlem"
+    ],
+    "location": "The New York chapters",
+    "location_zh": "到纽约后的章节",
+    "text_en": "Expelled from his Southern college, the nameless narrator comes north to New York and finds a room in Harlem, amazed at a city where Black people crowd the streets and speak from the corners as if they owned them.",
+    "text_zh": "被南方的黑人学院开除后，无名的叙述者来到纽约，在哈莱姆找了个住处。满街都是黑人，街角有人站上箱子演讲，他第一次见到这样的城市。",
+    "highlight_en": [
+      "Harlem"
+    ],
+    "highlight_zh": [
+      "哈莱姆"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Invisible_Man"
+  },
+  {
+    "id": "us-ourtown-s1",
+    "kind": "scene",
+    "book_id": "our-town",
+    "place_ids": [
+      "us-peterborough"
+    ],
+    "location": "Act Three",
+    "location_zh": "第三幕",
+    "text_en": "Emily Webb, who has died in childbirth, is allowed to return to one ordinary day, her twelfth birthday in Grover's Corners, and finds she cannot bear how little the living notice of their lives.",
+    "text_zh": "死于难产的艾米莉获准回到人间一天，她选了在格罗夫斯角过十二岁生日那天，却发现活着的人对眼前的生活竟如此视而不见，她受不了。",
+    "highlight_en": [
+      "Grover's Corners"
+    ],
+    "highlight_zh": [
+      "格罗夫斯角"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Our_Town"
+  },
+  {
+    "id": "us-ldj-s1",
+    "kind": "scene",
+    "book_id": "long-days-journey",
+    "place_ids": [
+      "us-monte-cristo-cottage"
+    ],
+    "location": "Act One",
+    "location_zh": "第一幕",
+    "text_en": "On a single day in August 1912, in the Tyrones' summer home on the Connecticut shore, the family circles around the mother's morphine addiction and the younger son's illness while a foghorn sounds through the night.",
+    "text_zh": "1912 年 8 月的一天，在康涅狄格海边蒂龙家的避暑小屋里，一家人围着母亲的吗啡瘾和小儿子的病打转，夜里雾笛一直响着。",
+    "highlight_en": [
+      "summer home"
+    ],
+    "highlight_zh": [
+      "避暑小屋"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Long_Day%27s_Journey_into_Night"
+  },
+  {
+    "id": "us-glass-s1",
+    "kind": "scene",
+    "book_id": "glass-menagerie",
+    "place_ids": [
+      "us-westminster-place"
+    ],
+    "location": "Scene One",
+    "location_zh": "第一场",
+    "text_en": "Tom Wingfield steps forward as narrator and takes the audience back to his family's apartment in St. Louis, reached by an alley and a fire escape, where he lived with his mother Amanda and his fragile sister Laura.",
+    "text_zh": "汤姆·温菲尔德走到台前当叙述者，把观众带回他家在圣路易斯的公寓：从一条小巷和防火梯进出，他和母亲阿曼达、脆弱的姐姐劳拉曾住在这里。",
+    "highlight_en": [
+      "St. Louis"
+    ],
+    "highlight_zh": [
+      "圣路易斯"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Glass_Menagerie"
+  },
+  {
+    "id": "us-eden-s1",
+    "kind": "scene",
+    "book_id": "east-of-eden",
+    "place_ids": [
+      "us-steinbeck-house"
+    ],
+    "location": "Chapter 1",
+    "location_zh": "第一章",
+    "text_en": "The narrator opens with the Salinas Valley as he knew it as a child: the bright Gabilan Mountains to the east, the dark Santa Lucias to the west, and the river running between them.",
+    "text_zh": "叙述者从他童年记忆中的萨利纳斯谷写起：东边是明亮的加比兰山，西边是阴暗的圣卢西亚山，萨利纳斯河从中间流过。",
+    "highlight_en": [
+      "Salinas Valley"
+    ],
+    "highlight_zh": [
+      "萨利纳斯谷"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/East_of_Eden_(novel)"
+  },
+  {
+    "id": "us-dharma-s1",
+    "kind": "scene",
+    "book_id": "dharma-bums",
+    "place_ids": [
+      "us-desolation-peak"
+    ],
+    "location": "The last chapters",
+    "location_zh": "最后几章",
+    "text_en": "Ray Smith spends the summer alone as a fire lookout on Desolation Peak, high in the Cascades, watching the mountains and trying to live out what Japhy taught him.",
+    "text_zh": "雷·史密斯一个人在喀斯喀特山高处的荒凉峰上当了一夏天山火瞭望员，看着群山，试着过贾菲教给他的那种生活。",
+    "highlight_en": [
+      "Desolation Peak"
+    ],
+    "highlight_zh": [
+      "荒凉峰"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Dharma_Bums"
+  },
+  {
+    "id": "us-goldfinch-s1",
+    "kind": "scene",
+    "book_id": "goldfinch",
+    "place_ids": [
+      "us-met"
+    ],
+    "location": "Chapter 1",
+    "location_zh": "第一章",
+    "text_en": "Thirteen-year-old Theo Decker is in the Metropolitan Museum of Art with his mother when a bomb explodes; she is killed, and he walks out of the ruins carrying Carel Fabritius's small painting The Goldfinch.",
+    "text_zh": "十三岁的西奥·德克尔和母亲在大都会艺术博物馆看画时发生爆炸，母亲遇难，他从废墟里走出来，怀里抱着法布里蒂乌斯的小画《金翅雀》。",
+    "highlight_en": [
+      "Metropolitan Museum of Art"
+    ],
+    "highlight_zh": [
+      "大都会艺术博物馆"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Goldfinch_(novel)"
+  },
+  {
+    "id": "us-beloved-s1",
+    "kind": "scene",
+    "book_id": "beloved",
+    "place_ids": [
+      "us-freedom-center"
+    ],
+    "location": "Part One",
+    "location_zh": "第一部",
+    "text_en": "In 1873 Sethe, who escaped slavery in Kentucky, lives with her daughter Denver at 124 Bluestone Road outside Cincinnati, a house haunted by the baby daughter she killed rather than let her be taken back.",
+    "text_zh": "1873 年，从肯塔基逃出来的塞丝和女儿丹芙住在辛辛那提城外的蓝石路 124 号。这座房子里闹着鬼，是她当年宁可亲手杀死也不让人抓回去的那个女婴。",
+    "highlight_en": [
+      "Cincinnati"
+    ],
+    "highlight_zh": [
+      "辛辛那提"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Beloved_(novel)"
+  },
+  {
+    "id": "us-shining-s1",
+    "kind": "scene",
+    "book_id": "shining",
+    "place_ids": [
+      "us-stanley-hotel"
+    ],
+    "location": "Part One",
+    "location_zh": "第一部",
+    "text_en": "Jack Torrance, a recovering alcoholic and would-be writer, takes the job of winter caretaker at the Overlook Hotel high in the Colorado Rockies and moves in with his wife Wendy and their son Danny as the snows close the road.",
+    "text_zh": "戒酒中的作家杰克·托伦斯接下了科罗拉多落基山深处远望酒店的冬季看守工作，带着妻子温蒂和儿子丹尼住进去，大雪随后封住了山路。",
+    "highlight_en": [
+      "Overlook Hotel"
+    ],
+    "highlight_zh": [
+      "远望酒店"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Shining_(novel)"
+  },
+  {
+    "id": "us-nickel-s1",
+    "kind": "scene",
+    "book_id": "nickel-boys",
+    "place_ids": [
+      "us-dozier"
+    ],
+    "location": "Part One",
+    "location_zh": "第一部",
+    "text_en": "Elwood Curtis, a bright Black teenager in 1960s Tallahassee who believes in Martin Luther King's words, accepts a ride in a stolen car and is sent to the Nickel Academy, a segregated reform school whose cruelty he cannot reconcile with his ideals.",
+    "text_zh": "1960 年代塔拉哈西的黑人少年埃尔伍德聪明上进，信奉马丁·路德·金的话，却因搭上一辆偷来的车被送进种族隔离的尼克尔学院。那里的残暴和他心中的理想怎么也对不上。",
+    "highlight_en": [
+      "Nickel Academy"
+    ],
+    "highlight_zh": [
+      "尼克尔学院"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Nickel_Boys"
+  },
+  {
+    "id": "us-crucible-s1",
+    "kind": "scene",
+    "book_id": "crucible",
+    "place_ids": [
+      "us-rebecca-nurse"
+    ],
+    "location": "Act Four",
+    "location_zh": "第四幕",
+    "text_en": "On the morning of the hangings, Rebecca Nurse, old and gentle, is led out with John Proctor; neither will save themselves by confessing to witchcraft.",
+    "text_zh": "行刑的那天早晨，年迈温和的丽贝卡·纳斯和约翰·普罗克特一起被押出去。两人都不肯靠承认自己行巫来保命。",
+    "highlight_en": [
+      "Rebecca Nurse"
+    ],
+    "highlight_zh": [
+      "丽贝卡·纳斯"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Crucible"
+  },
+  {
+    "id": "us-akm-s1",
+    "kind": "scene",
+    "book_id": "all-kings-men",
+    "place_ids": [
+      "us-la-capitol"
+    ],
+    "location": "Near the end",
+    "location_zh": "接近结尾",
+    "text_en": "Governor Willie Stark, once a country lawyer and now a political boss, is shot in the corridor of the state capitol by Adam Stanton, the friend of the narrator Jack Burden.",
+    "text_zh": "从乡下律师爬上州长宝座的政治强人威利·斯塔克，在州议会大厦的走廊里被叙述者杰克·伯登的朋友亚当·斯坦顿开枪打死。",
+    "highlight_en": [
+      "state capitol"
+    ],
+    "highlight_zh": [
+      "州议会大厦"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/All_the_King%27s_Men"
+  },
+  {
+    "id": "us-cw-3",
+    "book_id": "us-call-of-the-wild",
+    "place_ids": [
+      "us-dyea"
+    ],
+    "location": "Chapter 2, The Law of Club and Fang",
+    "location_zh": "第二章，棍棒与獠牙的法则",
+    "text_en": "Buck’s first day on the Dyea beach was like a nightmare. Every hour was filled with shock and surprise. He had been suddenly jerked from the heart of civilization and flung into the heart of things primordial. No lazy, sun-kissed life was this, with nothing to do but loaf and be bored. Here was neither peace, nor rest, nor a moment’s safety. All was confusion and action, and every moment life and limb were in peril.",
+    "highlight_en": [
+      "Dyea"
+    ],
+    "text_zh": "巴克在戴伊海滩上的第一天就像一场噩梦。每个钟头都充满了震惊和意外。他被一把从文明的中心拽出来，扔进了蛮荒的中心。这里再也不是那种阳光下懒洋洋、闲得发慌的日子了。这里没有平静，没有休息，没有一刻是安全的。一切都是混乱和行动，每时每刻都有性命之忧。",
+    "highlight_zh": [
+      "戴伊"
+    ],
+    "translation": "original",
+    "source": {
+      "kind": "gutenberg",
+      "id": 215
+    },
+    "status": "draft"
   }
 ]
