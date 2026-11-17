@@ -242,5 +242,87 @@
     ],
     "coord_checked": "Parque Lezama (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Parque_Lezama",
     "fact_source": "https://en.wikipedia.org/wiki/On_Heroes_and_Tombs"
+  },
+  {
+    "id": "ar-plaza-cortazar",
+    "name": "Plaza Cortázar, Palermo",
+    "name_zh": "布宜诺斯艾利斯巴勒莫 · 科塔萨尔广场",
+    "lat": -34.588732,
+    "lon": -58.430154,
+    "place_type": "pilgrimage",
+    "note": "科塔萨尔在巴黎住了大半辈子，可《跳房子》的后半部和他早年的短篇都回到了布宜诺斯艾利斯。巴勒莫老区这座小广场以他命名，本地人还习惯叫它塞拉诺广场。四周是酒吧、小店和涂鸦墙，周末有手工艺市集",
+    "note_en": "Cortázar spent most of his life in Paris, but the second half of Hopscotch and his early stories go back to Buenos Aires. This small square in old Palermo is named after him, though locals still call it Plaza Serrano. It is ringed with bars, shops and murals, and has a craft market at weekends",
+    "book_ids": [
+      "hopscotch",
+      "bestiary"
+    ],
+    "coord_checked": "Plaza Cortázar (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Plaza_Cortázar",
+    "fact_source": "https://en.wikipedia.org/wiki/Julio_Cort%C3%A1zar"
+  },
+  {
+    "id": "ar-constitucion",
+    "name": "Plaza Constitución, Buenos Aires",
+    "name_zh": "布宜诺斯艾利斯 · 宪法区",
+    "lat": -34.627778,
+    "lon": -58.381306,
+    "place_type": "original",
+    "note": "恩里克斯最有名的短篇《脏孩子》就发生在这里：叙述者执意住进宪法区的祖传老宅，可这片南部老街区在旁人眼里又穷又乱。宪法广场边是宏伟的宪法火车站，往南的列车从这里发出，站前人潮整天不断",
+    "note_en": "Mariana Enríquez's best-known story, 'The Dirty Kid', is set right here: its narrator insists on living in her family's old house in Constitución, a southern district most people think of as poor and rough. The grand Constitución railway station, where trains leave for the south, stands on the square, with crowds outside all day",
+    "coord_checked": "Constitución train station (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Constitución_train_station",
+    "fact_source": "https://en.wikipedia.org/wiki/Things_We_Lost_in_the_Fire"
+  },
+  {
+    "id": "ar-estadio-monumental",
+    "name": "Estadio Monumental, Buenos Aires",
+    "name_zh": "布宜诺斯艾利斯 · 河床队纪念碑球场",
+    "lat": -34.545278,
+    "lon": -58.449722,
+    "place_type": "original",
+    "note": "阿根廷最受喜爱的漫画《永航员》里，一场致命的“雪”落在布宜诺斯艾利斯北郊，幸存者穿着自制防护服出门，后来在河床队的球场和外星入侵者激战。作者奥斯特赫尔德 1977 年被军政府绑架后失踪。球场是河床队主场，也是阿根廷国家队的主场",
+    "note_en": "In The Eternaut, Argentina's best-loved comic, a deadly 'snow' falls on the northern suburbs of Buenos Aires, the survivors go out in homemade protective suits, and later fight the alien invaders at River Plate's stadium. Its writer, Héctor Oesterheld, was abducted by the military regime in 1977 and never seen again. The stadium is River Plate's home ground and Argentina's national stadium",
+    "coord_checked": "Estadio Monumental (Buenos Aires) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Estadio_Monumental_(Buenos_Aires)",
+    "fact_source": "https://en.wikipedia.org/wiki/El_Eternauta"
+  },
+  {
+    "id": "ar-general-villegas",
+    "name": "General Villegas",
+    "name_zh": "赫内拉尔比列加斯",
+    "lat": -35.033333,
+    "lon": -63.016667,
+    "place_type": "pilgrimage",
+    "note": "普伊格 1932 年生在这个潘帕斯小镇，童年几乎天天泡在镇上的电影院里，后来把小镇写成《丽塔·海华丝的背叛》和《红唇》里的“科罗内尔·巴列霍斯”。《蜘蛛女之吻》里莫利纳在牢房里一部接一部讲老电影，用的正是这份影迷记忆",
+    "note_en": "Manuel Puig was born in this small pampas town in 1932 and spent his childhood at the local cinema almost every day. He later turned the town into 'Coronel Vallejos' in Betrayed by Rita Hayworth and Heartbreak Tango. In Kiss of the Spider Woman, Molina retells old films one after another in a prison cell, drawing on that same moviegoer's memory",
+    "book_ids": [
+      "kiss-of-the-spider-woman"
+    ],
+    "coord_checked": "General Villegas (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:General_Villegas",
+    "fact_source": "https://en.wikipedia.org/wiki/Manuel_Puig"
+  },
+  {
+    "id": "ar-flight-571",
+    "name": "Crash site of Uruguayan Air Force Flight 571",
+    "name_zh": "安第斯山 · 乌拉圭空军 571 号班机失事地",
+    "lat": -34.765,
+    "lon": -70.286389,
+    "place_type": "original",
+    "note": "1972 年 10 月，载着乌拉圭一支橄榄球队的包机撞上安第斯山，残骸滑进这片后来被称作“眼泪谷”的冰雪山谷。幸存者靠吃遇难者遗体熬过 72 天，帕拉多和卡内萨徒步十天翻山求救。失事地立着一座铁十字纪念碑，夏天可以骑马徒步前往",
+    "note_en": "In October 1972 a plane carrying a Uruguayan rugby team crashed into the Andes, and the wreck slid into this snowy valley, later called the Valley of Tears. The survivors lasted 72 days by eating the bodies of the dead, until Nando Parrado and Roberto Canessa walked for ten days across the mountains to get help. An iron cross now marks the site, which can be reached on horseback in summer",
+    "coord_checked": "Uruguayan Air Force Flight 571 (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Uruguayan_Air_Force_Flight_571",
+    "fact_source": "https://en.wikipedia.org/wiki/Uruguayan_Air_Force_Flight_571"
+  },
+  {
+    "id": "ar-ex-esma",
+    "name": "Espacio Memoria y Derechos Humanos (ex ESMA)",
+    "name_zh": "布宜诺斯艾利斯 · 前海军机械学校记忆空间",
+    "lat": -34.53842,
+    "lon": -58.46361,
+    "place_type": "pilgrimage",
+    "note": "1957 年沃尔什追查军政府秘密枪决平民的真相，写成《屠杀行动》，开创了拉美的非虚构写作。1977 年 3 月他寄出《一个作家致军政府的公开信》，第二天就遭伏击身亡。军政府时期这里是最大的秘密拘留营，如今是记忆园区，园中立着他这封信的玻璃装置",
+    "note_en": "In 1957 Rodolfo Walsh tracked down the truth about the regime's secret execution of civilians and wrote Operation Massacre, a founding work of Latin American nonfiction. In March 1977 he mailed his 'Open Letter from a Writer to the Military Junta' and was ambushed and killed the next day. Under the dictatorship this site was the largest secret detention center; it is now a memorial park, with a glass installation of his letter",
+    "book_ids": [
+      "operacion-masacre"
+    ],
+    "coord_checked": "File:Espacio Memoria y DDHH - 'Carta abierta' de Rodolfo Walsh 1.jpg (geotagged, Wikimedia Commons) — https://commons.wikimedia.org/wiki/File:Espacio_Memoria_y_DDHH_-_'Carta_abierta'_de_Rodolfo_Walsh_1.jpg",
+    "fact_source": "https://en.wikipedia.org/wiki/Rodolfo_Walsh"
   }
 ]

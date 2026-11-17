@@ -135,5 +135,25 @@
     ],
     "status": "draft",
     "fact_source": "https://en.wikipedia.org/wiki/Open_Veins_of_Latin_America"
+  },
+  {
+    "id": "bo-mp-s1",
+    "kind": "scene",
+    "book_id": "marching-powder",
+    "place_ids": [
+      "bo-san-pedro-prison"
+    ],
+    "location": "Early chapters",
+    "location_zh": "前几章",
+    "text_en": "Arrested at La Paz airport with five kilos of cocaine, Thomas McFadden is thrown into San Pedro and told he must buy himself a cell; with no money he sleeps on the ground until he discovers that tourists will pay to be shown around.",
+    "text_zh": "托马斯·麦克法登带着五公斤可卡因在拉巴斯机场被捕，关进圣佩德罗监狱，被告知要自己出钱买牢房。他身无分文，睡了好些天地板，直到发现有游客愿意花钱让他带着参观。",
+    "highlight_en": [
+      "San Pedro"
+    ],
+    "highlight_zh": [
+      "圣佩德罗监狱"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/San_Pedro_prison"
   }
 ]

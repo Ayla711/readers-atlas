@@ -1,6 +1,6 @@
-# 导入报告 · Chile · 2026-11-14
+# 导入报告 · Chile · 2026-11-17
 
-包：58 本书、10 个地点、9 条摘句和场景说明、8 张照片。
+包：102 本书、13 个地点、13 条摘句和场景说明、11 张照片。
 
 ## 错误（0）
 
@@ -9,7 +9,7 @@
 
 - place cl-castro-church: 0.4 km off the simplified coastline, counted in CL-LL
 - place cl-robinson-crusoe-island: 0.2 km off the simplified coastline, counted in CL-VS
-- regions without a place: Arica y Parinacota, Atacama, Aysén, La Araucanía, Los Ríos, Maule, O'Higgins, Santiago Metropolitan, Tarapacá, Ñuble
+- regions without a place: Arica y Parinacota, Atacama, Aysén, Los Ríos, Maule, O'Higgins, Tarapacá, Ñuble
 
 ## 脚本没有逐字核对的文本（1，审核时人工核对）
 
@@ -28,13 +28,13 @@
 | Aysén | 0 |
 | Biobío | 1 |
 | Coquimbo | 1 |
-| La Araucanía | 0 |
+| La Araucanía | 1 |
 | Los Lagos | 1 |
 | Los Ríos | 0 |
 | Magallanes | 2 |
 | Maule | 0 |
 | O'Higgins | 0 |
-| Santiago Metropolitan | 0 |
+| Santiago Metropolitan | 2 |
 | Tarapacá | 0 |
 | Valparaíso | 4 |
 | Ñuble | 0 |

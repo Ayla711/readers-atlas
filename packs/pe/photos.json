@@ -46,5 +46,17 @@
     "alt_en": "The Casa de Fierro on the Plaza de Armas, Iquitos",
     "alt_zh": "伊基托斯武器广场边的“铁屋”",
     "crop": null
+  },
+  "pe-avenida-tacna": {
+    "commons_file": "File:Avenida Tacna amb Jirón Callao.jpg",
+    "alt_en": "Avenida Tacna at the corner of Jirón Callao",
+    "alt_zh": "塔克纳大道与卡亚俄街的路口",
+    "crop": null
+  },
+  "pe-siula-grande": {
+    "commons_file": "File:Siula Grande 072530032013.jpg",
+    "alt_en": "Siula Grande in the Cordillera Huayhuash",
+    "alt_zh": "瓦伊瓦什山脉中的修拉格兰德峰",
+    "crop": null
   }
 }

@@ -112,5 +112,85 @@
     ],
     "status": "draft",
     "fact_source": "https://en.wikipedia.org/wiki/Funes_the_Memorious"
+  },
+  {
+    "id": "uy-tru-s1",
+    "kind": "scene",
+    "book_id": "la-tregua",
+    "place_ids": [
+      "uy-avenida-18-de-julio"
+    ],
+    "location": "The diary",
+    "location_zh": "日记",
+    "text_en": "Santomé, forty-nine, a widower counting the months to his pension, falls in love with Laura Avellaneda, the shy twenty-four-year-old newly hired in his office; for a few months of happiness he calls his life a truce, until she dies suddenly of a fever.",
+    "text_zh": "四十九岁的鳏夫桑托梅正掰着指头等退休，却爱上了办公室新来的二十四岁羞涩姑娘劳拉·阿韦利亚内达。那几个月的幸福，他称作生活给他的一次“休战”，直到她突然死于一场高烧。",
+    "highlight_en": [
+      "his office"
+    ],
+    "highlight_zh": [
+      "办公室"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/La_tregua_(novel)"
+  },
+  {
+    "id": "uy-swb-s1",
+    "kind": "scene",
+    "book_id": "spring-with-a-broken-corner",
+    "place_ids": [
+      "uy-penal-de-libertad"
+    ],
+    "location": "“Intramuros”",
+    "location_zh": "《墙内》",
+    "text_en": "Santiago, a political prisoner in Uruguay for years, writes letters of hope to his wife Graciela and daughter Beatriz in exile, not knowing that Graciela has fallen in love with his best friend.",
+    "text_zh": "圣地亚哥在乌拉圭当了好几年政治犯，给流亡在外的妻子格拉谢拉和女儿贝亚特丽丝写满怀希望的信，却不知道格拉谢拉已经爱上了他最好的朋友。",
+    "highlight_en": [
+      "political prisoner"
+    ],
+    "highlight_zh": [
+      "政治犯"
+    ],
+    "status": "draft",
+    "fact_source": "https://es.wikipedia.org/wiki/Primavera_con_una_esquina_rota"
+  },
+  {
+    "id": "uy-boe-s1",
+    "kind": "scene",
+    "book_id": "the-book-of-embraces",
+    "place_ids": [
+      "uy-cafe-brasilero"
+    ],
+    "location": "“The World”",
+    "location_zh": "《世界》",
+    "text_en": "A man from the coastal town of Neguá climbs into the sky and comes back to tell that the world is a heap of people, a sea of tiny fires: each person shines with a light of their own, some so fiercely that you cannot look at them without catching fire.",
+    "text_zh": "海边小镇内瓜的一个人登上高天，回来说，世界是一大堆人，是一片小小火苗的海洋：每个人都发着自己的光，有的人燃得那么旺，你一靠近就会被点着。",
+    "highlight_en": [
+      "a sea of tiny fires"
+    ],
+    "highlight_zh": [
+      "一片小小火苗的海洋"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Book_of_Embraces"
+  },
+  {
+    "id": "uy-sss-s1",
+    "kind": "scene",
+    "book_id": "soccer-in-sun-and-shadow",
+    "place_ids": [
+      "uy-estadio-centenario"
+    ],
+    "location": "“The 1930 World Cup”",
+    "location_zh": "《1930 年世界杯》",
+    "text_en": "In the brand-new Centenario stadium, Uruguay trail Argentina 2–1 at half-time in the first World Cup final, then score three goals to win; Montevideo celebrates for days.",
+    "text_zh": "在新落成的百年纪念球场，第一届世界杯决赛上半场乌拉圭 1 比 2 落后阿根廷，下半场连进三球取胜，蒙得维的亚狂欢了好几天。",
+    "highlight_en": [
+      "Centenario stadium"
+    ],
+    "highlight_zh": [
+      "百年纪念球场"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/1930_FIFA_World_Cup_final"
   }
 ]

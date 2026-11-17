@@ -1,13 +1,13 @@
-# 导入报告 · Ecuador · 2026-11-13
+# 导入报告 · Ecuador · 2026-11-17
 
-包：49 本书、3 个地点、5 条摘句和场景说明、3 张照片。
+包：102 本书、5 个地点、7 条摘句和场景说明、5 张照片。
 
 ## 错误（0）
 
 
 ## 提示（1）
 
-- regions without a place: Azuay, Bolívar, Carchi, Cañar, Cotopaxi, El Oro, Esmeraldas, Guayas, Imbabura, Loja, Los Ríos, Manabí, Morona Santiago, Napo, Orellana, Pastaza, Pichincha, Santa Elena, Santo Domingo de los Tsáchilas, Sucumbíos, Tungurahua, Zamora Chinchipe
+- regions without a place: Azuay, Bolívar, Carchi, Cañar, Cotopaxi, El Oro, Esmeraldas, Guayas, Imbabura, Loja, Los Ríos, Manabí, Morona Santiago, Napo, Orellana, Santa Elena, Santo Domingo de los Tsáchilas, Sucumbíos, Tungurahua, Zamora Chinchipe
 
 ## 脚本没有逐字核对的文本（0，审核时人工核对）
 
@@ -36,8 +36,8 @@
 | Morona Santiago | 0 |
 | Napo | 0 |
 | Orellana | 0 |
-| Pastaza | 0 |
-| Pichincha | 0 |
+| Pastaza | 1 |
+| Pichincha | 1 |
 | Santa Elena | 0 |
 | Santo Domingo de los Tsáchilas | 0 |
 | Sucumbíos | 0 |

@@ -1,14 +1,15 @@
-# 导入报告 · Peru · 2026-11-14
+# 导入报告 · Peru · 2026-11-17
 
-包：58 本书、9 个地点、9 条摘句和场景说明、8 张照片。
+包：102 本书、11 个地点、11 条摘句和场景说明、10 张照片。
 
 ## 错误（0）
 
 
-## 提示（2）
+## 提示（3）
 
 - place pe-leoncio-prado: 0.4 km off the simplified coastline, counted in PE-LMA
-- regions without a place: Amazonas, Apurímac, Ayacucho, Callao, Huancavelica, Huánuco, Ica, Junín, La Libertad, Lambayeque, Lima, Madre de Dios, Moquegua, Pasco, Piura, Puno, San Martín, Tacna, Tumbes, Ucayali, Áncash
+- regions without a place: Amazonas, Apurímac, Ayacucho, Callao, Huancavelica, Ica, Junín, La Libertad, Lambayeque, Lima, Madre de Dios, Moquegua, Pasco, Piura, Puno, San Martín, Tacna, Tumbes, Ucayali, Áncash
+- photo pe-avenida-tacna: only 500 px wide (the place card shows 800); a larger file would look sharper
 
 ## 脚本没有逐字核对的文本（0，审核时人工核对）
 
@@ -29,13 +30,13 @@
 | Callao | 0 |
 | Cusco | 3 |
 | Huancavelica | 0 |
-| Huánuco | 0 |
+| Huánuco | 1 |
 | Ica | 0 |
 | Junín | 0 |
 | La Libertad | 0 |
 | Lambayeque | 0 |
 | Lima | 0 |
-| Lima (capital) | 3 |
+| Lima (capital) | 4 |
 | Loreto | 1 |
 | Madre de Dios | 0 |
 | Moquegua | 0 |

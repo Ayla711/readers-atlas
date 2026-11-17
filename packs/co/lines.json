@@ -124,5 +124,45 @@
     ],
     "status": "draft",
     "fact_source": "https://en.wikipedia.org/wiki/Mar%C3%ADa_(novel)"
+  },
+  {
+    "id": "co-sot-s1",
+    "kind": "scene",
+    "book_id": "the-sound-of-things-falling",
+    "place_ids": [
+      "co-hacienda-napoles"
+    ],
+    "location": "Chapter 1",
+    "location_zh": "第 1 章",
+    "text_en": "The news that one of Escobar's hippos has escaped from Hacienda Nápoles and been shot reminds the law lecturer Antonio Yammara of Ricardo Laverde, the ex-pilot he met over billiards in Bogotá and who was gunned down beside him in the street.",
+    "text_zh": "埃斯科瓦尔的一头河马从那不勒斯庄园逃出、被射杀的新闻，让法学讲师安东尼奥·亚马拉想起了里卡多·拉韦尔德：那个他在波哥大的台球厅认识的前飞行员，在街头就倒在他身边，被枪手打死。",
+    "highlight_en": [
+      "Hacienda Nápoles"
+    ],
+    "highlight_zh": [
+      "那不勒斯庄园"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Sound_of_Things_Falling"
+  },
+  {
+    "id": "co-olv-s1",
+    "kind": "scene",
+    "book_id": "el-olvido-que-seremos",
+    "place_ids": [
+      "co-universidad-antioquia"
+    ],
+    "location": "Final chapters",
+    "location_zh": "最后几章",
+    "text_en": "On 25 August 1987, Héctor Abad Gómez leaves the teachers' union in Medellín, where he has come to a wake for a murdered colleague, and is shot dead in the street; in his pocket his son finds a handwritten copy of a poem that begins, 'We are already the oblivion we shall be.'",
+    "text_zh": "1987 年 8 月 25 日，埃克托尔·阿瓦德·戈麦斯到麦德林的教师工会为一位遇害的同事守灵，出门时在街上被枪杀。儿子在他口袋里找到一首手抄的诗，开头一句是“我们已是我们将成为的遗忘”。",
+    "highlight_en": [
+      "Medellín"
+    ],
+    "highlight_zh": [
+      "麦德林"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/H%C3%A9ctor_Abad_G%C3%B3mez"
   }
 ]

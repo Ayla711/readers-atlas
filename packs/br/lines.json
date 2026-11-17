@@ -199,46 +199,6 @@
     "fact_source": "https://en.wikipedia.org/wiki/Gabriela,_Clove_and_Cinnamon"
   },
   {
-    "id": "br-wew-s1",
-    "kind": "scene",
-    "book_id": "war-of-the-end-of-the-world",
-    "place_ids": [
-      "br-canudos"
-    ],
-    "location": "Part 4",
-    "location_zh": "第四部",
-    "text_en": "After three expeditions have been beaten back, the army's fourth column closes in on Canudos; the Counselor's followers defend the churches and mud houses lane by lane until the settlement is shelled, burned and wiped out.",
-    "text_zh": "前三支讨伐军都被打退之后，政府军第四纵队包围了卡努杜斯；劝世者的追随者守着教堂和泥屋，一条巷子一条巷子地抵抗，直到村子被炮火轰平、烧毁，荡然无存。",
-    "highlight_en": [
-      "Canudos"
-    ],
-    "highlight_zh": [
-      "卡努杜斯"
-    ],
-    "status": "draft",
-    "fact_source": "https://en.wikipedia.org/wiki/The_War_of_the_End_of_the_World"
-  },
-  {
-    "id": "br-df-s1",
-    "kind": "scene",
-    "book_id": "dona-flor-and-her-two-husbands",
-    "place_ids": [
-      "br-salvador-historic-centre"
-    ],
-    "location": "Part 1",
-    "location_zh": "第一部",
-    "text_en": "On the Sunday morning of Carnival in Salvador, the charming gambler Vadinho drops dead while dancing the samba in the street; his widow Flor, who runs a cooking school, will marry a steady pharmacist, only for Vadinho's ghost to come back to her bed.",
-    "text_zh": "萨尔瓦多狂欢节的一个星期天早上，迷人的赌徒瓦迪尼奥在街上跳桑巴时猝然倒地身亡；他的遗孀、开烹饪学校的弗洛尔后来嫁给了一位稳重的药剂师，谁知瓦迪尼奥的鬼魂又回到了她的床上。",
-    "highlight_en": [
-      "Salvador"
-    ],
-    "highlight_zh": [
-      "萨尔瓦多"
-    ],
-    "status": "draft",
-    "fact_source": "https://en.wikipedia.org/wiki/Dona_Flor_and_Her_Two_Husbands"
-  },
-  {
     "id": "br-cog-s1",
     "kind": "scene",
     "book_id": "city-of-god",
@@ -257,5 +217,385 @@
     ],
     "status": "draft",
     "fact_source": "https://en.wikipedia.org/wiki/City_of_God_(novel)"
+  },
+  {
+    "id": "br-bc-s1",
+    "kind": "scene",
+    "book_id": "bras-cubas",
+    "place_ids": [
+      "br-academia-brasileira"
+    ],
+    "location": "Chapters 1–2",
+    "location_zh": "第 1–2 章",
+    "text_en": "Brás Cubas tells his life from beyond the grave, starting with his death: he dies in August 1869 at his house in Catumbi, Rio, of a pneumonia caught while working on his great invention, an anti-melancholy plaster, and dedicates the book to the first worm to gnaw his corpse.",
+    "text_zh": "布拉斯·库巴斯在坟墓那边讲述自己的一生，而且从死讲起：1869 年 8 月，他在里约卡通比的家中死于肺炎，病是他研制伟大发明“抗忧郁膏药”时染上的。这本书，他题献给第一条啃食他尸体的蛆虫。",
+    "highlight_en": [
+      "Catumbi, Rio"
+    ],
+    "highlight_zh": [
+      "里约卡通比"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Posthumous_Memoirs_of_Br%C3%A1s_Cubas"
+  },
+  {
+    "id": "br-cs-s1",
+    "kind": "scene",
+    "book_id": "captains-of-the-sands",
+    "place_ids": [
+      "br-salvador-historic-centre"
+    ],
+    "location": "Part 1",
+    "location_zh": "第一部",
+    "text_en": "A gang of abandoned boys led by Pedro Bala lives in a derelict warehouse on the Salvador waterfront, stealing to survive and sleeping on the sand; in 1937, the year it appeared, the regime had copies of the book burned in a public square in Salvador.",
+    "text_zh": "一群被遗弃的孩子在佩德罗·巴拉的带领下，住在萨尔瓦多海边一座废弃的仓库里，靠偷窃活命，睡在沙地上。这本书 1937 年出版，同年政府就在萨尔瓦多的广场上当众烧毁了它。",
+    "highlight_en": [
+      "the Salvador waterfront"
+    ],
+    "highlight_zh": [
+      "萨尔瓦多海边"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Captains_of_the_Sands"
+  },
+  {
+    "id": "br-ang-s1",
+    "kind": "scene",
+    "book_id": "anguish-ramos",
+    "place_ids": [
+      "br-maceio"
+    ],
+    "location": "Opening",
+    "location_zh": "开篇",
+    "text_en": "Weeks after the crime, Luís da Silva, a clerk in Maceió, lies in bed sick and goes over how his neighbor Marina left him for the rich, smug Julião Tavares, and how his hatred grew until he strangled his rival with a rope.",
+    "text_zh": "罪行过去几周，马塞约的小职员路易斯·达·席尔瓦病倒在床上，一遍遍回想：邻家姑娘玛丽娜怎样离开他，跟了有钱又得意的朱利昂·塔瓦雷斯；他的恨意又怎样一天天滋长，直到他用一根绳子勒死了对方。",
+    "highlight_en": [
+      "Maceió"
+    ],
+    "highlight_zh": [
+      "马塞约"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Angústia"
+  },
+  {
+    "id": "br-sag-s1",
+    "kind": "scene",
+    "book_id": "sagarana",
+    "place_ids": [
+      "br-guimaraes-rosa-museum"
+    ],
+    "location": "“The Hour and Turn of Augusto Matraga”",
+    "location_zh": "《奥古斯托·马特拉加的时刻与轮回》",
+    "text_en": "Beaten nearly to death by his enemies and left for dead in a ravine, the brutal landowner Augusto Matraga is nursed back to life by an old couple, turns to God and works for years in penance, until the bandit Joãozinho Bem-Bem rides into his village and his hour comes.",
+    "text_zh": "残暴的庄园主奥古斯托·马特拉加被仇家打得半死，扔在山沟里，一对老夫妇把他救活。他从此皈依上帝，苦修赎罪多年，直到强盗若昂齐尼奥·本-本骑马进了村，他的时刻到了。",
+    "highlight_en": [
+      "Augusto Matraga"
+    ],
+    "highlight_zh": [
+      "奥古斯托·马特拉加"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Sagarana"
+  },
+  {
+    "id": "br-ft-s1",
+    "kind": "scene",
+    "book_id": "family-ties",
+    "place_ids": [
+      "br-jardim-botanico"
+    ],
+    "location": "“Love”",
+    "location_zh": "《爱》",
+    "text_en": "Riding the tram home with her shopping, Ana sees a blind man chewing gum at a stop; the tram jolts, her eggs break, and she gets off far past her stop, at the gates of the Botanical Garden, where she wanders until closing time in a kind of terror and rapture.",
+    "text_zh": "安娜提着买的东西坐电车回家，看见站台上一个嚼口香糖的盲人。电车一颠，她的鸡蛋碎了。她坐过了好几站，在植物园门口下车，在里面一直走到闭园，又恐惧又狂喜。",
+    "highlight_en": [
+      "the Botanical Garden"
+    ],
+    "highlight_zh": [
+      "植物园"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Family_Ties_(short_story_collection)"
+  },
+  {
+    "id": "br-os-s1",
+    "kind": "scene",
+    "book_id": "os-sertoes",
+    "place_ids": [
+      "br-canudos"
+    ],
+    "location": "Part 3, “The Struggle”",
+    "location_zh": "第三部《战斗》",
+    "text_en": "Sent to cover the war for O Estado de S. Paulo in 1897, Euclides da Cunha watches the army's fourth expedition close in on Canudos and records how the backlanders fought to the last house; his book turns the massacre into an indictment of the coastal republic.",
+    "text_zh": "1897 年，欧克利德斯·达·库尼亚作为《圣保罗州报》的记者随军报道，亲眼看着第四支讨伐军围攻卡努杜斯，记下了腹地人怎样战斗到最后一座房子。他的书把这场屠杀写成了对沿海共和国的控诉。",
+    "highlight_en": [
+      "Canudos"
+    ],
+    "highlight_zh": [
+      "卡努杜斯"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Os_Sert%C3%B5es"
+  },
+  {
+    "id": "br-oq-s1",
+    "kind": "scene",
+    "book_id": "o-quinze",
+    "place_ids": [
+      "br-quixada"
+    ],
+    "location": "Middle chapters",
+    "location_zh": "中段",
+    "text_en": "When the rains fail in 1915, the cowhand Chico Bento is turned off the ranch near Quixadá and sets out on foot with his wife and children for Fortaleza; on the road they eat whatever they can find, and one of the boys dies after eating raw manioc.",
+    "text_zh": "1915 年雨季没有来，放牛人希科·本托被基沙达附近的庄园赶了出来，带着妻儿徒步去福塔莱萨。一路上能找到什么就吃什么，一个儿子吃了生木薯，死了。",
+    "highlight_en": [
+      "Quixadá"
+    ],
+    "highlight_zh": [
+      "基沙达"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/O_Quinze"
+  },
+  {
+    "id": "br-tw-s1",
+    "kind": "scene",
+    "book_id": "time-and-the-wind",
+    "place_ids": [
+      "br-museu-erico-verissimo"
+    ],
+    "location": "The Continent, “Ana Terra”",
+    "location_zh": "《大陆》中的《安娜·特拉》",
+    "text_en": "On the lonely frontier of eighteenth-century Rio Grande do Sul, Ana Terra loves an Indigenous man her family kills, survives a raid that wipes out her home, and rides off with her son to found what will become the town of Santa Fé.",
+    "text_zh": "十八世纪南里奥格兰德荒凉的边疆，安娜·特拉爱上了一个原住民青年，他被她的家人杀死；一场劫掠又毁了她的家，她活了下来，带着儿子上路，去开辟日后的圣菲镇。",
+    "highlight_en": [
+      "Santa Fé"
+    ],
+    "highlight_zh": [
+      "圣菲镇"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/O_Tempo_e_o_Vento"
+  },
+  {
+    "id": "br-ia-s1",
+    "kind": "scene",
+    "book_id": "incident-in-antares",
+    "place_ids": [
+      "br-museu-erico-verissimo"
+    ],
+    "location": "Part 2",
+    "location_zh": "第二部",
+    "text_en": "On 13 December 1963 a general strike in the small town of Antares leaves seven people dead and unburied; the corpses climb out of their coffins, gather on the bandstand in the main square and start telling the town's secrets.",
+    "text_zh": "1963 年 12 月 13 日，小城安塔雷斯一场大罢工让七个死人没法下葬。尸体从棺材里爬出来，聚到中心广场的音乐台上，开始抖出全城的秘密。",
+    "highlight_en": [
+      "the main square"
+    ],
+    "highlight_zh": [
+      "中心广场"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Incidente_em_Antares"
+  },
+  {
+    "id": "br-cd-s1",
+    "kind": "scene",
+    "book_id": "child-of-the-dark",
+    "place_ids": [
+      "br-caninde"
+    ],
+    "location": "15 July 1955",
+    "location_zh": "1955 年 7 月 15 日",
+    "text_en": "On her daughter's birthday Carolina wants to buy her a pair of shoes and cannot; she picks a pair out of the rubbish and washes them, and goes on writing in the favela of Canindé that hunger is the color yellow.",
+    "text_zh": "女儿过生日，卡罗利娜想给她买一双鞋却买不起，只好从垃圾里捡一双回来洗干净。她在卡宁德贫民窟里接着写日记，说饥饿是黄色的。",
+    "highlight_en": [
+      "Canindé"
+    ],
+    "highlight_zh": [
+      "卡宁德"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Carolina_Maria_de_Jesus"
+  },
+  {
+    "id": "br-dg-s1",
+    "kind": "scene",
+    "book_id": "a-dog-as-a-gift",
+    "place_ids": [
+      "br-taperoa"
+    ],
+    "location": "Act 1",
+    "location_zh": "第一幕",
+    "text_en": "In Taperoá, João Grilo talks the priest into blessing and then burying in Latin the baker's wife's dead dog, by pretending the dog left a will that gives money to the church.",
+    "text_zh": "在塔佩罗阿，若昂·格里洛谎称面包师老婆死去的狗留下遗嘱，给教会捐了钱，就这样说动神父为狗祈福，还用拉丁文给它办了葬礼。",
+    "highlight_en": [
+      "Taperoá"
+    ],
+    "highlight_zh": [
+      "塔佩罗阿"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/A_Dog%27s_Will"
+  },
+  {
+    "id": "br-im-s1",
+    "kind": "scene",
+    "book_id": "an-invincible-memory",
+    "place_ids": [
+      "br-itaparica"
+    ],
+    "location": "Chapter 1",
+    "location_zh": "第 1 章",
+    "text_en": "In 1822, during the fight for independence, a young ensign of the Itaparica militia is killed by the Portuguese, and his soul drifts through the island's fish and birds waiting to be born again, while the slaves and fishermen of Itaparica begin the people's history of Brazil.",
+    "text_zh": "1822 年独立战争中，伊塔帕里卡民兵的一个年轻少尉被葡萄牙人打死，他的灵魂在岛上的鱼和鸟之间游荡，等着再次降生；岛上的奴隶和渔民从此开始了巴西人民的历史。",
+    "highlight_en": [
+      "Itaparica"
+    ],
+    "highlight_zh": [
+      "伊塔帕里卡"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Viva_o_Povo_Brasileiro"
+  },
+  {
+    "id": "br-am-s1",
+    "kind": "scene",
+    "book_id": "as-meninas",
+    "place_ids": [
+      "br-faculdade-direito-usp"
+    ],
+    "location": "Chapter 1",
+    "location_zh": "第 1 章",
+    "text_en": "In a São Paulo boarding house run by nuns, Lorena waits by the phone for a married lover, Lia plans to join her imprisoned boyfriend in the armed resistance, and Ana Clara drifts between drugs and a rich fiancé; the three girls' voices take turns telling the story.",
+    "text_zh": "在圣保罗一家修女办的宿舍里，洛雷娜守着电话等一个有妇之夫，莉娅打算追随被捕的男友投身武装抵抗，安娜·克拉拉在毒品和有钱的未婚夫之间漂浮。三个姑娘轮流讲着这个故事。",
+    "highlight_en": [
+      "São Paulo"
+    ],
+    "highlight_zh": [
+      "圣保罗"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/As_Meninas_(novel)"
+  },
+  {
+    "id": "br-db-s1",
+    "kind": "scene",
+    "book_id": "dois-irmaos",
+    "place_ids": [
+      "br-porto-de-manaus"
+    ],
+    "location": "Chapter 1",
+    "location_zh": "第 1 章",
+    "text_en": "After a fight over a girl leaves Yaqub scarred by his twin's broken bottle, his parents send him alone to a village in Lebanon, while the spoiled Omar stays behind in the house near the port of Manaus; when Yaqub returns, years later, the two are strangers and enemies.",
+    "text_zh": "为了一个女孩，奥马尔用碎酒瓶在双胞胎哥哥雅库布脸上留下了疤。父母把雅库布一个人送回黎巴嫩的山村，被宠坏的奥马尔留在马瑙斯港口边的家里。多年后雅库布回来，兄弟俩已是陌生人，也是仇人。",
+    "highlight_en": [
+      "Manaus"
+    ],
+    "highlight_zh": [
+      "马瑙斯"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Milton_Hatoum"
+  },
+  {
+    "id": "br-cp-s1",
+    "kind": "scene",
+    "book_id": "crooked-plow",
+    "place_ids": [
+      "br-chapada-diamantina"
+    ],
+    "location": "Part 1, “Blade's Edge”",
+    "location_zh": "第一部《刀刃》",
+    "text_en": "Bibiana and Belonísia, two little girls on the Água Negra farm, open their grandmother Donana's suitcase and find a knife wrapped in cloth; they take turns putting the blade in their mouths, and one of them loses her tongue.",
+    "text_zh": "黑水庄园的两个小姑娘比比亚娜和贝洛尼西娅打开外婆多娜娜的皮箱，找到一把用布包着的刀。她们轮流把刀刃放进嘴里，其中一个割掉了舌头。",
+    "highlight_en": [
+      "Água Negra farm"
+    ],
+    "highlight_zh": [
+      "黑水庄园"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Crooked_Plow"
+  },
+  {
+    "id": "br-ads-s1",
+    "kind": "scene",
+    "book_id": "o-avesso-da-pele",
+    "place_ids": [
+      "br-porto-alegre"
+    ],
+    "location": "Part 1",
+    "location_zh": "第一部",
+    "text_en": "Pedro goes through what his father Henrique left behind, the books and notes of a Black teacher in Porto Alegre's public schools, and reconstructs his life, from his marriage to the night a police patrol stopped him and shot him dead.",
+    "text_zh": "佩德罗翻看父亲恩里克留下的东西，一个在阿雷格里港公立学校教书的黑人老师的书和笔记，一点点拼出他的一生：从他的婚姻，一直到那天夜里警察拦下他、开枪打死他。",
+    "highlight_en": [
+      "Porto Alegre"
+    ],
+    "highlight_zh": [
+      "阿雷格里港"
+    ],
+    "status": "draft",
+    "fact_source": "https://pt.wikipedia.org/wiki/O_Avesso_da_Pele"
+  },
+  {
+    "id": "br-dt-s1",
+    "kind": "scene",
+    "book_id": "daytripper",
+    "place_ids": [
+      "br-salvador-historic-centre"
+    ],
+    "location": "Chapter 2",
+    "location_zh": "第 2 章",
+    "text_en": "On a trip to Bahia with his best friend Jorge, young Brás wanders the Pelourinho in Salvador; like every chapter of the book, it ends with a different version of his death.",
+    "text_zh": "年轻的布拉斯和好友若热去巴伊亚旅行，在萨尔瓦多的佩洛林尼奥老城闲逛。和书里每一章一样，这一章也以他另一种方式的死亡结束。",
+    "highlight_en": [
+      "the Pelourinho in Salvador"
+    ],
+    "highlight_zh": [
+      "萨尔瓦多的佩洛林尼奥老城"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Daytripper_(DC_Comics)"
+  },
+  {
+    "id": "br-mso-s1",
+    "kind": "scene",
+    "book_id": "my-sweet-orange-tree",
+    "place_ids": [
+      "br-bangu"
+    ],
+    "location": "Part 2",
+    "location_zh": "第二部",
+    "text_en": "Zezé's only friend outside his sweet-orange tree is Manuel Valadares, 'Portuga', who lets him ride in his car; one day the Mangaratiba express hits the car at a crossing in Bangu, and the boy falls so ill with grief that his family fears for his life.",
+    "text_zh": "除了那棵甜橙树，泽泽唯一的朋友是让他坐自己汽车的葡萄牙人曼努埃尔·瓦拉达雷斯。有一天，曼加拉蒂巴快车在邦古的道口撞上了那辆车，泽泽伤心得一病不起，家里人都怕他活不成。",
+    "highlight_en": [
+      "Bangu"
+    ],
+    "highlight_zh": [
+      "邦古"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/My_Sweet_Orange_Tree"
+  },
+  {
+    "id": "br-rod-s1",
+    "kind": "scene",
+    "book_id": "the-river-of-doubt",
+    "place_ids": [
+      "br-river-of-doubt"
+    ],
+    "location": "Chapters 10–16",
+    "location_zh": "第 10–16 章",
+    "text_en": "Weeks down the unmapped river, with canoes smashed in the rapids, food running out and men lost, the former president Roosevelt cuts his leg on a rock; the wound becomes infected, and in a fever he begs his companions to leave him behind.",
+    "text_zh": "顺着这条没有地图的河漂流几周后，独木舟在急流里撞得粉碎，口粮快吃光了，人也折损了几个，卸任总统罗斯福的腿又被岩石划破。伤口感染，他发着高烧，求同伴们把他丢下。",
+    "highlight_en": [
+      "the unmapped river"
+    ],
+    "highlight_zh": [
+      "没有地图的河"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_River_of_Doubt"
   }
 ]

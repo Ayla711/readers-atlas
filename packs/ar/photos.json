@@ -100,5 +100,41 @@
     "alt_en": "A path in Parque Lezama",
     "alt_zh": "莱萨马公园的小径",
     "crop": null
+  },
+  "ar-plaza-cortazar": {
+    "commons_file": "File:Artesanos - plaza serrano - palermo soho - panoramio.jpg",
+    "alt_en": "The weekend craft market in Plaza Cortázar",
+    "alt_zh": "科塔萨尔广场的周末手工艺市集",
+    "crop": null
+  },
+  "ar-constitucion": {
+    "commons_file": "File:Estación Plaza Constitución 05.jpg",
+    "alt_en": "Constitución station on the square",
+    "alt_zh": "广场边的宪法火车站",
+    "crop": null
+  },
+  "ar-estadio-monumental": {
+    "commons_file": "File:Estadio de River Plate desde la Av. Lugones.JPG",
+    "alt_en": "River Plate's stadium seen from Avenida Lugones",
+    "alt_zh": "从卢戈内斯大道望河床队球场",
+    "crop": null
+  },
+  "ar-general-villegas": {
+    "commons_file": "File:Estación Gral. Villgas.jpg",
+    "alt_en": "The railway station of General Villegas",
+    "alt_zh": "赫内拉尔比列加斯火车站",
+    "crop": null
+  },
+  "ar-flight-571": {
+    "commons_file": "File:Campamento El Barroso.JPG",
+    "alt_en": "The El Barroso camp on the trail to the crash site",
+    "alt_zh": "通往失事地途中的埃尔巴罗索营地",
+    "crop": null
+  },
+  "ar-ex-esma": {
+    "commons_file": "File:Espacio Memoria y DDHH - 'Carta abierta' de Rodolfo Walsh 1.jpg",
+    "alt_en": "The glass installation of Walsh's open letter",
+    "alt_zh": "沃尔什公开信的玻璃装置",
+    "crop": null
   }
 }

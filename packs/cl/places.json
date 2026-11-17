@@ -10,9 +10,7 @@
     "note_en": "Valparaíso's old town climbs the hills behind the bay in tiers, linked by funiculars and winding stairways. When Darwin landed here in 1834, he saw houses piled up the sides of every ravine. Half a century later, the twenty-year-old Nicaraguan poet Rubén Darío published Azul in this port, launching modernist poetry in Spanish, and in one of its pieces the poet Ricardo climbs Cerro Alegre in search of pictures. The old hillside quarter is now a World Heritage Site",
     "coord_checked": "Cerro Alegre (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Cerro_Alegre",
     "fact_source": "https://en.wikipedia.org/wiki/Historic_Quarter_of_the_Seaport_City_of_Valpara%C3%ADso",
-    "book_ids": [
-      "daughter-of-fortune"
-    ]
+    "book_ids": []
   },
   {
     "id": "cl-castro-church",
@@ -133,5 +131,44 @@
     ],
     "coord_checked": "Chuquicamata Mine (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Chuquicamata_Mine",
     "fact_source": "https://en.wikipedia.org/wiki/The_Motorcycle_Diaries_(book)"
+  },
+  {
+    "id": "cl-temuco-railway-museum",
+    "name": "Museo Nacional Ferroviario Pablo Neruda, Temuco",
+    "name_zh": "泰穆科 · 巴勃罗·聂鲁达国家铁路博物馆",
+    "lat": -38.725714,
+    "lon": -72.570266,
+    "place_type": "pilgrimage",
+    "note": "聂鲁达在泰穆科长大，父亲是铁路上开道砟车的工人，常带他坐火车进南方的森林。《二十首情诗》里的雨、松林和海，大多来自这片南方土地。以诗人命名的国家铁路博物馆设在当年的机车库里，停着一排老蒸汽机车",
+    "note_en": "Neruda grew up in Temuco, where his father worked on the railway driving a ballast train and often took the boy along into the southern forests. Much of the rain, pine woods and sea in Twenty Love Poems comes from this southern country. The national railway museum named after him fills the old engine roundhouse, with a row of steam locomotives inside",
+    "book_ids": [
+      "twenty-love-poems"
+    ],
+    "coord_checked": "Museo Nacional Ferroviario Pablo Neruda (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Museo_Nacional_Ferroviario_Pablo_Neruda",
+    "fact_source": "https://en.wikipedia.org/wiki/Pablo_Neruda"
+  },
+  {
+    "id": "cl-la-moneda",
+    "name": "Palacio de La Moneda, Santiago",
+    "name_zh": "圣地亚哥 · 拉莫内达宫",
+    "lat": -33.443018,
+    "lon": -70.65387,
+    "place_type": "original",
+    "note": "《幽灵之家》结尾的政变就在这座总统府落幕：1973 年 9 月 11 日，军队轰炸拉莫内达宫，阿连德总统死在宫中。他是伊莎贝尔·阿连德父亲的堂兄，她在《宝拉》里也写了那一天。宫殿是十八世纪末的新古典主义建筑，修复后可以预约参观",
+    "note_en": "The coup at the end of The House of the Spirits ends at this presidential palace: on 11 September 1973 the military bombed La Moneda, and President Salvador Allende died inside. He was Isabel Allende's father's cousin, and she writes about that day in Paula too. The neoclassical palace dates from the late eighteenth century and, restored, can be visited by appointment",
+    "coord_checked": "Palacio de La Moneda (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Palacio_de_La_Moneda",
+    "fact_source": "https://en.wikipedia.org/wiki/La_Moneda_Palace"
+  },
+  {
+    "id": "cl-recoleta",
+    "name": "Recoleta (La Chimba), Santiago",
+    "name_zh": "圣地亚哥 · 雷科莱塔（旧称拉钦巴）",
+    "lat": -33.416667,
+    "lon": -70.65,
+    "place_type": "original",
+    "note": "《淫秽的夜鸟》里那座摇摇欲坠的修道院之家，全名“拉钦巴道成肉身灵修院”，借的就是这片马波乔河北岸老城区的旧名。拉钦巴殖民时期是圣地亚哥的城外，聚着修道院、作坊和穷人，如今是雷科莱塔区，以拉韦加市场和公墓闻名",
+    "note_en": "The crumbling convent house in The Obscene Bird of Night, the House of Spiritual Retreats of the Incarnation of La Chimba, takes its name from this old district on the north bank of the Mapocho. In colonial times La Chimba lay outside the city, full of convents, workshops and the poor; today it is the comuna of Recoleta, known for La Vega market and its cemeteries",
+    "coord_checked": "Recoleta, Chile (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Recoleta,_Chile",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Obscene_Bird_of_Night"
   }
 ]

@@ -190,23 +190,103 @@
     "fact_source": "https://en.wikipedia.org/wiki/The_Motorcycle_Diaries_(book)"
   },
   {
-    "id": "cl-dof-s1",
+    "id": "cl-tlp-s1",
     "kind": "scene",
-    "book_id": "daughter-of-fortune",
+    "book_id": "twenty-love-poems",
     "place_ids": [
-      "cl-valparaiso-cerro-alegre"
+      "cl-temuco-railway-museum"
+    ],
+    "location": "Poem 20",
+    "location_zh": "第 20 首",
+    "text_en": "In the most famous poem of the book, the twenty-year-old poet sits under a night full of stars and goes over a love that has already ended, telling himself he no longer loves her, and admitting that perhaps he still does.",
+    "text_zh": "在全书最有名的第二十首里，二十岁的诗人坐在满天星斗的夜里，回想一段已经结束的爱情。他对自己说已经不爱她了，又承认也许还爱着。",
+    "highlight_en": [
+      "a night full of stars"
+    ],
+    "highlight_zh": [
+      "满天星斗的夜里"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Twenty_Love_Poems_and_a_Song_of_Despair"
+  },
+  {
+    "id": "cl-hos-s1",
+    "kind": "scene",
+    "book_id": "the-house-of-the-spirits",
+    "place_ids": [
+      "cl-la-moneda"
+    ],
+    "location": "Chapters 13–14",
+    "location_zh": "第 13–14 章",
+    "text_en": "The military coup comes; the President, never named, dies in the palace, and Alba, granddaughter of the old senator Esteban Trueba, is taken and tortured. She survives, and writes the family's story from the notebooks her grandmother Clara kept.",
+    "text_zh": "军事政变来了，从未点名的总统死在宫中；老参议员埃斯特万·特鲁埃巴的外孙女阿尔芭被抓走、受尽折磨。她活了下来，照着外婆克拉拉留下的笔记本，写出了这个家族的故事。",
+    "highlight_en": [
+      "the palace"
+    ],
+    "highlight_zh": [
+      "宫中"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_House_of_the_Spirits"
+  },
+  {
+    "id": "cl-pau-s1",
+    "kind": "scene",
+    "book_id": "paula-allende",
+    "place_ids": [
+      "cl-la-moneda"
     ],
     "location": "Part 1",
     "location_zh": "第一部",
-    "text_en": "In 1832 a baby girl is left in a soap box on the doorstep of the Sommers, an English family in Valparaíso; raised as Eliza Sommers, she falls in love at sixteen and follows her lover to the California Gold Rush.",
-    "text_zh": "1832 年，一个女婴被装在肥皂箱里放在瓦尔帕莱索的英国人家庭萨默斯家门口；她被取名伊莉莎·萨默斯抚养长大，十六岁时坠入爱河，追随恋人去了加州淘金热。",
+    "text_en": "At the bedside of her daughter Paula, in a coma in a Madrid hospital, Allende writes her the story of the family, from her grandfather's house in Santiago to the day of the coup in 1973 and her own flight into exile in Venezuela.",
+    "text_zh": "女儿宝拉昏迷在马德里的医院里，阿连德守在床边，给她写下家族的故事：从外祖父在圣地亚哥的老宅，一直写到 1973 年政变那天，和她自己流亡委内瑞拉。",
     "highlight_en": [
-      "Valparaíso"
+      "the day of the coup"
     ],
     "highlight_zh": [
-      "瓦尔帕莱索"
+      "政变那天"
     ],
     "status": "draft",
-    "fact_source": "https://en.wikipedia.org/wiki/Daughter_of_Fortune"
+    "fact_source": "https://en.wikipedia.org/wiki/Paula_(Allende_book)"
+  },
+  {
+    "id": "cl-obn-s1",
+    "kind": "scene",
+    "book_id": "the-obscene-bird-of-night",
+    "place_ids": [
+      "cl-recoleta"
+    ],
+    "location": "Chapter 1",
+    "location_zh": "第 1 章",
+    "text_en": "In the House of Spiritual Retreats of La Chimba, a maze of empty rooms and courtyards where old servant women wait out their lives, the deaf-mute 'Mudito' keeps watch, and the Church is about to sell the place for demolition.",
+    "text_zh": "拉钦巴灵修院是一座满是空房间和天井的迷宫，一群年老的女佣在这里等死，又聋又哑的“小哑巴”在其间游荡守望，而教会正打算把它卖掉拆除。",
+    "highlight_en": [
+      "La Chimba"
+    ],
+    "highlight_zh": [
+      "拉钦巴"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Obscene_Bird_of_Night"
+  },
+  {
+    "id": "cl-dst-s1",
+    "kind": "scene",
+    "book_id": "distant-star",
+    "place_ids": [
+      "cl-concepcion"
+    ],
+    "location": "Chapter 1",
+    "location_zh": "第 1 章",
+    "text_en": "In 1971, at a poetry workshop at the University of Concepción, the narrator meets the elegant, quiet Alberto Ruiz-Tagle; after the coup he resurfaces as the air force pilot Carlos Wieder, writing poems across the sky with smoke, while the young women poets of the workshop disappear.",
+    "text_zh": "1971 年，在康塞普西翁大学的诗歌工作坊里，叙述者认识了优雅寡言的阿尔贝托·鲁伊斯-塔格莱。政变之后，他摇身变成空军飞行员卡洛斯·维德，开着飞机用烟在天上写诗，而工作坊里的年轻女诗人一个个失踪了。",
+    "highlight_en": [
+      "the University of Concepción"
+    ],
+    "highlight_zh": [
+      "康塞普西翁大学"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Distant_Star"
   }
 ]

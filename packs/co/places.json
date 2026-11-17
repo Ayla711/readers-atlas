@@ -88,5 +88,29 @@
     ],
     "coord_checked": "Casa de Poesía Silva (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Casa_de_Poesía_Silva",
     "fact_source": "https://en.wikipedia.org/wiki/Jos%C3%A9_Asunci%C3%B3n_Silva"
+  },
+  {
+    "id": "co-hacienda-napoles",
+    "name": "Hacienda Nápoles",
+    "name_zh": "那不勒斯庄园",
+    "lat": 5.925542,
+    "lon": -74.722189,
+    "place_type": "original",
+    "note": "《坠物之声》开篇，2009 年一头从这里逃出的河马被射杀，叙述者由此回想起八十年代毒品战争中的波哥大。这是毒枭埃斯科瓦尔的庄园，他从非洲运来的河马在他死后流落野外，繁衍到上百头。庄园如今是主题公园",
+    "note_en": "The Sound of Things Falling opens in 2009, when a hippo that escaped from here is shot, and the news sends the narrator back to the Bogotá of the 1980s drug war. This was Pablo Escobar's ranch; the hippos he brought from Africa went wild after his death and have multiplied into the hundreds. The ranch is now a theme park",
+    "coord_checked": "Hacienda Nápoles (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Hacienda_Nápoles",
+    "fact_source": "https://en.wikipedia.org/wiki/The_Sound_of_Things_Falling"
+  },
+  {
+    "id": "co-universidad-antioquia",
+    "name": "Universidad de Antioquia, Medellín",
+    "name_zh": "麦德林 · 安蒂奥基亚大学",
+    "lat": 6.26706,
+    "lon": -75.56941,
+    "place_type": "original",
+    "note": "阿瓦德的父亲埃克托尔·阿瓦德·戈麦斯是这所大学的公共卫生学教授，一生为穷人争取医疗和人权，1987 年 8 月在麦德林街头被准军事杀手枪杀。儿子二十年后写成《我们将成为的遗忘》，书名出自父亲遇害时口袋里那首署名博尔赫斯的诗",
+    "note_en": "Héctor Abad Gómez, the author's father, taught public health at this university and spent his life fighting for medical care for the poor and for human rights, until paramilitary gunmen killed him in a Medellín street in August 1987. Twenty years later his son wrote Oblivion, its title taken from a poem signed with Borges's name that was in his father's pocket when he died",
+    "coord_checked": "Universidad de Antioquia (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Universidad_de_Antioquia",
+    "fact_source": "https://en.wikipedia.org/wiki/H%C3%A9ctor_Abad_G%C3%B3mez"
   }
 ]

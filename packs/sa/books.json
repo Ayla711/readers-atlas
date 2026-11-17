@@ -173,18 +173,6 @@
     "title_orig": "Gabriela, cravo e canela"
   },
   {
-    "id": "war-of-the-end-of-the-world",
-    "title": "The War of the End of the World",
-    "title_zh": "世界末日之战",
-    "author": "Mario Vargas Llosa",
-    "author_zh": "马里奥·巴尔加斯·略萨",
-    "year": "1981",
-    "orig_lang": "es",
-    "public_domain": false,
-    "source_url": null,
-    "title_orig": "La guerra del fin del mundo"
-  },
-  {
     "id": "the-devil-to-pay-in-the-backlands",
     "title": "The Devil to Pay in the Backlands",
     "title_zh": "广阔的腹地：条条小路",
@@ -659,18 +647,6 @@
     ]
   },
   {
-    "id": "daughter-of-fortune",
-    "title": "Daughter of Fortune",
-    "title_zh": "命运之女",
-    "author": "Isabel Allende",
-    "author_zh": "伊莎贝尔·阿连德",
-    "year": "1999",
-    "orig_lang": "es",
-    "public_domain": false,
-    "source_url": null,
-    "title_orig": "Hija de la fortuna"
-  },
-  {
     "id": "the-giant-raft",
     "title": "Eight Hundred Leagues on the Amazon",
     "title_zh": "大木筏",
@@ -687,18 +663,6 @@
     ]
   },
   {
-    "id": "dona-flor-and-her-two-husbands",
-    "title": "Dona Flor and Her Two Husbands",
-    "title_zh": "弗洛尔和她的两个丈夫",
-    "author": "Jorge Amado",
-    "author_zh": "若热·亚马多",
-    "year": "1966",
-    "orig_lang": "pt",
-    "public_domain": false,
-    "source_url": null,
-    "title_orig": "Dona Flor e Seus Dois Maridos"
-  },
-  {
     "id": "city-of-god",
     "title": "City of God",
     "title_zh": "上帝之城",
@@ -709,5 +673,619 @@
     "public_domain": false,
     "source_url": null,
     "title_orig": "Cidade de Deus"
+  },
+  {
+    "id": "hopscotch",
+    "title": "Hopscotch",
+    "title_zh": "跳房子",
+    "author": "Julio Cortázar",
+    "author_zh": "胡利奥·科塔萨尔",
+    "year": "1963",
+    "orig_lang": "es",
+    "public_domain": false,
+    "source_url": null,
+    "title_orig": "Rayuela",
+    "aliases": [
+      "Rayuela"
+    ]
+  },
+  {
+    "id": "bestiary",
+    "title": "Bestiary",
+    "title_zh": "动物寓言集",
+    "author": "Julio Cortázar",
+    "author_zh": "胡利奥·科塔萨尔",
+    "year": "1951",
+    "orig_lang": "es",
+    "public_domain": false,
+    "source_url": null,
+    "title_orig": "Bestiario",
+    "aliases": [
+      "Bestiario",
+      "House Taken Over",
+      "Casa tomada"
+    ]
+  },
+  {
+    "id": "el-eternauta",
+    "title": "The Eternaut",
+    "title_zh": "永航员",
+    "author": "Héctor Germán Oesterheld",
+    "author_zh": "埃克托尔·赫尔曼·奥斯特赫尔德",
+    "year": "1957",
+    "orig_lang": "es",
+    "public_domain": false,
+    "source_url": null,
+    "title_orig": "El Eternauta",
+    "aliases": [
+      "El Eternauta"
+    ],
+    "orig_note": "漫画，弗朗西斯科·索拉诺·洛佩斯绘"
+  },
+  {
+    "id": "operacion-masacre",
+    "title": "Operation Massacre",
+    "title_zh": "屠杀行动",
+    "author": "Rodolfo Walsh",
+    "author_zh": "鲁道夫·沃尔什",
+    "year": "1957",
+    "orig_lang": "es",
+    "public_domain": false,
+    "source_url": null,
+    "title_orig": "Operación Masacre",
+    "aliases": [
+      "Operación Masacre"
+    ]
+  },
+  {
+    "id": "our-share-of-night",
+    "title": "Our Share of Night",
+    "title_zh": "我们那份夜晚",
+    "author": "Mariana Enríquez",
+    "author_zh": "马里亚娜·恩里克斯",
+    "year": "2019",
+    "orig_lang": "es",
+    "public_domain": false,
+    "source_url": null,
+    "title_orig": "Nuestra parte de noche",
+    "aliases": [
+      "Nuestra parte de noche"
+    ]
+  },
+  {
+    "id": "things-we-lost-in-the-fire",
+    "title": "Things We Lost in the Fire",
+    "title_zh": "我们在火中失去的",
+    "author": "Mariana Enríquez",
+    "author_zh": "马里亚娜·恩里克斯",
+    "year": "2016",
+    "orig_lang": "es",
+    "public_domain": false,
+    "source_url": null,
+    "title_orig": "Las cosas que perdimos en el fuego",
+    "aliases": [
+      "Las cosas que perdimos en el fuego"
+    ]
+  },
+  {
+    "id": "kiss-of-the-spider-woman",
+    "title": "Kiss of the Spider Woman",
+    "title_zh": "蜘蛛女之吻",
+    "author": "Manuel Puig",
+    "author_zh": "曼努埃尔·普伊格",
+    "year": "1976",
+    "orig_lang": "es",
+    "public_domain": false,
+    "source_url": null,
+    "title_orig": "El beso de la mujer araña",
+    "aliases": [
+      "El beso de la mujer araña"
+    ]
+  },
+  {
+    "id": "miracle-in-the-andes",
+    "title": "Miracle in the Andes",
+    "title_zh": "安第斯奇迹",
+    "author": "Nando Parrado",
+    "author_zh": "南多·帕拉多",
+    "year": "2006",
+    "orig_lang": "en",
+    "public_domain": false,
+    "source_url": null,
+    "orig_note": "与文斯·劳斯合写"
+  },
+  {
+    "id": "alive-andes",
+    "title": "Alive: The Story of the Andes Survivors",
+    "title_zh": "天劫余生",
+    "author": "Piers Paul Read",
+    "author_zh": "皮尔斯·保罗·里德",
+    "year": "1974",
+    "orig_lang": "en",
+    "public_domain": false,
+    "source_url": null,
+    "aliases": [
+      "Alive"
+    ]
+  },
+  {
+    "id": "twenty-love-poems",
+    "title": "Twenty Love Poems and a Song of Despair",
+    "title_zh": "二十首情诗和一首绝望的歌",
+    "author": "Pablo Neruda",
+    "author_zh": "巴勃罗·聂鲁达",
+    "year": "1924",
+    "orig_lang": "es",
+    "public_domain": false,
+    "source_url": null,
+    "title_orig": "Veinte poemas de amor y una canción desesperada",
+    "aliases": [
+      "Veinte poemas de amor"
+    ]
+  },
+  {
+    "id": "residence-on-earth",
+    "title": "Residence on Earth",
+    "title_zh": "大地上的居所",
+    "author": "Pablo Neruda",
+    "author_zh": "巴勃罗·聂鲁达",
+    "year": "1935",
+    "orig_lang": "es",
+    "public_domain": false,
+    "source_url": null,
+    "title_orig": "Residencia en la tierra"
+  },
+  {
+    "id": "the-house-of-the-spirits",
+    "title": "The House of the Spirits",
+    "title_zh": "幽灵之家",
+    "author": "Isabel Allende",
+    "author_zh": "伊莎贝尔·阿连德",
+    "year": "1982",
+    "orig_lang": "es",
+    "public_domain": false,
+    "source_url": null,
+    "title_orig": "La casa de los espíritus"
+  },
+  {
+    "id": "paula-allende",
+    "title": "Paula",
+    "title_zh": "宝拉",
+    "author": "Isabel Allende",
+    "author_zh": "伊莎贝尔·阿连德",
+    "year": "1994",
+    "orig_lang": "es",
+    "public_domain": false,
+    "source_url": null,
+    "title_orig": "Paula"
+  },
+  {
+    "id": "the-obscene-bird-of-night",
+    "title": "The Obscene Bird of Night",
+    "title_zh": "淫秽的夜鸟",
+    "author": "José Donoso",
+    "author_zh": "何塞·多诺索",
+    "year": "1970",
+    "orig_lang": "es",
+    "public_domain": false,
+    "source_url": null,
+    "title_orig": "El obsceno pájaro de la noche"
+  },
+  {
+    "id": "distant-star",
+    "title": "Distant Star",
+    "title_zh": "遥远的星辰",
+    "author": "Roberto Bolaño",
+    "author_zh": "罗贝托·波拉尼奥",
+    "year": "1996",
+    "orig_lang": "es",
+    "public_domain": false,
+    "source_url": null,
+    "title_orig": "Estrella distante"
+  },
+  {
+    "id": "el-olvido-que-seremos",
+    "title": "Oblivion: A Memoir",
+    "title_zh": "我们将成为的遗忘",
+    "author": "Héctor Abad Faciolince",
+    "author_zh": "埃克托尔·阿瓦德·法西奥林塞",
+    "year": "2006",
+    "orig_lang": "es",
+    "public_domain": false,
+    "source_url": null,
+    "title_orig": "El olvido que seremos",
+    "aliases": [
+      "El olvido que seremos"
+    ]
+  },
+  {
+    "id": "el-pais-de-la-canela",
+    "title": "The Land of Cinnamon",
+    "title_zh": "肉桂之国",
+    "author": "William Ospina",
+    "author_zh": "威廉·奥斯皮纳",
+    "year": "2008",
+    "orig_lang": "es",
+    "public_domain": false,
+    "source_url": null,
+    "title_orig": "El país de la canela"
+  },
+  {
+    "id": "lo-que-no-tiene-nombre",
+    "title": "What Has No Name",
+    "title_zh": "没有名字的东西",
+    "author": "Piedad Bonnett",
+    "author_zh": "皮耶达·博内特",
+    "year": "2013",
+    "orig_lang": "es",
+    "public_domain": false,
+    "source_url": null,
+    "title_orig": "Lo que no tiene nombre"
+  },
+  {
+    "id": "the-sound-of-things-falling",
+    "title": "The Sound of Things Falling",
+    "title_zh": "坠物之声",
+    "author": "Juan Gabriel Vásquez",
+    "author_zh": "胡安·加夫列尔·巴斯克斯",
+    "year": "2011",
+    "orig_lang": "es",
+    "public_domain": false,
+    "source_url": null,
+    "title_orig": "El ruido de las cosas al caer"
+  },
+  {
+    "id": "conversation-in-the-cathedral",
+    "title": "Conversation in the Cathedral",
+    "title_zh": "酒吧长谈",
+    "author": "Mario Vargas Llosa",
+    "author_zh": "马里奥·巴尔加斯·略萨",
+    "year": "1969",
+    "orig_lang": "es",
+    "public_domain": false,
+    "source_url": null,
+    "title_orig": "Conversación en La Catedral"
+  },
+  {
+    "id": "touching-the-void",
+    "title": "Touching the Void",
+    "title_zh": "触及巅峰",
+    "author": "Joe Simpson",
+    "author_zh": "乔·辛普森",
+    "year": "1988",
+    "orig_lang": "en",
+    "public_domain": false,
+    "source_url": null
+  },
+  {
+    "id": "la-tregua",
+    "title": "The Truce",
+    "title_zh": "休战",
+    "author": "Mario Benedetti",
+    "author_zh": "马里奥·贝内德蒂",
+    "year": "1960",
+    "orig_lang": "es",
+    "public_domain": false,
+    "source_url": null,
+    "title_orig": "La tregua"
+  },
+  {
+    "id": "spring-with-a-broken-corner",
+    "title": "Spring with a Broken Corner",
+    "title_zh": "破角的春天",
+    "author": "Mario Benedetti",
+    "author_zh": "马里奥·贝内德蒂",
+    "year": "1982",
+    "orig_lang": "es",
+    "public_domain": false,
+    "source_url": null,
+    "title_orig": "Primavera con una esquina rota"
+  },
+  {
+    "id": "the-book-of-embraces",
+    "title": "The Book of Embraces",
+    "title_zh": "拥抱之书",
+    "author": "Eduardo Galeano",
+    "author_zh": "爱德华多·加莱亚诺",
+    "year": "1989",
+    "orig_lang": "es",
+    "public_domain": false,
+    "source_url": null,
+    "title_orig": "El libro de los abrazos"
+  },
+  {
+    "id": "soccer-in-sun-and-shadow",
+    "title": "Soccer in Sun and Shadow",
+    "title_zh": "足球往事",
+    "author": "Eduardo Galeano",
+    "author_zh": "爱德华多·加莱亚诺",
+    "year": "1995",
+    "orig_lang": "es",
+    "public_domain": false,
+    "source_url": null,
+    "title_orig": "El fútbol a sol y sombra"
+  },
+  {
+    "id": "the-shipyard",
+    "title": "The Shipyard",
+    "title_zh": "造船厂",
+    "author": "Juan Carlos Onetti",
+    "author_zh": "胡安·卡洛斯·奥内蒂",
+    "year": "1961",
+    "orig_lang": "es",
+    "public_domain": false,
+    "source_url": null,
+    "title_orig": "El astillero"
+  },
+  {
+    "id": "bras-cubas",
+    "title": "The Posthumous Memoirs of Brás Cubas",
+    "title_zh": "布拉斯·库巴斯死后的回忆",
+    "author": "Machado de Assis",
+    "author_zh": "马沙多·德·阿西斯",
+    "year": "1881",
+    "orig_lang": "pt",
+    "public_domain": true,
+    "source_url": null,
+    "title_orig": "Memórias Póstumas de Brás Cubas",
+    "author_orig": "Joaquim Maria Machado de Assis",
+    "aliases": [
+      "Epitaph of a Small Winner"
+    ]
+  },
+  {
+    "id": "captains-of-the-sands",
+    "title": "Captains of the Sands",
+    "title_zh": "沙滩上的船长",
+    "author": "Jorge Amado",
+    "author_zh": "若热·亚马多",
+    "year": "1937",
+    "orig_lang": "pt",
+    "public_domain": false,
+    "source_url": null,
+    "title_orig": "Capitães da Areia"
+  },
+  {
+    "id": "anguish-ramos",
+    "title": "Anguish",
+    "title_zh": "焦虑",
+    "author": "Graciliano Ramos",
+    "author_zh": "格拉西利亚诺·拉莫斯",
+    "year": "1936",
+    "orig_lang": "pt",
+    "public_domain": false,
+    "source_url": null,
+    "title_orig": "Angústia"
+  },
+  {
+    "id": "sagarana",
+    "title": "Sagarana",
+    "title_zh": "萨加拉纳",
+    "author": "João Guimarães Rosa",
+    "author_zh": "吉马良斯·罗萨",
+    "year": "1946",
+    "orig_lang": "pt",
+    "public_domain": false,
+    "source_url": null,
+    "title_orig": "Sagarana"
+  },
+  {
+    "id": "family-ties",
+    "title": "Family Ties",
+    "title_zh": "家庭纽带",
+    "author": "Clarice Lispector",
+    "author_zh": "克拉丽丝·李斯佩克朵",
+    "year": "1960",
+    "orig_lang": "pt",
+    "public_domain": false,
+    "source_url": null,
+    "title_orig": "Laços de família"
+  },
+  {
+    "id": "os-sertoes",
+    "title": "Rebellion in the Backlands",
+    "title_zh": "腹地",
+    "author": "Euclides da Cunha",
+    "author_zh": "欧克利德斯·达·库尼亚",
+    "year": "1902",
+    "orig_lang": "pt",
+    "public_domain": true,
+    "source_url": null,
+    "title_orig": "Os Sertões",
+    "aliases": [
+      "Os Sertões"
+    ]
+  },
+  {
+    "id": "o-quinze",
+    "title": "The Year Fifteen",
+    "title_zh": "一五年",
+    "author": "Rachel de Queiroz",
+    "author_zh": "拉谢尔·德·克罗斯",
+    "year": "1930",
+    "orig_lang": "pt",
+    "public_domain": false,
+    "source_url": null,
+    "title_orig": "O Quinze"
+  },
+  {
+    "id": "time-and-the-wind",
+    "title": "Time and the Wind",
+    "title_zh": "时间与风",
+    "author": "Erico Verissimo",
+    "author_zh": "埃里科·韦里西莫",
+    "year": "1949",
+    "orig_lang": "pt",
+    "public_domain": false,
+    "source_url": null,
+    "title_orig": "O Tempo e o Vento"
+  },
+  {
+    "id": "incident-in-antares",
+    "title": "Incident in Antares",
+    "title_zh": "安塔雷斯事件",
+    "author": "Erico Verissimo",
+    "author_zh": "埃里科·韦里西莫",
+    "year": "1971",
+    "orig_lang": "pt",
+    "public_domain": false,
+    "source_url": null,
+    "title_orig": "Incidente em Antares"
+  },
+  {
+    "id": "child-of-the-dark",
+    "title": "Child of the Dark",
+    "title_zh": "垃圾房",
+    "author": "Carolina Maria de Jesus",
+    "author_zh": "卡罗利娜·玛利亚·德·热苏斯",
+    "year": "1960",
+    "orig_lang": "pt",
+    "public_domain": false,
+    "source_url": null,
+    "title_orig": "Quarto de despejo",
+    "aliases": [
+      "Quarto de despejo"
+    ]
+  },
+  {
+    "id": "a-dog-as-a-gift",
+    "title": "A Dog as a Gift",
+    "title_zh": "慈悲圣母的审判",
+    "author": "Ariano Suassuna",
+    "author_zh": "阿里亚诺·苏阿苏纳",
+    "year": "1955",
+    "orig_lang": "pt",
+    "public_domain": false,
+    "source_url": null,
+    "title_orig": "Auto da Compadecida",
+    "aliases": [
+      "Auto da Compadecida"
+    ]
+  },
+  {
+    "id": "an-invincible-memory",
+    "title": "An Invincible Memory",
+    "title_zh": "巴西人民万岁",
+    "author": "João Ubaldo Ribeiro",
+    "author_zh": "若昂·乌巴尔多·里贝罗",
+    "year": "1984",
+    "orig_lang": "pt",
+    "public_domain": false,
+    "source_url": null,
+    "title_orig": "Viva o povo brasileiro",
+    "aliases": [
+      "Viva o povo brasileiro"
+    ]
+  },
+  {
+    "id": "as-meninas",
+    "title": "The Girl in the Photograph",
+    "title_zh": "姑娘们",
+    "author": "Lygia Fagundes Telles",
+    "author_zh": "莉吉娅·法贡德斯·特莱斯",
+    "year": "1973",
+    "orig_lang": "pt",
+    "public_domain": false,
+    "source_url": null,
+    "title_orig": "As Meninas"
+  },
+  {
+    "id": "dois-irmaos",
+    "title": "The Brothers",
+    "title_zh": "两兄弟",
+    "author": "Milton Hatoum",
+    "author_zh": "米尔顿·哈通",
+    "year": "2000",
+    "orig_lang": "pt",
+    "public_domain": false,
+    "source_url": null,
+    "title_orig": "Dois irmãos",
+    "aliases": [
+      "Dois irmãos"
+    ]
+  },
+  {
+    "id": "crooked-plow",
+    "title": "Crooked Plow",
+    "title_zh": "弯曲的犁",
+    "author": "Itamar Vieira Junior",
+    "author_zh": "伊塔马尔·维埃拉·茹尼奥尔",
+    "year": "2019",
+    "orig_lang": "pt",
+    "public_domain": false,
+    "source_url": null,
+    "title_orig": "Torto arado",
+    "aliases": [
+      "Torto arado"
+    ]
+  },
+  {
+    "id": "o-avesso-da-pele",
+    "title": "The Dark Side of the Skin",
+    "title_zh": "皮肤的反面",
+    "author": "Jeferson Tenório",
+    "author_zh": "热费尔松·特诺里奥",
+    "year": "2020",
+    "orig_lang": "pt",
+    "public_domain": false,
+    "source_url": null,
+    "title_orig": "O avesso da pele"
+  },
+  {
+    "id": "daytripper",
+    "title": "Daytripper",
+    "title_zh": "一日游者",
+    "author": "Fábio Moon and Gabriel Bá",
+    "author_zh": "法比奥·穆恩、加布里埃尔·巴",
+    "year": "2010",
+    "orig_lang": "en",
+    "public_domain": false,
+    "source_url": null,
+    "orig_note": "漫画，原作用英语出版"
+  },
+  {
+    "id": "my-sweet-orange-tree",
+    "title": "My Sweet Orange Tree",
+    "title_zh": "我亲爱的甜橙树",
+    "author": "José Mauro de Vasconcelos",
+    "author_zh": "若泽·毛罗·德·瓦斯康塞洛斯",
+    "year": "1968",
+    "orig_lang": "pt",
+    "public_domain": false,
+    "source_url": null,
+    "title_orig": "O Meu Pé de Laranja Lima"
+  },
+  {
+    "id": "the-river-of-doubt",
+    "title": "The River of Doubt",
+    "title_zh": "疑问之河",
+    "author": "Candice Millard",
+    "author_zh": "坎迪丝·米勒德",
+    "year": "2005",
+    "orig_lang": "en",
+    "public_domain": false,
+    "source_url": null
+  },
+  {
+    "id": "marching-powder",
+    "title": "Marching Powder",
+    "title_zh": "行军粉",
+    "author": "Rusty Young",
+    "author_zh": "鲁斯蒂·扬",
+    "year": "2003",
+    "orig_lang": "en",
+    "public_domain": false,
+    "source_url": null
+  },
+  {
+    "id": "through-gates-of-splendor",
+    "title": "Through Gates of Splendor",
+    "title_zh": "穿越荣耀之门",
+    "author": "Elisabeth Elliot",
+    "author_zh": "伊丽莎白·艾略特",
+    "year": "1957",
+    "orig_lang": "en",
+    "public_domain": false,
+    "source_url": null
   }
 ]

@@ -121,5 +121,29 @@
     ],
     "coord_checked": "Plaza de armas de Iquitos (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Plaza_de_armas_de_Iquitos",
     "fact_source": "https://en.wikipedia.org/wiki/Eight_Hundred_Leagues_on_the_Amazon"
+  },
+  {
+    "id": "pe-avenida-tacna",
+    "name": "Avenida Tacna, Lima",
+    "name_zh": "利马 · 塔克纳大道",
+    "lat": -12.04367,
+    "lon": -77.03536,
+    "place_type": "original",
+    "note": "《酒吧长谈》第一句，圣地亚哥站在《纪事报》报社门口，毫无爱意地望着塔克纳大道，问出那句秘鲁人至今常挂在嘴边的话：“秘鲁是从什么时候开始完蛋的？”塔克纳大道是利马老城的主干道，沿街多是二十世纪中叶的楼房",
+    "note_en": "Conversation in the Cathedral opens with Santiago standing in the doorway of the newspaper La Crónica, looking at Avenida Tacna without love, and asking the question Peruvians still repeat: 'At what precise moment had Peru fucked itself up?' Avenida Tacna is a main artery of old Lima, lined mostly with mid-twentieth-century buildings",
+    "coord_checked": "File:Avenida Tacna amb Jirón Callao.jpg (geotagged, Wikimedia Commons) — https://commons.wikimedia.org/wiki/File:Avenida_Tacna_amb_Jirón_Callao.jpg",
+    "fact_source": "https://en.wikipedia.org/wiki/Conversation_in_the_Cathedral"
+  },
+  {
+    "id": "pe-siula-grande",
+    "name": "Siula Grande",
+    "name_zh": "修拉格兰德峰",
+    "lat": -10.293313,
+    "lon": -76.892595,
+    "place_type": "original",
+    "note": "1985 年，英国登山者乔·辛普森和西蒙·耶茨首次登上修拉格兰德峰西壁，下山时辛普森摔断了腿，耶茨以为他已经死了，割断了绳子。辛普森掉进冰裂缝却活了下来，拖着断腿爬了几天回到营地。山峰在瓦伊瓦什山脉，海拔 6344 米，环线徒步可以远眺",
+    "note_en": "In 1985 the British climbers Joe Simpson and Simon Yates made the first ascent of the west face of Siula Grande. On the way down Simpson broke his leg, and Yates, believing him dead, cut the rope. Simpson fell into a crevasse, survived, and crawled for days back to camp on his broken leg. The 6,344-metre peak is in the Cordillera Huayhuash and can be seen from the trekking circuit",
+    "coord_checked": "Siula Grande (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Siula_Grande",
+    "fact_source": "https://en.wikipedia.org/wiki/Siula_Grande"
   }
 ]

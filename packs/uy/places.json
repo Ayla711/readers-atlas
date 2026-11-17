@@ -84,9 +84,46 @@
     "note": "老城里这家 1877 年开业的咖啡馆是蒙得维的亚最老的咖啡馆之一，写《拉丁美洲被切开的血管》的爱德华多·加莱亚诺是这里几十年的常客，常在这里写作。木头窗框、大理石桌面和老照片都还是旧时的样子，进门坐下点一杯咖啡就好",
     "note_en": "Opened in 1877, this café in the old town is one of the oldest in Montevideo, and Eduardo Galeano, author of Open Veins of Latin America, was a regular for decades and often wrote here. The wooden window frames, marble tables and old photographs are much as they were, so just walk in, sit down and order a coffee",
     "book_ids": [
-      "open-veins-of-latin-america"
+      "open-veins-of-latin-america",
+      "the-book-of-embraces"
     ],
     "coord_checked": "Café Brasilero (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Café_Brasilero",
     "fact_source": "https://es.wikipedia.org/wiki/Caf%C3%A9_Brasilero"
+  },
+  {
+    "id": "uy-avenida-18-de-julio",
+    "name": "Avenida 18 de Julio, Montevideo",
+    "name_zh": "蒙得维的亚 · 七月十八日大道",
+    "lat": -34.906,
+    "lon": -56.1926,
+    "place_type": "original",
+    "note": "贝内德蒂年轻时当过会计和小职员，《休战》写的正是蒙得维的亚写字楼里的这种人生：鳏夫桑托梅退休前一年的日记，平淡的公司、公交和咖啡馆，以及一段短暂的爱情。七月十八日大道是老城外的商业主街，两边是二三十年代的写字楼",
+    "note_en": "Mario Benedetti worked as a bookkeeper and office clerk when he was young, and The Truce is about exactly that life in Montevideo's office buildings: the diary of the widower Santomé in his last year before retirement, with its dull office, buses and cafés, and a brief love affair. Avenida 18 de Julio is the city's main commercial street, lined with office buildings from the 1920s and 1930s",
+    "coord_checked": "Avenida 18 de Julio, Montevideo (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Avenida_18_de_Julio,_Montevideo",
+    "fact_source": "https://en.wikipedia.org/wiki/La_tregua_(novel)"
+  },
+  {
+    "id": "uy-estadio-centenario",
+    "name": "Estadio Centenario, Montevideo",
+    "name_zh": "蒙得维的亚 · 百年纪念球场",
+    "lat": -34.894444,
+    "lon": -56.152778,
+    "place_type": "original",
+    "note": "1930 年第一届世界杯为乌拉圭建国百年而办，这座球场仓促建成，决赛乌拉圭 4 比 2 逆转阿根廷。加莱亚诺在《足球往事》里写了这一天，也写了二十年后乌拉圭在马拉卡纳赢下巴西。球场看台下有足球博物馆，国际足联把它列为世界足球历史纪念建筑",
+    "note_en": "The first World Cup, in 1930, was held to mark a century of Uruguayan independence; this stadium was built in a rush, and in the final Uruguay came from behind to beat Argentina 4–2. Galeano writes about that day in Soccer in Sun and Shadow, and about Uruguay beating Brazil at the Maracanã twenty years later. There is a football museum under the stands, and FIFA has named the stadium a historical monument of world football",
+    "coord_checked": "Estadio Centenario (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Estadio_Centenario",
+    "fact_source": "https://en.wikipedia.org/wiki/Estadio_Centenario"
+  },
+  {
+    "id": "uy-penal-de-libertad",
+    "name": "Penal de Libertad",
+    "name_zh": "自由镇监狱",
+    "lat": -34.63766,
+    "lon": -56.64702,
+    "place_type": "original",
+    "note": "乌拉圭军政府时期，政治犯大多关在这座名叫“自由”的监狱里，规矩严苛到连画一只鸟都不行，家人只能隔着玻璃探视。贝内德蒂本人流亡海外，《破角的春天》写的就是这样一位政治犯和他流亡在外的妻女。如今监狱旁建了纪念园",
+    "note_en": "Under Uruguay's military regime, most political prisoners were held in this prison, cruelly named Libertad ('Freedom'), under rules so harsh that even drawing a bird was forbidden, and families saw them only through glass. Benedetti was himself in exile, and Spring with a Broken Corner is about just such a prisoner and his wife and daughter living abroad. A memorial now stands beside the prison",
+    "coord_checked": "Penal de Libertad (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Penal_de_Libertad",
+    "fact_source": "https://en.wikipedia.org/wiki/Penal_de_Libertad"
   }
 ]

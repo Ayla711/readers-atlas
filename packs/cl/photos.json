@@ -46,5 +46,23 @@
     "alt_en": "The open pit at Chuquicamata",
     "alt_zh": "丘基卡马塔的露天矿坑",
     "crop": null
+  },
+  "cl-temuco-railway-museum": {
+    "commons_file": "File:Algunos trenes al interior de la casa de maquinas.jpg",
+    "alt_en": "Steam locomotives inside the Temuco roundhouse",
+    "alt_zh": "泰穆科机车库里的蒸汽机车",
+    "crop": null
+  },
+  "cl-la-moneda": {
+    "commons_file": "File:Chile-02559 - La Moneda Presidential Palace (49033259257).jpg",
+    "alt_en": "The front of La Moneda",
+    "alt_zh": "拉莫内达宫正面",
+    "crop": null
+  },
+  "cl-recoleta": {
+    "commons_file": "File:Panorama Recoleta - panoramio (cropped).jpg",
+    "alt_en": "Recoleta, on the north bank of the Mapocho",
+    "alt_zh": "马波乔河北岸的雷科莱塔",
+    "crop": null
   }
 }

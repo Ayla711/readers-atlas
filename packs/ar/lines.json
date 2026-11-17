@@ -336,5 +336,185 @@
     ],
     "status": "draft",
     "fact_source": "https://en.wikipedia.org/wiki/On_Heroes_and_Tombs"
+  },
+  {
+    "id": "ar-hop-s1",
+    "kind": "scene",
+    "book_id": "hopscotch",
+    "place_ids": [
+      "ar-plaza-cortazar"
+    ],
+    "location": "Chapter 41",
+    "location_zh": "第 41 章",
+    "text_en": "Back in Buenos Aires after his years in Paris, Oliveira lays a plank between his window and the one across the street on a stifling afternoon, and Talita, his friend Traveler's wife, has to cross it high above the street to bring him nails and maté.",
+    "text_zh": "在巴黎漂泊多年后，奥利维拉回到了布宜诺斯艾利斯。一个闷热的下午，他在自己的窗口和街对面的窗口之间架起一块木板，朋友特拉韦勒的妻子塔利塔只好在半空中爬过去，给他送钉子和马黛茶。",
+    "highlight_en": [
+      "Buenos Aires"
+    ],
+    "highlight_zh": [
+      "布宜诺斯艾利斯"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Hopscotch_(Cort%C3%A1zar_novel)"
+  },
+  {
+    "id": "ar-bes-s1",
+    "kind": "scene",
+    "book_id": "bestiary",
+    "place_ids": [
+      "ar-plaza-cortazar"
+    ],
+    "location": "“House Taken Over”",
+    "location_zh": "《被占的宅子》",
+    "text_en": "A brother and sister live quietly in their great-grandparents' huge old house in Buenos Aires until something unseen takes over the back rooms; they lock the door and keep on living, until the noises reach their side too and they walk out with nothing, throwing the key into a drain.",
+    "text_zh": "一对兄妹守着曾祖父母留下的布宜诺斯艾利斯老宅，安静度日，直到某种看不见的东西占据了后半边的房间。他们锁上门照旧过日子，直到声音也传到这一边，两人什么也没带就出了门，把钥匙扔进了下水道。",
+    "highlight_en": [
+      "Buenos Aires"
+    ],
+    "highlight_zh": [
+      "布宜诺斯艾利斯"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/House_Taken_Over"
+  },
+  {
+    "id": "ar-ete-s1",
+    "kind": "scene",
+    "book_id": "el-eternauta",
+    "place_ids": [
+      "ar-estadio-monumental"
+    ],
+    "location": "Part 1",
+    "location_zh": "第一部",
+    "text_en": "Juan Salvo is playing truco with friends in his house in Vicente López when a glowing snow begins to fall and kills everyone it touches; sealed in homemade suits, the survivors head out into a dead Buenos Aires and join the resistance that makes its stand at River Plate's stadium.",
+    "text_zh": "胡安·萨尔沃正和朋友们在比森特洛佩斯的家里玩纸牌，一场发着微光的雪落了下来，碰到它的人全都死了。幸存者穿上自制的密封服，走进死寂的布宜诺斯艾利斯，加入了在河床队球场死守的抵抗军。",
+    "highlight_en": [
+      "River Plate's stadium"
+    ],
+    "highlight_zh": [
+      "河床队球场"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/El_Eternauta"
+  },
+  {
+    "id": "ar-osn-s1",
+    "kind": "scene",
+    "book_id": "our-share-of-night",
+    "place_ids": [
+      "ar-tres-fronteras"
+    ],
+    "location": "Part 1",
+    "location_zh": "第一部",
+    "text_en": "In 1981, under the dictatorship, Juan, a medium in the service of a rich family's occult Order, drives his young son Gaspar from Buenos Aires north to Iguazú, trying to protect him from the fate the Order has planned for the boy.",
+    "text_zh": "1981 年，军政府统治下的阿根廷，胡安是一个富豪家族秘密“教团”的灵媒。他开车带着年幼的儿子加斯帕尔从布宜诺斯艾利斯一路北上去伊瓜苏，想让儿子躲开教团为他安排的命运。",
+    "highlight_en": [
+      "Iguazú"
+    ],
+    "highlight_zh": [
+      "伊瓜苏"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Our_Share_of_Night"
+  },
+  {
+    "id": "ar-twl-s1",
+    "kind": "scene",
+    "book_id": "things-we-lost-in-the-fire",
+    "place_ids": [
+      "ar-constitucion"
+    ],
+    "location": "“The Dirty Kid”",
+    "location_zh": "《脏孩子》",
+    "text_en": "The narrator moves into her family's old house in Constitución, where a filthy little boy and his addict mother sleep on the doorstep; one night the boy disappears, and soon the neighborhood is talking about a child's body found without its head.",
+    "text_zh": "叙述者住进了宪法区的祖传老宅，门口睡着一个脏兮兮的小男孩和他吸毒的母亲。一天夜里男孩不见了，不久街区里就传开了，说发现了一具没有头的童尸。",
+    "highlight_en": [
+      "Constitución"
+    ],
+    "highlight_zh": [
+      "宪法区"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Things_We_Lost_in_the_Fire"
+  },
+  {
+    "id": "ar-kis-s1",
+    "kind": "scene",
+    "book_id": "kiss-of-the-spider-woman",
+    "place_ids": [
+      "ar-general-villegas"
+    ],
+    "location": "Chapter 1",
+    "location_zh": "第 1 章",
+    "text_en": "In a Buenos Aires prison cell, Molina, a gay window dresser, passes the nights by retelling old movies, beginning with Cat People, to his cellmate Valentín, a young Marxist militant who scorns them at first and slowly comes to need them.",
+    "text_zh": "布宜诺斯艾利斯的一间牢房里，同性恋橱窗设计师莫利纳靠讲老电影打发长夜，第一部就是《豹族》。听众是同牢的马克思主义青年瓦伦丁，他起初嗤之以鼻，后来却离不开这些故事。",
+    "highlight_en": [
+      "Cat People"
+    ],
+    "highlight_zh": [
+      "《豹族》"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Kiss_of_the_Spider_Woman_(novel)"
+  },
+  {
+    "id": "ar-mia-s1",
+    "kind": "scene",
+    "book_id": "miracle-in-the-andes",
+    "place_ids": [
+      "ar-flight-571"
+    ],
+    "location": "The trek out",
+    "location_zh": "徒步求救",
+    "text_en": "Sixty days after the crash, Nando Parrado and Roberto Canessa set out from the wreck in the Valley of Tears to climb out of the mountains on foot; after ten days and a summit far higher than they had imagined, they reach a Chilean herdsman across a river.",
+    "text_zh": "失事六十天后，南多·帕拉多和罗伯托·卡内萨从眼泪谷的残骸出发，徒步翻越群山。走了十天，越过一座比想象中高得多的山峰，他们终于在一条河对岸遇见了一个智利牧人。",
+    "highlight_en": [
+      "the Valley of Tears"
+    ],
+    "highlight_zh": [
+      "眼泪谷"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Uruguayan_Air_Force_Flight_571"
+  },
+  {
+    "id": "ar-ali-s1",
+    "kind": "scene",
+    "book_id": "alive-andes",
+    "place_ids": [
+      "ar-flight-571"
+    ],
+    "location": "On the glacier",
+    "location_zh": "冰川上",
+    "text_en": "With the search called off and nothing left to eat, the survivors on the glacier make the decision that will keep them alive: to eat the bodies of their friends who died in the crash, an act they later explain as a kind of communion.",
+    "text_zh": "搜救已经停止，食物也吃光了，冰川上的幸存者做出了让他们活下来的决定：吃掉在空难中死去的朋友的遗体。后来他们把这说成一种圣餐。",
+    "highlight_en": [
+      "the glacier"
+    ],
+    "highlight_zh": [
+      "冰川"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Alive:_The_Story_of_the_Andes_Survivors"
+  },
+  {
+    "id": "ar-om-s1",
+    "kind": "scene",
+    "book_id": "operacion-masacre",
+    "place_ids": [
+      "ar-ex-esma"
+    ],
+    "location": "Part 1",
+    "location_zh": "第一部",
+    "text_en": "In December 1956, in a café in La Plata, Walsh hears that one of the men shot by the police in the garbage dumps of José León Suárez that June is still alive; he sets out to find the survivors and reconstruct the night of the secret executions.",
+    "text_zh": "1956 年 12 月，沃尔什在拉普拉塔的一家咖啡馆里听人说，那年 6 月在何塞莱昂苏亚雷斯的垃圾场被警察枪决的人里，有一个还活着。他由此出发，找到一个个幸存者，还原了那个秘密处决之夜。",
+    "highlight_en": [
+      "José León Suárez"
+    ],
+    "highlight_zh": [
+      "何塞莱昂苏亚雷斯"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Operaci%C3%B3n_Masacre"
   }
 ]

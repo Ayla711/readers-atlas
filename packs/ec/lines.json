@@ -110,5 +110,45 @@
     ],
     "status": "draft",
     "fact_source": "https://es.wikipedia.org/wiki/Mi_delirio_sobre_el_Chimborazo"
+  },
+  {
+    "id": "ec-pdc-s1",
+    "kind": "scene",
+    "book_id": "el-pais-de-la-canela",
+    "place_ids": [
+      "ec-quito-centro"
+    ],
+    "location": "Part 1",
+    "location_zh": "第一部",
+    "text_en": "Years later, a young man who was there remembers the expedition that left Quito in 1541 to look for the forests of cinnamon: the Andes crossed in freezing rain, the jungle that swallowed men and horses, and the boat that carried Orellana down an endless river.",
+    "text_zh": "多年以后，一个当年随行的年轻人回忆起 1541 年从基多出发、去寻找肉桂林的那次远征：冒着冻雨翻越安第斯山，吞没人和马的丛林，还有载着奥雷利亚纳顺着一条无尽的大河漂下去的那条船。",
+    "highlight_en": [
+      "Quito"
+    ],
+    "highlight_zh": [
+      "基多"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/El_pa%C3%ADs_de_la_canela"
+  },
+  {
+    "id": "ec-tgs-s1",
+    "kind": "scene",
+    "book_id": "through-gates-of-splendor",
+    "place_ids": [
+      "ec-shell"
+    ],
+    "location": "Final chapters",
+    "location_zh": "最后几章",
+    "text_en": "After weeks of dropping gifts from the air, the five men land on a beach of the Curaray River they call Palm Beach and meet three Waorani; on 8 January 1956 the radio falls silent, and the search party finds their bodies in the river.",
+    "text_zh": "五个人连续几周从飞机上空投礼物，然后降落在库拉赖河边他们称作“棕榈海滩”的沙洲上，见到了三个瓦拉尼人。1956 年 1 月 8 日，无线电断了，搜救队在河里找到了他们的遗体。",
+    "highlight_en": [
+      "the Curaray River"
+    ],
+    "highlight_zh": [
+      "库拉赖河"
+    ],
+    "status": "draft",
+    "fact_source": "https://en.wikipedia.org/wiki/Operation_Auca"
   }
 ]

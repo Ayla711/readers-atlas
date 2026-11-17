@@ -45,5 +45,29 @@
     ],
     "coord_checked": "Chimborazo (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Chimborazo",
     "fact_source": "https://en.wikipedia.org/wiki/Chimborazo"
+  },
+  {
+    "id": "ec-quito-centro",
+    "name": "Historic Centre of Quito",
+    "name_zh": "基多 · 历史中心",
+    "lat": -0.22,
+    "lon": -78.512083,
+    "place_type": "original",
+    "note": "1541 年 2 月，贡萨洛·皮萨罗带着两百多名西班牙人和几千名原住民从基多出发，翻过安第斯山去东边寻找传说中的“肉桂之国”，奥雷利亚纳一支后来顺流而下，成了第一批走完亚马孙河的欧洲人。基多老城的教堂和广场保存完好，是第一批世界遗产",
+    "note_en": "In February 1541 Gonzalo Pizarro set out from Quito with two hundred-odd Spaniards and several thousand Indigenous men to cross the Andes in search of the fabled Land of Cinnamon; Orellana's party later floated downstream and became the first Europeans to travel the length of the Amazon. Quito's old town, its churches and squares well preserved, was among the first World Heritage Sites",
+    "coord_checked": "Centro Histórico, Quito (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Centro_Histórico,_Quito",
+    "fact_source": "https://en.wikipedia.org/wiki/Francisco_de_Orellana"
+  },
+  {
+    "id": "ec-shell",
+    "name": "Shell, Pastaza",
+    "name_zh": "帕斯塔萨 · 谢尔镇",
+    "lat": -1.49973,
+    "lon": -78.06113,
+    "place_type": "original",
+    "note": "1956 年 1 月，五名美国传教士以这个亚马孙边缘小镇的传教航空总部为基地，飞进雨林，降落在库拉赖河的沙洲上，想接触与外界隔绝的瓦拉尼人，结果全被长矛刺死。其中一人的妻子伊丽莎白·艾略特写下《穿越荣耀之门》，后来带着女儿住进了瓦拉尼人的村子",
+    "note_en": "In January 1956 five American missionaries, based at the mission aviation headquarters in this small town on the edge of the Amazon, flew into the rainforest and landed on a sandbar of the Curaray River to make contact with the isolated Waorani, and all five were speared to death. Elisabeth Elliot, the widow of one of them, wrote Through Gates of Splendor, and later went to live among the Waorani with her daughter",
+    "coord_checked": "Shell (Ecuador) (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Shell_(Ecuador)",
+    "fact_source": "https://en.wikipedia.org/wiki/Operation_Auca"
   }
 ]

@@ -58,5 +58,77 @@
     "alt_en": "Apartment blocks in Cidade de Deus",
     "alt_zh": "上帝之城的住宅楼",
     "crop": null
+  },
+  "br-maceio": {
+    "commons_file": "File:Farol de Ponta Verde - Maceió - Alagoas (16364669419).jpg",
+    "alt_en": "The Ponta Verde lighthouse off Maceió",
+    "alt_zh": "马塞约外海的绿角灯塔",
+    "crop": null
+  },
+  "br-jardim-botanico": {
+    "commons_file": "File:Alagados do Jardim. (9062449718).jpg",
+    "alt_en": "A pond among the trees of the Botanical Garden",
+    "alt_zh": "植物园林间的水塘",
+    "crop": null
+  },
+  "br-quixada": {
+    "commons_file": "File:Monólitos.JPG",
+    "alt_en": "The granite monoliths of Quixadá",
+    "alt_zh": "基沙达的花岗岩巨石",
+    "crop": null
+  },
+  "br-museu-erico-verissimo": {
+    "commons_file": "File:Cruz-alta-museu-erico-verissimo-1.jpg",
+    "alt_en": "The Erico Verissimo museum in Cruz Alta",
+    "alt_zh": "克鲁斯阿尔塔的韦里西莫博物馆",
+    "crop": null
+  },
+  "br-caninde": {
+    "commons_file": "File:Estadio da Portuguesa, bairro do Canindé e o distrito do Pari.jpg",
+    "alt_en": "Canindé and Pari, with Portuguesa's stadium",
+    "alt_zh": "卡宁德和帕里区，中间是葡萄牙人体育会球场",
+    "crop": null
+  },
+  "br-taperoa": {
+    "commons_file": "File:Igreja matriz em Taperoá.jpg",
+    "alt_en": "The parish church of Taperoá",
+    "alt_zh": "塔佩罗阿的教区教堂",
+    "crop": null
+  },
+  "br-itaparica": {
+    "commons_file": "File:Centro Histórico de Itaparica Bahia 2018-0063.jpg",
+    "alt_en": "An old house in Itaparica's historic center",
+    "alt_zh": "伊塔帕里卡老城的一座老房子",
+    "crop": null
+  },
+  "br-faculdade-direito-usp": {
+    "commons_file": "File:Faculdade de Direito da Universidade de São Paulo 01.jpg",
+    "alt_en": "The law school on Largo de São Francisco at night",
+    "alt_zh": "夜色中圣弗朗西斯科广场的法学院",
+    "crop": null
+  },
+  "br-porto-de-manaus": {
+    "commons_file": "File:Port of Manaus, 1913.jpg",
+    "alt_en": "The ramp down to the floating dock of Manaus, 1913",
+    "alt_zh": "1913 年马瑙斯港通往浮动码头的坡道",
+    "crop": null
+  },
+  "br-chapada-diamantina": {
+    "commons_file": "File:Chapada Diamantina Bahia.jpg",
+    "alt_en": "The table mountains of the Chapada Diamantina",
+    "alt_zh": "迪亚曼蒂纳高原的桌山",
+    "crop": null
+  },
+  "br-porto-alegre": {
+    "commons_file": "File:A Usina do Gasômetro.jpg",
+    "alt_en": "The old Gasômetro power plant on Porto Alegre's waterfront",
+    "alt_zh": "阿雷格里港河边的旧煤气厂发电站",
+    "crop": null
+  },
+  "br-bangu": {
+    "commons_file": "File:2014-10-29 - Estação Bangu.JPG",
+    "alt_en": "Bangu railway station",
+    "alt_zh": "邦古火车站",
+    "crop": null
   }
 }

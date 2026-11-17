@@ -1,6 +1,6 @@
-# 导入报告 · Argentina · 2026-11-14
+# 导入报告 · Argentina · 2026-11-17
 
-包：58 本书、18 个地点、14 条摘句和场景说明、17 张照片。
+包：102 本书、24 个地点、23 条摘句和场景说明、23 张照片。
 
 ## 错误（0）
 
@@ -11,8 +11,8 @@
 - place ar-beagle-channel: 1.0 km off the simplified coastline, counted in AR-V
 - place ar-faro-fin-del-mundo: 0.9 km off the simplified coastline, counted in AR-V
 - regions without a place: Catamarca, Chaco, Chubut, Corrientes, Córdoba, Entre Ríos, Formosa, Jujuy, La Pampa, La Rioja, Neuquén, Río Negro, Salta, San Luis, Santa Fe, Santiago del Estero, Tucumán
-- photo ar-mafalda-statue: portrait image (800×1150); the place card is designed for landscape
 - photo ar-galeria-guemes: only 500 px wide (the place card shows 800); a larger file would look sharper
+- photo ar-general-villegas: only 500 px wide (the place card shows 800); a larger file would look sharper
 
 ## 脚本没有逐字核对的文本（4，审核时人工核对）
 
@@ -30,11 +30,11 @@
 
 | 区 | 地点 |
 |---|---:|
-| Buenos Aires | 5 |
+| Buenos Aires | 6 |
 | Catamarca | 0 |
 | Chaco | 0 |
 | Chubut | 0 |
-| Ciudad de Buenos Aires | 6 |
+| Ciudad de Buenos Aires | 10 |
 | Corrientes | 0 |
 | Córdoba | 0 |
 | Entre Ríos | 0 |
@@ -42,7 +42,7 @@
 | Jujuy | 0 |
 | La Pampa | 0 |
 | La Rioja | 0 |
-| Mendoza | 1 |
+| Mendoza | 2 |
 | Misiones | 2 |
 | Neuquén | 0 |
 | Río Negro | 0 |

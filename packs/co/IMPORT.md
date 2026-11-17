@@ -1,13 +1,13 @@
-# 导入报告 · Colombia · 2026-11-13
+# 导入报告 · Colombia · 2026-11-17
 
-包：49 本书、6 个地点、6 条摘句和场景说明、6 张照片。
+包：102 本书、8 个地点、8 条摘句和场景说明、8 张照片。
 
 ## 错误（0）
 
 
 ## 提示（1）
 
-- regions without a place: Amazonas, Antioquia, Arauca, Atlántico, Boyacá, Caldas, Caquetá, Casanare, Cauca, Cesar, Chocó, Cundinamarca, Córdoba, Guainía, Guaviare, Huila, La Guajira, Meta, Nariño, Norte de Santander, Putumayo, Quindío, Risaralda, San Andrés y Providencia, Santander, Tolima, Vaupés, Vichada
+- regions without a place: Amazonas, Arauca, Atlántico, Boyacá, Caldas, Caquetá, Casanare, Cauca, Cesar, Chocó, Cundinamarca, Córdoba, Guainía, Guaviare, Huila, La Guajira, Meta, Nariño, Norte de Santander, Putumayo, Quindío, Risaralda, San Andrés y Providencia, Santander, Tolima, Vaupés, Vichada
 
 ## 脚本没有逐字核对的文本（0，审核时人工核对）
 
@@ -20,7 +20,7 @@
 | 区 | 地点 |
 |---|---:|
 | Amazonas | 0 |
-| Antioquia | 0 |
+| Antioquia | 2 |
 | Arauca | 0 |
 | Atlántico | 0 |
 | Bogotá | 1 |

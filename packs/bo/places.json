@@ -58,5 +58,17 @@
     ],
     "coord_checked": "Cerro Rico (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:Cerro_Rico",
     "fact_source": "https://en.wikipedia.org/wiki/Cerro_Rico"
+  },
+  {
+    "id": "bo-san-pedro-prison",
+    "name": "San Pedro prison, La Paz",
+    "name_zh": "拉巴斯 · 圣佩德罗监狱",
+    "lat": -16.503056,
+    "lon": -68.134444,
+    "place_type": "original",
+    "note": "这座拉巴斯市中心的监狱里没有分配牢房，囚犯要自己买房、开店，家人可以住进来。英国毒贩托马斯·麦克法登在里面带收费参观，背包客口耳相传，澳大利亚人鲁斯蒂·扬混进来住了几个月，写成《行军粉》。2009 年政府禁止了参观",
+    "note_en": "In this prison in central La Paz no one is assigned a cell: inmates buy their rooms, run shops, and their families can move in with them. The British drug smuggler Thomas McFadden ran paid tours inside that backpackers passed along by word of mouth, and the Australian Rusty Young talked his way in and stayed for months to write Marching Powder. The government stopped the tours in 2009",
+    "coord_checked": "San Pedro prison (Wikimedia Commons) — https://commons.wikimedia.org/wiki/Category:San_Pedro_prison",
+    "fact_source": "https://en.wikipedia.org/wiki/San_Pedro_prison"
   }
 ]

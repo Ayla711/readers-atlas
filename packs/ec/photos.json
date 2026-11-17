@@ -16,5 +16,17 @@
     "alt_en": "Chimborazo",
     "alt_zh": "钦博拉索山",
     "crop": null
+  },
+  "ec-quito-centro": {
+    "commons_file": "File:Plaza de Armas - Flickr - pellaea.jpg",
+    "alt_en": "Plaza Grande in Quito's old town",
+    "alt_zh": "基多老城的大广场",
+    "crop": null
+  },
+  "ec-shell": {
+    "commons_file": "File:BOULEBHAR DE SHELL - panoramio.jpg",
+    "alt_en": "Shell, on the edge of the Ecuadorian Amazon",
+    "alt_zh": "厄瓜多尔亚马孙边缘的谢尔镇",
+    "crop": null
   }
 }
