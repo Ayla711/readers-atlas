@@ -176,6 +176,113 @@
       "drop_rings_lon_gt": 0
     },
     {
+      "code": "ca",
+      "iso": "CAN",
+      "name": "Canada",
+      "name_zh": "加拿大",
+      "short": "Canada",
+      "short_zh": "加拿大",
+      "region_term": {
+        "en": "province",
+        "zh": "省"
+      },
+      "bounds": [
+        -141.0,
+        41.7,
+        -52.6,
+        70.0
+      ],
+      "step": 0.04,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "adm1_code",
+            "map": {
+              "CAN-633": "CA-BC",
+              "CAN-632": "CA-AB",
+              "CAN-631": "CA-SK",
+              "CAN-630": "CA-MB",
+              "CAN-682": "CA-ON",
+              "CAN-683": "CA-QC",
+              "CAN-684": "CA-NB",
+              "CAN-636": "CA-YT",
+              "CAN-634": "CA-NU",
+              "CAN-686": "CA-NL",
+              "CAN-685": "CA-NS",
+              "CAN-635": "CA-NT",
+              "CAN-687": "CA-PE"
+            }
+          }
+        ],
+        "names": {
+          "CA-BC": [
+            "British Columbia",
+            "不列颠哥伦比亚省"
+          ],
+          "CA-AB": [
+            "Alberta",
+            "阿尔伯塔省"
+          ],
+          "CA-SK": [
+            "Saskatchewan",
+            "萨斯喀彻温省"
+          ],
+          "CA-MB": [
+            "Manitoba",
+            "曼尼托巴省"
+          ],
+          "CA-ON": [
+            "Ontario",
+            "安大略省"
+          ],
+          "CA-QC": [
+            "Quebec",
+            "魁北克省"
+          ],
+          "CA-NB": [
+            "New Brunswick",
+            "新不伦瑞克省"
+          ],
+          "CA-NS": [
+            "Nova Scotia",
+            "新斯科舍省"
+          ],
+          "CA-PE": [
+            "Prince Edward Island",
+            "爱德华王子岛省"
+          ],
+          "CA-NL": [
+            "Newfoundland and Labrador",
+            "纽芬兰与拉布拉多省"
+          ],
+          "CA-YT": [
+            "Yukon",
+            "育空地区"
+          ],
+          "CA-NT": [
+            "Northwest Territories",
+            "西北地区"
+          ],
+          "CA-NU": [
+            "Nunavut",
+            "努纳武特地区"
+          ]
+        }
+      },
+      "data": [
+        "data/ca/geo.js",
+        "data/ca/books.js",
+        "data/ca/places.js",
+        "data/ca/lines.js"
+      ],
+      "open": true,
+      "small_regions": [
+        "CA-PE"
+      ],
+      "wash": {}
+    },
+    {
       "code": "cn",
       "iso": "CHN",
       "name": "China",

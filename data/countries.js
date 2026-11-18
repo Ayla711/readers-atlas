@@ -88,6 +88,35 @@ window.RA_COUNTRIES = [
   "open": true
  },
  {
+  "code": "ca",
+  "iso": "CAN",
+  "name": "Canada",
+  "name_zh": "加拿大",
+  "short": "Canada",
+  "short_zh": "加拿大",
+  "region_term": {
+   "en": "province",
+   "zh": "省"
+  },
+  "bounds": [
+   -141.0,
+   41.7,
+   -52.6,
+   70.0
+  ],
+  "small_regions": [
+   "CA-PE"
+  ],
+  "wash": {},
+  "data": [
+   "data/ca/geo.js",
+   "data/ca/books.js",
+   "data/ca/places.js",
+   "data/ca/lines.js"
+  ],
+  "open": true
+ },
+ {
   "code": "cn",
   "iso": "CHN",
   "name": "China",
