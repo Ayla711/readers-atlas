@@ -1521,6 +1521,293 @@
       "drop_rings_lon_lt": 0
     },
     {
+      "code": "jp",
+      "iso": "JPN",
+      "name": "Japan",
+      "name_zh": "日本",
+      "short": "Japan",
+      "short_zh": "日本",
+      "region_term": {
+        "en": "prefecture",
+        "zh": "都道府县"
+      },
+      "bounds": [
+        122.8,
+        24.0,
+        146.0,
+        45.6
+      ],
+      "step": 0.01,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "adm1_code",
+            "map": {
+              "JPN-1847": "JP-01",
+              "JPN-1863": "JP-02",
+              "JPN-1865": "JP-03",
+              "JPN-1866": "JP-04",
+              "JPN-1862": "JP-05",
+              "JPN-1868": "JP-06",
+              "JPN-1864": "JP-07",
+              "JPN-1856": "JP-08",
+              "JPN-1859": "JP-09",
+              "JPN-3503": "JP-10",
+              "JPN-1858": "JP-11",
+              "JPN-1855": "JP-12",
+              "JPN-1860": "JP-13",
+              "JPN-1857": "JP-14",
+              "JPN-1867": "JP-15",
+              "JPN-1846": "JP-16",
+              "JPN-1842": "JP-17",
+              "JPN-1848": "JP-18",
+              "JPN-1861": "JP-19",
+              "JPN-1844": "JP-20",
+              "JPN-1841": "JP-21",
+              "JPN-1845": "JP-22",
+              "JPN-1840": "JP-23",
+              "JPN-1843": "JP-24",
+              "JPN-1853": "JP-25",
+              "JPN-1850": "JP-26",
+              "JPN-1852": "JP-27",
+              "JPN-1849": "JP-28",
+              "JPN-1851": "JP-29",
+              "JPN-1854": "JP-30",
+              "JPN-1825": "JP-31",
+              "JPN-1824": "JP-32",
+              "JPN-1822": "JP-33",
+              "JPN-1821": "JP-34",
+              "JPN-1826": "JP-35",
+              "JPN-1836": "JP-36",
+              "JPN-1833": "JP-37",
+              "JPN-1832": "JP-38",
+              "JPN-1834": "JP-39",
+              "JPN-1829": "JP-40",
+              "JPN-1827": "JP-41",
+              "JPN-3500": "JP-42",
+              "JPN-1830": "JP-43",
+              "JPN-1835": "JP-44",
+              "JPN-1831": "JP-45",
+              "JPN-3501": "JP-46",
+              "JPN-3502": "JP-47"
+            }
+          }
+        ],
+        "names": {
+          "JP-01": [
+            "Hokkaido",
+            "北海道"
+          ],
+          "JP-02": [
+            "Aomori",
+            "青森县"
+          ],
+          "JP-03": [
+            "Iwate",
+            "岩手县"
+          ],
+          "JP-04": [
+            "Miyagi",
+            "宫城县"
+          ],
+          "JP-05": [
+            "Akita",
+            "秋田县"
+          ],
+          "JP-06": [
+            "Yamagata",
+            "山形县"
+          ],
+          "JP-07": [
+            "Fukushima",
+            "福岛县"
+          ],
+          "JP-08": [
+            "Ibaraki",
+            "茨城县"
+          ],
+          "JP-09": [
+            "Tochigi",
+            "栃木县"
+          ],
+          "JP-10": [
+            "Gunma",
+            "群马县"
+          ],
+          "JP-11": [
+            "Saitama",
+            "埼玉县"
+          ],
+          "JP-12": [
+            "Chiba",
+            "千叶县"
+          ],
+          "JP-13": [
+            "Tokyo",
+            "东京都"
+          ],
+          "JP-14": [
+            "Kanagawa",
+            "神奈川县"
+          ],
+          "JP-15": [
+            "Niigata",
+            "新潟县"
+          ],
+          "JP-16": [
+            "Toyama",
+            "富山县"
+          ],
+          "JP-17": [
+            "Ishikawa",
+            "石川县"
+          ],
+          "JP-18": [
+            "Fukui",
+            "福井县"
+          ],
+          "JP-19": [
+            "Yamanashi",
+            "山梨县"
+          ],
+          "JP-20": [
+            "Nagano",
+            "长野县"
+          ],
+          "JP-21": [
+            "Gifu",
+            "岐阜县"
+          ],
+          "JP-22": [
+            "Shizuoka",
+            "静冈县"
+          ],
+          "JP-23": [
+            "Aichi",
+            "爱知县"
+          ],
+          "JP-24": [
+            "Mie",
+            "三重县"
+          ],
+          "JP-25": [
+            "Shiga",
+            "滋贺县"
+          ],
+          "JP-26": [
+            "Kyoto",
+            "京都府"
+          ],
+          "JP-27": [
+            "Osaka",
+            "大阪府"
+          ],
+          "JP-28": [
+            "Hyogo",
+            "兵库县"
+          ],
+          "JP-29": [
+            "Nara",
+            "奈良县"
+          ],
+          "JP-30": [
+            "Wakayama",
+            "和歌山县"
+          ],
+          "JP-31": [
+            "Tottori",
+            "鸟取县"
+          ],
+          "JP-32": [
+            "Shimane",
+            "岛根县"
+          ],
+          "JP-33": [
+            "Okayama",
+            "冈山县"
+          ],
+          "JP-34": [
+            "Hiroshima",
+            "广岛县"
+          ],
+          "JP-35": [
+            "Yamaguchi",
+            "山口县"
+          ],
+          "JP-36": [
+            "Tokushima",
+            "德岛县"
+          ],
+          "JP-37": [
+            "Kagawa",
+            "香川县"
+          ],
+          "JP-38": [
+            "Ehime",
+            "爱媛县"
+          ],
+          "JP-39": [
+            "Kochi",
+            "高知县"
+          ],
+          "JP-40": [
+            "Fukuoka",
+            "福冈县"
+          ],
+          "JP-41": [
+            "Saga",
+            "佐贺县"
+          ],
+          "JP-42": [
+            "Nagasaki",
+            "长崎县"
+          ],
+          "JP-43": [
+            "Kumamoto",
+            "熊本县"
+          ],
+          "JP-44": [
+            "Oita",
+            "大分县"
+          ],
+          "JP-45": [
+            "Miyazaki",
+            "宫崎县"
+          ],
+          "JP-46": [
+            "Kagoshima",
+            "鹿儿岛县"
+          ],
+          "JP-47": [
+            "Okinawa",
+            "冲绳县"
+          ]
+        }
+      },
+      "data": [
+        "data/jp/geo.js",
+        "data/jp/books.js",
+        "data/jp/places.js",
+        "data/jp/lines.js"
+      ],
+      "open": true,
+      "small_regions": [
+        "JP-13",
+        "JP-27",
+        "JP-37"
+      ],
+      "wash": {},
+      "frame": {
+        "JP-13": [
+          138.9,
+          35.45,
+          140.0,
+          35.92
+        ]
+      }
+    },
+    {
       "code": "ar",
       "iso": "ARG",
       "name": "Argentina",

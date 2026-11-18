@@ -1767,14 +1767,18 @@
     // a scene note (kind: "scene") is our own summary of a book still in copyright: shown in the page's
     // language, in plain upright type so it never reads as a quotation, and with no tag on the page
     const scene = l.kind === "scene";
+    // a Chinese original on the Chinese page is shown in Chinese first (our text_zh: the original in simplified
+    // characters), with the English one click away; everywhere else the quotation opens in English
+    const zhFirst = !scene && hasOrig && zh() && b.orig_lang === "zh";
     const body = scene
       ? `<blockquote class="is-scene" lang="${zh() ? "zh" : "en"}">${highlight(zh() ? l.text_zh : l.text_en, zh() ? l.highlight_zh : l.highlight_en)}</blockquote>`
+      : zhFirst ? `<blockquote lang="zh">${highlight(l.text_zh, l.highlight_zh)}</blockquote>`
       : `<blockquote lang="en">${highlight(l.text_en, l.highlight_en)}</blockquote>`;
     return `
       <figure class="quote" data-line="${l.id}">
         ${body}
         <figcaption class="cite">${citeTarget}${sep}${esc(lineLocation(l))}${note}</figcaption>
-        ${hasOrig ? `<button class="orig-toggle" data-orig="${l.id}">${t.showOriginal(langName(b.orig_lang))}</button>` : ""}
+        ${hasOrig ? `<button class="orig-toggle" data-orig="${l.id}">${zhFirst ? t.showEnglish : t.showOriginal(langName(b.orig_lang))}</button>` : ""}
       </figure>`;
   }
   let shelfPage = 0; // which page of the favourites shelf is showing
@@ -1844,6 +1848,10 @@
       q.setAttribute("lang", "en");
       q.innerHTML = highlight(l.text_en, l.highlight_en);
       btn.textContent = t.showOriginal(langName(b.orig_lang));
+    } else if (zh() && b.orig_lang === "zh") {
+      q.setAttribute("lang", "zh"); // back to the Chinese, in the simplified characters the page opened with
+      q.innerHTML = highlight(l.text_zh, l.highlight_zh);
+      btn.textContent = t.showEnglish;
     } else {
       q.setAttribute("lang", b.orig_lang);
       q.innerHTML = highlight(l.text_orig, l.highlight_orig);

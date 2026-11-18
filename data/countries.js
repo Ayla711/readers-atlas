@@ -299,6 +299,37 @@ window.RA_COUNTRIES = [
   "open": true
  },
  {
+  "code": "jp",
+  "iso": "JPN",
+  "name": "Japan",
+  "name_zh": "日本",
+  "short": "Japan",
+  "short_zh": "日本",
+  "region_term": {
+   "en": "prefecture",
+   "zh": "都道府县"
+  },
+  "bounds": [
+   122.8,
+   24.0,
+   146.0,
+   45.6
+  ],
+  "small_regions": [
+   "JP-13",
+   "JP-27",
+   "JP-37"
+  ],
+  "wash": {},
+  "data": [
+   "data/jp/geo.js",
+   "data/jp/books.js",
+   "data/jp/places.js",
+   "data/jp/lines.js"
+  ],
+  "open": true
+ },
+ {
   "code": "ar",
   "iso": "ARG",
   "name": "Argentina",

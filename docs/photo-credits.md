@@ -872,3 +872,45 @@
 | Rozhdestveno Manor | Pavlikhin | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ARozhdestveno_Manor_in_Leningrad_Oblast.jpg) |
 | Pushkin Monument, Moscow | Tothkaroj | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AStatue_of_Pushkin_%28Opekushin%29_01.JPG) |
 | Zamyatin House Museum, Lebedyan | Igor Gorbachev | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AZamyatin_House_in_Lebedyan.jpg) |
+| Izumo Taisha | Saigen Jiro | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3AHaiden_of_Izumo-taisha-1.JPG) |
+| Mount Kagu, Asuka | terumasa | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AKaguyama-mt.jpg) |
+| Kengamine, the summit of Mount Fuji | Alpsdake | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3AMount_Fuji_top_1992-08-08.jpg) |
+| Yatsuhashi, Chiryu | Asturio Cantabrio | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AChiryu_Yatsuhashi_Muryojuji_Iris_laevigata_ac_%281%29.JPG) |
+| Tosa Kokubun-ji, Nankoku | Naokijp | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ATosa_Kokubun-ji%2C_Main_Gate_01.jpg) |
+| Kyoto Imperial Palace | Saigen Jiro | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3AKyoto-gosho_Shishinden_zenkei-5.jpg) |
+| Uji Bridge | N yotarou | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AUji-bashi_06.jpg) |
+| Kazusa Kokubun-ji, Ichihara | Saigen Jiro | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3AKazusa-kokubunji_yakushi-dou-2.jpg) |
+| Shimogamo Shrine, Kyoto | Mochi at Japanese Wikipedia | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3AShimogamo_01.jpg) |
+| Akama Shrine, Shimonoseki | 설총 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AAkama_jingu_maingate.JPG) |
+| Ninna-ji, Kyoto | 先従隗始 | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3A%C5%8Cuchisan_Ninna-ji_Temple_20240309_52.jpg) |
+| Takadachi, Hiraizumi | 663highland | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A230728_Takadachi_Gikei-do_Hiraizumi_Iwate_pref_Japan03s3.jpg) |
+| Tsuyu no Tenjin (Ohatsu Tenjin), Osaka | Hyppolyte de Saint-Rambert | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AOhatsu_Tenjin_%28Osaka_Kita-ku%29_Shrine_hdsr_S5_t02.jpg) |
+| Sengaku-ji, Tokyo | Hyppolyte de Saint-Rambert | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ASengakuji_Hond%C5%8D.jpg) |
+| Kibitsu Shrine, Okayama | 次田和宏 | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A%E5%90%89%E5%82%99%E6%B4%A5%E7%A5%9E%E7%A4%BE%E5%9B%9E%E5%BB%8A_-_panoramio.jpg) |
+| Ichiyo Memorial Museum, Ryusenji | Daderot | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3AIchiyo_Memorial_Museum_-_Tokyo%2C_Japan_-_DSC06316.jpg) |
+| Yuigahama Beach, Kamakura | Klaasjeoranje | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AKamakura_Yuigahama_Beach_2024.jpg) |
+| Iiyama, Nagano | Bcd4e6 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AIiyama_in_winter.jpg) |
+| Kappa-buchi, Tono | KQuhen | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AKappa-buchi_01.jpg) |
+| Amo Pass, Hida | Alpsdake | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AAmo_Mountain_pass.jpg) |
+| Port of Hakodate | Ogawa Kazumasa | [Public domain](//commons.wikimedia.org/wiki/File:Port_of_Hakodate,_1897.jpg) | [Commons](https://commons.wikimedia.org/wiki/File%3APort_of_Hakodate%2C_1897.jpg) |
+| Ganryujima, Shimonoseki | RoninjapanWiki | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AStatue_of_Musashi_%26_Kojir%C5%8D_battle.jpg) |
+| Kaminarimon, Asakusa | Ken Eckert | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AKaminari_Gate%2C_Asakusa%2C_Tokyo.jpg) |
+| Old Amagi Tunnel, Izu | Katorisi | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AOld_Amagi_tunnel_Izu_city_side_entrance%2CIzu_city%2CJapan.jpg) |
+| Site of the Rajomon, Kyoto | Saigen Jiro | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3AHeijo-kyo%2C_Rajo-mon-2.jpg) |
+| Ashiya River | studio IRONY | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AAshiya_River%EF%BC%9A%E8%8A%A6%E5%B1%8B%E5%B7%9D_-_panoramio.jpg) |
+| Takahan Ryokan, Echigo-Yuzawa | Syced | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3ATakahan_Ryokan.jpg) |
+| Shayokan, Kanagi | 掬茶 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AShay%C5%8Dkan_the_birthhouse_of_Osamu_Dazai.jpg) |
+| Kinkaku-ji, Kyoto | Jaycangel | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AKinkaku-ji_the_Golden_Temple_in_Kyoto_overlooking_the_lake_-_high_rez.JPG) |
+| Ensho-ji, Nara | Misakubo | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AEnshouji_gate.JPG) |
+| Atomic Bomb Dome, Hiroshima | DXR | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AAtomic_Bomb_Dome%2C_Hiroshima%2C_South_view_20190417_1.jpg) |
+| Endo Shusaku Literary Museum, Sotome | Indiana jo | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A%E9%81%A0%E8%97%A4%E5%91%A8%E4%BD%9C%E3%80%8E%E6%B2%88%E9%BB%99%E3%80%8F%E3%81%AE%E7%A2%91.jpg) |
+| Waseda International House of Literature (Murakami Library) | Bea Phi | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AWaseda_International_House_of_Literature_06.jpg) |
+| Osaka | Martin Falbisoner | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AOsaka_Castle_Outer_Moat_and_Osaka_Business_Park%2C_November_2016.jpg) |
+| Kiyosu Bridge, Tokyo | Higa4 | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3AKiyosu-bashi_03.jpg) |
+| Tokyo | David Kernan | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AMinato_City%2C_Tokyo%2C_Japan.jpg) |
+| Anjinzuka, Yokosuka | Mccapra | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AMemorial_to_William_Adams_%28Anjin_san%29_and_his_wife_01.jpg) |
+| Shukkeien Garden, Hiroshima | Hyppolyte de Saint-Rambert | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AHiroshima_Shukkeien_hdsr_Garden_S5_27.jpg) |
+| Gion, Kyoto | MichaelMaggs | [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5) | [Commons](https://commons.wikimedia.org/wiki/File%3AShirakara_Canal%2C_Gion%2C_Kyoto.jpg) |
+| Tarumi, Kobe | 夢の散歩 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ASun_Yat-sen_Memorial_Hall_in_Kobe%2C_2008.jpg) |
+| Tsuruhashi (Ikaino), Osaka | Naokijp | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AOsaka_Ikuno_Korea_Town_001.jpg) |
+| Dejima, Nagasaki | Jakub Hałun | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AView_of_the_Former_Dutch_Trading_Post_on_Dejima_from_Tamae_Bridge%2C_Nagasaki%2C_20240815_1459_3716.jpg) |

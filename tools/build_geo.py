@@ -265,7 +265,8 @@ def build_country(cfg):
             "id": rid, "name": en, "name_zh": zh,
             "outline": lines,
             "centroid": [round(cent[rid][0] / a, 3), round(cent[rid][1] / a, 3)],
-            "bbox": [round(v, 3) for v in bbox[rid]],
+            # "frame" overrides the box the region view zooms to, e.g. Tokyo without its Pacific islands
+            "bbox": cfg.get("frame", {}).get(rid) or [round(v, 3) for v in bbox[rid]],
         })
     out = {"country": cfg["code"], "regions": regions, "units": units}
     with open(OUT, "w", encoding="utf-8") as fh:
