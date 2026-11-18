@@ -235,6 +235,37 @@ window.RA_COUNTRIES = [
   "open": true
  },
  {
+  "code": "es",
+  "iso": "ESP",
+  "name": "Spain",
+  "name_zh": "西班牙",
+  "short": "Spain",
+  "short_zh": "西班牙",
+  "region_term": {
+   "en": "autonomous community",
+   "zh": "自治区"
+  },
+  "bounds": [
+   -9.5,
+   35.8,
+   4.5,
+   43.9
+  ],
+  "small_regions": [
+   "ES-CE",
+   "ES-ML",
+   "ES-RI"
+  ],
+  "wash": {},
+  "data": [
+   "data/es/geo.js",
+   "data/es/books.js",
+   "data/es/places.js",
+   "data/es/lines.js"
+  ],
+  "open": true
+ },
+ {
   "code": "ar",
   "iso": "ARG",
   "name": "Argentina",

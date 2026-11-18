@@ -876,6 +876,178 @@
       "wash": {}
     },
     {
+      "code": "es",
+      "iso": "ESP",
+      "name": "Spain",
+      "name_zh": "西班牙",
+      "short": "Spain",
+      "short_zh": "西班牙",
+      "region_term": {
+        "en": "autonomous community",
+        "zh": "自治区"
+      },
+      "bounds": [
+        -9.5,
+        35.8,
+        4.5,
+        43.9
+      ],
+      "step": 0.02,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "adm1_code",
+            "map": {
+              "ESP-5815": "ES-CE",
+              "ESP-5835": "ES-ML",
+              "ESP-5837": "ES-NC",
+              "ESP-5823": "ES-PV",
+              "ESP-5825": "ES-AR",
+              "ESP-5831": "ES-CT",
+              "ESP-5820": "ES-CT",
+              "ESP-5807": "ES-EX",
+              "ESP-5812": "ES-AN",
+              "ESP-5838": "ES-GA",
+              "ESP-5811": "ES-EX",
+              "ESP-5841": "ES-CL",
+              "ESP-5852": "ES-CL",
+              "ESP-5840": "ES-GA",
+              "ESP-5824": "ES-AN",
+              "ESP-5809": "ES-CT",
+              "ESP-5846": "ES-CT",
+              "ESP-5814": "ES-VC",
+              "ESP-5849": "ES-VC",
+              "ESP-5803": "ES-VC",
+              "ESP-5836": "ES-MC",
+              "ESP-5804": "ES-AN",
+              "ESP-5821": "ES-AN",
+              "ESP-5834": "ES-AN",
+              "ESP-5844": "ES-AN",
+              "ESP-5827": "ES-GA",
+              "ESP-5832": "ES-GA",
+              "ESP-5805": "ES-AS",
+              "ESP-5813": "ES-CB",
+              "ESP-5851": "ES-PV",
+              "ESP-5842": "ES-CN",
+              "ESP-5829": "ES-CN",
+              "ESP-5808": "ES-IB",
+              "ESP-5853": "ES-AR",
+              "ESP-5828": "ES-RI",
+              "ESP-5801": "ES-PV",
+              "ESP-5802": "ES-CM",
+              "ESP-5847": "ES-AR",
+              "ESP-5818": "ES-CM",
+              "ESP-5848": "ES-CM",
+              "ESP-5830": "ES-CL",
+              "ESP-5845": "ES-CL",
+              "ESP-5810": "ES-CL",
+              "ESP-5806": "ES-CL",
+              "ESP-5839": "ES-CL",
+              "ESP-5816": "ES-CM",
+              "ESP-5817": "ES-AN",
+              "ESP-5822": "ES-CM",
+              "ESP-5826": "ES-AN",
+              "ESP-5833": "ES-MD",
+              "ESP-5843": "ES-CL",
+              "ESP-5850": "ES-CL"
+            }
+          }
+        ],
+        "names": {
+          "ES-AN": [
+            "Andalusia",
+            "安达卢西亚"
+          ],
+          "ES-AR": [
+            "Aragon",
+            "阿拉贡"
+          ],
+          "ES-AS": [
+            "Asturias",
+            "阿斯图里亚斯"
+          ],
+          "ES-CN": [
+            "Canary Islands",
+            "加那利群岛"
+          ],
+          "ES-CB": [
+            "Cantabria",
+            "坎塔布里亚"
+          ],
+          "ES-CM": [
+            "Castilla–La Mancha",
+            "卡斯蒂利亚－拉曼恰"
+          ],
+          "ES-CL": [
+            "Castile and León",
+            "卡斯蒂利亚－莱昂"
+          ],
+          "ES-CT": [
+            "Catalonia",
+            "加泰罗尼亚"
+          ],
+          "ES-EX": [
+            "Extremadura",
+            "埃斯特雷马杜拉"
+          ],
+          "ES-GA": [
+            "Galicia",
+            "加利西亚"
+          ],
+          "ES-IB": [
+            "Balearic Islands",
+            "巴利阿里群岛"
+          ],
+          "ES-RI": [
+            "La Rioja",
+            "拉里奥哈"
+          ],
+          "ES-MD": [
+            "Madrid",
+            "马德里"
+          ],
+          "ES-MC": [
+            "Murcia",
+            "穆尔西亚"
+          ],
+          "ES-NC": [
+            "Navarre",
+            "纳瓦拉"
+          ],
+          "ES-PV": [
+            "Basque Country",
+            "巴斯克"
+          ],
+          "ES-VC": [
+            "Valencia",
+            "瓦伦西亚"
+          ],
+          "ES-CE": [
+            "Ceuta",
+            "休达"
+          ],
+          "ES-ML": [
+            "Melilla",
+            "梅利利亚"
+          ]
+        }
+      },
+      "data": [
+        "data/es/geo.js",
+        "data/es/books.js",
+        "data/es/places.js",
+        "data/es/lines.js"
+      ],
+      "open": true,
+      "small_regions": [
+        "ES-CE",
+        "ES-ML",
+        "ES-RI"
+      ],
+      "wash": {}
+    },
+    {
       "code": "ar",
       "iso": "ARG",
       "name": "Argentina",
