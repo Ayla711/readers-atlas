@@ -266,6 +266,39 @@ window.RA_COUNTRIES = [
   "open": true
  },
  {
+  "code": "ru",
+  "iso": "RUS",
+  "name": "Russia",
+  "name_zh": "俄罗斯",
+  "short": "Russia",
+  "short_zh": "俄罗斯",
+  "region_term": {
+   "en": "federal subject",
+   "zh": "联邦主体"
+  },
+  "bounds": [
+   19.6,
+   41.1,
+   180.0,
+   82.0
+  ],
+  "small_regions": [
+   "RU-MOS",
+   "RU-SPE",
+   "RU-SEV",
+   "RU-IN",
+   "RU-AD"
+  ],
+  "wash": {},
+  "data": [
+   "data/ru/geo.js",
+   "data/ru/books.js",
+   "data/ru/places.js",
+   "data/ru/lines.js"
+  ],
+  "open": true
+ },
+ {
   "code": "ar",
   "iso": "ARG",
   "name": "Argentina",
