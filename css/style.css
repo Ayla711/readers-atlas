@@ -394,6 +394,12 @@ body:not(.panel-closed) .panel-handle, body.intro-running .panel-handle { opacit
   font-size: 11px; font-weight: 600; color: var(--ink); white-space: nowrap;
 }
 .lang-toggle:hover { border-color: var(--border-core); }
+/* account button, left of the language toggle (js/cloud.js); a small dot once signed in */
+.row-tools { flex: none; display: flex; gap: 6px; }
+.account-btn.is-in::before { content: ""; display: inline-block; width: 6px; height: 6px; margin-right: 5px; border-radius: 50%; background: var(--postage); vertical-align: 1px; }
+.account-dialog .acct-line { margin: 0 0 14px; font-size: 13px; line-height: 1.5; color: var(--ink-body); overflow-wrap: anywhere; }
+.account-dialog .acct-msg { margin: 0 0 12px; font-size: 12.5px; line-height: 1.45; color: var(--postage-deep); }
+.account-dialog input { width: 100%; box-sizing: border-box; }
 
 /* ---------- reading panel body ---------- */
 .reader { flex: 1; min-height: 0; overflow-y: auto; overflow-x: hidden; overscroll-behavior: contain; padding: 16px 20px 32px; }
