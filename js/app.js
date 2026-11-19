@@ -1822,7 +1822,20 @@
       RS.save();
       return refresh();
     }
-    if (t.dataset.trip) return openTripDialog(t.dataset.trip);
+    if (t.dataset.trip) {
+      // a place with a visit planned: the same button cancels it (one dated visit can still be removed from the list below)
+      const pid = t.dataset.trip, dates = me.itinerary.filter((x) => x.place_id === pid).map((x) => x.date).sort();
+      if (!dates.length) return openTripDialog(pid);
+      ask(T().tripUnplanAsk(dates), T().tripUnplanYes, T().tripKeep).then((yes) => {
+        if (!yes) return;
+        for (let i = me.itinerary.length - 1; i >= 0; i--) if (me.itinerary[i].place_id === pid) me.itinerary.splice(i, 1);
+        RS.save();
+        syncFlags();
+        updateMarkers();
+        refresh();
+      });
+      return;
+    }
     if (t.dataset.removeTrip != null) {
       me.itinerary.splice(Number(t.dataset.removeTrip), 1);
       RS.save();
@@ -2364,11 +2377,11 @@
 
   // ----- confirm (in-page, no browser dialogs) -----
   let askResolve = null;
-  function ask(message, yesLabel) {
+  function ask(message, yesLabel, noLabel) {
     const t = T();
     document.getElementById("ask-msg").textContent = message;
     document.getElementById("ask-yes").textContent = yesLabel;
-    document.getElementById("ask-no").textContent = t.cancel;
+    document.getElementById("ask-no").textContent = noLabel || t.cancel;
     askDialog.showModal();
     return new Promise((r) => { askResolve = r; });
   }
