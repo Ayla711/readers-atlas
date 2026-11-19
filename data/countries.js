@@ -330,6 +330,66 @@ window.RA_COUNTRIES = [
   "open": true
  },
  {
+  "code": "ie",
+  "iso": "IRL",
+  "name": "Ireland",
+  "name_zh": "爱尔兰",
+  "short": "Ireland",
+  "short_zh": "爱尔兰",
+  "region_term": {
+   "en": "county",
+   "zh": "郡"
+  },
+  "bounds": [
+   -10.7,
+   51.3,
+   -5.9,
+   55.5
+  ],
+  "small_regions": [
+   "IE-D",
+   "IE-LH",
+   "IE-CW"
+  ],
+  "wash": {},
+  "data": [
+   "data/ie/geo.js",
+   "data/ie/books.js",
+   "data/ie/places.js",
+   "data/ie/lines.js"
+  ],
+  "open": true
+ },
+ {
+  "code": "gr",
+  "iso": "GRC",
+  "name": "Greece",
+  "name_zh": "希腊",
+  "short": "Greece",
+  "short_zh": "希腊",
+  "region_term": {
+   "en": "region",
+   "zh": "大区"
+  },
+  "bounds": [
+   19.2,
+   34.7,
+   29.8,
+   41.8
+  ],
+  "small_regions": [
+   "GR-69"
+  ],
+  "wash": {},
+  "data": [
+   "data/gr/geo.js",
+   "data/gr/books.js",
+   "data/gr/places.js",
+   "data/gr/lines.js"
+  ],
+  "open": true
+ },
+ {
   "code": "ar",
   "iso": "ARG",
   "name": "Argentina",

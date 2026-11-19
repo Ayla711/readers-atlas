@@ -1808,6 +1808,300 @@
       }
     },
     {
+      "code": "ie",
+      "iso": "IRL",
+      "name": "Ireland",
+      "name_zh": "爱尔兰",
+      "short": "Ireland",
+      "short_zh": "爱尔兰",
+      "region_term": {
+        "en": "county",
+        "zh": "郡"
+      },
+      "bounds": [
+        -10.7,
+        51.3,
+        -5.9,
+        55.5
+      ],
+      "step": 0.004,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "adm1_code",
+            "map": {
+              "IRL-76": "IE-CE",
+              "IRL-79": "IE-CN",
+              "IRL-78": "IE-CO",
+              "IRL-5569": "IE-CO",
+              "IRL-77": "IE-CW",
+              "IRL-5575": "IE-D",
+              "IRL-5576": "IE-D",
+              "IRL-5574": "IE-D",
+              "IRL-5573": "IE-D",
+              "IRL-729": "IE-DL",
+              "IRL-713": "IE-G",
+              "IRL-5568": "IE-G",
+              "IRL-721": "IE-KE",
+              "IRL-722": "IE-KK",
+              "IRL-725": "IE-KY",
+              "IRL-731": "IE-LD",
+              "IRL-712": "IE-LH",
+              "IRL-726": "IE-LK",
+              "IRL-5570": "IE-LK",
+              "IRL-730": "IE-LM",
+              "IRL-723": "IE-LS",
+              "IRL-715": "IE-MH",
+              "IRL-3412": "IE-MN",
+              "IRL-714": "IE-MO",
+              "IRL-716": "IE-OY",
+              "IRL-727": "IE-RN",
+              "IRL-728": "IE-SO",
+              "IRL-724": "IE-TA",
+              "IRL-5572": "IE-TA",
+              "IRL-1444": "IE-WD",
+              "IRL-5571": "IE-WD",
+              "IRL-717": "IE-WH",
+              "IRL-719": "IE-WW",
+              "IRL-718": "IE-WX"
+            }
+          }
+        ],
+        "names": {
+          "IE-CE": [
+            "Clare",
+            "克莱尔郡"
+          ],
+          "IE-CN": [
+            "Cavan",
+            "卡文郡"
+          ],
+          "IE-CO": [
+            "Cork",
+            "科克郡"
+          ],
+          "IE-CW": [
+            "Carlow",
+            "卡洛郡"
+          ],
+          "IE-D": [
+            "Dublin",
+            "都柏林郡"
+          ],
+          "IE-DL": [
+            "Donegal",
+            "多尼戈尔郡"
+          ],
+          "IE-G": [
+            "Galway",
+            "戈尔韦郡"
+          ],
+          "IE-KE": [
+            "Kildare",
+            "基尔代尔郡"
+          ],
+          "IE-KK": [
+            "Kilkenny",
+            "基尔肯尼郡"
+          ],
+          "IE-KY": [
+            "Kerry",
+            "凯里郡"
+          ],
+          "IE-LD": [
+            "Longford",
+            "朗福德郡"
+          ],
+          "IE-LH": [
+            "Louth",
+            "劳斯郡"
+          ],
+          "IE-LK": [
+            "Limerick",
+            "利默里克郡"
+          ],
+          "IE-LM": [
+            "Leitrim",
+            "利特里姆郡"
+          ],
+          "IE-LS": [
+            "Laois",
+            "莱伊什郡"
+          ],
+          "IE-MH": [
+            "Meath",
+            "米斯郡"
+          ],
+          "IE-MN": [
+            "Monaghan",
+            "莫纳亨郡"
+          ],
+          "IE-MO": [
+            "Mayo",
+            "梅奥郡"
+          ],
+          "IE-OY": [
+            "Offaly",
+            "奥法利郡"
+          ],
+          "IE-RN": [
+            "Roscommon",
+            "罗斯康芒郡"
+          ],
+          "IE-SO": [
+            "Sligo",
+            "斯莱戈郡"
+          ],
+          "IE-TA": [
+            "Tipperary",
+            "蒂珀雷里郡"
+          ],
+          "IE-WD": [
+            "Waterford",
+            "沃特福德郡"
+          ],
+          "IE-WH": [
+            "Westmeath",
+            "韦斯特米斯郡"
+          ],
+          "IE-WW": [
+            "Wicklow",
+            "威克洛郡"
+          ],
+          "IE-WX": [
+            "Wexford",
+            "韦克斯福德郡"
+          ]
+        }
+      },
+      "data": [
+        "data/ie/geo.js",
+        "data/ie/books.js",
+        "data/ie/places.js",
+        "data/ie/lines.js"
+      ],
+      "open": true,
+      "small_regions": [
+        "IE-D",
+        "IE-LH",
+        "IE-CW"
+      ],
+      "wash": {}
+    },
+    {
+      "code": "gr",
+      "iso": "GRC",
+      "name": "Greece",
+      "name_zh": "希腊",
+      "short": "Greece",
+      "short_zh": "希腊",
+      "region_term": {
+        "en": "region",
+        "zh": "大区"
+      },
+      "bounds": [
+        19.2,
+        34.7,
+        29.8,
+        41.8
+      ],
+      "step": 0.004,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "adm1_code",
+            "map": {
+              "GRC-3001": "GR-A",
+              "GRC-2991": "GR-B",
+              "GRC-2892": "GR-C",
+              "GRC-2949": "GR-D",
+              "GRC-2900": "GR-E",
+              "GRC-2883": "GR-F",
+              "GRC-2886": "GR-G",
+              "GRC-2989": "GR-H",
+              "GRC-2884": "GR-I",
+              "GRC-2885": "GR-J",
+              "GRC-2988": "GR-K",
+              "GRC-3013": "GR-L",
+              "GRC-2990": "GR-M",
+              "GRC-2992": "GR-69"
+            }
+          }
+        ],
+        "names": {
+          "GR-A": [
+            "East Macedonia and Thrace",
+            "东马其顿和色雷斯"
+          ],
+          "GR-B": [
+            "Central Macedonia",
+            "中马其顿"
+          ],
+          "GR-C": [
+            "West Macedonia",
+            "西马其顿"
+          ],
+          "GR-D": [
+            "Epirus",
+            "伊庇鲁斯"
+          ],
+          "GR-E": [
+            "Thessaly",
+            "色萨利"
+          ],
+          "GR-F": [
+            "Ionian Islands",
+            "爱奥尼亚群岛"
+          ],
+          "GR-G": [
+            "West Greece",
+            "西希腊"
+          ],
+          "GR-H": [
+            "Central Greece",
+            "中希腊"
+          ],
+          "GR-I": [
+            "Attica",
+            "阿提卡"
+          ],
+          "GR-J": [
+            "Peloponnese",
+            "伯罗奔尼撒"
+          ],
+          "GR-K": [
+            "North Aegean",
+            "北爱琴"
+          ],
+          "GR-L": [
+            "South Aegean",
+            "南爱琴"
+          ],
+          "GR-M": [
+            "Crete",
+            "克里特"
+          ],
+          "GR-69": [
+            "Mount Athos",
+            "阿索斯山"
+          ]
+        }
+      },
+      "data": [
+        "data/gr/geo.js",
+        "data/gr/books.js",
+        "data/gr/places.js",
+        "data/gr/lines.js"
+      ],
+      "open": true,
+      "small_regions": [
+        "GR-69"
+      ],
+      "wash": {}
+    },
+    {
       "code": "ar",
       "iso": "ARG",
       "name": "Argentina",
