@@ -161,13 +161,18 @@ def norm(s):
     s = s.replace("_", "")
     s = re.sub(r"\s*--\s*", "—", s)
     return s
+CJK = "\u3000-\u303f\u3400-\u9fff\uf900-\ufaff\uff00-\uffef"  # CJK characters and full-width punctuation
+def bare(s):
+    """no whitespace at all: Gutenberg wraps Chinese text mid-sentence, and Chinese has no spaces to keep"""
+    return re.sub(r"\s+", "", norm(s))
 def flat(s):
     return re.sub(r"\s+", " ", norm(s)).strip()
 def reflow(s, english=True):
     """Gutenberg hard wraps -> the app's convention: one line per paragraph, paragraphs joined by a newline.
     English text also gets the app's straight quotes; an original in another language keeps its own punctuation"""
     paras = re.split(r"\n\s*\n", (norm(s) if english else s.replace("\r", "")).strip())
-    return "\n".join(re.sub(r"\s+", " ", p).strip() for p in paras if p.strip())
+    out = "\n".join(re.sub(r"\s+", " ", p).strip() for p in paras if p.strip())
+    return out if english else re.sub(rf"(?<=[{CJK}])\s+(?=[{CJK}])", "", out)  # Chinese and Japanese: no spaces between characters
 PG_DIR = os.path.join(APP, "cache", "pg")
 _pg = {}
 def gutenberg(n):
@@ -188,7 +193,9 @@ def gutenberg(n):
             return None
     raw = open(path, encoding="utf-8", errors="replace").read()
     _pg[n] = (flat(raw), loose(raw))
+    if re.search(f"[{CJK}]", raw[:200000]): _bare[n] = bare(raw)
     return _pg[n]
+_bare = {}  # Gutenberg number -> the text with all whitespace removed, for texts in Chinese
 def in_order(piece, lenient, gap=120):
     """each line of a multi-line text found in order, with at most `gap` characters between (a heading, a stage
     direction or a speaker's name the quotation leaves out)"""
@@ -239,6 +246,8 @@ def check_text(l, field, src):
     for piece in re.split(r"\s*…\s*", l[field]):
         if not flat(piece) or flat(piece) in strict:
             continue
+        if src["id"] in _bare and re.search(f"[{CJK}]", piece) and bare(piece) in _bare[src["id"]]:
+            continue  # Chinese: the same characters and punctuation, Gutenberg's line wraps aside
         if loose(piece) in lenient or in_order(piece, lenient):
             how = "loose"
             continue
@@ -384,12 +393,21 @@ for b in books:
 
 # ---------- 9 photos ----------
 OK_LICENSE = re.compile(r"^(CC BY(-SA)? [0-9.]+( [a-z]+)?|CC0|Public domain|PD|Attribution|CC BY(-SA)?)", re.I)
+HTTP_CACHE = os.path.join(APP, "cache", "http")  # Commons pages and thumbnails already fetched: a run cut short by
+                                                 # throttling picks up where it stopped instead of starting over
 def get(url, binary=False):
+    import hashlib
+    cached = os.path.join(HTTP_CACHE, hashlib.sha1(url.encode()).hexdigest())
+    if os.path.exists(cached):
+        data = open(cached, "rb").read()
+        return data if binary else data.decode("utf-8", "replace")
     for i in range(4):
         try:
             with urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": UA}), timeout=40) as r:
                 data = r.read()
             time.sleep(1.2)
+            os.makedirs(HTTP_CACHE, exist_ok=True)
+            open(cached, "wb").write(data)
             return data if binary else data.decode("utf-8", "replace")
         except urllib.error.HTTPError as e:
             if e.code == 429:   # throttled: wait longer each time
