@@ -1623,7 +1623,7 @@
     show(h(`
       <div class="intro">
         <h2>${t.introTitle}</h2>
-        <p class="sub">${(() => { const m = mounted.get(cur().code); return m ? t.introSub(countryShort(), new Set([...m.data.lines.map((l) => l.book_id), ...m.data.places.flatMap((p) => p.book_ids || [])]).size, m.data.lines.length, m.data.places.length) : ""; })()}</p>
+        <p class="sub">${(() => { const w = window.RA_WORLD_STATS; if (state.world && w) return t.introWorld(w.countries, w.books, w.lines, w.places); const m = mounted.get(cur().code); return m ? t.introSub(countryShort(), new Set([...m.data.lines.map((l) => l.book_id), ...m.data.places.flatMap((p) => p.book_ids || [])]).size, m.data.lines.length, m.data.places.length) : ""; })()}</p>
         <div class="play-cards">
           <button class="feature-card" data-tab="travel">
             <span class="fc-eyebrow">${t.cardTravelEyebrow}</span>

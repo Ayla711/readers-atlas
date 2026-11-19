@@ -49,6 +49,7 @@ window.RA_I18N = {
     tipWish: " · on your wishlist",
     introTitle: "Start from a line, arrive at a place",
     introSub: (c, b, l, p) => `${RA_CAP(RA_THE(c))} so far: ${b} books, ${l} excerpts and ${p} places.`,
+    introWorld: (n, b, l, p) => `So far: ${n} countries, ${b} books, ${l} excerpts and ${p} places.`,
     introSteps: [
       "Click a region on the map to see the places that made it into books.",
       "Click a marker to read the lines written about it. Works not first written in modern English can be switched to the original text.",
@@ -239,6 +240,7 @@ window.RA_I18N = {
     tipWish: " · 在心愿单里",
     introTitle: "从一句话出发，去一个地方",
     introSub: (c, b, l, p) => `目前收录${c} ${b} 本书、${l} 条摘句、${p} 个地点。`,
+    introWorld: (n, b, l, p) => `目前收录 ${n} 个国家，${b} 本书、${l} 条摘句、${p} 个地点。`,
     introSteps: [
       "点击地图上的一个大区，看那里写进书里的地方。",
       "点一个标记，读写到它的句子；外语原作可以切换看原文。",

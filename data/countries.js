@@ -732,3 +732,5 @@ window.RA_COUNTRIES = [
   "open": true
  }
 ];
+// Totals over every open country, for the world page.
+window.RA_WORLD_STATS = {"countries": 24, "books": 1073, "lines": 1053, "places": 1177};
