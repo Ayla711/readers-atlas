@@ -209,7 +209,11 @@
 <g clip-path="url(#${id}c)"><g transform="translate(32 35) scale(1.13) translate(-32 -35)"><g filter="url(#${id}b)">${a.fur()}</g>${a.soft ? `<g filter="url(#${id}s)">${a.soft()}</g>` : ""}${a.face()}</g></g>
 <circle cx="32" cy="32" r="30.2" fill="none" stroke="#b08d57" stroke-width=".7" filter="url(#${id}r)"/>${a.over ? `<g transform="translate(32 35) scale(1.13) translate(-32 -35)" filter="url(#${id}b)">${a.over()}</g>` : ""}</svg>`;
   }
-  portrait.keys = KEYS;
+  // the order they are offered in (six to a row). KEYS keeps the order they were painted in, which seeds each one's brush texture.
+  const ORDER = ["fox", "cat", "rabbit", "deer", "blackdog", "wolf",
+    "bear", "dog", "sheep", "panda", "koala", "pig",
+    "hedgehog", "cow", "mouse", "giraffe", "tuxcat", "capybara"];
+  portrait.keys = ORDER.filter((k) => A[k]).concat(KEYS.filter((k) => !ORDER.includes(k)));
   portrait.label = (key, zh) => (A[key] ? (zh ? A[key].zh : A[key].en) : "");
   portrait.pick = (seed) => { let h = 2166136261; for (let i = 0; i < seed.length; i++) { h ^= seed.charCodeAt(i); h = Math.imul(h, 16777619); } return KEYS[(h >>> 0) % KEYS.length]; };
   window.RA_PORTRAIT = portrait;

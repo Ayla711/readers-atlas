@@ -59,7 +59,7 @@
         <p class="acct-line acct-email">${esc(user.email)}</p>
         <p class="acct-label">${t.acctChoose}</p>
         <div class="acct-choices" role="radiogroup" aria-label="${t.acctChoose}">${P.keys.map((k) => `<button type="button" role="radio" aria-checked="${k === mine()}" aria-label="${P.label(k, zh())}" title="${P.label(k, zh())}" data-pick="${k}">${P(k, 38)}</button>`).join("")}</div>
-        <div class="dialog-actions"><button type="button" class="ghost" data-acct="out">${t.acctSignOut}</button><button value="close" class="dark">${t.acctClose}</button></div></form>`;
+        <div class="dialog-actions"><button type="button" class="ghost" data-acct="out">${t.acctSignOut}</button><button type="button" class="dark" data-acct="close">${t.acctClose}</button></div></form>`;
       return;
     }
     if (view === "code") {
@@ -109,11 +109,12 @@
   });
   if (btn) btn.addEventListener("click", () => { view = "account"; message = ""; pending = null; paint(); dlg.showModal(); });
   dlg.addEventListener("submit", async (e) => {
+    // only the two sign-in forms are handled here; the account card has nothing to submit
+    if (e.target.id !== "account-email" && e.target.id !== "account-code") return;
     e.preventDefault();
     const t = T(), go = document.getElementById("account-go");
     go.disabled = true;
     let error = null;
-    if (e.target.id !== "account-email" && e.target.id !== "account-code") return;
     if (e.target.id === "account-email") {
       email = e.target.email.value.trim();
       go.textContent = t.acctSending;
