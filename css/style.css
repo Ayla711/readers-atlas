@@ -44,6 +44,9 @@
   --map-label-water: #2c3a33;
   --map-halo: #f9f1dc;
   --map-label-deep: #4a302b; /* map-label darkened for text that can sit over water (5.3:1 on --map-water) */
+  /* sepia: the map labels' brown, as the ground of the dark button (paper-raised text on it: 8.4:1; pressed, on sepia-deep: 11.8:1) */
+  --sepia: var(--map-label);
+  --sepia-deep: var(--map-label-deep);
   /* names the map and opening animation read from JS (js/app.js, js/intro.js) */
   --sea: var(--map-water);
   --world-land: #efe2c2;
@@ -394,12 +397,26 @@ body:not(.panel-closed) .panel-handle, body.intro-running .panel-handle { opacit
   font-size: 11px; font-weight: 600; color: var(--ink); white-space: nowrap;
 }
 .lang-toggle:hover { border-color: var(--border-core); }
-/* account button, left of the language toggle (js/cloud.js); a small dot once signed in */
-.row-tools { flex: none; display: flex; gap: 6px; }
-.account-btn.is-in::before { content: ""; display: inline-block; width: 6px; height: 6px; margin-right: 5px; border-radius: 50%; background: var(--postage); vertical-align: 1px; }
+/* account (js/cloud.js): the sign-in dialog and the sign-in card on My travels / My books */
 .account-dialog .acct-line { margin: 0 0 14px; font-size: 13px; line-height: 1.5; color: var(--ink-body); overflow-wrap: anywhere; }
 .account-dialog .acct-msg { margin: 0 0 12px; font-size: 12.5px; line-height: 1.45; color: var(--postage-deep); }
 .account-dialog input { width: 100%; box-sizing: border-box; }
+.account-dialog input.acct-code { font-family: var(--f-mono); font-size: 18px; letter-spacing: 0.3em; text-align: center; height: 40px; }
+.acct-card p { margin: 0 0 12px; font-size: 13px; line-height: 1.5; color: var(--ink-body); }
+.acct-card .actions { margin: 0; }
+/* signed in: the reader's portrait, right of the language toggle */
+.row-tools { flex: none; display: flex; align-items: center; gap: 8px; margin-bottom: 4px; }
+.row-tools .lang-toggle { margin-bottom: 0; }
+.account-btn { flex: none; width: 28px; height: 28px; padding: 0; border: 0; border-radius: 50%; background: none; line-height: 0; cursor: pointer; }
+.account-btn[hidden] { display: none; }
+.account-btn:hover { box-shadow: 0 0 0 2px var(--paper-line); }
+.acct-portrait { display: grid; justify-items: center; gap: 6px; margin: 4px 0 12px; }
+.account-dialog .acct-email { text-align: center; margin-bottom: 16px; }
+.acct-label { margin: 0 0 8px; font-size: 11px; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
+.acct-choices { display: grid; grid-template-columns: repeat(6, 1fr); gap: 8px 4px; justify-items: center; margin-bottom: 18px; }
+.acct-choices button { width: 38px; height: 38px; padding: 0; border: 0; border-radius: 50%; background: none; line-height: 0; cursor: pointer; }
+.acct-choices button:hover { box-shadow: 0 0 0 2px var(--paper-line); }
+.acct-choices button[aria-checked="true"] { box-shadow: 0 0 0 2px var(--paper), 0 0 0 4px var(--border-core); }
 
 /* ---------- reading panel body ---------- */
 .reader { flex: 1; min-height: 0; overflow-y: auto; overflow-x: hidden; overscroll-behavior: contain; padding: 16px 20px 32px; }
@@ -471,6 +488,9 @@ body:not(.panel-closed) .panel-handle, body.intro-running .panel-handle { opacit
 .solid:hover { background: var(--postage-deep); }
 .ghost { height: 34px; background: var(--paper-raised); border: 1px solid var(--paper-line); border-radius: var(--radius-md); padding: 0 16px; font-weight: 600; }
 .ghost:hover { border-color: var(--ink-soft); }
+/* the dark button: a dialog's standing way out when nothing is being committed (Close, Done). Red (.solid) stays for commitments. */
+.dark { height: 34px; background: var(--sepia); color: var(--paper-raised); border: 0; border-radius: var(--radius-md); padding: 0 16px; font-weight: 600; }
+.dark:hover { background: var(--sepia-deep); }
 
 /* a literature line (design system: LiteratureLine) */
 .quote {

@@ -1583,6 +1583,23 @@
     rerender();
     syncRoute();
   }
+  // ---------- account gate (js/cloud.js) ----------
+  // Looking is free; keeping something (a flag, a trip, a shelf mark, a note, a diary entry) asks the reader to sign
+  // in first. After signing in, the control they had pressed is pressed for them. Opened as a local file the app has
+  // no account and everything stays in this browser, as before.
+  const CLOUD = window.RA_CLOUD;
+  const locked = () => !!(CLOUD && CLOUD.gated && !CLOUD.user());
+  function needSignIn(el) {
+    if (!locked()) return false;
+    const sel = el.tagName.toLowerCase() + [...el.attributes].filter((a) => a.name.startsWith("data-")).map((a) => `[${a.name}="${a.value.replace(/["\\]/g, "\\$&")}"]`).join("");
+    CLOUD.require(el.dataset.note ? T().notesLabel : el.textContent.trim(), () => {
+      const n = document.querySelector(sel);
+      if (n) n.dataset.note ? n.focus() : n.click();
+    });
+    return true;
+  }
+  document.addEventListener("focusin", (e) => { if (e.target.dataset && e.target.dataset.note && needSignIn(e.target)) e.target.blur(); });
+  if (CLOUD) CLOUD.onChange(() => { if (started) rerender(); });
   function rerender() {
     if (state.tab === "travel") renderTravel();
     else if (state.tab === "reading") renderReading();
@@ -1796,6 +1813,7 @@
     if (t.dataset.book) return openBook(t.dataset.book);
     if (t.dataset.author) return openAuthor(t.dataset.author);
     if (t.dataset.orig) return toggleOriginal(t);
+    if ((t.dataset.toggle || t.dataset.fave || t.dataset.shelf || t.dataset.trip || t.dataset.removeTrip != null) && needSignIn(t)) return;
     if (t.dataset.toggle) {
       const set = me[t.dataset.toggle];
       const n = t.dataset.toggle === "visited" && set.has(t.dataset.id) ? J.count(t.dataset.id) : 0;
@@ -1968,6 +1986,7 @@
 
   function renderTravel(keepScroll) {
     const t = T();
+    if (locked()) return show(h(`<h2>${t.travelTitle}</h2>${CLOUD.promptHTML(t.acctTravelPrompt)}`));
     const visited = [...me.visited].map((id) => places.get(id)).filter(Boolean);
     const trips = me.itinerary.map((x, i) => ({ ...x, i })).sort((a, b) => a.date.localeCompare(b.date));
     const wish = [...me.wishlist].map((id) => places.get(id)).filter(Boolean);
@@ -1993,16 +2012,7 @@
       ${wish.length ? `<ul class="place-list">${wish.map(placeRow).join("")}</ul>` : `<p class="empty-note">${t.wishEmpty}</p>`}
       <h3>${t.been}</h3>
       ${visited.length ? `<ul class="place-list">${visited.map(beenRow).join("")}</ul>` : `<p class="empty-note">${t.beenEmpty}</p>`}
-      ${diarySection()}
-      <section class="data-tools">
-        <h3>${t.dataTitle}</h3>
-        <p class="list-sub">${t.dataSub}</p>
-        <div class="actions">
-          <button class="btn" data-export-data>${t.dataExport}</button>
-          <label class="btn file-btn"><input type="file" accept="application/json,.json" data-import-data>${t.dataImport}</label>
-        </div>
-        <p class="empty-note" id="data-msg" role="status" aria-live="polite"></p>
-      </section>`), keepScroll);
+      ${diarySection()}`), keepScroll);
     hydratePhotos(reader);
   }
   // R-7: personal data in and out as one JSON file (the shape the cloud backend will sync)
@@ -2086,6 +2096,7 @@
         const go = btn.dataset.place ? () => openPlace(btn.dataset.place, true) : btn.dataset.author ? () => openAuthor(btn.dataset.author)
           : btn.dataset.obFull ? () => openBook(btn.dataset.obFull) : null;
         if (go) { api.close(true).then(() => { remember(); go(); }); return; }
+        if ((btn.dataset.fave || btn.dataset.shelf) && needSignIn(btn)) return;
         if (btn.dataset.fave) { if (me.faves.has(bid)) me.faves.delete(bid); else me.faves.add(bid); }
         else if (btn.dataset.shelf) { if (me.shelf[bid] === btn.dataset.shelf) delete me.shelf[bid]; else me.shelf[bid] = btn.dataset.shelf; }
         else return;
@@ -2121,6 +2132,7 @@
   }
   function renderReading() {
     const t = T();
+    if (locked()) return show(h(`<h2>${t.readingTitle}</h2>${CLOUD.promptHTML(t.acctReadingPrompt)}`));
     const list = (kind) => Object.entries(me.shelf).filter(([, v]) => v === kind).map(([id]) => books.get(id)).filter(Boolean);
     const read = list("read"), want = list("want");
     const faves = [...me.faves].map((id) => books.get(id)).filter(Boolean);
@@ -2440,6 +2452,7 @@
     if (!b) return;
     const t = T();
     if (b.hasAttribute("data-export-data")) return exportData();
+    if (b.dataset.journalNew && needSignIn(b)) return;
     if (b.dataset.journalNew) return openJournal(b.dataset.journalNew);
     if (b.dataset.journalOpen) {
       const id = b.dataset.journalOpen;
