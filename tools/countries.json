@@ -3958,6 +3958,93 @@
       "open": true,
       "small_regions": [],
       "wash": {}
+    },
+    {
+      "code": "at",
+      "iso": "AUT",
+      "name": "Austria",
+      "name_zh": "奥地利",
+      "short": "Austria",
+      "short_zh": "奥地利",
+      "region_term": {
+        "en": "state",
+        "zh": "州"
+      },
+      "bounds": [
+        9.5,
+        46.3,
+        17.2,
+        49.1
+      ],
+      "step": 0.004,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "AT-1": "AT-1",
+              "AT-2": "AT-2",
+              "AT-3": "AT-3",
+              "AT-4": "AT-4",
+              "AT-5": "AT-5",
+              "AT-6": "AT-6",
+              "AT-7": "AT-7",
+              "AT-8": "AT-8",
+              "AT-9": "AT-9"
+            }
+          }
+        ],
+        "names": {
+          "AT-1": [
+            "Burgenland",
+            "布尔根兰"
+          ],
+          "AT-2": [
+            "Carinthia",
+            "克恩顿"
+          ],
+          "AT-3": [
+            "Lower Austria",
+            "下奥地利"
+          ],
+          "AT-4": [
+            "Upper Austria",
+            "上奥地利"
+          ],
+          "AT-5": [
+            "Salzburg",
+            "萨尔茨堡州"
+          ],
+          "AT-6": [
+            "Styria",
+            "施蒂利亚"
+          ],
+          "AT-7": [
+            "Tyrol",
+            "蒂罗尔"
+          ],
+          "AT-8": [
+            "Vorarlberg",
+            "福拉尔贝格"
+          ],
+          "AT-9": [
+            "Vienna",
+            "维也纳"
+          ]
+        }
+      },
+      "data": [
+        "data/at/geo.js",
+        "data/at/books.js",
+        "data/at/places.js",
+        "data/at/lines.js"
+      ],
+      "open": true,
+      "small_regions": [
+        "AT-9"
+      ],
+      "wash": {}
     }
   ]
 }

@@ -87,7 +87,7 @@ function nearest(lon, lat) {
   return { km: best, region };
 }
 // photos (spec 6.2): free licences only, file present, credit complete
-const PHOTO_LICENSE = /^(CC BY(-SA)? [0-9.]+|CC0|Public domain)$/;
+const PHOTO_LICENSE = /^(CC BY(-SA)? [0-9.]+( [a-z]{2})?|CC0|Public domain)$/; // a country port ("3.0 at", "3.0 de") is the same licence family
 let photos = 0;
 for (const p of places) {
   if (!p.photo) continue;

@@ -757,7 +757,36 @@ window.RA_COUNTRIES = [
    "data/pt/lines.js"
   ],
   "open": true
+ },
+ {
+  "code": "at",
+  "iso": "AUT",
+  "name": "Austria",
+  "name_zh": "奥地利",
+  "short": "Austria",
+  "short_zh": "奥地利",
+  "region_term": {
+   "en": "state",
+   "zh": "州"
+  },
+  "bounds": [
+   9.5,
+   46.3,
+   17.2,
+   49.1
+  ],
+  "small_regions": [
+   "AT-9"
+  ],
+  "wash": {},
+  "data": [
+   "data/at/geo.js",
+   "data/at/books.js",
+   "data/at/places.js",
+   "data/at/lines.js"
+  ],
+  "open": true
  }
 ];
 // Totals over every open country, for the world page.
-window.RA_WORLD_STATS = {"countries": 25, "books": 1122, "lines": 1115, "places": 1239};
+window.RA_WORLD_STATS = {"countries": 26, "books": 1175, "lines": 1164, "places": 1302};
