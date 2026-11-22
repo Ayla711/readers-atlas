@@ -533,6 +533,8 @@ body:not(.panel-closed) .panel-handle, body.intro-running .panel-handle { opacit
 .place-list button:has(svg) .count { padding-left: 26px; }
 .place-list .count:empty { display: none; }
 .empty-note { color: var(--ink-soft); }
+.rank-line { margin: 10px 0 0; font-size: 13px; color: var(--ink-soft); }
+.rank-line[hidden] { display: none; }
 .note-box {
   width: 100%; min-height: 120px; padding: 12px 14px;
   border: 1px solid var(--paper-line); border-radius: var(--radius-sm); background: var(--paper-raised);

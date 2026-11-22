@@ -2021,6 +2021,27 @@
     RS.save();
   });
 
+  // Where the reader stands among readers, by places visited (My travels) and by books read (My books). The numbers
+  // come from the account's saved row (CLOUD.rank); the line stays hidden until they arrive, and whenever there is
+  // no answer. Fewer than RANK_PCT_FROM readers: the real rank and count only; from there on, the share behind too
+  // (left out for a reader with nobody behind them).
+  const RANK_PCT_FROM = 20;
+  let rankKept = null, rankAsk = 0;
+  function rankText(kind, r) {
+    const t = T(), mine = r[kind], readers = r[kind + "_readers"], rank = r[kind + "_rank"], behind = r[kind + "_behind"];
+    if (!mine) return t.rankNone(kind);
+    if (readers <= 1) return t.rankOnly(kind);
+    return t.rankLine(kind, rank, readers, readers >= RANK_PCT_FROM && behind > 0 ? Math.round((behind / (readers - 1)) * 100) : null);
+  }
+  function paintRank() {
+    if (!CLOUD || !CLOUD.gated || !reader.querySelector("[data-rank]")) return;
+    const put = (r) => { const el = reader.querySelector("[data-rank]"); if (el && r) { el.textContent = rankText(el.dataset.rank, r); el.hidden = false; } };
+    put(rankKept);
+    const ask = ++rankAsk;
+    CLOUD.rank().then((r) => { if (ask !== rankAsk || !r) return; rankKept = r; put(r); });
+  }
+  if (CLOUD) CLOUD.onChange((u) => { if (!u) { rankKept = null; rankAsk++; } });
+
   function renderTravel(keepScroll) {
     const t = T();
     if (locked()) return show(h(`<h2>${t.travelTitle}</h2>${CLOUD.promptHTML(t.acctTravelPrompt)}`));
@@ -2037,6 +2058,7 @@
         <div><strong>${beenIn.length}/${OPEN.length}</strong>${t.statCountries}</div>
         <div><strong>${trips.length}</strong>${t.statStops}</div>
       </div>
+      <p class="rank-line" data-rank="places" role="status" hidden></p>
       ${beenIn.length ? `<div class="stat-row stat-countries">${beenIn.map(({ cfg, n, of }) => `<div><strong>${n}/${of}</strong>${t.statRegions(countryShort(cfg), zh() ? cfg.region_term.zh : cfg.region_term.en)}</div>`).join("")}</div>` : ""}
       <h3>${t.trip}</h3>
       <p class="list-sub">${t.tripSub}</p>
@@ -2051,6 +2073,7 @@
       ${visited.length ? `<ul class="place-list">${visited.map(beenRow).join("")}</ul>` : `<p class="empty-note">${t.beenEmpty}</p>`}
       ${diarySection()}`), keepScroll);
     hydratePhotos(reader);
+    paintRank();
   }
   // R-7: personal data in and out as one JSON file (the shape the cloud backend will sync)
   function exportData() {
@@ -2177,6 +2200,7 @@
     show(h(`
       <h2>${t.readingTitle}</h2>
       <p class="sub">${CLOUD && CLOUD.gated ? t.storedAccount : t.storedLocal}</p>
+      <p class="rank-line" data-rank="books" role="status" hidden></p>
       <h3>${t.faveN(faves.length)}</h3>
       ${shelfHTML(faves)}${faves.length ? "" : `<p class="empty-note shelf-empty-note">${t.faveEmpty}</p>`}
       <h3>${t.readN(read.length)}</h3>
@@ -2185,6 +2209,7 @@
       ${want.length ? `<ul class="place-list">${want.map(bookRow).join("")}</ul>` : `<p class="empty-note">${t.wantEmpty}</p>`}
       <h3>${t.notedN(noted.length)}</h3>
       ${noted.length ? `<ul class="place-list">${noted.map(bookRow).join("")}</ul>` : `<p class="empty-note">${t.notedEmpty}</p>`}`));
+    paintRank();
   }
 
   // ---------- itinerary dialog ----------

@@ -20,7 +20,7 @@
    { fresh, then }: fresh is true when they have just signed in through the dialog or the emailed link (false for a
    session carried over a reload); then is the action of the control they had pressed, if any. app.js decides from
    that whether to stay on the page or return to the view the account had open last.
-   Exposed as window.RA_CLOUD = { gated, user(), client, onChange(fn), onArrive(fn), require(what, then), promptHTML(text), sync() }. */
+   Exposed as window.RA_CLOUD = { gated, user(), client, onChange(fn), onArrive(fn), require(what, then), promptHTML(text), sync(), rank() }. */
 (function () {
   "use strict";
   const URL_ = "https://silmbyjeyotyngdnwcdf.supabase.co";
@@ -30,7 +30,7 @@
   const RS = window.RA_STORE;
   const T = () => window.RA_I18N[RS.prefs.get("lang", "en") === "zh" ? "zh" : "en"];
   const online = /^https?:$/.test(location.protocol) && !!window.supabase && !!dlg;
-  if (!online) { window.RA_CLOUD = { gated: false, user: () => null, client: null, onChange: () => () => {}, onArrive: () => () => {}, require: (w, then) => then && then(), promptHTML: () => "", sync: () => "off" }; return; }
+  if (!online) { window.RA_CLOUD = { gated: false, user: () => null, client: null, onChange: () => () => {}, onArrive: () => () => {}, require: (w, then) => then && then(), promptHTML: () => "", sync: () => "off", rank: async () => null }; return; }
   RS.account(null); // on the site, records belong to an account: nobody is signed in yet
 
   // ---------- a sign-in link coming back ----------
@@ -220,6 +220,18 @@
     clearTimeout(timer);
     timer = setTimeout(push, 1200);
   });
+  // Where this reader stands among readers (docs/cloud-sync.sql, reader_rank): the database counts from the row
+  // saved with the account, so unsaved changes are written first. Resolves to the numbers, or null when there is
+  // no answer (signed out, offline, or the function has not been added to the database yet).
+  async function rank() {
+    if (!user) return null;
+    const uid = user.id;
+    if (note().dirty) { clearTimeout(timer); if (!(await push())) return null; }
+    let data = null, error = null;
+    try { ({ data, error } = await client.rpc("reader_rank")); } catch (err) { error = err; }
+    if (error || !data || !user || user.id !== uid) return null;
+    return data;
+  }
   // back on this tab: another browser may have changed the records meanwhile
   const refresh = () => { if (user && !document.hidden && Date.now() - lastPull > 4000) pull(); };
   document.addEventListener("visibilitychange", refresh);
@@ -249,6 +261,7 @@
     onChange(fn) { listeners.add(fn); return () => listeners.delete(fn); },
     require(forWhat, then) { if (user) { if (then) then(); return; } open(forWhat, then); },
     sync: () => status,
+    rank,
     onArrive(fn) { arrivals.add(fn); return () => arrivals.delete(fn); },
     promptHTML: (text) => `<div class="card acct-card"><p>${esc(text)}</p><div class="actions"><button class="btn" data-acct-open>${T().acctSignIn}</button></div></div>`,
   };
