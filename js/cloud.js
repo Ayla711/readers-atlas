@@ -1,15 +1,22 @@
-/* The Reader's Atlas — account (cloud step 1, 11-19): sign in with a code sent by email, no password.
+/* The Reader's Atlas — account (cloud steps 1 and 2, 11-19/20): sign in with a code sent by email, no password,
+   and the reader's records kept with their account.
    The backend is Supabase for now (js/vendor/supabase.js). The key below is the project's publishable key: it is meant
    to be public, and the database's row-level security decides what it can reach. No secret key belongs in this repo.
 
    Looking is free. Keeping something (a flag, a trip, a shelf mark, a note, a diary entry) needs an account: app.js
-   asks RA_CLOUD.require(what, then) at that moment, the dialog opens, and once the reader is in, `then` runs, so the
-   thing they pressed happens without pressing it again. Signed out, nothing in the page chrome asks for an account;
+   asks RA_CLOUD.require(what, then) at that moment, the dialog opens, and once the reader is in and their records
+   have arrived, `then` runs, so the thing they pressed happens without pressing it again. Signed out, nothing in the page chrome asks for an account;
    the My travels and My books tabs carry a sign-in card (promptHTML). Signed in, the reader's portrait
    (js/portrait.js: a small animal they pick; until they do, their account id picks one) sits beside the language toggle and opens the account dialog.
 
+   Records (cloud step 2). Each reader has one row in the table user_data (docs/cloud-sync.sql): their wishlist,
+   visited places, trips, shelf, favourites, notes, diary text and chosen portrait, as one JSON document that only
+   they can read or write (row-level security). store.js keeps a working copy per reader in this browser. Signing in
+   reads the row; a change here is written back a moment later; coming back to the tab reads it again, so two
+   browsers on one account follow each other. Diary photos are not uploaded: they stay in the browser that added them.
+
    Opened as a local file (file://) there is no account: gated is false and everything stays in this browser.
-   Exposed as window.RA_CLOUD = { gated, user(), client, onChange(fn), require(what, then), promptHTML(text) }. */
+   Exposed as window.RA_CLOUD = { gated, user(), client, onChange(fn), require(what, then), promptHTML(text), sync() }. */
 (function () {
   "use strict";
   const URL_ = "https://silmbyjeyotyngdnwcdf.supabase.co";
@@ -19,7 +26,8 @@
   const RS = window.RA_STORE;
   const T = () => window.RA_I18N[RS.prefs.get("lang", "en") === "zh" ? "zh" : "en"];
   const online = /^https?:$/.test(location.protocol) && !!window.supabase && !!dlg;
-  if (!online) { window.RA_CLOUD = { gated: false, user: () => null, client: null, onChange: () => () => {}, require: (w, then) => then && then(), promptHTML: () => "" }; return; }
+  if (!online) { window.RA_CLOUD = { gated: false, user: () => null, client: null, onChange: () => () => {}, require: (w, then) => then && then(), promptHTML: () => "", sync: () => "off" }; return; }
+  RS.account(null); // on the site, records belong to an account: nobody is signed in yet
 
   // ---------- a sign-in link coming back ----------
   // The email carries a code; if it also carries a link (the default template), the link returns here with the
@@ -57,6 +65,7 @@
       dlg.innerHTML = `<form method="dialog"><h2>${t.acctTitle}</h2>
         <div class="acct-portrait">${P(mine(), 104)}</div>
         <p class="acct-line acct-email">${esc(user.email)}</p>
+        <p class="acct-sync" role="status">${syncLine()}</p>
         <p class="acct-label">${t.acctChoose}</p>
         <div class="acct-choices" role="radiogroup" aria-label="${t.acctChoose}">${P.keys.map((k) => `<button type="button" role="radio" aria-checked="${k === mine()}" aria-label="${P.label(k, zh())}" title="${P.label(k, zh())}" data-pick="${k}">${P(k, 38)}</button>`).join("")}</div>
         <div class="dialog-actions"><button type="button" class="ghost" data-acct="out">${t.acctSignOut}</button><button type="button" class="dark" data-acct="close">${t.acctClose}</button></div></form>`;
@@ -85,15 +94,20 @@
   function setUser(u) {
     const was = user && user.id;
     user = u || null;
+    if ((user && user.id) === was) { paintButton(); return; }
+    // another reader, or nobody: their records, not the last reader's
+    clearTimeout(timer);
+    rev = 0; status = user ? "busy" : "off";
+    RS.account(user ? user.id : null);
+    if (user && RS.takeUnclaimed()) mark();
     paintButton();
-    if ((user && user.id) === was) return;
-    for (const fn of listeners) { try { fn(user); } catch (e) { /* listener error */ } }
+    tell();
     if (user) {
       if (dlg.open) dlg.close("in");
-      // the page has just been redrawn for the signed-in reader: now do what they had asked for
-      const then = pending;
+      // once their records are here and the page shows them, do what they had asked for
+      const then = pending, uid = user.id;
       pending = null;
-      if (then) setTimeout(then, 0);
+      pull().then(() => { if (then && user && user.id === uid) setTimeout(then, 0); });
     }
   }
   const failure = (error, t) => (error.status === 429 || /rate limit|security purposes/i.test(error.message || "") ? t.acctErrRate : null);
@@ -105,7 +119,7 @@
     if (act === "back") { view = "email"; message = ""; paint(); }
     const pickBtn = e.target.closest && e.target.closest("[data-pick]");
     if (pickBtn && user) { const n = picks(); n[user.id] = pickBtn.dataset.pick; RS.prefs.set("portrait", n); paint(); paintButton(); const again = dlg.querySelector(`[data-pick="${pickBtn.dataset.pick}"]`); if (again) again.focus(); }
-    if (act === "out") { e.target.disabled = true; await client.auth.signOut({ scope: "local" }); dlg.close(); } // this browser only
+    if (act === "out") { e.target.disabled = true; clearTimeout(timer); if (note().dirty) await push(); await client.auth.signOut({ scope: "local" }); dlg.close(); } // this browser only; unsaved changes go first
   });
   if (btn) btn.addEventListener("click", () => { view = "account"; message = ""; pending = null; paint(); dlg.showModal(); });
   dlg.addEventListener("submit", async (e) => {
@@ -131,7 +145,69 @@
     }
   });
 
-  client.auth.onAuthStateChange((event, session) => { setUser(session ? session.user : null); });
+  // ---------- the reader's records, kept with the account ----------
+  const TABLE = "user_data";
+  let status = "off"; // off | busy | saved | failed
+  let rev = 0, timer = null, applying = false, lastPull = 0;
+  const tell = () => { for (const fn of listeners) { try { fn(user); } catch (e) { /* listener error */ } } };
+  const note = () => RS.mine.get("sync", {}) || {}; // { at: the row's time when this browser last matched it, dirty: changes not yet written }
+  const mark = () => { rev++; RS.mine.set("sync", { ...note(), dirty: true }); };
+  const setStatus = (v) => { status = v; const line = dlg.querySelector(".acct-sync"); if (line) line.textContent = syncLine(); };
+  function syncLine() { const t = T(); return status === "saved" ? t.acctSaved : status === "failed" ? t.acctSaveFailed : status === "busy" ? t.acctSaving : ""; }
+  const usable = (d) => !!d && d.app === "readers-atlas" && Array.isArray(d.user_places);
+  function doc() {
+    const d = RS.exportData();
+    delete d.user_prefs; delete d.exported_at; // language and sound belong to the browser
+    d.portrait = picks()[user.id] || null;
+    return d;
+  }
+  // put what the account holds into this browser; `merge` keeps what is only here as well
+  function take(d, merge) {
+    applying = true;
+    try {
+      if (merge) RS.importData(d); else RS.replaceData(d);
+      if (P.keys.includes(d.portrait) && !(merge && picks()[user.id])) { const n = picks(); n[user.id] = d.portrait; RS.prefs.set("portrait", n); }
+    } finally { applying = false; }
+  }
+  async function push() {
+    if (!user) return false;
+    const uid = user.id, mine = rev, at = new Date().toISOString();
+    setStatus("busy");
+    let error = null;
+    try { ({ error } = await client.from(TABLE).upsert({ user_id: uid, data: doc(), updated_at: at })); } catch (err) { error = err; }
+    if (!user || user.id !== uid) return false;
+    if (error) { setStatus("failed"); clearTimeout(timer); timer = setTimeout(push, 20000); return false; }
+    RS.mine.set("sync", { at, dirty: rev !== mine });
+    setStatus(rev !== mine ? "busy" : "saved");
+    return true;
+  }
+  async function pull() {
+    if (!user) return;
+    const uid = user.id;
+    lastPull = Date.now();
+    let row = null, error = null;
+    try { ({ data: row, error } = await client.from(TABLE).select("data, updated_at").eq("user_id", uid).maybeSingle()); } catch (err) { error = err; }
+    if (!user || user.id !== uid) return;
+    if (error) { setStatus("failed"); return; }
+    const n = note(), unsaved = n.dirty || (!n.at && RS.hasRecords());
+    if (!row || !usable(row.data)) { await push(); return; } // nothing kept with the account yet
+    if (unsaved) { take(row.data, true); paintButton(); tell(); await push(); return; } // both sides have something: keep both
+    if (row.updated_at !== n.at) { take(row.data, false); RS.mine.set("sync", { at: row.updated_at, dirty: false }); paintButton(); if (dlg.open && view === "account") paint(); tell(); }
+    setStatus("saved");
+  }
+  RS.onChange((k) => {
+    if (!user || applying || k === "account" || (k.startsWith("prefs:") && k !== "prefs:portrait")) return;
+    mark();
+    setStatus("busy");
+    clearTimeout(timer);
+    timer = setTimeout(push, 1200);
+  });
+  // back on this tab: another browser may have changed the records meanwhile
+  const refresh = () => { if (user && !document.hidden && Date.now() - lastPull > 4000) pull(); };
+  document.addEventListener("visibilitychange", refresh);
+  window.addEventListener("focus", refresh);
+
+  client.auth.onAuthStateChange((event, session) => { setTimeout(() => setUser(session ? session.user : null), 0); });
   if (arrived && arrived.get("access_token") && arrived.get("refresh_token")) {
     client.auth.setSession({ access_token: arrived.get("access_token"), refresh_token: arrived.get("refresh_token") }).then(({ error }) => {
       if (error) { open(""); message = T().acctErrLink; paint(); }
@@ -153,6 +229,7 @@
     user: () => user,
     onChange(fn) { listeners.add(fn); return () => listeners.delete(fn); },
     require(forWhat, then) { if (user) { if (then) then(); return; } open(forWhat, then); },
+    sync: () => status,
     promptHTML: (text) => `<div class="card acct-card"><p>${esc(text)}</p><div class="actions"><button class="btn" data-acct-open>${T().acctSignIn}</button></div></div>`,
   };
 })();

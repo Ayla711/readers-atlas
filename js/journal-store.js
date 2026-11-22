@@ -1,19 +1,21 @@
-/* The Reader's Atlas — travel journal storage (front-end stand-in).
-   Spec: docs/travel-journal-spec.md. Until the back end exists, entries live in this browser:
-   the text in localStorage ("ra.journal"), the photos as JPEG blobs in IndexedDB ("ra-journal").
-   The app only uses the functions below, so the back end can replace this file without touching the screens.
+/* The Reader's Atlas — travel journal storage.
+   Spec: docs/travel-journal-spec.md. The text of the entries is one of the reader's records (store.js keeps it under
+   the reader's own keys, cloud.js keeps it with their account). The photos are JPEG blobs in IndexedDB
+   ("ra-journal") and stay in the browser where they were added: an entry names its photos by id, and a browser that
+   does not hold a photo leaves it out of what it shows without forgetting it.
    Photos are re-encoded through a canvas before they are stored, which drops EXIF data (GPS included). */
 (function () {
   "use strict";
-  const KEY = "journal"; // "ra.journal" through the shared key/value backend in store.js
-  const kv = window.RA_STORE ? window.RA_STORE.kv : {
+  const KEY = "journal"; // among the reader's own keys in store.js
+  const RS = window.RA_STORE;
+  const kv = RS ? RS.mine : {
     get(k, f) { try { const v = localStorage.getItem("ra." + k); return v === null ? f : JSON.parse(v); } catch (e) { return f; } },
     set(k, v) { try { localStorage.setItem("ra." + k, JSON.stringify(v)); return true; } catch (e) { return false; } },
   };
   const LONG_EDGE = 2048, THUMB_EDGE = 480;
-  let entries = kv.get(KEY, []);
-  if (!Array.isArray(entries)) entries = [];
-  const persist = () => kv.set(KEY, entries);
+  const read = () => { const v = kv.get(KEY, []); return Array.isArray(v) ? v : []; };
+  let entries = read();
+  const persist = () => { const ok = kv.set(KEY, entries); if (RS && RS.changed) RS.changed("journal"); return ok; };
   const newId = (p) => p + Date.now().toString(36) + Math.random().toString(36).slice(2, 7);
 
   // ---------- photo blobs (IndexedDB) ----------
@@ -38,6 +40,14 @@
       t.onabort = () => reject(t.error);
     });
   }
+  // the photos this browser holds; null until the list has been read (until then every photo is assumed to be here)
+  let here = null;
+  idb().then((db) => new Promise((resolve) => {
+    const r = db.transaction("photos", "readonly").objectStore("photos").getAllKeys();
+    r.onsuccess = () => { here = new Set(r.result.filter((k) => String(k).endsWith(":thumb")).map((k) => String(k).slice(0, -6))); resolve(); };
+    r.onerror = () => resolve();
+  })).catch(() => { /* no IndexedDB: nothing to list */ });
+  const isHere = (p) => !here || here.has(p.id);
   const urlCache = new Map(); // "<photo id>:<full|thumb>" -> object URL
   async function photoURL(id, size) {
     const k = id + ":" + size;
@@ -80,26 +90,37 @@
   // ---------- entries ----------
   const byDate = (a, b) => (b.visit_date || "").localeCompare(a.visit_date || "") || (b.created_at || "").localeCompare(a.created_at || "");
   const clone = (e) => JSON.parse(JSON.stringify(e));
+  // what the screens get: the entry with the photos this browser can show
+  const view = (e) => { const c = clone(e); c.photos = (c.photos || []).filter(isHere); return c; };
+  const clean = (e) => ({ id: e.id, place_id: e.place_id, visit_date: e.visit_date || "", text: e.text || "", book_ids: Array.isArray(e.book_ids) ? e.book_ids.filter((b) => typeof b === "string") : [],
+    photos: (Array.isArray(e.photos) ? e.photos : []).filter((p) => p && typeof p.id === "string").map((p) => ({ id: p.id, caption: p.caption || "", width: p.width, height: p.height })),
+    created_at: e.created_at || new Date().toISOString(), updated_at: e.updated_at || new Date().toISOString() });
+  const valid = (e) => e && typeof e.id === "string" && typeof e.place_id === "string";
   const API = {
-    all: () => entries.slice().sort(byDate).map(clone),
-    list: () => entries.slice().sort(byDate).map(clone),
-    /** Import entries from an export file (R-7): adds entries whose id is new; photos are kept only when this browser
-        already holds them, otherwise the entry comes in without them. Returns the number added. */
+    all: () => entries.slice().sort(byDate).map(view),
+    list: () => entries.slice().sort(byDate).map(view),
+    /** Every entry as stored, with all its photo ids: what is kept with the account. */
+    raw: () => entries.slice().sort(byDate).map(clone),
+    /** Read the entries again: store.js calls this when the reader changes. */
+    reload() { entries = read(); },
+    /** Make the entries exactly this list (the copy kept with the account). */
+    replaceEntries(list) { entries = list.filter(valid).map(clean); persist(); },
+    /** Merge entries in: an entry whose id is new is added; one that is already here is replaced when the incoming
+        copy was edited later. Returns the number added. */
     importEntries(list) {
-      let n = 0;
-      const have = new Set(entries.map((e) => e.id));
+      let n = 0, touched = false;
+      const at = new Map(entries.map((e, i) => [e.id, i]));
       for (const e of list) {
-        if (!e || typeof e.id !== "string" || typeof e.place_id !== "string" || have.has(e.id)) continue;
-        entries.push({ id: e.id, place_id: e.place_id, visit_date: e.visit_date || "", text: e.text || "", book_ids: Array.isArray(e.book_ids) ? e.book_ids : [],
-          photos: [], created_at: e.created_at || new Date().toISOString(), updated_at: e.updated_at || new Date().toISOString() });
-        have.add(e.id); n++;
+        if (!valid(e)) continue;
+        if (!at.has(e.id)) { entries.push(clean(e)); at.set(e.id, entries.length - 1); n++; touched = true; }
+        else if ((e.updated_at || "") > (entries[at.get(e.id)].updated_at || "")) { entries[at.get(e.id)] = clean(e); touched = true; }
       }
-      if (n) persist();
+      if (touched) persist();
       return n;
     },
-    forPlace: (pid) => entries.filter((e) => e.place_id === pid).sort(byDate).map(clone),
+    forPlace: (pid) => entries.filter((e) => e.place_id === pid).sort(byDate).map(view),
     count: (pid) => entries.filter((e) => e.place_id === pid).length,
-    get: (id) => { const e = entries.find((x) => x.id === id); return e ? clone(e) : null; },
+    get: (id) => { const e = entries.find((x) => x.id === id); return e ? view(e) : null; },
     preparePhoto,
     photoURL,
     /** Save an entry. `photos` is the full ordered list: kept ones ({id, caption, width, height}) and new drafts from preparePhoto. */
@@ -108,23 +129,26 @@
       const old = entry.id ? entries.find((x) => x.id === entry.id) : null;
       for (const p of photos.filter((p) => p.isNew)) {
         await tx("readwrite", (s) => { s.put(p.full, p.id + ":full"); s.put(p.thumb, p.id + ":thumb"); });
+        if (here) here.add(p.id);
       }
       const keep = new Set(photos.map((p) => p.id));
-      const dropped = old ? old.photos.filter((p) => !keep.has(p.id)) : [];
+      // photos held in another browser were not on the screen, so they were not the reader's to remove here
+      const elsewhere = old ? old.photos.filter((p) => !isHere(p) && !keep.has(p.id)) : [];
+      const dropped = old ? old.photos.filter((p) => isHere(p) && !keep.has(p.id)) : [];
       const rec = {
         id: old ? old.id : newId("j_"),
         place_id: entry.place_id,
         visit_date: entry.visit_date,
         text: entry.text || "",
         book_ids: entry.book_ids || [],
-        photos: photos.map((p) => ({ id: p.id, caption: p.caption || "", width: p.width, height: p.height })),
+        photos: photos.map((p) => ({ id: p.id, caption: p.caption || "", width: p.width, height: p.height })).concat(elsewhere),
         created_at: old ? old.created_at : now,
         updated_at: now,
       };
       if (old) entries[entries.indexOf(old)] = rec; else entries.push(rec);
       if (!persist()) throw new Error("storage_full");
       for (const p of dropped) await API._dropPhoto(p.id);
-      return clone(rec);
+      return view(rec);
     },
     async remove(id) {
       const e = entries.find((x) => x.id === id);
@@ -138,6 +162,7 @@
         const k = pid + ":" + size;
         if (urlCache.has(k)) { URL.revokeObjectURL(urlCache.get(k)); urlCache.delete(k); }
       }
+      if (here) here.delete(pid);
       try { await tx("readwrite", (s) => { s.delete(pid + ":full"); s.delete(pid + ":thumb"); }); } catch (e) { /* storage gone */ }
     },
   };

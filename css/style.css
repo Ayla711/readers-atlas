@@ -411,7 +411,8 @@ body:not(.panel-closed) .panel-handle, body.intro-running .panel-handle { opacit
 .account-btn[hidden] { display: none; }
 .account-btn:hover { box-shadow: 0 0 0 2px var(--paper-line); }
 .acct-portrait { display: grid; justify-items: center; gap: 6px; margin: 4px 0 12px; }
-.account-dialog .acct-email { text-align: center; margin-bottom: 16px; }
+.account-dialog .acct-email { text-align: center; margin-bottom: 4px; }
+.account-dialog .acct-sync { min-height: 16px; margin: 0 0 14px; text-align: center; font-size: 11.5px; line-height: 16px; color: var(--ink-soft); }
 .acct-label { margin: 0 0 8px; font-size: 11px; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
 .acct-choices { display: grid; grid-template-columns: repeat(6, 1fr); gap: 8px 4px; justify-items: center; margin-bottom: 18px; }
 .acct-choices button { width: 38px; height: 38px; padding: 0; border: 0; border-radius: 50%; background: none; line-height: 0; cursor: pointer; }

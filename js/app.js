@@ -1586,20 +1586,23 @@
   // ---------- account gate (js/cloud.js) ----------
   // Looking is free; keeping something (a flag, a trip, a shelf mark, a note, a diary entry) asks the reader to sign
   // in first. After signing in, the control they had pressed is pressed for them. Opened as a local file the app has
-  // no account and everything stays in this browser, as before.
+  // no account and everything stays in this browser, as before. On the site the records are the signed-in reader's:
+  // store.js keeps them apart per reader and cloud.js keeps them with the account.
   const CLOUD = window.RA_CLOUD;
   const locked = () => !!(CLOUD && CLOUD.gated && !CLOUD.user());
   function needSignIn(el) {
     if (!locked()) return false;
     const sel = el.tagName.toLowerCase() + [...el.attributes].filter((a) => a.name.startsWith("data-")).map((a) => `[${a.name}="${a.value.replace(/["\\]/g, "\\$&")}"]`).join("");
     CLOUD.require(el.dataset.note ? T().notesLabel : el.textContent.trim(), () => {
+      // their records are on the page now: a control that is already on (the place was in their wishlist all along) is left alone
       const n = document.querySelector(sel);
-      if (n) n.dataset.note ? n.focus() : n.click();
+      if (n && !n.classList.contains("is-on")) n.dataset.note ? n.focus() : n.click();
     });
     return true;
   }
   document.addEventListener("focusin", (e) => { if (e.target.dataset && e.target.dataset.note && needSignIn(e.target)) e.target.blur(); });
-  if (CLOUD) CLOUD.onChange(() => { if (started) rerender(); });
+  // another reader signed in or out, or their records arrived from the account: redraw the flags, the markers and the panel
+  if (CLOUD) CLOUD.onChange(() => { if (started) { syncFlags(); updateMarkers(); rerender(); } });
   function rerender() {
     if (state.tab === "travel") renderTravel();
     else if (state.tab === "reading") renderReading();
@@ -1994,7 +1997,7 @@
     const beenIn = [...mounted.values()].map(({ cfg, geo }) => ({ cfg, n: new Set(visited.filter((p) => p.country === cfg.code).map((p) => p.region)).size, of: geo.regions.length })).filter((x) => x.n > 0);
     show(h(`
       <h2>${t.travelTitle}</h2>
-      <p class="sub">${t.storedLocal}</p>
+      <p class="sub">${CLOUD && CLOUD.gated ? t.storedAccount : t.storedLocal}</p>
       <div class="stat-row">
         <div><strong>${visited.length}</strong>${t.statVisited}</div>
         <div><strong>${beenIn.length}/${OPEN.length}</strong>${t.statCountries}</div>
@@ -2139,7 +2142,7 @@
     const noted = Object.keys(me.notes).map((id) => books.get(id)).filter(Boolean);
     show(h(`
       <h2>${t.readingTitle}</h2>
-      <p class="sub">${t.storedLocal}</p>
+      <p class="sub">${CLOUD && CLOUD.gated ? t.storedAccount : t.storedLocal}</p>
       <h3>${t.faveN(faves.length)}</h3>
       ${shelfHTML(faves)}${faves.length ? "" : `<p class="empty-note shelf-empty-note">${t.faveEmpty}</p>`}
       <h3>${t.readN(read.length)}</h3>
