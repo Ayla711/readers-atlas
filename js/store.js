@@ -120,6 +120,12 @@
       get: (bid) => state.shelf[bid] || null,
       set(bid, v) { if (v) state.shelf[bid] = v; else delete state.shelf[bid]; saveKey("shelf"); },
     },
+    /** The view the reader had open last (a route such as "#/place/gr-ithaca"; "" is the world page; null: never
+        recorded, a reader who is new here). app.js writes it as the reader moves about and reads it at sign-in. */
+    where: {
+      get: () => { const v = mine.get("last", null); return typeof v === "string" ? v : null; },
+      set(route) { if (scope === null || mine.get("last", null) === route) return; mine.set("last", route); emit("last"); },
+    },
     notes: {
       get: (bid) => state.notes[bid] || "",
       set(bid, text) { if (text) state.notes[bid] = text; else delete state.notes[bid]; saveKey("notes"); },
@@ -145,6 +151,7 @@
           book_id: bid, shelf: state.shelf[bid] || null, favourite: state.faves.has(bid), note: state.notes[bid] || "",
         })),
         user_prefs: { lang: kv.get("lang", "en"), sound: kv.get("sound", true) },
+        last_view: API.where.get(),
         journal_entries: journal.map((e) => ({ ...e, photos: (e.photos || []).map((p) => ({ id: p.id, caption: p.caption || "", width: p.width, height: p.height })) })),
       };
     },
@@ -164,6 +171,7 @@
         if (b.note) state.notes[b.book_id] = String(b.note);
       }
       saveAll();
+      if (typeof data.last_view === "string") mine.set("last", data.last_view); else mine.remove("last");
       if (window.RA_JOURNAL) window.RA_JOURNAL.replaceEntries(Array.isArray(data.journal_entries) ? data.journal_entries : []);
     },
     // Merge: the data adds to what is here; nothing local is removed. Returns counts for the message to the reader.
@@ -189,6 +197,7 @@
         if (changed) n.books++;
       }
       saveAll();
+      if (typeof data.last_view === "string" && API.where.get() === null) mine.set("last", data.last_view);
       if (window.RA_JOURNAL && Array.isArray(data.journal_entries)) n.journal = window.RA_JOURNAL.importEntries(data.journal_entries);
       return n;
     },

@@ -10,13 +10,17 @@
    (js/portrait.js: a small animal they pick; until they do, their account id picks one) sits beside the language toggle and opens the account dialog.
 
    Records (cloud step 2). Each reader has one row in the table user_data (docs/cloud-sync.sql): their wishlist,
-   visited places, trips, shelf, favourites, notes, diary text and chosen portrait, as one JSON document that only
+   visited places, trips, shelf, favourites, notes, diary text, chosen portrait and the view they had open last, as one JSON document that only
    they can read or write (row-level security). store.js keeps a working copy per reader in this browser. Signing in
    reads the row; a change here is written back a moment later; coming back to the tab reads it again, so two
    browsers on one account follow each other. Diary photos are not uploaded: they stay in the browser that added them.
 
    Opened as a local file (file://) there is no account: gated is false and everything stays in this browser.
-   Exposed as window.RA_CLOUD = { gated, user(), client, onChange(fn), require(what, then), promptHTML(text), sync() }. */
+   Where the reader was. When a reader signs in and their records have arrived, onArrive(fn) listeners get
+   { fresh, then }: fresh is true when they have just signed in through the dialog or the emailed link (false for a
+   session carried over a reload); then is the action of the control they had pressed, if any. app.js decides from
+   that whether to stay on the page or return to the view the account had open last.
+   Exposed as window.RA_CLOUD = { gated, user(), client, onChange(fn), onArrive(fn), require(what, then), promptHTML(text), sync() }. */
 (function () {
   "use strict";
   const URL_ = "https://silmbyjeyotyngdnwcdf.supabase.co";
@@ -26,7 +30,7 @@
   const RS = window.RA_STORE;
   const T = () => window.RA_I18N[RS.prefs.get("lang", "en") === "zh" ? "zh" : "en"];
   const online = /^https?:$/.test(location.protocol) && !!window.supabase && !!dlg;
-  if (!online) { window.RA_CLOUD = { gated: false, user: () => null, client: null, onChange: () => () => {}, require: (w, then) => then && then(), promptHTML: () => "", sync: () => "off" }; return; }
+  if (!online) { window.RA_CLOUD = { gated: false, user: () => null, client: null, onChange: () => () => {}, onArrive: () => () => {}, require: (w, then) => then && then(), promptHTML: () => "", sync: () => "off" }; return; }
   RS.account(null); // on the site, records belong to an account: nobody is signed in yet
 
   // ---------- a sign-in link coming back ----------
@@ -42,7 +46,8 @@
   const client = window.supabase.createClient(URL_, KEY, { auth: { detectSessionInUrl: false, persistSession: true, autoRefreshToken: true } });
   let user = null;
   let view = "email", email = "", message = "", what = "", pending = null;
-  const listeners = new Set();
+  let justSignedIn = false; // set while a sign-in through the dialog or the emailed link is under way
+  const listeners = new Set(), arrivals = new Set();
   const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 
   // the portrait: the animal the reader picked, else one chosen by their account id
@@ -97,17 +102,21 @@
     if ((user && user.id) === was) { paintButton(); return; }
     // another reader, or nobody: their records, not the last reader's
     clearTimeout(timer);
-    rev = 0; status = user ? "busy" : "off";
+    rev = 0; moved = 0; status = user ? "busy" : "off";
     RS.account(user ? user.id : null);
     if (user && RS.takeUnclaimed()) mark();
     paintButton();
     tell();
     if (user) {
       if (dlg.open) dlg.close("in");
-      // once their records are here and the page shows them, do what they had asked for
-      const then = pending, uid = user.id;
-      pending = null;
-      pull().then(() => { if (then && user && user.id === uid) setTimeout(then, 0); });
+      // once their records are here and the page shows them: do what they had asked for, in the place app.js picks
+      const then = pending, uid = user.id, fresh = justSignedIn;
+      pending = null; justSignedIn = false;
+      pull().then(() => setTimeout(() => {
+        if (!user || user.id !== uid) return;
+        if (!arrivals.size) { if (then) then(); return; }
+        for (const fn of arrivals) { try { fn({ fresh, then }); } catch (e) { /* listener error */ } }
+      }, 0));
     }
   }
   const failure = (error, t) => (error.status === 429 || /rate limit|security purposes/i.test(error.message || "") ? t.acctErrRate : null);
@@ -119,7 +128,7 @@
     if (act === "back") { view = "email"; message = ""; paint(); }
     const pickBtn = e.target.closest && e.target.closest("[data-pick]");
     if (pickBtn && user) { const n = picks(); n[user.id] = pickBtn.dataset.pick; RS.prefs.set("portrait", n); paint(); paintButton(); const again = dlg.querySelector(`[data-pick="${pickBtn.dataset.pick}"]`); if (again) again.focus(); }
-    if (act === "out") { e.target.disabled = true; clearTimeout(timer); if (note().dirty) await push(); await client.auth.signOut({ scope: "local" }); dlg.close(); } // this browser only; unsaved changes go first
+    if (act === "out") { e.target.disabled = true; clearTimeout(timer); if (note().dirty || moved) await push(); await client.auth.signOut({ scope: "local" }); dlg.close(); } // this browser only; unsaved changes go first
   });
   if (btn) btn.addEventListener("click", () => { view = "account"; message = ""; pending = null; paint(); dlg.showModal(); });
   dlg.addEventListener("submit", async (e) => {
@@ -139,7 +148,9 @@
     } else {
       const token = e.target.code.value.replace(/\s+/g, "");
       go.textContent = t.acctVerifying;
+      justSignedIn = true;
       try { ({ error } = await client.auth.verifyOtp({ email, token, type: "email" })); } catch (err) { error = err; }
+      if (error) justSignedIn = false;
       if (error) { message = failure(error, t) || t.acctErrCode; paint(); }
       // success: onAuthStateChange closes the dialog and runs what was pending
     }
@@ -149,6 +160,7 @@
   const TABLE = "user_data";
   let status = "off"; // off | busy | saved | failed
   let rev = 0, timer = null, applying = false, lastPull = 0;
+  let moved = 0; // the reader has moved to another view since the last save (kept apart from `dirty`: it is not a change to their records)
   const tell = () => { for (const fn of listeners) { try { fn(user); } catch (e) { /* listener error */ } } };
   const note = () => RS.mine.get("sync", {}) || {}; // { at: the row's time when this browser last matched it, dirty: changes not yet written }
   const mark = () => { rev++; RS.mine.set("sync", { ...note(), dirty: true }); };
@@ -164,20 +176,23 @@
   // put what the account holds into this browser; `merge` keeps what is only here as well
   function take(d, merge) {
     applying = true;
+    const here = moved ? RS.where.get() : null; // where this browser is now is newer than where the account says
     try {
       if (merge) RS.importData(d); else RS.replaceData(d);
+      if (here !== null) RS.where.set(here);
       if (P.keys.includes(d.portrait) && !(merge && picks()[user.id])) { const n = picks(); n[user.id] = d.portrait; RS.prefs.set("portrait", n); }
     } finally { applying = false; }
   }
   async function push() {
     if (!user) return false;
-    const uid = user.id, mine = rev, at = new Date().toISOString();
+    const uid = user.id, mine = rev, was = moved, at = new Date().toISOString();
     setStatus("busy");
     let error = null;
     try { ({ error } = await client.from(TABLE).upsert({ user_id: uid, data: doc(), updated_at: at })); } catch (err) { error = err; }
     if (!user || user.id !== uid) return false;
     if (error) { setStatus("failed"); clearTimeout(timer); timer = setTimeout(push, 20000); return false; }
     RS.mine.set("sync", { at, dirty: rev !== mine });
+    if (moved === was) moved = 0;
     setStatus(rev !== mine ? "busy" : "saved");
     return true;
   }
@@ -193,10 +208,13 @@
     if (!row || !usable(row.data)) { await push(); return; } // nothing kept with the account yet
     if (unsaved) { take(row.data, true); paintButton(); tell(); await push(); return; } // both sides have something: keep both
     if (row.updated_at !== n.at) { take(row.data, false); RS.mine.set("sync", { at: row.updated_at, dirty: false }); paintButton(); if (dlg.open && view === "account") paint(); tell(); }
+    if (moved) { await push(); return; }
     setStatus("saved");
   }
   RS.onChange((k) => {
     if (!user || applying || k === "account" || (k.startsWith("prefs:") && k !== "prefs:portrait")) return;
+    // moving to another view is saved too, but quietly and less often, and it never counts as an unsaved record
+    if (k === "last") { moved++; clearTimeout(timer); timer = setTimeout(push, note().dirty ? 1200 : 4000); return; }
     mark();
     setStatus("busy");
     clearTimeout(timer);
@@ -209,6 +227,7 @@
 
   client.auth.onAuthStateChange((event, session) => { setTimeout(() => setUser(session ? session.user : null), 0); });
   if (arrived && arrived.get("access_token") && arrived.get("refresh_token")) {
+    justSignedIn = true;
     client.auth.setSession({ access_token: arrived.get("access_token"), refresh_token: arrived.get("refresh_token") }).then(({ error }) => {
       if (error) { open(""); message = T().acctErrLink; paint(); }
     });
@@ -230,6 +249,7 @@
     onChange(fn) { listeners.add(fn); return () => listeners.delete(fn); },
     require(forWhat, then) { if (user) { if (then) then(); return; } open(forWhat, then); },
     sync: () => status,
+    onArrive(fn) { arrivals.add(fn); return () => arrivals.delete(fn); },
     promptHTML: (text) => `<div class="card acct-card"><p>${esc(text)}</p><div class="actions"><button class="btn" data-acct-open>${T().acctSignIn}</button></div></div>`,
   };
 })();

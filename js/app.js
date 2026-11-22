@@ -1392,8 +1392,12 @@
     return state.world ? "" : "#/" + cur().code; // "" is the world page
   }
   let routing = false, freshTrail = false;
+  // the signed-in reader's last view is one of their records (store.js): noted as they move about, read at sign-in
+  let whereReady = false; // false from sign-in until their records have arrived, so the page they signed in on does not replace it
+  function noteWhere() { if (whereReady && CLOUD && CLOUD.gated && CLOUD.user()) RS.where.set(currentRoute()); }
   function syncRoute() {
     if (routing) return;
+    noteWhere();
     const next = currentRoute();
     if ((location.hash || "") === next) { freshTrail = false; return; }
     // each history entry notes the view it was opened from, so the panel's back link can use the browser's Back
@@ -1466,6 +1470,7 @@
       if (trail.length > 30) trail.shift();
     }
     applyRoute(location.hash, true);
+    noteWhere();
     if (back) { restoreScroll(top.scroll); rerender(); }
   });
 
@@ -1601,8 +1606,37 @@
     return true;
   }
   document.addEventListener("focusin", (e) => { if (e.target.dataset && e.target.dataset.note && needSignIn(e.target)) e.target.blur(); });
-  // another reader signed in or out, or their records arrived from the account: redraw the flags, the markers and the panel
-  if (CLOUD) CLOUD.onChange(() => { if (started) { syncFlags(); updateMarkers(); rerender(); } });
+  // another reader signed in or out, or their records arrived from the account: redraw the flags, the markers and the panel.
+  // Signing out also puts the atlas back at the start (the world, no place or book open, no trail), so whoever uses
+  // this browser next does not begin on the page the last reader left open.
+  let signedIn = !!(CLOUD && CLOUD.user());
+  if (CLOUD) CLOUD.onChange((u) => {
+    const left = signedIn && !u;
+    if (signedIn !== !!u) whereReady = false;
+    signedIn = !!u;
+    if (!started) return;
+    syncFlags(); updateMarkers();
+    if (left) { forget(); goWorld(true); } else rerender();
+  });
+  // A reader has signed in and their records are here.
+  // - An account that has been here before goes back to the view it had open last (on this or another device). If
+  //   they signed in by pressing a control, that is done first; a control that opens something (the trip dialog, a
+  //   note) keeps them where they are.
+  // - An account that is new stays where it is, so the control they pressed is pressed on the page they chose.
+  if (CLOUD) CLOUD.onArrive(({ fresh, then }) => {
+    const last = RS.where.get();
+    if (then) then();
+    if (fresh && started) {
+      const busy = !!document.querySelector("dialog[open]") || /^(TEXTAREA|INPUT)$/.test((document.activeElement || {}).tagName || "");
+      if (last !== null && last !== currentRoute() && !busy) {
+        forget();
+        history.pushState({ fresh: true }, "", last || location.pathname + location.search);
+        if (!applyRoute(last, true)) { history.replaceState(null, "", location.pathname + location.search); routing = true; goWorld(true); routing = false; }
+      }
+    }
+    whereReady = true;
+    if (fresh) noteWhere();
+  });
   function rerender() {
     if (state.tab === "travel") renderTravel();
     else if (state.tab === "reading") renderReading();
