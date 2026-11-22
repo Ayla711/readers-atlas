@@ -730,7 +730,34 @@ window.RA_COUNTRIES = [
    "data/sr/lines.js"
   ],
   "open": true
+ },
+ {
+  "code": "pt",
+  "iso": "PRT",
+  "name": "Portugal",
+  "name_zh": "葡萄牙",
+  "short": "Portugal",
+  "short_zh": "葡萄牙",
+  "region_term": {
+   "en": "district",
+   "zh": "区"
+  },
+  "bounds": [
+   -9.6,
+   36.9,
+   -6.1,
+   42.2
+  ],
+  "small_regions": [],
+  "wash": {},
+  "data": [
+   "data/pt/geo.js",
+   "data/pt/books.js",
+   "data/pt/places.js",
+   "data/pt/lines.js"
+  ],
+  "open": true
  }
 ];
 // Totals over every open country, for the world page.
-window.RA_WORLD_STATS = {"countries": 24, "books": 1073, "lines": 1053, "places": 1177};
+window.RA_WORLD_STATS = {"countries": 25, "books": 1122, "lines": 1115, "places": 1239};

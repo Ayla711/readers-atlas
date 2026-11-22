@@ -3818,6 +3818,146 @@
       ],
       "wash": {},
       "continent": "south-america"
+    },
+    {
+      "code": "pt",
+      "iso": "PRT",
+      "name": "Portugal",
+      "name_zh": "葡萄牙",
+      "short": "Portugal",
+      "short_zh": "葡萄牙",
+      "region_term": {
+        "en": "district",
+        "zh": "区"
+      },
+      "bounds": [
+        -9.6,
+        36.9,
+        -6.1,
+        42.2
+      ],
+      "step": 0.004,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "adm1_code",
+            "map": {
+              "PRT-744": "PT-07",
+              "PRT-747": "PT-12",
+              "PRT-741": "PT-16",
+              "PRT-751": "PT-05",
+              "PRT-753": "PT-09",
+              "PRT-750": "PT-04",
+              "PRT-756": "PT-17",
+              "PRT-749": "PT-03",
+              "PRT-745": "PT-08",
+              "PRT-743": "PT-02",
+              "PRT-5498": "PT-15",
+              "PRT-746": "PT-11",
+              "PRT-748": "PT-14",
+              "PRT-740": "PT-10",
+              "PRT-752": "PT-06",
+              "PRT-739": "PT-01",
+              "PRT-754": "PT-13",
+              "PRT-736": "PT-30",
+              "PRT-735": "PT-20",
+              "PRT-755": "PT-18"
+            }
+          }
+        ],
+        "names": {
+          "PT-01": [
+            "Aveiro",
+            "阿威罗区"
+          ],
+          "PT-02": [
+            "Beja",
+            "贝雅区"
+          ],
+          "PT-03": [
+            "Braga",
+            "布拉加区"
+          ],
+          "PT-04": [
+            "Bragança",
+            "布拉干萨区"
+          ],
+          "PT-05": [
+            "Castelo Branco",
+            "布朗库堡区"
+          ],
+          "PT-06": [
+            "Coimbra",
+            "科英布拉区"
+          ],
+          "PT-07": [
+            "Évora",
+            "埃武拉区"
+          ],
+          "PT-08": [
+            "Faro",
+            "法鲁区"
+          ],
+          "PT-09": [
+            "Guarda",
+            "瓜达区"
+          ],
+          "PT-10": [
+            "Leiria",
+            "莱里亚区"
+          ],
+          "PT-11": [
+            "Lisbon",
+            "里斯本区"
+          ],
+          "PT-12": [
+            "Portalegre",
+            "波塔莱格雷区"
+          ],
+          "PT-13": [
+            "Porto",
+            "波尔图区"
+          ],
+          "PT-14": [
+            "Santarém",
+            "圣塔伦区"
+          ],
+          "PT-15": [
+            "Setúbal",
+            "塞图巴尔区"
+          ],
+          "PT-16": [
+            "Viana do Castelo",
+            "维亚纳堡区"
+          ],
+          "PT-17": [
+            "Vila Real",
+            "雷阿尔城区"
+          ],
+          "PT-18": [
+            "Viseu",
+            "维塞乌区"
+          ],
+          "PT-20": [
+            "Azores",
+            "亚速尔群岛"
+          ],
+          "PT-30": [
+            "Madeira",
+            "马德拉群岛"
+          ]
+        }
+      },
+      "data": [
+        "data/pt/geo.js",
+        "data/pt/books.js",
+        "data/pt/places.js",
+        "data/pt/lines.js"
+      ],
+      "open": true,
+      "small_regions": [],
+      "wash": {}
     }
   ]
 }
