@@ -1431,3 +1431,44 @@
 | Castello Brown, Portofino | Superchilum | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ACastello_Brown_Portofino_01.jpg) |
 | Positano ('Mongibello') | Bernard Gagnon | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3APositano_%28Italy%29_03.jpg) |
 | Griante (Grianta), Lake Como | Ottantafame | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AGriante_-_Griante_-_2026-09-13_00-01-24_004.jpg) |
+| Rütli | Parpan05 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AR%C3%BCtli_Wiese.jpg) |
+| Hohle Gasse, Küssnacht | Haecki Ursula | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ATellskapelle%2C_K%C3%BCssnacht%2C_Kanton_Schwyz.jpg) |
+| Chillon Castle | Christian David | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ACh%C3%A2teau_de_Chillon_and_the_snow-capped_Dents_du_Midi%2C_Veytaux%2C_Vaud.jpg) |
+| Jungfrau | Earth explorer | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A2008_Jungfrau-2.jpg) |
+| St. Peter's Island, Lake Biel | W. Bulach | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A00_0357_Erlach_Schweiz_-_St._Peterinsel.jpg) |
+| Lake Zurich | Ank Kumar | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ALake_Zurich%2C_Zurich_%28Ank_Kumar%29_04.jpg) |
+| Sumiswald | Roland Zumbuehl | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A2014-Sumiswald-Schloss.jpg) |
+| Reichenbach Falls, Meiringen | Andrew Bowden from Marple, United Kingdon | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AThe_Reichenbach_Falls_%282803039095%29.jpg) |
+| Hôtel des Trois Couronnes, Vevey | Jmh2o | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AVevey_-_H%C3%B4tel_des_Trois_Couronnes_vu_du_L%C3%A9man_-_2022-09-12_-_02.jpg) |
+| Hotel Schweizerhof, Lucerne | W. Bulach | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A00_0051_Hotel_Schweizerhof%2C_Luzern_%28Schweiz%29.jpg) |
+| Great St Bernard Hospice | Ludovic Péron | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AHospice_du_Grand_Saint-Bernard_-_1.jpg) |
+| Simplon Pass | Hp.Baumeler | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ASimplonpass_2021_%2833%29.jpg) |
+| Clarens | Photochrom Print Collection | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3AClarens%2C_general_view%2C_from_the_Lake%2C_Geneva_Lake%2C_Switzerland-LCCN2001702430.jpg) |
+| Plaine de Plainpalais, Geneva | Guilhem Vellut from Annecy, France | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3APlainpalais_%40_Gen%C3%A8ve_%2850686799316%29.jpg) |
+| Rigi Kulm | Marcin Białek | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ARigi_Kulm_east_slope_2012.JPG) |
+| Maienfeld | JoachimKohler-HB | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AWein_und_Berge_-_Rebst%C3%B6cke_in_der_B%C3%BCndner_Herrschaft_bei_Maienfeld_GR_%282021%29.jpg) |
+| Keller's birthplace, Neumarkt, Zurich | Roland zh | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AZ%C3%BCrich_-_Neumarkt_IMG_0585_ShiftN.jpg) |
+| Château de Muzot, Veyras | Petiloud | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ACh%C3%A2teau_de_Muzot%2C_Veyras.jpg) |
+| Twann | Paebi | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ATwann_Gasse_02.jpg) |
+| Centre Dürrenmatt, Neuchâtel | Simon Schmid | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ALe_Centre_D%C3%BCrrenmatt_Neuch%C3%A2tel.jpg) |
+| Berzona | Formkurve92 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABerzona_Oratorium.JPG) |
+| Museo Hermann Hesse, Montagnola | Hadi | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AMontagnolaHesseMuseum.JPG) |
+| Biel/Bienne | Roland Zumbuehl | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A2005-Biel-Altstadt.jpg) |
+| Derborence | Christian David | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ALac_de_Derborence_-_ao%C3%BBt_2022_%281%29.jpg) |
+| Château de Coppet | Ji-Elle | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ACh%C3%A2teau_de_Coppet_%2813%29.jpg) |
+| Chur | Agnes Monkelbaan | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AChur_in_Graub%C3%BCnden_%28Zwitserland%29_035.jpg) |
+| Leukerbad | André Corboz | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ALo%C3%A8che-les-Bains._Parete_rocciosa_del_Passo_della_Gemmi.jpg) |
+| Basel Minster (Erasmus's grave) | Falk2 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AL02_441_Basler_M%C3%BCnster.jpg) |
+| La Chaux-de-Fonds | MadGeographer | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3ALa_Chaux_de_Fonds.jpg) |
+| Kirchenfeld Bridge, Bern | JoachimKohler-HB | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AAare%2C_Kirchenfeldbr%C3%BCcke_mit_Tram%2C_Casino_%26_M%C3%BCnsterturm_%28Bern_2022%29.jpg) |
+| Davos | MadGeographer | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ADavos2.jpg) |
+| Nietzsche-Haus, Sils Maria | Paebi | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ASils_Nietzsche_Haus.JPG) |
+| Fluntern Cemetery, Zurich (Joyce's grave) | Charly Bernasconi | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AFriedhof_Fluntern_Familiengr%C3%A4ber.JPG) |
+| Cimetière des Rois, Geneva (Borges's grave) | Montjo | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABorges_Grave_Cemetary_Geneva_01.JPG) |
+| Les Délices, Geneva (Voltaire's house) | Gfuerst | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AInstitut_Musee_Voltaire_Geneve.JPG) |
+| Montreux Palace | Markus Schweizer | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AFairmont_Le_Montreux-Palace.jpg) |
+| Lausanne | Gzzz | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ACath%C3%A9drale_de_Lausanne_depuis_le_Champ_de_l%27Air.JPG) |
+| Tegna | NAC | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ATegna_010315.jpg) |
+| Ronco sopra Ascona (Remarque's grave) | Thomas Wenger | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AChurch_and_village_of_Ronco_sopra_Ascona.jpg) |
+| Kilchberg (Thomas Mann's grave) | Adrianlimani91 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AKilchberg_Panorama.jpg) |
+| Villa Diodati, Cologny | Robertgrassi | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3AVilla_diodati_2008.07.27_rg_5.JPG) |

@@ -4277,6 +4277,181 @@
       "open": true,
       "small_regions": [],
       "wash": {}
+    },
+    {
+      "code": "ch",
+      "iso": "CHE",
+      "name": "Switzerland",
+      "name_zh": "瑞士",
+      "short": "Switzerland",
+      "short_zh": "瑞士",
+      "region_term": {
+        "en": "canton",
+        "zh": "州"
+      },
+      "bounds": [
+        5.9,
+        45.8,
+        10.55,
+        47.85
+      ],
+      "step": 0.002,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "CH-ZH": "CH-ZH",
+              "CH-BE": "CH-BE",
+              "CH-LU": "CH-LU",
+              "CH-UR": "CH-UR",
+              "CH-SZ": "CH-SZ",
+              "CH-OW": "CH-OW",
+              "CH-NW": "CH-NW",
+              "CH-GL": "CH-GL",
+              "CH-ZG": "CH-ZG",
+              "CH-FR": "CH-FR",
+              "CH-SO": "CH-SO",
+              "CH-BS": "CH-BS",
+              "CH-BL": "CH-BL",
+              "CH-SH": "CH-SH",
+              "CH-AR": "CH-AR",
+              "CH-AI": "CH-AI",
+              "CH-SG": "CH-SG",
+              "CH-GR": "CH-GR",
+              "CH-AG": "CH-AG",
+              "CH-TG": "CH-TG",
+              "CH-TI": "CH-TI",
+              "CH-VD": "CH-VD",
+              "CH-VS": "CH-VS",
+              "CH-NE": "CH-NE",
+              "CH-GE": "CH-GE",
+              "CH-JU": "CH-JU"
+            }
+          }
+        ],
+        "names": {
+          "CH-ZH": [
+            "Zürich",
+            "苏黎世州"
+          ],
+          "CH-BE": [
+            "Bern",
+            "伯尔尼州"
+          ],
+          "CH-LU": [
+            "Lucerne",
+            "卢塞恩州"
+          ],
+          "CH-UR": [
+            "Uri",
+            "乌里州"
+          ],
+          "CH-SZ": [
+            "Schwyz",
+            "施维茨州"
+          ],
+          "CH-OW": [
+            "Obwalden",
+            "上瓦尔登州"
+          ],
+          "CH-NW": [
+            "Nidwalden",
+            "下瓦尔登州"
+          ],
+          "CH-GL": [
+            "Glarus",
+            "格拉鲁斯州"
+          ],
+          "CH-ZG": [
+            "Zug",
+            "楚格州"
+          ],
+          "CH-FR": [
+            "Fribourg",
+            "弗里堡州"
+          ],
+          "CH-SO": [
+            "Solothurn",
+            "索洛图恩州"
+          ],
+          "CH-BS": [
+            "Basel-Stadt",
+            "巴塞尔城市州"
+          ],
+          "CH-BL": [
+            "Basel-Landschaft",
+            "巴塞尔乡村州"
+          ],
+          "CH-SH": [
+            "Schaffhausen",
+            "沙夫豪森州"
+          ],
+          "CH-AR": [
+            "Appenzell Ausserrhoden",
+            "外阿彭策尔州"
+          ],
+          "CH-AI": [
+            "Appenzell Innerrhoden",
+            "内阿彭策尔州"
+          ],
+          "CH-SG": [
+            "St. Gallen",
+            "圣加仑州"
+          ],
+          "CH-GR": [
+            "Graubünden",
+            "格劳宾登州"
+          ],
+          "CH-AG": [
+            "Aargau",
+            "阿尔高州"
+          ],
+          "CH-TG": [
+            "Thurgau",
+            "图尔高州"
+          ],
+          "CH-TI": [
+            "Ticino",
+            "提契诺州"
+          ],
+          "CH-VD": [
+            "Vaud",
+            "沃州"
+          ],
+          "CH-VS": [
+            "Valais",
+            "瓦莱州"
+          ],
+          "CH-NE": [
+            "Neuchâtel",
+            "纳沙泰尔州"
+          ],
+          "CH-GE": [
+            "Geneva",
+            "日内瓦州"
+          ],
+          "CH-JU": [
+            "Jura",
+            "汝拉州"
+          ]
+        }
+      },
+      "data": [
+        "data/ch/geo.js",
+        "data/ch/books.js",
+        "data/ch/places.js",
+        "data/ch/lines.js"
+      ],
+      "open": true,
+      "small_regions": [
+        "CH-BS",
+        "CH-AI",
+        "CH-NW",
+        "CH-ZG"
+      ],
+      "wash": {}
     }
   ]
 }

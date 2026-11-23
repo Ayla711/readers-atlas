@@ -842,7 +842,39 @@ window.RA_COUNTRIES = [
    "data/pl/lines.js"
   ],
   "open": true
+ },
+ {
+  "code": "ch",
+  "iso": "CHE",
+  "name": "Switzerland",
+  "name_zh": "瑞士",
+  "short": "Switzerland",
+  "short_zh": "瑞士",
+  "region_term": {
+   "en": "canton",
+   "zh": "州"
+  },
+  "bounds": [
+   5.9,
+   45.8,
+   10.55,
+   47.85
+  ],
+  "small_regions": [
+   "CH-BS",
+   "CH-AI",
+   "CH-NW",
+   "CH-ZG"
+  ],
+  "wash": {},
+  "data": [
+   "data/ch/geo.js",
+   "data/ch/books.js",
+   "data/ch/places.js",
+   "data/ch/lines.js"
+  ],
+  "open": true
  }
 ];
 // Totals over every open country, for the world page.
-window.RA_WORLD_STATS = {"countries": 28, "books": 1423, "lines": 1400, "places": 1612};
+window.RA_WORLD_STATS = {"countries": 29, "books": 1450, "lines": 1424, "places": 1653};
