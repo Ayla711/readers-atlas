@@ -4157,6 +4157,126 @@
         "CZ-PR"
       ],
       "wash": {}
+    },
+    {
+      "code": "pl",
+      "iso": "POL",
+      "name": "Poland",
+      "name_zh": "波兰",
+      "short": "Poland",
+      "short_zh": "波兰",
+      "region_term": {
+        "en": "voivodeship",
+        "zh": "省"
+      },
+      "bounds": [
+        14.0,
+        48.9,
+        24.2,
+        54.9
+      ],
+      "step": 0.004,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "PL-MZ": "PL-MZ",
+              "PL-MA": "PL-MA",
+              "PL-SL": "PL-SL",
+              "PL-DS": "PL-DS",
+              "PL-OP": "PL-OP",
+              "PL-PK": "PL-PK",
+              "PL-LU": "PL-LU",
+              "PL-SK": "PL-SK",
+              "PL-LD": "PL-LD",
+              "PL-WP": "PL-WP",
+              "PL-KP": "PL-KP",
+              "PL-PM": "PL-PM",
+              "PL-ZP": "PL-ZP",
+              "PL-LB": "PL-LB",
+              "PL-WN": "PL-WN",
+              "PL-PD": "PL-PD"
+            }
+          }
+        ],
+        "names": {
+          "PL-MZ": [
+            "Masovia",
+            "马佐夫舍省"
+          ],
+          "PL-MA": [
+            "Lesser Poland",
+            "小波兰省"
+          ],
+          "PL-SL": [
+            "Silesia",
+            "西里西亚省"
+          ],
+          "PL-DS": [
+            "Lower Silesia",
+            "下西里西亚省"
+          ],
+          "PL-OP": [
+            "Opole",
+            "奥波莱省"
+          ],
+          "PL-PK": [
+            "Subcarpathia",
+            "喀尔巴阡山省"
+          ],
+          "PL-LU": [
+            "Lublin",
+            "卢布林省"
+          ],
+          "PL-SK": [
+            "Świętokrzyskie",
+            "圣十字省"
+          ],
+          "PL-LD": [
+            "Łódź",
+            "罗兹省"
+          ],
+          "PL-WP": [
+            "Greater Poland",
+            "大波兰省"
+          ],
+          "PL-KP": [
+            "Kuyavia-Pomerania",
+            "库亚维-滨海省"
+          ],
+          "PL-PM": [
+            "Pomerania",
+            "滨海省"
+          ],
+          "PL-ZP": [
+            "West Pomerania",
+            "西滨海省"
+          ],
+          "PL-LB": [
+            "Lubusz",
+            "卢布斯卡省"
+          ],
+          "PL-WN": [
+            "Warmia-Masuria",
+            "瓦尔米亚-马祖里省"
+          ],
+          "PL-PD": [
+            "Podlaskie",
+            "波德拉谢省"
+          ]
+        }
+      },
+      "data": [
+        "data/pl/geo.js",
+        "data/pl/books.js",
+        "data/pl/places.js",
+        "data/pl/lines.js"
+      ],
+      "open": true,
+      "small_regions": [],
+      "wash": {}
     }
   ]
 }

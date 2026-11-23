@@ -815,7 +815,34 @@ window.RA_COUNTRIES = [
    "data/cz/lines.js"
   ],
   "open": true
+ },
+ {
+  "code": "pl",
+  "iso": "POL",
+  "name": "Poland",
+  "name_zh": "波兰",
+  "short": "Poland",
+  "short_zh": "波兰",
+  "region_term": {
+   "en": "voivodeship",
+   "zh": "省"
+  },
+  "bounds": [
+   14.0,
+   48.9,
+   24.2,
+   54.9
+  ],
+  "small_regions": [],
+  "wash": {},
+  "data": [
+   "data/pl/geo.js",
+   "data/pl/books.js",
+   "data/pl/places.js",
+   "data/pl/lines.js"
+  ],
+  "open": true
  }
 ];
 // Totals over every open country, for the world page.
-window.RA_WORLD_STATS = {"countries": 27, "books": 1226, "lines": 1209, "places": 1365};
+window.RA_WORLD_STATS = {"countries": 28, "books": 1286, "lines": 1268, "places": 1435};
