@@ -786,7 +786,36 @@ window.RA_COUNTRIES = [
    "data/at/lines.js"
   ],
   "open": true
+ },
+ {
+  "code": "cz",
+  "iso": "CZE",
+  "name": "Czechia",
+  "name_zh": "捷克",
+  "short": "Czechia",
+  "short_zh": "捷克",
+  "region_term": {
+   "en": "region",
+   "zh": "州"
+  },
+  "bounds": [
+   12.0,
+   48.5,
+   18.9,
+   51.1
+  ],
+  "small_regions": [
+   "CZ-PR"
+  ],
+  "wash": {},
+  "data": [
+   "data/cz/geo.js",
+   "data/cz/books.js",
+   "data/cz/places.js",
+   "data/cz/lines.js"
+  ],
+  "open": true
  }
 ];
 // Totals over every open country, for the world page.
-window.RA_WORLD_STATS = {"countries": 26, "books": 1175, "lines": 1164, "places": 1302};
+window.RA_WORLD_STATS = {"countries": 27, "books": 1226, "lines": 1209, "places": 1365};

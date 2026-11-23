@@ -4045,6 +4045,118 @@
         "AT-9"
       ],
       "wash": {}
+    },
+    {
+      "code": "cz",
+      "iso": "CZE",
+      "name": "Czechia",
+      "name_zh": "捷克",
+      "short": "Czechia",
+      "short_zh": "捷克",
+      "region_term": {
+        "en": "region",
+        "zh": "州"
+      },
+      "bounds": [
+        12.0,
+        48.5,
+        18.9,
+        51.1
+      ],
+      "step": 0.004,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "CZ-PR": "CZ-PR",
+              "CZ-ST": "CZ-ST",
+              "CZ-JC": "CZ-JC",
+              "CZ-PL": "CZ-PL",
+              "CZ-KA": "CZ-KA",
+              "CZ-US": "CZ-US",
+              "CZ-LI": "CZ-LI",
+              "CZ-KR": "CZ-KR",
+              "CZ-PA": "CZ-PA",
+              "CZ-VY": "CZ-VY",
+              "CZ-JM": "CZ-JM",
+              "CZ-OL": "CZ-OL",
+              "CZ-ZL": "CZ-ZL",
+              "CZ-MO": "CZ-MO"
+            }
+          }
+        ],
+        "names": {
+          "CZ-PR": [
+            "Prague",
+            "布拉格"
+          ],
+          "CZ-ST": [
+            "Central Bohemia",
+            "中波希米亚州"
+          ],
+          "CZ-JC": [
+            "South Bohemia",
+            "南波希米亚州"
+          ],
+          "CZ-PL": [
+            "Plzeň Region",
+            "比尔森州"
+          ],
+          "CZ-KA": [
+            "Karlovy Vary Region",
+            "卡罗维发利州"
+          ],
+          "CZ-US": [
+            "Ústí nad Labem Region",
+            "乌斯季州"
+          ],
+          "CZ-LI": [
+            "Liberec Region",
+            "利贝雷茨州"
+          ],
+          "CZ-KR": [
+            "Hradec Králové Region",
+            "赫拉德茨-克拉洛韦州"
+          ],
+          "CZ-PA": [
+            "Pardubice Region",
+            "帕尔杜比采州"
+          ],
+          "CZ-VY": [
+            "Vysočina",
+            "维索基纳州"
+          ],
+          "CZ-JM": [
+            "South Moravia",
+            "南摩拉维亚州"
+          ],
+          "CZ-OL": [
+            "Olomouc Region",
+            "奥洛穆茨州"
+          ],
+          "CZ-ZL": [
+            "Zlín Region",
+            "兹林州"
+          ],
+          "CZ-MO": [
+            "Moravia-Silesia",
+            "摩拉维亚-西里西亚州"
+          ]
+        }
+      },
+      "data": [
+        "data/cz/geo.js",
+        "data/cz/books.js",
+        "data/cz/places.js",
+        "data/cz/lines.js"
+      ],
+      "open": true,
+      "small_regions": [
+        "CZ-PR"
+      ],
+      "wash": {}
     }
   ]
 }
