@@ -1616,3 +1616,4 @@
 | Hokitika | Michal Klajban | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABeach_in_Hokitika%2C_West_Coast%2C_New_Zealand.jpg) |
 | Wellington, New South Wales | Kgbo | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AWellington_Hotel%2C_Wellington%2C_NSW%2C_2022.jpg) |
 | Fes el Bali (old Fez) | Hiroki Ogawa | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3APanorama_Fes_el_Bali_Borj_Sud_Fez_morocco_-_panoramio.jpg) |
+| Limuru | Mekami | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ALimuru_tea_farms.jpg) |

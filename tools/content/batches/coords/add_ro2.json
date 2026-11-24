@@ -1,0 +1,7 @@
+{
+ "ro-antim": {"lat": 44.42629, "lon": 26.09402, "st": "Mănăstirea Antim (Romanian Wikipedia, article coordinates)", "su": "https://ro.wikipedia.org/wiki/M%C4%83n%C4%83stirea_Antim"},
+ "ro-sabasa": {"lat": 47.20167, "lon": 25.8175, "st": "Sabasa, Neamț (Romanian Wikipedia, article coordinates)", "su": "https://ro.wikipedia.org/wiki/Sabasa,_Neam%C8%9B"},
+ "ro-campulung": {"lat": 45.26777778, "lon": 25.04638889, "st": "Câmpulung (English Wikipedia, article coordinates)", "su": "https://en.wikipedia.org/wiki/C%C3%A2mpulung"},
+ "ro-silistea": {"lat": 44.38222, "lon": 25.01083, "st": "Siliștea Gumești, Teleorman (Romanian Wikipedia, article coordinates)", "su": "https://ro.wikipedia.org/wiki/Sili%C8%99tea_Gume%C8%99ti,_Teleorman"},
+ "ro-ineu": {"lat": 46.42583333, "lon": 21.83694444, "st": "Ineu (English Wikipedia, article coordinates)", "su": "https://en.wikipedia.org/wiki/Ineu"}
+}
