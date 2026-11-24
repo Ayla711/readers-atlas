@@ -1,4 +1,4 @@
-"""11-24: Australia, first pack: 8 books, 8 places. Marcus Clarke's Macquarie Harbour, Banjo Paterson's Snowy River and
+"""11-24: Australia, first pack: 8 books, 9 places. Marcus Clarke's Macquarie Harbour, Banjo Paterson's Snowy River and
 Combo Waterhole ("Waltzing Matilda"), Miles Franklin's Brindabella, Hanging Rock, Ruth Park's Surry Hills and Kate
 Grenville's Hawkesbury River, and Colleen McCullough's birthplace for The Thorn Birds, whose Drogheda is invented.
 
@@ -10,8 +10,10 @@ in copyright get scene notes with a fact source. What a cut changes is named in 
 
 Coordinates are those of the place's English Wikipedia article (coords/add_au1.json).
 
-My Brilliant Career has no line: no source checked says that the novel's Bruggabrong is Brindabella, so the book hangs on
-the station where Miles Franklin grew up, as a pilgrimage place.
+Fix of 11-24 (the atlas's rule: a book worth having is hung on the nearest real place even when its exact spot cannot be
+found): My Brilliant Career is quoted at Goulburn (the novel itself says 'Possum Gully is near Goulburn; no source says
+its Bruggabrong is Brindabella, so Brindabella stays a pilgrimage place), and The Thorn Birds, whose Drogheda and
+Gillanbone are invented, gets a scene note at Colleen McCullough's birthplace.
 
 Usage: python3 -I add_au1.py <app_dir> <coords.json> <wikisource_root>"""
 import glob, json, os, re, sys
@@ -166,6 +168,26 @@ lines = [
       "William Thornhill, a London waterman sentenced to death for stealing wood, has his sentence commuted to transportation to New South Wales in 1806. Once free, he takes up a hundred acres on the Hawkesbury River, land the Dharug people already live on, and the novel follows the conflict that ends in a massacre.",
       "伦敦船夫威廉·桑希尔因偷木头被判死刑，1806 年改判流放新南威尔士。获释后，他在霍克斯伯里河边占了一百英亩地，而达鲁格人早已生活在这片土地上；小说一路写到这场冲突以一场屠杀告终。",
       ["Hawkesbury River"], ["霍克斯伯里河"], "https://en.wikipedia.org/wiki/The_Secret_River"),
+]
+
+# ---- 11-24 fix: famous books hung even without an exact spot (user rule) ----
+T_B2, T_B3 = "My Brilliant Career/Chapter 2", "My Brilliant Career/Chapter 3"
+places += [
+    ORIG("au-goulburn", "Goulburn", "古尔本",
+         "City on the Southern Tablelands of New South Wales. When Miles Franklin was about ten her family left Brindabella for a small farm near Goulburn, and that district is the setting of My Brilliant Career, where the farm is called Possum Gully. The farm is not identified more closely; the pin is the city's point",
+         "新南威尔士州南部高原上的城市。迈尔斯·富兰克林十岁左右时，全家离开布林达贝拉，搬到古尔本附近的一个小农场；《我的光辉生涯》就以这一带为背景，书中那个农场叫“负鼠谷”。农场的具体位置无从确认，图钉标在城区"),
+]
+lines += [
+    EN("au-bc-1", "my-brilliant-career", "au-goulburn", "Chapters 2 and 3", "第二、三章", T_B3,
+       raw(T_B2, once(T_B2, "He gave up Bruggabrong, Bin Bin East, and Bin Bin West,"), "to live near Goulburn.", "en") + "\n…\n"
+       + raw(T_B3, once(T_B3, "’Possum Gully was stagnant"), "when they passed childhood.", "en"),
+       ["’Possum Gully", "Goulburn"],
+       "他放弃了布鲁加布朗、东宾宾和西宾宾，买下了“负鼠谷”——一个一千英亩的小农场，带着我们全家搬到古尔本附近住。\n…\n“负鼠谷”死气沉沉——老乡村地方普遍都有的那种狭隘的死气沉沉。\n这里住的大多是有家室的人和十六岁以下的孩子。男孩子一长大成人，就漂到内陆去剪羊毛、赶牲口，或者去占块地。他们嫌家里太慢；何况过了童年，家里也没有他们的位置了。",
+       ["负鼠谷", "古尔本"], note=" (two passages, the end of chapter 2's account of the move and the opening of chapter 3; Chinese is our own)"),
+    S("au-tb-1", "the-thorn-birds", "au-wellington", "The novel as a whole", "全书",
+      "The story begins in New Zealand on 8 December 1915, Meggie Cleary's fourth birthday. The family moves to Drogheda, the huge sheep station in New South Wales owned by her father's widowed sister Mary Carson, where Meggie meets Ralph de Bricassart, a young priest sent to the remote parish of Gillanbone near by; the novel follows the Clearys to 1969. Drogheda and Gillanbone are invented, so the line hangs at the author's birthplace.",
+      "故事从 1915 年 12 月 8 日的新西兰开始，那天是梅吉·克利里四岁的生日。全家后来搬到德罗海达——她父亲守寡的姐姐玛丽·卡森在新南威尔士的大牧场；在那里，梅吉遇见了被贬到附近偏远的基兰博教区的年轻神父拉尔夫·德·布里克萨特。小说一直写到 1969 年。德罗海达和基兰博都是虚构的，所以这一条挂在作者的出生地。",
+      ["Drogheda"], ["德罗海达"], "https://en.wikipedia.org/wiki/The_Thorn_Birds"),
 ]
 
 # ============================== checks ==============================

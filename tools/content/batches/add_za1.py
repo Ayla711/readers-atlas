@@ -7,9 +7,10 @@ our own drafts. Books in copyright get scene notes with a fact source. What a cu
 
 Coordinates are those of the place's English Wikipedia article, Schreiner House's from Wikidata (coords/add_za1.json).
 
-Not quoted: The Story of an African Farm, Native Life in South Africa and Mhudi are in the public domain, but English
-Wikisource has no text of them and Project Gutenberg could not be reached from here, so their books hang on the two
-houses without a line. Left out: Coetzee's Disgrace; no source checked named the town of Lucy's smallholding.
+Fix of 11-24 (the atlas's rule: a book worth having is hung on the nearest real place even when its exact spot cannot be
+found): Disgrace is added at Salem, Mhudi is quoted at Thaba Nchu (English Wikisource does have it), and The Story of an
+African Farm and Native Life in South Africa get scene notes on the Schreiner and Plaatje houses (neither text is on
+English Wikisource, and Project Gutenberg could not be reached from here).
 
 Usage: python3 -I add_za1.py <app_dir> <coords.json> <wikisource_root>"""
 import glob, json, os, re, sys
@@ -169,6 +170,41 @@ lines = [
       "After the Rivonia Trial Mandela and his fellow accused are flown to Robben Island in 1964. He describes the damp concrete cell, about eight feet by seven, with a straw mat to sleep on; the days spent breaking stones in the yard and then, from 1965, working in the lime quarry; and the memoirs he began in 1975, a copy of which was smuggled out while the buried pages were found by the warders.",
       "瑞佛尼亚审判之后，1964 年曼德拉和同案的人被用飞机送到罗本岛。他写到那间潮湿的水泥牢房，大约八英尺长、七英尺宽，睡在一张草垫上；写到在院子里砸石头的日子，以及 1965 年起在石灰石矿场的劳动；还有 1975 年动笔的回忆录——一份抄本被偷运出岛，埋在地下的手稿却被看守发现。",
       ["Robben Island"], ["罗本岛"], "https://en.wikipedia.org/wiki/Nelson_Mandela; https://en.wikipedia.org/wiki/Long_Walk_to_Freedom"),
+]
+
+# ---- 11-24 fix: famous books hung even without an exact spot (user rule) ----
+T_MH = "Mhudi/Chapter 10"
+books += [
+    BK("disgrace", "Disgrace", "耻", "Disgrace", "J. M. Coetzee", "J. M. 库切", "J. M. Coetzee", "1999", lang="en", pd=False,
+       aliases=["David Lurie", "Lucy", "Salem", "Coetzee", "库切"]),
+]
+places += [
+    ORIG("za-salem", "Salem, Eastern Cape", "塞勒姆，东开普省",
+         "Small village in the Eastern Cape, founded by a party of the 1820 Settlers. In Disgrace (1999) David Lurie leaves Cape Town for his daughter Lucy's smallholding at Salem; she sells her produce at a market stall in nearby Grahamstown. The smallholding itself is invented; the pin is the village's point",
+         "东开普省的小村子，由 1820 年移民中的一批人建立。《耻》（1999）里，戴维·卢里离开开普敦，来到女儿露西在塞勒姆的小农场；她在附近格雷厄姆斯敦的集市上摆摊卖自家种的东西。农场本身是虚构的，图钉标在村子的位置"),
+    ORIG("za-thaba-nchu", "Thaba Nchu", "塔巴恩丘",
+         "Town in the Free State, east of Bloemfontein. In Mhudi, the Barolong who survive the sacking of their capital Kunana by the Matebele rebuild their lives at Thaba Nchu (the book spells it Thaba Ncho) under Chief Moroka, and it is here that the first party of Voortrekkers reaches them",
+         "自由邦省的小镇，在布隆方丹以东。《姆胡迪》里，巴罗隆人的都城库纳纳被马塔贝莱人攻破，幸存者在莫罗卡酋长带领下在塔巴恩丘（书中拼作 Thaba Ncho）重建家园；第一批迁徙的布尔人也是在这里来到他们中间"),
+]
+lines += [
+    S("za-di-1", "disgrace", "za-salem", "The chapters on the smallholding", "写小农场的各章",
+      "David Lurie, a professor in Cape Town who loses his post after an affair with a student, goes to his daughter Lucy's smallholding at Salem, where she grows flowers and vegetables and boards dogs, and he helps her friend Bev Shaw at the animal clinic. Three men attack the farm: they set Lurie on fire and rape Lucy.",
+      "开普敦的教授戴维·卢里与学生发生关系后丢了职位，来到女儿露西在塞勒姆的小农场；露西种花种菜，还替人寄养狗，他则去给她的朋友贝芙·肖的动物诊所帮忙。三个男人袭击了农场：他们放火烧卢里，强暴了露西。",
+      ["Salem"], ["塞勒姆"],
+      "https://www.lrb.co.uk/the-paper/v21/n20/elizabeth-lowry/like-a-dog; https://www.ebsco.com/research-starters/literature-and-writing/disgrace-j-m-coetzee; https://swisseduc.ch/english/readinglist/coetzee_jm/disgrace/summary.html"),
+    EN("za-mh-1", "mhudi", "za-thaba-nchu", "Chapter 10, 'Arrival of the Voortrekkers'", "第十章“迁徙者到来”", T_MH,
+       raw(T_MH, once(T_MH, "Thus, for a second time, their dramatic arrival", "en"), "each carried a rifle.", "en"),
+       ["Thaba Ncho"],
+       "于是，他俩戏剧性的到来，又一次成了塔巴恩丘内外人们围着火堆闲谈的好话题。此后好几个月，女人们在家里、在玉米地里干活时，总也说不够他们这段传奇。男人们晚上讲他们的故事打发时间，白天在树荫下鞣皮子、缝皮毯时也讲。人们远道而来看他们，还给他们带来许多礼物。看来他们的“死而复生”真要成为一个经久不衰的话题，压过其他一切，直到有一天，一队白人来到了塔巴恩丘，才把它比了下去。\n他们骑着马，每人都背着一支枪。",
+       ["塔巴恩丘"], note=" (Chinese is our own)"),
+    S("za-af-1", "story-of-an-african-farm", "za-schreiner-house", "The novel as a whole", "全书",
+      "Three children, Waldo, Em and Lyndall, grow up on a farm in the Karoo; the novel follows them first as children and then as adults, and is in part autobiographical, Waldo and Lyndall sharing much of Schreiner's own life and thought. The farm is not a real one that can be found; the line hangs on the house where Schreiner lived as a girl.",
+      "瓦尔多、埃姆和林德尔三个孩子在卡鲁的一座农场上长大；小说先写他们的童年，再写他们长大成人，带有自传色彩，瓦尔多和林德尔身上有许多施赖纳本人的经历和思想。那座农场找不到真实的对应地点，这一条挂在施赖纳少女时代住过的房子上。",
+      ["Karoo"], ["卡鲁"], "https://en.wikipedia.org/wiki/The_Story_of_an_African_Farm"),
+    S("za-nl-1", "native-life-in-south-africa", "za-plaatje-house", "The book as a whole", "全书",
+      "Plaatje's account, published in London in 1916 under the title Native Life in South Africa, Before and Since the European War and the Boer Rebellion, of the Natives' Land Act of 1913 and what it did to black farmers. The line hangs on his house in Kimberley.",
+      "普拉杰的记述，1916 年在伦敦出版，全名《欧洲战争与布尔叛乱前后的南非土著生活》，写 1913 年《土著土地法》以及它给黑人农民带来的遭遇。这一条挂在他在金伯利的故居。",
+      ["South Africa"], ["南非"], "https://en.wikipedia.org/wiki/Sol_Plaatje; https://en.wikipedia.org/wiki/Native_Life_in_South_Africa"),
 ]
 
 # ============================== checks ==============================

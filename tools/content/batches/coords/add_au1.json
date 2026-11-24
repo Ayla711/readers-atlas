@@ -46,5 +46,11 @@
   "lon": 148.93333333,
   "st": "Wellington, New South Wales (English Wikipedia, article coordinates)",
   "su": "https://en.wikipedia.org/wiki/Wellington,_New_South_Wales"
+ },
+ "au-goulburn": {
+  "lat": -34.75583333,
+  "lon": 149.72055556,
+  "st": "Goulburn (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Goulburn"
  }
 }

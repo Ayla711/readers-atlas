@@ -1,14 +1,15 @@
-"""11-24: Nigeria, first pack: 6 books, 6 places. Achebe's Ogidi and Lagos, Soyinka's Ake in Abeokuta, Adichie's Nsukka and
+"""11-24: Nigeria, first pack: 8 books, 8 places. Achebe's Ogidi and Lagos, Soyinka's Ake in Abeokuta, Adichie's Nsukka and
 Enugu, Flora Nwapa's Oguta Lake. The map has the 36 states and the Federal Capital Territory.
 
-All six books are in copyright, so every line is a scene note in our own words with a fact source; there is no quotation
-in this pack.
+Seven of the eight books are in copyright and get scene notes in our own words with a fact source; Equiano's memoir
+is quoted from English Wikisource.
 
 Coordinates are those of the place's English Wikipedia article (coords/add_ng1.json); Ake has no article of its own, so
 its point is Abeokuta's.
 
-Left out: Equiano's Interesting Narrative (its "Essaka" is only thought to be Isseke, and no source gave coordinates for
-Isseke), Soyinka's Death and the King's Horseman (the page checked did not name the town) and anything from the north.
+Fix of 11-24 (the atlas's rule: a book worth having is hung on the nearest real place even when its exact spot cannot be
+found): Equiano's Interesting Narrative is quoted at Isseke (Wikidata gives its coordinates; Essaka is only thought to be
+Isseke, which the place note says), and Death and the King's Horseman is added at Oyo. Still nothing from the north.
 
 Usage: python3 -I add_ng1.py <app_dir> <coords.json> <wikisource_root>"""
 import glob, json, os, re, sys
@@ -135,6 +136,43 @@ lines = [
       "Efuru, daughter of the respected Nwashike Ogene, runs away with Adizua, a poor farmer who has paid no bride price; he abandons her and their daughter Ogonim, and the child dies. In time she is chosen by Uhamiri, the goddess of the lake, who gives her worshippers wealth and beauty but few children.",
       "埃弗鲁是受人敬重的恩瓦希克·奥格内的女儿，她跟着没付聘礼的穷农夫阿迪祖阿私奔；他抛下她和女儿奥贡尼姆，孩子后来也死了。后来她被湖的女神乌哈米里选中——这位女神给信徒财富和美貌，却很少给她们孩子。",
       ["the lake"], ["湖"], "https://en.wikipedia.org/wiki/Efuru; https://en.wikipedia.org/wiki/Oguta_Lake"),
+]
+
+# ---- 11-24 fix: famous books hung even without an exact spot (user rule) ----
+def once(title, s, lang="en"):
+    """the cut must start at the only place the words stand on the page"""
+    n = ws.text(os.path.join(WSR, lang), title).count(s)
+    assert n == 1, (title, s, n)
+    return s
+
+T_EQ = "The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African/Chapter 1"
+books += [
+    BK("interesting-narrative", "The Interesting Narrative of the Life of Olaudah Equiano", "奥拉达·艾奎亚诺生平趣事", "The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African",
+       "Olaudah Equiano", "奥拉达·艾奎亚诺", "Olaudah Equiano", "1789", lang="en",
+       src=ws.url("en", "The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African"),
+       aliases=["Gustavus Vassa", "Essaka", "Equiano", "艾奎亚诺"]),
+    BK("death-and-the-kings-horseman", "Death and the King's Horseman", "死亡与国王的侍从", "Death and the King's Horseman", "Wole Soyinka", "沃莱·索因卡", "Wole Soyinka",
+       "1975", lang="en", pd=False, aliases=["Elesin Oba", "Olunde", "Pilkings", "Oyo", "Soyinka", "索因卡"]),
+]
+places += [
+    ORIG("ng-isseke", "Isseke, Anambra", "伊塞克，阿南布拉州",
+         "Igbo town in Ihiala, Anambra State. Equiano's memoir (1789) says he was born about 1745 in Essaka, a village thought to be Isseke. In 1999 Vincent Carretta pointed to a parish register and a ship's muster suggesting he was born in the American colonies; other scholars hold that the weight of evidence supports an African birth",
+         "阿南布拉州伊希亚拉的伊博族城镇。艾奎亚诺的回忆录（1789）说他大约 1745 年生在一个叫埃萨卡的村子，一般认为就是伊塞克。1999 年文森特·卡雷塔举出一份教区登记和一份船员名册，认为他其实生在北美殖民地；另一些学者则认为，证据总体上支持他生在非洲"),
+    ORIG("ng-oyo", "Oyo", "奥约",
+         "Yoruba city, founded in the 1830s as the capital of what remained of the Oyo empire, and the seat of its king, the Alafin. Soyinka's play is set here and based on events of the 1940s (usually given as 1946): when the king died, the colonial authorities stopped his horseman from following him in ritual suicide",
+         "约鲁巴城市，19 世纪 30 年代作为奥约帝国残余部分的都城建立，是国王阿拉芬的驻地。索因卡的剧本就设在这里，取材于 20 世纪 40 年代（通常说是 1946 年）的一件事：国王去世后，殖民当局阻止了国王的侍从按仪式随王自尽"),
+]
+lines += [
+    EN("ng-eq-1", "interesting-narrative", "ng-isseke", "Chapter 1", "第一章", T_EQ,
+       raw(T_EQ, once(T_EQ, "This kingdom is divided into many provinces or districts:", "en"), "conducted by the chiefs or elders of the place.", "en"),
+       ["Essaka"],
+       "这个王国分为许多省或地区；我就出生在其中最偏远、最富饶的一个，那是 1745 年，在一个叫埃萨卡的美丽丰饶的山谷里。这个省离贝宁的都城和海岸想必很远，因为我从没听说过白人或欧洲人，也没听说过大海；我们对贝宁国王的臣属不过是名义上的，因为就我那点浅薄的见识所及，政事都由当地的首领或长老处理。",
+       ["埃萨卡"], note=" (Chinese is our own)"),
+    S("ng-dk-1", "death-and-the-kings-horseman", "ng-oyo", "The play as a whole", "全剧",
+      "The king of Oyo has died, and Elesin, his horseman, must follow him in death to help his spirit pass on; he spends his last day in celebration in the market. At the last moment the colonial district officer, Simon Pilkings, has him arrested. His son Olunde, home from studying medicine in England, dies in his place to restore the family's honour.",
+      "奥约国王去世了，他的侍从埃勒辛必须随王赴死，帮助国王的灵魂升天；他在集市上欢庆着度过最后一天。最后关头，殖民地区专员西蒙·皮尔金斯把他抓了起来。他的儿子奥伦德刚从英国学医回来，替父亲赴死，挽回了家族的荣誉。",
+      ["Oyo"], ["奥约"],
+      "https://en.wikipedia.org/wiki/Death_and_the_King%27s_Horseman; https://www.litcharts.com/lit/death-and-the-king-s-horseman; https://esat.sun.ac.za/index.php/Death_and_the_King%27s_Horseman"),
 ]
 
 # ============================== checks ==============================

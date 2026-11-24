@@ -6,8 +6,11 @@ The map has Egypt's 27 governorates.
 Quotations (4 lines) are cut from Greek and English Wikisource pages (tools/content/wikisource.py); translations are our
 own drafts. Books in copyright get scene notes with a fact source. What a cut changes is named in `checked`.
 
-Coordinates are those of the place's English Wikipedia article, the museum's from Wikidata (coords/add_eg1.json). Midaq Alley
-has no place of its own: no source gave coordinates for the alley, so the book hangs on the Mahfouz museum.
+Coordinates are those of the place's English Wikipedia article, the museum's from Wikidata (coords/add_eg1.json).
+
+Fix of 11-24 (the atlas's rule: a book worth having is hung on the nearest real place even when its exact spot cannot be
+found): Midaq Alley gets a scene note on the Mahfouz museum (no source gave the alley's coordinates), and The Alexandria
+Quartet is added at Alexandria.
 
 The Ramesseum carries region EG-LX: the map's outlines (Natural Earth) still show Luxor as the small city governorate
 of before 2009, so the west bank would otherwise be counted in Qena.
@@ -169,6 +172,27 @@ lines = [
       "小说的埃及部分从阿斯旺的瀑布酒店门外写起。来度假的赫尔克里·波洛在这里遇见女继承人琳内特·多伊尔；她正和丈夫西蒙度蜜月，而她昔日的好友、西蒙从前的未婚妻杰奎琳·德贝尔福一路紧跟着他们。一行人乘“卡纳克号”汽船沿尼罗河上行，驶向瓦迪哈勒法，琳内特在船上被人开枪打死。",
       ["Cataract Hotel"], ["瀑布酒店"],
       "https://www.smithsonianmag.com/history/how-agatha-christies-love-of-archaeology-influenced-death-on-the-nile-180979544/; https://en.wikipedia.org/wiki/Death_on_the_Nile"),
+]
+
+# ---- 11-24 fix: famous books hung even without an exact spot (user rule) ----
+books += [
+    BK("alexandria-quartet", "The Alexandria Quartet", "亚历山大四重奏", "The Alexandria Quartet", "Lawrence Durrell", "劳伦斯·达雷尔", "Lawrence Durrell",
+       "1957–1960", lang="en", pd=False, aliases=["Justine", "Balthazar", "Mountolive", "Clea", "Durrell", "达雷尔"]),
+]
+places += [
+    ORIG("eg-alexandria", "Alexandria", "亚历山大",
+         "Egypt's second city, on the Mediterranean. Lawrence Durrell's four novels, published between 1957 and 1960, are set here before and during the Second World War. The pin is the city's point; the novels' flats, streets and cafés are not tied to single addresses",
+         "埃及第二大城市，在地中海边。劳伦斯·达雷尔 1957 年至 1960 年出版的四部小说，背景就是二战之前和期间的这座城市。图钉标在市中心；小说里的公寓、街道和咖啡馆并不对应具体门牌"),
+]
+lines += [
+    S("eg-aq-1", "alexandria-quartet", "eg-alexandria", "The four novels as a whole", "四部小说整体",
+      "Justine, Balthazar, Mountolive and Clea. The first three tell one set of events, among one set of characters in Alexandria before and during the Second World War, from three different points of view.",
+      "《贾斯汀》《巴尔塔扎》《芒特奥利夫》《克丽》四部。前三部从三个不同的视角，讲述二战之前和期间亚历山大同一群人的同一段故事。",
+      ["Alexandria"], ["亚历山大"], "https://en.wikipedia.org/wiki/The_Alexandria_Quartet"),
+    S("eg-ma-1", "midaq-alley", "eg-mahfouz-museum", "The novel as a whole", "全书",
+      "Midaq Alley is a teeming back street in the Khan el-Khalili quarter of Cairo in the 1940s, and the novel makes its handful of residents, among them Kirsha the café owner, a microcosm of a world on the threshold of the modern age. The alley is real; no source gave its coordinates, so the line hangs on the Mahfouz museum in the same old quarter.",
+      "梅达格胡同是 20 世纪 40 年代开罗汗·哈利利区一条熙熙攘攘的小巷，小说把巷子里的几户人家——其中有咖啡馆老板基尔沙——写成一个站在现代门槛上的世界的缩影。这条巷子是真实存在的；查不到它的坐标，所以这一条挂在同一片老城里的马哈福兹博物馆。",
+      ["Midaq Alley"], ["梅达格胡同"], "https://en.wikipedia.org/wiki/Midaq_Alley_(novel)"),
 ]
 
 # ============================== checks ==============================

@@ -34,5 +34,11 @@
   "lon": 174.77992,
   "st": "Katherine Mansfield Birthplace (Wikidata Q6376474, coordinate location)",
   "su": "https://www.wikidata.org/wiki/Q6376474"
+ },
+ "nz-okarito": {
+  "lat": -43.2,
+  "lon": 170.21666667,
+  "st": "Ōkārito (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/%C5%8Ck%C4%81rito"
  }
 }

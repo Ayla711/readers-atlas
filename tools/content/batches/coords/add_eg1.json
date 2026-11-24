@@ -46,5 +46,11 @@
   "lon": 31.261683,
   "st": "Naguib Mahfouz Museum (Wikidata Q83766468, coordinate location)",
   "su": "https://www.wikidata.org/wiki/Q83766468"
+ },
+ "eg-alexandria": {
+  "lat": 31.1975,
+  "lon": 29.8925,
+  "st": "Alexandria (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Alexandria"
  }
 }

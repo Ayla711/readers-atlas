@@ -34,5 +34,17 @@
   "lon": 6.7925,
   "st": "Oguta Lake (English Wikipedia, article coordinates)",
   "su": "https://en.wikipedia.org/wiki/Oguta_Lake"
+ },
+ "ng-isseke": {
+  "lat": 5.837861,
+  "lon": 6.91235,
+  "st": "Isseke (Wikidata Q137613586, coordinate location)",
+  "su": "https://www.wikidata.org/wiki/Q137613586"
+ },
+ "ng-oyo": {
+  "lat": 7.84166667,
+  "lon": 3.93055556,
+  "st": "Oyo City (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Oyo,_Oyo_State"
  }
 }

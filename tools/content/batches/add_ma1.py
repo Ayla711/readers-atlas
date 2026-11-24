@@ -1,4 +1,4 @@
-"""11-24: Morocco, first pack: 4 new books (The Innocents Abroad shared with Italy), 5 places. Mark Twain's Tangier and
+"""11-24: Morocco, first pack: 5 new books (The Innocents Abroad shared with Italy), 5 places. Mark Twain's Tangier and
 Mohamed Choukri's, Loti's first sight of Fez, Canetti on the Djema el Fna, Saint-Exupery at Cape Juby (Tarfaya).
 
 The map follows China's standard map (decision A-22): Western Sahara is not part of it. Natural Earth draws the land
@@ -8,8 +8,11 @@ Morocco holds there as Moroccan regions, so tools/countries.json leaves out MA-1
 Quotations (2 lines) are cut from English and French Wikisource pages (tools/content/wikisource.py); translations are our
 own drafts. Books in copyright get scene notes with a fact source. What a cut changes is named in `checked`.
 
-Coordinates are those of the place's English Wikipedia article (coords/add_ma1.json). Left out: Ibn Battuta's tomb in
-Tangier (no source gave its coordinates).
+Coordinates are those of the place's English Wikipedia article (coords/add_ma1.json).
+
+Fix of 11-24 (the atlas's rule: a book worth having is hung on the nearest real place even when its exact spot cannot be
+found): Ibn Battuta's Rihla is quoted from Arabic Wikisource at Tangier, his birthplace and starting point; his tomb in the
+medina still has no place of its own (no source gave its coordinates).
 
 Usage: python3 -I add_ma1.py <app_dir> <coords.json> <wikisource_root>"""
 import glob, json, os, re, sys
@@ -95,8 +98,8 @@ books = [
 
 places = [
     ORIG("ma-tangier", "Tangier", "丹吉尔",
-         "Port on the Strait of Gibraltar. Mark Twain and a few fellow passengers of the Quaker City crossed from Gibraltar in the summer of 1867; it was the first place on the voyage that seemed to him wholly foreign, and he gives it two chapters of The Innocents Abroad",
-         "直布罗陀海峡边的港口。1867 年夏天，马克·吐温和“教友城号”的几位旅伴从直布罗陀渡海过来；这是他一路上第一个觉得彻底陌生的地方，《傻子出国记》里用了两章来写"),
+         "Port on the Strait of Gibraltar. Mark Twain and a few fellow passengers of the Quaker City crossed from Gibraltar in the summer of 1867; it was the first place on the voyage that seemed to him wholly foreign, and he gives it two chapters of The Innocents Abroad. Ibn Battuta was born here in 1304 and set out from here in 1325 on the journeys he later dictated as the Rihla",
+         "直布罗陀海峡边的港口。1867 年夏天，马克·吐温和“教友城号”的几位旅伴从直布罗陀渡海过来；这是他一路上第一个觉得彻底陌生的地方，《傻子出国记》里用了两章来写。伊本·白图泰 1304 年生于此地，1325 年从这里出发，开始了他晚年口述成《游记》的长途旅行"),
     ORIG("ma-petit-socco", "Petit Socco, Tangier", "小索科广场，丹吉尔",
          "Small square in the medina of Tangier, also called Souk Dakhel or, in Spanish, Zoco Chico; long the focal point of the old town. The Tangier of Mohamed Choukri's For Bread Alone is this old town and the port below it. He wrote the book in Arabic in 1972; it first appeared in Paul Bowles's English translation in 1973",
          "丹吉尔老城里的小广场，又叫内市场，西班牙语叫“小索科”，一向是老城的中心。穆罕默德·舒克里《裸面包》里的丹吉尔，就是这片老城和下面的港口。书是 1972 年用阿拉伯语写的，1973 年先以保罗·鲍尔斯的英译本问世"),
@@ -134,6 +137,22 @@ lines = [
       "The pilot Jacques Bernis flies the mail south from Toulouse along the African coast towards Dakar, while the story of his love for Geneviève is told in between. The radio posts along the line, Cape Juby among them, pass on word of his plane; south of Juby it is found wrecked in the desert.",
       "飞行员雅克·贝尔尼斯驾着邮机从图卢兹沿非洲海岸向南飞往达喀尔，其间穿插着他对热纳维耶芙的爱情故事。沿线的无线电站——朱比角就是其中之一——一站站传递着他飞机的消息；在朱比角以南，人们在沙漠里找到了坠毁的飞机。",
       ["Cape Juby"], ["朱比角"], "https://en.wikipedia.org/wiki/Courrier_sud_(novel); https://en.wikipedia.org/wiki/Tarfaya"),
+]
+
+# ---- 11-24 fix: famous books hung even without an exact spot (user rule) ----
+T_RH = "تحفة النظار في غرائب الأمصار وعجائب الأسفار/الجزء الأول/فصل:بدء الرحلة والخروج من طنجة"
+books += [
+    BK("rihla", "The Travels of Ibn Battuta (Rihla)", "伊本·白图泰游记", "تحفة النظار في غرائب الأمصار وعجائب الأسفار", "Ibn Battuta", "伊本·白图泰", "ابن بطوطة",
+       "14th century", lang="ar", src=ws.url("ar", "تحفة النظار في غرائب الأمصار وعجائب الأسفار"),
+       aliases=["Rihla", "Tuhfat al-Nuzzar", "A Gift to Those Who Contemplate the Wonders of Cities", "Ibn Battutah", "伊本·巴图塔", "Tangier"]),
+]
+lines += [
+    Q("ma-rh-1", "rihla", "ma-tangier", "The setting out from Tangier", "从丹吉尔出发", T_RH,
+      raw(T_RH, once(T_RH, "كان خروجي من طنجة مسقط رأسي", "ar"), "وسني يومئذ اثنتان وعشرون سنة.", "ar"), ["طنجة"],
+      "My setting out from Tangier, my birthplace, was on Thursday the second of the month of God, Rajab the unique, in the year seven hundred and twenty-five, with the purpose of making the pilgrimage to the Holy House of God and visiting the tomb of the Prophet, upon him be the best of blessings and peace. I went alone, with no companion whose company might cheer me and no caravan to travel with, moved by a strong urge within me and a longing, long hidden in my heart, for those noble sanctuaries. So I made up my mind to leave everyone I loved, women and men, and left my homeland as birds leave their nests. My parents were still alive, and parting from them weighed on me, as it weighed on them. I was then twenty-two years old.",
+      ["Tangier"],
+      "我从故乡丹吉尔出发，是在七二五年神圣的、独一无二的赖哲卜月初二，一个星期四，为的是去朝觐真主的圣殿，拜谒先知的陵墓，愿最好的祝福与平安归于他。我孤身一人，没有可以作伴解闷的同伴，也没有可以随行的商队，只凭心中一股强烈的冲动，和久藏胸中、对那些神圣之地的向往。于是我下定决心，离开所有亲爱的人，无论男女，像鸟儿离巢一样离开了故土。那时我的父母都还在世，与他们分别让我心情沉重，他们也同样难过。那年我二十二岁。",
+      ["丹吉尔"], note=" (the year is of the Hijra: 725 AH, that is 1325; the opening words 'Shaykh Abu Abdallah said:' left out)", site="Arabic"),
 ]
 
 # ============================== checks ==============================

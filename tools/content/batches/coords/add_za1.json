@@ -46,5 +46,17 @@
   "lon": 25.617867,
   "st": "Schreiner House (Wikidata Q98812572, coordinate location)",
   "su": "https://www.wikidata.org/wiki/Q98812572"
+ },
+ "za-salem": {
+  "lat": -33.47138889,
+  "lon": 26.48333333,
+  "st": "Salem, South Africa (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Salem,_South_Africa"
+ },
+ "za-thaba-nchu": {
+  "lat": -29.2,
+  "lon": 26.83333333,
+  "st": "Thaba 'Nchu (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Thaba_%27Nchu"
  }
 }

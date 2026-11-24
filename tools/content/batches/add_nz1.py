@@ -1,4 +1,4 @@
-"""11-24: New Zealand, first pack: 5 books, 6 places. Katherine Mansfield's Crescent Bay (Days Bay) and her birthplace in
+"""11-24: New Zealand, first pack: 6 books, 7 places. Katherine Mansfield's Crescent Bay (Days Bay) and her birthplace in
 Thorndon, Butler's Mesopotamia Station behind Erewhon, Janet Frame's Oamaru, Whangara of The Whale Rider and the Hokitika of
 The Luminaries.
 
@@ -10,6 +10,9 @@ in copyright get scene notes with a fact source. What a cut changes is named in 
 
 Coordinates are those of the place's English Wikipedia article, the Mansfield house's from Wikidata (coords/add_nz1.json).
 Oamaru's pin is the town's point; no source gave coordinates for Janet Frame's childhood house in Eden Street.
+
+Fix of 11-24 (the atlas's rule: a book worth having is hung on the nearest real place even when its exact spot cannot be
+found): The Bone People, whose coast is never named, is added at Okarito, where Keri Hulme lived alone, like her heroine.
 
 Usage: python3 -I add_nz1.py <app_dir> <coords.json> <wikisource_root>"""
 import glob, json, os, re, sys
@@ -143,6 +146,24 @@ lines = [
       "In 1866 Walter Moody, come to make his fortune on the goldfields, arrives in Hokitika and walks into the smoking room of the Crown Hotel, where he stumbles into a tense meeting of twelve local men; it draws him into a mystery of unsolved crimes.",
       "1866 年，想在金矿发财的沃尔特·穆迪来到霍基蒂卡，走进皇冠旅馆的吸烟室，撞上了十二个当地男人之间一场紧张的聚会，由此卷入一连串悬而未决的罪案之谜。",
       ["Hokitika"], ["霍基蒂卡"], "https://en.wikipedia.org/wiki/The_Luminaries"),
+]
+
+# ---- 11-24 fix: famous books hung even without an exact spot (user rule) ----
+books += [
+    BK("the-bone-people", "The Bone People", "骨人", "the bone people", "Keri Hulme", "克丽·休姆", "Keri Hulme", "1984", lang="en", pd=False,
+       aliases=["the bone people", "Kerewin Holmes", "Simon", "Hulme"]),
+]
+places += [
+    ORIG("nz-okarito", "Ōkārito, Westland", "奥卡里托，西部地区",
+         "Tiny settlement on the West Coast of the South Island where Keri Hulme lived alone for many years in an octagonal house she built, whitebaiting, painting and writing. Like her, Kerewin Holmes, the heroine of The Bone People, lives alone by the sea on the South Island coast; the novel never names the place, so the book hangs here",
+         "南岛西海岸的小村落，克丽·休姆多年独自住在这里一座她自己盖的八角形房子里，捕银鱼、画画、写作。和她一样，《骨人》的女主人公克丽温·霍姆斯也独自住在南岛海边；小说从未点出地名，所以这本书挂在这里"),
+]
+lines += [
+    S("nz-bp-1", "the-bone-people", "nz-okarito", "The novel as a whole", "全书",
+      "Kerewin Holmes, a reclusive artist, lives in a tower overlooking the sea on the coast of the South Island. On a stormy afternoon a mute child, Simon, appears at the tower; through him she comes to know his foster father, and the three isolated people are drawn together. The novel won the Booker Prize in 1985, the first New Zealand novel and the first debut novel to do so.",
+      "孤僻的艺术家克丽温·霍姆斯住在南岛海边一座俯瞰大海的塔楼里。一个暴风雨的下午，一个不会说话的孩子西蒙出现在塔楼前；通过他，她认识了他的养父，三个各自孤立的人渐渐走到一起。这部小说 1985 年获布克奖，是第一部获此奖的新西兰小说，也是第一部获奖的处女作。",
+      ["South Island"], ["南岛"],
+      "https://en.wikipedia.org/wiki/The_Bone_People; https://www.nzherald.co.nz/trailblazers/news/trailblazers-keri-hulme/ORHODIFZ5LXBXFCABWNX5XZIDM/"),
 ]
 
 # ============================== checks ==============================

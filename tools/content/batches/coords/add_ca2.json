@@ -1,0 +1,14 @@
+{
+ "ca-quebec-city": {
+  "lat": 46.81388889,
+  "lon": -71.20805556,
+  "st": "Quebec City (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Quebec_City"
+ },
+ "ca-algoma": {
+  "lat": 48.0,
+  "lon": -84.5,
+  "st": "Algoma District (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Algoma_District"
+ }
+}

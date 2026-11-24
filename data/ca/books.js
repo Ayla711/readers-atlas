@@ -39,5 +39,8 @@ window.RA_DATA.books = [
   { id: "mrs-mike", title: "Mrs. Mike", title_zh: "迈克太太", author: "Benedict and Nancy Freedman", author_zh: "本尼迪克特与南希·弗里德曼", year: "1947", orig_lang: "en", public_domain: false, source_url: null },
   { id: "through-black-spruce", title: "Through Black Spruce", title_zh: "穿越黑云杉", author: "Joseph Boyden", author_zh: "约瑟夫·博伊登", year: "2008", orig_lang: "en", public_domain: false, source_url: null },
   { id: "the-diviners", title: "The Diviners", title_zh: "占卜者", author: "Margaret Laurence", author_zh: "玛格丽特·劳伦斯", year: "1974", orig_lang: "en", public_domain: false, source_url: null, aliases: ["Morag Gunn", "Manawaka"] },
-  { id: "i-heard-the-owl", title: "I Heard the Owl Call My Name", title_zh: "我听见猫头鹰叫我的名字", author: "Margaret Craven", author_zh: "玛格丽特·克雷文", year: "1967", orig_lang: "en", public_domain: false, source_url: null }
+  { id: "i-heard-the-owl", title: "I Heard the Owl Call My Name", title_zh: "我听见猫头鹰叫我的名字", author: "Margaret Craven", author_zh: "玛格丽特·克雷文", year: "1967", orig_lang: "en", public_domain: false, source_url: null },
+  // —— 11-24: second pack, the two books left out of the first (tools/content/batches/add_ca2.py) ——
+  { id: "season-in-the-life-of-emmanuel", title: "A Season in the Life of Emmanuel", title_zh: "埃马纽埃尔生命中的一季", title_orig: "Une saison dans la vie d’Emmanuel", author: "Marie-Claire Blais", author_zh: "玛丽-克莱尔·布莱", year: "1965", orig_lang: "fr", public_domain: false, source_url: null, author_orig: "Marie-Claire Blais", aliases: ["Une saison dans la vie d'Emmanuel", "Jean-Le Maigre", "Grand-mère Antoinette", "Blais"] },
+  { id: "bear-engel", title: "Bear", title_zh: "熊", title_orig: "Bear", author: "Marian Engel", author_zh: "玛丽安·恩格尔", year: "1976", orig_lang: "en", public_domain: false, source_url: null, author_orig: "Marian Engel", aliases: ["Lou", "Cary's Island", "Pennarth", "Algoma", "Engel"] }
 ];
