@@ -4787,6 +4787,111 @@
       "open": true,
       "small_regions": [],
       "wash": {}
+    },
+    {
+      "code": "nl",
+      "iso": "NLD",
+      "name": "Netherlands",
+      "name_zh": "荷兰",
+      "short": "Netherlands",
+      "short_zh": "荷兰",
+      "region_term": {
+        "en": "province",
+        "zh": "省"
+      },
+      "bounds": [
+        3.3,
+        50.7,
+        7.3,
+        53.6
+      ],
+      "step": 0.002,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "NL-DR": "NL-DR",
+              "NL-FL": "NL-FL",
+              "NL-FR": "NL-FR",
+              "NL-GE": "NL-GE",
+              "NL-GR": "NL-GR",
+              "NL-LI": "NL-LI",
+              "NL-NB": "NL-NB",
+              "NL-NH": "NL-NH",
+              "NL-OV": "NL-OV",
+              "NL-UT": "NL-UT",
+              "NL-ZE": "NL-ZE",
+              "NL-ZH": "NL-ZH"
+            }
+          }
+        ],
+        "names": {
+          "NL-DR": [
+            "Drenthe",
+            "德伦特省"
+          ],
+          "NL-FL": [
+            "Flevoland",
+            "弗莱福兰省"
+          ],
+          "NL-FR": [
+            "Friesland",
+            "弗里斯兰省"
+          ],
+          "NL-GE": [
+            "Gelderland",
+            "海尔德兰省"
+          ],
+          "NL-GR": [
+            "Groningen",
+            "格罗宁根省"
+          ],
+          "NL-LI": [
+            "Limburg",
+            "林堡省"
+          ],
+          "NL-NB": [
+            "North Brabant",
+            "北布拉班特省"
+          ],
+          "NL-NH": [
+            "North Holland",
+            "北荷兰省"
+          ],
+          "NL-OV": [
+            "Overijssel",
+            "上艾瑟尔省"
+          ],
+          "NL-UT": [
+            "Utrecht",
+            "乌得勒支省"
+          ],
+          "NL-ZE": [
+            "Zeeland",
+            "泽兰省"
+          ],
+          "NL-ZH": [
+            "South Holland",
+            "南荷兰省"
+          ]
+        }
+      },
+      "data": [
+        "data/nl/geo.js",
+        "data/nl/books.js",
+        "data/nl/places.js",
+        "data/nl/lines.js"
+      ],
+      "open": true,
+      "small_regions": [],
+      "wash": {},
+      "skip_units": [
+        "Bonaire",
+        "Saba",
+        "St. Eustatius"
+      ]
     }
   ]
 }

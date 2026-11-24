@@ -957,7 +957,34 @@ window.RA_COUNTRIES = [
    "data/se/lines.js"
   ],
   "open": true
+ },
+ {
+  "code": "nl",
+  "iso": "NLD",
+  "name": "Netherlands",
+  "name_zh": "荷兰",
+  "short": "Netherlands",
+  "short_zh": "荷兰",
+  "region_term": {
+   "en": "province",
+   "zh": "省"
+  },
+  "bounds": [
+   3.3,
+   50.7,
+   7.3,
+   53.6
+  ],
+  "small_regions": [],
+  "wash": {},
+  "data": [
+   "data/nl/geo.js",
+   "data/nl/books.js",
+   "data/nl/places.js",
+   "data/nl/lines.js"
+  ],
+  "open": true
  }
 ];
 // Totals over every open country, for the world page.
-window.RA_WORLD_STATS = {"countries": 32, "books": 1509, "lines": 1464, "places": 1711};
+window.RA_WORLD_STATS = {"countries": 33, "books": 1521, "lines": 1473, "places": 1724};

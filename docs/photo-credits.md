@@ -1530,3 +1530,16 @@
 | Ystad | Mariochom | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AYstad-Stortorget.JPG) |
 | Blackeberg | Bysmon | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABlackebergs_torg_med_punkthuset%2C_april_2019a.jpg) |
 | Alster Manor | SiriusA | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3AAlsters-herrg%C3%A5rd-baksida.JPG) |
+| Lauriergracht, Amsterdam | Ceescamel | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A2022_Lauriergracht_37%2C_Asd_%284%29.jpg) |
+| Haarlemmerhout, Haarlem | Hanno Lans | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File%3AHildebrandmonument_in_2014.jpeg) |
+| Gevangenpoort, The Hague | Unknown author | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3AGevangenpoort_Den_Haag_briefkaart.jpg) |
+| Spaarndam (the Hero of Haarlem) | Tasja | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3ABeeld_Hansje_Brinker_Spaarndam.jpg) |
+| Anne Frank House, Amsterdam | Lệ Xuân | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AAmsterdam_%28NL%29%2C_Anne-Frank-Huis%2C_2022_%282%29.jpg) |
+| Haarlem | Huhu Uet | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AHaarlem_Spaarne_Turfmarkt_01.jpg) |
+| Markt, Delft | Ludvig14 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ADelft_Markt_017_5549.jpg) |
+| De Wallen, Amsterdam | Ввласенко | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ARed-light_district_of_Amsterdam_by_day._2012.JPG) |
+| Golden Bend, Herengracht, Amsterdam | Jvhertum | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3AGouden_bocht.jpg) |
+| Vondelpark, Amsterdam | Hullernuc | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AJoost_van_den_Vondel_-monument.JPG) |
+| Domus Spinozana, The Hague | MLWatts | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ASpinozahuis_and_Spinoza%27s_statue_in_The_Hague.JPG) |
+| Archipelbuurt (Couperus's Surinamestraat), The Hague | Dqfn13 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ASurinamestraat_20%2C_Den_Haag.jpg) |
+| Erasmus statue, Laurenskerk, Rotterdam | Unknown author | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3ARotterdam_Grotemarkt_Standbeeld_Erasmus_1885_%28GA%29.jpg) |
