@@ -1462,7 +1462,65 @@ window.RA_COUNTRIES = [
   "needs": [
    "it"
   ]
+ },
+ {
+  "code": "au",
+  "iso": "AUS",
+  "name": "Australia",
+  "name_zh": "澳大利亚",
+  "short": "Australia",
+  "short_zh": "澳大利亚",
+  "region_term": {
+   "en": "state or territory",
+   "zh": "州或领地"
+  },
+  "bounds": [
+   112.0,
+   -44.5,
+   154.5,
+   -9.0
+  ],
+  "small_regions": [
+   "AU-ACT"
+  ],
+  "wash": {},
+  "data": [
+   "data/au/geo.js",
+   "data/au/books.js",
+   "data/au/places.js",
+   "data/au/lines.js"
+  ],
+  "open": true
+ },
+ {
+  "code": "nz",
+  "iso": "NZL",
+  "name": "New Zealand",
+  "name_zh": "新西兰",
+  "short": "New Zealand",
+  "short_zh": "新西兰",
+  "region_term": {
+   "en": "region",
+   "zh": "大区"
+  },
+  "bounds": [
+   165.8,
+   -47.5,
+   179.0,
+   -34.2
+  ],
+  "small_regions": [
+   "NZ-NSN"
+  ],
+  "wash": {},
+  "data": [
+   "data/nz/geo.js",
+   "data/nz/books.js",
+   "data/nz/places.js",
+   "data/nz/lines.js"
+  ],
+  "open": true
  }
 ];
 // Totals over every open country, for the world page.
-window.RA_WORLD_STATS = {"countries": 46, "books": 1610, "lines": 1554, "places": 1824};
+window.RA_WORLD_STATS = {"countries": 48, "books": 1623, "lines": 1565, "places": 1838};

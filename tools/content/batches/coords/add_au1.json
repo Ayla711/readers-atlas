@@ -1,0 +1,50 @@
+{
+ "au-sarah-island": {
+  "lat": -42.387889,
+  "lon": 145.448611,
+  "st": "Macquarie Harbour Penal Station (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Macquarie_Harbour_Penal_Station"
+ },
+ "au-kosciuszko": {
+  "lat": -36.45583333,
+  "lon": 148.26361111,
+  "st": "Mount Kosciuszko (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Mount_Kosciuszko"
+ },
+ "au-combo": {
+  "lat": -21.60172778,
+  "lon": 142.06654444,
+  "st": "Combo Waterhole (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Combo_Waterhole"
+ },
+ "au-brindabella": {
+  "lat": -35.4093,
+  "lon": 148.7375,
+  "st": "Brindabella Station (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Brindabella_Station"
+ },
+ "au-hanging-rock": {
+  "lat": -37.330222,
+  "lon": 144.595083,
+  "st": "Hanging Rock, Victoria (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Hanging_Rock,_Victoria"
+ },
+ "au-surry-hills": {
+  "lat": -33.88611111,
+  "lon": 151.21111111,
+  "st": "Surry Hills (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Surry_Hills,_New_South_Wales"
+ },
+ "au-wisemans-ferry": {
+  "lat": -33.379181,
+  "lon": 150.988895,
+  "st": "Wisemans Ferry (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Wisemans_Ferry"
+ },
+ "au-wellington": {
+  "lat": -32.55,
+  "lon": 148.93333333,
+  "st": "Wellington, New South Wales (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Wellington,_New_South_Wales"
+ }
+}

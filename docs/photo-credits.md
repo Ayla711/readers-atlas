@@ -1636,3 +1636,17 @@
 | Fes el Bali (old Fez) | Hiroki Ogawa | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3APanorama_Fes_el_Bali_Borj_Sud_Fez_morocco_-_panoramio.jpg) |
 | Jemaa el-Fnaa, Marrakesh | Herokk | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AJemaa_el-Fnaa_Marrakech_at_sunset.jpg) |
 | Tarfaya (Cape Juby) | Yaroslav Blanter | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ATarfaya_Saint-Exupery.jpg) |
+| Sarah Island, Macquarie Harbour | William Buelow Gould | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3AWilliam_Buelow_Gould_Macquarie_Harbour.jpg) |
+| Mount Kosciuszko and the upper Snowy River | Ymblanter | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AKosciuszko_NP_Mount_Kosciuszko_seen_from_Kosciuszko_lookout.jpg) |
+| Combo Waterhole, Queensland | Alun Hoggett | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ACombo_Waterhole-Alun_Hoggett.jpg) |
+| Brindabella Station | Matilda (English Wikipedia) | [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5) | [Commons](https://commons.wikimedia.org/wiki/File%3ABrindabellaValleyAndGoodradigbeeRiver.jpg) |
+| Hanging Rock, Victoria | Anne-Marie Steenbergen | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AHanging_Rock_2001-11-16_D1020009.jpg) |
+| Surry Hills, Sydney | Chris Olszewski | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ATerrace_Houses_in_Campbell_Street%2C_Surry_Hills%2C_Sydney.jpg) |
+| Wisemans Ferry, Hawkesbury River | sv1ambo | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AHawkesbury_River_-_Wiseman%27s_Ferry_NSW_%285247138417%29.jpg) |
+| Days Bay, Eastbourne | Phillip Capper | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ADays_Bay%2C_Wellington%2C_New_Zealand.jpg) |
+| Katherine Mansfield House and Garden, Thorndon | Schwede66 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AKatherine_Mansfield_birthplace_176.JPG) |
+| Mesopotamia Station, upper Rangitata | Charlie Mitchell | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ARangitata_gorge%2C_Canterbury%2C_New_Zealand.jpg) |
+| Oamaru | Allan Henderson | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AOamaru%27s_Victorian_Precinct_01.jpg) |
+| Whangara | Avenue | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AWhangara_panorama.jpg) |
+| Hokitika | Michal Klajban | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABeach_in_Hokitika%2C_West_Coast%2C_New_Zealand.jpg) |
+| Wellington, New South Wales | Kgbo | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AWellington_Hotel%2C_Wellington%2C_NSW%2C_2022.jpg) |

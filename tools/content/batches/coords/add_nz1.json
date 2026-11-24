@@ -1,0 +1,38 @@
+{
+ "nz-days-bay": {
+  "lat": -41.2816,
+  "lon": 174.9068,
+  "st": "Days Bay (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Days_Bay"
+ },
+ "nz-mesopotamia": {
+  "lat": -43.64068796,
+  "lon": 170.89679251,
+  "st": "Mesopotamia Station (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Mesopotamia_Station"
+ },
+ "nz-oamaru": {
+  "lat": -45.098,
+  "lon": 170.971,
+  "st": "Oamaru (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Oamaru"
+ },
+ "nz-whangara": {
+  "lat": -38.57055556,
+  "lon": 178.22916667,
+  "st": "Whangara (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Whangara"
+ },
+ "nz-hokitika": {
+  "lat": -42.71555556,
+  "lon": 170.96805556,
+  "st": "Hokitika (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Hokitika"
+ },
+ "nz-mansfield-house": {
+  "lat": -41.270164,
+  "lon": 174.77992,
+  "st": "Katherine Mansfield Birthplace (Wikidata Q6376474, coordinate location)",
+  "su": "https://www.wikidata.org/wiki/Q6376474"
+ }
+}

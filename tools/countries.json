@@ -6818,6 +6818,223 @@
         "MA-02"
       ],
       "wash": {}
+    },
+    {
+      "code": "au",
+      "iso": "AUS",
+      "name": "Australia",
+      "name_zh": "澳大利亚",
+      "short": "Australia",
+      "short_zh": "澳大利亚",
+      "region_term": {
+        "en": "state or territory",
+        "zh": "州或领地"
+      },
+      "bounds": [
+        112.0,
+        -44.5,
+        154.5,
+        -9.0
+      ],
+      "step": 0.02,
+      "drop_rings_lon_gt": 155,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "AU-NSW": "AU-NSW",
+              "AU-VIC": "AU-VIC",
+              "AU-QLD": "AU-QLD",
+              "AU-SA": "AU-SA",
+              "AU-WA": "AU-WA",
+              "AU-TAS": "AU-TAS",
+              "AU-NT": "AU-NT",
+              "AU-ACT": "AU-ACT",
+              "AU-X02~": "AU-ACT",
+              "AU-X03~": "AU-TAS"
+            }
+          }
+        ],
+        "names": {
+          "AU-NSW": [
+            "New South Wales",
+            "新南威尔士州"
+          ],
+          "AU-VIC": [
+            "Victoria",
+            "维多利亚州"
+          ],
+          "AU-QLD": [
+            "Queensland",
+            "昆士兰州"
+          ],
+          "AU-SA": [
+            "South Australia",
+            "南澳大利亚州"
+          ],
+          "AU-WA": [
+            "Western Australia",
+            "西澳大利亚州"
+          ],
+          "AU-TAS": [
+            "Tasmania",
+            "塔斯马尼亚州"
+          ],
+          "AU-NT": [
+            "Northern Territory",
+            "北领地"
+          ],
+          "AU-ACT": [
+            "Australian Capital Territory",
+            "澳大利亚首都领地"
+          ]
+        }
+      },
+      "data": [
+        "data/au/geo.js",
+        "data/au/books.js",
+        "data/au/places.js",
+        "data/au/lines.js"
+      ],
+      "open": true,
+      "small_regions": [
+        "AU-ACT"
+      ],
+      "wash": {}
+    },
+    {
+      "code": "nz",
+      "iso": "NZL",
+      "name": "New Zealand",
+      "name_zh": "新西兰",
+      "short": "New Zealand",
+      "short_zh": "新西兰",
+      "region_term": {
+        "en": "region",
+        "zh": "大区"
+      },
+      "bounds": [
+        165.8,
+        -47.5,
+        179.0,
+        -34.2
+      ],
+      "step": 0.006,
+      "skip_units": [
+        "Auckland Islands",
+        "Campbell Islands",
+        "Antipodes Islands",
+        "Chatham Islands Territory",
+        "Kermadec Islands",
+        "Tokelau",
+        "The Snares",
+        "Three Kings Islands"
+      ],
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "NZ-NTL": "NZ-NTL",
+              "NZ-AUK": "NZ-AUK",
+              "NZ-WKO": "NZ-WKO",
+              "NZ-BOP": "NZ-BOP",
+              "NZ-GIS": "NZ-GIS",
+              "NZ-HKB": "NZ-HKB",
+              "NZ-TKI": "NZ-TKI",
+              "NZ-MWT": "NZ-MWT",
+              "NZ-WGN": "NZ-WGN",
+              "NZ-TAS": "NZ-TAS",
+              "NZ-NSN": "NZ-NSN",
+              "NZ-MBH": "NZ-MBH",
+              "NZ-WTC": "NZ-WTC",
+              "NZ-CAN": "NZ-CAN",
+              "NZ-OTA": "NZ-OTA",
+              "NZ-STL": "NZ-STL"
+            }
+          }
+        ],
+        "names": {
+          "NZ-NTL": [
+            "Northland",
+            "北地大区"
+          ],
+          "NZ-AUK": [
+            "Auckland",
+            "奥克兰大区"
+          ],
+          "NZ-WKO": [
+            "Waikato",
+            "怀卡托大区"
+          ],
+          "NZ-BOP": [
+            "Bay of Plenty",
+            "丰盛湾大区"
+          ],
+          "NZ-GIS": [
+            "Gisborne",
+            "吉斯伯恩大区"
+          ],
+          "NZ-HKB": [
+            "Hawke's Bay",
+            "霍克斯湾大区"
+          ],
+          "NZ-TKI": [
+            "Taranaki",
+            "塔拉纳基大区"
+          ],
+          "NZ-MWT": [
+            "Manawatū-Whanganui",
+            "马纳瓦图-旺格努伊大区"
+          ],
+          "NZ-WGN": [
+            "Wellington",
+            "惠灵顿大区"
+          ],
+          "NZ-TAS": [
+            "Tasman",
+            "塔斯曼大区"
+          ],
+          "NZ-NSN": [
+            "Nelson",
+            "纳尔逊大区"
+          ],
+          "NZ-MBH": [
+            "Marlborough",
+            "马尔堡大区"
+          ],
+          "NZ-WTC": [
+            "West Coast",
+            "西海岸大区"
+          ],
+          "NZ-CAN": [
+            "Canterbury",
+            "坎特伯雷大区"
+          ],
+          "NZ-OTA": [
+            "Otago",
+            "奥塔哥大区"
+          ],
+          "NZ-STL": [
+            "Southland",
+            "南地大区"
+          ]
+        }
+      },
+      "data": [
+        "data/nz/geo.js",
+        "data/nz/books.js",
+        "data/nz/places.js",
+        "data/nz/lines.js"
+      ],
+      "open": true,
+      "small_regions": [
+        "NZ-NSN"
+      ],
+      "wash": {}
     }
   ]
 }

@@ -1,0 +1,9 @@
+// New Zealand, hand-written content (tools/content/batches/add_nz1.py, 2026-11-24).
+window.RA_DATA = window.RA_DATA || {};
+window.RA_DATA.books = [
+  { id: "the-garden-party", title: "The Garden Party, and Other Stories", title_zh: "园会", title_orig: "The Garden Party, and Other Stories", author: "Katherine Mansfield", author_zh: "凯瑟琳·曼斯菲尔德", year: "1922", orig_lang: "en", public_domain: true, source_url: "https://en.wikisource.org/wiki/The_Garden_Party%2C_and_Other_Stories", author_orig: "Katherine Mansfield", aliases: ["At the Bay", "The Garden Party", "Crescent Bay", "Burnell", "Mansfield", "曼斯菲尔德"] },
+  { id: "erewhon", title: "Erewhon", title_zh: "埃瑞璜", title_orig: "Erewhon; or, Over the Range", author: "Samuel Butler", author_zh: "塞缪尔·巴特勒", year: "1872", orig_lang: "en", public_domain: true, source_url: "https://en.wikisource.org/wiki/Erewhon%3B_or_Over_the_Range_(1872)", author_orig: "Samuel Butler", aliases: ["Over the Range", "Erewhon", "Higgs", "Butler"] },
+  { id: "owls-do-cry", title: "Owls Do Cry", title_zh: "猫头鹰在哭泣", title_orig: "Owls Do Cry", author: "Janet Frame", author_zh: "珍妮特·弗雷姆", year: "1957", orig_lang: "en", public_domain: false, source_url: null, author_orig: "Janet Frame", aliases: ["Waimaru", "Withers", "Daphne", "Frame"] },
+  { id: "the-whale-rider", title: "The Whale Rider", title_zh: "鲸骑士", title_orig: "The Whale Rider", author: "Witi Ihimaera", author_zh: "威蒂·伊希马埃拉", year: "1987", orig_lang: "en", public_domain: false, source_url: null, author_orig: "Witi Ihimaera", aliases: ["Whale Rider", "Kahu", "Paikea", "Koro Apirana", "Ihimaera"] },
+  { id: "the-luminaries", title: "The Luminaries", title_zh: "发光体", title_orig: "The Luminaries", author: "Eleanor Catton", author_zh: "埃莉诺·卡顿", year: "2013", orig_lang: "en", public_domain: false, source_url: null, author_orig: "Eleanor Catton", aliases: ["Walter Moody", "Hokitika", "Catton"] }
+];
