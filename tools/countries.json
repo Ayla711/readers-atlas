@@ -4452,6 +4452,341 @@
         "CH-ZG"
       ],
       "wash": {}
+    },
+    {
+      "code": "dk",
+      "iso": "DNK",
+      "name": "Denmark",
+      "name_zh": "丹麦",
+      "short": "Denmark",
+      "short_zh": "丹麦",
+      "region_term": {
+        "en": "region",
+        "zh": "大区"
+      },
+      "bounds": [
+        8.0,
+        54.5,
+        15.25,
+        57.8
+      ],
+      "step": 0.004,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "DK-81": "DK-81",
+              "DK-82": "DK-82",
+              "DK-83": "DK-83",
+              "DK-84": "DK-84",
+              "DK-85": "DK-85"
+            }
+          }
+        ],
+        "names": {
+          "DK-81": [
+            "North Denmark",
+            "北日德兰大区"
+          ],
+          "DK-82": [
+            "Central Denmark",
+            "中日德兰大区"
+          ],
+          "DK-83": [
+            "Southern Denmark",
+            "南丹麦大区"
+          ],
+          "DK-84": [
+            "Capital Region",
+            "首都大区"
+          ],
+          "DK-85": [
+            "Zealand",
+            "西兰大区"
+          ]
+        }
+      },
+      "data": [
+        "data/dk/geo.js",
+        "data/dk/books.js",
+        "data/dk/places.js",
+        "data/dk/lines.js"
+      ],
+      "open": true,
+      "small_regions": [],
+      "wash": {}
+    },
+    {
+      "code": "no",
+      "iso": "NOR",
+      "name": "Norway",
+      "name_zh": "挪威",
+      "short": "Norway",
+      "short_zh": "挪威",
+      "region_term": {
+        "en": "county",
+        "zh": "郡"
+      },
+      "bounds": [
+        4.4,
+        57.9,
+        31.3,
+        71.3
+      ],
+      "step": 0.01,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "NO-01": "NO-31",
+              "NO-02": "NO-32",
+              "NO-03": "NO-03",
+              "NO-04": "NO-34",
+              "NO-05": "NO-34",
+              "NO-06": "NO-33",
+              "NO-07": "NO-39",
+              "NO-08": "NO-40",
+              "NO-09": "NO-42",
+              "NO-10": "NO-42",
+              "NO-11": "NO-11",
+              "NO-12": "NO-46",
+              "NO-14": "NO-46",
+              "NO-15": "NO-15",
+              "NO-16": "NO-50",
+              "NO-17": "NO-50",
+              "NO-18": "NO-18",
+              "NO-19": "NO-55",
+              "NO-20": "NO-56"
+            }
+          }
+        ],
+        "names": {
+          "NO-03": [
+            "Oslo",
+            "奥斯陆"
+          ],
+          "NO-11": [
+            "Rogaland",
+            "罗加兰"
+          ],
+          "NO-15": [
+            "Møre og Romsdal",
+            "默勒-鲁姆斯达尔"
+          ],
+          "NO-18": [
+            "Nordland",
+            "诺尔兰"
+          ],
+          "NO-31": [
+            "Østfold",
+            "东福尔"
+          ],
+          "NO-32": [
+            "Akershus",
+            "阿克什胡斯"
+          ],
+          "NO-33": [
+            "Buskerud",
+            "布斯克吕"
+          ],
+          "NO-34": [
+            "Innlandet",
+            "内陆"
+          ],
+          "NO-39": [
+            "Vestfold",
+            "西福尔"
+          ],
+          "NO-40": [
+            "Telemark",
+            "泰勒马克"
+          ],
+          "NO-42": [
+            "Agder",
+            "阿格德尔"
+          ],
+          "NO-46": [
+            "Vestland",
+            "韦斯特兰"
+          ],
+          "NO-50": [
+            "Trøndelag",
+            "特伦德拉格"
+          ],
+          "NO-55": [
+            "Troms",
+            "特罗姆斯"
+          ],
+          "NO-56": [
+            "Finnmark",
+            "芬马克"
+          ]
+        }
+      },
+      "data": [
+        "data/no/geo.js",
+        "data/no/books.js",
+        "data/no/places.js",
+        "data/no/lines.js"
+      ],
+      "open": true,
+      "small_regions": [
+        "NO-03"
+      ],
+      "wash": {},
+      "skip_units": [
+        "Svalbard",
+        "Bouvet Island"
+      ]
+    },
+    {
+      "code": "se",
+      "iso": "SWE",
+      "name": "Sweden",
+      "name_zh": "瑞典",
+      "short": "Sweden",
+      "short_zh": "瑞典",
+      "region_term": {
+        "en": "county",
+        "zh": "省"
+      },
+      "bounds": [
+        10.9,
+        55.3,
+        24.2,
+        69.1
+      ],
+      "step": 0.006,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "SE-AB": "SE-AB",
+              "SE-AC": "SE-AC",
+              "SE-BD": "SE-BD",
+              "SE-C": "SE-C",
+              "SE-D": "SE-D",
+              "SE-E": "SE-E",
+              "SE-F": "SE-F",
+              "SE-G": "SE-G",
+              "SE-H": "SE-H",
+              "SE-I": "SE-I",
+              "SE-K": "SE-K",
+              "SE-M": "SE-M",
+              "SE-N": "SE-N",
+              "SE-O": "SE-O",
+              "SE-S": "SE-S",
+              "SE-T": "SE-T",
+              "SE-U": "SE-U",
+              "SE-W": "SE-W",
+              "SE-X": "SE-X",
+              "SE-Y": "SE-Y",
+              "SE-Z": "SE-Z"
+            }
+          }
+        ],
+        "names": {
+          "SE-AB": [
+            "Stockholm",
+            "斯德哥尔摩省"
+          ],
+          "SE-AC": [
+            "Västerbotten",
+            "西博滕省"
+          ],
+          "SE-BD": [
+            "Norrbotten",
+            "北博滕省"
+          ],
+          "SE-C": [
+            "Uppsala",
+            "乌普萨拉省"
+          ],
+          "SE-D": [
+            "Södermanland",
+            "南曼兰省"
+          ],
+          "SE-E": [
+            "Östergötland",
+            "东约特兰省"
+          ],
+          "SE-F": [
+            "Jönköping",
+            "延雪平省"
+          ],
+          "SE-G": [
+            "Kronoberg",
+            "克鲁努贝里省"
+          ],
+          "SE-H": [
+            "Kalmar",
+            "卡尔马省"
+          ],
+          "SE-I": [
+            "Gotland",
+            "哥得兰省"
+          ],
+          "SE-K": [
+            "Blekinge",
+            "布莱金厄省"
+          ],
+          "SE-M": [
+            "Skåne",
+            "斯科讷省"
+          ],
+          "SE-N": [
+            "Halland",
+            "哈兰省"
+          ],
+          "SE-O": [
+            "Västra Götaland",
+            "西约塔兰省"
+          ],
+          "SE-S": [
+            "Värmland",
+            "韦姆兰省"
+          ],
+          "SE-T": [
+            "Örebro",
+            "厄勒布鲁省"
+          ],
+          "SE-U": [
+            "Västmanland",
+            "西曼兰省"
+          ],
+          "SE-W": [
+            "Dalarna",
+            "达拉纳省"
+          ],
+          "SE-X": [
+            "Gävleborg",
+            "耶夫勒堡省"
+          ],
+          "SE-Y": [
+            "Västernorrland",
+            "西诺尔兰省"
+          ],
+          "SE-Z": [
+            "Jämtland",
+            "耶姆特兰省"
+          ]
+        }
+      },
+      "data": [
+        "data/se/geo.js",
+        "data/se/books.js",
+        "data/se/places.js",
+        "data/se/lines.js"
+      ],
+      "open": true,
+      "small_regions": [],
+      "wash": {}
     }
   ]
 }

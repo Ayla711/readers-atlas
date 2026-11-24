@@ -1472,3 +1472,61 @@
 | Ronco sopra Ascona (Remarque's grave) | Thomas Wenger | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AChurch_and_village_of_Ronco_sopra_Ascona.jpg) |
 | Kilchberg (Thomas Mann's grave) | Adrianlimani91 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AKilchberg_Panorama.jpg) |
 | Villa Diodati, Cologny | Robertgrassi | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3AVilla_diodati_2008.07.27_rg_5.JPG) |
+| Kronborg Castle, Helsingør | Thomas Dahlstrøm Nielsen | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AKronborg_Slot%2C_2025.jpg) |
+| Børglum Abbey | Gunnar Bach Pedersen | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3AB%C3%B8rglum_Kloster4.jpg) |
+| The Silkeborg woods by the Gudenå | Nico-dk | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A957_%C3%98rns%C3%B8_%C3%B8st.jpg) |
+| Munke Mose, Odense (the Bell Deep) | Thomas Dahlstrøm Nielsen | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AMunke_Mose%2C_Odense%2C_2025.jpg) |
+| H. C. Andersen's House, Odense | Marco Kahlund, (Benutzer:mk-sl) | [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File%3AH.C._Andersens_Hus_%28Geburtshaus%29.JPG) |
+| The Little Mermaid, Langelinie | wanghongliu | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A%E4%B8%B9%E9%BA%A6%E7%BE%8E%E4%BA%BA%E9%B1%BC-The_Little_Mermaid-Den_lille_Havfrue_-_panoramio.jpg) |
+| Gallehus | Hjart | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AGuldhornene%2C_Gallehus_2024.jpg) |
+| Tjele Manor | Peter Tom-Petersen | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3ATjele_Tom_Petersen785.jpg) |
+| Randers | Kapotev | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File%3ASct_mortens_kirke_randers_2018.jpg) |
+| Gammeltorv, Copenhagen | Daniel from Galashiels, United Kingdom | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AGammeltorv%2C_Copenhagen.jpg) |
+| Copenhagen old town (Indre By) | Guillaume Baviere from Uppsala, Sweden | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ALille_Kirkestr%C3%A6de_from_Nikolaj_Kirke%2C_Copenhagen_2018-07-22.jpg) |
+| Nexø, Bornholm | Hans-Peter Balfanz | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ANex%C3%B8_Hafen_2011-05.JPG) |
+| Christianshavn, Copenhagen | Dietmar Rabich | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AKopenhagen_%28DK%29%2C_Christianshaven_--_2017_--_1526.jpg) |
+| Hedebygade, Vesterbro | Leif Jørgensen | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AHedebygade.JPG) |
+| Rungstedlund (Karen Blixen Museum) | Orf3us | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AStue_p%C3%A5_Rungstedlund.jpg) |
+| Assistens Cemetery, Copenhagen | Jonaseckerbom | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AAssistens_Kirkeg%C3%A5rd%2C_Copenhagen.jpg) |
+| Sorø Abbey Church (Holberg's tomb) | Bococo | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ASor%C3%B8_klosterkirke_%28cropped%29.JPG) |
+| Anholt | Mikkel Houmøller | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AAnholt_Fyr.jpg) |
+| Thisted | Hjart | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AThisted_Kyst_2024.jpg) |
+| Marstal, Ærø | Kresspahl | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AMarstal_Hafen_052.JPG) |
+| Als | Erik Christensen | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ADybb%C3%B8l_M%C3%B8lle.1.jpg) |
+| Vedersø | Bococo | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AVeders%C3%B8_kirke_%28Ringk%C3%B8bing-Skjern%29.JPG) |
+| Gammel Lejre | Guillaume Baviere from Uppsala, Sweden | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AZealand_2017-09-10_%2837612141124%29.jpg) |
+| Karl Johans gate, Oslo | W. Bulach | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A00_7731_Oslo_-_Karl_Johans_gate.jpg) |
+| Besseggen | Silverkey (Mickaël Delcey) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABesseggen_ridge.jpg) |
+| Ibsen Museum, Oslo | Ssu | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AIbsenmuseet_Oslo.jpg) |
+| Fjære Church, Grimstad | Friman | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3AFjaere-krk.jpg) |
+| Jørundgard Medieval Centre, Sel | Nasjonalt Pilegrimssenter | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AJ%C3%B8rundgard_middelaldersenter_DF.7263.jpg) |
+| Bjerkebæk, Lillehammer | Mahlum | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3ABjerkeb%C3%A6k_Lillehammer.jpg) |
+| Aulestad, Gausdal | Øyvind Holmstad | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AAulestad-3.JPG) |
+| Stavanger | Olaf Meister | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AGamle_Stavanger_2017_n%C3%B6rdlicher_Teil.jpg) |
+| Holberg Statue, Vågsallmenningen, Bergen | JoachimKohler-HB | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3AHolberg-Denkmal_auf_dem_V%C3%A5gsallmenningen_in_Bergen_NOR_%282015%29.jpg) |
+| Berlevåg | Maltesen from Copenhagen, Denmark | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABerlev%C3%A5g.jpg) |
+| Tromøya, Arendal | Karl Ragnar Gjertsen Krg | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AArendal_Trom%C3%B8y_Sandst%C3%B8.JPG) |
+| Vinje | Tollef Salemann | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File%3AVinje-prestegard.jpg) |
+| Tinnsjå (Lake Tinn) | Krib | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ATinnsj%C3%A5_2024.jpg) |
+| Stiklestad | Henny stokseth | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AStiklestad_kirke_2017.jpg) |
+| Alstahaug Church | Zinnmann | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A20230722_Alstahaug_kirke_-_5220.jpg) |
+| Kon-Tiki Museum, Bygdøy | Palickap | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AOslo%2C_Kon-Tiki_museum.jpg) |
+| Hamsun Centre, Hamarøy | TorbjørnS | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AHamsunsenteret.jpg) |
+| Eidsvoll Vicarage | Mahlum | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3AEidsvoll_prestegard.jpg) |
+| Slottsfjellet, Tønsberg | Ssu | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ASlottsfjellet_sett_fra_T%C3%B8nsberg_gangbru.jpg) |
+| Mosebacke, Södermalm | Holger.Ellgaard | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AMosebacke_torg_juli_2016.jpg) |
+| Kymmendö | Tommie Hansen | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AKymmend%C3%B6_jetty_and_house%2C_Stockhom_%28Sweden%29_-_panoramio.jpg) |
+| Strindberg Museum (the Blue Tower), Stockholm | Frankie Fouganthin | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AStrindbergsmuseet_09.jpg) |
+| Klara Church, Stockholm | Arild Vågen | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AKlara_kyrka_february_2013_01.jpg) |
+| Rottneros Manor (Ekeby) | Boberger . Photo: Bengt Oberger | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ARottneros_herrg%C3%A5rd_1.JPG) |
+| Mårbacka | Sofie Sigrinn | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ASelmas_arbetsplats_-_M%C3%A5rbacka.jpg) |
+| Västra Vemmenhög Church | Erik Andrén | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3AV%C3%A4stra_Vemmenh%C3%B6gs_kyrka_-_KMB_-_16000200067084.jpg) |
+| Nås, Dalarna | T. Axelson | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3ANaasKyrka_Dalarna2.JPG) |
+| Djurgården | ArildV | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AS%C3%B6dra_Djurg%C3%A5rden_May_2026_11.jpg) |
+| Riddarholm Church, Stockholm | Benoît Derrier from Stockholm, Sweden | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ARiddarholmen_from_Stockholm_City_Hall_tower.jpg) |
+| Ljuder Church, Småland | Bernt Fransson,Lindås | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ALjuders_kyrka_006.jpg) |
+| Astrid Lindgren's Näs, Vimmerby | Patrick Strandberg | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AAstrid_Lindgrens_N%C3%A4s%E2%80%A6_%287620931028%29.jpg) |
+| Bellmansgatan 1, Mariaberget | ArildV | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABellmansgatan_July_2024_01.jpg) |
+| Ystad | Mariochom | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AYstad-Stortorget.JPG) |
+| Blackeberg | Bysmon | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABlackebergs_torg_med_punkthuset%2C_april_2019a.jpg) |
+| Alster Manor | SiriusA | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3AAlsters-herrg%C3%A5rd-baksida.JPG) |

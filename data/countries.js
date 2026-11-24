@@ -874,7 +874,90 @@ window.RA_COUNTRIES = [
    "data/ch/lines.js"
   ],
   "open": true
+ },
+ {
+  "code": "dk",
+  "iso": "DNK",
+  "name": "Denmark",
+  "name_zh": "丹麦",
+  "short": "Denmark",
+  "short_zh": "丹麦",
+  "region_term": {
+   "en": "region",
+   "zh": "大区"
+  },
+  "bounds": [
+   8.0,
+   54.5,
+   15.25,
+   57.8
+  ],
+  "small_regions": [],
+  "wash": {},
+  "data": [
+   "data/dk/geo.js",
+   "data/dk/books.js",
+   "data/dk/places.js",
+   "data/dk/lines.js"
+  ],
+  "open": true
+ },
+ {
+  "code": "no",
+  "iso": "NOR",
+  "name": "Norway",
+  "name_zh": "挪威",
+  "short": "Norway",
+  "short_zh": "挪威",
+  "region_term": {
+   "en": "county",
+   "zh": "郡"
+  },
+  "bounds": [
+   4.4,
+   57.9,
+   31.3,
+   71.3
+  ],
+  "small_regions": [
+   "NO-03"
+  ],
+  "wash": {},
+  "data": [
+   "data/no/geo.js",
+   "data/no/books.js",
+   "data/no/places.js",
+   "data/no/lines.js"
+  ],
+  "open": true
+ },
+ {
+  "code": "se",
+  "iso": "SWE",
+  "name": "Sweden",
+  "name_zh": "瑞典",
+  "short": "Sweden",
+  "short_zh": "瑞典",
+  "region_term": {
+   "en": "county",
+   "zh": "省"
+  },
+  "bounds": [
+   10.9,
+   55.3,
+   24.2,
+   69.1
+  ],
+  "small_regions": [],
+  "wash": {},
+  "data": [
+   "data/se/geo.js",
+   "data/se/books.js",
+   "data/se/places.js",
+   "data/se/lines.js"
+  ],
+  "open": true
  }
 ];
 // Totals over every open country, for the world page.
-window.RA_WORLD_STATS = {"countries": 29, "books": 1450, "lines": 1424, "places": 1653};
+window.RA_WORLD_STATS = {"countries": 32, "books": 1509, "lines": 1464, "places": 1711};
