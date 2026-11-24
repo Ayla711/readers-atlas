@@ -4892,6 +4892,103 @@
         "Saba",
         "St. Eustatius"
       ]
+    },
+    {
+      "code": "be",
+      "iso": "BEL",
+      "name": "Belgium",
+      "name_zh": "比利时",
+      "short": "Belgium",
+      "short_zh": "比利时",
+      "region_term": {
+        "en": "province",
+        "zh": "省"
+      },
+      "bounds": [
+        2.5,
+        49.45,
+        6.45,
+        51.55
+      ],
+      "step": 0.002,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "BE-BRU": "BE-BRU",
+              "BE-VAN": "BE-VAN",
+              "BE-VBR": "BE-VBR",
+              "BE-VLI": "BE-VLI",
+              "BE-VOV": "BE-VOV",
+              "BE-VWV": "BE-VWV",
+              "BE-WBR": "BE-WBR",
+              "BE-WHT": "BE-WHT",
+              "BE-WLG": "BE-WLG",
+              "BE-WLX": "BE-WLX",
+              "BE-WNA": "BE-WNA"
+            }
+          }
+        ],
+        "names": {
+          "BE-BRU": [
+            "Brussels",
+            "布鲁塞尔首都大区"
+          ],
+          "BE-VAN": [
+            "Antwerp",
+            "安特卫普省"
+          ],
+          "BE-VBR": [
+            "Flemish Brabant",
+            "佛兰芒布拉班特省"
+          ],
+          "BE-VLI": [
+            "Limburg",
+            "林堡省"
+          ],
+          "BE-VOV": [
+            "East Flanders",
+            "东佛兰德省"
+          ],
+          "BE-VWV": [
+            "West Flanders",
+            "西佛兰德省"
+          ],
+          "BE-WBR": [
+            "Walloon Brabant",
+            "瓦隆布拉班特省"
+          ],
+          "BE-WHT": [
+            "Hainaut",
+            "埃诺省"
+          ],
+          "BE-WLG": [
+            "Liège",
+            "列日省"
+          ],
+          "BE-WLX": [
+            "Luxembourg",
+            "卢森堡省"
+          ],
+          "BE-WNA": [
+            "Namur",
+            "那慕尔省"
+          ]
+        }
+      },
+      "data": [
+        "data/be/geo.js",
+        "data/be/books.js",
+        "data/be/places.js",
+        "data/be/lines.js"
+      ],
+      "open": true,
+      "small_regions": [
+        "BE-BRU"
+      ],
+      "wash": {}
     }
   ]
 }

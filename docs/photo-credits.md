@@ -1543,3 +1543,13 @@
 | Domus Spinozana, The Hague | MLWatts | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ASpinozahuis_and_Spinoza%27s_statue_in_The_Hague.JPG) |
 | Archipelbuurt (Couperus's Surinamestraat), The Hague | Dqfn13 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ASurinamestraat_20%2C_Den_Haag.jpg) |
 | Erasmus statue, Laurenskerk, Rotterdam | Unknown author | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3ARotterdam_Grotemarkt_Standbeeld_Erasmus_1885_%28GA%29.jpg) |
+| Cathedral of Our Lady, Antwerp | Manuelarosi | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ANello_%26_Patrasche_by_Tist.jpg) |
+| Damme | Zeisterre | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ADamme_Uilenspiegelmonument.JPG) |
+| Rozenhoedkaai (Quai du Rosaire), Bruges | Ank Kumar | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ARozenhoedkaai_%28canal%29_and_Belfry_of_Bruges%2C_Bruges%2C_Belgium_%28Ank_Kumar%2C_Infosys_Limited%29_05.jpg) |
+| Markt, Bruges (Breydel and De Coninck) | Marc Ryckaert ( MJJR ) | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABrugge_Markt_Noordzijde_R01.jpg) |
+| Hougoumont, Waterloo | Nenea hartia | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AHougoumont_farm.03.jpg) |
+| Bozar (site of the Pensionnat Heger), Brussels | Trougnouf (Benoit Brummer) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABOZAR_%28DSCF7462%29.jpg) |
+| Brussels (Grand-Place) | Celuici | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AGrand-Place%2C_Brussels_-_panorama%2C_June_2018.jpg) |
+| Outremeuse, Liège | Kleon3 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A2014_Li%C3%A8ge%2C_Outremeuse%2C_D%C3%A9rivation.jpg) |
+| Kortrijk | Trougnouf (Benoit Brummer) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABroeltorens%2C_Kortrijk_%28DSCF9278%29.jpg) |
+| Lier | Zairon | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ALier_Zimmertoren_4.jpg) |

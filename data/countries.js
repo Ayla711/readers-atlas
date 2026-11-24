@@ -984,7 +984,36 @@ window.RA_COUNTRIES = [
    "data/nl/lines.js"
   ],
   "open": true
+ },
+ {
+  "code": "be",
+  "iso": "BEL",
+  "name": "Belgium",
+  "name_zh": "比利时",
+  "short": "Belgium",
+  "short_zh": "比利时",
+  "region_term": {
+   "en": "province",
+   "zh": "省"
+  },
+  "bounds": [
+   2.5,
+   49.45,
+   6.45,
+   51.55
+  ],
+  "small_regions": [
+   "BE-BRU"
+  ],
+  "wash": {},
+  "data": [
+   "data/be/geo.js",
+   "data/be/books.js",
+   "data/be/places.js",
+   "data/be/lines.js"
+  ],
+  "open": true
  }
 ];
 // Totals over every open country, for the world page.
-window.RA_WORLD_STATS = {"countries": 33, "books": 1521, "lines": 1473, "places": 1724};
+window.RA_WORLD_STATS = {"countries": 34, "books": 1528, "lines": 1482, "places": 1734};
