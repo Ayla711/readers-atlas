@@ -1155,7 +1155,36 @@ window.RA_COUNTRIES = [
    "data/ua/lines.js"
   ],
   "open": true
+ },
+ {
+  "code": "ro",
+  "iso": "ROU",
+  "name": "Romania",
+  "name_zh": "罗马尼亚",
+  "short": "Romania",
+  "short_zh": "罗马尼亚",
+  "region_term": {
+   "en": "development region",
+   "zh": "发展区"
+  },
+  "bounds": [
+   20.1,
+   43.5,
+   29.8,
+   48.4
+  ],
+  "small_regions": [
+   "RO-RO32"
+  ],
+  "wash": {},
+  "data": [
+   "data/ro/geo.js",
+   "data/ro/books.js",
+   "data/ro/places.js",
+   "data/ro/lines.js"
+  ],
+  "open": true
  }
 ];
 // Totals over every open country, for the world page.
-window.RA_WORLD_STATS = {"countries": 39, "books": 1568, "lines": 1509, "places": 1774};
+window.RA_WORLD_STATS = {"countries": 40, "books": 1575, "lines": 1516, "places": 1782};

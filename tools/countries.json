@@ -5712,6 +5712,122 @@
         "UA-40"
       ],
       "wash": {}
+    },
+    {
+      "code": "ro",
+      "iso": "ROU",
+      "name": "Romania",
+      "name_zh": "罗马尼亚",
+      "short": "Romania",
+      "short_zh": "罗马尼亚",
+      "region_term": {
+        "en": "development region",
+        "zh": "发展区"
+      },
+      "bounds": [
+        20.1,
+        43.5,
+        29.8,
+        48.4
+      ],
+      "step": 0.005,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "RO-BH": "RO-RO11",
+              "RO-BN": "RO-RO11",
+              "RO-CJ": "RO-RO11",
+              "RO-MM": "RO-RO11",
+              "RO-SM": "RO-RO11",
+              "RO-SJ": "RO-RO11",
+              "RO-AB": "RO-RO12",
+              "RO-BV": "RO-RO12",
+              "RO-CV": "RO-RO12",
+              "RO-HR": "RO-RO12",
+              "RO-MS": "RO-RO12",
+              "RO-SB": "RO-RO12",
+              "RO-BC": "RO-RO21",
+              "RO-BT": "RO-RO21",
+              "RO-IS": "RO-RO21",
+              "RO-NT": "RO-RO21",
+              "RO-SV": "RO-RO21",
+              "RO-VS": "RO-RO21",
+              "RO-BR": "RO-RO22",
+              "RO-BZ": "RO-RO22",
+              "RO-CT": "RO-RO22",
+              "RO-GL": "RO-RO22",
+              "RO-TL": "RO-RO22",
+              "RO-VN": "RO-RO22",
+              "RO-AG": "RO-RO31",
+              "RO-CL": "RO-RO31",
+              "RO-DB": "RO-RO31",
+              "RO-GR": "RO-RO31",
+              "RO-IL": "RO-RO31",
+              "RO-PH": "RO-RO31",
+              "RO-TR": "RO-RO31",
+              "RO-B": "RO-RO32",
+              "RO-IF": "RO-RO32",
+              "RO-DJ": "RO-RO41",
+              "RO-GJ": "RO-RO41",
+              "RO-MH": "RO-RO41",
+              "RO-OT": "RO-RO41",
+              "RO-VL": "RO-RO41",
+              "RO-AR": "RO-RO42",
+              "RO-CS": "RO-RO42",
+              "RO-HD": "RO-RO42",
+              "RO-TM": "RO-RO42"
+            }
+          }
+        ],
+        "names": {
+          "RO-RO11": [
+            "North-West",
+            "西北发展区"
+          ],
+          "RO-RO12": [
+            "Centre",
+            "中部发展区"
+          ],
+          "RO-RO21": [
+            "North-East",
+            "东北发展区"
+          ],
+          "RO-RO22": [
+            "South-East",
+            "东南发展区"
+          ],
+          "RO-RO31": [
+            "South-Muntenia",
+            "南蒙特尼亚发展区"
+          ],
+          "RO-RO32": [
+            "Bucharest-Ilfov",
+            "布加勒斯特-伊尔福夫发展区"
+          ],
+          "RO-RO41": [
+            "South-West Oltenia",
+            "西南奥尔特尼亚发展区"
+          ],
+          "RO-RO42": [
+            "West",
+            "西部发展区"
+          ]
+        }
+      },
+      "data": [
+        "data/ro/geo.js",
+        "data/ro/books.js",
+        "data/ro/places.js",
+        "data/ro/lines.js"
+      ],
+      "open": true,
+      "small_regions": [
+        "RO-RO32"
+      ],
+      "wash": {}
     }
   ]
 }
