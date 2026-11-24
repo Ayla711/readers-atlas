@@ -1,0 +1,10 @@
+// Nigeria, hand-written content (tools/content/batches/add_ng1.py, 2026-11-24).
+window.RA_DATA = window.RA_DATA || {};
+window.RA_DATA.books = [
+  { id: "things-fall-apart", title: "Things Fall Apart", title_zh: "瓦解", title_orig: "Things Fall Apart", author: "Chinua Achebe", author_zh: "钦努阿·阿契贝", year: "1958", orig_lang: "en", public_domain: false, source_url: null, author_orig: "Chinua Achebe", aliases: ["Okonkwo", "Umuofia", "Achebe", "阿契贝", "这个世界土崩瓦解了"] },
+  { id: "no-longer-at-ease", title: "No Longer at Ease", title_zh: "再也不得安宁", title_orig: "No Longer at Ease", author: "Chinua Achebe", author_zh: "钦努阿·阿契贝", year: "1960", orig_lang: "en", public_domain: false, source_url: null, author_orig: "Chinua Achebe", aliases: ["Obi Okonkwo", "Achebe", "阿契贝"] },
+  { id: "ake-years-of-childhood", title: "Aké: The Years of Childhood", title_zh: "阿凯：童年岁月", title_orig: "Aké: The Years of Childhood", author: "Wole Soyinka", author_zh: "沃莱·索因卡", year: "1981", orig_lang: "en", public_domain: false, source_url: null, author_orig: "Wole Soyinka", aliases: ["Ake", "Soyinka", "索因卡", "Abeokuta"] },
+  { id: "half-of-a-yellow-sun", title: "Half of a Yellow Sun", title_zh: "半轮黄日", title_orig: "Half of a Yellow Sun", author: "Chimamanda Ngozi Adichie", author_zh: "奇玛曼达·恩戈兹·阿迪契", year: "2006", orig_lang: "en", public_domain: false, source_url: null, author_orig: "Chimamanda Ngozi Adichie", aliases: ["Biafra", "Ugwu", "Odenigbo", "Olanna", "Adichie", "阿迪契"] },
+  { id: "purple-hibiscus", title: "Purple Hibiscus", title_zh: "紫木槿", title_orig: "Purple Hibiscus", author: "Chimamanda Ngozi Adichie", author_zh: "奇玛曼达·恩戈兹·阿迪契", year: "2003", orig_lang: "en", public_domain: false, source_url: null, author_orig: "Chimamanda Ngozi Adichie", aliases: ["Kambili", "Aunty Ifeoma", "Adichie", "阿迪契"] },
+  { id: "efuru", title: "Efuru", title_zh: "埃弗鲁", title_orig: "Efuru", author: "Flora Nwapa", author_zh: "弗洛拉·恩瓦帕", year: "1966", orig_lang: "en", public_domain: false, source_url: null, author_orig: "Flora Nwapa", aliases: ["Uhamiri", "Oguta", "Nwapa"] }
+];

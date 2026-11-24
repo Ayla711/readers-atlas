@@ -6008,6 +6008,325 @@
         "EG-LX"
       ],
       "wash": {}
+    },
+    {
+      "code": "za",
+      "iso": "ZAF",
+      "name": "South Africa",
+      "name_zh": "南非",
+      "short": "South Africa",
+      "short_zh": "南非",
+      "region_term": {
+        "en": "province",
+        "zh": "省"
+      },
+      "bounds": [
+        12.0,
+        -37.6,
+        33.6,
+        -21.8
+      ],
+      "step": 0.008,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "ZA-WC": "ZA-WC",
+              "ZA-EC": "ZA-EC",
+              "ZA-NC": "ZA-NC",
+              "ZA-FS": "ZA-FS",
+              "ZA-NL": "ZA-NL",
+              "ZA-NW": "ZA-NW",
+              "ZA-GT": "ZA-GT",
+              "ZA-MP": "ZA-MP",
+              "ZA-LP": "ZA-LP"
+            }
+          }
+        ],
+        "names": {
+          "ZA-WC": [
+            "Western Cape",
+            "西开普省"
+          ],
+          "ZA-EC": [
+            "Eastern Cape",
+            "东开普省"
+          ],
+          "ZA-NC": [
+            "Northern Cape",
+            "北开普省"
+          ],
+          "ZA-FS": [
+            "Free State",
+            "自由邦省"
+          ],
+          "ZA-NL": [
+            "KwaZulu-Natal",
+            "夸祖鲁-纳塔尔省"
+          ],
+          "ZA-NW": [
+            "North West",
+            "西北省"
+          ],
+          "ZA-GT": [
+            "Gauteng",
+            "豪登省"
+          ],
+          "ZA-MP": [
+            "Mpumalanga",
+            "普马兰加省"
+          ],
+          "ZA-LP": [
+            "Limpopo",
+            "林波波省"
+          ]
+        }
+      },
+      "data": [
+        "data/za/geo.js",
+        "data/za/books.js",
+        "data/za/places.js",
+        "data/za/lines.js"
+      ],
+      "open": true,
+      "small_regions": [
+        "ZA-GT"
+      ],
+      "wash": {}
+    },
+    {
+      "code": "ng",
+      "iso": "NGA",
+      "name": "Nigeria",
+      "name_zh": "尼日利亚",
+      "short": "Nigeria",
+      "short_zh": "尼日利亚",
+      "region_term": {
+        "en": "state",
+        "zh": "州"
+      },
+      "bounds": [
+        0.6,
+        2.4,
+        15.0,
+        14.1
+      ],
+      "step": 0.008,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "NG-AB": "NG-AB",
+              "NG-AD": "NG-AD",
+              "NG-AK": "NG-AK",
+              "NG-AN": "NG-AN",
+              "NG-BA": "NG-BA",
+              "NG-BE": "NG-BE",
+              "NG-BO": "NG-BO",
+              "NG-BY": "NG-BY",
+              "NG-CR": "NG-CR",
+              "NG-DE": "NG-DE",
+              "NG-EB": "NG-EB",
+              "NG-ED": "NG-ED",
+              "NG-EK": "NG-EK",
+              "NG-EN": "NG-EN",
+              "NG-FC": "NG-FC",
+              "NG-GO": "NG-GO",
+              "NG-IM": "NG-IM",
+              "NG-JI": "NG-JI",
+              "NG-KD": "NG-KD",
+              "NG-KE": "NG-KE",
+              "NG-KN": "NG-KN",
+              "NG-KO": "NG-KO",
+              "NG-KT": "NG-KT",
+              "NG-KW": "NG-KW",
+              "NG-LA": "NG-LA",
+              "NG-NA": "NG-NA",
+              "NG-NI": "NG-NI",
+              "NG-OG": "NG-OG",
+              "NG-ON": "NG-ON",
+              "NG-OS": "NG-OS",
+              "NG-OY": "NG-OY",
+              "NG-PL": "NG-PL",
+              "NG-RI": "NG-RI",
+              "NG-SO": "NG-SO",
+              "NG-TA": "NG-TA",
+              "NG-YO": "NG-YO",
+              "NG-ZA": "NG-ZA"
+            }
+          }
+        ],
+        "names": {
+          "NG-AB": [
+            "Abia",
+            "阿比亚州"
+          ],
+          "NG-AD": [
+            "Adamawa",
+            "阿达马瓦州"
+          ],
+          "NG-AK": [
+            "Akwa Ibom",
+            "阿夸伊博姆州"
+          ],
+          "NG-AN": [
+            "Anambra",
+            "阿南布拉州"
+          ],
+          "NG-BA": [
+            "Bauchi",
+            "包奇州"
+          ],
+          "NG-BE": [
+            "Benue",
+            "贝努埃州"
+          ],
+          "NG-BO": [
+            "Borno",
+            "博尔诺州"
+          ],
+          "NG-BY": [
+            "Bayelsa",
+            "巴耶尔萨州"
+          ],
+          "NG-CR": [
+            "Cross River",
+            "克罗斯河州"
+          ],
+          "NG-DE": [
+            "Delta",
+            "三角洲州"
+          ],
+          "NG-EB": [
+            "Ebonyi",
+            "埃邦伊州"
+          ],
+          "NG-ED": [
+            "Edo",
+            "埃多州"
+          ],
+          "NG-EK": [
+            "Ekiti",
+            "埃基蒂州"
+          ],
+          "NG-EN": [
+            "Enugu",
+            "埃努古州"
+          ],
+          "NG-FC": [
+            "Federal Capital Territory",
+            "联邦首都特区"
+          ],
+          "NG-GO": [
+            "Gombe",
+            "贡贝州"
+          ],
+          "NG-IM": [
+            "Imo",
+            "伊莫州"
+          ],
+          "NG-JI": [
+            "Jigawa",
+            "吉加瓦州"
+          ],
+          "NG-KD": [
+            "Kaduna",
+            "卡杜纳州"
+          ],
+          "NG-KE": [
+            "Kebbi",
+            "凯比州"
+          ],
+          "NG-KN": [
+            "Kano",
+            "卡诺州"
+          ],
+          "NG-KO": [
+            "Kogi",
+            "科吉州"
+          ],
+          "NG-KT": [
+            "Katsina",
+            "卡齐纳州"
+          ],
+          "NG-KW": [
+            "Kwara",
+            "夸拉州"
+          ],
+          "NG-LA": [
+            "Lagos",
+            "拉各斯州"
+          ],
+          "NG-NA": [
+            "Nasarawa",
+            "纳萨拉瓦州"
+          ],
+          "NG-NI": [
+            "Niger",
+            "尼日尔州"
+          ],
+          "NG-OG": [
+            "Ogun",
+            "奥贡州"
+          ],
+          "NG-ON": [
+            "Ondo",
+            "翁多州"
+          ],
+          "NG-OS": [
+            "Osun",
+            "奥孙州"
+          ],
+          "NG-OY": [
+            "Oyo",
+            "奥约州"
+          ],
+          "NG-PL": [
+            "Plateau",
+            "高原州"
+          ],
+          "NG-RI": [
+            "Rivers",
+            "河流州"
+          ],
+          "NG-SO": [
+            "Sokoto",
+            "索科托州"
+          ],
+          "NG-TA": [
+            "Taraba",
+            "塔拉巴州"
+          ],
+          "NG-YO": [
+            "Yobe",
+            "约贝州"
+          ],
+          "NG-ZA": [
+            "Zamfara",
+            "扎姆法拉州"
+          ]
+        }
+      },
+      "data": [
+        "data/ng/geo.js",
+        "data/ng/books.js",
+        "data/ng/places.js",
+        "data/ng/lines.js"
+      ],
+      "open": true,
+      "small_regions": [
+        "NG-LA",
+        "NG-FC",
+        "NG-AN",
+        "NG-AB",
+        "NG-IM",
+        "NG-EB"
+      ],
+      "wash": {}
     }
   ]
 }

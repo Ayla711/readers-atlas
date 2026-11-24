@@ -1,0 +1,38 @@
+{
+ "ng-ogidi": {
+  "lat": 6.15,
+  "lon": 6.86666667,
+  "st": "Ogidi, Anambra State (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Ogidi,_Anambra_State"
+ },
+ "ng-lagos": {
+  "lat": 6.45,
+  "lon": 3.4,
+  "st": "Lagos Island (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Lagos_Island"
+ },
+ "ng-ake": {
+  "lat": 7.16083333,
+  "lon": 3.34833333,
+  "st": "Abeokuta (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Abeokuta"
+ },
+ "ng-nsukka": {
+  "lat": 6.85666667,
+  "lon": 7.39583333,
+  "st": "Nsukka (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Nsukka"
+ },
+ "ng-enugu": {
+  "lat": 6.45277778,
+  "lon": 7.51111111,
+  "st": "Enugu (city) (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Enugu_(city)"
+ },
+ "ng-oguta": {
+  "lat": 5.70666667,
+  "lon": 6.7925,
+  "st": "Oguta Lake (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Oguta_Lake"
+ }
+}

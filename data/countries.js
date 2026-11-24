@@ -1296,7 +1296,73 @@ window.RA_COUNTRIES = [
    "it",
    "gr"
   ]
+ },
+ {
+  "code": "za",
+  "iso": "ZAF",
+  "name": "South Africa",
+  "name_zh": "南非",
+  "short": "South Africa",
+  "short_zh": "南非",
+  "region_term": {
+   "en": "province",
+   "zh": "省"
+  },
+  "bounds": [
+   12.0,
+   -37.6,
+   33.6,
+   -21.8
+  ],
+  "small_regions": [
+   "ZA-GT"
+  ],
+  "wash": {},
+  "data": [
+   "data/za/geo.js",
+   "data/za/books.js",
+   "data/za/places.js",
+   "data/za/lines.js"
+  ],
+  "open": true,
+  "needs": [
+   "pt"
+  ]
+ },
+ {
+  "code": "ng",
+  "iso": "NGA",
+  "name": "Nigeria",
+  "name_zh": "尼日利亚",
+  "short": "Nigeria",
+  "short_zh": "尼日利亚",
+  "region_term": {
+   "en": "state",
+   "zh": "州"
+  },
+  "bounds": [
+   0.6,
+   2.4,
+   15.0,
+   14.1
+  ],
+  "small_regions": [
+   "NG-LA",
+   "NG-FC",
+   "NG-AN",
+   "NG-AB",
+   "NG-IM",
+   "NG-EB"
+  ],
+  "wash": {},
+  "data": [
+   "data/ng/geo.js",
+   "data/ng/books.js",
+   "data/ng/places.js",
+   "data/ng/lines.js"
+  ],
+  "open": true
  }
 ];
 // Totals over every open country, for the world page.
-window.RA_WORLD_STATS = {"countries": 41, "books": 1580, "lines": 1523, "places": 1790};
+window.RA_WORLD_STATS = {"countries": 43, "books": 1593, "lines": 1534, "places": 1804};

@@ -1,0 +1,50 @@
+{
+ "za-cape": {
+  "lat": -34.35805556,
+  "lon": 18.47555556,
+  "st": "Cape of Good Hope (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Cape_of_Good_Hope"
+ },
+ "za-berea": {
+  "lat": -29.85083333,
+  "lon": 30.99305556,
+  "st": "Berea, Durban (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Berea,_Durban"
+ },
+ "za-pmb-station": {
+  "lat": -29.60972222,
+  "lon": 30.36805556,
+  "st": "Pietermaritzburg railway station (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Pietermaritzburg_railway_station"
+ },
+ "za-ixopo": {
+  "lat": -30.15722222,
+  "lon": 30.06472222,
+  "st": "Ixopo (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Ixopo"
+ },
+ "za-robben": {
+  "lat": -33.805,
+  "lon": 18.37,
+  "st": "Robben Island (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Robben_Island"
+ },
+ "za-mandela-house": {
+  "lat": -26.23853611,
+  "lon": 27.90877222,
+  "st": "Mandela House (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Mandela_House"
+ },
+ "za-plaatje-house": {
+  "lat": -28.746017,
+  "lon": 24.763457,
+  "st": "Sol Plaatje Museum (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Sol_Plaatje_Museum"
+ },
+ "za-schreiner-house": {
+  "lat": -32.173481,
+  "lon": 25.617867,
+  "st": "Schreiner House (Wikidata Q98812572, coordinate location)",
+  "su": "https://www.wikidata.org/wiki/Q98812572"
+ }
+}
