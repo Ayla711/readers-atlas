@@ -1,0 +1,11 @@
+{
+ "tr-topkapi": {"lat": 41.013, "lon": 28.984, "st": "Topkapı Palace (English Wikipedia, article coordinates)", "su": "https://en.wikipedia.org/wiki/Topkap%C4%B1_Palace"},
+ "tr-sehzadebasi": {"lat": 41.01380556, "lon": 28.95716667, "st": "Şehzade Mosque (English Wikipedia, article coordinates)", "su": "https://en.wikipedia.org/wiki/%C5%9Eehzade_Mosque"},
+ "tr-istiklal": {"lat": 41.03416667, "lon": 28.97888889, "st": "İstiklal Avenue (English Wikipedia, article coordinates)", "su": "https://en.wikipedia.org/wiki/%C4%B0stiklal_Avenue"},
+ "tr-galata": {"lat": 41.02555556, "lon": 28.97416667, "st": "Galata Kulesi (Turkish Wikipedia, article coordinates)", "su": "https://tr.wikipedia.org/wiki/Galata_Kulesi"},
+ "tr-ankara-sergievi": {"lat": 39.9355, "lon": 32.8605, "st": "Ankara Opera House, built as the Exhibition House (English Wikipedia, article coordinates)", "su": "https://en.wikipedia.org/wiki/Ankara_Opera_House"},
+ "tr-nisantasi": {"lat": 41.05166667, "lon": 28.99138889, "st": "Nişantaşı (English Wikipedia, article coordinates)", "su": "https://en.wikipedia.org/wiki/Ni%C5%9Fanta%C5%9F%C4%B1"},
+ "tr-kandilli": {"lat": 41.07305556, "lon": 29.05777778, "st": "Kandilli (Russian Wikipedia, article coordinates; the same in Italian Wikipedia)", "su": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%BB%D0%BB%D0%B8"},
+ "tr-adana": {"lat": 37.0, "lon": 35.32133333, "st": "Adana (English Wikipedia, article coordinates)", "su": "https://en.wikipedia.org/wiki/Adana"},
+ "tr-zeyniler": {"lat": 40.163, "lon": 29.111, "st": "Zeyniler, Yıldırım (Turkish Wikipedia, article coordinates)", "su": "https://tr.wikipedia.org/wiki/Zeyniler,_Y%C4%B1ld%C4%B1r%C4%B1m"}
+}

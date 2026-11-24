@@ -1,0 +1,8 @@
+{
+ "ua-kyiv-river-port": {"lat": 50.45916667, "lon": 30.52694444, "st": "Kyiv River Port (English Wikipedia, article coordinates)", "su": "https://en.wikipedia.org/wiki/Kyiv_River_Port"},
+ "ua-kryvorivnia": {"lat": 48.17527778, "lon": 24.89666667, "st": "Kryvorivnia (English Wikipedia, article coordinates)", "su": "https://en.wikipedia.org/wiki/Kryvorivnia"},
+ "ua-tukhlia": {"lat": 48.91805556, "lon": 23.47194444, "st": "Tukhlia (English Wikipedia, article coordinates)", "su": "https://en.wikipedia.org/wiki/Tukhlia"},
+ "ua-nizhyn": {"lat": 51.03805556, "lon": 31.88611111, "st": "Nizhyn (English Wikipedia, article coordinates)", "su": "https://en.wikipedia.org/wiki/Nizhyn"},
+ "ua-sosnytsia": {"lat": 51.53111111, "lon": 32.49972222, "st": "Sosnytsia (English Wikipedia, article coordinates)", "su": "https://en.wikipedia.org/wiki/Sosnytsia"},
+ "ua-odesa-film-studio": {"lat": 46.4596, "lon": 30.7571, "st": "Odesa Film Studio (English Wikipedia, article coordinates)", "su": "https://en.wikipedia.org/wiki/Odesa_Film_Studio"}
+}
