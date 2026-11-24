@@ -14235,6 +14235,96 @@
     "book",
     "house"
    ]
+  },
+  {
+   "id": "my-name-is-red",
+   "title": "My Name Is Red",
+   "author": "Orhan Pamuk",
+   "home": "tr",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "time-regulation-institute",
+   "title": "The Time Regulation Institute",
+   "author": "Ahmet Hamdi Tanpınar",
+   "home": "tr",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "aylak-adam",
+   "title": "Aylak Adam (The Idler)",
+   "author": "Yusuf Atılgan",
+   "home": "tr",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "puslu-kitalar-atlasi",
+   "title": "Puslu Kıtalar Atlası (The Atlas of Misty Continents)",
+   "author": "İhsan Oktay Anar",
+   "home": "tr",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "madonna-in-a-fur-coat",
+   "title": "Madonna in a Fur Coat",
+   "author": "Sabahattin Ali",
+   "home": "tr",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "the-black-book",
+   "title": "The Black Book",
+   "author": "Orhan Pamuk",
+   "home": "tr",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "huzur",
+   "title": "A Mind at Peace",
+   "author": "Ahmet Hamdi Tanpınar",
+   "home": "tr",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "bereketli-topraklar",
+   "title": "Bereketli Topraklar Üzerinde (On Fertile Lands)",
+   "author": "Orhan Kemal",
+   "home": "tr",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "calikusu",
+   "title": "Çalıkuşu (The Wren)",
+   "author": "Reşat Nuri Güntekin",
+   "home": "tr",
+   "via": [
+    "book",
+    "line"
+   ]
   }
  ],
  "ua": [
@@ -14316,6 +14406,66 @@
    "via": [
     "book",
     "house"
+   ]
+  },
+  {
+   "id": "misto",
+   "title": "The City",
+   "author": "Valerian Pidmohylny",
+   "home": "ua",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "shadows-of-forgotten-ancestors",
+   "title": "Shadows of Forgotten Ancestors",
+   "author": "Mykhailo Kotsiubynsky",
+   "home": "ua",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "zakhar-berkut",
+   "title": "Zakhar Berkut",
+   "author": "Ivan Franko",
+   "home": "ua",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "chorna-rada",
+   "title": "The Black Council",
+   "author": "Panteleimon Kulish",
+   "home": "ua",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "enchanted-desna",
+   "title": "The Enchanted Desna",
+   "author": "Oleksandr Dovzhenko",
+   "home": "ua",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "the-shipmaster",
+   "title": "The Shipmaster",
+   "author": "Yuri Yanovsky",
+   "home": "ua",
+   "via": [
+    "book",
+    "line"
    ]
   },
   {

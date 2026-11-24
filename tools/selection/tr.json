@@ -30,8 +30,8 @@
     "E",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "my-name-is-red",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "伊斯坦布尔；D 1264 · Goodreads 63,890"
   },
@@ -70,8 +70,8 @@
    ],
    "in_app": null,
    "decision": "新增",
-   "first_draft": "新增",
-   "note": "安卡拉、伊斯坦布尔；不在 D 前 2000 · Goodreads 13,215"
+   "first_draft": "新增（地点待查）",
+   "note": "安卡拉、伊斯坦布尔；不在 D 前 2000 · Goodreads 13,215；核地点：查到的资料没有把它定在哪个地方"
   },
   {
    "title": "The Time Regulation Institute",
@@ -86,8 +86,8 @@
     "A1",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "time-regulation-institute",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "伊斯坦布尔；不在 D 前 2000 · Goodreads 17,291"
   },
@@ -104,8 +104,8 @@
     "A1",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "aylak-adam",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "伊斯坦布尔贝伊奥卢；不在 D 前 2000 · Goodreads 18,965"
   },
@@ -122,8 +122,8 @@
     "A1",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "puslu-kitalar-atlasi",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "奥斯曼时代伊斯坦布尔；不在 D 前 2000 · Goodreads 23,547"
   },
@@ -140,8 +140,8 @@
     "A1",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "madonna-in-a-fur-coat",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "主线在柏林，框架故事在安卡拉；挂安卡拉；不在 D 前 2000 · Goodreads 149,794"
   },
@@ -158,8 +158,8 @@
     "A1",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "the-black-book",
+   "decision": "保留",
    "first_draft": "待定",
    "note": "不在 D 前 2000 · Goodreads 13,816"
   },
@@ -174,8 +174,8 @@
    "cats": [
     "A1"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "huzur",
+   "decision": "保留",
    "first_draft": "待定",
    "note": "不在 D 前 2000 · Goodreads 5,633"
   },
@@ -190,8 +190,8 @@
    "cats": [
     "A1"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "bereketli-topraklar",
+   "decision": "保留",
    "first_draft": "不收",
    "note": "不在 D 前 2000 · Goodreads 1,744"
   },
@@ -208,8 +208,8 @@
    ],
    "in_app": null,
    "decision": "新增",
-   "first_draft": "不收",
-   "note": "不在 D 前 2000 · Goodreads 4,338"
+   "first_draft": "新增（地点待查）",
+   "note": "不在 D 前 2000 · Goodreads 4,338；核地点：开篇在博斯普鲁斯海峡边的卡伦德尔，各语种维基都没有它的坐标；雅勒的位置书里没交代"
   },
   {
    "title": "Çalıkuşu",
@@ -224,8 +224,8 @@
     "A1",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "calikusu",
+   "decision": "保留",
    "first_draft": "不收",
    "note": "不在 D 前 2000 · Goodreads 20,344"
   },

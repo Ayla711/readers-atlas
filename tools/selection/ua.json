@@ -26,8 +26,8 @@
     "A1",
     "B"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "misto",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "基辅；不在 D 前 2000 · Goodreads 6,913"
   },
@@ -44,8 +44,8 @@
     "A1",
     "B"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "shadows-of-forgotten-ancestors",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "喀尔巴阡山克里沃里夫尼亚；不在 D 前 2000 · Goodreads 2,847"
   },
@@ -62,8 +62,8 @@
     "A1",
     "B"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "zakhar-berkut",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "图赫利亚；不在 D 前 2000 · Goodreads 1"
   },
@@ -82,8 +82,8 @@
    ],
    "in_app": null,
    "decision": "新增",
-   "first_draft": "新增",
-   "note": "波尔塔瓦州；不在 D 前 2000 · Goodreads 26"
+   "first_draft": "新增（地点待查）",
+   "note": "波尔塔瓦州；不在 D 前 2000 · Goodreads 26；核地点：村子叫皮斯基，在去罗莫丹的路上，但波尔塔瓦州有好几个皮斯基，是哪一个没有核实"
   },
   {
    "title": "The Black Council",
@@ -98,8 +98,8 @@
     "A1",
     "B"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "chorna-rada",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "涅任（1663 年黑色议会）；不在 D 前 2000 · Goodreads 1,890"
   },
@@ -116,8 +116,8 @@
     "A1",
     "B"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "enchanted-desna",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "索斯尼齐亚；不在 D 前 2000 · Goodreads 1,539"
   },
@@ -134,8 +134,8 @@
     "A1",
     "B"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "the-shipmaster",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "敖德萨；不在 D 前 2000 · Goodreads 1,738"
   },

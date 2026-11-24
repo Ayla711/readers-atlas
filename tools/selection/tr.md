@@ -15,20 +15,20 @@
 
 | # | 书 | 作者 | 类 | 明细 | 分 | 证据项 | 已在应用里 | 处理（v2） | v1 初稿（作废，仅供对照） | 说明 |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | My Name Is Red | Orhan Pamuk | 本国 | A1+4 N+1 D+1 E+1 | 7 | 4 |  | 新增 | 新增 | 伊斯坦布尔；D 1264 · Goodreads 63,890 |
+| 1 | My Name Is Red | Orhan Pamuk | 本国 | A1+4 N+1 D+1 E+1 | 7 | 4 | 是 | 保留 | 新增 | 伊斯坦布尔；D 1264 · Goodreads 63,890 |
 | 2 | Memed, My Hawk | Yaşar Kemal | 本国 | A1+4 D+1 E+1 | 6 | 3 | 是 | 保留 | 保留 | 评委榜第 1；D 721 · Goodreads 14,334 |
-| 3 | Tutunamayanlar (The Disconnected) | Oğuz Atay | 本国 | A1+4 E+1 | 5 | 2 |  | 新增 | 新增 | 安卡拉、伊斯坦布尔；不在 D 前 2000 · Goodreads 13,215 |
-| 4 | The Time Regulation Institute | Ahmet Hamdi Tanpınar | 本国 | A1+4 E+1 | 5 | 2 |  | 新增 | 新增 | 伊斯坦布尔；不在 D 前 2000 · Goodreads 17,291 |
-| 5 | Aylak Adam (The Idler) | Yusuf Atılgan | 本国 | A1+4 E+1 | 5 | 2 |  | 新增 | 新增 | 伊斯坦布尔贝伊奥卢；不在 D 前 2000 · Goodreads 18,965 |
-| 6 | Puslu Kıtalar Atlası | İhsan Oktay Anar | 本国 | A1+4 E+1 | 5 | 2 |  | 新增 | 新增 | 奥斯曼时代伊斯坦布尔；不在 D 前 2000 · Goodreads 23,547 |
-| 7 | Madonna in a Fur Coat | Sabahattin Ali | 本国 | A1+3 E+2 | 5 | 2 |  | 新增 | 新增 | 主线在柏林，框架故事在安卡拉；挂安卡拉；不在 D 前 2000 · Goodreads 149,794 |
-| 8 | The Black Book | Orhan Pamuk | 本国 | A1+4 E+1 | 5 | 2 |  | 新增 | 待定 | 不在 D 前 2000 · Goodreads 13,816 |
-| 9 | Çalıkuşu | Reşat Nuri Güntekin | 本国 | A1+3 E+1 | 4 | 2 |  | 新增 | 不收 | 不在 D 前 2000 · Goodreads 20,344 |
+| 3 | Tutunamayanlar (The Disconnected) | Oğuz Atay | 本国 | A1+4 E+1 | 5 | 2 |  | 新增 | 新增（地点待查） | 安卡拉、伊斯坦布尔；不在 D 前 2000 · Goodreads 13,215；核地点：查到的资料没有把它定在哪个地方 |
+| 4 | The Time Regulation Institute | Ahmet Hamdi Tanpınar | 本国 | A1+4 E+1 | 5 | 2 | 是 | 保留 | 新增 | 伊斯坦布尔；不在 D 前 2000 · Goodreads 17,291 |
+| 5 | Aylak Adam (The Idler) | Yusuf Atılgan | 本国 | A1+4 E+1 | 5 | 2 | 是 | 保留 | 新增 | 伊斯坦布尔贝伊奥卢；不在 D 前 2000 · Goodreads 18,965 |
+| 6 | Puslu Kıtalar Atlası | İhsan Oktay Anar | 本国 | A1+4 E+1 | 5 | 2 | 是 | 保留 | 新增 | 奥斯曼时代伊斯坦布尔；不在 D 前 2000 · Goodreads 23,547 |
+| 7 | Madonna in a Fur Coat | Sabahattin Ali | 本国 | A1+3 E+2 | 5 | 2 | 是 | 保留 | 新增 | 主线在柏林，框架故事在安卡拉；挂安卡拉；不在 D 前 2000 · Goodreads 149,794 |
+| 8 | The Black Book | Orhan Pamuk | 本国 | A1+4 E+1 | 5 | 2 | 是 | 保留 | 待定 | 不在 D 前 2000 · Goodreads 13,816 |
+| 9 | Çalıkuşu | Reşat Nuri Güntekin | 本国 | A1+3 E+1 | 4 | 2 | 是 | 保留 | 不收 | 不在 D 前 2000 · Goodreads 20,344 |
 | 10 | The Museum of Innocence | Orhan Pamuk | 本国 | A1+3 E+1 | 4 | 2 | 是 | 保留 | 删除（见名额说明） | 帕慕克第三本；不在 D 前 2000 · Goodreads 42,567 |
 | 11 | Snow | Orhan Pamuk | 本国 | D+1 E+1 | 2 | 2 | 是 | 保留 | 删除 | 帕慕克第四本；D 1504 · Goodreads 50,829 |
-| 12 | Huzur (A Mind at Peace) | Ahmet Hamdi Tanpınar | 本国 | A1+4 | 4 | 1 |  | 新增 | 待定 | 不在 D 前 2000 · Goodreads 5,633 |
-| 13 | Bereketli Topraklar Üzerinde | Orhan Kemal | 本国 | A1+4 | 4 | 1 |  | 新增 | 不收 | 不在 D 前 2000 · Goodreads 1,744 |
-| 14 | Aşk-ı Memnu | Halit Ziya Uşaklıgil | 本国 | A1+4 | 4 | 1 |  | 新增 | 不收 | 不在 D 前 2000 · Goodreads 4,338 |
+| 12 | Huzur (A Mind at Peace) | Ahmet Hamdi Tanpınar | 本国 | A1+4 | 4 | 1 | 是 | 保留 | 待定 | 不在 D 前 2000 · Goodreads 5,633 |
+| 13 | Bereketli Topraklar Üzerinde | Orhan Kemal | 本国 | A1+4 | 4 | 1 | 是 | 保留 | 不收 | 不在 D 前 2000 · Goodreads 1,744 |
+| 14 | Aşk-ı Memnu | Halit Ziya Uşaklıgil | 本国 | A1+4 | 4 | 1 |  | 新增 | 新增（地点待查） | 不在 D 前 2000 · Goodreads 4,338；核地点：开篇在博斯普鲁斯海峡边的卡伦德尔，各语种维基都没有它的坐标；雅勒的位置书里没交代 |
 | 15 | The Forty Rules of Love | Elif Shafak | 本国 | E+2 | 2 | 1 |  | 不收 | 不收 | 不在 D 前 2000 · Goodreads 219,268 |
 | 16 | The Iliad | Homer | 外国 | BK+3 D+2 E+2 | 7 | 2 | 是 | 保留 | 保留 | 特洛伊；D 37 · Goodreads 544,095 |
 | 17 | Murder on the Orient Express | Agatha Christie | 外国 | D+2 E+2 | 4 | 2 | 是 | 保留 | 保留 | 锡尔凯吉车站；D 470；Goodreads 783,116 |

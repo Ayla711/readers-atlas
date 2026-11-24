@@ -14,7 +14,7 @@ rows=[
 ("The City (Misto)","Valerian Pidmohylny","本国",{"A1": 3, "B": 2},"新增","基辅；不在 D 前 2000 · Goodreads 6,913"),
 ("Shadows of Forgotten Ancestors","Mykhailo Kotsiubynsky","本国",{"A1": 3, "B": 2},"新增","喀尔巴阡山克里沃里夫尼亚；不在 D 前 2000 · Goodreads 2,847"),
 ("Zakhar Berkut","Ivan Franko","本国",{"A1": 3, "B": 2},"新增","图赫利亚；不在 D 前 2000 · Goodreads 1"),
-("Do the Oxen Low When the Manger Is Full?","Panas Myrny","本国",{"A1": 3, "B": 2},"新增","波尔塔瓦州；不在 D 前 2000 · Goodreads 26"),
+("Do the Oxen Low When the Manger Is Full?","Panas Myrny","本国",{"A1": 3, "B": 2},"新增（地点待查）","波尔塔瓦州；不在 D 前 2000 · Goodreads 26；核地点：村子叫皮斯基，在去罗莫丹的路上，但波尔塔瓦州有好几个皮斯基，是哪一个没有核实"),
 ("The Black Council","Panteleimon Kulish","本国",{"A1": 3, "B": 2},"新增","涅任（1663 年黑色议会）；不在 D 前 2000 · Goodreads 1,890"),
 ("The Enchanted Desna","Oleksandr Dovzhenko","本国",{"A1": 3, "B": 2},"新增","索斯尼齐亚；不在 D 前 2000 · Goodreads 1,539"),
 ("The Shipmaster (Maister korablia)","Yuri Yanovsky","本国",{"A1": 3, "B": 2},"新增","敖德萨；不在 D 前 2000 · Goodreads 1,738"),
