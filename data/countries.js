@@ -1042,7 +1042,37 @@ window.RA_COUNTRIES = [
    "data/hu/lines.js"
   ],
   "open": true
+ },
+ {
+  "code": "is",
+  "iso": "ISL",
+  "name": "Iceland",
+  "name_zh": "冰岛",
+  "short": "Iceland",
+  "short_zh": "冰岛",
+  "region_term": {
+   "en": "region",
+   "zh": "区"
+  },
+  "bounds": [
+   -24.6,
+   63.2,
+   -13.4,
+   66.6
+  ],
+  "small_regions": [
+   "IS-1",
+   "IS-2"
+  ],
+  "wash": {},
+  "data": [
+   "data/is/geo.js",
+   "data/is/books.js",
+   "data/is/places.js",
+   "data/is/lines.js"
+  ],
+  "open": true
  }
 ];
 // Totals over every open country, for the world page.
-window.RA_WORLD_STATS = {"countries": 35, "books": 1536, "lines": 1487, "places": 1741};
+window.RA_WORLD_STATS = {"countries": 36, "books": 1544, "lines": 1492, "places": 1750};

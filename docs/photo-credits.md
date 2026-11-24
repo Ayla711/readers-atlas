@@ -1560,3 +1560,11 @@
 | Jókai Memorial House, Balatonfüred | EtelkaCsilla | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AJ%C3%B3kai_villa.JPG) |
 | Reformed College, Debrecen | Manuista | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ADebreceni_Reform%C3%A1tus_Koll%C3%A9gium_%C3%A9p%C3%BClete_a_Nagytemplom_torny%C3%A1b%C3%B3l_n%C3%A9zve_%282017%29.jpg) |
 | Gyula | Domokdr | [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5) | [Commons](https://commons.wikimedia.org/wiki/File%3AGyula_V%C3%A1r_nappal.jpg) |
+| Hlíðarendi, Fljótshlíð | Christian Bickel | [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File%3AHli%C3%B0arendi02.jpg) |
+| Snæfellsjökull | Axel Kristinsson from Reykjavík, Iceland | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ASn%C3%A6fellsj%C3%B6kull_in_the_Morning_%287622876302%29_%28cropped%29.jpg) |
+| Reykholt | Szilas | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A2014_in_Reykholt_04.jpg) |
+| Þrístapar, Vatnsdalshólar | Jakub Hałun | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AIcelandic_horses_in_H%C3%BAnabygg%C3%B0_municipality%2C_Iceland%2C_20240715_1230_0868.jpg) |
+| Norðurmýri, Reykjavík | Mr. Granger | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File%3ANor%C3%B0urm%C3%BDri%2C_Reykjav%C3%ADk.jpg) |
+| Nonnahús, Akureyri | TommyBee | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3ANonnah%C3%BAsi%C3%B0.JPG) |
+| Skriðuklaustur | Villy Fink Isaksen | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AGunnar_Gunnarsson%27s_house_in_Skri%C3%B0uklaustur_1.jpg) |
+| Reykir and Grettislaug (facing Drangey) | Bromr | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ADrangey2010.JPG) |

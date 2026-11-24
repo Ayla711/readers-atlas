@@ -5154,6 +5154,90 @@
         "HU-BU"
       ],
       "wash": {}
+    },
+    {
+      "code": "is",
+      "iso": "ISL",
+      "name": "Iceland",
+      "name_zh": "冰岛",
+      "short": "Iceland",
+      "short_zh": "冰岛",
+      "region_term": {
+        "en": "region",
+        "zh": "区"
+      },
+      "bounds": [
+        -24.6,
+        63.2,
+        -13.4,
+        66.6
+      ],
+      "step": 0.01,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "IS-1": "IS-1",
+              "IS-2": "IS-2",
+              "IS-3": "IS-3",
+              "IS-4": "IS-4",
+              "IS-5": "IS-5",
+              "IS-6": "IS-6",
+              "IS-7": "IS-7",
+              "IS-8": "IS-8",
+              "IS-0": "IS-1"
+            }
+          }
+        ],
+        "names": {
+          "IS-1": [
+            "Capital Region",
+            "首都区"
+          ],
+          "IS-2": [
+            "Southern Peninsula",
+            "南半岛区"
+          ],
+          "IS-3": [
+            "Western Region",
+            "西部区"
+          ],
+          "IS-4": [
+            "Westfjords",
+            "西峡湾区"
+          ],
+          "IS-5": [
+            "Northwestern Region",
+            "西北区"
+          ],
+          "IS-6": [
+            "Northeastern Region",
+            "东北区"
+          ],
+          "IS-7": [
+            "Eastern Region",
+            "东部区"
+          ],
+          "IS-8": [
+            "Southern Region",
+            "南部区"
+          ]
+        }
+      },
+      "data": [
+        "data/is/geo.js",
+        "data/is/books.js",
+        "data/is/places.js",
+        "data/is/lines.js"
+      ],
+      "open": true,
+      "small_regions": [
+        "IS-1",
+        "IS-2"
+      ],
+      "wash": {}
     }
   ]
 }
