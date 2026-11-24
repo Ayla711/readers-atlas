@@ -1,9 +1,11 @@
 """11-24: Ukraine, first pack: 9 new books, 9 places. Shevchenko's grave at Kaniv, Lesya Ukrainka's Nechymne, Gogol's
 Sorochyntsi, the Khan's Palace at Bakhchysarai, Bulgakov's house in Kyiv, Kyiv Zoo (Kurkov), Pripyat (Alexievich),
-Trochenbrod (Foer) and Kotliarevsky's Poltava.
+Trochenbrod (Foer) and Kotliarevsky's house in Poltava.
 
 The map follows China's point of view (decision A-22): Crimea and Sevastopol are Ukrainian regions (tools/build_geo.py
-"pov_units"), and the two Chekhov places in Yalta move here from data/ru (cache/ua/move.py, run after this script).
+"pov_units"). The two Chekhov places in Yalta, first written for Russia (add_ru1.py, add_ru3.py), are written here, under
+their old ids (ru-white-dacha, ru-yalta-embankment), with their coordinates and the dates they were first checked; the books
+themselves (The Cherry Orchard, The Lady with the Dog) stay in data/ru.
 
 Quotations (5 lines) are cut from Ukrainian and Russian Wikisource pages (tools/content/wikisource.py); translations are our
 own drafts (translation: "own"). Books in copyright get scene notes with a fact source. What a cut changes is named in
@@ -77,7 +79,7 @@ T_LP = "Лісова пісня"
 T_SF = "Сорочинская ярмарка (Гоголь)/I"
 T_BF = "Бахчисарайский фонтан (Пушкин)"
 T_WG = "Белая гвардия (Булгаков)/Глава 1"
-EXIST = set()
+EXIST = {"cherry-orchard", "lady-with-the-dog"}   # Russian books (data/ru) with places in Crimea
 
 def fixed(s, old, new):
     assert s.count(old) == 1, old
@@ -111,8 +113,8 @@ places = [
          "Chernecha Hora, the hill above the Dnieper near Kaniv where Taras Shevchenko was reburied on 22 May 1861, two months after his death in St Petersburg; it has been called Taras Hill since, and is the heart of the Shevchenko National Reserve. Shevchenko wrote 'Testament' in Pereiaslav in December 1845, when he was gravely ill; it asks to be buried on a mound above the Dnieper",
          "切尔内恰山，卡尼夫附近第聂伯河岸上的山丘。塔拉斯·舍甫琴科在圣彼得堡去世两个月后，1861 年 5 月 22 日迁葬于此，此后这座山就叫塔拉斯山，是舍甫琴科国家保护区的中心。舍甫琴科 1845 年 12 月在佩列亚斯拉夫病重时写下《遗嘱》，要人们把他葬在第聂伯河上方的坟丘上"),
     ORIG("ua-nechymne", "Nechymne Lake, Volyn", "内奇姆内湖，沃伦",
-         "Karst lake in a 40-hectare protected tract of oak wood and bog near Skulyn, north of Kovel, where Lesya Ukrainka stayed as a child at her uncle's house; it is taken to be the model for the world of The Forest Song, and a Forest Song museum stands there. She wrote the play in 1911 in Kutaisi, in ten to twelve days, and told her mother it came from remembering and missing 'our forests'",
-         "沃伦州科韦利以北、斯库林附近的一个喀斯特湖，周围是 40 公顷受保护的橡树林和沼泽。莱霞·乌克兰卡小时候曾在这里的叔叔家住过，一般认为这里就是《森林之歌》那个世界的原型，湖边建有“森林之歌”博物馆。她 1911 年在库塔伊西用十到十二天写成这部剧，对母亲说，这是因为想起了“我们的森林”，心里想念"),
+         "Karst lake in a 40-hectare protected tract of oak wood and bog near Skulyn, north of Kovel, where in the mid-1880s the young Lesya Ukrainka spent a few days with her mother, brother and sister in the house of 'Uncle Lev', a local man who became a character in the play; it is taken to be the model for the world of The Forest Song, and a Forest Song museum stands there. She wrote the play in 1911 in Kutaisi, in ten to twelve days, and told her mother it came from remembering and missing 'our forests'",
+         "沃伦州科韦利以北、斯库林附近的一个喀斯特湖，周围是 40 公顷受保护的橡树林和沼泽。19 世纪 80 年代中期，少年时的莱霞·乌克兰卡随母亲和兄妹在湖边“列夫大叔”家住过几天，这位当地人后来成了剧中的人物；一般认为这里就是《森林之歌》那个世界的原型，湖边建有“森林之歌”博物馆。她 1911 年在库塔伊西用十到十二天写成这部剧，对母亲说，这是因为想起了“我们的森林”，心里想念"),
     ORIG("ua-sorochyntsi", "Velyki Sorochyntsi, Poltava region", "大索罗钦齐，波尔塔瓦州",
          "Village near Myrhorod where Nikolai Gogol (Mykola Hohol) was born in 1809, home since the 18th century of the Sorochyntsi Fair, still held every year. The Fair at Sorochyntsi opens Evenings on a Farm Near Dikanka (1831), the book that made Gogol's name. 'Little Russia' (Malorossiya) was the old imperial name for much of Ukraine",
          "米尔霍罗德附近的村子，尼古拉·果戈理 1809 年生于此地；18 世纪以来这里就举办索罗钦集市，今天每年仍在举行。《索罗钦集市》是《狄康卡近乡夜话》（1831）的开篇，果戈理凭这本书成名。“小俄罗斯”是沙俄时代对乌克兰大部分地区的旧称"),
@@ -120,8 +122,8 @@ places = [
          "Palace of the Crimean khans in Bakhchysarai. Its Fountain of Tears dates from 1764 and was moved to the fountain courtyard in 1787. Pushkin saw it in September 1820 and wrote The Fountain of Bakhchisaray (1824) on the legend of Khan Girei and his captive Maria; visitors still lay two roses on it, after the opening of his later lyric 'To the Fountain of the Bakhchisaray Palace'",
          "克里米亚汗国历代汗王在巴赫奇萨赖的宫殿。宫中的“泪泉”建于 1764 年，1787 年移到喷泉庭院。普希金 1820 年 9 月来看过它，后来根据吉列伊汗和女俘玛丽亚的传说写成《巴赫奇萨赖的泪泉》（1824）；他后来又写了一首小诗《致巴赫奇萨赖宫的泪泉》，开头说给泉水献上两朵玫瑰，如今游客仍会在泉上放两朵玫瑰"),
     ORIG("ua-bulgakov", "Bulgakov House, 13 Andriivskyi Descent, Kyiv", "布尔加科夫故居，基辅安德烈坡道 13 号",
-         "The house where Mikhail Bulgakov's family lived from 1906 to 1919, and where he set the Turbins of The White Guard at the same address, 'No. 13 Alekseevsky Descent'. A museum since 1989–1991; the plaque on the door uses the street name from the novel",
-         "米哈伊尔·布尔加科夫一家 1906 年至 1919 年住在这栋房子里；他把《白卫军》里的图尔宾一家安排在同一个门牌，“阿列克谢耶夫斯基坡道 13 号”。1989 至 1991 年间辟为博物馆，门上的门牌用的是小说里的街名"),
+         "The house where Mikhail Bulgakov's family lived from 1906 to 1919, and where he set the Turbins of The White Guard at the same address, 'No. 13 Alekseevsky Descent'. The museum was founded in 1989 and opened on 15 May 1991, for the centenary of his birth; the plaque on the door uses the street name from the novel",
+         "米哈伊尔·布尔加科夫一家 1906 年至 1919 年住在这栋房子里；他把《白卫军》里的图尔宾一家安排在同一个门牌，“阿列克谢耶夫斯基坡道 13 号”。博物馆 1989 年筹建，1991 年 5 月 15 日布尔加科夫诞辰一百周年时开放；门上的门牌用的是小说里的街名"),
     ORIG("ua-kyiv-zoo", "Kyiv Zoo", "基辅动物园",
          "The city zoo of Kyiv. In Andrey Kurkov's Death and the Penguin, written in Russian and set in Kyiv in the mid-1990s, the hard-up zoo has given its animals away to anyone who could feed them, which is how Viktor came to have a king penguin",
          "基辅的城市动物园。在安德烈·库尔科夫用俄语写的《企鹅的忧郁》里，故事发生在 20 世纪 90 年代中期的基辅，捉襟见肘的动物园把动物送给养得起的人，维克多就这样领回了一只王企鹅"),
@@ -131,11 +133,30 @@ places = [
     ORIG("ua-trochenbrod", "Trochenbrod (site), Volyn", "特罗亨布罗德旧址，沃伦",
          "Site of Trochenbrod (Zofiówka), an all-Jewish shtetl in the woods of Volyn, wiped out in the Holocaust. Jonathan Safran Foer's grandfather was born there; it is the model for the Trachimbrod of Everything Is Illuminated",
          "特罗亨布罗德（佐菲夫卡）的旧址，沃伦林中一个全是犹太人的小镇，在大屠杀中被毁灭。乔纳森·萨福兰·弗尔的祖父生在这里；这里就是《了了》中特拉钦布罗德的原型"),
-    PIL("ua-kotliarevsky", "Kotliarevsky Museum, Poltava", "科特利亚列夫斯基纪念馆，波尔塔瓦",
-        "Literary-memorial museum of Ivan Kotliarevsky (1769–1838), opened in Poltava in 1952 on the site of the family's small estate. The first three parts of his Eneida, a burlesque of Virgil's Aeneid, came out in St Petersburg in 1798 without his permission; it is counted as the first literary work published wholly in modern Ukrainian",
-        "伊万·科特利亚列夫斯基（1769–1838）文学纪念馆，1952 年在波尔塔瓦他家小庄园的旧址上开馆。他戏仿维吉尔《埃涅阿斯纪》的长诗《埃涅伊达》，前三部分 1798 年未经他同意在圣彼得堡出版，被认为是第一部完全用现代乌克兰语出版的文学作品",
+    PIL("ua-kotliarevsky", "Kotliarevsky Museum-Estate, Poltava", "科特利亚列夫斯基故居庄园，波尔塔瓦",
+        "Memorial complex on Ivanova Hora in Poltava, beside the Assumption Cathedral, on the estate where Ivan Kotliarevsky (1769–1838) was born; the house was rebuilt after a watercolour sketch Shevchenko made here in 1845, and opened in 1969 for the writer's 200th anniversary. It is a branch of the Kotliarevsky literary-memorial museum, opened in 1952. The first three parts of his Eneida, a burlesque of Virgil's Aeneid, came out in St Petersburg in 1798 without his permission; it is counted as the first literary work published wholly in modern Ukrainian",
+        "波尔塔瓦伊万山上的纪念建筑群，紧邻圣母升天大教堂，建在伊万·科特利亚列夫斯基（1769–1838）出生的庄园原址上；房子是按舍甫琴科 1845 年在这里画的一幅水彩速写复建的，1969 年作家诞辰两百周年时开放。它是 1952 年开馆的科特利亚列夫斯基文学纪念馆的分馆。他戏仿维吉尔《埃涅阿斯纪》的长诗《埃涅伊达》，前三部分 1798 年未经他同意在圣彼得堡出版，被认为是第一部完全用现代乌克兰语出版的文学作品",
         ["eneida"]),
 ]
+
+# ---- Yalta: places in Crimea first written for Russia on 11-18; ids, coordinates and check dates kept ----
+def MOVED(place, checked):
+    place["coord_checked"] = checked
+    return place
+CC = "https://commons.wikimedia.org/wiki/Category:"
+MOVED_PLACES = [
+    MOVED(b.PIL("ru-white-dacha", "Chekhov's White Dacha, Yalta", "雅尔塔 · 契诃夫白色别墅", 44.4911, 34.1416, "", "",
+        "The house Chekhov built in Yalta in 1899, when tuberculosis drove him south. Here he wrote 'The Lady with the Dog', Three Sisters and The Cherry Orchard, and planted the garden himself. The house is a museum kept much as his sister Maria left it, with his study, his piano and his garden of trees",
+        "1899 年，肺结核逼契诃夫南下，他在雅尔塔盖了这座房子。《带小狗的女人》《三姊妹》和《樱桃园》都写于此，园子里的树也是他亲手种的。故居如今是博物馆，大体保持着他妹妹玛丽亚留下的样子，有他的书房、钢琴和满园的树",
+        ["cherry-orchard", "lady-with-the-dog"]),
+        "Category:White Dacha (Wikimedia Commons) — " + CC + "White_Dacha, 2026-11-18"),
+    MOVED(b.ORIG("ru-yalta-embankment", "Yalta Embankment", "雅尔塔海滨大道", 44.49649, 34.170184, "", "",
+        "The seafront promenade of Yalta, lined with palms, cafés and piers. Chekhov's story starts here: 'People were saying that a new face had appeared on the embankment: a lady with a little dog.' Gurov, a bored Moscow banker, meets Anna Sergeyevna and her white Pomeranian, and a holiday affair becomes the love of his life. A bronze statue of the pair stands on the embankment",
+        "雅尔塔的海滨步道，两旁是棕榈、咖啡馆和码头。契诃夫的小说就从这里开始：“听说海滨大道上出现了一个新人：一位带小狗的女人。”百无聊赖的莫斯科银行职员古罗夫遇见了安娜·谢尔盖耶夫娜和她的白色博美犬，一段度假艳遇成了他一生的爱情。海滨大道上立着两人的青铜像",
+        book_ids=["lady-with-the-dog"]),
+        "Category:Lenin Embankment, Yalta (Wikimedia Commons) — " + CC + "Lenin_Embankment,_Yalta, 2026-11-18"),
+]
+places += MOVED_PLACES
 
 lines = [
     Q("ua-zp-1", "zapovit", "ua-kaniv", "First stanza", "第一节", T_ZP,
@@ -182,6 +203,24 @@ lines = [
       ["Trachimbrod"], ["特拉钦布罗德"], "https://en.wikipedia.org/wiki/Everything_Is_Illuminated; https://www.gradesaver.com/everything-is-illuminated/study-guide/summary"),
 ]
 
+T_LWD = "Дама с собачкой (Чехов)"
+def first_checked(line, checked):
+    line["checked"] = checked
+    return line
+lines += [
+    S("co-s1", "cherry-orchard", "ru-white-dacha", "Acts 3–4", "第三至四幕",
+      "Madame Ranevskaya's family estate is sold at auction to cover her debts, and the buyer is Lopakhin, the son of a serf who once worked on it. As the family leaves for good, the sound of an axe striking the cherry trees is heard, and the old servant Firs, forgotten in the locked house, lies down to rest.",
+      "朗涅夫斯卡娅家的庄园被拍卖抵债，买主竟是罗巴辛——当年在这庄园干活的农奴的儿子。一家人永远离开时，远处传来斧头砍樱桃树的声音，被遗忘在上了锁的房子里的老仆人费尔斯，躺下歇息了。",
+      ["sound of an axe"], ["斧头砍樱桃树的声音"], W + "The_Cherry_Orchard"),
+    first_checked(Q("lwd-1", "lady-with-the-dog", "ru-yalta-embankment", "Part I, opening", "第一节开篇", T_LWD,
+      raw(T_LWD, "Говорили, что на набережной", "просто так: дама с собачкой.", "ru"), ["на набережной", "в Ялте"],
+      "People were saying that a new face had appeared on the embankment: a lady with a little dog. Dmitry Dmitrich Gurov, who had been in Yalta a fortnight already and had grown used to it, had also begun to take an interest in new faces. Sitting in the pavilion at Vernet's, he saw a young lady walk along the embankment, a short blonde in a beret; behind her ran a white Pomeranian.\nAnd afterwards he met her in the public garden and in the square several times a day. She walked alone, always in the same beret, with the white Pomeranian; no one knew who she was, and people called her simply the lady with the little dog.",
+      ["the embankment", "Yalta"],
+      "人们说，海滨大道上出现了一张新面孔：一位带小狗的女士。德米特里·德米特里奇·古罗夫在雅尔塔已经住了两个星期，对这里已经习惯了，也开始对新面孔感兴趣。他坐在韦尔奈的亭子里，看见一位年轻女士沿着海滨大道走过，个子不高，金色头发，戴着一顶贝雷帽；一条白色的博美犬跟在她身后跑。\n后来，他每天都在市立公园和街心花园里遇见她好几次。她总是一个人散步，戴着同一顶贝雷帽，带着那条白色博美犬；谁也不知道她是谁，大家就简单地叫她带小狗的女士。",
+      ["海滨大道", "雅尔塔"], site="Russian"),
+      "Russian Wikisource, Дама с собачкой (Чехов), 2026-11-22"),
+]
+
 # ============================== checks ==============================
 def ids_in(path): return set(re.findall(r'\{ id: "([^"]+)"', open(path, encoding="utf-8").read()))
 all_books = set()
@@ -192,7 +231,7 @@ new_b, new_p, new_l = {x["id"] for x in books}, {x["id"] for x in places}, {x["i
 assert len(new_b) == len(books) and len(new_p) == len(places) and len(new_l) == len(lines)
 assert not new_b & all_books, new_b & all_books
 assert EXIST <= all_books, EXIST - all_books
-assert new_p == set(CO), new_p ^ set(CO)
+assert new_p == set(CO) | {p["id"] for p in MOVED_PLACES}, new_p ^ set(CO)
 bids = new_b | EXIST
 for l in lines:
     assert l["book_id"] in bids and all(p in new_p for p in l["place_ids"]), l["id"]

@@ -130,14 +130,14 @@ places = [
          "City in north-eastern Turkey near the Armenian border, with an old quarter from the decades of Russian rule (1878–1918). Pamuk set Snow here; the name echoes the title, kar being Turkish for snow",
          "土耳其东北部城市，靠近亚美尼亚边境，老城区留有俄国统治时期（1878–1918）的建筑。帕慕克把《雪》放在这里；城名与书名相呼应，土耳其语里 kar 就是“雪”"),
     ORIG("tr-gokcedam", "Gökçedam, Osmaniye (Yaşar Kemal's birthplace)", "格克切达姆，奥斯曼尼耶（亚沙尔·凯马尔故乡）",
-         "Village, then called Hemite, where Yaşar Kemal was born in 1923, at the eastern edge of the Çukurova plain below the Taurus Mountains. Memed, My Hawk, his first novel, tells of the hard life of the villagers of the Taurus and the Çukurova around Adana; Memed's own village, Değirmenoluk, is invented",
-         "亚沙尔·凯马尔 1923 年出生的村子，当时叫赫米特，在托罗斯山下楚库罗瓦平原的东缘。他的第一部小说《瘦子麦麦德》写的是阿达纳一带托罗斯山和楚库罗瓦农民的苦日子；麦麦德自己的村子德伊尔门奥卢克是虚构的"),
+         "Village in the Çukurova, then called Hemite, where Yaşar Kemal was born in 1923. Memed, My Hawk, his first novel, tells of the hard life of the villagers of the Taurus and the Çukurova around Adana; Memed's own village, Değirmenoluk, is invented",
+         "楚库罗瓦地区的一个村子，当时叫赫米特，亚沙尔·凯马尔 1923 年生在这里。他的第一部小说《瘦子麦麦德》写的是阿达纳一带托罗斯山和楚库罗瓦农民的苦日子；麦麦德自己的村子德伊尔门奥卢克是虚构的"),
     ORIG("tr-sirkeci", "Sirkeci station, Istanbul", "锡尔凯吉火车站，伊斯坦布尔",
          "Station by the Golden Horn, opened in 1890 as the eastern terminus of the Orient Express from Paris; ferries from the nearby piers crossed the Bosphorus to Haydarpaşa, where the lines into Asia began. Christie's novel only says the train leaves 'Stamboul'",
          "金角湾边的火车站，1890 年启用，是从巴黎开来的东方快车的东端终点站；旁边码头的渡船横渡博斯普鲁斯海峡，通往亚洲线路的起点海达尔帕夏站。克里斯蒂的小说里只说火车从“斯坦布尔”开出"),
     PIL("tr-mevlana", "Mevlâna Museum, Konya", "梅夫拉纳博物馆，科尼亚",
-        "The former lodge of the Mevlevi order, the whirling dervishes, around the tomb of Jalal al-Din Rumi, who was buried here in 1273; the turquoise-tiled Green Dome over the tomb was finished in 1274. Its collection includes a copy of the Masnavi made in 1278",
-        "梅夫拉维教团（旋转托钵僧）的旧修道院，围绕着贾拉鲁丁·鲁米的陵墓；鲁米 1273 年葬在这里，墓上铺着青绿色瓷砖的“绿色穹顶”于 1274 年建成。馆藏中有一部 1278 年抄写的《玛斯纳维》",
+        "The former lodge of the Mevlevi order, the whirling dervishes, around the tomb of Jalal al-Din Rumi, who was buried here in 1273; the turquoise-tiled Green Dome over the tomb was finished in 1274. Its collection includes the oldest known copy of the Masnavi, made in 1278, five years after his death",
+        "梅夫拉维教团（旋转托钵僧）的旧修道院，围绕着贾拉鲁丁·鲁米的陵墓；鲁米 1273 年葬在这里，墓上铺着青绿色瓷砖的“绿色穹顶”于 1274 年建成。馆藏中有现存最早的《玛斯纳维》抄本，抄于 1278 年，也就是鲁米去世后的第五年",
         ["masnavi"]),
 ]
 

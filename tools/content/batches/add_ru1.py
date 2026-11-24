@@ -9,6 +9,8 @@ import json, os, sys
 sys.path.insert(0, __file__.rsplit("/", 2)[0])
 import batchlib as b
 APP, CO = sys.argv[1], json.load(open(sys.argv[2], encoding="utf-8"))
+# Russian books whose places lie in Crimea: their places and lines are in data/ua (add_ua1.py), the books stay here
+IN_UKRAINE = {"cherry-orchard", "lady-with-the-dog"}
 b.init(APP, "", "ru", "2026-11-18")
 W = b.W
 RBTH_BUTYRKA = "https://www.rbth.com/society/2014/03/05/butyrka_moscows_oldest_prison_33509"
@@ -192,14 +194,8 @@ places = [
          "The wooded heights above the Moskva river with the widest view over Moscow. In 1827 two boys, Herzen and his friend Ogarev, stood here at sunset, embraced, and swore before the whole city to give their lives to the struggle the Decembrists had begun; Herzen tells it in My Past and Thoughts. A monument to the two friends stands on the hills",
          "莫斯科河畔林木葱茏的高地，能把整座莫斯科尽收眼底。1827 年，少年赫尔岑和朋友奥加辽夫在这里迎着落日拥抱，当着全城发誓，要为十二月党人开始的斗争献出一生；赫尔岑在《往事与随想》里讲了这件事。如今山上立着这对朋友的纪念像",
          book_ids=["my-past-and-thoughts"]),
-    PIL("ru-white-dacha", "Chekhov's White Dacha, Yalta", "雅尔塔 · 契诃夫白色别墅",
-        "The house Chekhov built in Yalta in 1899, when tuberculosis drove him south. Here he wrote 'The Lady with the Dog', Three Sisters and The Cherry Orchard, and planted the garden himself. The house is a museum kept much as his sister Maria left it, with his study, his piano and his garden of trees",
-        "1899 年，肺结核逼契诃夫南下，他在雅尔塔盖了这座房子。《带小狗的女人》《三姊妹》和《樱桃园》都写于此，园子里的树也是他亲手种的。故居如今是博物馆，大体保持着他妹妹玛丽亚留下的样子，有他的书房、钢琴和满园的树",
-        ["cherry-orchard", "lady-with-the-dog"]),
-    ORIG("ru-yalta-embankment", "Yalta Embankment", "雅尔塔海滨大道",
-         "The seafront promenade of Yalta, lined with palms, cafés and piers. Chekhov's story starts here: 'People were saying that a new face had appeared on the embankment: a lady with a little dog.' Gurov, a bored Moscow banker, meets Anna Sergeyevna and her white Pomeranian, and a holiday affair becomes the love of his life. A bronze statue of the pair stands on the embankment",
-         "雅尔塔的海滨步道，两旁是棕榈、咖啡馆和码头。契诃夫的小说就从这里开始：“听说海滨大道上出现了一个新人：一位带小狗的女人。”百无聊赖的莫斯科银行职员古罗夫遇见了安娜·谢尔盖耶夫娜和她的白色博美犬，一段度假艳遇成了他一生的爱情。海滨大道上立着两人的青铜像",
-         book_ids=["lady-with-the-dog"]),
+    # Chekhov's White Dacha and the Yalta Embankment are in Crimea, which the atlas draws in Ukraine (decision A-22):
+    # both places and their lines are written by add_ua1.py, under their old ids (ru-white-dacha, ru-yalta-embankment)
     PIL("ru-melikhovo", "Melikhovo", "梅利霍沃",
         "The small estate south of Moscow where Chekhov lived from 1892 to 1899, treating peasants for free, building schools and planting trees. He wrote The Seagull in the little wooden outbuilding in the garden. Melikhovo is now a museum reserve with the house, the outbuilding and his garden",
         "莫斯科以南的一座小庄园，契诃夫 1892 至 1899 年住在这里，免费给农民看病，建学校，种树。《海鸥》就写在花园里那座小木屋里。梅利霍沃如今是博物馆保护区，主屋、小木屋和他的园子都保留着",
@@ -327,14 +323,6 @@ lines = [
       "On a country estate by a lake, young Treplev stages his symbolist play with Nina, the girl next door, as its only actress; his mother, a famous actress, laughs at it. Two years later Nina, abandoned by the writer Trigorin and failing on the stage, comes back on a stormy night and keeps repeating 'I am a seagull'. When she leaves, Treplev shoots himself.",
       "在湖边的乡间庄园里，年轻的特里波列夫上演自己的象征主义剧本，唯一的演员是邻家姑娘妮娜，他那当名演员的母亲却当场嘲笑。两年后，被作家特里果林抛弃、在舞台上也不得志的妮娜，在一个风雨夜回来，反复说着“我是一只海鸥”。她走后，特里波列夫开枪自杀了。",
       ["I am a seagull"], ["我是一只海鸥"], W + "The_Seagull"),
-    S("lwd-s1", "lady-with-the-dog", "ru-yalta-embankment", "Parts 1–2", "第一至二节",
-      "Gurov, a Moscow banker tired of his wife, notices a young woman in a beret walking on the Yalta embankment with a white Pomeranian. He beckons the dog over, wags a finger at it, and so starts a conversation. After they become lovers, Anna weeps in her hotel room while he calmly cuts himself a slice of watermelon.",
-      "厌倦了妻子的莫斯科银行职员古罗夫，注意到一个戴贝雷帽的年轻女人牵着一只白色博美犬在雅尔塔海滨大道上散步。他把小狗招到身边，冲它摇摇手指，就这样和她搭上了话。两人成了情人后，安娜在旅馆房间里哭泣，他却不慌不忙地给自己切了一片西瓜。",
-      ["white Pomeranian"], ["白色博美犬"], W + "The_Lady_with_the_Dog"),
-    S("co-s1", "cherry-orchard", "ru-white-dacha", "Acts 3–4", "第三至四幕",
-      "Madame Ranevskaya's family estate is sold at auction to cover her debts, and the buyer is Lopakhin, the son of a serf who once worked on it. As the family leaves for good, the sound of an axe striking the cherry trees is heard, and the old servant Firs, forgotten in the locked house, lies down to rest.",
-      "朗涅夫斯卡娅家的庄园被拍卖抵债，买主竟是罗巴辛——当年在这庄园干活的农奴的儿子。一家人永远离开时，远处传来斧头砍樱桃树的声音，被遗忘在上了锁的房子里的老仆人费尔斯，躺下歇息了。",
-      ["sound of an axe"], ["斧头砍樱桃树的声音"], W + "The_Cherry_Orchard"),
     S("ld-s1", "lower-depths", "ru-bugrov-dosshouse", "Acts 1–4", "第一至四幕",
       "In a cellar doss-house a crowd of the broken — a thief, a drunken Actor, a card-sharp, a fallen Baron — scrape through their days. The old wanderer Luka comforts each of them with kindly lies and then vanishes; the Actor hangs himself, while the card-sharp Satin, drunk, declares: 'Man — that has a proud sound!'",
       "地下室夜店里住着一群潦倒的人——小偷、酗酒的演员、赌棍、落魄的男爵——勉强混着日子。老流浪汉卢卡用善意的谎言安慰每一个人，然后就不见了；演员上吊自杀，喝醉了的赌棍沙金却宣布：“人——这个字听起来多么骄傲！”",

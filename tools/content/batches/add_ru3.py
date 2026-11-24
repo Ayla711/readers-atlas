@@ -386,23 +386,10 @@ lines.append(Q("pt-1", "my-past-and-thoughts", "ru-sparrow-hills", "Part 1, chap
     "彼此倚靠着，忽然拥抱在一起，当着整个莫斯科宣誓：把我们的生命献给我们选定的斗争。",
     ["麻雀山", "当着整个莫斯科"], JOINED))
 
-# ---- The Lady with the Dog, opening ----
+# ---- The Lady with the Dog: its quotation (lwd-1, on the Yalta Embankment) is written by add_ua1.py, since the atlas
+# draws Crimea in Ukraine (decision A-22); the book stays in data/ru and still gets its source here ----
 LWD = "Дама с собачкой (Чехов)"
 sources["lady-with-the-dog"] = LWD
-lines.append(Q("lwd-1", "lady-with-the-dog", "ru-yalta-embankment", "Part I, opening", "第一节开篇", LWD,
-    take(LWD, "Говорили, что на набережной", "просто так: дама с собачкой."), ["на набережной", "в Ялте"],
-    "People were saying that a new face had appeared on the embankment: a lady with a little dog. Dmitry Dmitrich "
-    "Gurov, who had been in Yalta a fortnight already and had grown used to it, had also begun to take an interest in "
-    "new faces. Sitting in the pavilion at Vernet's, he saw a young lady walk along the embankment, a short blonde in a "
-    "beret; behind her ran a white Pomeranian.\nAnd afterwards he met her in the public garden and in the square "
-    "several times a day. She walked alone, always in the same beret, with the white Pomeranian; no one knew who she "
-    "was, and people called her simply the lady with the little dog.",
-    ["the embankment", "Yalta"],
-    "人们说，海滨大道上出现了一张新面孔：一位带小狗的女士。德米特里·德米特里奇·古罗夫在雅尔塔已经住了两个星期，"
-    "对这里已经习惯了，也开始对新面孔感兴趣。他坐在韦尔奈的亭子里，看见一位年轻女士沿着海滨大道走过，个子不高，金色头发，"
-    "戴着一顶贝雷帽；一条白色的博美犬跟在她身后跑。\n后来，他每天都在市立公园和街心花园里遇见她好几次。她总是一个人散步，"
-    "戴着同一顶贝雷帽，带着那条白色博美犬；谁也不知道她是谁，大家就简单地叫她带小狗的女士。",
-    ["海滨大道", "雅尔塔"]))
 
 # ---- The Lower Depths, Act 1 (1986 edition) ----
 LD = "На дне (Горький)/ИС 1986"
@@ -489,10 +476,10 @@ replaced = {"life-of-avvakum": ["avv-s1"], "poor-liza": ["liza-s1"], "woe-from-w
             "sportsmans-sketches": ["hun-s1"], "home-of-the-gentry": ["gen-s1"], "oblomov": ["obl-s1"],
             "notes-from-underground": ["und-s1"], "crime-and-punishment": ["cp-s1"], "the-idiot": ["idi-s1"],
             "war-and-peace": ["wp-s1"], "anna-karenina": ["ak-s1"], "lady-macbeth-mtsensk": ["lm-s1"],
-            "enchanted-wanderer": ["ew-s1"], "my-past-and-thoughts": ["pt-s1"], "lady-with-the-dog": ["lwd-s1"],
+            "enchanted-wanderer": ["ew-s1"], "my-past-and-thoughts": ["pt-s1"],
             "lower-depths": ["ld-s1"], "mother-gorky": ["mot-s1"], "petersburg-bely": ["pet-s1"],
             "twelve-chairs": ["tc-s1"]}
-assert set(replaced) == {l["book_id"] for l in lines} == set(sources)
+assert set(replaced) == {l["book_id"] for l in lines} == set(sources) - {"lady-with-the-dog"}
 lp = b.data("lines.js")
 existing = set(re.findall(r'  \{ id: "([^"]+)"', open(lp, encoding="utf-8").read()))
 assert not ({l["id"] for l in lines} & existing), "ids already in use"

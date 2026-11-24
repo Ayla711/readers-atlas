@@ -310,7 +310,7 @@ if __name__ == "__main__":
         assert l["book_id"] in bids, l["id"]
     for x in ALL_PLACES:
         for bk in x.get("book_ids", []): assert bk in bids, (x["id"], bk)
-    missing = set(bids) - {l["book_id"] for l in ALL_LINES}
+    missing = set(bids) - {l["book_id"] for l in ALL_LINES} - r.IN_UKRAINE
     assert not missing, missing
     unused = set(ids) - {p for l in ALL_LINES for p in l["place_ids"]}
     print("places without a scene:", sorted(unused))
