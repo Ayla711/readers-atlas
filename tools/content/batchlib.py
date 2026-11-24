@@ -82,7 +82,7 @@ def obj(d):
 def append(path, entries, marker):
     s = open(path, encoding="utf-8").read()
     i = s.rstrip().rfind("];")
-    s = s[:i].rstrip() + ",\n  // —— " + marker + " ——\n" + ",\n".join("  " + obj(e) for e in entries) + "\n];\n"
+    s = s[:i].rstrip().rstrip(",") + ",\n  // —— " + marker + " ——\n" + ",\n".join("  " + obj(e) for e in entries) + "\n];\n"
     open(path, "w", encoding="utf-8").write(s)
 
 

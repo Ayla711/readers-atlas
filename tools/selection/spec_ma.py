@@ -14,7 +14,7 @@ sources={
 size_note="规则 v2（11-24 晚）：两项证据或进 A 名单前 10 就够格；已有的书不因分数删；同一作者够格的都收；不设名额。本表结果：新增 6，保留 1，删除（零项） 4，不收 3，他国书目（不在此评） 1。 伊本·白图泰《游记》、卡内蒂《马拉喀什之声》、圣埃克苏佩里《南方邮航》、洛蒂《在摩洛哥》复核后仍是零项，删。",
 rows=[
 ("For Bread Alone","Mohamed Choukri","本国",{"A2": 3, "A3": 3, "A4": 4, "E": 1},"保留","丹吉尔；不在 D 前 2000 · Goodreads 12,122"),
-("The Woman and the Rose","Mohamed Zafzaf","本国",{"A2": 3, "A3": 3},"新增（地点待查）","需确认写的是摩洛哥还是西班牙；不在 D 前 2000 · Goodreads 190"),
+("The Woman and the Rose","Mohamed Zafzaf","本国",{"A2": 3, "A3": 3},"不算摩洛哥","故事主要发生在西班牙托雷莫利诺斯，结尾才回到摩洛哥（英文维基）；可转给西班牙评；不在 D 前 2000 · Goodreads 190"),
 ("The Sacred Night","Tahar Ben Jelloun","本国",{"A1": 3, "C": 2},"新增","龚古尔奖 1987；不在 D 前 2000 · Goodreads 1,831"),
 ("La Boîte à merveilles","Ahmed Sefrioui","本国",{"B": 2, "C": 2},"新增","非斯老城；摩洛哥文学大奖；不在 D 前 2000 · Goodreads 1,622"),
 ("Le Passé simple","Driss Chraïbi","本国",{"A1": 3},"不收","不在 D 前 2000 · Goodreads 490"),
