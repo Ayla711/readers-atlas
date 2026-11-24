@@ -1618,3 +1618,21 @@
 | Nsukka | Naza Gold | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AUniversity_of_Nigeria_Nsukka_05.jpg) |
 | Enugu | DeStrangeImages | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AEnugu_Nigeria.jpg) |
 | Oguta Lake, Imo | Ochiwar | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AOguta_Lake_cropped.jpg) |
+| Casbah of Algiers | SEBA Abdouellah | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ALa_casbah_d%27Alger.jpg) |
+| Biskra | Jan Ciągliński | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3AJan_Ci%C4%85gli%C5%84ski_-_Biskra_%28Oasis_with_Palm_Trees%29_-_MNK_II-b-411_-_National_Museum_Krak%C3%B3w.jpg) |
+| Belouizdad (Belcourt), Algiers | habib kaki | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABelouizdad_%D8%A8%D9%84%D9%88%D8%B2%D8%AF%D8%A7%D8%AF_-_panoramio.jpg) |
+| Oran | Benba.d.mourad | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AORAN_City_%26_Coast.jpg) |
+| Tipasa | Bernard Gagnon | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AView_of_Tipasa_01.jpg) |
+| Tlemcen | Riad Salih | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ATlemcen_-_20240424_150134.jpg) |
+| Cherchell | Bernard Gagnon | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ACherchell_Harbour_01.jpg) |
+| Karen Blixen Museum, Nairobi | Alexander Leisser | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AKaren_blixen_museum_in_nairobi_kenya_02.jpg) |
+| Limuru | Mekami | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ALimuru_tea_farms.jpg) |
+| Thika | Chumbabelyon | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AWaterfall_in_Thika_town.jpg) |
+| Njoro | Johnson waithaka | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AEucalyptus_trees_in_Njoro_kenya.jpg) |
+| The Tsavo River | CT Cooper | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AView_of_the_Tsavo_River_in_Tsavo_West_National_Park_%28edited%29.jpg) |
+| Malindi | Ruslik0 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3APillar_of_Vasco_da_Gama_01.JPG) |
+| Nyang'oma Kogelo, Siaya | Omondi | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ASarah_Onyango_home-gate.jpg) |
+| Tangier | Gugganij | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AView_from_the_Medina_of_Tangier_to_the_Iberia_district_2026-11-17_1.jpg) |
+| Fes el Bali (old Fez) | Hiroki Ogawa | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3APanorama_Fes_el_Bali_Borj_Sud_Fez_morocco_-_panoramio.jpg) |
+| Jemaa el-Fnaa, Marrakesh | Herokk | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AJemaa_el-Fnaa_Marrakech_at_sunset.jpg) |
+| Tarfaya (Cape Juby) | Yaroslav Blanter | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ATarfaya_Saint-Exupery.jpg) |

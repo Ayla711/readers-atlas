@@ -6327,6 +6327,497 @@
         "NG-EB"
       ],
       "wash": {}
+    },
+    {
+      "code": "dz",
+      "iso": "DZA",
+      "name": "Algeria",
+      "name_zh": "阿尔及利亚",
+      "short": "Algeria",
+      "short_zh": "阿尔及利亚",
+      "region_term": {
+        "en": "province",
+        "zh": "省"
+      },
+      "bounds": [
+        -9.5,
+        18.5,
+        12.2,
+        37.4
+      ],
+      "step": 0.01,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "DZ-01": "DZ-01",
+              "DZ-02": "DZ-02",
+              "DZ-03": "DZ-03",
+              "DZ-04": "DZ-04",
+              "DZ-05": "DZ-05",
+              "DZ-06": "DZ-06",
+              "DZ-07": "DZ-07",
+              "DZ-08": "DZ-08",
+              "DZ-09": "DZ-09",
+              "DZ-10": "DZ-10",
+              "DZ-11": "DZ-11",
+              "DZ-12": "DZ-12",
+              "DZ-13": "DZ-13",
+              "DZ-14": "DZ-14",
+              "DZ-15": "DZ-15",
+              "DZ-16": "DZ-16",
+              "DZ-17": "DZ-17",
+              "DZ-18": "DZ-18",
+              "DZ-19": "DZ-19",
+              "DZ-20": "DZ-20",
+              "DZ-21": "DZ-21",
+              "DZ-22": "DZ-22",
+              "DZ-23": "DZ-23",
+              "DZ-24": "DZ-24",
+              "DZ-25": "DZ-25",
+              "DZ-26": "DZ-26",
+              "DZ-27": "DZ-27",
+              "DZ-28": "DZ-28",
+              "DZ-29": "DZ-29",
+              "DZ-30": "DZ-30",
+              "DZ-31": "DZ-31",
+              "DZ-32": "DZ-32",
+              "DZ-33": "DZ-33",
+              "DZ-34": "DZ-34",
+              "DZ-35": "DZ-35",
+              "DZ-36": "DZ-36",
+              "DZ-37": "DZ-37",
+              "DZ-38": "DZ-38",
+              "DZ-39": "DZ-39",
+              "DZ-40": "DZ-40",
+              "DZ-41": "DZ-41",
+              "DZ-42": "DZ-42",
+              "DZ-43": "DZ-43",
+              "DZ-44": "DZ-44",
+              "DZ-45": "DZ-45",
+              "DZ-46": "DZ-46",
+              "DZ-47": "DZ-47",
+              "DZ-48": "DZ-48"
+            }
+          }
+        ],
+        "names": {
+          "DZ-01": [
+            "Adrar",
+            "阿德拉尔省"
+          ],
+          "DZ-02": [
+            "Chlef",
+            "谢里夫省"
+          ],
+          "DZ-03": [
+            "Laghouat",
+            "艾格瓦特省"
+          ],
+          "DZ-04": [
+            "Oum El Bouaghi",
+            "乌姆布瓦吉省"
+          ],
+          "DZ-05": [
+            "Batna",
+            "巴特纳省"
+          ],
+          "DZ-06": [
+            "Béjaïa",
+            "贝贾亚省"
+          ],
+          "DZ-07": [
+            "Biskra",
+            "比斯克拉省"
+          ],
+          "DZ-08": [
+            "Béchar",
+            "贝沙尔省"
+          ],
+          "DZ-09": [
+            "Blida",
+            "卜利达省"
+          ],
+          "DZ-10": [
+            "Bouïra",
+            "布维拉省"
+          ],
+          "DZ-11": [
+            "Tamanrasset",
+            "塔曼拉塞特省"
+          ],
+          "DZ-12": [
+            "Tébessa",
+            "泰贝萨省"
+          ],
+          "DZ-13": [
+            "Tlemcen",
+            "特莱姆森省"
+          ],
+          "DZ-14": [
+            "Tiaret",
+            "提亚雷特省"
+          ],
+          "DZ-15": [
+            "Tizi Ouzou",
+            "提济乌祖省"
+          ],
+          "DZ-16": [
+            "Algiers",
+            "阿尔及尔省"
+          ],
+          "DZ-17": [
+            "Djelfa",
+            "杰勒法省"
+          ],
+          "DZ-18": [
+            "Jijel",
+            "吉杰勒省"
+          ],
+          "DZ-19": [
+            "Sétif",
+            "塞提夫省"
+          ],
+          "DZ-20": [
+            "Saïda",
+            "赛伊达省"
+          ],
+          "DZ-21": [
+            "Skikda",
+            "斯基克达省"
+          ],
+          "DZ-22": [
+            "Sidi Bel Abbès",
+            "西迪贝勒阿巴斯省"
+          ],
+          "DZ-23": [
+            "Annaba",
+            "安纳巴省"
+          ],
+          "DZ-24": [
+            "Guelma",
+            "盖勒马省"
+          ],
+          "DZ-25": [
+            "Constantine",
+            "君士坦丁省"
+          ],
+          "DZ-26": [
+            "Médéa",
+            "麦迪亚省"
+          ],
+          "DZ-27": [
+            "Mostaganem",
+            "穆斯塔加奈姆省"
+          ],
+          "DZ-28": [
+            "M'Sila",
+            "姆西拉省"
+          ],
+          "DZ-29": [
+            "Mascara",
+            "穆阿斯凯尔省"
+          ],
+          "DZ-30": [
+            "Ouargla",
+            "瓦尔格拉省"
+          ],
+          "DZ-31": [
+            "Oran",
+            "奥兰省"
+          ],
+          "DZ-32": [
+            "El Bayadh",
+            "巴亚兹省"
+          ],
+          "DZ-33": [
+            "Illizi",
+            "伊利济省"
+          ],
+          "DZ-34": [
+            "Bordj Bou Arréridj",
+            "布阿拉里季堡省"
+          ],
+          "DZ-35": [
+            "Boumerdès",
+            "布米尔达斯省"
+          ],
+          "DZ-36": [
+            "El Tarf",
+            "塔里夫省"
+          ],
+          "DZ-37": [
+            "Tindouf",
+            "廷杜夫省"
+          ],
+          "DZ-38": [
+            "Tissemsilt",
+            "提塞姆西勒特省"
+          ],
+          "DZ-39": [
+            "El Oued",
+            "瓦迪省"
+          ],
+          "DZ-40": [
+            "Khenchela",
+            "汉舍莱省"
+          ],
+          "DZ-41": [
+            "Souk Ahras",
+            "苏格艾赫拉斯省"
+          ],
+          "DZ-42": [
+            "Tipasa",
+            "提帕萨省"
+          ],
+          "DZ-43": [
+            "Mila",
+            "米拉省"
+          ],
+          "DZ-44": [
+            "Aïn Defla",
+            "艾因迪夫拉省"
+          ],
+          "DZ-45": [
+            "Naama",
+            "纳马省"
+          ],
+          "DZ-46": [
+            "Aïn Témouchent",
+            "艾因泰穆尚特省"
+          ],
+          "DZ-47": [
+            "Ghardaïa",
+            "盖尔达耶省"
+          ],
+          "DZ-48": [
+            "Relizane",
+            "埃利赞省"
+          ]
+        }
+      },
+      "data": [
+        "data/dz/geo.js",
+        "data/dz/books.js",
+        "data/dz/places.js",
+        "data/dz/lines.js"
+      ],
+      "open": true,
+      "small_regions": [
+        "DZ-16",
+        "DZ-35",
+        "DZ-09",
+        "DZ-42",
+        "DZ-23"
+      ],
+      "wash": {}
+    },
+    {
+      "code": "ke",
+      "iso": "KEN",
+      "name": "Kenya",
+      "name_zh": "肯尼亚",
+      "short": "Kenya",
+      "short_zh": "肯尼亚",
+      "region_term": {
+        "en": "province",
+        "zh": "省"
+      },
+      "bounds": [
+        32.6,
+        -5.6,
+        42.2,
+        5.3
+      ],
+      "step": 0.008,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "KE-110": "KE-110",
+              "KE-200": "KE-200",
+              "KE-300": "KE-300",
+              "KE-400": "KE-400",
+              "KE-500": "KE-500",
+              "KE-600": "KE-600",
+              "KE-700": "KE-700",
+              "KE-800": "KE-800"
+            }
+          }
+        ],
+        "names": {
+          "KE-110": [
+            "Nairobi",
+            "内罗毕"
+          ],
+          "KE-200": [
+            "Central",
+            "中部省"
+          ],
+          "KE-300": [
+            "Coast",
+            "滨海省"
+          ],
+          "KE-400": [
+            "Eastern",
+            "东部省"
+          ],
+          "KE-500": [
+            "North Eastern",
+            "东北省"
+          ],
+          "KE-600": [
+            "Nyanza",
+            "尼扬扎省"
+          ],
+          "KE-700": [
+            "Rift Valley",
+            "裂谷省"
+          ],
+          "KE-800": [
+            "Western",
+            "西部省"
+          ]
+        }
+      },
+      "data": [
+        "data/ke/geo.js",
+        "data/ke/books.js",
+        "data/ke/places.js",
+        "data/ke/lines.js"
+      ],
+      "open": true,
+      "small_regions": [
+        "KE-110"
+      ],
+      "wash": {}
+    },
+    {
+      "code": "ma",
+      "iso": "MAR",
+      "name": "Morocco",
+      "name_zh": "摩洛哥",
+      "short": "Morocco",
+      "short_zh": "摩洛哥",
+      "region_term": {
+        "en": "region",
+        "zh": "大区"
+      },
+      "bounds": [
+        -19.0,
+        25.0,
+        -0.5,
+        36.2
+      ],
+      "step": 0.008,
+      "pov_drop": [
+        "MA-16"
+      ],
+      "pov_min_lat": 27.6667,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "MA-01": "MA-01",
+              "MA-02": "MA-02",
+              "MA-03": "MA-03",
+              "MA-04": "MA-04",
+              "MA-05": "MA-05",
+              "MA-06": "MA-06",
+              "MA-07": "MA-07",
+              "MA-08": "MA-08",
+              "MA-09": "MA-09",
+              "MA-10": "MA-10",
+              "MA-11": "MA-11",
+              "MA-12": "MA-12",
+              "MA-13": "MA-13",
+              "MA-14": "MA-14",
+              "MA-15": "MA-15"
+            }
+          }
+        ],
+        "names": {
+          "MA-01": [
+            "Tangier-Tetouan",
+            "丹吉尔-得土安大区"
+          ],
+          "MA-02": [
+            "Gharb-Chrarda-Béni Hssen",
+            "西部-舍拉拉德-贝尼赫森大区"
+          ],
+          "MA-03": [
+            "Taza-Al Hoceïma-Taounate",
+            "塔扎-胡塞马-陶纳特大区"
+          ],
+          "MA-04": [
+            "Oriental",
+            "东部大区"
+          ],
+          "MA-05": [
+            "Fès-Boulemane",
+            "非斯-布勒曼大区"
+          ],
+          "MA-06": [
+            "Meknès-Tafilalet",
+            "梅克内斯-塔菲拉勒特大区"
+          ],
+          "MA-07": [
+            "Rabat-Salé-Zemmour-Zaër",
+            "拉巴特-萨累-宰穆尔-扎埃尔大区"
+          ],
+          "MA-08": [
+            "Grand Casablanca",
+            "大卡萨布兰卡大区"
+          ],
+          "MA-09": [
+            "Chaouia-Ouardigha",
+            "沙维雅-瓦拉迪格大区"
+          ],
+          "MA-10": [
+            "Doukkala Abda",
+            "杜卡拉-阿卜达大区"
+          ],
+          "MA-11": [
+            "Marrakesh-Tensift-El Haouz",
+            "马拉喀什-坦西夫特-豪兹大区"
+          ],
+          "MA-12": [
+            "Tadla-Azilal",
+            "塔德莱-艾济拉勒大区"
+          ],
+          "MA-13": [
+            "Souss-Massa-Drâa",
+            "苏斯-马塞-德拉大区"
+          ],
+          "MA-14": [
+            "Guelmim-Es Semara",
+            "盖勒敏-塞马拉大区"
+          ],
+          "MA-15": [
+            "Laâyoune-Boujdour-Sakia El Hamra (Tarfaya)",
+            "阿尤恩-布支杜尔-萨基亚-阿姆拉大区（塔尔法亚）"
+          ]
+        }
+      },
+      "data": [
+        "data/ma/geo.js",
+        "data/ma/books.js",
+        "data/ma/places.js",
+        "data/ma/lines.js"
+      ],
+      "open": true,
+      "small_regions": [
+        "MA-08",
+        "MA-07",
+        "MA-02"
+      ],
+      "wash": {}
     }
   ]
 }

@@ -76,12 +76,18 @@ function inRings(lon, lat, rings) {
   }
   return inside;
 }
-// nearest unit vertex: distance in km and its region (good enough for "within 2 km of the coast")
+// nearest point of any unit outline: distance in km and its region ("within 2 km of the coast").
+// Measured to the outline's segments, not only its vertices: a simplified coast can run straight for 20 km,
+// and a harbour town beside such a stretch is close to the line while far from both of its ends.
 function nearest(lon, lat) {
   let best = Infinity, region = null;
-  for (const u of GEO.units) for (const r of u.g) for (const [x, y] of r) {
-    const dx = (x - lon) * 111.32 * Math.cos(lat * Math.PI / 180), dy = (y - lat) * 110.57;
-    const d = Math.hypot(dx, dy);
+  const kx = 111.32 * Math.cos(lat * Math.PI / 180), ky = 110.57;
+  for (const u of GEO.units) for (const r of u.g) for (let i = 0; i < r.length; i++) {
+    const ax = (r[i][0] - lon) * kx, ay = (r[i][1] - lat) * ky;
+    const b = r[(i + 1) % r.length], bx = (b[0] - lon) * kx, by = (b[1] - lat) * ky;
+    const vx = bx - ax, vy = by - ay, len = vx * vx + vy * vy;
+    const t = len ? Math.max(0, Math.min(1, -(ax * vx + ay * vy) / len)) : 0;
+    const d = Math.hypot(ax + t * vx, ay + t * vy);
     if (d < best) { best = d; region = u.r; }
   }
   return { km: best, region };

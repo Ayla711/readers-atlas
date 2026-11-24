@@ -1,0 +1,50 @@
+{
+ "dz-casbah": {
+  "lat": 36.78694444,
+  "lon": 3.06055556,
+  "st": "Casbah of Algiers (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Casbah_of_Algiers"
+ },
+ "dz-biskra": {
+  "lat": 34.85,
+  "lon": 5.73333333,
+  "st": "Biskra (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Biskra"
+ },
+ "dz-thagaste": {
+  "lat": 36.28638889,
+  "lon": 7.95111111,
+  "st": "Thagaste (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Thagaste"
+ },
+ "dz-belcourt": {
+  "lat": 36.75361111,
+  "lon": 3.06222222,
+  "st": "Belouizdad, Algiers (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Belouizdad,_Algiers"
+ },
+ "dz-oran": {
+  "lat": 35.69694444,
+  "lon": -0.63305556,
+  "st": "Oran (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Oran"
+ },
+ "dz-tipasa": {
+  "lat": 36.59194444,
+  "lon": 2.44944444,
+  "st": "Tipasa (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Tipasa"
+ },
+ "dz-tlemcen": {
+  "lat": 34.88277778,
+  "lon": -1.31666667,
+  "st": "Tlemcen (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Tlemcen"
+ },
+ "dz-cherchell": {
+  "lat": 36.6075,
+  "lon": 2.19,
+  "st": "Cherchell (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Cherchell"
+ }
+}

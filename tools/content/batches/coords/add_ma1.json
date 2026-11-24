@@ -1,0 +1,32 @@
+{
+ "ma-tangier": {
+  "lat": 35.77666667,
+  "lon": -5.80388889,
+  "st": "Tangier (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Tangier"
+ },
+ "ma-petit-socco": {
+  "lat": 35.7854,
+  "lon": -5.8106,
+  "st": "Petit Socco (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Petit_Socco"
+ },
+ "ma-fez": {
+  "lat": 34.0625,
+  "lon": -4.9725,
+  "st": "Fes el Bali (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Fes_el_Bali"
+ },
+ "ma-jemaa": {
+  "lat": 31.62583333,
+  "lon": -7.98944444,
+  "st": "Jemaa el-Fnaa (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Jemaa_el-Fnaa"
+ },
+ "ma-tarfaya": {
+  "lat": 27.93944444,
+  "lon": -12.92611111,
+  "st": "Tarfaya (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Tarfaya"
+ }
+}

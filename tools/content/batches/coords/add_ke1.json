@@ -1,0 +1,44 @@
+{
+ "ke-blixen": {
+  "lat": -1.3519,
+  "lon": 36.7125,
+  "st": "Karen Blixen Museum, Kenya (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Karen_Blixen_Museum,_Kenya"
+ },
+ "ke-limuru": {
+  "lat": -1.10777778,
+  "lon": 36.64277778,
+  "st": "Limuru (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Limuru"
+ },
+ "ke-thika": {
+  "lat": -1.05,
+  "lon": 37.08333333,
+  "st": "Thika (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Thika"
+ },
+ "ke-njoro": {
+  "lat": -0.331626,
+  "lon": 35.944938,
+  "st": "Njoro (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Njoro"
+ },
+ "ke-tsavo": {
+  "lat": -2.9775,
+  "lon": 38.52055556,
+  "st": "Tsavo River (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Tsavo_River"
+ },
+ "ke-malindi": {
+  "lat": -3.22361111,
+  "lon": 40.13,
+  "st": "Malindi (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Malindi"
+ },
+ "ke-kogelo": {
+  "lat": -0.01055556,
+  "lon": 34.34555556,
+  "st": "Nyang'oma Kogelo (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Nyang%27oma_Kogelo"
+ }
+}

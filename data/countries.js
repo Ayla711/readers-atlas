@@ -1362,7 +1362,107 @@ window.RA_COUNTRIES = [
    "data/ng/lines.js"
   ],
   "open": true
+ },
+ {
+  "code": "dz",
+  "iso": "DZA",
+  "name": "Algeria",
+  "name_zh": "阿尔及利亚",
+  "short": "Algeria",
+  "short_zh": "阿尔及利亚",
+  "region_term": {
+   "en": "province",
+   "zh": "省"
+  },
+  "bounds": [
+   -9.5,
+   18.5,
+   12.2,
+   37.4
+  ],
+  "small_regions": [
+   "DZ-16",
+   "DZ-35",
+   "DZ-09",
+   "DZ-42",
+   "DZ-23"
+  ],
+  "wash": {},
+  "data": [
+   "data/dz/geo.js",
+   "data/dz/books.js",
+   "data/dz/places.js",
+   "data/dz/lines.js"
+  ],
+  "open": true
+ },
+ {
+  "code": "ke",
+  "iso": "KEN",
+  "name": "Kenya",
+  "name_zh": "肯尼亚",
+  "short": "Kenya",
+  "short_zh": "肯尼亚",
+  "region_term": {
+   "en": "province",
+   "zh": "省"
+  },
+  "bounds": [
+   32.6,
+   -5.6,
+   42.2,
+   5.3
+  ],
+  "small_regions": [
+   "KE-110"
+  ],
+  "wash": {},
+  "data": [
+   "data/ke/geo.js",
+   "data/ke/books.js",
+   "data/ke/places.js",
+   "data/ke/lines.js"
+  ],
+  "open": true,
+  "needs": [
+   "pt",
+   "dk"
+  ]
+ },
+ {
+  "code": "ma",
+  "iso": "MAR",
+  "name": "Morocco",
+  "name_zh": "摩洛哥",
+  "short": "Morocco",
+  "short_zh": "摩洛哥",
+  "region_term": {
+   "en": "region",
+   "zh": "大区"
+  },
+  "bounds": [
+   -19.0,
+   25.0,
+   -0.5,
+   36.2
+  ],
+  "small_regions": [
+   "MA-08",
+   "MA-07",
+   "MA-02"
+  ],
+  "wash": {},
+  "data": [
+   "data/ma/geo.js",
+   "data/ma/books.js",
+   "data/ma/places.js",
+   "data/ma/lines.js"
+  ],
+  "open": true,
+  "needs": [
+   "it"
+  ]
  }
 ];
 // Totals over every open country, for the world page.
-window.RA_WORLD_STATS = {"countries": 43, "books": 1593, "lines": 1534, "places": 1804};
+window.RA_WORLD_STATS = {"countries": 46, "books": 1610, "lines": 1554, "places": 1824};

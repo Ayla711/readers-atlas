@@ -200,6 +200,19 @@ def region_of(p, cfg):
     return rid[len(rc.get("id_strip", "")):] if rid.startswith(rc.get("id_strip", "")) else rid
 
 
+def clip_south(ring, lat):
+    """the part of a ring at or north of a parallel (one pass of Sutherland-Hodgman)"""
+    out = []
+    for i in range(len(ring)):
+        (x1, y1), (x2, y2) = ring[i], ring[(i + 1) % len(ring)]
+        in1, in2 = y1 >= lat, y2 >= lat
+        if in1:
+            out.append([x1, y1])
+        if in1 != in2:
+            out.append([x1 + (x2 - x1) * (lat - y1) / (y2 - y1), lat])
+    return out
+
+
 def build_country(cfg):
     step = cfg.get("step", 0.004)
     a1 = json.load(open(ADMIN1))
@@ -237,6 +250,13 @@ def build_country(cfg):
             if "drop_rings_lon_lt" in cfg and any(x < cfg["drop_rings_lon_lt"] for x, _ in poly[0]):   # Chile's Easter Island
                 continue
             for k, ring in enumerate(poly):
+                # China's point of view (decision A-22): "pov_min_lat" cuts the country off at a parallel. Natural Earth
+                # draws the part of Western Sahara that Morocco holds as Moroccan regions; China's standard map shows
+                # Western Sahara apart from Morocco, the line between them being 27 deg 40 min N
+                if "pov_min_lat" in cfg:
+                    ring = clip_south(ring, cfg["pov_min_lat"])
+                    if len(ring) < 3:
+                        continue
                 r = clean_ring(ring, step)
                 if not r:
                     continue
