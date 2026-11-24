@@ -1433,14 +1433,9 @@
 | Griante (Grianta), Lake Como | Ottantafame | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AGriante_-_Griante_-_2026-09-13_00-01-24_004.jpg) |
 | Rütli | Parpan05 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AR%C3%BCtli_Wiese.jpg) |
 | Hohle Gasse, Küssnacht | Haecki Ursula | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ATellskapelle%2C_K%C3%BCssnacht%2C_Kanton_Schwyz.jpg) |
-| Chillon Castle | Christian David | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ACh%C3%A2teau_de_Chillon_and_the_snow-capped_Dents_du_Midi%2C_Veytaux%2C_Vaud.jpg) |
-| Jungfrau | Earth explorer | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A2008_Jungfrau-2.jpg) |
-| St. Peter's Island, Lake Biel | W. Bulach | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A00_0357_Erlach_Schweiz_-_St._Peterinsel.jpg) |
-| Lake Zurich | Ank Kumar | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ALake_Zurich%2C_Zurich_%28Ank_Kumar%29_04.jpg) |
 | Sumiswald | Roland Zumbuehl | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A2014-Sumiswald-Schloss.jpg) |
 | Reichenbach Falls, Meiringen | Andrew Bowden from Marple, United Kingdon | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AThe_Reichenbach_Falls_%282803039095%29.jpg) |
 | Hôtel des Trois Couronnes, Vevey | Jmh2o | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AVevey_-_H%C3%B4tel_des_Trois_Couronnes_vu_du_L%C3%A9man_-_2022-09-12_-_02.jpg) |
-| Hotel Schweizerhof, Lucerne | W. Bulach | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A00_0051_Hotel_Schweizerhof%2C_Luzern_%28Schweiz%29.jpg) |
 | Great St Bernard Hospice | Ludovic Péron | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AHospice_du_Grand_Saint-Bernard_-_1.jpg) |
 | Simplon Pass | Hp.Baumeler | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ASimplonpass_2021_%2833%29.jpg) |
 | Clarens | Photochrom Print Collection | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3AClarens%2C_general_view%2C_from_the_Lake%2C_Geneva_Lake%2C_Switzerland-LCCN2001702430.jpg) |
@@ -1454,9 +1449,7 @@
 | Berzona | Formkurve92 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABerzona_Oratorium.JPG) |
 | Museo Hermann Hesse, Montagnola | Hadi | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AMontagnolaHesseMuseum.JPG) |
 | Biel/Bienne | Roland Zumbuehl | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A2005-Biel-Altstadt.jpg) |
-| Derborence | Christian David | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ALac_de_Derborence_-_ao%C3%BBt_2022_%281%29.jpg) |
 | Château de Coppet | Ji-Elle | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ACh%C3%A2teau_de_Coppet_%2813%29.jpg) |
-| Chur | Agnes Monkelbaan | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AChur_in_Graub%C3%BCnden_%28Zwitserland%29_035.jpg) |
 | Leukerbad | André Corboz | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ALo%C3%A8che-les-Bains._Parete_rocciosa_del_Passo_della_Gemmi.jpg) |
 | Basel Minster (Erasmus's grave) | Falk2 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AL02_441_Basler_M%C3%BCnster.jpg) |
 | La Chaux-de-Fonds | MadGeographer | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3ALa_Chaux_de_Fonds.jpg) |
@@ -1482,38 +1475,30 @@
 | Tjele Manor | Peter Tom-Petersen | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3ATjele_Tom_Petersen785.jpg) |
 | Randers | Kapotev | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File%3ASct_mortens_kirke_randers_2018.jpg) |
 | Gammeltorv, Copenhagen | Daniel from Galashiels, United Kingdom | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AGammeltorv%2C_Copenhagen.jpg) |
-| Copenhagen old town (Indre By) | Guillaume Baviere from Uppsala, Sweden | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ALille_Kirkestr%C3%A6de_from_Nikolaj_Kirke%2C_Copenhagen_2018-07-22.jpg) |
 | Nexø, Bornholm | Hans-Peter Balfanz | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ANex%C3%B8_Hafen_2011-05.JPG) |
 | Christianshavn, Copenhagen | Dietmar Rabich | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AKopenhagen_%28DK%29%2C_Christianshaven_--_2017_--_1526.jpg) |
 | Hedebygade, Vesterbro | Leif Jørgensen | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AHedebygade.JPG) |
 | Rungstedlund (Karen Blixen Museum) | Orf3us | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AStue_p%C3%A5_Rungstedlund.jpg) |
 | Assistens Cemetery, Copenhagen | Jonaseckerbom | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AAssistens_Kirkeg%C3%A5rd%2C_Copenhagen.jpg) |
 | Sorø Abbey Church (Holberg's tomb) | Bococo | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ASor%C3%B8_klosterkirke_%28cropped%29.JPG) |
-| Anholt | Mikkel Houmøller | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AAnholt_Fyr.jpg) |
 | Thisted | Hjart | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AThisted_Kyst_2024.jpg) |
 | Marstal, Ærø | Kresspahl | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AMarstal_Hafen_052.JPG) |
-| Als | Erik Christensen | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ADybb%C3%B8l_M%C3%B8lle.1.jpg) |
 | Vedersø | Bococo | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AVeders%C3%B8_kirke_%28Ringk%C3%B8bing-Skjern%29.JPG) |
 | Gammel Lejre | Guillaume Baviere from Uppsala, Sweden | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AZealand_2017-09-10_%2837612141124%29.jpg) |
 | Karl Johans gate, Oslo | W. Bulach | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A00_7731_Oslo_-_Karl_Johans_gate.jpg) |
 | Besseggen | Silverkey (Mickaël Delcey) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABesseggen_ridge.jpg) |
 | Ibsen Museum, Oslo | Ssu | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AIbsenmuseet_Oslo.jpg) |
-| Fjære Church, Grimstad | Friman | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3AFjaere-krk.jpg) |
 | Jørundgard Medieval Centre, Sel | Nasjonalt Pilegrimssenter | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AJ%C3%B8rundgard_middelaldersenter_DF.7263.jpg) |
 | Bjerkebæk, Lillehammer | Mahlum | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3ABjerkeb%C3%A6k_Lillehammer.jpg) |
 | Aulestad, Gausdal | Øyvind Holmstad | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AAulestad-3.JPG) |
-| Stavanger | Olaf Meister | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AGamle_Stavanger_2017_n%C3%B6rdlicher_Teil.jpg) |
 | Holberg Statue, Vågsallmenningen, Bergen | JoachimKohler-HB | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3AHolberg-Denkmal_auf_dem_V%C3%A5gsallmenningen_in_Bergen_NOR_%282015%29.jpg) |
-| Berlevåg | Maltesen from Copenhagen, Denmark | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABerlev%C3%A5g.jpg) |
 | Tromøya, Arendal | Karl Ragnar Gjertsen Krg | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AArendal_Trom%C3%B8y_Sandst%C3%B8.JPG) |
 | Vinje | Tollef Salemann | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File%3AVinje-prestegard.jpg) |
-| Tinnsjå (Lake Tinn) | Krib | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ATinnsj%C3%A5_2024.jpg) |
 | Stiklestad | Henny stokseth | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AStiklestad_kirke_2017.jpg) |
 | Alstahaug Church | Zinnmann | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A20230722_Alstahaug_kirke_-_5220.jpg) |
 | Kon-Tiki Museum, Bygdøy | Palickap | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AOslo%2C_Kon-Tiki_museum.jpg) |
 | Hamsun Centre, Hamarøy | TorbjørnS | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AHamsunsenteret.jpg) |
 | Eidsvoll Vicarage | Mahlum | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3AEidsvoll_prestegard.jpg) |
-| Slottsfjellet, Tønsberg | Ssu | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ASlottsfjellet_sett_fra_T%C3%B8nsberg_gangbru.jpg) |
 | Mosebacke, Södermalm | Holger.Ellgaard | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AMosebacke_torg_juli_2016.jpg) |
 | Kymmendö | Tommie Hansen | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AKymmend%C3%B6_jetty_and_house%2C_Stockhom_%28Sweden%29_-_panoramio.jpg) |
 | Strindberg Museum (the Blue Tower), Stockholm | Frankie Fouganthin | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AStrindbergsmuseet_09.jpg) |
@@ -1521,7 +1506,6 @@
 | Rottneros Manor (Ekeby) | Boberger . Photo: Bengt Oberger | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ARottneros_herrg%C3%A5rd_1.JPG) |
 | Mårbacka | Sofie Sigrinn | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ASelmas_arbetsplats_-_M%C3%A5rbacka.jpg) |
 | Västra Vemmenhög Church | Erik Andrén | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3AV%C3%A4stra_Vemmenh%C3%B6gs_kyrka_-_KMB_-_16000200067084.jpg) |
-| Nås, Dalarna | T. Axelson | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3ANaasKyrka_Dalarna2.JPG) |
 | Djurgården | ArildV | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AS%C3%B6dra_Djurg%C3%A5rden_May_2026_11.jpg) |
 | Riddarholm Church, Stockholm | Benoît Derrier from Stockholm, Sweden | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ARiddarholmen_from_Stockholm_City_Hall_tower.jpg) |
 | Ljuder Church, Småland | Bernt Fransson,Lindås | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ALjuders_kyrka_006.jpg) |
@@ -1543,14 +1527,12 @@
 | Domus Spinozana, The Hague | MLWatts | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ASpinozahuis_and_Spinoza%27s_statue_in_The_Hague.JPG) |
 | Archipelbuurt (Couperus's Surinamestraat), The Hague | Dqfn13 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ASurinamestraat_20%2C_Den_Haag.jpg) |
 | Erasmus statue, Laurenskerk, Rotterdam | Unknown author | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3ARotterdam_Grotemarkt_Standbeeld_Erasmus_1885_%28GA%29.jpg) |
-| Cathedral of Our Lady, Antwerp | Manuelarosi | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ANello_%26_Patrasche_by_Tist.jpg) |
 | Damme | Zeisterre | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ADamme_Uilenspiegelmonument.JPG) |
 | Rozenhoedkaai (Quai du Rosaire), Bruges | Ank Kumar | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ARozenhoedkaai_%28canal%29_and_Belfry_of_Bruges%2C_Bruges%2C_Belgium_%28Ank_Kumar%2C_Infosys_Limited%29_05.jpg) |
 | Markt, Bruges (Breydel and De Coninck) | Marc Ryckaert ( MJJR ) | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABrugge_Markt_Noordzijde_R01.jpg) |
 | Hougoumont, Waterloo | Nenea hartia | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AHougoumont_farm.03.jpg) |
 | Bozar (site of the Pensionnat Heger), Brussels | Trougnouf (Benoit Brummer) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABOZAR_%28DSCF7462%29.jpg) |
 | Brussels (Grand-Place) | Celuici | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AGrand-Place%2C_Brussels_-_panorama%2C_June_2018.jpg) |
-| Outremeuse, Liège | Kleon3 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A2014_Li%C3%A8ge%2C_Outremeuse%2C_D%C3%A9rivation.jpg) |
 | Kortrijk | Trougnouf (Benoit Brummer) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABroeltorens%2C_Kortrijk_%28DSCF9278%29.jpg) |
 | Lier | Zairon | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ALier_Zimmertoren_4.jpg) |
 | Eger Castle | h_laca | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AEgri_v%C3%A1r_-_Gergely-b%C3%A1stya_%C3%A9s_a_Hippolyt-kapu_-_panoramio.jpg) |
@@ -1567,7 +1549,6 @@
 | Norðurmýri, Reykjavík | Mr. Granger | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File%3ANor%C3%B0urm%C3%BDri%2C_Reykjav%C3%ADk.jpg) |
 | Nonnahús, Akureyri | TommyBee | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3ANonnah%C3%BAsi%C3%B0.JPG) |
 | Skriðuklaustur | Villy Fink Isaksen | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AGunnar_Gunnarsson%27s_house_in_Skri%C3%B0uklaustur_1.jpg) |
-| Reykir and Grettislaug (facing Drangey) | Bromr | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ADrangey2010.JPG) |
 | Palojoki, Nurmijärvi (Aleksis Kivi's birth home) | Anneli Salo | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AA_Kivi_was_born_here_H6919_A_Kiven_synnyinkoti_C.JPG) |
 | Jutas battlefield, Nykarleby | Petritap | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AMonument_of_Battle_of_Jutas.jpg) |
 | Paikkari Croft, Sammatti | Abc10 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3APaikkarin_torppa_2016.jpg) |
@@ -1576,7 +1557,6 @@
 | Paltaniemi, Kajaani | SeppVei | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3AH%C3%B6vel%C3%B6.JPG) |
 | Kuopio (Minna Canth's Kanttila) | Htm | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AMinna_Canth_Park_2.JPG) |
 | Troy (Hisarlık), Çanakkale | Jorge Láscar | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ALegendary_walls_of_Troy_%288708672267%29.jpg) |
-| Abydos, on the Dardanelles (Hellespont) | Julian Lupyan | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File%3AContainer_Ship_South_of_1915_%C3%87anakkale_Bridge%2C_Dardanelles_Strait%2C_2024.jpg) |
 | Trabzon (Trapezus) | Dosseman | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ATrabzon_view_4858_panorama.jpg) |
 | The Museum of Innocence, Çukurcuma, Istanbul | Yourusernamewillbepublic2 | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File%3AMuseum_of_Innocence.jpg) |
 | Kars | Francesco Bini | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AKars%2C_castello%2C_veduta_01.jpg) |
@@ -1585,21 +1565,16 @@
 | Mevlâna Museum, Konya | Dosseman | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AKonya_Mevlana_Museum_from_park_2573.jpg) |
 | Nechymne Lake, Volyn | Оксана Тарнавська | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A%D0%A3%D1%80%D0%BE%D1%87%D0%B8%D1%89%D0%B5_%D0%9D%D0%B5%D1%87%D0%B8%D0%BC%D0%BD%D0%B5_%D0%BE%D0%B7%D0%B5%D1%80%D0%BE%28%D1%84%D0%BE%D1%82%D0%BE_by_sonja4na%29.jpg) |
 | Velyki Sorochyntsi, Poltava region | Loportek | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3APloshad_sorochinskoy_yarmarki.JPG) |
-| Khan's Palace, Bakhchysarai | Tiia Monto | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABakhchisarai_Palace2.jpg) |
 | Bulgakov House, 13 Andriivskyi Descent, Kyiv | Vassia Atanassova - Spiritia | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AMikhail_Bulgakov_House%2C_Kiev_-_corner.jpg) |
 | Kyiv Zoo | Половко Сергей Николаевич | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A%D0%96%D0%B8%D1%80%D0%B0%D1%84%D0%B0_%D0%9A%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%97%D0%9E%D0%9E.jpg) |
 | Pripyat | Omar David Sandoval Sida | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AView_of_Pripyat_from_the_rooftop_of_a_building_01.jpg) |
 | Trochenbrod (site), Volyn | Unknown photographer | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3AZofiowka_%28Trochenbrod%29_Post_Office%2C_Poland.jpg) |
 | Bistrița (Stoker's Bistritz) | Cristian Bortes | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABiserica_Evanghelic%C4%83_Bistrita.jpg) |
-| Ion Creangă House, Humulești | Cipriancobuz | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ACasa_memorial%C4%83_Ion_Creang%C4%83_din_Humule%C8%99ti%2C_Targu_Neamt.jpg) |
-| Statue of Ovid, Constanța (Tomis) | Alexandru Pănoiu | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AStatue_of_Ovid_and_National_History_Museum_in_Constantza.jpg) |
 | Liviu Rebreanu (Prislop), near Năsăud | Țetcu Mircea Rareș | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ACasa_memorial%C4%83_Liviu_Rebreanu.jpg) |
-| Colț Citadel, Hunedoara | Andreistirbu72 | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3AColt2.jpg) |
 | Ipotești Memorial (Mihai Eminescu) | Curcan ionel | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ACasa_Memorial%C4%83_Mihai_Eminescu_din_Ipote%C8%99ti%2C_foto_Ionel_Curcan_%2833%29.jpg) |
 | Traian Square, Timișoara | Chainwit. | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3APia%C8%9Ba_Traian%2C_Timi%C8%99oara_%282023%29_-_img_04.jpg) |
 | Taras Hill, Kaniv (Shevchenko's grave) | Мандрівниця | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D0%B0_%D0%A2%D0%B0%D1%80%D0%B0%D1%81%D0%B0_%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%B0._%D0%9A%D0%B0%D0%BD%D1%96%D0%B2.jpg) |
 | Kotliarevsky Museum-Estate, Poltava | Denis Vitchenko | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A%D0%A5%D0%B0%D1%82%D0%B0_%D0%86._%D0%9A%D0%BE%D1%82%D0%BB%D1%8F%D1%80%D0%B5%D0%B2%D1%81%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE._%D0%9F%D0%BE%D0%BB%D1%82%D0%B0%D0%B2%D0%B0.jpg) |
-| Colentina, Bucharest | Ralph van Roosmalen | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ASoseaua_Colentina_-_panoramio.jpg) |
 | Great Pyramid of Giza | kallerna | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3APyramid_of_Cheops_-_side.jpg) |
 | Great Sphinx of Giza | Petar Milošević | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AGreat_Sphinx_%28%D8%A3%D8%A8%D9%88_%D8%A7%D9%84%D9%87%D9%88%D9%84%29.jpg) |
 | Cavafy House, Alexandria | Asiatologist | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ACavafy_Museum.jpg) |
@@ -1617,28 +1592,18 @@
 | Aké, Abeokuta | Agbebiyi Adekunle (Tadek Photography) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ACentenary_Hall_Ake_Abeokuta_%2810%29.jpg) |
 | Nsukka | Naza Gold | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AUniversity_of_Nigeria_Nsukka_05.jpg) |
 | Enugu | DeStrangeImages | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AEnugu_Nigeria.jpg) |
-| Oguta Lake, Imo | Ochiwar | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AOguta_Lake_cropped.jpg) |
-| Casbah of Algiers | SEBA Abdouellah | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ALa_casbah_d%27Alger.jpg) |
 | Biskra | Jan Ciągliński | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3AJan_Ci%C4%85gli%C5%84ski_-_Biskra_%28Oasis_with_Palm_Trees%29_-_MNK_II-b-411_-_National_Museum_Krak%C3%B3w.jpg) |
 | Belouizdad (Belcourt), Algiers | habib kaki | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABelouizdad_%D8%A8%D9%84%D9%88%D8%B2%D8%AF%D8%A7%D8%AF_-_panoramio.jpg) |
 | Oran | Benba.d.mourad | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AORAN_City_%26_Coast.jpg) |
-| Tipasa | Bernard Gagnon | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AView_of_Tipasa_01.jpg) |
 | Tlemcen | Riad Salih | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ATlemcen_-_20240424_150134.jpg) |
 | Cherchell | Bernard Gagnon | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ACherchell_Harbour_01.jpg) |
 | Karen Blixen Museum, Nairobi | Alexander Leisser | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AKaren_blixen_museum_in_nairobi_kenya_02.jpg) |
-| Limuru | Mekami | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ALimuru_tea_farms.jpg) |
-| Thika | Chumbabelyon | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AWaterfall_in_Thika_town.jpg) |
 | Njoro | Johnson waithaka | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AEucalyptus_trees_in_Njoro_kenya.jpg) |
-| The Tsavo River | CT Cooper | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AView_of_the_Tsavo_River_in_Tsavo_West_National_Park_%28edited%29.jpg) |
 | Malindi | Ruslik0 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3APillar_of_Vasco_da_Gama_01.JPG) |
 | Nyang'oma Kogelo, Siaya | Omondi | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ASarah_Onyango_home-gate.jpg) |
 | Tangier | Gugganij | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AView_from_the_Medina_of_Tangier_to_the_Iberia_district_2026-11-17_1.jpg) |
-| Fes el Bali (old Fez) | Hiroki Ogawa | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3APanorama_Fes_el_Bali_Borj_Sud_Fez_morocco_-_panoramio.jpg) |
-| Jemaa el-Fnaa, Marrakesh | Herokk | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AJemaa_el-Fnaa_Marrakech_at_sunset.jpg) |
-| Tarfaya (Cape Juby) | Yaroslav Blanter | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ATarfaya_Saint-Exupery.jpg) |
 | Sarah Island, Macquarie Harbour | William Buelow Gould | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3AWilliam_Buelow_Gould_Macquarie_Harbour.jpg) |
 | Mount Kosciuszko and the upper Snowy River | Ymblanter | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AKosciuszko_NP_Mount_Kosciuszko_seen_from_Kosciuszko_lookout.jpg) |
-| Combo Waterhole, Queensland | Alun Hoggett | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ACombo_Waterhole-Alun_Hoggett.jpg) |
 | Brindabella Station | Matilda (English Wikipedia) | [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5) | [Commons](https://commons.wikimedia.org/wiki/File%3ABrindabellaValleyAndGoodradigbeeRiver.jpg) |
 | Hanging Rock, Victoria | Anne-Marie Steenbergen | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AHanging_Rock_2001-11-16_D1020009.jpg) |
 | Surry Hills, Sydney | Chris Olszewski | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ATerrace_Houses_in_Campbell_Street%2C_Surry_Hills%2C_Sydney.jpg) |

@@ -1,9 +1,6 @@
 // Kenya, hand-written content (tools/content/batches/add_ke1.py, 2026-11-24).
 window.RA_DATA = window.RA_DATA || {};
 window.RA_DATA.books = [
-  { id: "man-eaters-of-tsavo", title: "The Man-Eaters of Tsavo", title_zh: "察沃的食人狮", title_orig: "The Man-Eaters of Tsavo", author: "John Henry Patterson", author_zh: "约翰·亨利·帕特森", year: "1907", orig_lang: "en", public_domain: true, source_url: "https://en.wikisource.org/wiki/The_Man-Eaters_of_Tsavo", author_orig: "John Henry Patterson", aliases: ["Tsavo lions", "Uganda Railway", "Patterson", "食人狮"] },
-  { id: "weep-not-child", title: "Weep Not, Child", title_zh: "孩子，你别哭", title_orig: "Weep Not, Child", author: "Ngũgĩ wa Thiong'o", author_zh: "恩古吉·瓦·提安哥", year: "1964", orig_lang: "en", public_domain: false, source_url: null, author_orig: "Ngũgĩ wa Thiong'o", aliases: ["James Ngugi", "Ngugi wa Thiong'o", "Njoroge", "Mau Mau", "恩古吉"] },
-  { id: "flame-trees-of-thika", title: "The Flame Trees of Thika", title_zh: "锡卡的火焰树", title_orig: "The Flame Trees of Thika", author: "Elspeth Huxley", author_zh: "埃尔斯佩思·赫胥黎", year: "1959", orig_lang: "en", public_domain: false, source_url: null, author_orig: "Elspeth Huxley", aliases: ["Memories of an African Childhood", "Thika", "Huxley"] },
   { id: "west-with-the-night", title: "West with the Night", title_zh: "夜航西飞", title_orig: "West with the Night", author: "Beryl Markham", author_zh: "柏瑞尔·马卡姆", year: "1942", orig_lang: "en", public_domain: false, source_url: null, author_orig: "Beryl Markham", aliases: ["Markham", "Njoro", "Beryl Clutterbuck"] },
   { id: "dreams-from-my-father", title: "Dreams from My Father", title_zh: "我父亲的梦想", title_orig: "Dreams from My Father", author: "Barack Obama", author_zh: "贝拉克·奥巴马", year: "1995", orig_lang: "en", public_domain: false, source_url: null, author_orig: "Barack Obama", aliases: ["A Story of Race and Inheritance", "Obama", "奥巴马", "Kogelo", "Alego"] }
 ];
