@@ -1,0 +1,6 @@
+{
+ "fi-urjala": {"lat": 61.08333333, "lon": 23.55, "st": "Urjala (English Wikipedia, article coordinates)", "su": "https://en.wikipedia.org/wiki/Urjala"},
+ "fi-vuosaari": {"lat": 60.20888889, "lon": 25.14305556, "st": "Vuosaari (English Wikipedia, article coordinates)", "su": "https://en.wikipedia.org/wiki/Vuosaari"},
+ "fi-pellinki": {"lat": 60.21666667, "lon": 25.86666667, "st": "Pellinki (English Wikipedia, article coordinates)", "su": "https://en.wikipedia.org/wiki/Pellinki"},
+ "fi-suomussalmi": {"lat": 64.88333333, "lon": 28.91666667, "st": "Suomussalmi (English Wikipedia, article coordinates)", "su": "https://en.wikipedia.org/wiki/Suomussalmi"}
+}

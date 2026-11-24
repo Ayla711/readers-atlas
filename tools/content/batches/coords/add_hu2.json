@@ -1,0 +1,7 @@
+{
+ "hu-doczy": {"lat": 47.52967, "lon": 21.630466, "st": "Debreceni Református Kollégium Dóczy Gimnáziuma (Hungarian Wikipedia, article coordinates)", "su": "https://hu.wikipedia.org/wiki/Debreceni_Reform%C3%A1tus_Koll%C3%A9gium_D%C3%B3czy_Gimn%C3%A1ziuma"},
+ "hu-pasaret": {"lat": 47.51722222, "lon": 19.00416667, "st": "Pasarét (English Wikipedia, article coordinates)", "su": "https://en.wikipedia.org/wiki/Pasar%C3%A9t"},
+ "hu-budapest": {"lat": 47.4925, "lon": 19.05138889, "st": "Budapest (English Wikipedia, article coordinates)", "su": "https://en.wikipedia.org/wiki/Budapest"},
+ "hu-attila-ut": {"lat": 47.49238889, "lon": 19.04261111, "st": "Attila út (Budapest) (Hungarian Wikipedia, article coordinates)", "su": "https://hu.wikipedia.org/wiki/Attila_%C3%BAt_(Budapest)"},
+ "hu-eszterhaza": {"lat": 47.62055556, "lon": 16.87166667, "st": "Eszterháza (English Wikipedia, article coordinates)", "su": "https://en.wikipedia.org/wiki/Eszterh%C3%A1za"}
+}
