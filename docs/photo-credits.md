@@ -1553,3 +1553,10 @@
 | Outremeuse, Liège | Kleon3 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A2014_Li%C3%A8ge%2C_Outremeuse%2C_D%C3%A9rivation.jpg) |
 | Kortrijk | Trougnouf (Benoit Brummer) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABroeltorens%2C_Kortrijk_%28DSCF9278%29.jpg) |
 | Lier | Zairon | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ALier_Zimmertoren_4.jpg) |
+| Eger Castle | h_laca | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AEgri_v%C3%A1r_-_Gergely-b%C3%A1stya_%C3%A9s_a_Hippolyt-kapu_-_panoramio.jpg) |
+| Attila József statue, Kossuth tér (Danube bank) | Yoav Dothan | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3AStatue_of_Attila_J%C3%B3zsef_by_L%C3%A1szl%C3%B3_Marton%2C_2009_BudapestDSCN3513.jpg) |
+| Bugac (Kiskunság) | isol | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AHungria_-_Bugac_-_panoramio_%281%29.jpg) |
+| Hungarian National Museum, Budapest | Pasztilla | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3AMagyar_Nemzeti_M%C3%BAzeum.jpg) |
+| Jókai Memorial House, Balatonfüred | EtelkaCsilla | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AJ%C3%B3kai_villa.JPG) |
+| Reformed College, Debrecen | Manuista | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ADebreceni_Reform%C3%A1tus_Koll%C3%A9gium_%C3%A9p%C3%BClete_a_Nagytemplom_torny%C3%A1b%C3%B3l_n%C3%A9zve_%282017%29.jpg) |
+| Gyula | Domokdr | [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5) | [Commons](https://commons.wikimedia.org/wiki/File%3AGyula_V%C3%A1r_nappal.jpg) |

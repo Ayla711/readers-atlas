@@ -1013,7 +1013,36 @@ window.RA_COUNTRIES = [
    "data/be/lines.js"
   ],
   "open": true
+ },
+ {
+  "code": "hu",
+  "iso": "HUN",
+  "name": "Hungary",
+  "name_zh": "匈牙利",
+  "short": "Hungary",
+  "short_zh": "匈牙利",
+  "region_term": {
+   "en": "county",
+   "zh": "州"
+  },
+  "bounds": [
+   16.0,
+   45.65,
+   23.0,
+   48.65
+  ],
+  "small_regions": [
+   "HU-BU"
+  ],
+  "wash": {},
+  "data": [
+   "data/hu/geo.js",
+   "data/hu/books.js",
+   "data/hu/places.js",
+   "data/hu/lines.js"
+  ],
+  "open": true
  }
 ];
 // Totals over every open country, for the world page.
-window.RA_WORLD_STATS = {"countries": 34, "books": 1528, "lines": 1482, "places": 1734};
+window.RA_WORLD_STATS = {"countries": 35, "books": 1536, "lines": 1487, "places": 1741};

@@ -4989,6 +4989,171 @@
         "BE-BRU"
       ],
       "wash": {}
+    },
+    {
+      "code": "hu",
+      "iso": "HUN",
+      "name": "Hungary",
+      "name_zh": "匈牙利",
+      "short": "Hungary",
+      "short_zh": "匈牙利",
+      "region_term": {
+        "en": "county",
+        "zh": "州"
+      },
+      "bounds": [
+        16.0,
+        45.65,
+        23.0,
+        48.65
+      ],
+      "step": 0.003,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "HU-BA": "HU-BA",
+              "HU-BE": "HU-BE",
+              "HU-BK": "HU-BK",
+              "HU-BU": "HU-BU",
+              "HU-BZ": "HU-BZ",
+              "HU-CS": "HU-CS",
+              "HU-FE": "HU-FE",
+              "HU-GS": "HU-GS",
+              "HU-HB": "HU-HB",
+              "HU-HE": "HU-HE",
+              "HU-JN": "HU-JN",
+              "HU-KE": "HU-KE",
+              "HU-NO": "HU-NO",
+              "HU-PE": "HU-PE",
+              "HU-SO": "HU-SO",
+              "HU-SZ": "HU-SZ",
+              "HU-TO": "HU-TO",
+              "HU-VA": "HU-VA",
+              "HU-VE": "HU-VE",
+              "HU-ZA": "HU-ZA",
+              "HU-BC": "HU-BE",
+              "HU-DE": "HU-HB",
+              "HU-DU": "HU-FE",
+              "HU-ED": "HU-PE",
+              "HU-EG": "HU-HE",
+              "HU-GY": "HU-GS",
+              "HU-HV": "HU-CS",
+              "HU-KM": "HU-BK",
+              "HU-KV": "HU-SO",
+              "HU-MI": "HU-BZ",
+              "HU-NK": "HU-ZA",
+              "HU-NY": "HU-SZ",
+              "HU-PS": "HU-BA",
+              "HU-SD": "HU-CS",
+              "HU-SF": "HU-FE",
+              "HU-SH": "HU-VA",
+              "HU-SK": "HU-JN",
+              "HU-SN": "HU-GS",
+              "HU-SS": "HU-TO",
+              "HU-ST": "HU-NO",
+              "HU-TB": "HU-KE",
+              "HU-VM": "HU-VE",
+              "HU-ZE": "HU-ZA"
+            }
+          }
+        ],
+        "names": {
+          "HU-BA": [
+            "Baranya",
+            "巴兰尼亚州"
+          ],
+          "HU-BE": [
+            "Békés",
+            "贝凯什州"
+          ],
+          "HU-BK": [
+            "Bács-Kiskun",
+            "巴奇-基什孔州"
+          ],
+          "HU-BU": [
+            "Budapest",
+            "布达佩斯"
+          ],
+          "HU-BZ": [
+            "Borsod-Abaúj-Zemplén",
+            "包尔绍德-奥包乌伊-曾普伦州"
+          ],
+          "HU-CS": [
+            "Csongrád-Csanád",
+            "琼格拉德-乔纳德州"
+          ],
+          "HU-FE": [
+            "Fejér",
+            "费耶尔州"
+          ],
+          "HU-GS": [
+            "Győr-Moson-Sopron",
+            "杰尔-莫松-肖普朗州"
+          ],
+          "HU-HB": [
+            "Hajdú-Bihar",
+            "豪伊杜-比豪尔州"
+          ],
+          "HU-HE": [
+            "Heves",
+            "赫维什州"
+          ],
+          "HU-JN": [
+            "Jász-Nagykun-Szolnok",
+            "加兹-纳杰孔-索尔诺克州"
+          ],
+          "HU-KE": [
+            "Komárom-Esztergom",
+            "科马罗姆-埃斯泰尔戈姆州"
+          ],
+          "HU-NO": [
+            "Nógrád",
+            "诺格拉德州"
+          ],
+          "HU-PE": [
+            "Pest",
+            "佩斯州"
+          ],
+          "HU-SO": [
+            "Somogy",
+            "绍莫吉州"
+          ],
+          "HU-SZ": [
+            "Szabolcs-Szatmár-Bereg",
+            "索博尔奇-索特马尔-贝拉格州"
+          ],
+          "HU-TO": [
+            "Tolna",
+            "托尔瑙州"
+          ],
+          "HU-VA": [
+            "Vas",
+            "沃什州"
+          ],
+          "HU-VE": [
+            "Veszprém",
+            "维斯普雷姆州"
+          ],
+          "HU-ZA": [
+            "Zala",
+            "佐洛州"
+          ]
+        }
+      },
+      "data": [
+        "data/hu/geo.js",
+        "data/hu/books.js",
+        "data/hu/places.js",
+        "data/hu/lines.js"
+      ],
+      "open": true,
+      "small_regions": [
+        "HU-BU"
+      ],
+      "wash": {}
     }
   ]
 }
