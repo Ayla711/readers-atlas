@@ -65,8 +65,8 @@
     "B",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "abigel",
+   "decision": "保留",
    "first_draft": "新增（地点待查）",
    "note": "书里的阿尔科德镇是虚构的；不在 D 前 2000 · Goodreads 12,722"
   },
@@ -85,8 +85,8 @@
     "B",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "the-door",
+   "decision": "保留",
    "first_draft": "待定",
    "note": "布达佩斯；不在 D 前 2000 · Goodreads 42,343"
   },
@@ -124,9 +124,9 @@
     "I"
    ],
    "in_app": null,
-   "decision": "新增",
-   "first_draft": "新增（地点待查）",
-   "note": "书里的庄园没写地名；D 504 · Goodreads 51,469"
+   "decision": "不收（没有真实地点）",
+   "first_draft": "不收（没有真实地点）",
+   "note": "书里的庄园没写地名；D 504 · Goodreads 51,469；核地点：将军的城堡没有地名"
   },
   {
    "title": "Be Faithful Unto Death",
@@ -160,9 +160,9 @@
     "B"
    ],
    "in_app": null,
-   "decision": "新增",
-   "first_draft": "新增（地点待查）",
-   "note": "马特劳圣安娜是虚构村名；不在 D 前 2000 · Goodreads 1,966"
+   "decision": "不收（没有真实地点）",
+   "first_draft": "不收（没有真实地点）",
+   "note": "马特劳圣安娜是虚构村名；不在 D 前 2000 · Goodreads 1,966；核地点：马特劳圣安娜是虚构的村子"
   },
   {
    "title": "Fatelessness",
@@ -179,8 +179,8 @@
     "E",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "fatelessness",
+   "decision": "保留",
    "first_draft": "不收",
    "note": "布达佩斯部分很短；D 495 · Goodreads 14,441"
   },
@@ -197,8 +197,8 @@
     "A1",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "anna-edes",
+   "decision": "保留",
    "first_draft": "不收",
    "note": "D 1759 · Goodreads 4,173"
   },
@@ -215,8 +215,8 @@
     "A1",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "celestial-harmonies",
+   "decision": "保留",
    "first_draft": "不收",
    "note": "D 1767 · Goodreads 698"
   },

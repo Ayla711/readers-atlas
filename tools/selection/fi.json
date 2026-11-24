@@ -27,9 +27,9 @@
     "E"
    ],
    "in_app": null,
-   "decision": "新增",
-   "first_draft": "新增（待挂靠）",
-   "note": "不在 D 前 2000 · Goodreads 12,022"
+   "decision": "不收（没有真实地点）",
+   "first_draft": "不收（没有真实地点）",
+   "note": "不在 D 前 2000 · Goodreads 12,022；核地点：姆明谷是虚构的"
   },
   {
    "title": "The Year of the Hare",
@@ -106,8 +106,8 @@
     "B",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "under-the-north-star",
+   "decision": "保留",
    "first_draft": "待定",
    "note": "虚构的彭廷库尔马以乌尔亚拉为原型；不在 D 前 2000 · Goodreads 2,726"
   },
@@ -124,8 +124,8 @@
    ],
    "in_app": null,
    "decision": "新增",
-   "first_draft": "新增",
-   "note": "赫尔辛基；不在 D 前 2000 · Goodreads 3,639"
+   "first_draft": "新增（地点待查）",
+   "note": "赫尔辛基；不在 D 前 2000 · Goodreads 3,639；核地点：故事在赫尔辛基，但查到的资料没有落到具体地点"
   },
   {
    "title": "Mr Boo",
@@ -139,9 +139,9 @@
     "A1"
    ],
    "in_app": null,
-   "decision": "新增",
-   "first_draft": "新增（待挂靠）",
-   "note": "童书，虚构地点；不在 D 前 2000 · Goodreads 191"
+   "decision": "不收（没有真实地点）",
+   "first_draft": "不收（没有真实地点）",
+   "note": "童书，虚构地点；不在 D 前 2000 · Goodreads 191；核地点：童书里的地方是虚构的"
   },
   {
    "title": "My First Murder",
@@ -154,8 +154,8 @@
    "cats": [
     "A1"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "my-first-murder",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "埃斯波；不在 D 前 2000 · Goodreads 3,945"
   },
@@ -172,8 +172,8 @@
     "E",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "the-summer-book",
+   "decision": "保留",
    "first_draft": "不收",
    "note": "扬松第二本；D 1228 · Goodreads 69,158"
   },
@@ -194,8 +194,8 @@
    ],
    "in_app": null,
    "decision": "新增",
-   "first_draft": "待定",
-   "note": "D 1233 · Goodreads 8,893"
+   "first_draft": "新增（地点待查）",
+   "note": "D 1233 · Goodreads 8,893；核地点：主要地点（彼得罗扎沃茨克、斯维尔河、卡累利阿地峡）今属俄罗斯，挂到哪里待用户定"
   },
   {
    "title": "Ice",
@@ -230,8 +230,8 @@
    ],
    "in_app": null,
    "decision": "新增",
-   "first_draft": "不收",
-   "note": "即《虔诚的贫困》（Hurskas kurjuus）；累计印数榜第 16 名、高中共读第 5 名；不在 D 前 2000 · Goodreads 566"
+   "first_draft": "新增（地点待查）",
+   "note": "即《虔诚的贫困》（Hurskas kurjuus）；累计印数榜第 16 名、高中共读第 5 名；不在 D 前 2000 · Goodreads 566；核地点：主人公生在萨塔昆塔东北一个没有名字的教区，后来的教区也没点名"
   },
   {
    "title": "The Tales of Ensign Stål",
@@ -326,8 +326,8 @@
     "B",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "the-red-line",
+   "decision": "保留",
    "first_draft": "",
    "note": "累计印数榜第 12 名、高中共读第 3 名；1907 年首次议会选举，地点待查；不在 D 前 2000 · Goodreads 1,330"
   },

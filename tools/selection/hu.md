@@ -15,16 +15,16 @@
 | # | 书 | 作者 | 类 | 明细 | 分 | 证据项 | 已在应用里 | 处理（v2） | v1 初稿（作废，仅供对照） | 说明 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | The Paul Street Boys | Ferenc Molnár | 本国 | A1+4 B+2 E+1 | 7 | 3 | 是 | 保留 | 保留 | 不在 D 前 2000 · Goodreads 26,847 |
-| 2 | Abigail (Abigél) | Magda Szabó | 本国 | A1+4 B+2 E+1 | 7 | 3 |  | 新增 | 新增（地点待查） | 书里的阿尔科德镇是虚构的；不在 D 前 2000 · Goodreads 12,722 |
-| 3 | The Door | Magda Szabó | 本国 | A1+3 B+2 E+1 | 6 | 3 |  | 新增 | 待定 | 布达佩斯；不在 D 前 2000 · Goodreads 42,343 |
-| 4 | Embers | Sándor Márai | 本国 | A1+3 D+1 E+1 | 5 | 3 |  | 新增 | 新增（地点待查） | 书里的庄园没写地名；D 504 · Goodreads 51,469 |
-| 5 | Fatelessness | Imre Kertész | 本国 | N+1 D+2 E+1 | 4 | 3 |  | 新增 | 不收 | 布达佩斯部分很短；D 495 · Goodreads 14,441 |
+| 2 | Abigail (Abigél) | Magda Szabó | 本国 | A1+4 B+2 E+1 | 7 | 3 | 是 | 保留 | 新增（地点待查） | 书里的阿尔科德镇是虚构的；不在 D 前 2000 · Goodreads 12,722 |
+| 3 | The Door | Magda Szabó | 本国 | A1+3 B+2 E+1 | 6 | 3 | 是 | 保留 | 待定 | 布达佩斯；不在 D 前 2000 · Goodreads 42,343 |
+| 4 | Embers | Sándor Márai | 本国 | A1+3 D+1 E+1 | 5 | 3 |  | 不收（没有真实地点） | 不收（没有真实地点） | 书里的庄园没写地名；D 504 · Goodreads 51,469；核地点：将军的城堡没有地名 |
+| 5 | Fatelessness | Imre Kertész | 本国 | N+1 D+2 E+1 | 4 | 3 | 是 | 保留 | 不收 | 布达佩斯部分很短；D 495 · Goodreads 14,441 |
 | 6 | Eclipse of the Crescent Moon (Egri csillagok) | Géza Gárdonyi | 本国 | A1+4 B+2 | 6 | 2 | 是 | 保留 | 保留 | 大书投票第 1；不在 D 前 2000 · Goodreads 3,187 |
 | 7 | The Man with the Golden Touch (Az arany ember) | Mór Jókai | 本国 | A1+4 B+2 | 6 | 2 | 是 | 保留 | 新增 | 科马罗姆、多瑙河；不在 D 前 2000 · Goodreads 2,581 |
 | 8 | Be Faithful Unto Death | Zsigmond Móricz | 本国 | A1+3 B+2 | 5 | 2 | 是 | 保留 | 保留 | 德布勒森；不在 D 前 2000 · Goodreads 1,586 |
-| 9 | The Tót Family (Tóték) | István Örkény | 本国 | A1+3 B+2 | 5 | 2 |  | 新增 | 新增（地点待查） | 马特劳圣安娜是虚构村名；不在 D 前 2000 · Goodreads 1,966 |
-| 10 | Anna Édes | Dezső Kosztolányi | 本国 | A1+3 D+1 | 4 | 2 |  | 新增 | 不收 | D 1759 · Goodreads 4,173 |
-| 11 | Celestial Harmonies | Péter Esterházy | 本国 | A1+3 D+1 | 4 | 2 |  | 新增 | 不收 | D 1767 · Goodreads 698 |
+| 9 | The Tót Family (Tóték) | István Örkény | 本国 | A1+3 B+2 | 5 | 2 |  | 不收（没有真实地点） | 不收（没有真实地点） | 马特劳圣安娜是虚构村名；不在 D 前 2000 · Goodreads 1,966；核地点：马特劳圣安娜是虚构的村子 |
+| 10 | Anna Édes | Dezső Kosztolányi | 本国 | A1+3 D+1 | 4 | 2 | 是 | 保留 | 不收 | D 1759 · Goodreads 4,173 |
+| 11 | Celestial Harmonies | Péter Esterházy | 本国 | A1+3 D+1 | 4 | 2 | 是 | 保留 | 不收 | D 1767 · Goodreads 698 |
 | 12 | Satantango | László Krasznahorkai | 本国 | N+1 E+1 | 2 | 2 | 是 | 保留 | 不收 | 不在 D 前 2000 · Goodreads 20,066 |
 | 13 | János vitéz | Sándor Petőfi | 本国 | B+2 | 2 | 1 |  | 不收 | 不收 | 不在 D 前 2000 · Goodreads 1,087 |
 | 14 | By the Danube (A Dunánál) | Attila József | 本国 | B+2 | 2 | 1 | 是 | 保留（只有一类证据） | 删除（见名额说明） | 2020 年高中课程框架（9–12 年级）约瑟夫·阿蒂拉一节点名《在多瑙河边》（ELTE 网站上的框架文本）；不在 D 前 2000；Goodreads 25 |

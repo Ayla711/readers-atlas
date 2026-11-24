@@ -6040,6 +6040,46 @@
     "book",
     "house"
    ]
+  },
+  {
+   "id": "under-the-north-star",
+   "title": "Under the North Star",
+   "author": "Väinö Linna",
+   "home": "fi",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "my-first-murder",
+   "title": "My First Murder",
+   "author": "Leena Lehtolainen",
+   "home": "fi",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "the-summer-book",
+   "title": "The Summer Book",
+   "author": "Tove Jansson",
+   "home": "fi",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "the-red-line",
+   "title": "The Red Line",
+   "author": "Ilmari Kianto",
+   "home": "fi",
+   "via": [
+    "book",
+    "line"
+   ]
   }
  ],
  "fr": [
@@ -7612,6 +7652,56 @@
    "via": [
     "book",
     "house"
+   ]
+  },
+  {
+   "id": "abigel",
+   "title": "Abigail",
+   "author": "Magda Szabó",
+   "home": "hu",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "the-door",
+   "title": "The Door",
+   "author": "Magda Szabó",
+   "home": "hu",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "fatelessness",
+   "title": "Fatelessness",
+   "author": "Imre Kertész",
+   "home": "hu",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "anna-edes",
+   "title": "Anna Édes",
+   "author": "Dezső Kosztolányi",
+   "home": "hu",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "celestial-harmonies",
+   "title": "Celestial Harmonies",
+   "author": "Péter Esterházy",
+   "home": "hu",
+   "via": [
+    "book",
+    "line"
    ]
   }
  ],

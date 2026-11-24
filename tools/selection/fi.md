@@ -17,16 +17,16 @@
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | Kalevala | Elias Lönnrot | 本国 | A1+4 D+1 B+2 EP+2 | 9 | 4 | 是 | 保留 | 新增 | 卡亚尼（伦洛特当医生、整理史诗的地方）；D 1017 · Goodreads 6,362 |
 | 2 | Seven Brothers | Aleksis Kivi | 本国 | A1+4 B+2 EP+2 | 8 | 3 | 是 | 保留 | 保留 | 不在 D 前 2000 · Goodreads 4,414 |
-| 3 | Under the North Star | Väinö Linna | 本国 | A1+4 B+2 EP+2 | 8 | 3 |  | 新增 | 待定 | 虚构的彭廷库尔马以乌尔亚拉为原型；不在 D 前 2000 · Goodreads 2,726 |
-| 4 | The Unknown Soldier | Väinö Linna | 本国 | D+1 B+2 EP+2 | 5 | 3 |  | 新增 | 待定 | D 1233 · Goodreads 8,893 |
-| 5 | Meek Heritage | F. E. Sillanpää | 本国 | N+1 B+2 EP+2 | 5 | 3 |  | 新增 | 不收 | 即《虔诚的贫困》（Hurskas kurjuus）；累计印数榜第 16 名、高中共读第 5 名；不在 D 前 2000 · Goodreads 566 |
-| 6 | Tales from Moominvalley | Tove Jansson | 本国 | A1+4 E+1 | 5 | 2 |  | 新增 | 新增（待挂靠） | 不在 D 前 2000 · Goodreads 12,022 |
+| 3 | Under the North Star | Väinö Linna | 本国 | A1+4 B+2 EP+2 | 8 | 3 | 是 | 保留 | 待定 | 虚构的彭廷库尔马以乌尔亚拉为原型；不在 D 前 2000 · Goodreads 2,726 |
+| 4 | The Unknown Soldier | Väinö Linna | 本国 | D+1 B+2 EP+2 | 5 | 3 |  | 新增 | 新增（地点待查） | D 1233 · Goodreads 8,893；核地点：主要地点（彼得罗扎沃茨克、斯维尔河、卡累利阿地峡）今属俄罗斯，挂到哪里待用户定 |
+| 5 | Meek Heritage | F. E. Sillanpää | 本国 | N+1 B+2 EP+2 | 5 | 3 |  | 新增 | 新增（地点待查） | 即《虔诚的贫困》（Hurskas kurjuus）；累计印数榜第 16 名、高中共读第 5 名；不在 D 前 2000 · Goodreads 566；核地点：主人公生在萨塔昆塔东北一个没有名字的教区，后来的教区也没点名 |
+| 6 | Tales from Moominvalley | Tove Jansson | 本国 | A1+4 E+1 | 5 | 2 |  | 不收（没有真实地点） | 不收（没有真实地点） | 不在 D 前 2000 · Goodreads 12,022；核地点：姆明谷是虚构的 |
 | 7 | The Year of the Hare | Arto Paasilinna | 本国 | A1+4 E+1 | 5 | 2 | 是 | 保留 | 新增 | 海门林纳到拉普兰一路的真实地方；不在 D 前 2000 · Goodreads 19,845 |
-| 8 | The Red Line (Punainen viiva) | Ilmari Kianto | 本国 | B+2 EP+2 | 4 | 2 |  | 新增 |  | 累计印数榜第 12 名、高中共读第 3 名；1907 年首次议会选举，地点待查；不在 D 前 2000 · Goodreads 1,330 |
-| 9 | The Summer Book | Tove Jansson | 本国 | D+1 E+1 | 2 | 2 |  | 新增 | 不收 | 扬松第二本；D 1228 · Goodreads 69,158 |
-| 10 | True (Totta) | Riikka Pulkkinen | 本国 | A1+4 | 4 | 1 |  | 新增 | 新增 | 赫尔辛基；不在 D 前 2000 · Goodreads 3,639 |
-| 11 | Mr Boo | Hannu Mäkelä | 本国 | A1+4 | 4 | 1 |  | 新增 | 新增（待挂靠） | 童书，虚构地点；不在 D 前 2000 · Goodreads 191 |
-| 12 | My First Murder | Leena Lehtolainen | 本国 | A1+4 | 4 | 1 |  | 新增 | 新增 | 埃斯波；不在 D 前 2000 · Goodreads 3,945 |
+| 8 | The Red Line (Punainen viiva) | Ilmari Kianto | 本国 | B+2 EP+2 | 4 | 2 | 是 | 保留 |  | 累计印数榜第 12 名、高中共读第 3 名；1907 年首次议会选举，地点待查；不在 D 前 2000 · Goodreads 1,330 |
+| 9 | The Summer Book | Tove Jansson | 本国 | D+1 E+1 | 2 | 2 | 是 | 保留 | 不收 | 扬松第二本；D 1228 · Goodreads 69,158 |
+| 10 | True (Totta) | Riikka Pulkkinen | 本国 | A1+4 | 4 | 1 |  | 新增 | 新增（地点待查） | 赫尔辛基；不在 D 前 2000 · Goodreads 3,639；核地点：故事在赫尔辛基，但查到的资料没有落到具体地点 |
+| 11 | Mr Boo | Hannu Mäkelä | 本国 | A1+4 | 4 | 1 |  | 不收（没有真实地点） | 不收（没有真实地点） | 童书，虚构地点；不在 D 前 2000 · Goodreads 191；核地点：童书里的地方是虚构的 |
+| 12 | My First Murder | Leena Lehtolainen | 本国 | A1+4 | 4 | 1 | 是 | 保留 | 新增 | 埃斯波；不在 D 前 2000 · Goodreads 3,945 |
 | 13 | Ice | Ulla-Lena Lundberg | 本国 | C+2 | 2 | 1 |  | 不收 | 不收 | 芬兰文学奖 2012；奥兰群岛；不在 D 前 2000 · Goodreads 3,843 |
 | 14 | The Tales of Ensign Stål | J. L. Runeberg | 本国 | EP+2 | 2 | 1 | 是 | 保留（只有一类证据） | 删除（见名额说明③） | 累计印数榜第 1 名（累计印数约 120 万）；高中共读书目里没有，论文说它的教学已移到初中；不在 D 前 2000 · Goodreads 825 |
 | 15 | The Railroad (Rautatie) | Juhani Aho | 本国 | EP+2 | 2 | 1 |  | 不收 |  | 累计印数榜第 5 名；萨沃乡间一对老夫妇去看火车，地点待查；不在 D 前 2000 · Goodreads 1,187 |
