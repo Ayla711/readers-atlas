@@ -1,0 +1,50 @@
+{
+ "tr-troy": {
+  "lat": 39.9575,
+  "lon": 26.23888889,
+  "st": "Troy (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Troy"
+ },
+ "tr-abydos": {
+  "lat": 40.19527778,
+  "lon": 26.405,
+  "st": "Abydos (Hellespont) (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Abydos_(Hellespont)"
+ },
+ "tr-trabzon": {
+  "lat": 41.005,
+  "lon": 39.7225,
+  "st": "Trabzon (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Trabzon"
+ },
+ "tr-masumiyet": {
+  "lat": 41.030906,
+  "lon": 28.9797878,
+  "st": "The Museum of Innocence (museum) (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/The_Museum_of_Innocence_(museum)"
+ },
+ "tr-kars": {
+  "lat": 40.60777778,
+  "lon": 43.09583333,
+  "st": "Kars (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Kars"
+ },
+ "tr-gokcedam": {
+  "lat": 37.19027778,
+  "lon": 36.09194444,
+  "st": "Gökçedam (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/G%C3%B6k%C3%A7edam"
+ },
+ "tr-sirkeci": {
+  "lat": 41.015,
+  "lon": 28.977222,
+  "st": "Sirkeci railway station (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Sirkeci_railway_station"
+ },
+ "tr-mevlana": {
+  "lat": 37.87055556,
+  "lon": 32.50472222,
+  "st": "Mevlâna Museum (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Mevl%C3%A2na_Museum"
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "ro-bistrita": {
+  "lat": 47.13333333,
+  "lon": 24.5,
+  "st": "Bistrița (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Bistri%C8%9Ba"
+ },
+ "ro-humulesti": {
+  "lat": 47.1976,
+  "lon": 26.3549,
+  "st": "Ion Creangă House (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Ion_Creang%C4%83_House"
+ },
+ "ro-tomis": {
+  "lat": 44.17433,
+  "lon": 28.65854,
+  "st": "Statuia lui Ovidiu din Constanța (Romanian Wikipedia, article coordinates)",
+  "su": "https://ro.wikipedia.org/wiki/Statuia_lui_Ovidiu_din_Constan%C8%9Ba"
+ },
+ "ro-rebreanu": {
+  "lat": 47.26,
+  "lon": 24.43278,
+  "st": "Liviu Rebreanu, Bistrița-Năsăud (Romanian Wikipedia, article coordinates)",
+  "su": "https://ro.wikipedia.org/wiki/Liviu_Rebreanu,_Bistri%C8%9Ba-N%C4%83s%C4%83ud"
+ },
+ "ro-colt": {
+  "lat": 45.47811,
+  "lon": 22.87433,
+  "st": "Cetatea Colț (Romanian Wikipedia, article coordinates)",
+  "su": "https://ro.wikipedia.org/wiki/Cetatea_Col%C8%9B"
+ },
+ "ro-ipotesti": {
+  "lat": 47.76639,
+  "lon": 26.55833,
+  "st": "Ipotești, Botoșani (Romanian Wikipedia, article coordinates)",
+  "su": "https://ro.wikipedia.org/wiki/Ipote%C8%99ti,_Boto%C8%99ani"
+ },
+ "ro-trajan": {
+  "lat": 45.757725,
+  "lon": 21.249973,
+  "st": "Piața Traian din Timișoara (Romanian Wikipedia, article coordinates)",
+  "su": "https://ro.wikipedia.org/wiki/Pia%C8%9Ba_Traian_din_Timi%C8%99oara"
+ },
+ "ro-colentina": {
+  "lat": 44.46666667,
+  "lon": 26.15,
+  "st": "Colentina, Bucharest (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Colentina,_Bucharest"
+ }
+}

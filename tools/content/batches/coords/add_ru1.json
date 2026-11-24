@@ -1,0 +1,338 @@
+{
+ "ru-pustozersk": {
+  "lat": 67.536389,
+  "lon": 52.586389,
+  "st": "Category:Pustozersk (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Pustozersk"
+ },
+ "ru-simonov": {
+  "lat": 55.713892,
+  "lon": 37.65717,
+  "st": "Category:Simonov Monastery (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Simonov_Monastery"
+ },
+ "ru-griboyedov-moscow": {
+  "lat": 55.76444444,
+  "lon": 37.63916667,
+  "st": "Category:Griboedov's monument (Moscow) (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Griboedov's_monument_(Moscow)"
+ },
+ "ru-mikhailovskoye": {
+  "lat": 57.060978,
+  "lon": 28.91939,
+  "st": "Category:Mikhailovskoye (Museum-Reserve) (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Mikhailovskoye_(Museum-Reserve)"
+ },
+ "ru-vyra": {
+  "lat": 59.347889,
+  "lon": 29.958528,
+  "st": "Category:House of The Station Master in Vyra (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:House_of_The_Station_Master_in_Vyra"
+ },
+ "ru-bronze-horseman": {
+  "lat": 59.936556,
+  "lon": 30.302169,
+  "st": "Category:The Bronze Horseman (Saint Petersburg) (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:The_Bronze_Horseman_(Saint_Petersburg)"
+ },
+ "ru-lermontov-duel": {
+  "lat": 44.059028,
+  "lon": 43.077083,
+  "st": "Category:Place of Lermontov's duel (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Place_of_Lermontov's_duel"
+ },
+ "ru-kalinkin-bridge": {
+  "lat": 59.916389,
+  "lon": 30.279444,
+  "st": "Category:Staro-Kalinkin Bridge (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Staro-Kalinkin_Bridge"
+ },
+ "ru-gogol-house": {
+  "lat": 55.753952,
+  "lon": 37.599991,
+  "st": "Category:Gogol house-museum (Moscow) (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Gogol_house-museum_(Moscow)"
+ },
+ "ru-kazan-cathedral": {
+  "lat": 59.934228,
+  "lon": 30.324594,
+  "st": "Category:Kazan Cathedral (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Kazan_Cathedral"
+ },
+ "ru-spasskoye": {
+  "lat": 53.373167,
+  "lon": 36.631803,
+  "st": "Category:Spasskoe-Lutovinovo (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Spasskoe-Lutovinovo"
+ },
+ "ru-bezhin-meadow": {
+  "lat": 53.455358,
+  "lon": 36.689551,
+  "st": "Category:Bezhin meadow (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Bezhin_meadow"
+ },
+ "ru-noble-nest-oryol": {
+  "lat": 52.967794,
+  "lon": 36.052508,
+  "st": "Commons photo 'Дворянское гнездо после реконструкции (1)', camera location 52.967794, 36.052508",
+  "su": "https://commons.wikimedia.org/wiki/File:Дворянское_гнездо_после_реконструкции_(1).jpg"
+ },
+ "ru-gorokhovaya": {
+  "lat": 59.9295,
+  "lon": 30.3205,
+  "st": "Category:Gorohovaya Street (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Gorohovaya_Street"
+ },
+ "ru-raskolnikov-house": {
+  "lat": 59.92777778,
+  "lon": 30.31055556,
+  "st": "Category:Raskolnikov's house (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Raskolnikov's_house"
+ },
+ "ru-anichkov-bridge": {
+  "lat": 59.93333333,
+  "lon": 30.34333333,
+  "st": "Category:Anichkov Bridge (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Anichkov_Bridge"
+ },
+ "ru-pavlovsk": {
+  "lat": 59.69361111,
+  "lon": 30.45527778,
+  "st": "Category:Pavlovsk park (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Pavlovsk_park"
+ },
+ "ru-staraya-russa": {
+  "lat": 57.98136667,
+  "lon": 31.35704167,
+  "st": "Category:Dostoyevsky House, Staraya Russa (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Dostoyevsky_House,_Staraya_Russa"
+ },
+ "ru-borodino": {
+  "lat": 55.50833333,
+  "lon": 35.82111111,
+  "st": "Category:Borodino Field (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Borodino_Field"
+ },
+ "ru-obiralovka": {
+  "lat": 55.7525,
+  "lon": 38.00888889,
+  "st": "Category:Zheleznodorozhnaya railway station (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Zheleznodorozhnaya_railway_station"
+ },
+ "ru-butyrka": {
+  "lat": 55.78487,
+  "lon": 37.59372,
+  "st": "Category:Butyrka Prison (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Butyrka_Prison"
+ },
+ "ru-mtsensk": {
+  "lat": 53.28333333,
+  "lon": 36.56666667,
+  "st": "Category:Mtsensk (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Mtsensk"
+ },
+ "ru-konevets": {
+  "lat": 60.84806,
+  "lon": 30.58389,
+  "st": "Category:Konevsky Monastery (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Konevsky_Monastery"
+ },
+ "ru-spas-ugol": {
+  "lat": 56.85722222,
+  "lon": 37.93388889,
+  "st": "Category:Spas-Ugol (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Spas-Ugol"
+ },
+ "ru-sparrow-hills": {
+  "lat": 55.708189,
+  "lon": 37.54841,
+  "st": "Category:Monument to Herzen and Ogaryov (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Monument_to_Herzen_and_Ogaryov"
+ },
+ "ru-white-dacha": {
+  "lat": 44.4911,
+  "lon": 34.1416,
+  "st": "Category:White Dacha (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:White_Dacha"
+ },
+ "ru-yalta-embankment": {
+  "lat": 44.49649,
+  "lon": 34.170184,
+  "st": "Category:Lenin Embankment, Yalta (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Lenin_Embankment,_Yalta"
+ },
+ "ru-melikhovo": {
+  "lat": 55.11537,
+  "lon": 37.64854,
+  "st": "Category:Melikhovo (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Melikhovo"
+ },
+ "ru-taganrog-chekhov": {
+  "lat": 47.20694444,
+  "lon": 38.93138889,
+  "st": "Category:Chekhov Birth House (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Chekhov_Birth_House"
+ },
+ "ru-bugrov-dosshouse": {
+  "lat": 56.329485,
+  "lon": 43.997432,
+  "st": "Category:Bugrov Homeless Shelter (Nizhny Novgorod) (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Bugrov_Homeless_Shelter_(Nizhny_Novgorod)"
+ },
+ "ru-sormovo": {
+  "lat": 56.357461,
+  "lon": 43.872405,
+  "st": "Category:Krasnoye Sormovo buildings (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Krasnoye_Sormovo_buildings"
+ },
+ "ru-blok-apartment": {
+  "lat": 59.92352778,
+  "lon": 30.281925,
+  "st": "Category:Alexander Blok Apartment Museum (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Alexander_Blok_Apartment_Museum"
+ },
+ "ru-mayakovsky-museum": {
+  "lat": 55.75947222,
+  "lon": 37.62966667,
+  "st": "Category:Vladimir Mayakovsky State Museum (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Vladimir_Mayakovsky_State_Museum"
+ },
+ "ru-bunin-oryol": {
+  "lat": 52.965989,
+  "lon": 36.060653,
+  "st": "Category:Bunin Museum in Oryol (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Bunin_Museum_in_Oryol"
+ },
+ "ru-patriarch-ponds": {
+  "lat": 55.76388889,
+  "lon": 37.59194444,
+  "st": "Category:Patriarshiye Ponds (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Patriarshiye_Ponds"
+ },
+ "ru-prechistenka-24": {
+  "lat": 55.74198,
+  "lon": 37.593868,
+  "st": "Commons photo 'Last Address Sign - Moscow, Prechistenka Street, 24 (2016-05-22) 24', camera location 55.74198, 37.593868",
+  "su": "https://commons.wikimedia.org/wiki/File:Last_Address_Sign_-_Moscow,_Prechistenka_Street,_24_(2016-05-22)_24.jpg"
+ },
+ "ru-proval": {
+  "lat": 44.04667,
+  "lon": 43.09861,
+  "st": "Category:Proval (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Proval"
+ },
+ "ru-veshenskaya": {
+  "lat": 49.62722222,
+  "lon": 41.72611111,
+  "st": "Category:Veshenskaya (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Veshenskaya"
+ },
+ "ru-fountain-house": {
+  "lat": 59.935941,
+  "lon": 30.346591,
+  "st": "Category:Anna Akhmatova Museum at the Fountain House (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Anna_Akhmatova_Museum_at_the_Fountain_House"
+ },
+ "ru-kresty": {
+  "lat": 59.9537,
+  "lon": 30.3644,
+  "st": "Category:Kresty (Saint Petersburg) (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Kresty_(Saint_Petersburg)"
+ },
+ "ru-peredelkino": {
+  "lat": 55.661311,
+  "lon": 37.33385,
+  "st": "Category:House-museum of Boris Pasternak (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:House-museum_of_Boris_Pasternak"
+ },
+ "ru-pavlov-house": {
+  "lat": 48.716087,
+  "lon": 44.531389,
+  "st": "Category:Pavlov's House (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Pavlov's_House"
+ },
+ "ru-solovki": {
+  "lat": 65.02444444,
+  "lon": 35.71055556,
+  "st": "Category:Solovetsky Monastery (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Solovetsky_Monastery"
+ },
+ "ru-lubyanka": {
+  "lat": 55.7602157,
+  "lon": 37.62859469,
+  "st": "Category:Lubyanka Building (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Lubyanka_Building"
+ },
+ "ru-mask-of-sorrow": {
+  "lat": 59.59166478,
+  "lon": 150.81213689,
+  "st": "Category:Mask of Sorrow memorial (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Mask_of_Sorrow_memorial"
+ },
+ "ru-house-embankment": {
+  "lat": 55.744316,
+  "lon": 37.612635,
+  "st": "Category:House on Embankment (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:House_on_Embankment"
+ },
+ "ru-kursky-station": {
+  "lat": 55.7575,
+  "lon": 37.66055556,
+  "st": "Category:Kursky Rail Terminal (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Kursky_Rail_Terminal"
+ },
+ "ru-pushkin-house": {
+  "lat": 59.944774,
+  "lon": 30.301216,
+  "st": "Category:Institute of Russian Literature (Pushkin House) (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Institute_of_Russian_Literature_(Pushkin_House)"
+ },
+ "ru-dovlatov-berezino": {
+  "lat": 57.042255,
+  "lon": 28.926886,
+  "st": "Category:Sergei Dovlatov house in the village Beresino (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Sergei_Dovlatov_house_in_the_village_Beresino"
+ },
+ "ru-irkutsk-znamensky": {
+  "lat": 52.300672,
+  "lon": 104.294556,
+  "st": "Category:Monastery of the Theotokos of the Sign (Irkutsk) (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Monastery_of_the_Theotokos_of_the_Sign_(Irkutsk)"
+ },
+ "ru-pskov-kremlin": {
+  "lat": 57.82138889,
+  "lon": 28.32944444,
+  "st": "Category:Kremlin of Pskov (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Kremlin_of_Pskov"
+ },
+ "ru-kazan-kremlin": {
+  "lat": 55.797442,
+  "lon": 49.10724,
+  "st": "Category:Kazan Kremlin (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Kazan_Kremlin"
+ },
+ "ru-metropol": {
+  "lat": 55.75833333,
+  "lon": 37.62138889,
+  "st": "Category:Hotel Metropol (Moscow) (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Hotel_Metropol_(Moscow)"
+ },
+ "ru-rozhdestveno": {
+  "lat": 59.317,
+  "lon": 29.946,
+  "st": "Category:Rozhdestveno estate (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Rozhdestveno_estate"
+ },
+ "ru-pushkin-statue-moscow": {
+  "lat": 55.765333,
+  "lon": 37.605472,
+  "st": "Category:Statue of Pushkin (Opekushin) (Wikimedia Commons)",
+  "su": "https://commons.wikimedia.org/wiki/Category:Statue_of_Pushkin_(Opekushin)"
+ },
+ "ru-zamyatin-lebedyan": {
+  "lat": 53.004483,
+  "lon": 39.139734,
+  "st": "Commons photo 'Zamyatin House in Lebedyan', camera location 53.004483, 39.139734",
+  "su": "https://commons.wikimedia.org/wiki/File:Zamyatin_House_in_Lebedyan.jpg"
+ }
+}

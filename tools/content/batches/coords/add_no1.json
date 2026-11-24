@@ -1,0 +1,116 @@
+{
+ "no-karl-johan": {
+  "lat": 59.91305556,
+  "lon": 10.74083333,
+  "st": "Karl Johans gate (Norwegian Wikipedia, article coordinates)",
+  "su": "https://no.wikipedia.org/wiki/Karl_Johans_gate"
+ },
+ "no-besseggen": {
+  "lat": 61.501667,
+  "lon": 8.721111,
+  "st": "Besseggen (Norwegian Wikipedia, article coordinates)",
+  "su": "https://no.wikipedia.org/wiki/Besseggen"
+ },
+ "no-fjaere": {
+  "lat": 58.36609722,
+  "lon": 8.59487778,
+  "st": "Fjære kirke (Norwegian Wikipedia, article coordinates)",
+  "su": "https://no.wikipedia.org/wiki/Fj%C3%A6re_kirke"
+ },
+ "no-bjerkebaek": {
+  "lat": 61.123045,
+  "lon": 10.468705,
+  "st": "Bjerkebæk (Norwegian Wikipedia, article coordinates)",
+  "su": "https://no.wikipedia.org/wiki/Bjerkeb%C3%A6k"
+ },
+ "no-aulestad": {
+  "lat": 61.22038889,
+  "lon": 10.26997222,
+  "st": "Aulestad (Norwegian Wikipedia, article coordinates)",
+  "su": "https://no.wikipedia.org/wiki/Aulestad"
+ },
+ "no-stavanger": {
+  "lat": 58.97,
+  "lon": 5.73138889,
+  "st": "Stavanger (Norwegian Wikipedia, article coordinates)",
+  "su": "https://no.wikipedia.org/wiki/Stavanger"
+ },
+ "no-berlevag": {
+  "lat": 70.857,
+  "lon": 29.093,
+  "st": "Berlevåg (Norwegian Wikipedia, article coordinates)",
+  "su": "https://no.wikipedia.org/wiki/Berlev%C3%A5g"
+ },
+ "no-tromoya": {
+  "lat": 58.466412,
+  "lon": 8.850174,
+  "st": "Tromøy (Norwegian Wikipedia, article coordinates)",
+  "su": "https://no.wikipedia.org/wiki/Trom%C3%B8y"
+ },
+ "no-vinje": {
+  "lat": 59.801389,
+  "lon": 7.779167,
+  "st": "Vinje (Norwegian Wikipedia, article coordinates)",
+  "su": "https://no.wikipedia.org/wiki/Vinje"
+ },
+ "no-tinnsjo": {
+  "lat": 59.885,
+  "lon": 8.92,
+  "st": "Tinnsjå (Norwegian Wikipedia, article coordinates)",
+  "su": "https://no.wikipedia.org/wiki/Tinnsj%C3%A5"
+ },
+ "no-stiklestad": {
+  "lat": 63.79611111,
+  "lon": 11.55861111,
+  "st": "Stiklestad (Norwegian Wikipedia, article coordinates)",
+  "su": "https://no.wikipedia.org/wiki/Stiklestad"
+ },
+ "no-alstahaug": {
+  "lat": 65.894,
+  "lon": 12.3978,
+  "st": "Alstahaug kirke (Norwegian Wikipedia, article coordinates)",
+  "su": "https://no.wikipedia.org/wiki/Alstahaug_kirke"
+ },
+ "no-jorundgard": {
+  "lat": 61.8458,
+  "lon": 9.43146,
+  "st": "Jørundgard Middelaldersenter (Norwegian Wikipedia, article coordinates)",
+  "su": "https://no.wikipedia.org/wiki/J%C3%B8rundgard_Middelaldersenter"
+ },
+ "no-holberg-bergen": {
+  "lat": 60.39413889,
+  "lon": 5.32613889,
+  "st": "Vågsallmenningen (Norwegian Wikipedia, article coordinates)",
+  "su": "https://no.wikipedia.org/wiki/V%C3%A5gsallmenningen"
+ },
+ "no-kon-tiki": {
+  "lat": 59.903611,
+  "lon": 10.698056,
+  "st": "Kon-Tiki Museet (Norwegian Wikipedia, article coordinates)",
+  "su": "https://no.wikipedia.org/wiki/Kon-Tiki_Museet"
+ },
+ "no-hamsun": {
+  "lat": 68.08472222,
+  "lon": 15.64555556,
+  "st": "Hamsunsenteret (Norwegian Wikipedia, article coordinates)",
+  "su": "https://no.wikipedia.org/wiki/Hamsunsenteret"
+ },
+ "no-eidsvoll": {
+  "lat": 60.319798,
+  "lon": 11.246181,
+  "st": "Eidsvoll prestegård (Norwegian Wikipedia, article coordinates)",
+  "su": "https://no.wikipedia.org/wiki/Eidsvoll_presteg%C3%A5rd"
+ },
+ "no-tonsberg": {
+  "lat": 59.27196,
+  "lon": 10.40392,
+  "st": "Slottsfjellet (Norwegian Wikipedia, article coordinates)",
+  "su": "https://no.wikipedia.org/wiki/Slottsfjellet"
+ },
+ "no-ibsen-museum": {
+  "lat": 59.9152,
+  "lon": 10.727,
+  "st": "Ibsen Museum (Oslo) (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Ibsen_Museum_%28Oslo%29"
+ }
+}

@@ -1,0 +1,194 @@
+{
+ "jp-dogo": {
+  "lat": 33.852056,
+  "lon": 132.786389,
+  "st": "道後温泉本館 (Japanese Wikipedia, article coordinates)",
+  "su": "https://ja.wikipedia.org/wiki/%E9%81%93%E5%BE%8C%E6%B8%A9%E6%B3%89%E6%9C%AC%E9%A4%A8"
+ },
+ "jp-sanshiro-pond": {
+  "lat": 35.712694,
+  "lon": 139.761778,
+  "st": "東京大学本郷地区キャンパス (Japanese Wikipedia, article coordinates)",
+  "su": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%A6%E6%9C%AC%E9%83%B7%E5%9C%B0%E5%8C%BA%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%91%E3%82%B9"
+ },
+ "jp-yamadera": {
+  "lat": 38.312556,
+  "lon": 140.437389,
+  "st": "立石寺 (Japanese Wikipedia, article coordinates)",
+  "su": "https://ja.wikipedia.org/wiki/%E7%AB%8B%E7%9F%B3%E5%AF%BA"
+ },
+ "jp-matsushima": {
+  "lat": 38.3556,
+  "lon": 141.0764,
+  "st": "松島 (Japanese Wikipedia, article coordinates)",
+  "su": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B3%B6"
+ },
+ "jp-izumozaki": {
+  "lat": 37.53072,
+  "lon": 138.70933,
+  "st": "出雲崎町 (Japanese Wikipedia, article coordinates)",
+  "su": "https://ja.wikipedia.org/wiki/%E5%87%BA%E9%9B%B2%E5%B4%8E%E7%94%BA"
+ },
+ "jp-shibutami": {
+  "lat": 39.846028,
+  "lon": 141.171167,
+  "st": "石川啄木記念館 (Japanese Wikipedia, article coordinates)",
+  "su": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%B7%9D%E5%95%84%E6%9C%A8%E8%A8%98%E5%BF%B5%E9%A4%A8"
+ },
+ "jp-atami": {
+  "lat": 35.098972,
+  "lon": 139.076778,
+  "st": "お宮の松 (Japanese Wikipedia, article coordinates)",
+  "su": "https://ja.wikipedia.org/wiki/%E3%81%8A%E5%AE%AE%E3%81%AE%E6%9D%BE"
+ },
+ "jp-ishiyama": {
+  "lat": 34.960419,
+  "lon": 135.905625,
+  "st": "石山寺 (Japanese Wikipedia, article coordinates)",
+  "su": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%B1%B1%E5%AF%BA"
+ },
+ "jp-kappabashi": {
+  "lat": 36.248694,
+  "lon": 137.637972,
+  "st": "河童橋 (Japanese Wikipedia, article coordinates)",
+  "su": "https://ja.wikipedia.org/wiki/%E6%B2%B3%E7%AB%A5%E6%A9%8B"
+ },
+ "jp-kinosaki": {
+  "lat": 35.627778,
+  "lon": 134.8,
+  "st": "城崎温泉 (Japanese Wikipedia, article coordinates)",
+  "su": "https://ja.wikipedia.org/wiki/%E5%9F%8E%E5%B4%8E%E6%B8%A9%E6%B3%89"
+ },
+ "jp-heian": {
+  "lat": 35.016667,
+  "lon": 135.782222,
+  "st": "平安神宮 (Japanese Wikipedia, article coordinates)",
+  "su": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E5%AE%89%E7%A5%9E%E5%AE%AE"
+ },
+ "jp-kodomari": {
+  "lat": 41.1314,
+  "lon": 140.3064,
+  "st": "小泊村 (Japanese Wikipedia, article coordinates)",
+  "su": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%B3%8A%E6%9D%91"
+ },
+ "jp-toshodaiji": {
+  "lat": 34.675583,
+  "lon": 135.784833,
+  "st": "唐招提寺 (Japanese Wikipedia, article coordinates)",
+  "su": "https://ja.wikipedia.org/wiki/%E5%94%90%E6%8B%9B%E6%8F%90%E5%AF%BA"
+ },
+ "jp-katsurahama": {
+  "lat": 33.495497,
+  "lon": 133.573836,
+  "st": "桂浜 (Japanese Wikipedia, article coordinates)",
+  "su": "https://ja.wikipedia.org/wiki/%E6%A1%82%E6%B5%9C"
+ },
+ "jp-kashii": {
+  "lat": 33.659528,
+  "lon": 130.444111,
+  "st": "香椎駅 (Japanese Wikipedia, article coordinates)",
+  "su": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%A4%8E%E9%A7%85"
+ },
+ "jp-takamatsu": {
+  "lat": 34.350683,
+  "lon": 134.046939,
+  "st": "高松駅 (香川県) (Japanese Wikipedia, article coordinates)",
+  "su": "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%9D%BE%E9%A7%85_(%E9%A6%99%E5%B7%9D%E7%9C%8C)"
+ },
+ "jp-matsue": {
+  "lat": 35.479283,
+  "lon": 133.049428,
+  "st": "小泉八雲旧居 (Japanese Wikipedia, article coordinates)",
+  "su": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%B3%89%E5%85%AB%E9%9B%B2%E6%97%A7%E5%B1%85"
+ },
+ "jp-chiri": {
+  "lat": 42.451361,
+  "lon": 141.167139,
+  "st": "知里幸恵 銀のしずく記念館 (Japanese Wikipedia, article coordinates)",
+  "su": "https://ja.wikipedia.org/wiki/%E7%9F%A5%E9%87%8C%E5%B9%B8%E6%81%B5_%E9%8A%80%E3%81%AE%E3%81%97%E3%81%9A%E3%81%8F%E8%A8%98%E5%BF%B5%E9%A4%A8"
+ },
+ "jp-miura": {
+  "lat": 43.753583,
+  "lon": 142.347833,
+  "st": "三浦綾子記念文学館 (Japanese Wikipedia, article coordinates)",
+  "su": "https://ja.wikipedia.org/wiki/%E4%B8%89%E6%B5%A6%E7%B6%BE%E5%AD%90%E8%A8%98%E5%BF%B5%E6%96%87%E5%AD%A6%E9%A4%A8"
+ },
+ "jp-inasa": {
+  "lat": 32.753361,
+  "lon": 129.849333,
+  "st": "稲佐山 (Japanese Wikipedia, article coordinates)",
+  "su": "https://ja.wikipedia.org/wiki/%E7%A8%B2%E4%BD%90%E5%B1%B1"
+ },
+ "jp-magome": {
+  "lat": 35.526775,
+  "lon": 137.568067,
+  "st": "Magome-juku (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Magome-juku"
+ },
+ "jp-zoshigaya": {
+  "lat": 35.722753,
+  "lon": 139.719764,
+  "st": "Zōshigaya Cemetery (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Z%C5%8Dshigaya_Cemetery"
+ },
+ "jp-dazaifu": {
+  "lat": 33.516778,
+  "lon": 130.513472,
+  "st": "坂本八幡宮 (Japanese Wikipedia, article coordinates)",
+  "su": "https://ja.wikipedia.org/wiki/%E5%9D%82%E6%9C%AC%E5%85%AB%E5%B9%A1%E5%AE%AE"
+ },
+ "jp-suma": {
+  "lat": 34.642444,
+  "lon": 135.097833,
+  "st": "須磨浦公園 (Japanese Wikipedia, article coordinates)",
+  "su": "https://ja.wikipedia.org/wiki/%E9%A0%88%E7%A3%A8%E6%B5%A6%E5%85%AC%E5%9C%92"
+ },
+ "jp-oama": {
+  "lat": 32.86469,
+  "lon": 130.59314,
+  "st": "天水町 (Japanese Wikipedia, article coordinates)",
+  "su": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E6%B0%B4%E7%94%BA"
+ },
+ "jp-takase": {
+  "lat": 35.012278,
+  "lon": 135.769806,
+  "st": "高瀬川一之船入 (Japanese Wikipedia, article coordinates)",
+  "su": "https://ja.wikipedia.org/wiki/%E9%AB%98%E7%80%AC%E5%B7%9D%E4%B8%80%E4%B9%8B%E8%88%B9%E5%85%A5"
+ },
+ "jp-yashima": {
+  "lat": 34.357917,
+  "lon": 134.10125,
+  "st": "屋島寺 (Japanese Wikipedia, article coordinates)",
+  "su": "https://ja.wikipedia.org/wiki/%E5%B1%8B%E5%B3%B6%E5%AF%BA"
+ },
+ "jp-yakushima": {
+  "lat": 30.343889,
+  "lon": 130.523889,
+  "st": "Yakushima (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Yakushima"
+ },
+ "jp-kamishima": {
+  "lat": 34.548611,
+  "lon": 136.986389,
+  "st": "神島灯台 (Japanese Wikipedia, article coordinates)",
+  "su": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E5%B3%B6%E7%81%AF%E5%8F%B0"
+ },
+ "jp-hanamaki": {
+  "lat": 39.38861,
+  "lon": 141.11692,
+  "st": "花巻市 (Japanese Wikipedia, article coordinates)",
+  "su": "https://ja.wikipedia.org/wiki/%E8%8A%B1%E5%B7%BB%E5%B8%82"
+ },
+ "jp-urakami": {
+  "lat": 32.776155,
+  "lon": 129.868387,
+  "st": "カトリック浦上教会 (Japanese Wikipedia, article coordinates)",
+  "su": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E6%B5%A6%E4%B8%8A%E6%95%99%E4%BC%9A"
+ },
+ "jp-nikko": {
+  "lat": 36.752083,
+  "lon": 139.604033,
+  "st": "Nikkō Kanaya Hotel (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Nikk%C5%8D_Kanaya_Hotel"
+ }
+}

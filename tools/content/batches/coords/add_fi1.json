@@ -1,0 +1,44 @@
+{
+ "fi-palojoki": {
+  "lat": 60.41950483,
+  "lon": 24.872465,
+  "st": "Palojoki (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Palojoki"
+ },
+ "fi-jutas": {
+  "lat": 63.49555556,
+  "lon": 22.52472222,
+  "st": "Battle of Jutas (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Battle_of_Jutas"
+ },
+ "fi-paikkari": {
+  "lat": 60.35236,
+  "lon": 23.80493,
+  "st": "Paikkari Croft (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Paikkari_Croft"
+ },
+ "fi-moomin": {
+  "lat": 61.49805556,
+  "lon": 23.75055556,
+  "st": "Moomin Museum (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Moomin_Museum"
+ },
+ "fi-kittila": {
+  "lat": 67.65194444,
+  "lon": 24.90944444,
+  "st": "Kittilä (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Kittil%C3%A4"
+ },
+ "fi-paltaniemi": {
+  "lat": 64.28083333,
+  "lon": 27.65166667,
+  "st": "Paltaniemi (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Paltaniemi"
+ },
+ "fi-kuopio": {
+  "lat": 62.8925,
+  "lon": 27.67833333,
+  "st": "Kuopio (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Kuopio"
+ }
+}

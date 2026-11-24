@@ -1,0 +1,427 @@
+{
+"cz-hrad": {
+"lat": 50.091056,
+"lon": 14.401667,
+"n": 92,
+"st": "Category:Prague Castle (Wikimedia Commons, median of 92 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Prague_Castle"
+},
+"cz-svaty-vit": {
+"lat": 50.090809,
+"lon": 14.400362,
+"n": 3,
+"st": "Category:St. Vitus Cathedral (Wikimedia Commons, median of 3 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:St._Vitus_Cathedral"
+},
+"cz-kafka-rodny": {
+"lat": 50.087719,
+"lon": 14.419121,
+"n": 19,
+"st": "Category:Náměstí Franze Kafky (Wikimedia Commons, median of 19 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:N%C3%A1m%C4%9Bst%C3%AD_Franze_Kafky"
+},
+"cz-kafka-hrob": {
+"lat": 50.079796,
+"lon": 14.47755,
+"n": 5,
+"st": "Category:Grave of Franz Kafka (Wikimedia Commons, median of 5 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Grave_of_Franz_Kafka"
+},
+"cz-vysehrad": {
+"lat": 50.064522,
+"lon": 14.417417,
+"n": 3,
+"st": "Category:Vyšehrad (Wikimedia Commons, median of 3 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Vy%C5%A1ehrad"
+},
+"cz-mala-strana": {
+"lat": 50.08799,
+"lon": 14.403884,
+"n": 104,
+"st": "Category:Malostranské náměstí (Prague) (Wikimedia Commons, median of 104 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Malostransk%C3%A9_n%C3%A1m%C4%9Bst%C3%AD_(Prague)"
+},
+"cz-nerudova": {
+"lat": 50.088582,
+"lon": 14.397224,
+"n": 10,
+"st": "Category:Dům U Dvou slunců (Wikimedia Commons, median of 10 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:D%C5%AFm_U_Dvou_slunc%C5%AF"
+},
+"cz-u-kalicha": {
+"lat": 50.073484,
+"lon": 14.427803,
+"n": 1,
+"st": "Category:U Kalicha (Prague) (Wikimedia Commons, median of 1 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:U_Kalicha_(Prague)"
+},
+"cz-strelecky-ostrov": {
+"lat": 50.081444,
+"lon": 14.40975,
+"n": 45,
+"st": "Category:Střelecký ostrov (Prague) (Wikimedia Commons, median of 45 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:St%C5%99eleck%C3%BD_ostrov_(Prague)"
+},
+"cz-staronova": {
+"lat": 50.090067,
+"lon": 14.418493,
+"n": 31,
+"st": "Category:Old New Synagogue (Wikimedia Commons, median of 31 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Old_New_Synagogue"
+},
+"cz-stary-zidovsky-hrbitov": {
+"lat": 50.089818,
+"lon": 14.417222,
+"n": 25,
+"st": "Category:Jewish cemetery Prague-Josefov (Wikimedia Commons, median of 25 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Jewish_cemetery_Prague-Josefov"
+},
+"cz-staromestske-namesti": {
+"lat": 50.0877,
+"lon": 14.421122,
+"n": 61,
+"st": "Category:Kinský Palace (Prague) (Wikimedia Commons, median of 61 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Kinsk%C3%BD_Palace_(Prague)"
+},
+"cz-petrin": {
+"lat": 50.082644,
+"lon": 14.402175,
+"n": 17,
+"st": "Category:Petřín (Wikimedia Commons, median of 17 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Pet%C5%99%C3%ADn"
+},
+"cz-na-zabradli": {
+"lat": 50.085128,
+"lon": 14.414722,
+"n": 9,
+"st": "Category:Divadlo Na zábradlí (Wikimedia Commons, median of 9 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Divadlo_Na_z%C3%A1bradl%C3%AD"
+},
+"cz-spalena": {
+"lat": 50.080028,
+"lon": 14.419631,
+"n": 70,
+"st": "Category:Spálená (Prague) (Wikimedia Commons, median of 70 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Sp%C3%A1len%C3%A1_(Prague)"
+},
+"cz-cyril-metodej": {
+"lat": 50.075728,
+"lon": 14.416852,
+"n": 10,
+"st": "Category:Orthodox cathedral of Saints Cyril and Methodius (Prague) (Wikimedia Commons, median of 10 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Orthodox_cathedral_of_Saints_Cyril_and_Methodius_(Prague)"
+},
+"cz-rudolfinum": {
+"lat": 50.089296,
+"lon": 14.414374,
+"n": 73,
+"st": "Category:Rudolfinum (Prague) (Wikimedia Commons, median of 73 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Rudolfinum_(Prague)"
+},
+"cz-stinadla": {
+"lat": 50.091268,
+"lon": 14.424649,
+"n": 6,
+"st": "Category:Haštalské náměstí (Wikimedia Commons, median of 6 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Ha%C5%A1talsk%C3%A9_n%C3%A1m%C4%9Bst%C3%AD"
+},
+"cz-zbraslav": {
+"lat": 49.975167,
+"lon": 14.391537,
+"n": 2,
+"st": "Category:Vila Vladislava Vančury (Wikimedia Commons, median of 2 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Vila_Vladislava_Van%C4%8Dury"
+},
+"cz-karlstejn": {
+"lat": 49.93918,
+"lon": 14.187975,
+"n": 32,
+"st": "Category:Karlštejn (castle) (Wikimedia Commons, median of 32 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Karl%C5%A1tejn_(castle)"
+},
+"cz-blanik": {
+"lat": 49.643464,
+"lon": 14.872699,
+"n": 20,
+"st": "Category:Velký Blaník (nature reserve) (Wikimedia Commons, median of 20 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Velk%C3%BD_Blan%C3%ADk_(nature_reserve)"
+},
+"cz-kostomlaty": {
+"lat": 50.185686,
+"lon": 14.961784,
+"n": 2,
+"st": "Category:Kostomlaty nad Labem (train station) (Wikimedia Commons, median of 2 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Kostomlaty_nad_Labem_(train_station)"
+},
+"cz-nymburk": {
+"lat": 50.178484,
+"lon": 15.037847,
+"n": 14,
+"st": "Category:Nymburk Brewery (Wikimedia Commons, median of 14 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Nymburk_Brewery"
+},
+"cz-kersko": {
+"lat": 50.155444,
+"lon": 14.915767,
+"n": 26,
+"st": "Category:Kersko (Wikimedia Commons, median of 26 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Kersko"
+},
+"cz-stara-hut": {
+"lat": 49.773735,
+"lon": 14.20693,
+"n": 6,
+"st": "Category:Památník Karla Čapka (Wikimedia Commons, median of 6 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Pam%C3%A1tn%C3%ADk_Karla_%C4%8Capka"
+},
+"cz-putim": {
+"lat": 49.266415,
+"lon": 14.117362,
+"n": 25,
+"st": "Category:Putim (Wikimedia Commons, median of 25 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Putim"
+},
+"cz-pisek": {
+"lat": 49.309825,
+"lon": 14.146008,
+"n": 91,
+"st": "Category:Písek Stone Bridge (Wikimedia Commons, median of 91 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:P%C3%ADsek_Stone_Bridge"
+},
+"cz-zidovska-radnice": {
+"lat": 50.0899,
+"lon": 14.418354,
+"n": 13,
+"st": "Category:Jewish Town Hall (Prague) (Wikimedia Commons, median of 13 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Jewish_Town_Hall_(Prague)"
+},
+"cz-horni-plana": {
+"lat": 48.76546,
+"lon": 14.03488,
+"n": 1,
+"st": "Category:Birth house of Adalbert Stifter (Wikimedia Commons, median of 1 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Birth_house_of_Adalbert_Stifter"
+},
+"cz-vitkuv-kamen": {
+"lat": 48.645053,
+"lon": 14.103267,
+"st": "Vítkův kámen (Czech Wikipedia, article coordinates)",
+"su": "https://cs.wikipedia.org/wiki/V%C3%ADtk%C5%AFv_k%C3%A1men"
+},
+"cz-breznik": {
+"lat": 48.968406,
+"lon": 13.484224,
+"n": 13,
+"st": "Category:Březník (Modrava) (Wikimedia Commons, median of 13 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:B%C5%99ezn%C3%ADk_(Modrava)"
+},
+"cz-rip": {
+"lat": 50.382236,
+"lon": 14.298724,
+"n": 60,
+"st": "Category:Říp (Wikimedia Commons, median of 60 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:%C5%98%C3%ADp"
+},
+"cz-terezin": {
+"lat": 50.509335,
+"lon": 14.150867,
+"n": 2,
+"st": "Category:Terezín fortress (Wikimedia Commons, median of 2 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Terez%C3%ADn_fortress"
+},
+"cz-miletin": {
+"lat": 50.40467,
+"lon": 15.67841,
+"n": 4,
+"st": "Category:Birthplace of Karel Jaromír Erben (Wikimedia Commons, median of 4 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Birthplace_of_Karel_Jarom%C3%ADr_Erben"
+},
+"cz-hronov": {
+"lat": 50.48199,
+"lon": 16.18154,
+"n": 14,
+"st": "Category:Birth house of Alois Jirásek (Wikimedia Commons, median of 14 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Birth_house_of_Alois_Jir%C3%A1sek"
+},
+"cz-male-svatonovice": {
+"lat": 50.534127,
+"lon": 16.050331,
+"n": 1,
+"st": "Category:Muzeum bratří Čapků (Wikimedia Commons, median of 1 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Muzeum_brat%C5%99%C3%AD_%C4%8Capk%C5%AF"
+},
+"cz-nachod": {
+"lat": 50.416726,
+"lon": 16.162476,
+"n": 21,
+"st": "Category:Masarykovo náměstí (Náchod) (Wikimedia Commons, median of 21 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Masarykovo_n%C3%A1m%C4%9Bst%C3%AD_(N%C3%A1chod)"
+},
+"cz-rychnov": {
+"lat": 50.16289,
+"lon": 16.27457,
+"n": 7,
+"st": "Category:Rychnov nad Kněžnou (Wikimedia Commons, median of 7 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Rychnov_nad_Kn%C4%9B%C5%BEnou"
+},
+"cz-litomysl": {
+"lat": 49.873025,
+"lon": 16.312636,
+"n": 54,
+"st": "Category:Chateau Litomyšl (Wikimedia Commons, median of 54 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Chateau_Litomy%C5%A1l"
+},
+"cz-krematorium": {
+"lat": 50.019702,
+"lon": 15.776979,
+"n": 3,
+"st": "Category:Crematorium in Pardubice (Wikimedia Commons, median of 3 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Crematorium_in_Pardubice"
+},
+"cz-lipnice": {
+"lat": 49.613198,
+"lon": 15.414141,
+"n": 6,
+"st": "Category:Pomník Jaroslava Haška v Lipnici nad Sázavou (Wikimedia Commons, median of 6 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Pomn%C3%ADk_Jaroslava_Ha%C5%A1ka_v_Lipnici_nad_S%C3%A1zavou"
+},
+"cz-borova": {
+"lat": 49.633949,
+"lon": 15.737558,
+"n": 2,
+"st": "Category:Havlíčkova Borová (Wikimedia Commons, median of 2 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Havl%C3%AD%C4%8Dkova_Borov%C3%A1"
+},
+"cz-tugendhat": {
+"lat": 49.207222,
+"lon": 16.616175,
+"n": 19,
+"st": "Category:Villa Tugendhat (Wikimedia Commons, median of 19 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Villa_Tugendhat"
+},
+"cz-hranice": {
+"lat": 49.550316,
+"lon": 17.722965,
+"n": 9,
+"st": "Category:Vojenská akademie v Hranicích (Wikimedia Commons, median of 9 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Vojensk%C3%A1_akademie_v_Hranic%C3%ADch"
+},
+"cz-prostejov": {
+"lat": 49.472579,
+"lon": 17.110782,
+"n": 3,
+"st": "Category:Birth house of Jiří Wolker (Wikimedia Commons, median of 3 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Birth_house_of_Ji%C5%99%C3%AD_Wolker"
+},
+"cz-hotel-pariz": {
+"lat": 50.087994,
+"lon": 14.427051,
+"n": 20,
+"st": "Category:Hotel Paříž (Prague) (Wikimedia Commons, median of 20 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Hotel_Pa%C5%99%C3%AD%C5%BE_(Prague)"
+},
+"cz-hradecek": {
+"lat": 50.584809,
+"lon": 15.82882,
+"n": 9,
+"st": "Category:Hrádeček (Vlčice) (Wikimedia Commons, median of 9 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Hr%C3%A1de%C4%8Dek_(Vl%C4%8Dice)"
+},
+"cz-stare-hamry": {
+"lat": 49.443861,
+"lon": 18.45856,
+"n": 4,
+"st": "Category:Staré Hamry (Wikimedia Commons, median of 4 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Star%C3%A9_Hamry"
+},
+"cz-zlata-ulicka": {
+"lat": 50.092036,
+"lon": 14.404176,
+"st": "Zlatá ulička (Czech Wikipedia, article coordinates)",
+"su": "https://cs.wikipedia.org/wiki/Zlat%C3%A1_uli%C4%8Dka"
+},
+"cz-u-zlateho-tygra": {
+"lat": 50.085898,
+"lon": 14.418005,
+"st": "U Zlatého tygra (Czech Wikipedia, article coordinates)",
+"su": "https://cs.wikipedia.org/wiki/U_Zlat%C3%A9ho_tygra"
+},
+"cz-stavovske": {
+"lat": 50.086111,
+"lon": 14.423889,
+"st": "Stavovské divadlo (Czech Wikipedia, article coordinates)",
+"su": "https://cs.wikipedia.org/wiki/Stavovsk%C3%A9_divadlo"
+},
+"cz-zizkov": {
+"lat": 50.0872,
+"lon": 14.4628,
+"st": "Žižkov (Czech Wikipedia, article coordinates)",
+"su": "https://cs.wikipedia.org/wiki/%C5%BDi%C5%BEkov"
+},
+"cz-machovo-jezero": {
+"lat": 50.583056,
+"lon": 14.649722,
+"st": "Máchovo jezero (Czech Wikipedia, article coordinates)",
+"su": "https://cs.wikipedia.org/wiki/M%C3%A1chovo_jezero"
+},
+"cz-ratiborice": {
+"lat": 50.4365,
+"lon": 16.0432,
+"st": "Babiččino údolí (Czech Wikipedia, article coordinates)",
+"su": "https://cs.wikipedia.org/wiki/Babi%C4%8D%C4%8Dino_%C3%BAdol%C3%AD"
+},
+"cz-bilovice": {
+"lat": 49.247104,
+"lon": 16.672488,
+"st": "Bílovice nad Svitavou (Czech Wikipedia, article coordinates)",
+"su": "https://cs.wikipedia.org/wiki/B%C3%ADlovice_nad_Svitavou"
+},
+"cz-vlcnov": {
+"lat": 49.009902,
+"lon": 17.581831,
+"st": "Vlčnov (Czech Wikipedia, article coordinates)",
+"su": "https://cs.wikipedia.org/wiki/Vl%C4%8Dnov"
+},
+"cz-capkova-vila": {
+"lat": 50.074964,
+"lon": 14.46723,
+"st": "Dvojdům bratří Čapků (Czech Wikipedia, article coordinates)",
+"su": "https://cs.wikipedia.org/wiki/Dvojd%C5%AFm_brat%C5%99%C3%AD_%C4%8Capk%C5%AF"
+},
+"cz-marianske-lazne": {
+"lat": 49.964704,
+"lon": 12.70125,
+"st": "Mariánské Lázně (Czech Wikipedia, article coordinates)",
+"su": "https://cs.wikipedia.org/wiki/Mari%C3%A1nsk%C3%A9_L%C3%A1zn%C4%9B"
+},
+"cz-zdislavice": {
+"lat": 49.230012,
+"lon": 17.268888,
+"st": "Troubky-Zdislavice (Czech Wikipedia, article coordinates)",
+"su": "https://cs.wikipedia.org/wiki/Troubky-Zdislavice"
+},
+"cz-ostrava": {
+"lat": 49.8426,
+"lon": 18.3454,
+"st": "Důl Michal (Czech Wikipedia, article coordinates)",
+"su": "https://cs.wikipedia.org/wiki/D%C5%AFl_Michal"
+},
+"cz-litomerice": {
+"lat": 50.533559,
+"lon": 14.131899,
+"st": "Litoměřice (Czech Wikipedia, article coordinates)",
+"su": "https://cs.wikipedia.org/wiki/Litom%C4%9B%C5%99ice"
+},
+"cz-brandys-orlice": {
+"lat": 50.001976,
+"lon": 16.285341,
+"st": "Brandýs nad Orlicí (Czech Wikipedia, article coordinates)",
+"su": "https://cs.wikipedia.org/wiki/Brand%C3%BDs_nad_Orlic%C3%AD"
+},
+"cz-berounka": {
+"lat": 50.012965,
+"lon": 13.84298,
+"st": "Branov (Czech Wikipedia, article coordinates)",
+"su": "https://cs.wikipedia.org/wiki/Branov"
+}
+}

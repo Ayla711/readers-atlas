@@ -1,0 +1,248 @@
+{
+ "ch-rutli": {
+  "lat": 46.96888889,
+  "lon": 8.59277778,
+  "st": "Rütli (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/R%C3%BCtli"
+ },
+ "ch-hohle-gasse": {
+  "lat": 47.09233194,
+  "lon": 8.45316389,
+  "st": "Hohle Gasse (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Hohle_Gasse"
+ },
+ "ch-chillon": {
+  "lat": 46.41416667,
+  "lon": 6.9275,
+  "st": "Schloss Chillon (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Schloss_Chillon"
+ },
+ "ch-jungfrau": {
+  "lat": 46.538,
+  "lon": 7.9637,
+  "st": "Jungfrau (Berg) (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Jungfrau_%28Berg%29"
+ },
+ "ch-ile-st-pierre": {
+  "lat": 47.07083333,
+  "lon": 7.1425,
+  "st": "St. Petersinsel (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/St._Petersinsel"
+ },
+ "ch-lake-zurich": {
+  "lat": 47.25777778,
+  "lon": 8.64888889,
+  "st": "Zürichsee (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Z%C3%BCrichsee"
+ },
+ "ch-sumiswald": {
+  "lat": 47.033329,
+  "lon": 7.716668,
+  "st": "Sumiswald (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Sumiswald"
+ },
+ "ch-reichenbach": {
+  "lat": 46.71361111,
+  "lon": 8.1825,
+  "st": "Reichenbachfall (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Reichenbachfall"
+ },
+ "ch-vevey": {
+  "lat": 46.458233,
+  "lon": 6.848416,
+  "st": "Hôtel des Trois Couronnes (French Wikipedia, article coordinates)",
+  "su": "https://fr.wikipedia.org/wiki/H%C3%B4tel_des_Trois_Couronnes"
+ },
+ "ch-schweizerhof": {
+  "lat": 47.054555,
+  "lon": 8.310177,
+  "st": "Hotel Schweizerhof Luzern (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Hotel_Schweizerhof_Luzern"
+ },
+ "ch-twann": {
+  "lat": 47.0947,
+  "lon": 7.1562,
+  "st": "Twann (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Twann"
+ },
+ "ch-centre-durrenmatt": {
+  "lat": 47.00119,
+  "lon": 6.936536,
+  "st": "Centre Dürrenmatt Neuchâtel (French Wikipedia, article coordinates)",
+  "su": "https://fr.wikipedia.org/wiki/Centre_D%C3%BCrrenmatt_Neuch%C3%A2tel"
+ },
+ "ch-berzona": {
+  "lat": 46.20472222,
+  "lon": 8.66333333,
+  "st": "Berzona (Italian Wikipedia, article coordinates)",
+  "su": "https://it.wikipedia.org/wiki/Berzona"
+ },
+ "ch-montagnola": {
+  "lat": 45.98297,
+  "lon": 8.91897,
+  "st": "Museo Hermann Hesse (Italian Wikipedia, article coordinates)",
+  "su": "https://it.wikipedia.org/wiki/Museo_Hermann_Hesse"
+ },
+ "ch-biel": {
+  "lat": 47.13679,
+  "lon": 7.24674,
+  "st": "Biel/Bienne (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Biel/Bienne"
+ },
+ "ch-derborence": {
+  "lat": 46.278889,
+  "lon": 7.216389,
+  "st": "Lac de Derborence (French Wikipedia, article coordinates)",
+  "su": "https://fr.wikipedia.org/wiki/Lac_de_Derborence"
+ },
+ "ch-coppet": {
+  "lat": 46.315852,
+  "lon": 6.193048,
+  "st": "Château de Coppet (French Wikipedia, article coordinates)",
+  "su": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Coppet"
+ },
+ "ch-maienfeld": {
+  "lat": 47.008054,
+  "lon": 9.531111,
+  "st": "Maienfeld (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Maienfeld"
+ },
+ "ch-keller": {
+  "lat": 47.37275,
+  "lon": 8.54613,
+  "st": "Neumarkt (Zürich) (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Neumarkt_%28Z%C3%BCrich%29"
+ },
+ "ch-chur": {
+  "lat": 46.84829,
+  "lon": 9.53222,
+  "st": "Chur (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Chur"
+ },
+ "ch-clarens": {
+  "lat": 46.440528,
+  "lon": 6.893917,
+  "st": "Clarens (Vaud) (French Wikipedia, article coordinates)",
+  "su": "https://fr.wikipedia.org/wiki/Clarens_%28Vaud%29"
+ },
+ "ch-simplon": {
+  "lat": 46.249694,
+  "lon": 8.025068,
+  "st": "Simplonpass (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Simplonpass"
+ },
+ "ch-great-st-bernard": {
+  "lat": 45.868999,
+  "lon": 7.170641,
+  "st": "Hospice du Grand-Saint-Bernard (French Wikipedia, article coordinates)",
+  "su": "https://fr.wikipedia.org/wiki/Hospice_du_Grand-Saint-Bernard"
+ },
+ "ch-basel-erasmus": {
+  "lat": 47.55641,
+  "lon": 7.59224,
+  "st": "Basler Münster (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Basler_M%C3%BCnster"
+ },
+ "ch-leukerbad": {
+  "lat": 46.383326,
+  "lon": 7.633333,
+  "st": "Leukerbad (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Leukerbad"
+ },
+ "ch-montreux-palace": {
+  "lat": 46.438855,
+  "lon": 6.906785,
+  "st": "Fairmont Le Montreux Palace (French Wikipedia, article coordinates)",
+  "su": "https://fr.wikipedia.org/wiki/Fairmont_Le_Montreux_Palace"
+ },
+ "ch-lausanne": {
+  "lat": 46.521,
+  "lon": 6.631,
+  "st": "Lausanne (French Wikipedia, article coordinates)",
+  "su": "https://fr.wikipedia.org/wiki/Lausanne"
+ },
+ "ch-tegna": {
+  "lat": 46.18722222,
+  "lon": 8.74555556,
+  "st": "Tegna (Italian Wikipedia, article coordinates)",
+  "su": "https://it.wikipedia.org/wiki/Tegna"
+ },
+ "ch-ronco": {
+  "lat": 46.14388889,
+  "lon": 8.725,
+  "st": "Ronco sopra Ascona (Italian Wikipedia, article coordinates)",
+  "su": "https://it.wikipedia.org/wiki/Ronco_sopra_Ascona"
+ },
+ "ch-kilchberg": {
+  "lat": 47.324998,
+  "lon": 8.549174,
+  "st": "Kilchberg ZH (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Kilchberg_ZH"
+ },
+ "ch-diodati": {
+  "lat": 46.220235,
+  "lon": 6.183297,
+  "st": "Villa Diodati (French Wikipedia, article coordinates)",
+  "su": "https://fr.wikipedia.org/wiki/Villa_Diodati"
+ },
+ "ch-muzot": {
+  "lat": 46.3064,
+  "lon": 7.5401,
+  "st": "Château de Muzot (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Muzot"
+ },
+ "ch-la-chaux-de-fonds": {
+  "lat": 47.101397,
+  "lon": 6.825011,
+  "st": "La Chaux-de-Fonds (French Wikipedia, article coordinates)",
+  "su": "https://fr.wikipedia.org/wiki/La_Chaux-de-Fonds"
+ },
+ "ch-plainpalais": {
+  "lat": 46.198,
+  "lon": 6.1404,
+  "st": "Plaine de Plainpalais (French Wikipedia, article coordinates)",
+  "su": "https://fr.wikipedia.org/wiki/Plaine_de_Plainpalais"
+ },
+ "ch-bern-kirchenfeld": {
+  "lat": 46.94575,
+  "lon": 7.44857,
+  "st": "Kirchenfeldbrücke (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Kirchenfeldbr%C3%BCcke"
+ },
+ "ch-davos": {
+  "lat": 46.793029,
+  "lon": 9.821343,
+  "st": "Davos (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Davos"
+ },
+ "ch-fluntern": {
+  "lat": 47.38305556,
+  "lon": 8.57125,
+  "st": "Friedhof Fluntern (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Friedhof_Fluntern"
+ },
+ "ch-cimetiere-rois": {
+  "lat": 46.201944,
+  "lon": 6.136389,
+  "st": "Cimetière des Rois (French Wikipedia, article coordinates)",
+  "su": "https://fr.wikipedia.org/wiki/Cimeti%C3%A8re_des_Rois"
+ },
+ "ch-delices": {
+  "lat": 46.2076,
+  "lon": 6.1334,
+  "st": "Les Délices (French Wikipedia, article coordinates)",
+  "su": "https://fr.wikipedia.org/wiki/Les_D%C3%A9lices"
+ },
+ "ch-rigi": {
+  "lat": 47.05666667,
+  "lon": 8.48555556,
+  "st": "Rigi (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Rigi"
+ },
+ "ch-sils": {
+  "lat": 46.42888889,
+  "lon": 9.765,
+  "st": "Nietzsche-Haus Sils Maria (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Nietzsche-Haus_Sils_Maria"
+ }
+}

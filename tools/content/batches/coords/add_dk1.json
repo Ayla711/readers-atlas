@@ -1,0 +1,140 @@
+{
+ "dk-kronborg": {
+  "lat": 56.03889,
+  "lon": 12.62083333,
+  "st": "Kronborg (Danish Wikipedia, article coordinates)",
+  "su": "https://da.wikipedia.org/wiki/Kronborg"
+ },
+ "dk-borglum": {
+  "lat": 57.36902778,
+  "lon": 9.79933333,
+  "st": "Børglum Kloster (Danish Wikipedia, article coordinates)",
+  "su": "https://da.wikipedia.org/wiki/B%C3%B8rglum_Kloster"
+ },
+ "dk-silkeborg": {
+  "lat": 56.144075,
+  "lon": 9.54222778,
+  "st": "Silkeborgskovene (Danish Wikipedia, article coordinates)",
+  "su": "https://da.wikipedia.org/wiki/Silkeborgskovene"
+ },
+ "dk-munkemose": {
+  "lat": 55.3917,
+  "lon": 10.3828,
+  "st": "Munke Mose (Danish Wikipedia, article coordinates)",
+  "su": "https://da.wikipedia.org/wiki/Munke_Mose"
+ },
+ "dk-andersen-hus": {
+  "lat": 55.39872222,
+  "lon": 10.39086111,
+  "st": "H.C. Andersens Hus (Danish Wikipedia, article coordinates)",
+  "su": "https://da.wikipedia.org/wiki/H.C._Andersens_Hus"
+ },
+ "dk-little-mermaid": {
+  "lat": 55.69277778,
+  "lon": 12.59916667,
+  "st": "Den lille Havfrue (Danish Wikipedia, article coordinates)",
+  "su": "https://da.wikipedia.org/wiki/Den_lille_Havfrue"
+ },
+ "dk-gallehus": {
+  "lat": 54.95666667,
+  "lon": 8.81527778,
+  "st": "Gallehus (Danish Wikipedia, article coordinates)",
+  "su": "https://da.wikipedia.org/wiki/Gallehus"
+ },
+ "dk-randers": {
+  "lat": 56.45694444,
+  "lon": 10.03916667,
+  "st": "Randers (Danish Wikipedia, article coordinates)",
+  "su": "https://da.wikipedia.org/wiki/Randers"
+ },
+ "dk-christianshavn": {
+  "lat": 55.675,
+  "lon": 12.59166667,
+  "st": "Christianshavn (Danish Wikipedia, article coordinates)",
+  "su": "https://da.wikipedia.org/wiki/Christianshavn"
+ },
+ "dk-hedebygade": {
+  "lat": 55.66933889,
+  "lon": 12.54411667,
+  "st": "Hedebygade (Danish Wikipedia, article coordinates)",
+  "su": "https://da.wikipedia.org/wiki/Hedebygade"
+ },
+ "dk-rungstedlund": {
+  "lat": 55.88333333,
+  "lon": 12.54333333,
+  "st": "Rungstedlund (Danish Wikipedia, article coordinates)",
+  "su": "https://da.wikipedia.org/wiki/Rungstedlund"
+ },
+ "dk-assistens": {
+  "lat": 55.69083333,
+  "lon": 12.54944444,
+  "st": "Assistens Kirkegård (Danish Wikipedia, article coordinates)",
+  "su": "https://da.wikipedia.org/wiki/Assistens_Kirkeg%C3%A5rd"
+ },
+ "dk-soro": {
+  "lat": 55.43016667,
+  "lon": 11.55675,
+  "st": "Sorø Klosterkirke (Danish Wikipedia, article coordinates)",
+  "su": "https://da.wikipedia.org/wiki/Sor%C3%B8_Klosterkirke"
+ },
+ "dk-anholt": {
+  "lat": 56.7,
+  "lon": 11.56666667,
+  "st": "Anholt (Danish Wikipedia, article coordinates)",
+  "su": "https://da.wikipedia.org/wiki/Anholt"
+ },
+ "dk-thisted": {
+  "lat": 56.95583333,
+  "lon": 8.6925,
+  "st": "Thisted (Danish Wikipedia, article coordinates)",
+  "su": "https://da.wikipedia.org/wiki/Thisted"
+ },
+ "dk-marstal": {
+  "lat": 54.85472222,
+  "lon": 10.51666667,
+  "st": "Marstal (Danish Wikipedia, article coordinates)",
+  "su": "https://da.wikipedia.org/wiki/Marstal"
+ },
+ "dk-als": {
+  "lat": 55.0,
+  "lon": 9.88333333,
+  "st": "Als (Danish Wikipedia, article coordinates)",
+  "su": "https://da.wikipedia.org/wiki/Als"
+ },
+ "dk-vederso": {
+  "lat": 56.23,
+  "lon": 8.2,
+  "st": "Vedersø (Danish Wikipedia, article coordinates)",
+  "su": "https://da.wikipedia.org/wiki/Veders%C3%B8"
+ },
+ "dk-lejre": {
+  "lat": 55.61666667,
+  "lon": 11.96666667,
+  "st": "Gammel Lejre (Danish Wikipedia, article coordinates)",
+  "su": "https://da.wikipedia.org/wiki/Gammel_Lejre"
+ },
+ "dk-gammeltorv": {
+  "lat": 55.67828611,
+  "lon": 12.57195278,
+  "st": "Gammeltorv (København) (Danish Wikipedia, article coordinates)",
+  "su": "https://da.wikipedia.org/wiki/Gammeltorv_%28K%C3%B8benhavn%29"
+ },
+ "dk-indre-by": {
+  "lat": 55.68361111,
+  "lon": 12.58305556,
+  "st": "Indre By (København) (Danish Wikipedia, article coordinates)",
+  "su": "https://da.wikipedia.org/wiki/Indre_By_%28K%C3%B8benhavn%29"
+ },
+ "dk-tjele": {
+  "lat": 56.51055556,
+  "lon": 9.61138889,
+  "st": "Tjele Gods (Danish Wikipedia, article coordinates)",
+  "su": "https://da.wikipedia.org/wiki/Tjele_Gods"
+ },
+ "dk-nexo": {
+  "lat": 55.06361111,
+  "lon": 15.13222222,
+  "st": "Nexø (Danish Wikipedia, article coordinates)",
+  "su": "https://da.wikipedia.org/wiki/Nex%C3%B8"
+ }
+}

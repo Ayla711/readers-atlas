@@ -5828,6 +5828,186 @@
         "RO-RO32"
       ],
       "wash": {}
+    },
+    {
+      "code": "eg",
+      "iso": "EGY",
+      "name": "Egypt",
+      "name_zh": "埃及",
+      "short": "Egypt",
+      "short_zh": "埃及",
+      "region_term": {
+        "en": "governorate",
+        "zh": "省"
+      },
+      "bounds": [
+        24.6,
+        21.9,
+        37.0,
+        31.8
+      ],
+      "step": 0.008,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "EG-C": "EG-C",
+              "EG-GZ": "EG-GZ",
+              "EG-ALX": "EG-ALX",
+              "EG-KB": "EG-KB",
+              "EG-MNF": "EG-MNF",
+              "EG-GH": "EG-GH",
+              "EG-KFS": "EG-KFS",
+              "EG-BH": "EG-BH",
+              "EG-DK": "EG-DK",
+              "EG-DT": "EG-DT",
+              "EG-SHR": "EG-SHR",
+              "EG-PTS": "EG-PTS",
+              "EG-IS": "EG-IS",
+              "EG-SUZ": "EG-SUZ",
+              "EG-SIN": "EG-SIN",
+              "EG-JS": "EG-JS",
+              "EG-FYM": "EG-FYM",
+              "EG-BNS": "EG-BNS",
+              "EG-MN": "EG-MN",
+              "EG-AST": "EG-AST",
+              "EG-SHG": "EG-SHG",
+              "EG-KN": "EG-KN",
+              "EG-LX": "EG-LX",
+              "EG-ASN": "EG-ASN",
+              "EG-BA": "EG-BA",
+              "EG-WAD": "EG-WAD",
+              "EG-MT": "EG-MT"
+            }
+          }
+        ],
+        "names": {
+          "EG-C": [
+            "Cairo",
+            "开罗省"
+          ],
+          "EG-GZ": [
+            "Giza",
+            "吉萨省"
+          ],
+          "EG-ALX": [
+            "Alexandria",
+            "亚历山大省"
+          ],
+          "EG-KB": [
+            "Qalyubia",
+            "盖卢比尤省"
+          ],
+          "EG-MNF": [
+            "Monufia",
+            "米努夫省"
+          ],
+          "EG-GH": [
+            "Gharbia",
+            "西部省"
+          ],
+          "EG-KFS": [
+            "Kafr el-Sheikh",
+            "谢赫村省"
+          ],
+          "EG-BH": [
+            "Beheira",
+            "布海拉省"
+          ],
+          "EG-DK": [
+            "Dakahlia",
+            "代盖赫利耶省"
+          ],
+          "EG-DT": [
+            "Damietta",
+            "杜姆亚特省"
+          ],
+          "EG-SHR": [
+            "Sharqia",
+            "东部省"
+          ],
+          "EG-PTS": [
+            "Port Said",
+            "塞得港省"
+          ],
+          "EG-IS": [
+            "Ismailia",
+            "伊斯梅利亚省"
+          ],
+          "EG-SUZ": [
+            "Suez",
+            "苏伊士省"
+          ],
+          "EG-SIN": [
+            "North Sinai",
+            "北西奈省"
+          ],
+          "EG-JS": [
+            "South Sinai",
+            "南西奈省"
+          ],
+          "EG-FYM": [
+            "Faiyum",
+            "法尤姆省"
+          ],
+          "EG-BNS": [
+            "Beni Suef",
+            "贝尼苏韦夫省"
+          ],
+          "EG-MN": [
+            "Minya",
+            "明亚省"
+          ],
+          "EG-AST": [
+            "Asyut",
+            "艾斯尤特省"
+          ],
+          "EG-SHG": [
+            "Sohag",
+            "索哈杰省"
+          ],
+          "EG-KN": [
+            "Qena",
+            "基纳省"
+          ],
+          "EG-LX": [
+            "Luxor",
+            "卢克索省"
+          ],
+          "EG-ASN": [
+            "Aswan",
+            "阿斯旺省"
+          ],
+          "EG-BA": [
+            "Red Sea",
+            "红海省"
+          ],
+          "EG-WAD": [
+            "New Valley",
+            "新河谷省"
+          ],
+          "EG-MT": [
+            "Matrouh",
+            "马特鲁省"
+          ]
+        }
+      },
+      "data": [
+        "data/eg/geo.js",
+        "data/eg/books.js",
+        "data/eg/places.js",
+        "data/eg/lines.js"
+      ],
+      "open": true,
+      "small_regions": [
+        "EG-C",
+        "EG-PTS",
+        "EG-DT",
+        "EG-LX"
+      ],
+      "wash": {}
     }
   ]
 }

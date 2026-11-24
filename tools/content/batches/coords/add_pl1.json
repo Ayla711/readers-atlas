@@ -1,0 +1,422 @@
+{
+"pl-krakowskie-przedmiescie": {
+"lat": 52.241667,
+"lon": 21.015833,
+"st": "Ulica Krakowskie Przedmieście w Warszawie (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Ulica_Krakowskie_Przedmie%C5%9Bcie_w_Warszawie"
+},
+"pl-powisle": {
+"lat": 52.238611,
+"lon": 21.0275,
+"st": "Powiśle (Warszawa) (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Powi%C5%9Ble_%28Warszawa%29"
+},
+"pl-lazienki": {
+"lat": 52.214444,
+"lon": 21.031667,
+"st": "Łazienki Królewskie w Warszawie (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/%C5%81azienki_Kr%C3%B3lewskie_w_Warszawie"
+},
+"pl-zamek-krolewski": {
+"lat": 52.247778,
+"lon": 21.014167,
+"st": "Zamek Królewski w Warszawie (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Zamek_Kr%C3%B3lewski_w_Warszawie"
+},
+"pl-belweder": {
+"lat": 52.213056,
+"lon": 21.027222,
+"st": "Belweder w Warszawie (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Belweder_w_Warszawie"
+},
+"pl-plac-krasinskich": {
+"lat": 52.249167,
+"lon": 21.003611,
+"st": "Plac Krasińskich w Warszawie (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Plac_Krasi%C5%84skich_w_Warszawie"
+},
+"pl-stare-miasto": {
+"lat": 52.249722,
+"lon": 21.012222,
+"st": "Rynek Starego Miasta w Warszawie (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Rynek_Starego_Miasta_w_Warszawie"
+},
+"pl-pkin": {
+"lat": 52.231667,
+"lon": 21.006389,
+"st": "Pałac Kultury i Nauki (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Pa%C5%82ac_Kultury_i_Nauki"
+},
+"pl-krochmalna": {
+"lat": 52.23425,
+"lon": 20.978401,
+"st": "Dom Sierot (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Dom_Sierot"
+},
+"pl-powazki": {
+"lat": 52.251944,
+"lon": 20.972778,
+"st": "Cmentarz Powązkowski w Warszawie (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Cmentarz_Pow%C4%85zkowski_w_Warszawie"
+},
+"pl-czarnolas": {
+"lat": 51.430889,
+"lon": 21.710389,
+"st": "Muzeum Jana Kochanowskiego w Czarnolesie (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Muzeum_Jana_Kochanowskiego_w_Czarnolesie"
+},
+"pl-bronowice": {
+"lat": 50.087839,
+"lon": 19.878031,
+"st": "Rydlówka (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Rydl%C3%B3wka"
+},
+"pl-tyniec": {
+"lat": 50.019444,
+"lon": 19.801944,
+"st": "Opactwo Benedyktynów w Tyńcu (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Opactwo_Benedyktyn%C3%B3w_w_Ty%C5%84cu"
+},
+"pl-skalka": {
+"lat": 50.048333,
+"lon": 19.937778,
+"st": "Bazylika św. Michała Archanioła i św. Stanisława Biskupa w Krakowie (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Bazylika_%C5%9Bw._Micha%C5%82a_Archanio%C5%82a_i_%C5%9Bw._Stanis%C5%82awa_Biskupa_w_Krakowie"
+},
+"pl-fabryka-schindlera": {
+"lat": 50.047347,
+"lon": 19.960658,
+"st": "Fabryka Emalia Oskara Schindlera (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Fabryka_Emalia_Oskara_Schindlera"
+},
+"pl-peksowy-brzyzek": {
+"lat": 49.296917,
+"lon": 19.947178,
+"st": "Cmentarz Zasłużonych na Pęksowym Brzyzku (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Cmentarz_Zas%C5%82u%C5%BConych_na_P%C4%99ksowym_Brzyzku"
+},
+"pl-morskie-oko": {
+"lat": 49.196944,
+"lon": 20.07,
+"st": "Morskie Oko (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Morskie_Oko"
+},
+"pl-czarny-staw": {
+"lat": 49.231111,
+"lon": 20.018056,
+"st": "Czarny Staw Gąsienicowy (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Czarny_Staw_G%C4%85sienicowy"
+},
+"pl-auschwitz": {
+"lat": 50.035833,
+"lon": 19.178333,
+"st": "Auschwitz-Birkenau (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Auschwitz-Birkenau"
+},
+"pl-jasna-gora": {
+"lat": 50.8125,
+"lon": 19.097222,
+"st": "Jasna Góra (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Jasna_G%C3%B3ra"
+},
+"pl-wroclaw-glowny": {
+"lat": 51.098333,
+"lon": 17.037222,
+"st": "Wrocław Główny (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Wroc%C5%82aw_G%C5%82%C3%B3wny"
+},
+"pl-pieszyce": {
+"lat": 50.712222,
+"lon": 16.580833,
+"st": "Pieszyce (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Pieszyce"
+},
+"pl-sokolowsko": {
+"lat": 50.686944,
+"lon": 16.236389,
+"st": "Sokołowsko (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Soko%C5%82owsko"
+},
+"pl-nowa-ruda": {
+"lat": 50.580833,
+"lon": 16.500556,
+"st": "Nowa Ruda (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Nowa_Ruda"
+},
+"pl-gorzow": {
+"lat": 52.730833,
+"lon": 15.238333,
+"st": "Gorzów Wielkopolski (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Gorz%C3%B3w_Wielkopolski"
+},
+"pl-swinoujscie": {
+"lat": 53.907778,
+"lon": 14.2475,
+"st": "Świnoujście (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/%C5%9Awinouj%C5%9Bcie"
+},
+"pl-poczta-polska": {
+"lat": 54.355261,
+"lon": 18.656856,
+"st": "Muzeum Poczty Polskiej w Gdańsku (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Muzeum_Poczty_Polskiej_w_Gda%C5%84sku"
+},
+"pl-wrzeszcz": {
+"lat": 54.381944,
+"lon": 18.612778,
+"st": "Wrzeszcz (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Wrzeszcz"
+},
+"pl-oliwa": {
+"lat": 54.408056,
+"lon": 18.559167,
+"st": "Oliwa (Gdańsk) (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Oliwa_%28Gda%C5%84sk%29"
+},
+"pl-frombork": {
+"lat": 54.357011,
+"lon": 19.682122,
+"st": "Wzgórze Katedralne (Frombork) (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Wzg%C3%B3rze_Katedralne_%28Frombork%29"
+},
+"pl-lidzbark": {
+"lat": 54.125761,
+"lon": 20.582856,
+"st": "Zamek Biskupów Warmińskich w Lidzbarku Warmińskim (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Zamek_Biskup%C3%B3w_Warmi%C5%84skich_w_Lidzbarku_Warmi%C5%84skim"
+},
+"pl-bialowieza": {
+"lat": 52.766667,
+"lon": 23.866667,
+"st": "Białowieski Park Narodowy (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Bia%C5%82owieski_Park_Narodowy"
+},
+"pl-goplo": {
+"lat": 52.672136,
+"lon": 18.327203,
+"st": "Mysia Wieża (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Mysia_Wie%C5%BCa"
+},
+"pl-torun-kopernik": {
+"lat": 53.009222,
+"lon": 18.603944,
+"st": "Dom Kopernika w Toruniu (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Dom_Kopernika_w_Toruniu"
+},
+"pl-kalisz": {
+"lat": 51.760833,
+"lon": 18.086944,
+"st": "Kalisz (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Kalisz"
+},
+"pl-smielow": {
+"lat": 52.10645,
+"lon": 17.5712,
+"st": "Pałac w Śmiełowie (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Pa%C5%82ac_w_%C5%9Amie%C5%82owie"
+},
+"pl-piotrkowska": {
+"lat": 51.776111,
+"lon": 19.454722,
+"st": "Ulica Piotrkowska w Łodzi (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Ulica_Piotrkowska_w_%C5%81odzi"
+},
+"pl-swiety-krzyz": {
+"lat": 50.860278,
+"lon": 21.046944,
+"st": "Łysa Góra (Góry Świętokrzyskie) (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/%C5%81ysa_G%C3%B3ra_%28G%C3%B3ry_%C5%9Awi%C4%99tokrzyskie%29"
+},
+"pl-oblegorek": {
+"lat": 50.95747,
+"lon": 20.475688,
+"st": "Muzeum Henryka Sienkiewicza w Oblęgorku (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Muzeum_Henryka_Sienkiewicza_w_Obl%C4%99gorku"
+},
+"pl-sandomierz": {
+"lat": 50.679722,
+"lon": 21.749167,
+"st": "Sandomierz (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Sandomierz"
+},
+"pl-lublin": {
+"lat": 51.248889,
+"lon": 22.568889,
+"st": "Stare Miasto (Lublin) (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Stare_Miasto_%28Lublin%29"
+},
+"pl-kazimierz-dolny": {
+"lat": 51.322222,
+"lon": 21.9475,
+"st": "Kazimierz Dolny (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Kazimierz_Dolny"
+},
+"pl-naleczow": {
+"lat": 51.289444,
+"lon": 22.210556,
+"st": "Muzeum Stefana Żeromskiego w Nałęczowie (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Muzeum_Stefana_%C5%BBeromskiego_w_Na%C5%82%C4%99czowie"
+},
+"pl-odrzykon": {
+"lat": 49.742522,
+"lon": 21.786178,
+"st": "Zamek Kamieniec (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Zamek_Kamieniec"
+},
+"pl-zarnowiec": {
+"lat": 49.68798,
+"lon": 21.66856,
+"st": "Muzeum Marii Konopnickiej w Żarnowcu (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Muzeum_Marii_Konopnickiej_w_%C5%BBarnowcu"
+},
+"pl-dukla": {
+"lat": 49.555,
+"lon": 21.684444,
+"st": "Dukla (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Dukla"
+},
+"pl-opinogora": {
+"lat": 52.905612,
+"lon": 20.716314,
+"st": "Muzeum Romantyzmu w Opinogórze (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Muzeum_Romantyzmu_w_Opinog%C3%B3rze"
+},
+"pl-treblinka": {
+"lat": 52.631069,
+"lon": 22.053058,
+"st": "Obóz zagłady w Treblince (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Ob%C3%B3z_zag%C5%82ady_w_Treblince"
+},
+"pl-wawel": {
+"lat": 50.054444,
+"lon": 19.935278,
+"st": "Bazylika Archikatedralna św. Stanisława i św. Wacława w Krakowie (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Bazylika_Archikatedralna_%C5%9Bw._Stanis%C5%82awa_i_%C5%9Bw._Wac%C5%82awa_w_Krakowie"
+},
+"pl-mariacki": {
+"lat": 50.061667,
+"lon": 19.939444,
+"st": "Kościół Archiprezbiterialny Wniebowzięcia Najświętszej Marii Panny w Krakowie (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Ko%C5%9Bci%C3%B3%C5%82_Archiprezbiterialny_Wniebowzi%C4%99cia_Naj%C5%9Bwi%C4%99tszej_Marii_Panny_w_Krakowie"
+},
+"pl-nikiszowiec": {
+"lat": 50.243611,
+"lon": 19.082222,
+"st": "Nikiszowiec (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Nikiszowiec"
+},
+"pl-radiostacja": {
+"lat": 50.313389,
+"lon": 18.688964,
+"st": "Radiostacja gliwicka (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Radiostacja_gliwicka"
+},
+"pl-muzeum-pana-tadeusza": {
+"lat": 51.110417,
+"lon": 17.030583,
+"st": "Muzeum „Pana Tadeusza” (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Muzeum_%E2%80%9EPana_Tadeusza%E2%80%9D"
+},
+"pl-westerplatte": {
+"lat": 54.408516,
+"lon": 18.675385,
+"st": "Westerplatte (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Westerplatte"
+},
+"pl-malbork": {
+"lat": 54.040064,
+"lon": 19.028394,
+"st": "Zamek w Malborku (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Zamek_w_Malborku"
+},
+"pl-lipce": {
+"lat": 51.900278,
+"lon": 19.942222,
+"st": "Lipce Reymontowskie (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Lipce_Reymontowskie"
+},
+"pl-kielce": {
+"lat": 50.867911,
+"lon": 20.629472,
+"st": "Muzeum Stefana Żeromskiego (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Muzeum_Stefana_%C5%BBeromskiego"
+},
+"pl-sanok": {
+"lat": 49.56,
+"lon": 22.202222,
+"st": "Sanok (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Sanok"
+},
+"pl-umschlagplatz": {
+"lat": 52.25230833,
+"lon": 20.98907778,
+"st": "Umschlagplatz (English Wikipedia, article coordinates)",
+"su": "https://en.wikipedia.org/wiki/Umschlagplatz"
+},
+"pl-lubowice": {
+"lat": 50.159722,
+"lon": 18.23,
+"st": "Łubowice (województwo śląskie) (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/%C5%81ubowice_%28wojew%C3%B3dztwo_%C5%9Bl%C4%85skie%29"
+},
+"pl-jagniatkow": {
+"lat": 50.816849,
+"lon": 15.607869,
+"st": "Muzeum Miejskie „Dom Gerharta Hauptmanna” (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Muzeum_Miejskie_%E2%80%9EDom_Gerharta_Hauptmanna%E2%80%9D"
+},
+"pl-pranie": {
+"lat": 53.611111,
+"lon": 21.5,
+"st": "Muzeum Konstantego Ildefonsa Gałczyńskiego w Praniu (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Muzeum_Konstantego_Ildefonsa_Ga%C5%82czy%C5%84skiego_w_Praniu"
+},
+"pl-jezyce": {
+"lat": 52.412778,
+"lon": 16.903333,
+"st": "Jeżyce (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Je%C5%BCyce"
+},
+"pl-goraj": {
+"lat": 50.721389,
+"lon": 22.667222,
+"st": "Goraj (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Goraj"
+},
+"pl-wsola": {
+"lat": 51.486944,
+"lon": 21.122778,
+"st": "Wsola (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Wsola"
+},
+"pl-stawisko": {
+"lat": 52.126612,
+"lon": 20.703776,
+"st": "Stawisko (Podkowa Leśna) (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Stawisko_%28Podkowa_Le%C5%9Bna%29"
+},
+"pl-nysa": {
+"lat": 50.479842,
+"lon": 17.318925,
+"st": "Kościół Świętego Krzyża w Nysie (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Ko%C5%9Bci%C3%B3%C5%82_%C5%9Awi%C4%99tego_Krzy%C5%BCa_w_Nysie"
+},
+"pl-grunwald": {
+"lat": 53.485278,
+"lon": 20.091389,
+"st": "Grunwald (wieś w województwie warmińsko-mazurskim) (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Grunwald_%28wie%C5%9B_w_wojew%C3%B3dztwie_warmi%C5%84sko-mazurskim%29"
+},
+"pl-palac-poznanskiego": {
+"lat": 51.779111,
+"lon": 19.450822,
+"st": "Pałac Izraela Poznańskiego (Polish Wikipedia, article coordinates)",
+"su": "https://pl.wikipedia.org/wiki/Pa%C5%82ac_Izraela_Pozna%C5%84skiego"
+},
+"pl-radegast": {
+"lat": 51.80214,
+"lon": 19.480133,
+"st": "Radegast train station (English Wikipedia, article coordinates)",
+"su": "https://en.wikipedia.org/wiki/Radegast_train_station"
+}
+}

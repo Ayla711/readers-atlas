@@ -1,0 +1,308 @@
+{
+ "de-kickelhahn": {
+  "lat": 50.665556,
+  "lon": 10.881389,
+  "st": "Kickelhahn (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Kickelhahn"
+ },
+ "de-marbach": {
+  "lat": 48.93602,
+  "lon": 9.25665,
+  "st": "Deutsches Literaturarchiv Marbach (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Deutsches_Literaturarchiv_Marbach"
+ },
+ "de-heidelberg-old-bridge": {
+  "lat": 49.414253,
+  "lon": 8.709547,
+  "st": "Alte Brücke (Heidelberg) (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Alte_Br%C3%BCcke_(Heidelberg)"
+ },
+ "de-cologne-cathedral": {
+  "lat": 50.94129,
+  "lon": 6.95817,
+  "st": "Kölner Dom (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/K%C3%B6lner_Dom"
+ },
+ "de-kyffhaeuser": {
+  "lat": 51.413056,
+  "lon": 11.109722,
+  "st": "Kyffhäuserdenkmal (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Kyffh%C3%A4userdenkmal"
+ },
+ "de-grimmwelt": {
+  "lat": 51.3092,
+  "lon": 9.48927,
+  "st": "Grimmwelt Kassel (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Grimmwelt_Kassel"
+ },
+ "de-hanau-grimm": {
+  "lat": 50.132993,
+  "lon": 8.916988,
+  "st": "Brüder-Grimm-Nationaldenkmal (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Br%C3%BCder-Grimm-Nationaldenkmal"
+ },
+ "de-lusamgaertchen": {
+  "lat": 49.794083,
+  "lon": 9.93175,
+  "st": "Lusamgärtchen (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Lusamg%C3%A4rtchen"
+ },
+ "de-wartburg": {
+  "lat": 50.966111,
+  "lon": 10.306422,
+  "st": "Wartburg (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Wartburg"
+ },
+ "de-gelnhausen": {
+  "lat": 50.200833,
+  "lon": 9.191944,
+  "st": "Gelnhausen (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Gelnhausen"
+ },
+ "de-jagsthausen": {
+  "lat": 49.31215,
+  "lon": 9.46919,
+  "st": "Burg Jagsthausen (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Burg_Jagsthausen"
+ },
+ "de-fehrbellin": {
+  "lat": 52.814361,
+  "lon": 12.766139,
+  "st": "Fehrbellin (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Fehrbellin"
+ },
+ "de-kleist-museum": {
+  "lat": 52.3438,
+  "lon": 14.55728,
+  "st": "Kleist-Museum (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Kleist-Museum"
+ },
+ "de-novalis": {
+  "lat": 51.666319,
+  "lon": 11.530669,
+  "st": "Schloss Oberwiederstedt (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Schloss_Oberwiederstedt"
+ },
+ "de-dresden-albertplatz": {
+  "lat": 51.063306,
+  "lon": 13.746917,
+  "st": "Albertplatz (Dresden) (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Albertplatz_(Dresden)"
+ },
+ "de-huelshoff": {
+  "lat": 51.971621,
+  "lon": 7.503854,
+  "st": "Burg Hülshoff (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Burg_H%C3%BClshoff"
+ },
+ "de-meersburg": {
+  "lat": 47.693889,
+  "lon": 9.270278,
+  "st": "Burg Meersburg (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Burg_Meersburg"
+ },
+ "de-bellersen": {
+  "lat": 51.777222,
+  "lon": 9.191667,
+  "st": "Bellersen (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Bellersen"
+ },
+ "de-ribbeck": {
+  "lat": 52.624444,
+  "lon": 12.751667,
+  "st": "Ribbeck (Nauen) (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Ribbeck_(Nauen)"
+ },
+ "de-ebergoetzen": {
+  "lat": 51.5705,
+  "lon": 10.106635,
+  "st": "Wilhelm-Busch-Mühle (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Wilhelm-Busch-M%C3%BChle"
+ },
+ "de-radebeul": {
+  "lat": 51.102708,
+  "lon": 13.673517,
+  "st": "Karl-May-Museum (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Karl-May-Museum"
+ },
+ "de-hotel-elephant": {
+  "lat": 50.978889,
+  "lon": 11.330278,
+  "st": "Hotel Elephant (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Hotel_Elephant"
+ },
+ "de-maulbronn": {
+  "lat": 49.0011,
+  "lon": 8.8129,
+  "st": "Kloster Maulbronn (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Kloster_Maulbronn"
+ },
+ "de-augsburg-brechthaus": {
+  "lat": 48.369978,
+  "lon": 10.900085,
+  "st": "Brechthaus (Augsburg) (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Brechthaus_(Augsburg)"
+ },
+ "de-buckow": {
+  "lat": 52.567742,
+  "lon": 14.063033,
+  "st": "Brecht-Weigel-Haus (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Brecht-Weigel-Haus"
+ },
+ "de-dorotheenstadt": {
+  "lat": 52.528411,
+  "lon": 13.383704,
+  "st": "Friedhof der Dorotheenstädtischen und Friedrichswerderschen Gemeinden (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Friedhof_der_Dorotheenst%C3%A4dtischen_und_Friedrichswerderschen_Gemeinden"
+ },
+ "de-rheinsberg": {
+  "lat": 53.098611,
+  "lon": 12.889444,
+  "st": "Schloss Rheinsberg (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Schloss_Rheinsberg"
+ },
+ "de-gendarmenmarkt": {
+  "lat": 52.513611,
+  "lon": 13.392222,
+  "st": "Schauspielhaus (Berlin) (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Schauspielhaus_(Berlin)"
+ },
+ "de-landungsbruecken": {
+  "lat": 53.546111,
+  "lon": 9.966667,
+  "st": "St. Pauli-Landungsbrücken (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/St._Pauli-Landungsbr%C3%BCcken"
+ },
+ "de-seebuell": {
+  "lat": 54.884056,
+  "lon": 8.773611,
+  "st": "Nolde Stiftung Seebüll (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Nolde_Stiftung_Seeb%C3%BCll"
+ },
+ "de-telgte": {
+  "lat": 51.98428,
+  "lon": 7.78564,
+  "st": "Telgte (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Telgte"
+ },
+ "de-kluetz": {
+  "lat": 53.966667,
+  "lon": 11.166667,
+  "st": "Klütz (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Kl%C3%BCtz"
+ },
+ "de-wertach": {
+  "lat": 47.603333,
+  "lon": 10.408889,
+  "st": "Wertach (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Wertach"
+ },
+ "de-scharmuetzelsee": {
+  "lat": 52.25,
+  "lon": 14.05,
+  "st": "Scharmützelsee (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Scharm%C3%BCtzelsee"
+ },
+ "de-hiddensee": {
+  "lat": 54.585194,
+  "lon": 13.103778,
+  "st": "Gerhart-Hauptmann-Museum (Hiddensee) (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Gerhart-Hauptmann-Museum_(Hiddensee)"
+ },
+ "de-sonnenallee": {
+  "lat": 52.474939,
+  "lon": 13.4536,
+  "st": "Sonnenallee (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Sonnenallee"
+ },
+ "de-runde-ecke": {
+  "lat": 51.341742,
+  "lon": 12.370048,
+  "st": "Gedenkstätte Museum in der „Runden Ecke“ (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Gedenkst%C3%A4tte_Museum_in_der_%E2%80%9ERunden_Ecke%E2%80%9C"
+ },
+ "de-drachenfels": {
+  "lat": 50.665278,
+  "lon": 7.209722,
+  "st": "Drachenfels (Siebengebirge) (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Drachenfels_(Siebengebirge)"
+ },
+ "de-bad-woerishofen": {
+  "lat": 48.002778,
+  "lon": 10.5925,
+  "st": "Bad Wörishofen (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen"
+ },
+ "de-ansbach": {
+  "lat": 49.300833,
+  "lon": 10.571667,
+  "st": "Ansbach (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Ansbach"
+ },
+ "de-lichtenstein": {
+  "lat": 48.406639,
+  "lon": 9.25825,
+  "st": "Schloss Lichtenstein (Württemberg) (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Schloss_Lichtenstein_(W%C3%BCrttemberg)"
+ },
+ "de-buchenwald": {
+  "lat": 51.022143,
+  "lon": 11.249046,
+  "st": "KZ Buchenwald (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/KZ_Buchenwald"
+ },
+ "de-odeonsplatz": {
+  "lat": 48.143571,
+  "lon": 11.578029,
+  "st": "Odeonsplatz (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Odeonsplatz"
+ },
+ "de-trier-marx": {
+  "lat": 49.753906,
+  "lon": 6.635749,
+  "st": "Karl-Marx-Haus (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Karl-Marx-Haus"
+ },
+ "de-ruegen": {
+  "lat": 54.573056,
+  "lon": 13.6625,
+  "st": "Königsstuhl (Rügen) (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/K%C3%B6nigsstuhl_(R%C3%BCgen)"
+ },
+ "de-bahnhof-zoo": {
+  "lat": 52.5072,
+  "lon": 13.3325,
+  "st": "Bahnhof Berlin Zoologischer Garten (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Bahnhof_Berlin_Zoologischer_Garten"
+ },
+ "de-bebelplatz": {
+  "lat": 52.516389,
+  "lon": 13.393889,
+  "st": "Bebelplatz (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Bebelplatz"
+ },
+ "de-naumburg-nietzsche": {
+  "lat": 51.15004,
+  "lon": 11.81256,
+  "st": "Nietzsche-Haus Naumburg (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Nietzsche-Haus_Naumburg"
+ },
+ "de-halle": {
+  "lat": 51.482798,
+  "lon": 11.969735,
+  "st": "Marktplatz (Halle (Saale)) (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Marktplatz_(Halle_(Saale))"
+ },
+ "de-lmu-lichthof": {
+  "lat": 48.150833,
+  "lon": 11.580278,
+  "st": "Hauptgebäude der Ludwig-Maximilians-Universität München (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Hauptgeb%C3%A4ude_der_Ludwig-Maximilians-Universit%C3%A4t_M%C3%BCnchen"
+ },
+ "de-goettingen-rathaus": {
+  "lat": 51.532878,
+  "lon": 9.934681,
+  "st": "Altes Rathaus (Göttingen) (German Wikipedia, article coordinates)",
+  "su": "https://de.wikipedia.org/wiki/Altes_Rathaus_(G%C3%B6ttingen)"
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "ua-kaniv": {
+  "lat": 49.73305556,
+  "lon": 31.51472222,
+  "st": "Taras Hill (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Taras_Hill"
+ },
+ "ua-nechymne": {
+  "lat": 51.29038,
+  "lon": 24.87442,
+  "st": "Нечимне (Ukrainian Wikipedia, article coordinates)",
+  "su": "https://uk.wikipedia.org/wiki/%D0%9D%D0%B5%D1%87%D0%B8%D0%BC%D0%BD%D0%B5"
+ },
+ "ua-sorochyntsi": {
+  "lat": 50.02333333,
+  "lon": 33.9425,
+  "st": "Velyki Sorochyntsi (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Velyki_Sorochyntsi"
+ },
+ "ua-khansaray": {
+  "lat": 44.74867222,
+  "lon": 33.88196111,
+  "st": "Bakhchysarai Palace (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Bakhchysarai_Palace"
+ },
+ "ua-bulgakov": {
+  "lat": 50.46083333,
+  "lon": 30.51472222,
+  "st": "Mikhail Bulgakov Museum (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Mikhail_Bulgakov_Museum"
+ },
+ "ua-kyiv-zoo": {
+  "lat": 50.45416667,
+  "lon": 30.46277778,
+  "st": "Kyiv Zoo (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Kyiv_Zoo"
+ },
+ "ua-prypiat": {
+  "lat": 51.40611111,
+  "lon": 30.05722222,
+  "st": "Pripyat (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Pripyat"
+ },
+ "ua-trochenbrod": {
+  "lat": 50.92083333,
+  "lon": 25.69722222,
+  "st": "Trochenbrod (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Trochenbrod"
+ },
+ "ua-kotliarevsky": {
+  "lat": 49.58171667,
+  "lon": 34.56791389,
+  "st": "Музей-садиба Івана Котляревського (Ukrainian Wikipedia, article coordinates)",
+  "su": "https://uk.wikipedia.org/wiki/%D0%9C%D1%83%D0%B7%D0%B5%D0%B9-%D1%81%D0%B0%D0%B4%D0%B8%D0%B1%D0%B0_%D0%86%D0%B2%D0%B0%D0%BD%D0%B0_%D0%9A%D0%BE%D1%82%D0%BB%D1%8F%D1%80%D0%B5%D0%B2%D1%81%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE"
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "is-hlidarendi": {
+  "lat": 63.72481,
+  "lon": -19.95067,
+  "st": "Hlíðarendi (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Hl%C3%AD%C3%B0arendi"
+ },
+ "is-snaefellsjokull": {
+  "lat": 64.80888889,
+  "lon": -23.77111111,
+  "st": "Snæfellsjökull (Icelandic Wikipedia, article coordinates)",
+  "su": "https://is.wikipedia.org/wiki/Sn%C3%A6fellsj%C3%B6kull"
+ },
+ "is-reykholt": {
+  "lat": 64.66666667,
+  "lon": -21.3,
+  "st": "Reykholt, Western Iceland (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Reykholt%2C_Western_Iceland"
+ },
+ "is-gljufrasteinn": {
+  "lat": 64.17,
+  "lon": -21.72,
+  "st": "Mosfellsbær (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Mosfellsb%C3%A6r"
+ },
+ "is-thristapar": {
+  "lat": 65.5,
+  "lon": -20.36666667,
+  "st": "Vatnsdalshólar (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Vatnsdalsh%C3%B3lar"
+ },
+ "is-nordurmyri": {
+  "lat": 64.13916667,
+  "lon": -21.91833333,
+  "st": "Norðurmýri (Icelandic Wikipedia, article coordinates)",
+  "su": "https://is.wikipedia.org/wiki/Nor%C3%B0urm%C3%BDri"
+ },
+ "is-nonnahus": {
+  "lat": 65.667086,
+  "lon": -18.0861,
+  "st": "Nonni's House (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Nonni%27s_House"
+ },
+ "is-skriduklaustur": {
+  "lat": 65.0414,
+  "lon": -14.9533,
+  "st": "Skriðuklaustur (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Skri%C3%B0uklaustur"
+ },
+ "is-reykir": {
+  "lat": 65.87904306,
+  "lon": -19.74308806,
+  "st": "Reykir (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Reykir"
+ }
+}

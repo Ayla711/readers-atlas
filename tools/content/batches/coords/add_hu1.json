@@ -1,0 +1,44 @@
+{
+ "hu-eger-castle": {
+  "lat": 47.9039,
+  "lon": 20.3794,
+  "st": "Egri vár (Hungarian Wikipedia, article coordinates)",
+  "su": "https://hu.wikipedia.org/wiki/Egri_v%C3%A1r"
+ },
+ "hu-kossuth-ter": {
+  "lat": 47.50694444,
+  "lon": 19.04722222,
+  "st": "Kossuth Lajos tér (Budapest) (Hungarian Wikipedia, article coordinates)",
+  "su": "https://hu.wikipedia.org/wiki/Kossuth_Lajos_t%C3%A9r_(Budapest)"
+ },
+ "hu-bugac": {
+  "lat": 46.68333333,
+  "lon": 19.68333333,
+  "st": "Bugac (Hungarian Wikipedia, article coordinates)",
+  "su": "https://hu.wikipedia.org/wiki/Bugac"
+ },
+ "hu-museum": {
+  "lat": 47.491111,
+  "lon": 19.062778,
+  "st": "Magyar Nemzeti Múzeum (Hungarian Wikipedia, article coordinates)",
+  "su": "https://hu.wikipedia.org/wiki/Magyar_Nemzeti_M%C3%BAzeum"
+ },
+ "hu-jokai-villa": {
+  "lat": 46.95466389,
+  "lon": 17.89203889,
+  "st": "Jókai Mór Emlékház (Hungarian Wikipedia, article coordinates)",
+  "su": "https://hu.wikipedia.org/wiki/J%C3%B3kai_M%C3%B3r_Eml%C3%A9kh%C3%A1z"
+ },
+ "hu-debrecen-kollegium": {
+  "lat": 47.53361111,
+  "lon": 21.62361111,
+  "st": "Debreceni Református Kollégium (Hungarian Wikipedia, article coordinates)",
+  "su": "https://hu.wikipedia.org/wiki/Debreceni_Reform%C3%A1tus_Koll%C3%A9gium"
+ },
+ "hu-gyula": {
+  "lat": 46.65,
+  "lon": 21.28277778,
+  "st": "Gyula (Magyarország) (Hungarian Wikipedia, article coordinates)",
+  "su": "https://hu.wikipedia.org/wiki/Gyula_(Magyarorsz%C3%A1g)"
+ }
+}

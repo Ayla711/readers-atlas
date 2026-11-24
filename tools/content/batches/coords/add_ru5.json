@@ -1,0 +1,68 @@
+{
+ "ru-tomsk": {
+  "lat": 56.48861,
+  "lon": 84.95222,
+  "st": "Томск (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BC%D1%81%D0%BA"
+ },
+ "ru-yenisei-krasnoyarsk": {
+  "lat": 56.012083,
+  "lon": 92.871295,
+  "st": "Красноярск (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%8F%D1%80%D1%81%D0%BA"
+ },
+ "ru-amga": {
+  "lat": 60.89722,
+  "lon": 131.98056,
+  "st": "Амга (Якутия) (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%90%D0%BC%D0%B3%D0%B0_(%D0%AF%D0%BA%D1%83%D1%82%D0%B8%D1%8F)"
+ },
+ "ru-baikal": {
+  "lat": 53.2167,
+  "lon": 107.75,
+  "st": "Байкал (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB"
+ },
+ "ru-korfovsky": {
+  "lat": 48.21667,
+  "lon": 135.05,
+  "st": "Корфовский (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D1%84%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9"
+ },
+ "ru-zima": {
+  "lat": 53.91667,
+  "lon": 102.05,
+  "st": "Зима (город) (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%97%D0%B8%D0%BC%D0%B0_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)"
+ },
+ "ru-tobolsk": {
+  "lat": 58.1989,
+  "lon": 68.2528,
+  "st": "Тобольский кремль (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%B1%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8C"
+ },
+ "ru-angara": {
+  "lat": 58.102,
+  "lon": 93.013,
+  "st": "Ангара (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B3%D0%B0%D1%80%D0%B0"
+ },
+ "ru-atalanka": {
+  "lat": 54.83056,
+  "lon": 103.09083,
+  "st": "Аталанка (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%90%D1%82%D0%B0%D0%BB%D0%B0%D0%BD%D0%BA%D0%B0"
+ },
+ "ru-chita-decembrists": {
+  "lat": 52.021486,
+  "lon": 113.513118,
+  "st": "Церковь декабристов (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2"
+ },
+ "ru-anadyr": {
+  "lat": 64.73333,
+  "lon": 177.51667,
+  "st": "Анадырь (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B0%D0%B4%D1%8B%D1%80%D1%8C"
+ }
+}

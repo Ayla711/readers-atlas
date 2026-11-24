@@ -1,0 +1,450 @@
+{
+"pt-jeronimos": {
+"lat": 38.697533,
+"lon": -9.205992,
+"n": 13,
+"st": "Category:Mosteiro dos Jerónimos (Wikimedia Commons, median of 13 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Mosteiro_dos_Jer%C3%B3nimos"
+},
+"pt-teatro-dmaria": {
+"lat": 38.714451,
+"lon": -9.139609,
+"n": 53,
+"st": "Category:Teatro Nacional D. Maria II (Wikimedia Commons, median of 53 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Teatro_Nacional_D._Maria_II"
+},
+"pt-carmo": {
+"lat": 38.712107,
+"lon": -9.140262,
+"n": 81,
+"st": "Category:Convento do Carmo de Lisboa (Wikimedia Commons, median of 81 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Convento_do_Carmo_de_Lisboa"
+},
+"pt-rossio": {
+"lat": 38.713925,
+"lon": -9.139219,
+"n": 83,
+"st": "Category:Praça de D. Pedro IV (Lisbon) (Wikimedia Commons, median of 83 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Pra%C3%A7a_de_D._Pedro_IV_(Lisbon)"
+},
+"pt-english-cemetery": {
+"lat": 38.716016,
+"lon": -9.160199,
+"n": 72,
+"st": "Category:Cemitério Inglês (Lisboa) (Wikimedia Commons, median of 72 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Cemit%C3%A9rio_Ingl%C3%AAs_(Lisboa)"
+},
+"pt-cafe-nicola": {
+"lat": 38.713269,
+"lon": -9.139279,
+"n": 2,
+"st": "Category:Café Nicola (Lisbon) (Wikimedia Commons, median of 2 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Caf%C3%A9_Nicola_(Lisbon)"
+},
+"pt-brasileira": {
+"lat": 38.710705,
+"lon": -9.142068,
+"n": 44,
+"st": "Category:Café A Brasileira (Lisbon) (Wikimedia Commons, median of 44 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Caf%C3%A9_A_Brasileira_(Lisbon)"
+},
+"pt-janelas-verdes": {
+"lat": 38.706315,
+"lon": -9.158735,
+"n": 2,
+"st": "Category:Rua das Janelas Verdes (Wikimedia Commons, median of 2 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Rua_das_Janelas_Verdes"
+},
+"pt-douradores": {
+"lat": 38.71181,
+"lon": -9.136839,
+"n": 4,
+"st": "Category:Rua dos Douradores (Wikimedia Commons, median of 4 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Rua_dos_Douradores"
+},
+"pt-casa-pessoa": {
+"lat": 38.71682,
+"lon": -9.165108,
+"n": 5,
+"st": "Category:Casa Fernando Pessoa (Wikimedia Commons, median of 5 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Casa_Fernando_Pessoa"
+},
+"pt-santa-catarina": {
+"lat": 38.709529,
+"lon": -9.147697,
+"n": 16,
+"st": "Category:Miradouro de Santa Catarina (Wikimedia Commons, median of 16 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Miradouro_de_Santa_Catarina"
+},
+"pt-prazeres": {
+"lat": 38.713615,
+"lon": -9.171512,
+"n": 16,
+"st": "Category:Cemitério dos Prazeres (Wikimedia Commons, median of 16 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Cemit%C3%A9rio_dos_Prazeres"
+},
+"pt-graca": {
+"lat": 38.716239,
+"lon": -9.131567,
+"n": 11,
+"st": "Category:Miradouro da Graça (Wikimedia Commons, median of 11 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Miradouro_da_Gra%C3%A7a"
+},
+"pt-santa-apolonia": {
+"lat": 38.714706,
+"lon": -9.121602,
+"n": 17,
+"st": "Category:Santa Apolónia train station (Wikimedia Commons, median of 17 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Santa_Apol%C3%B3nia_train_station"
+},
+"pt-rodrigo-fonseca": {
+"lat": 38.724773,
+"lon": -9.153509,
+"n": 7,
+"st": "Category:Rua Rodrigo da Fonseca (Lisbon) (Wikimedia Commons, median of 7 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Rua_Rodrigo_da_Fonseca_(Lisbon)"
+},
+"pt-seteais": {
+"lat": 38.787835,
+"lon": -9.390735,
+"n": 1,
+"st": "Category:Palácio de Seteais (Wikimedia Commons, median of 1 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Pal%C3%A1cio_de_Seteais"
+},
+"pt-lawrence": {
+"lat": 38.795724,
+"lon": -9.392778,
+"n": 4,
+"st": "Category:Hotel Lawrence's (Wikimedia Commons, median of 4 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Hotel_Lawrence's"
+},
+"pt-cabo-roca": {
+"lat": 38.780411,
+"lon": -9.498558,
+"n": 72,
+"st": "Category:Cabo da Roca (Wikimedia Commons, median of 72 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Cabo_da_Roca"
+},
+"pt-mafra": {
+"lat": 38.936922,
+"lon": -9.326098,
+"n": 9,
+"st": "Category:Palácio Nacional de Mafra (Wikimedia Commons, median of 9 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Pal%C3%A1cio_Nacional_de_Mafra"
+},
+"pt-bocage": {
+"lat": 38.524317,
+"lon": -8.892608,
+"n": 11,
+"st": "Category:Monumento a Bocage (Wikimedia Commons, median of 11 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Monumento_a_Bocage"
+},
+"pt-palmela": {
+"lat": 38.565928,
+"lon": -8.900677,
+"n": 75,
+"st": "Category:Castelo de Palmela (Wikimedia Commons, median of 75 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Castelo_de_Palmela"
+},
+"pt-portas-sol": {
+"lat": 39.233313,
+"lon": -8.676109,
+"n": 11,
+"st": "Category:Portas do Sol (Santarém) (Wikimedia Commons, median of 11 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Portas_do_Sol_(Santar%C3%A9m)"
+},
+"pt-azinhaga": {
+"lat": 39.347993,
+"lon": -8.530637,
+"n": 4,
+"st": "Category:Azinhaga (Wikimedia Commons, median of 4 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Azinhaga"
+},
+"pt-rua-augusta": {
+"lat": 38.710597,
+"lon": -9.137762,
+"n": 88,
+"st": "Category:Rua Augusta (Lisbon) (Wikimedia Commons, median of 88 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Rua_Augusta_(Lisbon)"
+},
+"pt-sintra": {
+"lat": 38.794,
+"lon": -9.3759,
+"n": 39,
+"st": "Category:Palácio Nacional de Sintra (Wikimedia Commons, median of 39 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Pal%C3%A1cio_Nacional_de_Sintra"
+},
+"pt-aljubarrota": {
+"lat": 39.638547,
+"lon": -8.84508,
+"n": 3,
+"st": "Category:Campo Militar de Aljubarrota (Wikimedia Commons, median of 3 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Campo_Militar_de_Aljubarrota"
+},
+"pt-alcobaca": {
+"lat": 39.548798,
+"lon": -8.980656,
+"n": 1,
+"st": "Category:Mosteiro de Alcobaça (Wikimedia Commons, median of 1 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Mosteiro_de_Alcoba%C3%A7a"
+},
+"pt-batalha": {
+"lat": 39.659133,
+"lon": -8.82593,
+"n": 58,
+"st": "Category:Mosteiro da Batalha (Wikimedia Commons, median of 58 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Mosteiro_da_Batalha"
+},
+"pt-nazare": {
+"lat": 39.601786,
+"lon": -9.074375,
+"n": 101,
+"st": "Category:Praia da Nazaré (Wikimedia Commons, median of 101 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Praia_da_Nazar%C3%A9"
+},
+"pt-lagrimas": {
+"lat": 40.198304,
+"lon": -8.433329,
+"n": 12,
+"st": "Category:Quinta das Lágrimas (Wikimedia Commons, median of 12 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Quinta_das_L%C3%A1grimas"
+},
+"pt-torre-anto": {
+"lat": 40.209786,
+"lon": -8.428264,
+"n": 14,
+"st": "Category:Torre de Anto (Wikimedia Commons, median of 14 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Torre_de_Anto"
+},
+"pt-cadeia-relacao": {
+"lat": 41.145012,
+"lon": -8.615831,
+"n": 30,
+"st": "Category:Cadeia da Relação (Wikimedia Commons, median of 30 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Cadeia_da_Rela%C3%A7%C3%A3o"
+},
+"pt-alhandra": {
+"lat": 38.934618,
+"lon": -9.002277,
+"n": 38,
+"st": "Category:Alhandra (Vila Franca de Xira) (Wikimedia Commons, median of 38 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Alhandra_(Vila_Franca_de_Xira)"
+},
+"pt-pragal": {
+"lat": 38.674983,
+"lon": -9.172984,
+"n": 16,
+"st": "Category:Pragal (Wikimedia Commons, median of 16 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Pragal"
+},
+"pt-ribeira": {
+"lat": 41.140684,
+"lon": -8.612979,
+"n": 14,
+"st": "Category:Ribeira (Porto) (Wikimedia Commons, median of 14 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Ribeira_(Porto)"
+},
+"pt-foz": {
+"lat": 41.151413,
+"lon": -8.675491,
+"n": 28,
+"st": "Category:Foz do Douro (Wikimedia Commons, median of 28 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Foz_do_Douro"
+},
+"pt-leca": {
+"lat": 41.202681,
+"lon": -8.714003,
+"n": 37,
+"st": "Category:Leça da Palmeira (Wikimedia Commons, median of 37 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Le%C3%A7a_da_Palmeira"
+},
+"pt-tormes": {
+"lat": 41.12498,
+"lon": -8.004366,
+"n": 9,
+"st": "Category:Casa de Tormes (Wikimedia Commons, median of 9 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Casa_de_Tormes"
+},
+"pt-marao": {
+"lat": 41.2589,
+"lon": -7.948934,
+"n": 73,
+"st": "Category:Serra do Marão (Wikimedia Commons, median of 73 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Serra_do_Mar%C3%A3o"
+},
+"pt-granja": {
+"lat": 41.038394,
+"lon": -8.649423,
+"n": 17,
+"st": "Category:Praia da Granja (Wikimedia Commons, median of 17 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Praia_da_Granja"
+},
+"pt-seide": {
+"lat": 41.396801,
+"lon": -8.463715,
+"n": 4,
+"st": "Category:Casa de Camilo Castelo Branco (Wikimedia Commons, median of 4 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Casa_de_Camilo_Castelo_Branco"
+},
+"pt-tuizelo": {
+"lat": 41.896979,
+"lon": -7.058829,
+"n": 6,
+"st": "Category:Tuizelo (Wikimedia Commons, median of 6 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Tuizelo"
+},
+"pt-viseu": {
+"lat": 40.659838,
+"lon": -7.91099,
+"n": 76,
+"st": "Category:Sé de Viseu (Wikimedia Commons, median of 76 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:S%C3%A9_de_Viseu"
+},
+"pt-serra-lapa": {
+"lat": 40.870191,
+"lon": -7.575657,
+"n": 9,
+"st": "Category:Santuário de Nossa Senhora da Lapa (Sernancelhe) (Wikimedia Commons, median of 9 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Santu%C3%A1rio_de_Nossa_Senhora_da_Lapa_(Sernancelhe)"
+},
+"pt-galveias": {
+"lat": 39.161028,
+"lon": -7.997836,
+"n": 8,
+"st": "Category:Galveias (Wikimedia Commons, median of 8 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Galveias"
+},
+"pt-giraldo": {
+"lat": 38.571044,
+"lon": -7.909642,
+"n": 112,
+"st": "Category:Praça do Giraldo (Wikimedia Commons, median of 112 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Pra%C3%A7a_do_Giraldo"
+},
+"pt-vila-vicosa": {
+"lat": 38.779354,
+"lon": -7.417637,
+"n": 8,
+"st": "Category:Vila Viçosa (vila) (Wikimedia Commons, median of 8 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Vila_Vi%C3%A7osa_(vila)"
+},
+"pt-beja-convento": {
+"lat": 38.014719,
+"lon": -7.863148,
+"n": 5,
+"st": "Category:Igreja de Nossa Senhora da Conceição (Beja) (Wikimedia Commons, median of 5 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Igreja_de_Nossa_Senhora_da_Concei%C3%A7%C3%A3o_(Beja)"
+},
+"pt-sagres": {
+"lat": 37.000666,
+"lon": -8.948122,
+"n": 48,
+"st": "Category:Fortaleza de Sagres (Wikimedia Commons, median of 48 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Fortaleza_de_Sagres"
+},
+"pt-leiria-se": {
+"lat": 39.746494,
+"lon": -8.807773,
+"n": 31,
+"st": "Category:Sé de Leiria (Wikimedia Commons, median of 31 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:S%C3%A9_de_Leiria"
+},
+"pt-torga": {
+"lat": 41.266303,
+"lon": -7.619785,
+"n": 2,
+"st": "Category:São Martinho de Anta (vila) (Wikimedia Commons, median of 2 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:S%C3%A3o_Martinho_de_Anta_(vila)"
+},
+"pt-mogadouro": {
+"lat": 41.339031,
+"lon": -6.718858,
+"n": 17,
+"st": "Category:Mogadouro (vila) (Wikimedia Commons, median of 17 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Mogadouro_(vila)"
+},
+"pt-corvo": {
+"lat": 39.670146,
+"lon": -31.111207,
+"n": 24,
+"st": "Category:Corvo (Azores) (Wikimedia Commons, median of 24 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Corvo_(Azores)"
+},
+"pt-horta": {
+"lat": 38.53695,
+"lon": -28.62382,
+"n": 30,
+"st": "Category:Port of Horta (Azores) (Wikimedia Commons, median of 30 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Port_of_Horta_(Azores)"
+},
+"pt-peter": {
+"lat": 38.529646,
+"lon": -28.626658,
+"n": 10,
+"st": "Category:Peter Café Sport (Wikimedia Commons, median of 10 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Peter_Caf%C3%A9_Sport"
+},
+"pt-martinho": {
+"lat": 38.708699,
+"lon": -9.135888,
+"n": 18,
+"st": "Category:Exterior of Café Martinho da Arcada (Wikimedia Commons, median of 18 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Exterior_of_Caf%C3%A9_Martinho_da_Arcada"
+},
+"pt-casa-bicos": {
+"lat": 38.708984,
+"lon": -9.132707,
+"n": 33,
+"st": "Category:Casa dos Bicos (Wikimedia Commons, median of 33 geotagged files)",
+"su": "https://commons.wikimedia.org/wiki/Category:Casa_dos_Bicos"
+},
+"pt-pascoaes": {
+"lat": 41.2865,
+"lon": -8.07075,
+"n": 0,
+"st": "Casa de Pascoais (Wikidata Q66814659, coordinate location)",
+"su": "https://www.wikidata.org/wiki/Q66814659"
+},
+"pt-regio": {
+"lat": 39.288768,
+"lon": -7.429862,
+"n": 0,
+"st": "Casa Museu José Régio (Portalegre) (Wikidata Q10333528, coordinate location)",
+"su": "https://www.wikidata.org/wiki/Q10333528"
+},
+"pt-lavre": {
+"lat": 38.776921,
+"lon": -8.368659,
+"n": 0,
+"st": "Lavre (Wikidata Q136432594, coordinate location)",
+"su": "https://www.wikidata.org/wiki/Q136432594"
+},
+"pt-vila-mea": {
+"lat": 41.248856,
+"lon": -8.177045,
+"n": 0,
+"st": "Vila Meã (Wikidata Q132190475, coordinate location)",
+"su": "https://www.wikidata.org/wiki/Q132190475"
+},
+"pt-pinhal-leiria": {
+"lat": 39.781111,
+"lon": -8.978889,
+"n": 0,
+"st": "Pinhal de Leiria (Wikidata Q49331589, coordinate location)",
+"su": "https://www.wikidata.org/wiki/Q49331589"
+},
+"pt-antero": {
+"lat": 37.738194,
+"lon": -25.67326,
+"n": 0,
+"st": "Convento de Nossa Senhora da Esperança (Ponta Delgada) (Wikidata Q9871268, coordinate location)",
+"su": "https://www.wikidata.org/wiki/Q9871268"
+},
+"pt-julio-dinis": {
+"lat": 40.859747,
+"lon": -8.628144,
+"n": 0,
+"st": "Casa de Júlio Dinis (Wikidata Q9698297, coordinate location)",
+"su": "https://www.wikidata.org/wiki/Q9698297"
+}
+}

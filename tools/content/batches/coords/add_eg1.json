@@ -1,0 +1,50 @@
+{
+ "eg-great-pyramid": {
+  "lat": 29.97916667,
+  "lon": 31.13416667,
+  "st": "Great Pyramid of Giza (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza"
+ },
+ "eg-sphinx": {
+  "lat": 29.97526,
+  "lon": 31.13758,
+  "st": "Great Sphinx of Giza (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Great_Sphinx_of_Giza"
+ },
+ "eg-cavafy-house": {
+  "lat": 31.197582,
+  "lon": 29.90128,
+  "st": "Cavafy Museum (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Cavafy_Museum"
+ },
+ "eg-ramesseum": {
+  "lat": 25.72777778,
+  "lon": 32.61055556,
+  "st": "Ramesseum (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Ramesseum"
+ },
+ "eg-bayn-al-qasrayn": {
+  "lat": 30.0505,
+  "lon": 31.2615,
+  "st": "Bayn al-Qasrayn (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Bayn_al-Qasrayn"
+ },
+ "eg-yacoubian": {
+  "lat": 30.051177,
+  "lon": 31.240777,
+  "st": "Yacoubian Building (Cairo) (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Yacoubian_Building_(Cairo)"
+ },
+ "eg-old-cataract": {
+  "lat": 24.080442,
+  "lon": 32.881172,
+  "st": "Old Cataract Hotel (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Old_Cataract_Hotel"
+ },
+ "eg-mahfouz-museum": {
+  "lat": 30.045823,
+  "lon": 31.261683,
+  "st": "Naguib Mahfouz Museum (Wikidata Q83766468, coordinate location)",
+  "su": "https://www.wikidata.org/wiki/Q83766468"
+ }
+}

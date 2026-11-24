@@ -1,0 +1,80 @@
+{
+ "nl-lauriergracht": {
+  "lat": 52.37133056,
+  "lon": 4.88051944,
+  "st": "Lauriergracht (Dutch Wikipedia, article coordinates)",
+  "su": "https://nl.wikipedia.org/wiki/Lauriergracht"
+ },
+ "nl-haarlemmerhout": {
+  "lat": 52.36666667,
+  "lon": 4.62416667,
+  "st": "Haarlemmerhout (Dutch Wikipedia, article coordinates)",
+  "su": "https://nl.wikipedia.org/wiki/Haarlemmerhout"
+ },
+ "nl-gevangenpoort": {
+  "lat": 52.07966667,
+  "lon": 4.31028056,
+  "st": "Gevangenpoort (Den Haag) (Dutch Wikipedia, article coordinates)",
+  "su": "https://nl.wikipedia.org/wiki/Gevangenpoort_(Den_Haag)"
+ },
+ "nl-spaarndam": {
+  "lat": 52.41383325,
+  "lon": 4.69004631,
+  "st": "Spaarndam (Dutch Wikipedia, article coordinates)",
+  "su": "https://nl.wikipedia.org/wiki/Spaarndam"
+ },
+ "nl-anne-frank": {
+  "lat": 52.37515278,
+  "lon": 4.88413056,
+  "st": "Anne Frank Huis (Dutch Wikipedia, article coordinates)",
+  "su": "https://nl.wikipedia.org/wiki/Anne_Frank_Huis"
+ },
+ "nl-haarlem": {
+  "lat": 52.38027778,
+  "lon": 4.64055556,
+  "st": "Haarlem (Dutch Wikipedia, article coordinates)",
+  "su": "https://nl.wikipedia.org/wiki/Haarlem"
+ },
+ "nl-delft": {
+  "lat": 52.011725,
+  "lon": 4.35888889,
+  "st": "Markt (Delft) (Dutch Wikipedia, article coordinates)",
+  "su": "https://nl.wikipedia.org/wiki/Markt_(Delft)"
+ },
+ "nl-herengracht": {
+  "lat": 52.36555556,
+  "lon": 4.89,
+  "st": "Gouden Bocht (Dutch Wikipedia, article coordinates)",
+  "su": "https://nl.wikipedia.org/wiki/Gouden_Bocht"
+ },
+ "nl-spinozahuis": {
+  "lat": 52.07333333,
+  "lon": 4.31388889,
+  "st": "Domus Spinozana (Dutch Wikipedia, article coordinates)",
+  "su": "https://nl.wikipedia.org/wiki/Domus_Spinozana"
+ },
+ "nl-vondelpark": {
+  "lat": 52.35699389,
+  "lon": 4.86660003,
+  "st": "Vondelpark (Dutch Wikipedia, article coordinates)",
+  "su": "https://nl.wikipedia.org/wiki/Vondelpark"
+ },
+ "nl-archipelbuurt": {
+  "lat": 52.09083333,
+  "lon": 4.30472222,
+  "st": "Archipelbuurt (Den Haag) (Dutch Wikipedia, article coordinates)",
+  "su": "https://nl.wikipedia.org/wiki/Archipelbuurt_(Den_Haag)"
+ },
+ "nl-erasmus": {
+  "lat": 51.92138889,
+  "lon": 4.485,
+  "st": "Grote of Sint-Laurenskerk (Rotterdam) (Dutch Wikipedia, article coordinates)",
+  "su": "https://nl.wikipedia.org/wiki/Grote_of_Sint-Laurenskerk_(Rotterdam)"
+ },
+ "nl-wallen": {
+  "lat": 52.37416667,
+  "lon": 4.89944444,
+  "st": "De Wallen (Dutch Wikipedia, article coordinates)",
+  "su": "https://nl.wikipedia.org/wiki/De_Wallen"
+ }
+}

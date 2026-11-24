@@ -1,0 +1,98 @@
+{
+ "se-mosebacke": {
+  "lat": 59.31805556,
+  "lon": 18.07444444,
+  "st": "Mosebacke torg (Swedish Wikipedia, article coordinates)",
+  "su": "https://sv.wikipedia.org/wiki/Mosebacke_torg"
+ },
+ "se-kymmendo": {
+  "lat": 59.10972222,
+  "lon": 18.50055556,
+  "st": "Kymmendö (Swedish Wikipedia, article coordinates)",
+  "su": "https://sv.wikipedia.org/wiki/Kymmend%C3%B6"
+ },
+ "se-strindberg-museum": {
+  "lat": 59.33846667,
+  "lon": 18.05671667,
+  "st": "Strindbergsmuseet (Swedish Wikipedia, article coordinates)",
+  "su": "https://sv.wikipedia.org/wiki/Strindbergsmuseet"
+ },
+ "se-klara": {
+  "lat": 59.33111111,
+  "lon": 18.06166667,
+  "st": "Klara kyrka (Swedish Wikipedia, article coordinates)",
+  "su": "https://sv.wikipedia.org/wiki/Klara_kyrka"
+ },
+ "se-rottneros": {
+  "lat": 59.79846389,
+  "lon": 13.12746111,
+  "st": "Rottneros herrgård (Swedish Wikipedia, article coordinates)",
+  "su": "https://sv.wikipedia.org/wiki/Rottneros_herrg%C3%A5rd"
+ },
+ "se-marbacka": {
+  "lat": 59.78126667,
+  "lon": 13.23320833,
+  "st": "Mårbacka (Swedish Wikipedia, article coordinates)",
+  "su": "https://sv.wikipedia.org/wiki/M%C3%A5rbacka"
+ },
+ "se-vemmenhog": {
+  "lat": 55.42777778,
+  "lon": 13.47055556,
+  "st": "Västra Vemmenhögs kyrka (Swedish Wikipedia, article coordinates)",
+  "su": "https://sv.wikipedia.org/wiki/V%C3%A4stra_Vemmenh%C3%B6gs_kyrka"
+ },
+ "se-nas": {
+  "lat": 60.44916667,
+  "lon": 14.49583333,
+  "st": "Nås (Swedish Wikipedia, article coordinates)",
+  "su": "https://sv.wikipedia.org/wiki/N%C3%A5s"
+ },
+ "se-djurgarden": {
+  "lat": 59.32555556,
+  "lon": 18.1225,
+  "st": "Djurgården (Swedish Wikipedia, article coordinates)",
+  "su": "https://sv.wikipedia.org/wiki/Djurg%C3%A5rden"
+ },
+ "se-riddarholmen": {
+  "lat": 59.32472222,
+  "lon": 18.06444444,
+  "st": "Riddarholmskyrkan (Swedish Wikipedia, article coordinates)",
+  "su": "https://sv.wikipedia.org/wiki/Riddarholmskyrkan"
+ },
+ "se-ljuder": {
+  "lat": 56.68277778,
+  "lon": 15.31497222,
+  "st": "Ljuders kyrka (Swedish Wikipedia, article coordinates)",
+  "su": "https://sv.wikipedia.org/wiki/Ljuders_kyrka"
+ },
+ "se-vimmerby": {
+  "lat": 57.67472222,
+  "lon": 15.85638889,
+  "st": "Astrid Lindgrens Näs (Swedish Wikipedia, article coordinates)",
+  "su": "https://sv.wikipedia.org/wiki/Astrid_Lindgrens_N%C3%A4s"
+ },
+ "se-ystad": {
+  "lat": 55.43472222,
+  "lon": 13.82527778,
+  "st": "Ystad (Swedish Wikipedia, article coordinates)",
+  "su": "https://sv.wikipedia.org/wiki/Ystad"
+ },
+ "se-blackeberg": {
+  "lat": 59.34777778,
+  "lon": 17.88361111,
+  "st": "Blackeberg (Swedish Wikipedia, article coordinates)",
+  "su": "https://sv.wikipedia.org/wiki/Blackeberg"
+ },
+ "se-alster": {
+  "lat": 59.39841667,
+  "lon": 13.60294444,
+  "st": "Alsters herrgård (Swedish Wikipedia, article coordinates)",
+  "su": "https://sv.wikipedia.org/wiki/Alsters_herrg%C3%A5rd"
+ },
+ "se-mariaberget": {
+  "lat": 59.32055556,
+  "lon": 18.06138889,
+  "st": "Mariaberget (Swedish Wikipedia, article coordinates)",
+  "su": "https://sv.wikipedia.org/wiki/Mariaberget"
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "be-antwerp-cathedral": {
+  "lat": 51.22027778,
+  "lon": 4.40111111,
+  "st": "Onze-Lieve-Vrouwekathedraal (Antwerpen) (Dutch Wikipedia, article coordinates)",
+  "su": "https://nl.wikipedia.org/wiki/Onze-Lieve-Vrouwekathedraal_(Antwerpen)"
+ },
+ "be-damme": {
+  "lat": 51.25,
+  "lon": 3.26666667,
+  "st": "Damme (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Damme"
+ },
+ "be-rozenhoedkaai": {
+  "lat": 51.20715833,
+  "lon": 3.22756389,
+  "st": "Rozenhoedkaai (Dutch Wikipedia, article coordinates)",
+  "su": "https://nl.wikipedia.org/wiki/Rozenhoedkaai"
+ },
+ "be-bruges-markt": {
+  "lat": 51.20861111,
+  "lon": 3.22388889,
+  "st": "Markt (Brugge) (Dutch Wikipedia, article coordinates)",
+  "su": "https://nl.wikipedia.org/wiki/Markt_(Brugge)"
+ },
+ "be-hougoumont": {
+  "lat": 50.67063056,
+  "lon": 4.3948,
+  "st": "Hougoumont (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Hougoumont"
+ },
+ "be-bozar": {
+  "lat": 50.8437,
+  "lon": 4.35982,
+  "st": "Palais des Beaux-Arts de Bruxelles (French Wikipedia, article coordinates)",
+  "su": "https://fr.wikipedia.org/wiki/Palais_des_Beaux-Arts_de_Bruxelles"
+ },
+ "be-brussels": {
+  "lat": 50.8467,
+  "lon": 4.352519,
+  "st": "Grand-Place de Bruxelles (French Wikipedia, article coordinates)",
+  "su": "https://fr.wikipedia.org/wiki/Grand-Place_de_Bruxelles"
+ },
+ "be-outremeuse": {
+  "lat": 50.64062,
+  "lon": 5.583096,
+  "st": "Outremeuse (French Wikipedia, article coordinates)",
+  "su": "https://fr.wikipedia.org/wiki/Outremeuse"
+ },
+ "be-kortrijk": {
+  "lat": 50.82805556,
+  "lon": 3.265,
+  "st": "Kortrijk (Dutch Wikipedia, article coordinates)",
+  "su": "https://nl.wikipedia.org/wiki/Kortrijk"
+ },
+ "be-lier": {
+  "lat": 51.11666667,
+  "lon": 4.58333333,
+  "st": "Lier (België) (Dutch Wikipedia, article coordinates)",
+  "su": "https://nl.wikipedia.org/wiki/Lier_(Belgi%C3%AB)"
+ }
+}

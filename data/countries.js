@@ -1260,7 +1260,43 @@ window.RA_COUNTRIES = [
   "needs": [
    "uk"
   ]
+ },
+ {
+  "code": "eg",
+  "iso": "EGY",
+  "name": "Egypt",
+  "name_zh": "埃及",
+  "short": "Egypt",
+  "short_zh": "埃及",
+  "region_term": {
+   "en": "governorate",
+   "zh": "省"
+  },
+  "bounds": [
+   24.6,
+   21.9,
+   37.0,
+   31.8
+  ],
+  "small_regions": [
+   "EG-C",
+   "EG-PTS",
+   "EG-DT",
+   "EG-LX"
+  ],
+  "wash": {},
+  "data": [
+   "data/eg/geo.js",
+   "data/eg/books.js",
+   "data/eg/places.js",
+   "data/eg/lines.js"
+  ],
+  "open": true,
+  "needs": [
+   "it",
+   "gr"
+  ]
  }
 ];
 // Totals over every open country, for the world page.
-window.RA_WORLD_STATS = {"countries": 40, "books": 1575, "lines": 1516, "places": 1782};
+window.RA_WORLD_STATS = {"countries": 41, "books": 1580, "lines": 1523, "places": 1790};

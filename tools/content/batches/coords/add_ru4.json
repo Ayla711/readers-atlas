@@ -1,0 +1,368 @@
+{
+ "ru-orenburg": {
+  "lat": 51.76667,
+  "lon": 55.1,
+  "st": "Оренбург (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%9E%D1%80%D0%B5%D0%BD%D0%B1%D1%83%D1%80%D0%B3"
+ },
+ "ru-novodevichy": {
+  "lat": 55.725972,
+  "lon": 37.556583,
+  "st": "Новодевичий монастырь (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D1%87%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+ },
+ "ru-novodevichy-cemetery": {
+  "lat": 55.72472,
+  "lon": 37.55417,
+  "st": "Новодевичье кладбище (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D1%87%D1%8C%D0%B5_%D0%BA%D0%BB%D0%B0%D0%B4%D0%B1%D0%B8%D1%89%D0%B5"
+ },
+ "ru-lyceum": {
+  "lat": 59.7175,
+  "lon": 30.39694,
+  "st": "Императорский Царскосельский лицей (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%98%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%A6%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D1%81%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B8%D1%86%D0%B5%D0%B9"
+ },
+ "ru-mumu-house": {
+  "lat": 55.738713,
+  "lon": 37.596148,
+  "st": "Музей И. С. Тургенева (Москва) (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D0%B7%D0%B5%D0%B9_%D0%98._%D0%A1._%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2%D0%B0_(%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)"
+ },
+ "ru-omsk-fortress": {
+  "lat": 54.98333,
+  "lon": 73.36667,
+  "st": "Омская крепость (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BC%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+ },
+ "ru-tula-lefty": {
+  "lat": 54.195111,
+  "lon": 37.621167,
+  "st": "Тульский государственный музей оружия (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9_%D0%BE%D1%80%D1%83%D0%B6%D0%B8%D1%8F"
+ },
+ "ru-aleksandrovsk": {
+  "lat": 50.9,
+  "lon": 142.15,
+  "st": "Александровск-Сахалинский (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D1%81%D0%BA-%D0%A1%D0%B0%D1%85%D0%B0%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9"
+ },
+ "ru-kulikovo": {
+  "lat": 53.607778,
+  "lon": 38.671389,
+  "st": "Куликово поле (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BB%D0%B8%D0%BA%D0%BE%D0%B2%D0%BE_%D0%BF%D0%BE%D0%BB%D0%B5"
+ },
+ "ru-vyshny-volochyok": {
+  "lat": 57.58333,
+  "lon": 34.56667,
+  "st": "Вышний Волочёк (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D1%88%D0%BD%D0%B8%D0%B9_%D0%92%D0%BE%D0%BB%D0%BE%D1%87%D1%91%D0%BA"
+ },
+ "ru-ufa-aksakov": {
+  "lat": 54.7136,
+  "lon": 55.9516,
+  "st": "Мемориальный дом-музей С. Т. Аксакова (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D0%BC-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9_%D0%A1._%D0%A2._%D0%90%D0%BA%D1%81%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0"
+ },
+ "ru-khitrovka": {
+  "lat": 55.75306,
+  "lon": 37.64361,
+  "st": "Хитровская площадь (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B8%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C"
+ },
+ "ru-taman": {
+  "lat": 45.215715,
+  "lon": 36.718915,
+  "st": "Тамань (станица) (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BC%D0%B0%D0%BD%D1%8C_(%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D1%86%D0%B0)"
+ },
+ "ru-summer-garden": {
+  "lat": 59.94472,
+  "lon": 30.33556,
+  "st": "Летний сад (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D1%82%D0%BD%D0%B8%D0%B9_%D1%81%D0%B0%D0%B4"
+ },
+ "ru-petrovsky-palace": {
+  "lat": 55.793658,
+  "lon": 37.5526,
+  "st": "Петровский путевой дворец (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%83%D1%82%D0%B5%D0%B2%D0%BE%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86"
+ },
+ "ru-nizhny-fair": {
+  "lat": 56.328433,
+  "lon": 43.960931,
+  "st": "Нижегородская ярмарка (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D1%8F%D1%80%D0%BC%D0%B0%D1%80%D0%BA%D0%B0"
+ },
+ "ru-svetloyar": {
+  "lat": 56.8186,
+  "lon": 45.0931,
+  "st": "Светлояр (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%BE%D1%8F%D1%80"
+ },
+ "ru-bugulma": {
+  "lat": 54.53983,
+  "lon": 52.797896,
+  "st": "Литературно-мемориальный музей Ярослава Гашека (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%BD%D0%BE-%D0%BC%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9_%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B0_%D0%93%D0%B0%D1%88%D0%B5%D0%BA%D0%B0"
+ },
+ "ru-astapovo": {
+  "lat": 53.20833,
+  "lon": 39.447972,
+  "st": "Лев Толстой (станция) (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%B2_%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B9_(%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F)"
+ },
+ "ru-optina": {
+  "lat": 54.05333,
+  "lon": 35.83194,
+  "st": "Оптина пустынь (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BF%D1%82%D0%B8%D0%BD%D0%B0_%D0%BF%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%8C"
+ },
+ "ru-karabikha": {
+  "lat": 57.50944,
+  "lon": 39.75694,
+  "st": "Карабиха (музей-заповедник) (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D0%B1%D0%B8%D1%85%D0%B0_(%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA)"
+ },
+ "ru-perm": {
+  "lat": 58.01583,
+  "lon": 56.25389,
+  "st": "Дом Грибушина (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BC_%D0%93%D1%80%D0%B8%D0%B1%D1%83%D1%88%D0%B8%D0%BD%D0%B0"
+ },
+ "ru-konstantinovo": {
+  "lat": 54.86472,
+  "lon": 39.60056,
+  "st": "Константиново (Рыбновский район) (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%BE_(%D0%A0%D1%8B%D0%B1%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD)"
+ },
+ "ru-yelabuga": {
+  "lat": 55.76667,
+  "lon": 52.03333,
+  "st": "Елабуга (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%95%D0%BB%D0%B0%D0%B1%D1%83%D0%B3%D0%B0"
+ },
+ "ru-bulgakov-house": {
+  "lat": 55.766815,
+  "lon": 37.593641,
+  "st": "Музей Михаила Булгакова (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D0%B7%D0%B5%D0%B9_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D0%B0_%D0%91%D1%83%D0%BB%D0%B3%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0"
+ },
+ "ru-pashkov-house": {
+  "lat": 55.749778,
+  "lon": 37.60845,
+  "st": "Дом Пашкова (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BC_%D0%9F%D0%B0%D1%88%D0%BA%D0%BE%D0%B2%D0%B0"
+ },
+ "ru-solotcha": {
+  "lat": 54.79111,
+  "lon": 39.83278,
+  "st": "Солотча (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D0%BE%D1%82%D1%87%D0%B0"
+ },
+ "ru-miltsevo": {
+  "lat": 55.47333,
+  "lon": 40.37667,
+  "st": "Мильцево (Владимирская область) (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BB%D1%8C%D1%86%D0%B5%D0%B2%D0%BE_(%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)"
+ },
+ "ru-srostki": {
+  "lat": 52.41667,
+  "lon": 85.69861,
+  "st": "Сростки (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%A1%D1%80%D0%BE%D1%81%D1%82%D0%BA%D0%B8"
+ },
+ "ru-ovsyanka": {
+  "lat": 55.96056,
+  "lon": 92.57,
+  "st": "Овсянка (Красноярский край) (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B2%D1%81%D1%8F%D0%BD%D0%BA%D0%B0_(%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%8F%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B0%D0%B9)"
+ },
+ "ru-muruzi": {
+  "lat": 59.9425,
+  "lon": 30.348889,
+  "st": "Дом Мурузи (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BC_%D0%9C%D1%83%D1%80%D1%83%D0%B7%D0%B8"
+ },
+ "ru-komarovo": {
+  "lat": 60.204722,
+  "lon": 29.799167,
+  "st": "Комаровское поселковое кладбище (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%B0%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B5_%D0%BF%D0%BE%D1%81%D0%B5%D0%BB%D0%BA%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BA%D0%BB%D0%B0%D0%B4%D0%B1%D0%B8%D1%89%D0%B5"
+ },
+ "ru-nabokov-house": {
+  "lat": 59.9319,
+  "lon": 30.3049,
+  "st": "Дом Набокова (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BC_%D0%9D%D0%B0%D0%B1%D0%BE%D0%BA%D0%BE%D0%B2%D0%B0"
+ },
+ "ru-mamayev-kurgan": {
+  "lat": 48.74222,
+  "lon": 44.53694,
+  "st": "Мамаев курган (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BC%D0%B0%D0%B5%D0%B2_%D0%BA%D1%83%D1%80%D0%B3%D0%B0%D0%BD"
+ },
+ "ru-cherdyn": {
+  "lat": 60.4,
+  "lon": 56.48333,
+  "st": "Чердынь (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%B4%D1%8B%D0%BD%D1%8C"
+ },
+ "ru-yaroslavl-monastery": {
+  "lat": 57.62139,
+  "lon": 39.88889,
+  "st": "Спасо-Преображенский монастырь (Ярославль) (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%BB%D1%8C)"
+ },
+ "ru-arbat": {
+  "lat": 55.74917,
+  "lon": 37.59056,
+  "st": "Арбат (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%B1%D0%B0%D1%82"
+ },
+ "ru-piskaryovskoye": {
+  "lat": 59.99667,
+  "lon": 30.42278,
+  "st": "Пискарёвское мемориальное кладбище (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%81%D0%BA%D0%B0%D1%80%D1%91%D0%B2%D1%81%D0%BA%D0%BE%D0%B5_%D0%BC%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BA%D0%BB%D0%B0%D0%B4%D0%B1%D0%B8%D1%89%D0%B5"
+ },
+ "ru-petropavlovsk": {
+  "lat": 53.01667,
+  "lon": 158.65,
+  "st": "Петропавловск-Камчатский (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D1%81%D0%BA-%D0%9A%D0%B0%D0%BC%D1%87%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B9"
+ },
+ "ru-peter-paul-fortress": {
+  "lat": 59.95,
+  "lon": 30.317,
+  "st": "Петропавловская крепость (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+ },
+ "ru-tyorkin": {
+  "lat": 54.779144,
+  "lon": 32.050639,
+  "st": "Памятник Александру Твардовскому и Василию Тёркину (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D1%83_%D0%A2%D0%B2%D0%B0%D1%80%D0%B4%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D0%B8_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%8E_%D0%A2%D1%91%D1%80%D0%BA%D0%B8%D0%BD%D1%83"
+ },
+ "ru-svyatogorsky": {
+  "lat": 57.022167,
+  "lon": 28.919722,
+  "st": "Святогорский Успенский монастырь (Пушкинские Горы) (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%93%D0%BE%D1%80%D1%8B)"
+ },
+ "ru-boldino": {
+  "lat": 55.0025,
+  "lon": 45.309,
+  "st": "Болдино (музей-заповедник) (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%BE_(%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA)"
+ },
+ "ru-goncharov": {
+  "lat": 54.314249,
+  "lon": 48.396303,
+  "st": "Историко-мемориальный центр-музей И. А. Гончарова (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%86%D0%B5%D0%BD%D1%82%D1%80-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9_%D0%98._%D0%90._%D0%93%D0%BE%D0%BD%D1%87%D0%B0%D1%80%D0%BE%D0%B2%D0%B0"
+ },
+ "ru-shalamov": {
+  "lat": 59.2248,
+  "lon": 39.8817,
+  "st": "Шаламовский дом (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D0%BB%D0%B0%D0%BC%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%BE%D0%BC"
+ },
+ "ru-tarkhany": {
+  "lat": 52.991842,
+  "lon": 43.673786,
+  "st": "Тарханы (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D1%80%D1%85%D0%B0%D0%BD%D1%8B"
+ },
+ "ru-queen-of-spades-house": {
+  "lat": 59.935,
+  "lon": 30.31278,
+  "st": "Дом Пиковой дамы (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BC_%D0%9F%D0%B8%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B4%D0%B0%D0%BC%D1%8B"
+ },
+ "ru-tsvetaeva-house": {
+  "lat": 55.753956,
+  "lon": 37.590378,
+  "st": "Дом-музей Марины Цветаевой (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BC-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9_%D0%9C%D0%B0%D1%80%D0%B8%D0%BD%D1%8B_%D0%A6%D0%B2%D0%B5%D1%82%D0%B0%D0%B5%D0%B2%D0%BE%D0%B9"
+ },
+ "ru-sennaya": {
+  "lat": 59.927,
+  "lon": 30.318,
+  "st": "Сенная площадь (Санкт-Петербург) (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C_(%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3)"
+ },
+ "ru-kashirin-house": {
+  "lat": 56.323808,
+  "lon": 43.990428,
+  "st": "Домик Каширина (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BC%D0%B8%D0%BA_%D0%9A%D0%B0%D1%88%D0%B8%D1%80%D0%B8%D0%BD%D0%B0"
+ },
+ "ru-yasnaya-polyana": {
+  "lat": 54.0762,
+  "lon": 37.526286,
+  "st": "Ясная Поляна (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%AF%D1%81%D0%BD%D0%B0%D1%8F_%D0%9F%D0%BE%D0%BB%D1%8F%D0%BD%D0%B0"
+ },
+ "ru-shchelykovo": {
+  "lat": 57.605943,
+  "lon": 42.173264,
+  "st": "Щелыково (музей-заповедник) (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%A9%D0%B5%D0%BB%D1%8B%D0%BA%D0%BE%D0%B2%D0%BE_(%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA)"
+ },
+ "ru-yelets": {
+  "lat": 52.6187,
+  "lon": 38.4937,
+  "st": "Литературно-мемориальный музей И. А. Бунина (Елец) (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%BD%D0%BE-%D0%BC%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9_%D0%98._%D0%90._%D0%91%D1%83%D0%BD%D0%B8%D0%BD%D0%B0_(%D0%95%D0%BB%D0%B5%D1%86)"
+ },
+ "ru-voronezh-mandelstam": {
+  "lat": 51.6749,
+  "lon": 39.2065,
+  "st": "Орлёнок (парк, Воронеж) (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%9E%D1%80%D0%BB%D1%91%D0%BD%D0%BE%D0%BA_(%D0%BF%D0%B0%D1%80%D0%BA,_%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6)"
+ },
+ "ru-vladivostok-mandelstam": {
+  "lat": 43.124722,
+  "lon": 131.905556,
+  "st": "Памятник Мандельштаму (Владивосток) (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%9C%D0%B0%D0%BD%D0%B4%D0%B5%D0%BB%D1%8C%D1%88%D1%82%D0%B0%D0%BC%D1%83_(%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D0%BA)"
+ },
+ "ru-arsenyev": {
+  "lat": 43.116333,
+  "lon": 131.882083,
+  "st": "Музей истории Дальнего Востока имени В. К. Арсеньева (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D0%B7%D0%B5%D0%B9_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8_%D0%94%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5%D0%B3%D0%BE_%D0%92%D0%BE%D1%81%D1%82%D0%BE%D0%BA%D0%B0_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%92._%D0%9A._%D0%90%D1%80%D1%81%D0%B5%D0%BD%D1%8C%D0%B5%D0%B2%D0%B0"
+ },
+ "ru-gorky-park": {
+  "lat": 55.731169,
+  "lon": 37.603197,
+  "st": "Парк Горького (Москва) (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%BA_%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE_(%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)"
+ },
+ "ru-alexander-garden": {
+  "lat": 55.752345,
+  "lon": 37.613701,
+  "st": "Александровский сад (Москва) (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%B0%D0%B4_(%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)"
+ },
+ "ru-bazhov": {
+  "lat": 56.81841,
+  "lon": 60.61332,
+  "st": "Мемориальный дом-музей П. П. Бажова (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D0%BC-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9_%D0%9F._%D0%9F._%D0%91%D0%B0%D0%B6%D0%BE%D0%B2%D0%B0"
+ },
+ "ru-moika-12": {
+  "lat": 59.940761,
+  "lon": 30.321511,
+  "st": "Музей-квартира А. С. Пушкина (Санкт-Петербург) (Russian Wikipedia, article coordinates)",
+  "su": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D0%B7%D0%B5%D0%B9-%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D0%B0_%D0%90._%D0%A1._%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0_(%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3)"
+ },
+ "ru-poklonnaya": {
+  "lat": 55.731667,
+  "lon": 37.506667,
+  "st": "Poklonnaya Hill (English Wikipedia, article coordinates)",
+  "su": "https://en.wikipedia.org/wiki/Poklonnaya_Hill"
+ }
+}
