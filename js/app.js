@@ -51,10 +51,15 @@
   const mounted = new Map(); // country code -> { cfg, geo, data } once its files are loaded and drawn
   const regionCountry = new Map(); // region id -> country code
   const OPEN_BY_ISO = new Map(OPEN.map((c) => [c.iso, c]));
+  // the mounted countries in a fixed order: the one the page opened on, then the order of data/countries.js. (The
+  // order they happen to arrive in changes with what was asked for first, see ensureCountry.)
+  const openOrder = new Map(OPEN.map((c, i) => [c.code, i]));
+  let firstCode = null;
+  const mountedList = () => [...mounted.values()].sort((a, b) => (b.cfg.code === firstCode) - (a.cfg.code === firstCode) || openOrder.get(a.cfg.code) - openOrder.get(b.cfg.code));
   // the country the reader is looking at: set by goCountry, else the one of the open region or place, else the first mounted
   function cur() {
     const code = state.country || (state.region && regionCountry.get(state.region)) || (state.place && places.get(state.place) && places.get(state.place).country);
-    return (code && COUNTRIES.find((c) => c.code === code)) || (mounted.size ? mounted.values().next().value.cfg : OPEN[0]);
+    return (code && COUNTRIES.find((c) => c.code === code)) || (mounted.size ? mountedList()[0].cfg : OPEN[0]);
   }
   const countryLabel = (c = cur()) => (zh() ? c.name_zh : c.name);
   const countryShort = (c = cur()) => (zh() ? c.short_zh || c.name_zh : c.short || c.name);
@@ -110,9 +115,16 @@
     return inside;
   }
   function assignRegions(list, geo) {
+    // each unit's bounding box, worked out once: a place is only tested against the outlines whose box it is in
+    // (same answer as testing every outline, a fraction of the work for Russia, the US or China)
+    const boxes = geo.units.map((unit) => {
+      let x0 = Infinity, y0 = Infinity, x1 = -Infinity, y1 = -Infinity;
+      for (const ring of unit.g) for (const [x, y] of ring) { if (x < x0) x0 = x; if (x > x1) x1 = x; if (y < y0) y0 = y; if (y > y1) y1 = y; }
+      return [x0, y0, x1, y1];
+    });
     for (const p of list) {
       if (p.region && geo.regions.some((r) => r.id === p.region)) continue; // set in the data: a border town the simplified map puts on the wrong side
-      const u = geo.units.find((unit) => inRings(p.lon, p.lat, unit.g));
+      const u = geo.units.find((unit, i) => p.lon >= boxes[i][0] && p.lon <= boxes[i][2] && p.lat >= boxes[i][1] && p.lat <= boxes[i][3] && inRings(p.lon, p.lat, unit.g));
       if (u) { p.region = u.r; continue; }
       // coastal points just outside the simplified coastline (a pier, a harbour wall): take the region
       // of the nearest boundary point — the same rule tools/validate.js uses
@@ -1409,6 +1421,16 @@
   }
   const has = (kind, id) => (kind === "region" ? regions : kind === "place" ? places : kind === "book" ? books : authors).has(id);
   async function loadUntilFound(kind, id) {
+    // data/index.js says which countries hold the id: load just those (the one with the record first, then the
+    // others with its places and lines). Without the index, or for an id it does not list, look through them all.
+    const idx = LOADER.index ? await LOADER.index() : null;
+    const codes = idx && idx[kind] && idx[kind].get(id);
+    if (codes) {
+      for (const code of codes) {
+        if (!mounted.has(code) && OPEN.some((c) => c.code === code)) { try { await ensureCountry(code); } catch (e) { /* shown without that country */ } }
+      }
+      if (has(kind, id)) return true;
+    }
     for (const c of OPEN) {
       if (mounted.has(c.code)) continue;
       try { await ensureCountry(c.code); } catch (e) { continue; }
@@ -1695,7 +1717,7 @@
           ${t.introSteps.map((s, i) => `<p class="hint${i === t.introSteps.length - 1 ? " dim" : ""}">${esc(s)}</p>`).join("")}
         </div>
         <h3>${t.introRegions(mounted.size > 1 ? 0 : regions.size)}</h3>
-        ${[...mounted.values()].sort((a, b) => (b.cfg.code === cur().code) - (a.cfg.code === cur().code)).map(({ cfg, geo }) => `${mounted.size > 1 ? `<h4 class="story-country">${esc(countryLabel(cfg))}</h4>` : ""}
+        ${mountedList().sort((a, b) => (b.cfg.code === cur().code) - (a.cfg.code === cur().code)).map(({ cfg, geo }) => `${mounted.size > 1 ? `<h4 class="story-country">${esc(countryLabel(cfg))}</h4>` : ""}
         <ul class="story-list">${geo.regions.map((r) => {
           const ps = [...places.values()].filter((p) => p.region === r.id);
           return `<li><button class="story-link" data-region="${r.id}"><span class="sl-kicker">${esc(regionKicker(r))}</span><span class="sl-title">${esc(regionName(r))}</span><span class="sl-meta">${t.placesAndExcerpts(ps.length, uniqueLineCount(ps))}</span></button></li>`;
@@ -1938,8 +1960,18 @@
     for (const p of places.values()) if ((p.authors || []).some((n) => slug(n) === aid)) seen.set(p.id, p);
     return [...seen.values()];
   }
+  // a book or an author already on the page may have places in countries still to come (Dracula: Whitby is here,
+  // Bistritz arrives with Romania). The index names those countries, so they are fetched now instead of whenever the
+  // background loading reaches them; each one redraws the open page as it mounts (mountCountry).
+  function loadRestOf(kind, id) {
+    if (!LOADER.index || !OPEN.some((c) => !mounted.has(c.code))) return;
+    LOADER.index().then((idx) => {
+      for (const code of (idx && idx[kind] && idx[kind].get(id)) || []) if (!mounted.has(code)) ensureCountry(code).catch(() => {});
+    });
+  }
   function openAuthor(aid) {
     leaveWorld();
+    loadRestOf("author", aid);
     select({ region: null, place: null, author: aid });
     const aps = authorPlaces(aid);
     fitPlaces(aps);
@@ -1961,6 +1993,7 @@
   }
   function openBook(bid) {
     leaveWorld();
+    loadRestOf("book", bid);
     select({ region: null, place: null, book: bid });
     const bps = bookPlaces(bid);
     fitPlaces(bps);
@@ -2049,7 +2082,7 @@
     const trips = me.itinerary.map((x, i) => ({ ...x, i })).sort((a, b) => a.date.localeCompare(b.date));
     const wish = [...me.wishlist].map((id) => places.get(id)).filter(Boolean);
     // regions covered, only for the countries the reader has been to: with 18 countries open a number for each no longer fits
-    const beenIn = [...mounted.values()].map(({ cfg, geo }) => ({ cfg, n: new Set(visited.filter((p) => p.country === cfg.code).map((p) => p.region)).size, of: geo.regions.length })).filter((x) => x.n > 0);
+    const beenIn = mountedList().map(({ cfg, geo }) => ({ cfg, n: new Set(visited.filter((p) => p.country === cfg.code).map((p) => p.region)).size, of: geo.regions.length })).filter((x) => x.n > 0);
     show(h(`
       <h2>${t.travelTitle}</h2>
       <p class="sub">${CLOUD && CLOUD.gated ? t.storedAccount : t.storedLocal}</p>
@@ -2686,7 +2719,26 @@
     else if (swipe.sum < -60 && panelOpen) { setPanel(false); swipe = { sum: 0, t: now, lock: now + 700 }; }
   }, { passive: false });
   // ---------- countries: load on demand, mount once, keep ----------
-  function mountCountry(cfg, geo, data) {
+  // What the page shows is brought up to date after a country arrives: markers, view, the open panel. A country the
+  // reader asked for does that at once. Countries arriving with the background loading (prefetchOthers) share one
+  // update: it waits until none has arrived for a moment, and never longer than REFRESH_MAX after the first, so the
+  // work is done a few times instead of once per country.
+  const REFRESH_WAIT = 200, REFRESH_MAX = 700;
+  let refreshTimer = null, refreshSince = 0;
+  function refreshAfterMount() {
+    clearTimeout(refreshTimer); refreshTimer = null; refreshSince = 0;
+    updateMarkers(); applyView(); if (state.world || state.tab !== "map") renderIntroIfShown();
+    if (state.tab === "travel") renderTravel(true); // its places and counts now include this country
+    else if (state.tab === "map" && state.book) { renderBook(state.book, true); refitIfMore(); } // a shared book list: this country may hold more of its places
+    else if (state.tab === "map" && state.author) { renderAuthor(state.author, true); refitIfMore(); }
+  }
+  function refreshSoon() {
+    const now = performance.now();
+    if (!refreshSince) refreshSince = now;
+    clearTimeout(refreshTimer);
+    refreshTimer = setTimeout(refreshAfterMount, Math.max(0, Math.min(REFRESH_WAIT, refreshSince + REFRESH_MAX - now)));
+  }
+  function mountCountry(cfg, geo, data, quiet) {
     if (mounted.has(cfg.code)) return;
     indexCountry(geo, data);
     assignRegions(data.places, geo);
@@ -2697,24 +2749,35 @@
     syncFlags();
     buildSearchIndex();
     regionLayoutDone = false;
-    if (started) {
-      updateMarkers(); applyView(); if (state.world || state.tab !== "map") renderIntroIfShown();
-      if (state.tab === "travel") renderTravel(true); // its places and counts now include this country
-      else if (state.tab === "map" && state.book) { renderBook(state.book, true); refitIfMore(); } // a shared book list: this country may hold more of its places
-      else if (state.tab === "map" && state.author) { renderAuthor(state.author, true); refitIfMore(); }
-    }
+    if (started) { if (quiet) refreshSoon(); else refreshAfterMount(); }
   }
-  function ensureCountry(code) {
-    if (mounted.has(code)) return Promise.resolve();
+  // cfg.needs (written by tools/build_countries.py): the countries whose books this one's places and lines use, e.g.
+  // Chekhov's Yalta is in Ukraine's files and his books in Russia's. They are mounted first, so that a place of this
+  // country never shows a line whose book is not there yet. Only one step: what the needed countries need in turn
+  // comes with the background loading (prefetchOthers).
+  // quiet: asked for by the background loading, not by the reader (see refreshSoon)
+  function ensureNeeds(cfg, quiet) {
+    const first = (cfg.needs || []).filter((n) => !mounted.has(n) && OPEN.some((c) => c.code === n));
+    return Promise.all(first.map((n) => ensureCountry(n, true, quiet).catch(() => {})));
+  }
+  function ensureCountry(code, alone, quiet) {
+    // the reader's own request for a country the background loading has just mounted: show it now, not in a moment
+    if (mounted.has(code)) { if (!quiet && refreshTimer) refreshAfterMount(); return Promise.resolve(); }
     const cfg = OPEN.find((c) => c.code === code);
     if (!cfg) return Promise.reject(new Error("no such country: " + code));
-    return LOADER.load(cfg).then(({ geo, data }) => mountCountry(cfg, geo, data));
+    return (alone ? Promise.resolve() : ensureNeeds(cfg, quiet)).then(() => LOADER.load(cfg)).then(({ geo, data }) => {
+      mountCountry(cfg, geo, data, quiet);
+      if (!quiet && refreshTimer) refreshAfterMount(); // mounted a moment ago by the background loading, with its update still waiting
+    });
   }
   function renderIntroIfShown() { if (state.tab === "map" && !state.region && !state.place && !state.book && !state.author) renderIntro(); }
   // after the first country is on screen, fetch the other open ones quietly so that clicking them is instant
   function prefetchOthers() {
-    const rest = OPEN.filter((c) => !mounted.has(c.code));
-    (function next(i) { if (i < rest.length) ensureCountry(rest[i].code).catch(() => {}).then(() => next(i + 1)); })(0);
+    const opened = OPEN.find((c) => c.code === firstCode);
+    (opened ? ensureNeeds(opened, true) : Promise.resolve()).then(() => {
+      const rest = OPEN.filter((c) => !mounted.has(c.code));
+      (function next(i) { if (i < rest.length) ensureCountry(rest[i].code, false, true).catch(() => {}).then(() => next(i + 1)); })(0);
+    });
   }
   let started = false;
   function start() {
@@ -2769,5 +2832,9 @@
   // the others follow in the background (see prefetchOthers)
   const startCode = (() => { const m = /^#\/([a-z]{2})(?:\/|$)/.exec(location.hash || ""); return (m && OPEN.some((c) => c.code === m[1])) ? m[1] : OPEN[0] && OPEN[0].code; })();
   if (!startCode) console.error("no open country in data/countries.js");
-  else ensureCountry(startCode).then(start, (e) => { console.error(e); start(); });
+  else {
+    firstCode = startCode;
+    // the opening country is shown at once, on its own; the countries it needs come first in the background loading
+    ensureCountry(startCode, true).then(start, (e) => { console.error(e); start(); });
+  }
 })();

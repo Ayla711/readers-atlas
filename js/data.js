@@ -35,5 +35,22 @@
     p.catch(() => pending.delete(cfg.code)); // so it can be retried
     return p;
   }
-  window.RA_LOAD = { load };
+  // data/index.js (tools/build_index.js): which countries hold a linked place, book, author or region. Fetched once,
+  // and only when a link points at something not loaded yet; resolves to { place, book, author, region } maps of
+  // id -> [country codes], or to null when the file is missing (the app then looks through the countries in turn).
+  let indexP = null;
+  function index() {
+    if (!indexP) indexP = script("data/index.js").then(() => {
+      const raw = window.RA_INDEX; window.RA_INDEX = null;
+      if (!raw) return null;
+      const out = {};
+      for (const kind of Object.keys(raw)) {
+        out[kind] = new Map();
+        for (const codes of Object.keys(raw[kind])) { const list = codes.split(" "); for (const id of raw[kind][codes].split(" ")) out[kind].set(id, list); }
+      }
+      return out;
+    }).catch(() => null);
+    return indexP;
+  }
+  window.RA_LOAD = { load, index };
 })();

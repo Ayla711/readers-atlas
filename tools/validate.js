@@ -190,6 +190,11 @@ console.log(`photos ${photos} (pilgrimage and film places ${withPhoto(["pilgrima
 console.log(`scene notes (own words, books in copyright): ${scenes.length} for ${new Set(scenes.map((l) => l.book_id)).size} books`);
 console.log(`regions without excerpts: ${emptyRegions.length ? emptyRegions.join(", ") : "none"}`);
 for (const w of warnings) console.log("warning: " + w);
+// data/index.js (which countries hold each id, for shared links) must match the data
+{
+  const r = require("child_process").spawnSync(process.execPath, [path.join(__dirname, "build_index.js"), root, "--check"], { encoding: "utf8" });
+  if (r.status !== 0) errors.push((r.stdout || r.stderr || "data/index.js could not be checked").trim());
+}
 for (const e of errors) console.log("ERROR: " + e);
 console.log(errors.length ? `\n${errors.length} error(s)` : "\nno errors");
 process.exit(errors.length ? 1 : 0);

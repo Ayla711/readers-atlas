@@ -17,4 +17,13 @@ write(None)  # the country list first: the counter reads it to find the data fil
 stats = json.loads(subprocess.run(["node", os.path.join(here, "world_stats.js"), os.path.join(here, "..")],
                                   check=True, capture_output=True, text=True).stdout)
 write(stats)
+# data/index.js: which countries hold each place, book, author and region, for shared links; and "needs": the countries
+# whose books a country's places and lines use, which the app loads first (tools/build_index.js)
+idx = json.loads(subprocess.run(["node", os.path.join(here, "build_index.js"), os.path.join(here, "..")], check=True, capture_output=True, text=True).stdout)
+for c in pub:
+    c.pop("needs", None)
+    if c["code"] in idx["needs"]:
+        c["needs"] = idx["needs"][c["code"]]
+write(stats)
 print("countries", [c["code"] for c in pub], "world", stats)
+print("index", idx)

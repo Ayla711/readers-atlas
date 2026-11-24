@@ -54,7 +54,11 @@ window.RA_COUNTRIES = [
    "data/uk/places.js",
    "data/uk/lines.js"
   ],
-  "open": true
+  "open": true,
+  "needs": [
+   "ar",
+   "it"
+  ]
  },
  {
   "code": "us",
@@ -85,7 +89,10 @@ window.RA_COUNTRIES = [
    "data/us/places.js",
    "data/us/lines.js"
   ],
-  "open": true
+  "open": true,
+  "needs": [
+   "fr"
+  ]
  },
  {
   "code": "ca",
@@ -114,7 +121,10 @@ window.RA_COUNTRIES = [
    "data/ca/places.js",
    "data/ca/lines.js"
   ],
-  "open": true
+  "open": true,
+  "needs": [
+   "us"
+  ]
  },
  {
   "code": "cn",
@@ -171,7 +181,10 @@ window.RA_COUNTRIES = [
    "data/fr/places.js",
    "data/fr/lines.js"
   ],
-  "open": true
+  "open": true,
+  "needs": [
+   "uk"
+  ]
  },
  {
   "code": "de",
@@ -202,7 +215,12 @@ window.RA_COUNTRIES = [
    "data/de/places.js",
    "data/de/lines.js"
   ],
-  "open": true
+  "open": true,
+  "needs": [
+   "uk",
+   "pl",
+   "pt"
+  ]
  },
  {
   "code": "it",
@@ -232,7 +250,11 @@ window.RA_COUNTRIES = [
    "data/it/places.js",
    "data/it/lines.js"
   ],
-  "open": true
+  "open": true,
+  "needs": [
+   "uk",
+   "pt"
+  ]
  },
  {
   "code": "es",
@@ -263,7 +285,10 @@ window.RA_COUNTRIES = [
    "data/es/places.js",
    "data/es/lines.js"
   ],
-  "open": true
+  "open": true,
+  "needs": [
+   "fr"
+  ]
  },
  {
   "code": "ru",
@@ -357,7 +382,10 @@ window.RA_COUNTRIES = [
    "data/ie/places.js",
    "data/ie/lines.js"
   ],
-  "open": true
+  "open": true,
+  "needs": [
+   "uk"
+  ]
  },
  {
   "code": "gr",
@@ -755,7 +783,10 @@ window.RA_COUNTRIES = [
    "data/pt/places.js",
    "data/pt/lines.js"
   ],
-  "open": true
+  "open": true,
+  "needs": [
+   "ar"
+  ]
  },
  {
   "code": "at",
@@ -784,7 +815,12 @@ window.RA_COUNTRIES = [
    "data/at/places.js",
    "data/at/lines.js"
   ],
-  "open": true
+  "open": true,
+  "needs": [
+   "fr",
+   "de",
+   "it"
+  ]
  },
  {
   "code": "cz",
@@ -813,7 +849,11 @@ window.RA_COUNTRIES = [
    "data/cz/places.js",
    "data/cz/lines.js"
   ],
-  "open": true
+  "open": true,
+  "needs": [
+   "fr",
+   "at"
+  ]
  },
  {
   "code": "pl",
@@ -840,7 +880,11 @@ window.RA_COUNTRIES = [
    "data/pl/places.js",
    "data/pl/lines.js"
   ],
-  "open": true
+  "open": true,
+  "needs": [
+   "de",
+   "cz"
+  ]
  },
  {
   "code": "ch",
@@ -872,7 +916,17 @@ window.RA_COUNTRIES = [
    "data/ch/places.js",
    "data/ch/lines.js"
   ],
-  "open": true
+  "open": true,
+  "needs": [
+   "uk",
+   "fr",
+   "de",
+   "pt",
+   "it",
+   "ru",
+   "ie",
+   "ar"
+  ]
  },
  {
   "code": "dk",
@@ -899,7 +953,10 @@ window.RA_COUNTRIES = [
    "data/dk/places.js",
    "data/dk/lines.js"
   ],
-  "open": true
+  "open": true,
+  "needs": [
+   "uk"
+  ]
  },
  {
   "code": "no",
@@ -928,7 +985,10 @@ window.RA_COUNTRIES = [
    "data/no/places.js",
    "data/no/lines.js"
   ],
-  "open": true
+  "open": true,
+  "needs": [
+   "dk"
+  ]
  },
  {
   "code": "se",
@@ -982,7 +1042,10 @@ window.RA_COUNTRIES = [
    "data/nl/places.js",
    "data/nl/lines.js"
   ],
-  "open": true
+  "open": true,
+  "needs": [
+   "ch"
+  ]
  },
  {
   "code": "be",
@@ -1011,7 +1074,11 @@ window.RA_COUNTRIES = [
    "data/be/places.js",
    "data/be/lines.js"
   ],
-  "open": true
+  "open": true,
+  "needs": [
+   "uk",
+   "fr"
+  ]
  },
  {
   "code": "hu",
@@ -1070,7 +1137,10 @@ window.RA_COUNTRIES = [
    "data/is/places.js",
    "data/is/lines.js"
   ],
-  "open": true
+  "open": true,
+  "needs": [
+   "no"
+  ]
  },
  {
   "code": "fi",
@@ -1154,7 +1224,10 @@ window.RA_COUNTRIES = [
    "data/ua/places.js",
    "data/ua/lines.js"
   ],
-  "open": true
+  "open": true,
+  "needs": [
+   "ru"
+  ]
  },
  {
   "code": "ro",
@@ -1183,7 +1256,10 @@ window.RA_COUNTRIES = [
    "data/ro/places.js",
    "data/ro/lines.js"
   ],
-  "open": true
+  "open": true,
+  "needs": [
+   "uk"
+  ]
  }
 ];
 // Totals over every open country, for the world page.
