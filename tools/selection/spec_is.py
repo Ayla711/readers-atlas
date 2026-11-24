@@ -1,0 +1,21 @@
+SPEC=dict(cc="is",
+name="冰岛",date="2026-11-24",
+sources={
+"A":"没有找到冰岛本国的经典书单或读者投票，此类空缺",
+"B":"冰岛高中必读书目没有找到可核对的来源，此类空缺",
+"C":"诺贝尔文学奖（拉克斯内斯 1955）、北欧理事会文学奖",
+"BK":"挪威世界文库 100 本：《尼亚尔萨迦》、拉克斯内斯《独立的人们》",
+"D":"thegreatestbooks.org「Set in Iceland」总榜名次；11-24 对照总榜前 2000 名逐页重读，表中 D 以重读为准",
+"E":"Goodreads 评分人数（icelandic-literature 书架页，2026-11-24）；11-24 用 Goodreads 自动补全接口逐本重查，表中 E 以重查为准",
+},
+size_note="规则 v2（11-24 晚）：两项证据或进 A 名单前 10 就够格；已有的书不因分数删；同一作者够格的都收；不设名额。本表结果：新增 2，保留 1，保留（只有一类证据） 3，删除（零项） 1，不收 1。 冰岛没有找到本国经典名单和课程书目，A、B 两类空着，所以很多萨迦只有一项或零项。《格雷蒂尔萨迦》复核后仍是零项，删。",
+rows=[
+("Independent People","Halldór Laxness","本国",{"BK": 3, "N": 1, "D": 2, "E": 1},"新增（待挂靠）","书里的夏屋农场是虚构的；D 281 · Goodreads 16,662"),
+("Njáls saga","Anonymous","本国",{"BK": 3, "D": 1},"保留","D 1518；Goodreads 5,699"),
+("The Blue Fox","Sjón","本国",{"C": 2, "E": 1},"新增","北欧理事会文学奖 2005；不在 D 前 2000 · Goodreads 10,653"),
+("Jar City","Arnaldur Indriðason","本国",{"E": 1},"删除","不在 D 前 2000；Goodreads 33,358"),
+("Grettir's Saga","Anonymous","本国",{},"删除（零项，用户同意删）","不在 D 前 2000；Goodreads 1,126；复核：冰岛课程只要求读“至少三部萨迦”，不点名"),
+("Egil's Saga","Anonymous","本国",{},"不收","不在 D 前 2000 · Goodreads 3,431"),
+("Journey to the Centre of the Earth","Jules Verne","外国",{"D": 1, "E": 2},"保留","斯奈山冰川；D 902 · Goodreads 236,185"),
+("Burial Rites","Hannah Kent","外国",{"E": 2},"待定","不在 D 前 2000；Goodreads 131,106"),
+])

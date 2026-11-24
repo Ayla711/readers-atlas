@@ -1,0 +1,534 @@
+{
+ "cc": "ch",
+ "name": "瑞士",
+ "date": "2026-11-24",
+ "rule": "v2",
+ "sources": {
+  "A1": "editoreric.com「瑞士文学最伟大的作品」33 部（按年代排列，不分名次）；名单里写在瑞士以外、或没有真实地点的书在表里注明“不算瑞士”“没有真实地点”",
+  "B": "瑞士各州课程不统一，没有全国书目，此类空缺",
+  "C": "诺贝尔文学奖（施皮特勒 1919、黑塞 1946；两人得分最高的书都不写瑞士，或不在瑞士榜上，未加）",
+  "D": "thegreatestbooks.org「Set in Switzerland」总榜名次；11-24 对照总榜前 2000 名逐页重读，表中 D 以重读为准",
+  "E": "Goodreads 评分人数（11-24 逐本查 Goodreads 自动补全接口，取该作品各版本中最大的一条）"
+ },
+ "size_note": "规则 v2（11-24 晚）：两项证据或进 A 名单前 10 就够格；已有的书不因分数删；同一作者够格的都收；不设名额。本表结果：新增 6，保留 5，保留（只有一类证据） 5，删除（零项） 7，不算/没有真实地点 4，他国书目（不在此评） 6。 v1 的瑞士表 Goodreads 全部按 0 计，这次逐本补查：《海蒂》21.7 万、《荒原狼》23.0 万、《法官和他的刽子手》1.9 万。名单上漏评的迪伦马特《诺言》（苏黎世州）两项以上，新增；《老妇还乡》《物理学家》地点是虚构的，《能干的法贝尔》《瑞士家庭鲁滨逊》不写瑞士。单篇作品按所在集子计：《最后一案》因《福尔摩斯回忆录》和全集有两项，保留；鲍德温《村子里的陌生人》因《土生子札记》有一项，保留。拜伦两首、歌德、托尔斯泰的单篇和卢梭《遐想》、拉缪《德博朗斯》、迈尔《于尔格·耶纳奇》复核后仍是零项，删。",
+ "rows": [
+  {
+   "title": "I'm Not Stiller",
+   "author": "Max Frisch",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "D": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "苏黎世；D 433 · Goodreads 6,227"
+  },
+  {
+   "title": "Steppenwolf",
+   "author": "Hermann Hesse",
+   "kind": "本国（入籍瑞士）",
+   "points": {
+    "A1": 3,
+    "D": 2,
+    "E": 2
+   },
+   "score": 7,
+   "cats": [
+    "A1",
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增（待挂靠）",
+   "note": "书里的城市以巴塞尔为原型；D 162 · Goodreads 230,046"
+  },
+  {
+   "title": "Green Henry",
+   "author": "Gottfried Keller",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "D": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "苏黎世、格拉特费尔登；D 588 · Goodreads 558"
+  },
+  {
+   "title": "The Black Spider",
+   "author": "Jeremias Gotthelf",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "D": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "I"
+   ],
+   "in_app": "black-spider",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "D 838 · Goodreads 5,254"
+  },
+  {
+   "title": "Heidi",
+   "author": "Johanna Spyri",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "D": 1,
+    "E": 2
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "E",
+    "I"
+   ],
+   "in_app": "heidi",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "D 839 · Goodreads 216,602"
+  },
+  {
+   "title": "The Judge and His Hangman",
+   "author": "Friedrich Dürrenmatt",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "D": 1,
+    "E": 1
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "E",
+    "I"
+   ],
+   "in_app": "judge-and-his-hangman",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "D 973 · Goodreads 19,142"
+  },
+  {
+   "title": "Julie, or the New Heloise",
+   "author": "Jean-Jacques Rousseau",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "D": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增（替换《遐想》）",
+   "note": "克拉朗、沃韦；D 972 · Goodreads 1,809"
+  },
+  {
+   "title": "Belle du Seigneur",
+   "author": "Albert Cohen",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "D": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "日内瓦；D 484 · Goodreads 4,487"
+  },
+  {
+   "title": "Man in the Holocene",
+   "author": "Max Frisch",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": "man-in-the-holocene",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "删除",
+   "note": "弗里施第二本；不在 D 前 2000；Goodreads 2,522"
+  },
+  {
+   "title": "Reveries of the Solitary Walker",
+   "author": "Jean-Jacques Rousseau",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "reveries-solitary-walker",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "删除（零项，用户同意删）",
+   "note": "不在 D 前 2000；Goodreads 7,989"
+  },
+  {
+   "title": "Derborence",
+   "author": "C. F. Ramuz",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "derborence",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "删除（零项，用户同意删）",
+   "note": "不在 D 前 2000；Goodreads 338"
+  },
+  {
+   "title": "Jürg Jenatsch",
+   "author": "Conrad Ferdinand Meyer",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "jurg-jenatsch",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "删除（零项，用户同意删）",
+   "note": "不在 D 前 2000；Goodreads 65"
+  },
+  {
+   "title": "William Tell",
+   "author": "Friedrich Schiller",
+   "kind": "外国",
+   "points": {
+    "D": 1
+   },
+   "score": 1,
+   "cats": [
+    "I"
+   ],
+   "in_app": "wilhelm-tell",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "保留",
+   "note": "吕特利、空心巷；D 1325；Goodreads 9,696"
+  },
+  {
+   "title": "Little Dorrit",
+   "author": "Charles Dickens",
+   "kind": "外国",
+   "points": {
+    "D": 1,
+    "E": 1
+   },
+   "score": 2,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": "little-dorrit",
+   "decision": "保留",
+   "first_draft": "待定",
+   "note": "D 1434；Goodreads 50,755"
+  },
+  {
+   "title": "The Prelude",
+   "author": "William Wordsworth",
+   "kind": "外国",
+   "points": {
+    "D": 1
+   },
+   "score": 1,
+   "cats": [
+    "I"
+   ],
+   "in_app": "the-prelude",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "待定",
+   "note": "D 1575；Goodreads 4,500"
+  },
+  {
+   "title": "Daisy Miller",
+   "author": "Henry James",
+   "kind": "外国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": "daisy-miller",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "待定",
+   "note": "不在 D 前 2000；Goodreads 39,692"
+  },
+  {
+   "title": "The Prisoner of Chillon",
+   "author": "Lord Byron",
+   "kind": "外国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "prisoner-of-chillon",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "删除（零项，用户同意删）",
+   "note": "不在 D 前 2000；Goodreads 268"
+  },
+  {
+   "title": "Manfred",
+   "author": "Lord Byron",
+   "kind": "外国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "manfred",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "删除（零项，用户同意删）",
+   "note": "拜伦第二本；不在 D 前 2000；Goodreads 3,192"
+  },
+  {
+   "title": "The Final Problem",
+   "author": "Arthur Conan Doyle",
+   "kind": "外国",
+   "points": {
+    "D": 2,
+    "E": 2
+   },
+   "score": 4,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": "final-problem",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "不在 D 前 2000；Goodreads 129（单篇条目；收在《福尔摩斯全集》里，全集 D 209）；按所在集子计：《福尔摩斯回忆录》Goodreads 109,080，《福尔摩斯全集》D 209"
+  },
+  {
+   "title": "Lucerne",
+   "author": "Leo Tolstoy",
+   "kind": "外国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "lucerne-tolstoy",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "删除（零项，用户同意删）",
+   "note": "不在 D 前 2000；Goodreads 160"
+  },
+  {
+   "title": "On the Lake",
+   "author": "J. W. von Goethe",
+   "kind": "外国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "auf-dem-see",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "删除（零项，用户同意删）",
+   "note": "歌德的诗《湖上》（苏黎世湖）；不在 D 前 2000 · Goodreads 查不到单独条目（只有 2 人的德文本）"
+  },
+  {
+   "title": "Stranger in the Village",
+   "author": "James Baldwin",
+   "kind": "外国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": "stranger-in-the-village",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "保留",
+   "note": "不在 D 前 2000；Goodreads 163（单篇条目）；按所在集子计：《土生子札记》Goodreads 26,150"
+  },
+  {
+   "title": "The Pledge",
+   "author": "Friedrich Dürrenmatt",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "D": 1,
+    "E": 1
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "迪伦马特第二本；苏黎世州、格劳宾登；D 1613 · Goodreads 12,453"
+  },
+  {
+   "title": "The Visit",
+   "author": "Friedrich Dürrenmatt",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不收（没有真实地点）",
+   "first_draft": "不收（没有真实地点）",
+   "note": "居伦镇是虚构的；不在 D 前 2000 · Goodreads 41,778"
+  },
+  {
+   "title": "The Physicists",
+   "author": "Friedrich Dürrenmatt",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不收（没有真实地点）",
+   "first_draft": "不收（没有真实地点）",
+   "note": "疗养院是虚构的；不在 D 前 2000 · Goodreads 46,886"
+  },
+  {
+   "title": "Homo Faber",
+   "author": "Max Frisch",
+   "kind": "本国（写美洲、欧洲）",
+   "points": {
+    "A1": 3,
+    "D": 1,
+    "E": 1
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "不算瑞士",
+   "first_draft": "不算瑞士",
+   "note": "故事不在瑞士；D 857 · Goodreads 33,585"
+  },
+  {
+   "title": "Swiss Family Robinson",
+   "author": "Johann David Wyss",
+   "kind": "本国（写荒岛）",
+   "points": {
+    "A1": 3,
+    "E": 2,
+    "D": 1
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "不算瑞士",
+   "first_draft": "不算瑞士",
+   "note": "故事在荒岛；Goodreads 111,609；审核补：D 1805"
+  },
+  {
+   "title": "Childe Harold's Pilgrimage",
+   "author": "Lord Byron",
+   "kind": "他国书目",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "pt-childe-harold",
+   "decision": "属于 pt 的书，挂在这里，不在此评",
+   "first_draft": "",
+   "note": ""
+  },
+  {
+   "title": "Frankenstein",
+   "author": "Mary Shelley",
+   "kind": "他国书目",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "frankenstein",
+   "decision": "属于 uk 的书，挂在这里，不在此评",
+   "first_draft": "",
+   "note": ""
+  },
+  {
+   "title": "A Tramp Abroad",
+   "author": "Mark Twain",
+   "kind": "他国书目",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "a-tramp-abroad",
+   "decision": "属于 de 的书，挂在这里，不在此评",
+   "first_draft": "",
+   "note": ""
+  },
+  {
+   "title": "Night Train to Lisbon",
+   "author": "Pascal Mercier",
+   "kind": "他国书目",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "pt-night-train",
+   "decision": "属于 pt 的书，挂在这里，不在此评",
+   "first_draft": "",
+   "note": ""
+  },
+  {
+   "title": "The Magic Mountain",
+   "author": "Thomas Mann",
+   "kind": "他国书目",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "the-magic-mountain",
+   "decision": "属于 de 的书，挂在这里，不在此评",
+   "first_draft": "",
+   "note": ""
+  },
+  {
+   "title": "A Farewell to Arms",
+   "author": "Ernest Hemingway",
+   "kind": "他国书目",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "farewell-to-arms",
+   "decision": "属于 it 的书，挂在这里，不在此评",
+   "first_draft": "",
+   "note": ""
+  }
+ ]
+}

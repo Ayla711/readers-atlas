@@ -1,0 +1,309 @@
+{
+ "cc": "dz",
+ "name": "阿尔及利亚",
+ "date": "2026-11-24",
+ "rule": "v2",
+ "sources": {
+  "A1": "「非洲 20 世纪百部最佳图书」（2002）；德耶巴尔《爱情，幻想曲》在前 12 名（按前 10 加分）",
+  "A2": "阿拉伯作家联合会「20 世纪最佳阿拉伯语小说 105 部」（2001）— arablit.org",
+  "A4": "Banipal「100 部最佳阿拉伯语小说」（2018）第 1–50 名：《肉体的记忆》第 46、《王牌》第 43、瓦塔尔《骡子的婚礼》第 48；第 51–100 名找不到全表，记 0",
+  "A3": "《The National》「20 世纪最重要的 50 部阿拉伯语小说」",
+  "B": "阿尔及利亚中学书目没有找到可核对的来源，此类空缺；Banipal 100 部的阿尔及利亚条目也没找到全表，未计",
+  "C": "诺贝尔文学奖（加缪 1957）、纳吉布·马哈福兹文学奖章、龚古尔奖",
+  "BK": "挪威世界文库 100 本：加缪《局外人》",
+  "D": "thegreatestbooks.org「Set in Algeria」总榜名次；11-24 对照总榜前 2000 名逐页重读，表中 D 以重读为准",
+  "E": "Goodreads 评分人数（algerian-literature 书架页，2026-11-24）；11-24 用 Goodreads 自动补全接口逐本重查，表中 E 以重查为准"
+ },
+ "size_note": "规则 v2（11-24 晚）：两项证据或进 A 名单前 10 就够格；已有的书不因分数删；同一作者够格的都收；不设名额。本表结果：新增 3，保留 5，保留（只有一类证据） 1，删除（零项） 2，不收 6。 《娜吉玛》只进了非洲百部（1 项），按 v2 不新增。加缪《婚礼集》、莫泊桑《在阳光下》复核后仍是零项，删。《庇护所》（奥兰、撒哈拉）D 596、Goodreads 3.2 万，两项，新增。",
+ "rows": [
+  {
+   "title": "Memory in the Flesh",
+   "author": "Ahlam Mosteghanemi",
+   "kind": "本国",
+   "points": {
+    "A2": 3,
+    "A3": 3,
+    "A4": 3,
+    "C": 2,
+    "E": 1
+   },
+   "score": 12,
+   "cats": [
+    "A2",
+    "A3",
+    "A4",
+    "C",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "君士坦丁；马哈福兹奖章 1998；不在 D 前 2000 · Goodreads 25,865"
+  },
+  {
+   "title": "Fantasia: An Algerian Cavalcade",
+   "author": "Assia Djebar",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "D": 1
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "I"
+   ],
+   "in_app": "fantasia-algerian-cavalcade",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "D 1085 · Goodreads 1,435"
+  },
+  {
+   "title": "La Grande Maison (Algeria trilogy)",
+   "author": "Mohammed Dib",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": "la-grande-maison",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "保留",
+   "note": "特莱姆森；不在 D 前 2000；Goodreads 410"
+  },
+  {
+   "title": "Nedjma",
+   "author": "Kateb Yacine",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "新增",
+   "note": "君士坦丁、波尼（安纳巴）；不在 D 前 2000 · Goodreads 780"
+  },
+  {
+   "title": "Wind from the South",
+   "author": "Abdelhamid Benhedouga",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "新增（地点待查）",
+   "note": "阿拉伯语；不在 D 前 2000 · Goodreads 379"
+  },
+  {
+   "title": "The Ace (Al-Laz)",
+   "author": "Tahar Wattar",
+   "kind": "本国",
+   "points": {
+    "A2": 3,
+    "A4": 3
+   },
+   "score": 6,
+   "cats": [
+    "A2",
+    "A4"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增（地点待查）",
+   "note": "阿拉伯语；独立战争；不在 D 前 2000 · Goodreads 0"
+  },
+  {
+   "title": "A Thousand Years of Nostalgia",
+   "author": "Rachid Boudjedra",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "新增（地点待查）",
+   "note": "不在 D 前 2000 · Goodreads 78"
+  },
+  {
+   "title": "Confessions",
+   "author": "Augustine of Hippo",
+   "kind": "本国（古代努米底亚）",
+   "points": {
+    "D": 2,
+    "E": 1
+   },
+   "score": 3,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": "confessions-augustine",
+   "decision": "保留",
+   "first_draft": "待定",
+   "note": "塔加斯特（今苏格艾赫拉斯）；D 118；Goodreads 80,832"
+  },
+  {
+   "title": "A Mule's Wedding",
+   "author": "Tahar Wattar",
+   "kind": "本国",
+   "points": {
+    "A4": 3
+   },
+   "score": 3,
+   "cats": [
+    "A4"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "不收",
+   "note": "Banipal 第 48；不在 D 前 2000 · Goodreads 0"
+  },
+  {
+   "title": "Houris",
+   "author": "Kamel Daoud",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "不收",
+   "note": "龚古尔奖 2024；不在 D 前 2000 · Goodreads 3,274"
+  },
+  {
+   "title": "What the Day Owes the Night",
+   "author": "Yasmina Khadra",
+   "kind": "本国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "不收",
+   "note": "不在 D 前 2000 · Goodreads 11,983"
+  },
+  {
+   "title": "The Stranger",
+   "author": "Albert Camus",
+   "kind": "外国",
+   "points": {
+    "BK": 3,
+    "N": 1,
+    "D": 2,
+    "E": 3
+   },
+   "score": 9,
+   "cats": [
+    "C",
+    "E",
+    "I"
+   ],
+   "in_app": "the-stranger",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "阿尔及尔；D 23 · Goodreads 1,560,702"
+  },
+  {
+   "title": "The Plague",
+   "author": "Albert Camus",
+   "kind": "外国",
+   "points": {
+    "D": 2,
+    "E": 2
+   },
+   "score": 4,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": "the-plague",
+   "decision": "保留",
+   "first_draft": "待定",
+   "note": "D 72 · Goodreads 338,623"
+  },
+  {
+   "title": "The Immoralist",
+   "author": "André Gide",
+   "kind": "外国",
+   "points": {
+    "D": 2,
+    "E": 1
+   },
+   "score": 3,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": "the-immoralist",
+   "decision": "保留",
+   "first_draft": "待定",
+   "note": "比斯克拉；D 477；Goodreads 14,320"
+  },
+  {
+   "title": "The Sheltering Sky",
+   "author": "Paul Bowles",
+   "kind": "外国",
+   "points": {
+    "D": 1,
+    "E": 1
+   },
+   "score": 2,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "待定（新增候选）",
+   "note": "奥兰、撒哈拉；D 596 · Goodreads 32,010"
+  },
+  {
+   "title": "Nuptials",
+   "author": "Albert Camus",
+   "kind": "外国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "nuptials",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "删除（零项，用户同意删）",
+   "note": "加缪第三本；不在 D 前 2000；Goodreads 2,380（法文集子《婚礼集》含《夏天》）"
+  },
+  {
+   "title": "Au soleil",
+   "author": "Guy de Maupassant",
+   "kind": "外国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "au-soleil",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "删除（零项，用户同意删）",
+   "note": "不在 D 前 2000；Goodreads 查不到"
+  }
+ ]
+}

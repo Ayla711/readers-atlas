@@ -1,0 +1,257 @@
+{
+ "cc": "ma",
+ "name": "摩洛哥",
+ "date": "2026-11-24",
+ "rule": "v2",
+ "sources": {
+  "A1": "「非洲 20 世纪百部最佳图书」（2002）",
+  "A2": "阿拉伯作家联合会「20 世纪最佳阿拉伯语小说 105 部」（2001）",
+  "A3": "《The National》「20 世纪最重要的 50 部阿拉伯语小说」",
+  "A4": "Banipal「100 部最佳阿拉伯语小说」（2018）：第 1–50 名全表（Goodreads 小组转录）里《裸面包》第 3，其他摩洛哥书不在前 50",
+  "B": "摩洛哥高中一年级法语课整本书阅读：塞弗留伊《奇妙的盒子》（9rayti、alloschool 等课程网站和学校书单）",
+  "C": "龚古尔奖、都柏林文学奖、摩洛哥文学大奖",
+  "D": "thegreatestbooks.org「Set in Morocco」总榜名次；11-24 对照总榜前 2000 名逐页重读，表中 D 以重读为准",
+  "E": "Goodreads 评分人数（moroccan-literature 书架页，2026-11-24）；11-24 用 Goodreads 自动补全接口逐本重查，表中 E 以重查为准"
+ },
+ "size_note": "规则 v2（11-24 晚）：两项证据或进 A 名单前 10 就够格；已有的书不因分数删；同一作者够格的都收；不设名额。本表结果：新增 6，保留 1，删除（零项） 4，不收 3，他国书目（不在此评） 1。 伊本·白图泰《游记》、卡内蒂《马拉喀什之声》、圣埃克苏佩里《南方邮航》、洛蒂《在摩洛哥》复核后仍是零项，删。",
+ "rows": [
+  {
+   "title": "For Bread Alone",
+   "author": "Mohamed Choukri",
+   "kind": "本国",
+   "points": {
+    "A2": 3,
+    "A3": 3,
+    "A4": 4,
+    "E": 1
+   },
+   "score": 11,
+   "cats": [
+    "A2",
+    "A3",
+    "A4",
+    "E"
+   ],
+   "in_app": "for-bread-alone",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "丹吉尔；不在 D 前 2000 · Goodreads 12,122"
+  },
+  {
+   "title": "The Woman and the Rose",
+   "author": "Mohamed Zafzaf",
+   "kind": "本国",
+   "points": {
+    "A2": 3,
+    "A3": 3
+   },
+   "score": 6,
+   "cats": [
+    "A2",
+    "A3"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增（地点待查）",
+   "note": "需确认写的是摩洛哥还是西班牙；不在 D 前 2000 · Goodreads 190"
+  },
+  {
+   "title": "The Sacred Night",
+   "author": "Tahar Ben Jelloun",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "C": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "C"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "龚古尔奖 1987；不在 D 前 2000 · Goodreads 1,831"
+  },
+  {
+   "title": "La Boîte à merveilles",
+   "author": "Ahmed Sefrioui",
+   "kind": "本国",
+   "points": {
+    "B": 2,
+    "C": 2
+   },
+   "score": 4,
+   "cats": [
+    "B",
+    "C"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "非斯老城；摩洛哥文学大奖；不在 D 前 2000 · Goodreads 1,622"
+  },
+  {
+   "title": "Le Passé simple",
+   "author": "Driss Chraïbi",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "不收",
+   "note": "不在 D 前 2000 · Goodreads 490"
+  },
+  {
+   "title": "The Game of Forgetting",
+   "author": "Mohammed Berrada",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "不收",
+   "note": "不在 D 前 2000 · Goodreads 290"
+  },
+  {
+   "title": "This Blinding Absence of Light",
+   "author": "Tahar Ben Jelloun",
+   "kind": "本国",
+   "points": {
+    "C": 2,
+    "E": 1
+   },
+   "score": 3,
+   "cats": [
+    "C",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "不收",
+   "note": "本·杰伦第二本；不在 D 前 2000 · Goodreads 13,983"
+  },
+  {
+   "title": "The Travels (Rihla)",
+   "author": "Ibn Battuta",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "rihla",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "删除（零项，用户同意删）",
+   "note": "不在 D 前 2000；Goodreads 2,949"
+  },
+  {
+   "title": "In the Country of Others",
+   "author": "Leïla Slimani",
+   "kind": "本国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "不收",
+   "note": "不在 D 前 2000 · Goodreads 23,468"
+  },
+  {
+   "title": "The Alchemist",
+   "author": "Paulo Coelho",
+   "kind": "外国",
+   "points": {
+    "D": 2,
+    "E": 3
+   },
+   "score": 5,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "丹吉尔；D 416 · Goodreads 3,796,122"
+  },
+  {
+   "title": "Naked Lunch",
+   "author": "William S. Burroughs",
+   "kind": "外国",
+   "points": {
+    "D": 2,
+    "E": 2
+   },
+   "score": 4,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "待定",
+   "note": "丹吉尔；D 253 · Goodreads 101,400"
+  },
+  {
+   "title": "The Voices of Marrakesh",
+   "author": "Elias Canetti",
+   "kind": "外国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "voices-of-marrakesh",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "删除（零项，用户同意删）",
+   "note": "不在 D 前 2000；Goodreads 3,393"
+  },
+  {
+   "title": "Southern Mail",
+   "author": "Antoine de Saint-Exupéry",
+   "kind": "外国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "southern-mail",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "删除（零项，用户同意删）",
+   "note": "不在 D 前 2000；Goodreads 2,340"
+  },
+  {
+   "title": "Au Maroc",
+   "author": "Pierre Loti",
+   "kind": "外国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "au-maroc",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "删除（零项，用户同意删）",
+   "note": "不在 D 前 2000；Goodreads 44"
+  },
+  {
+   "title": "The Innocents Abroad",
+   "author": "Mark Twain",
+   "kind": "他国书目",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "innocents-abroad",
+   "decision": "属于 it 的书，挂在这里，不在此评",
+   "first_draft": "",
+   "note": ""
+  }
+ ]
+}

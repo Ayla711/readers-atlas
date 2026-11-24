@@ -1,0 +1,385 @@
+{
+ "cc": "nl",
+ "name": "荷兰",
+ "date": "2026-11-24",
+ "rule": "v2",
+ "sources": {
+  "A1": "2022 年荷兰语文学经典调查前 100（荷兰语联盟、比利时皇家荷兰语文学院等联合发起）— kantl.be 报告",
+  "A2": "2002 年 DBNL 经典调查（荷兰文学学会会员）前 10 — dbnl.org",
+  "B": "荷兰中学没有全国统一书目，此类空缺",
+  "C": "普利策奖、女性小说奖",
+  "D": "thegreatestbooks.org 总榜名次（荷兰经典 100 部表）；11-24 对照总榜前 2000 名逐页重读，表中 D 以重读为准",
+  "E": "Goodreads 评分人数（dutch-literature、netherlands 书架页，2026-11-24）；11-24 用 Goodreads 自动补全接口逐本重查，表中 E 以重查为准"
+ },
+ "size_note": "规则 v2（11-24 晚）：两项证据或进 A 名单前 10 就够格；已有的书不因分数删；同一作者够格的都收；不设名额。本表结果：新增 8，保留 5，保留（只有一类证据） 4，不收 3。",
+ "rows": [
+  {
+   "title": "Max Havelaar",
+   "author": "Multatuli",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "A2": 4,
+    "D": 1,
+    "E": 1
+   },
+   "score": 10,
+   "cats": [
+    "A1",
+    "A2",
+    "E",
+    "I"
+   ],
+   "in_app": "max-havelaar",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "阿姆斯特丹劳里耶运河（框架故事）；D 545 · Goodreads 11,377"
+  },
+  {
+   "title": "The Evenings (De avonden)",
+   "author": "Gerard Reve",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "A2": 4,
+    "D": 1,
+    "E": 1
+   },
+   "score": 10,
+   "cats": [
+    "A1",
+    "A2",
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "阿姆斯特丹；D 845 · Goodreads 13,137"
+  },
+  {
+   "title": "The Darkroom of Damocles",
+   "author": "Willem Frederik Hermans",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "A2": 4,
+    "D": 1,
+    "E": 1
+   },
+   "score": 10,
+   "cats": [
+    "A1",
+    "A2",
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "福尔斯霍滕、莱顿；D 898 · Goodreads 15,405"
+  },
+  {
+   "title": "Camera Obscura",
+   "author": "Hildebrand",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 4,
+    "D": 1
+   },
+   "score": 8,
+   "cats": [
+    "A1",
+    "A2",
+    "I"
+   ],
+   "in_app": "camera-obscura",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "不在 D 前 2000 · Goodreads 925；审核补：D 1490（榜上作者写本名 Nicolaas Beets）"
+  },
+  {
+   "title": "Gysbreght van Aemstel",
+   "author": "Joost van den Vondel",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 4,
+    "D": 1
+   },
+   "score": 8,
+   "cats": [
+    "A1",
+    "A2",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "阿姆斯特丹；D 1614 · Goodreads 636"
+  },
+  {
+   "title": "The Diary of a Young Girl",
+   "author": "Anne Frank",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "D": 2,
+    "E": 3
+   },
+   "score": 8,
+   "cats": [
+    "A1",
+    "E",
+    "I"
+   ],
+   "in_app": "diary-of-anne-frank",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "D 117 · Goodreads 4,362,949"
+  },
+  {
+   "title": "The Assault",
+   "author": "Harry Mulisch",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "E": 1
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": "the-assault",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "不在 D 前 2000 · Goodreads 21,329"
+  },
+  {
+   "title": "The Discovery of Heaven",
+   "author": "Harry Mulisch",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "D": 1,
+    "E": 1
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "待定",
+   "note": "D 955 · Goodreads 18,670"
+  },
+  {
+   "title": "Turkish Delight",
+   "author": "Jan Wolkers",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "不收",
+   "note": "不在 D 前 2000 · Goodreads 10,699"
+  },
+  {
+   "title": "Out of Mind (Hersenschimmen)",
+   "author": "J. Bernlef",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "不收",
+   "note": "不在 D 前 2000 · Goodreads 17,639"
+  },
+  {
+   "title": "Eline Vere",
+   "author": "Louis Couperus",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "D": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "不收",
+   "note": "D 1503 · Goodreads 3,151"
+  },
+  {
+   "title": "The Dinner",
+   "author": "Herman Koch",
+   "kind": "本国",
+   "points": {
+    "E": 2
+   },
+   "score": 2,
+   "cats": [
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "不收",
+   "note": "不在 D 前 2000 · Goodreads 181,291"
+  },
+  {
+   "title": "The Hiding Place",
+   "author": "Corrie ten Boom",
+   "kind": "本国",
+   "points": {
+    "E": 2
+   },
+   "score": 2,
+   "cats": [
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "不收",
+   "note": "不在 D 前 2000 · Goodreads 371,523"
+  },
+  {
+   "title": "The Goldfinch",
+   "author": "Donna Tartt",
+   "kind": "外国",
+   "points": {
+    "C": 2,
+    "D": 1,
+    "E": 3
+   },
+   "score": 6,
+   "cats": [
+    "C",
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "待定（新增候选）",
+   "note": "阿姆斯特丹；D 728 · Goodreads 1,096,306"
+  },
+  {
+   "title": "The Fault in Our Stars",
+   "author": "John Green",
+   "kind": "外国",
+   "points": {
+    "E": 3
+   },
+   "score": 3,
+   "cats": [
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "待定（新增候选）",
+   "note": "安妮之家；不在 D 前 2000 · Goodreads 5,919,987"
+  },
+  {
+   "title": "Girl with a Pearl Earring",
+   "author": "Tracy Chevalier",
+   "kind": "外国",
+   "points": {
+    "E": 2
+   },
+   "score": 2,
+   "cats": [
+    "E"
+   ],
+   "in_app": "girl-with-a-pearl-earring",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "待定",
+   "note": "代尔夫特；不在 D 前 2000；Goodreads 804,010"
+  },
+  {
+   "title": "The Miniaturist",
+   "author": "Jessie Burton",
+   "kind": "外国",
+   "points": {
+    "E": 2
+   },
+   "score": 2,
+   "cats": [
+    "E"
+   ],
+   "in_app": "the-miniaturist",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "待定",
+   "note": "绅士运河；不在 D 前 2000；Goodreads 156,584"
+  },
+  {
+   "title": "The Black Tulip",
+   "author": "Alexandre Dumas",
+   "kind": "外国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": "black-tulip",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "待定",
+   "note": "海牙监狱门；不在 D 前 2000；Goodreads 25,363"
+  },
+  {
+   "title": "Hans Brinker",
+   "author": "Mary Mapes Dodge",
+   "kind": "外国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": "hans-brinker",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "待定",
+   "note": "不在 D 前 2000；Goodreads 17,425"
+  },
+  {
+   "title": "The Fall",
+   "author": "Albert Camus",
+   "kind": "外国",
+   "points": {
+    "D": 1,
+    "E": 2
+   },
+   "score": 3,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": "the-fall-camus",
+   "decision": "保留",
+   "first_draft": "待定",
+   "note": "D 941；Goodreads 149,170"
+  }
+ ]
+}

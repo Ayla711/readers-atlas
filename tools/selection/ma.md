@@ -1,0 +1,37 @@
+# 摩洛哥 选书评分（2026-11-24，规则 v2）
+
+## 来源
+
+- **A1** 「非洲 20 世纪百部最佳图书」（2002）
+- **A2** 阿拉伯作家联合会「20 世纪最佳阿拉伯语小说 105 部」（2001）
+- **A3** 《The National》「20 世纪最重要的 50 部阿拉伯语小说」
+- **A4** Banipal「100 部最佳阿拉伯语小说」（2018）：第 1–50 名全表（Goodreads 小组转录）里《裸面包》第 3，其他摩洛哥书不在前 50
+- **B** 摩洛哥高中一年级法语课整本书阅读：塞弗留伊《奇妙的盒子》（9rayti、alloschool 等课程网站和学校书单）
+- **C** 龚古尔奖、都柏林文学奖、摩洛哥文学大奖
+- **D** thegreatestbooks.org「Set in Morocco」总榜名次；11-24 对照总榜前 2000 名逐页重读，表中 D 以重读为准
+- **E** Goodreads 评分人数（moroccan-literature 书架页，2026-11-24）；11-24 用 Goodreads 自动补全接口逐本重查，表中 E 以重查为准
+
+## 候选与得分
+
+证据项：每份本国书单（A1、A2……）各算一项，另有 B 课本与全集、C 奖项（含诺贝尔）、I 国际经典（世界文库、thegreatestbooks）、E 读者面（Goodreads）。有两项以上，或进某份 A 名单前 10，就够线。
+
+| # | 书 | 作者 | 类 | 明细 | 分 | 证据项 | 已在应用里 | 处理（v2） | v1 初稿（作废，仅供对照） | 说明 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | For Bread Alone | Mohamed Choukri | 本国 | A2+3 A3+3 A4+4 E+1 | 11 | 4 | 是 | 保留 | 保留 | 丹吉尔；不在 D 前 2000 · Goodreads 12,122 |
+| 2 | The Woman and the Rose | Mohamed Zafzaf | 本国 | A2+3 A3+3 | 6 | 2 |  | 新增 | 新增（地点待查） | 需确认写的是摩洛哥还是西班牙；不在 D 前 2000 · Goodreads 190 |
+| 3 | The Sacred Night | Tahar Ben Jelloun | 本国 | A1+3 C+2 | 5 | 2 |  | 新增 | 新增 | 龚古尔奖 1987；不在 D 前 2000 · Goodreads 1,831 |
+| 4 | La Boîte à merveilles | Ahmed Sefrioui | 本国 | B+2 C+2 | 4 | 2 |  | 新增 | 新增 | 非斯老城；摩洛哥文学大奖；不在 D 前 2000 · Goodreads 1,622 |
+| 5 | This Blinding Absence of Light | Tahar Ben Jelloun | 本国 | C+2 E+1 | 3 | 2 |  | 新增 | 不收 | 本·杰伦第二本；不在 D 前 2000 · Goodreads 13,983 |
+| 6 | Le Passé simple | Driss Chraïbi | 本国 | A1+3 | 3 | 1 |  | 不收 | 不收 | 不在 D 前 2000 · Goodreads 490 |
+| 7 | The Game of Forgetting | Mohammed Berrada | 本国 | A2+3 | 3 | 1 |  | 不收 | 不收 | 不在 D 前 2000 · Goodreads 290 |
+| 8 | In the Country of Others | Leïla Slimani | 本国 | E+1 | 1 | 1 |  | 不收 | 不收 | 不在 D 前 2000 · Goodreads 23,468 |
+| 9 | The Travels (Rihla) | Ibn Battuta | 本国 |  | 0 | 0 | 是 | 删除（零项，复核后用户同意删） | 删除（零项，用户同意删） | 不在 D 前 2000；Goodreads 2,949 |
+| 10 | The Alchemist | Paulo Coelho | 外国 | D+2 E+3 | 5 | 2 |  | 新增 | 新增 | 丹吉尔；D 416 · Goodreads 3,796,122 |
+| 11 | Naked Lunch | William S. Burroughs | 外国 | D+2 E+2 | 4 | 2 |  | 新增 | 待定 | 丹吉尔；D 253 · Goodreads 101,400 |
+| 12 | The Voices of Marrakesh | Elias Canetti | 外国 |  | 0 | 0 | 是 | 删除（零项，复核后用户同意删） | 删除（零项，用户同意删） | 不在 D 前 2000；Goodreads 3,393 |
+| 13 | Southern Mail | Antoine de Saint-Exupéry | 外国 |  | 0 | 0 | 是 | 删除（零项，复核后用户同意删） | 删除（零项，用户同意删） | 不在 D 前 2000；Goodreads 2,340 |
+| 14 | Au Maroc | Pierre Loti | 外国 |  | 0 | 0 | 是 | 删除（零项，复核后用户同意删） | 删除（零项，用户同意删） | 不在 D 前 2000；Goodreads 44 |
+| 15 | The Innocents Abroad | Mark Twain | 他国书目 |  | 0 | 0 | 是 | 属于 it 的书，挂在这里，不在此评 |  |  |
+
+## 说明
+规则 v2（11-24 晚）：两项证据或进 A 名单前 10 就够格；已有的书不因分数删；同一作者够格的都收；不设名额。本表结果：新增 6，保留 1，删除（零项） 4，不收 3，他国书目（不在此评） 1。 伊本·白图泰《游记》、卡内蒂《马拉喀什之声》、圣埃克苏佩里《南方邮航》、洛蒂《在摩洛哥》复核后仍是零项，删。

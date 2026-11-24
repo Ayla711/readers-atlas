@@ -1,0 +1,315 @@
+{
+ "cc": "ng",
+ "name": "尼日利亚",
+ "date": "2026-11-24",
+ "rule": "v2",
+ "sources": {
+  "A1": "「非洲 20 世纪百部最佳图书」（2002）— thegreatestbooks.org/lists/254；《瓦解》在前 12 名（按前 10 加分）",
+  "A2": "editoreric.com「尼日利亚文学最伟大的 22 部」（按年代排列，不分名次）",
+  "B": "西非考试委员会（WAEC）文学指定书目每几年一换，没有找到可核对的历年全表，此类空缺",
+  "C": "诺贝尔文学奖（索因卡 1986）、布克奖、女性小说奖（原橘子奖）、英联邦作家奖",
+  "BK": "挪威世界文库 100 本：阿契贝《瓦解》",
+  "D": "thegreatestbooks.org「Set in Nigeria」总榜名次；11-24 对照总榜前 2000 名逐页重读，表中 D 以重读为准",
+  "E": "Goodreads 评分人数（nigerian-literature 书架页，2026-11-24）；11-24 用 Goodreads 自动补全接口逐本重查，表中 E 以重查为准"
+ },
+ "size_note": "规则 v2（11-24 晚）：两项证据或进 A 名单前 10 就够格；已有的书不因分数删；同一作者够格的都收；不设名额。本表结果：新增 5，保留 5，保留（只有一类证据） 2，删除（零项） 1，不收 3。 阿迪契、阿契贝、索因卡各有两三本够格或已在应用里，按 v2 都收。",
+ "rows": [
+  {
+   "title": "Things Fall Apart",
+   "author": "Chinua Achebe",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "A2": 3,
+    "BK": 3,
+    "D": 2,
+    "E": 2
+   },
+   "score": 14,
+   "cats": [
+    "A1",
+    "A2",
+    "E",
+    "I"
+   ],
+   "in_app": "things-fall-apart",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "D 60 · Goodreads 430,260"
+  },
+  {
+   "title": "The Famished Road",
+   "author": "Ben Okri",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 3,
+    "C": 2,
+    "D": 1,
+    "E": 1
+   },
+   "score": 10,
+   "cats": [
+    "A1",
+    "A2",
+    "C",
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "布克奖 1991；拉各斯的无名贫民区，挂拉各斯；D 1470 · Goodreads 14,009"
+  },
+  {
+   "title": "Half of a Yellow Sun",
+   "author": "Chimamanda Ngozi Adichie",
+   "kind": "本国",
+   "points": {
+    "A2": 3,
+    "C": 2,
+    "D": 1,
+    "E": 2
+   },
+   "score": 8,
+   "cats": [
+    "A2",
+    "C",
+    "E",
+    "I"
+   ],
+   "in_app": "half-of-a-yellow-sun",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "橘子奖 2007；D 1122 · Goodreads 195,054"
+  },
+  {
+   "title": "Arrow of God",
+   "author": "Chinua Achebe",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 3,
+    "D": 1
+   },
+   "score": 7,
+   "cats": [
+    "A1",
+    "A2",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "待定",
+   "note": "D 709 · Goodreads 9,980"
+  },
+  {
+   "title": "Americanah",
+   "author": "Chimamanda Ngozi Adichie",
+   "kind": "本国",
+   "points": {
+    "A2": 3,
+    "D": 2,
+    "E": 2
+   },
+   "score": 7,
+   "cats": [
+    "A2",
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "待定",
+   "note": "拉各斯、恩苏卡部分；D 436 · Goodreads 429,665"
+  },
+  {
+   "title": "The Palm-Wine Drinkard",
+   "author": "Amos Tutuola",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 3,
+    "D": 1
+   },
+   "score": 7,
+   "cats": [
+    "A1",
+    "A2",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "约鲁巴神话丛林，挂作者家乡阿贝奥库塔；D 833 · Goodreads 4,144"
+  },
+  {
+   "title": "Death and the King's Horseman",
+   "author": "Wole Soyinka",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 3,
+    "N": 1
+   },
+   "score": 7,
+   "cats": [
+    "A1",
+    "A2",
+    "C"
+   ],
+   "in_app": "death-and-the-kings-horseman",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "奥约；不在 D 前 2000 · Goodreads 5,790"
+  },
+  {
+   "title": "Purple Hibiscus",
+   "author": "Chimamanda Ngozi Adichie",
+   "kind": "本国",
+   "points": {
+    "A2": 3,
+    "C": 2,
+    "E": 2
+   },
+   "score": 7,
+   "cats": [
+    "A2",
+    "C",
+    "E"
+   ],
+   "in_app": "purple-hibiscus",
+   "decision": "保留",
+   "first_draft": "删除",
+   "note": "阿迪契第三本（英联邦作家奖最佳处女作 2005）；不在 D 前 2000 · Goodreads 153,211"
+  },
+  {
+   "title": "The Joys of Motherhood",
+   "author": "Buchi Emecheta",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 3
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "拉各斯、伊布扎；不在 D 前 2000 · Goodreads 8,910"
+  },
+  {
+   "title": "Labyrinths",
+   "author": "Christopher Okigbo",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "不收",
+   "note": "不在 D 前 2000 · Goodreads 88"
+  },
+  {
+   "title": "Forest of a Thousand Daemons",
+   "author": "D. O. Fagunwa",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "不收",
+   "note": "不在 D 前 2000 · Goodreads 923"
+  },
+  {
+   "title": "Aké: The Years of Childhood",
+   "author": "Wole Soyinka",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": "ake-years-of-childhood",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "删除",
+   "note": "索因卡第二本；不在 D 前 2000；Goodreads 2,099"
+  },
+  {
+   "title": "My Sister, the Serial Killer",
+   "author": "Oyinkan Braithwaite",
+   "kind": "本国",
+   "points": {
+    "E": 2
+   },
+   "score": 2,
+   "cats": [
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "不收",
+   "note": "不在 D 前 2000 · Goodreads 389,116"
+  },
+  {
+   "title": "The Interesting Narrative",
+   "author": "Olaudah Equiano",
+   "kind": "本国",
+   "points": {
+    "D": 1,
+    "E": 1
+   },
+   "score": 2,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": "interesting-narrative",
+   "decision": "保留",
+   "first_draft": "删除",
+   "note": "D 1888；Goodreads 15,346"
+  },
+  {
+   "title": "No Longer at Ease",
+   "author": "Chinua Achebe",
+   "kind": "本国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": "no-longer-at-ease",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "删除",
+   "note": "阿契贝第三本；不在 D 前 2000；Goodreads 13,743"
+  },
+  {
+   "title": "Efuru",
+   "author": "Flora Nwapa",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "efuru",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "删除（零项，用户同意删）",
+   "note": "不在 D 前 2000；Goodreads 1,220；复核：不在非洲百部（thegreatestbooks 第 254 号书单全表）"
+  }
+ ]
+}

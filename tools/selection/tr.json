@@ -1,0 +1,368 @@
+{
+ "cc": "tr",
+ "name": "土耳其",
+ "date": "2026-11-24",
+ "rule": "v2",
+ "sources": {
+  "A1": "《自由报》周日版 2017 年由 100 位评论家、作家、学者、文学教师和出版人评出的「土耳其文学有史以来最好的 100 部小说」— diken.com.tr 转载（前 10 名有编号，其余按出现顺序）",
+  "B": "土耳其教育部中学书目没有找到可核对的全表，此类空缺",
+  "C": "诺贝尔文学奖（帕慕克 2006）",
+  "BK": "挪威世界文库 100 本：荷马《伊利亚特》",
+  "D": "thegreatestbooks.org「Set in Turkey」总榜名次；11-24 对照总榜前 2000 名逐页重读，表中 D 以重读为准",
+  "E": "Goodreads 评分人数（turkish-literature 书架页，2026-11-24）；11-24 用 Goodreads 自动补全接口逐本重查，表中 E 以重查为准"
+ },
+ "size_note": "规则 v2（11-24 晚）：两项证据或进 A 名单前 10 就够格；已有的书不因分数删；同一作者够格的都收；不设名额。本表结果：新增 11，保留 6，删除（零项） 1，不收 2。",
+ "rows": [
+  {
+   "title": "My Name Is Red",
+   "author": "Orhan Pamuk",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "N": 1,
+    "D": 1,
+    "E": 1
+   },
+   "score": 7,
+   "cats": [
+    "A1",
+    "C",
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "伊斯坦布尔；D 1264 · Goodreads 63,890"
+  },
+  {
+   "title": "Memed, My Hawk",
+   "author": "Yaşar Kemal",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "D": 1,
+    "E": 1
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "E",
+    "I"
+   ],
+   "in_app": "memed-my-hawk",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "评委榜第 1；D 721 · Goodreads 14,334"
+  },
+  {
+   "title": "Tutunamayanlar (The Disconnected)",
+   "author": "Oğuz Atay",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "E": 1
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "安卡拉、伊斯坦布尔；不在 D 前 2000 · Goodreads 13,215"
+  },
+  {
+   "title": "The Time Regulation Institute",
+   "author": "Ahmet Hamdi Tanpınar",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "E": 1
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "伊斯坦布尔；不在 D 前 2000 · Goodreads 17,291"
+  },
+  {
+   "title": "Aylak Adam (The Idler)",
+   "author": "Yusuf Atılgan",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "E": 1
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "伊斯坦布尔贝伊奥卢；不在 D 前 2000 · Goodreads 18,965"
+  },
+  {
+   "title": "Puslu Kıtalar Atlası",
+   "author": "İhsan Oktay Anar",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "E": 1
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "奥斯曼时代伊斯坦布尔；不在 D 前 2000 · Goodreads 23,547"
+  },
+  {
+   "title": "Madonna in a Fur Coat",
+   "author": "Sabahattin Ali",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "E": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "主线在柏林，框架故事在安卡拉；挂安卡拉；不在 D 前 2000 · Goodreads 149,794"
+  },
+  {
+   "title": "The Black Book",
+   "author": "Orhan Pamuk",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "E": 1
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "待定",
+   "note": "不在 D 前 2000 · Goodreads 13,816"
+  },
+  {
+   "title": "Huzur (A Mind at Peace)",
+   "author": "Ahmet Hamdi Tanpınar",
+   "kind": "本国",
+   "points": {
+    "A1": 4
+   },
+   "score": 4,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "待定",
+   "note": "不在 D 前 2000 · Goodreads 5,633"
+  },
+  {
+   "title": "Bereketli Topraklar Üzerinde",
+   "author": "Orhan Kemal",
+   "kind": "本国",
+   "points": {
+    "A1": 4
+   },
+   "score": 4,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "不收",
+   "note": "不在 D 前 2000 · Goodreads 1,744"
+  },
+  {
+   "title": "Aşk-ı Memnu",
+   "author": "Halit Ziya Uşaklıgil",
+   "kind": "本国",
+   "points": {
+    "A1": 4
+   },
+   "score": 4,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "不收",
+   "note": "不在 D 前 2000 · Goodreads 4,338"
+  },
+  {
+   "title": "Çalıkuşu",
+   "author": "Reşat Nuri Güntekin",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "不收",
+   "note": "不在 D 前 2000 · Goodreads 20,344"
+  },
+  {
+   "title": "The Museum of Innocence",
+   "author": "Orhan Pamuk",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": "museum-of-innocence",
+   "decision": "保留",
+   "first_draft": "删除（见名额说明）",
+   "note": "帕慕克第三本；不在 D 前 2000 · Goodreads 42,567"
+  },
+  {
+   "title": "Snow",
+   "author": "Orhan Pamuk",
+   "kind": "本国",
+   "points": {
+    "D": 1,
+    "E": 1
+   },
+   "score": 2,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": "pamuk-snow",
+   "decision": "保留",
+   "first_draft": "删除",
+   "note": "帕慕克第四本；D 1504 · Goodreads 50,829"
+  },
+  {
+   "title": "The Forty Rules of Love",
+   "author": "Elif Shafak",
+   "kind": "本国",
+   "points": {
+    "E": 2
+   },
+   "score": 2,
+   "cats": [
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "不收",
+   "note": "不在 D 前 2000 · Goodreads 219,268"
+  },
+  {
+   "title": "The Iliad",
+   "author": "Homer",
+   "kind": "外国",
+   "points": {
+    "BK": 3,
+    "D": 2,
+    "E": 2
+   },
+   "score": 7,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": "iliad",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "特洛伊；D 37 · Goodreads 544,095"
+  },
+  {
+   "title": "Murder on the Orient Express",
+   "author": "Agatha Christie",
+   "kind": "外国",
+   "points": {
+    "D": 2,
+    "E": 2
+   },
+   "score": 4,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": "murder-on-the-orient-express",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "锡尔凯吉车站；D 470；Goodreads 783,116"
+  },
+  {
+   "title": "The Forty Days of Musa Dagh",
+   "author": "Franz Werfel",
+   "kind": "外国",
+   "points": {
+    "D": 1
+   },
+   "score": 1,
+   "cats": [
+    "I"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "不收",
+   "note": "D 1699 · Goodreads 2,191"
+  },
+  {
+   "title": "Anabasis",
+   "author": "Xenophon",
+   "kind": "外国",
+   "points": {
+    "D": 1,
+    "E": 1
+   },
+   "score": 2,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": "anabasis",
+   "decision": "保留",
+   "first_draft": "删除",
+   "note": "D 925；Goodreads 10,422"
+  },
+  {
+   "title": "Written After Swimming from Sestos to Abydos",
+   "author": "Lord Byron",
+   "kind": "外国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "sestos-to-abydos",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "删除（零项，用户同意删）",
+   "note": "不在 D 前 2000；Goodreads 查不到"
+  }
+ ]
+}

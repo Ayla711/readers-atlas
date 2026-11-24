@@ -1,0 +1,643 @@
+{
+ "cc": "eg",
+ "name": "埃及",
+ "date": "2026-11-24",
+ "rule": "v2",
+ "sources": {
+  "A1": "阿拉伯作家联合会「20 世纪最佳阿拉伯语小说 105 部」（2001）— arablit.org 全表",
+  "A2": "Banipal 杂志「100 部最佳阿拉伯语小说」（2018）第 1–50 名 — Goodreads 中东北非文学小组逐条转录；第 51–100 名找不到全表（查过 Goodreads 两个转录帖、arablit、The Arab Weekly），这部分在本名单上记 0；已有的书不会因此被删",
+  "A3": "《The National》「20 世纪最重要的 50 部阿拉伯语小说」（按国家排列，不分名次）",
+  "A4": "「非洲 20 世纪百部最佳图书」（2002）；开罗三部曲在前 12 名",
+  "B": "埃及中学语文课本：塔哈·侯赛因《日子》；英国 AQA 中学会考诗选（Power and Conflict）：雪莱《奥兹曼迪亚斯》",
+  "C": "诺贝尔文学奖（马哈福兹 1988）、阿拉伯小说国际奖、布克奖",
+  "BK": "挪威世界文库 100 本：马哈福兹《街区的孩子》",
+  "D": "thegreatestbooks.org「Set in Egypt」总榜名次（前 500 记 2，前 2000 记 1）；11-24 对照总榜前 2000 名逐页重读，表中 D 以重读为准",
+  "E": "Goodreads 评分人数（≥100 万 3，≥10 万 2，≥1 万 1）；11-24 用 Goodreads 自动补全接口逐本重查，表中 E 以重查为准"
+ },
+ "size_note": "规则 v2（11-24 晚）：两项证据或进 A 名单前 10 就够格；已有的书不因分数删；同一作者够格的都收；不设名额。本表结果：新增 21，保留 4，保留（只有一类证据） 2，不收 4，不算/没有真实地点 1，他国书目（不在此评） 3。 埃及 v1 删《米达格胡同》《亚库班公寓》《尼罗河上的惨案》《奥兹曼迪亚斯》是 v1 的断档线造成的，v2 全部保留：前两本进了 Banipal 前 50，《尼罗河上的惨案》Goodreads 32.9 万人，《奥兹曼迪亚斯》在英国 AQA 中学考试诗选里。马哈福兹四本都够格，四本都收。",
+ "rows": [
+  {
+   "title": "The Cairo Trilogy (Palace Walk)",
+   "author": "Naguib Mahfouz",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "A2": 4,
+    "A3": 3,
+    "A4": 4,
+    "N": 1,
+    "D": 1,
+    "E": 1
+   },
+   "score": 18,
+   "cats": [
+    "A1",
+    "A2",
+    "A3",
+    "A4",
+    "C",
+    "E",
+    "I"
+   ],
+   "in_app": "palace-walk",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "D 1079 · Goodreads 23,886"
+  },
+  {
+   "title": "Children of the Alley",
+   "author": "Naguib Mahfouz",
+   "kind": "本国",
+   "points": {
+    "A2": 4,
+    "BK": 3,
+    "D": 1,
+    "E": 1
+   },
+   "score": 9,
+   "cats": [
+    "A2",
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "虚构的开罗老街区，挂杰马利亚；D 1194 · Goodreads 33,035"
+  },
+  {
+   "title": "Midaq Alley",
+   "author": "Naguib Mahfouz",
+   "kind": "本国",
+   "points": {
+    "A2": 3,
+    "D": 1,
+    "E": 1
+   },
+   "score": 5,
+   "cats": [
+    "A2",
+    "E",
+    "I"
+   ],
+   "in_app": "midaq-alley",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "Banipal 第 49；D 830 · Goodreads 14,242"
+  },
+  {
+   "title": "The Harafish",
+   "author": "Naguib Mahfouz",
+   "kind": "本国",
+   "points": {
+    "A2": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A2",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "Banipal 第 16；虚构街区；不在 D 前 2000 · Goodreads 21,768"
+  },
+  {
+   "title": "The Thief and the Dogs",
+   "author": "Naguib Mahfouz",
+   "kind": "本国",
+   "points": {
+    "A2": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A2",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "Banipal 第 34；开罗；不在 D 前 2000 · Goodreads 13,461"
+  },
+  {
+   "title": "Zayni Barakat",
+   "author": "Gamal al-Ghitani",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 4,
+    "A4": 3
+   },
+   "score": 10,
+   "cats": [
+    "A1",
+    "A2",
+    "A4"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "马穆鲁克时代开罗；不在 D 前 2000 · Goodreads 3,876"
+  },
+  {
+   "title": "Rama and the Dragon",
+   "author": "Edwar al-Kharrat",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "A2": 4
+   },
+   "score": 8,
+   "cats": [
+    "A1",
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "亚历山大；不在 D 前 2000 · Goodreads 253"
+  },
+  {
+   "title": "No One Sleeps in Alexandria",
+   "author": "Ibrahim Abdel Meguid",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 3
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "亚历山大；不在 D 前 2000 · Goodreads 4,473"
+  },
+  {
+   "title": "Seeds of Corruption",
+   "author": "Sabri Moussa",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 3
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "地点待查；不在 D 前 2000 · Goodreads 1"
+  },
+  {
+   "title": "The Heron",
+   "author": "Ibrahim Aslan",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 3
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "开罗因巴巴；不在 D 前 2000 · Goodreads 2,806"
+  },
+  {
+   "title": "The Lamp of Umm Hashim",
+   "author": "Yahya Haqqi",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 3
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "开罗赛义达·宰娜卜清真寺；不在 D 前 2000 · Goodreads 5,861"
+  },
+  {
+   "title": "Return of the Spirit",
+   "author": "Tawfiq al-Hakim",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 3,
+    "A3": 3
+   },
+   "score": 9,
+   "cats": [
+    "A1",
+    "A2",
+    "A3"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "开罗；不在 D 前 2000 · Goodreads 4,427"
+  },
+  {
+   "title": "The Open Door",
+   "author": "Latifa al-Zayyat",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 3
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "开罗、塞得港；不在 D 前 2000 · Goodreads 3,760"
+  },
+  {
+   "title": "Azazeel",
+   "author": "Youssef Ziedan",
+   "kind": "本国",
+   "points": {
+    "A2": 3,
+    "C": 2,
+    "E": 1
+   },
+   "score": 6,
+   "cats": [
+    "A2",
+    "C",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "艾赫米姆、亚历山大；不在 D 前 2000 · Goodreads 52,747"
+  },
+  {
+   "title": "The Yacoubian Building",
+   "author": "Alaa Al Aswany",
+   "kind": "本国",
+   "points": {
+    "A2": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A2",
+    "E"
+   ],
+   "in_app": "yacoubian-building",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "Banipal 第 32；不在 D 前 2000 · Goodreads 24,108"
+  },
+  {
+   "title": "Woman at Point Zero",
+   "author": "Nawal El Saadawi",
+   "kind": "本国",
+   "points": {
+    "A4": 3,
+    "D": 1,
+    "E": 1
+   },
+   "score": 5,
+   "cats": [
+    "A4",
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "开罗卡纳蒂尔女子监狱；D 1195 · Goodreads 36,837"
+  },
+  {
+   "title": "The Call of the Curlew",
+   "author": "Taha Hussein",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A3": 3
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "A3"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "上埃及乡村，地点待查；不在 D 前 2000 · Goodreads 6,301"
+  },
+  {
+   "title": "The Days (al-Ayyam)",
+   "author": "Taha Hussein",
+   "kind": "本国",
+   "points": {
+    "B": 2,
+    "E": 1
+   },
+   "score": 3,
+   "cats": [
+    "B",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "明亚省家乡村庄、爱资哈尔；不在 D 前 2000 · Goodreads 12,094"
+  },
+  {
+   "title": "Sunset Oasis",
+   "author": "Bahaa Taher",
+   "kind": "本国",
+   "points": {
+    "C": 2,
+    "E": 1
+   },
+   "score": 3,
+   "cats": [
+    "C",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "锡瓦绿洲；arablit 说它没进 Banipal 名单；不在 D 前 2000 · Goodreads 15,030"
+  },
+  {
+   "title": "Sharaf (Honor)",
+   "author": "Sonallah Ibrahim",
+   "kind": "本国",
+   "points": {
+    "A1": 4
+   },
+   "score": 4,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "监狱，地点待查；不在 D 前 2000 · Goodreads 2,262"
+  },
+  {
+   "title": "Zaat",
+   "author": "Sonallah Ibrahim",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "不收",
+   "note": "不在 D 前 2000 · Goodreads 5,624"
+  },
+  {
+   "title": "August Star",
+   "author": "Sonallah Ibrahim",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "不收",
+   "note": "阿斯旺高坝；不在 D 前 2000 · Goodreads 237"
+  },
+  {
+   "title": "War in the Land of Egypt",
+   "author": "Yusuf al-Qa'id",
+   "kind": "本国",
+   "points": {
+    "A1": 4
+   },
+   "score": 4,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "地点待查；不在 D 前 2000 · Goodreads 1,136"
+  },
+  {
+   "title": "Death on the Asphalt",
+   "author": "Abd al-Rahman al-Abnudi",
+   "kind": "本国",
+   "points": {
+    "A4": 3
+   },
+   "score": 3,
+   "cats": [
+    "A4"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "不收",
+   "note": "长诗；不在 D 前 2000 · Goodreads 834"
+  },
+  {
+   "title": "Granada Trilogy",
+   "author": "Radwa Ashour",
+   "kind": "本国（写西班牙）",
+   "points": {
+    "A1": 3,
+    "A2": 3,
+    "E": 1
+   },
+   "score": 7,
+   "cats": [
+    "A1",
+    "A2",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不算埃及",
+   "first_draft": "不算埃及",
+   "note": "不在 D 前 2000 · Goodreads 53,745"
+  },
+  {
+   "title": "The English Patient",
+   "author": "Michael Ondaatje",
+   "kind": "外国",
+   "points": {
+    "C": 2,
+    "D": 1,
+    "E": 2
+   },
+   "score": 5,
+   "cats": [
+    "C",
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "开罗、吉尔夫凯比尔；D 621 · Goodreads 143,328"
+  },
+  {
+   "title": "The Alchemist",
+   "author": "Paulo Coelho",
+   "kind": "外国",
+   "points": {
+    "D": 2,
+    "E": 3
+   },
+   "score": 5,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "法尤姆、吉萨；D 416 · Goodreads 3,796,122"
+  },
+  {
+   "title": "The Alexandria Quartet",
+   "author": "Lawrence Durrell",
+   "kind": "外国",
+   "points": {
+    "D": 2,
+    "E": 1
+   },
+   "score": 3,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": "alexandria-quartet",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "D 258 · Goodreads 12,367"
+  },
+  {
+   "title": "The Egyptian",
+   "author": "Mika Waltari",
+   "kind": "外国",
+   "points": {
+    "D": 1,
+    "E": 1
+   },
+   "score": 2,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "古埃及底比斯；D 1178 · Goodreads 29,746"
+  },
+  {
+   "title": "Death on the Nile",
+   "author": "Agatha Christie",
+   "kind": "外国",
+   "points": {
+    "E": 2
+   },
+   "score": 2,
+   "cats": [
+    "E"
+   ],
+   "in_app": "death-on-the-nile",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "保留",
+   "note": "阿斯旺老瀑布酒店；不在 D 前 2000；Goodreads 328,527"
+  },
+  {
+   "title": "Joseph and His Brothers",
+   "author": "Thomas Mann",
+   "kind": "外国",
+   "points": {
+    "D": 2
+   },
+   "score": 2,
+   "cats": [
+    "I"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "不收",
+   "note": "D 479 · Goodreads 2,342"
+  },
+  {
+   "title": "Ozymandias",
+   "author": "Percy Bysshe Shelley",
+   "kind": "外国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": "ozymandias",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "保留",
+   "note": "拉美西姆神庙；不在 D 前 2000；Goodreads 3,295"
+  },
+  {
+   "title": "The Histories",
+   "author": "Herodotus",
+   "kind": "他国书目",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "histories",
+   "decision": "属于 gr 的书，挂在这里，不在此评",
+   "first_draft": "",
+   "note": ""
+  },
+  {
+   "title": "Collected Poems",
+   "author": "C. P. Cavafy",
+   "kind": "他国书目",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "cavafy",
+   "decision": "属于 gr 的书，挂在这里，不在此评",
+   "first_draft": "",
+   "note": ""
+  },
+  {
+   "title": "The Innocents Abroad",
+   "author": "Mark Twain",
+   "kind": "他国书目",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "innocents-abroad",
+   "decision": "属于 it 的书，挂在这里，不在此评",
+   "first_draft": "",
+   "note": ""
+  }
+ ]
+}

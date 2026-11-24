@@ -1,0 +1,290 @@
+{
+ "cc": "hu",
+ "name": "匈牙利",
+ "date": "2026-11-24",
+ "rule": "v2",
+ "sources": {
+  "A1": "匈牙利电视台「A Nagy Könyv」（大书，2005，BBC Big Read 的匈牙利版）百部名单里的 50 部匈牙利小说 — 英文维基；进 12 部决赛的《埃格尔之星》《帕尔街的男孩》《阿比盖尔》《金人》按前 10 加分",
+  "B": "2020 年国家基本教学大纲（NAT）的必读书 — eduline.hu 逐年级书单；诗歌篇目另查 2020 高中课程框架（9–12 年级）和按框架写的学校课程",
+  "C": "诺贝尔文学奖（凯尔泰斯 2002、克拉斯诺霍尔卡伊 2025）",
+  "D": "thegreatestbooks.org「Set in Hungary」总榜名次；11-24 对照总榜前 2000 名逐页重读，表中 D 以重读为准",
+  "E": "Goodreads 评分人数（hungarian-literature 书架页，2026-11-24；同一本书不同语种版本分开计，只取页面上的数）；11-24 用 Goodreads 自动补全接口逐本重查，表中 E 以重查为准"
+ },
+ "size_note": "规则 v2（11-24 晚）：两项证据或进 A 名单前 10 就够格；已有的书不因分数删；同一作者够格的都收；不设名额。本表结果：新增 9，保留 3，保留（只有一类证据） 2，不收 1。 两首诗都找到了课程来源：约瑟夫·阿蒂拉《在多瑙河边》在 2020 高中课程框架里点名；裴多菲《平原》只在按框架写的学校课程里看到（推荐篇目），框架原文没能打开。两首都保留。",
+ "rows": [
+  {
+   "title": "Eclipse of the Crescent Moon (Egri csillagok)",
+   "author": "Géza Gárdonyi",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "B": 2
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "B"
+   ],
+   "in_app": "egri-csillagok",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "大书投票第 1；不在 D 前 2000 · Goodreads 3,187"
+  },
+  {
+   "title": "The Paul Street Boys",
+   "author": "Ferenc Molnár",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "B": 2,
+    "E": 1
+   },
+   "score": 7,
+   "cats": [
+    "A1",
+    "B",
+    "E"
+   ],
+   "in_app": "pal-utcai-fiuk",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "不在 D 前 2000 · Goodreads 26,847"
+  },
+  {
+   "title": "Abigail (Abigél)",
+   "author": "Magda Szabó",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "B": 2,
+    "E": 1
+   },
+   "score": 7,
+   "cats": [
+    "A1",
+    "B",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增（地点待查）",
+   "note": "书里的阿尔科德镇是虚构的；不在 D 前 2000 · Goodreads 12,722"
+  },
+  {
+   "title": "The Door",
+   "author": "Magda Szabó",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "B": 2,
+    "E": 1
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "B",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "待定",
+   "note": "布达佩斯；不在 D 前 2000 · Goodreads 42,343"
+  },
+  {
+   "title": "The Man with the Golden Touch (Az arany ember)",
+   "author": "Mór Jókai",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "B": 2
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "B"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "科马罗姆、多瑙河；不在 D 前 2000 · Goodreads 2,581"
+  },
+  {
+   "title": "Embers",
+   "author": "Sándor Márai",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "D": 1,
+    "E": 1
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增（地点待查）",
+   "note": "书里的庄园没写地名；D 504 · Goodreads 51,469"
+  },
+  {
+   "title": "Be Faithful Unto Death",
+   "author": "Zsigmond Móricz",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "B": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "B"
+   ],
+   "in_app": "legy-jo-mindhalalig",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "德布勒森；不在 D 前 2000 · Goodreads 1,586"
+  },
+  {
+   "title": "The Tót Family (Tóték)",
+   "author": "István Örkény",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "B": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "B"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增（地点待查）",
+   "note": "马特劳圣安娜是虚构村名；不在 D 前 2000 · Goodreads 1,966"
+  },
+  {
+   "title": "Fatelessness",
+   "author": "Imre Kertész",
+   "kind": "本国",
+   "points": {
+    "N": 1,
+    "D": 2,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "C",
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "不收",
+   "note": "布达佩斯部分很短；D 495 · Goodreads 14,441"
+  },
+  {
+   "title": "Anna Édes",
+   "author": "Dezső Kosztolányi",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "D": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "不收",
+   "note": "D 1759 · Goodreads 4,173"
+  },
+  {
+   "title": "Celestial Harmonies",
+   "author": "Péter Esterházy",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "D": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "不收",
+   "note": "D 1767 · Goodreads 698"
+  },
+  {
+   "title": "Satantango",
+   "author": "László Krasznahorkai",
+   "kind": "本国",
+   "points": {
+    "N": 1,
+    "E": 1
+   },
+   "score": 2,
+   "cats": [
+    "C",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "不收",
+   "note": "不在 D 前 2000 · Goodreads 20,066"
+  },
+  {
+   "title": "János vitéz",
+   "author": "Sándor Petőfi",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "不收",
+   "note": "不在 D 前 2000 · Goodreads 1,087"
+  },
+  {
+   "title": "The Great Plain (Az Alföld)",
+   "author": "Sándor Petőfi",
+   "kind": "本国",
+   "points": {
+    "B": 1
+   },
+   "score": 1,
+   "cats": [
+    "B"
+   ],
+   "in_app": "az-alfold",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "删除（见名额说明）",
+   "note": "按 2020 课程框架写的学校课程里，5 年级“故乡、风景”单元的推荐篇目有《平原》（巴托尼亚罗姆学校课程）；框架原文没能打开，按推荐篇目记 1；不在 D 前 2000；Goodreads 查不到"
+  },
+  {
+   "title": "By the Danube (A Dunánál)",
+   "author": "Attila József",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": "a-dunanal",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "删除（见名额说明）",
+   "note": "2020 年高中课程框架（9–12 年级）约瑟夫·阿蒂拉一节点名《在多瑙河边》（ELTE 网站上的框架文本）；不在 D 前 2000；Goodreads 25"
+  }
+ ]
+}

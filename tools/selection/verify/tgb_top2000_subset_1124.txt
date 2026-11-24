@@ -1,0 +1,158 @@
+# thegreatestbooks.org overall ranks (top 2000, read 11-24), entries by authors in tools/selection specs (subset)
+10|Anna Karenina|Leo Tolstoy
+12|War and Peace|Leo Tolstoy
+21|The Bible|Unknown
+23|The Stranger|Albert Camus
+26|The Odyssey|Homer
+29|The Magic Mountain|Thomas Mann
+34|The Master and Margarita|Mikhail Bulgakov
+37|The Iliad|Homer
+38|Great Expectations|Charles Dickens
+39|Frankenstein|Mary Shelley
+44|The Little Prince|Antoine de Saint-Exupéry
+47|One Thousand and One Nights|Unknown
+48|David Copperfield|Charles Dickens
+50|Brave New World|Aldous Huxley
+56|Dracula|Bram Stoker
+60|Things Fall Apart|Chinua Achebe
+66|The Portrait of a Lady|Henry James
+72|The Plague|Albert Camus
+88|Buddenbrooks|Thomas Mann
+92|The Count of Monte Cristo|Alexandre Dumas
+94|Faust|Johann Wolfgang von Goethe
+97|Dead Souls|Nikolai Gogol
+117|The Diary of a Young Girl|Anne Frank
+118|Confessions|Augustine
+130|Doctor Faustus|Thomas Mann
+131|Bleak House|Charles Dickens
+138|The Three Musketeers|Alexandre Dumas
+154|Giovanni's Room|James Baldwin
+161|Siddhartha|Hermann Hesse
+162|Steppenwolf|Hermann Hesse
+165|The Hound of the Baskervilles|Arthur Conan Doyle
+194|Metamorphoses|Ovid
+197|And Then There Were None|Agatha Christie
+209|The Complete Sherlock Holmes|Arthur Conan Doyle
+214|Hunger|Knut Hamsun
+237|Fairy Tales and Stories|Hans Christian Andersen
+253|Naked Lunch|William S. Burroughs
+256|Austerlitz|W. G. Sebald
+258|The Alexandria Quartet|Lawrence Durrell
+259|Disgrace|J. M. Coetzee
+272|The Secret History|Donna Tartt
+275|The Sorrows of Young Werther|Johann Wolfgang von Goethe
+281|Independent People|Halldor Laxness
+283|Pippi Longstocking|Astrid Lindgren
+286|Cry, the Beloved Country|Alan Paton
+292|Kristin Lavransdatter|Sigrid Undset
+335|The Glass Bead Game|Hermann Hesse
+412|A Doll's House|Henrik Ibsen
+416|The Alchemist|Paulo Coelho
+433|I'm Not Stiller|Max Frisch
+436|Americanah|Chimamanda Ngozi Adichie
+454|Waiting for the Barbarians|J. M. Coetzee
+459|Out of Africa|Isak Dinesen
+470|Murder on the Orient Express|Agatha Christie
+472|Auto Da Fé|Elias Canetti
+477|The Immoralist|André Gide
+479|Joseph and His Brothers|Thomas Mann
+484|Her Lover|Albert Cohen
+495|Fateless or Fatelessness|Imre Kertész
+504|Embers|Sandor Marai
+512|The Red Room|August Strindberg
+517|Red Cavalry|Isaac Babel
+545|Max Havelaar|Multatuli
+572|Growth of the Soil|Knut Hamsun
+588|Green Henry|Gottfried Keller
+596|The Sheltering Sky|Paul Bowles
+621|The English Patient|Michael Ondaatje
+642|Beowulf|Unknown
+672|King Solomon's Mines|H. Rider Haggard
+704|Erewhon|Samuel Butler
+709|Arrow of God|Chinua Achebe
+721|Memed, My Hawk|Yashar Kemal
+728|The Goldfinch|Donna Tartt
+741|The Tree of Man|Patrick White
+754|Twenty Thousand Leagues Under the Sea|Jules Verne
+776|Cheese|Willem Elsschot
+804|Voss|Patrick White
+830|Midaq Alley|Naguib Mahfouz
+832|The Thorn Birds|Colleen McCullough
+835|Smilla's Sense of Snow|Peter Høeg
+838|The Black Spider|Jeremias Gotthelf
+839|Heidi|Johanna Spyri
+845|The Evenings|Gerard Reve
+846|Pallieter|Felix Timmermans
+850|A Town Like Alice|Nevil Shute
+857|Homo Faber|Max Frisch
+864|Reynard the Fox|Unknown
+886|My Struggle|Karl Ove Knausgård
+898|The Darkroom Of Damocles|W.F. Hermans
+902|Journey to the Center of the Earth|Jules Verne
+914|Burger's Daughter|Nadine Gordimer
+925|Anabasis|Xenophon
+941|The Fall|Albert Camus
+955|The Discovery of Heaven|Harry Mulisch
+972|Julie, or the New Heloise|Jean-Jacques Rousseau
+973|The Judge and His Hangman|Friedrich Dürrenmatt
+977|A Dry White Season|Andre Brink
+1003|The Fortunes Of Richard Mahony|Henry Handel Richardson
+1017|The Kalevala|Elias Lönnrot
+1034|Gösta Berling's Saga|Selma Lagerlöf
+1071|Chaka|Thomas Mofolo
+1076|The Christmas Oratorio|Göran Tunström
+1079|The Cairo Trilogy|Naguib Mahfouz
+1085|Fantasia|Assia Djebar
+1106|Tevye The Dairyman And The Railroad Stories|Sholem Aleichem
+1117|The Sorrow of Belgium|Hugo Claus
+1118|True History of the Kelly Gang|Peter Carey
+1122|Half of a Yellow Sun|Chimamanda Ngozi Adichie
+1173|The Bone People|Keri Hulme
+1178|The Egyptian|Mika Waltari
+1194|Children of Gebelawi|Naguib Mahfouz
+1195|Woman at Point Zero|Nawal El Saadawi
+1213|The Wonderful Adventures of Nils|Selma Lagerlöf
+1228|The Summer Book|Tove Jansson
+1233|The Unknown Soldier|Väinö Linna
+1237|The Laughing Policeman|Maj Sjöwall
+1262|The Days of His Grace|Eyvind Johnson
+1264|My Name is Red|Orhan Pamuk
+1268|Poems|Paul Celan
+1281|Voices from Chernobyl|Svetlana Alexievich
+1285|The Story Of An African Farm|Olive Schreiner
+1325|William Tell|Friedrich Schiller
+1416|Faceless Killers|Henning Mankell
+1434|Little Dorrit|Charles Dickens
+1456|The Garden Party And Other Stories|Katherine Mansfield
+1470|The Famished Road|Ben Okri
+1479|Pelle The Conqueror|Martin Andersen Nexø
+1481|The Alberta Trilogy|Cora Sandel
+1482|The People of Hemsö|August Strindberg
+1503|Eline Vere|Louis Couperus
+1504|Snow|Orhan Pamuk
+1518|Njal's Saga|Iceland
+1528|Beatrijs|Unknown
+1530|Oscar and Lucinda|Peter Carey
+1541|The Story Of My Experiments With Truth|Mahatma Gandhi
+1571|Pan|Knut Hamsun
+1575|The Prelude|William Wordsworth
+1582|Nostalgia|Mircea Cărtărescu
+1613|The Pledge|Friedrich Dürrenmatt
+1614|Gijsbrecht Van Aemstel|Joost van den Vondel
+1625|Down Second Avenue|Es'kia Mphahlele
+1632|The Emigrants|Vilhelm Moberg
+1656|Evenings On A Farm Near Dikanka|Nikolai Gogol
+1699|The Forty Days Of Musa Dagh|Franz Werfel
+1703|Life & Times of Michael K|J. M. Coetzee
+1732|Doctor Glas|Hjalmar Soderberg
+1737|Flowering Nettle|Harry Martinson
+1742|The White Guard|Mikhail Bulgakov
+1756|Kallocain|Karin Boye
+1759|Édes Anna|Dezső Kosztolányi
+1767|Celestial Harmonies|Peter Esterhazy
+1795|Sophie's World|Jostein Gaarder
+1800|Mysteries|Knut Hamsun
+1830|The Lion of Flanders|Hendrik Conscience
+1888|The Interesting Narrative of the Life of Olaudah Equiano|Olaudah Equiano
+1941|House with the Blind Glass Windows|Herbjørg Wassmo
+1945|West With the Night|Beryl Markham

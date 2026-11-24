@@ -1,0 +1,390 @@
+{
+ "cc": "za",
+ "name": "南非",
+ "date": "2026-11-24",
+ "rule": "v2",
+ "sources": {
+  "A1": "「非洲 20 世纪百部最佳图书」（津巴布韦国际书展，2002）— thegreatestbooks.org/lists/254 全表、德语维基；只有前 12 名有标记，南非作品都不在前 12",
+  "A2": "南非国家品牌网站 SouthAfrica.info「每个南非人都该读的 31 本书」（不分名次）",
+  "B": "南非高中考纲（CAPS/IEB）指定书目没有查到可靠的全表，此类空缺",
+  "C": "诺贝尔文学奖（库切 2003、戈迪默 1991，各加在得分最高的一本；曼德拉是和平奖，不算）、布克奖",
+  "BK": "挪威世界文库 100 本：库切《迈克尔·K 的生活和时代》",
+  "D": "thegreatestbooks.org 总榜名次（南非作家各榜、单书页）；11-24 对照总榜前 2000 名逐页重读，表中 D 以重读为准",
+  "E": "Goodreads 评分人数（南非书单 list/13145，2026-11-24）；11-24 用 Goodreads 自动补全接口逐本重查，表中 E 以重查为准"
+ },
+ "size_note": "规则 v2（11-24 晚）：两项证据或进 A 名单前 10 就够格；已有的书不因分数删；同一作者够格的都收；不设名额。本表结果：新增 6，保留 6，保留（只有一类证据） 1，删除（零项） 1，不收 6，他国书目（不在此评） 1。",
+ "rows": [
+  {
+   "title": "Disgrace",
+   "author": "J. M. Coetzee",
+   "kind": "本国",
+   "points": {
+    "A2": 3,
+    "C": 2,
+    "N": 1,
+    "D": 2,
+    "E": 2
+   },
+   "score": 10,
+   "cats": [
+    "A2",
+    "C",
+    "E",
+    "I"
+   ],
+   "in_app": "disgrace",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "布克奖 1999；D 259 · Goodreads 123,020"
+  },
+  {
+   "title": "Life & Times of Michael K",
+   "author": "J. M. Coetzee",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "BK": 3,
+    "C": 2,
+    "D": 1,
+    "E": 1
+   },
+   "score": 10,
+   "cats": [
+    "A1",
+    "C",
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "待定",
+   "note": "D 1703 · Goodreads 22,160"
+  },
+  {
+   "title": "Cry, the Beloved Country",
+   "author": "Alan Paton",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 3,
+    "D": 2,
+    "E": 1
+   },
+   "score": 9,
+   "cats": [
+    "A1",
+    "A2",
+    "E",
+    "I"
+   ],
+   "in_app": "cry-the-beloved-country",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "D 286 · Goodreads 81,733"
+  },
+  {
+   "title": "Long Walk to Freedom",
+   "author": "Nelson Mandela",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 3,
+    "E": 1
+   },
+   "score": 7,
+   "cats": [
+    "A1",
+    "A2",
+    "E"
+   ],
+   "in_app": "long-walk-to-freedom",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "不在 D 前 2000 · Goodreads 98,759"
+  },
+  {
+   "title": "A Dry White Season",
+   "author": "André Brink",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 3,
+    "D": 1
+   },
+   "score": 7,
+   "cats": [
+    "A1",
+    "A2",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "约翰内斯堡、索韦托；D 977 · Goodreads 4,583"
+  },
+  {
+   "title": "Country of My Skull",
+   "author": "Antjie Krog",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 3
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "真相与和解委员会听证；不在 D 前 2000 · Goodreads 3,331"
+  },
+  {
+   "title": "Burger's Daughter",
+   "author": "Nadine Gordimer",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "N": 1,
+    "D": 1
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "C",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "约翰内斯堡；D 914 · Goodreads 2,381"
+  },
+  {
+   "title": "The Story of an African Farm",
+   "author": "Olive Schreiner",
+   "kind": "本国",
+   "points": {
+    "A2": 3,
+    "D": 1
+   },
+   "score": 4,
+   "cats": [
+    "A2",
+    "I"
+   ],
+   "in_app": "story-of-an-african-farm",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "卡鲁；D 1285 · Goodreads 3,219"
+  },
+  {
+   "title": "Down Second Avenue",
+   "author": "Es'kia Mphahlele",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "D": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "比勒陀利亚马拉巴斯塔德；D 1625 · Goodreads 451"
+  },
+  {
+   "title": "Chaka",
+   "author": "Thomas Mofolo",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "D": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "作者是莱索托巴苏陀人；写祖鲁兰；D 1071 · Goodreads 756"
+  },
+  {
+   "title": "Native Life in South Africa",
+   "author": "Sol Plaatje",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": "native-life-in-south-africa",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "删除",
+   "note": "不在 D 前 2000；Goodreads 64"
+  },
+  {
+   "title": "The Heart of Redness",
+   "author": "Zakes Mda",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "不收",
+   "note": "不在 D 前 2000 · Goodreads 1,690"
+  },
+  {
+   "title": "Mafeking Road",
+   "author": "Herman Charles Bosman",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "不收",
+   "note": "不在 D 前 2000 · Goodreads 318"
+  },
+  {
+   "title": "Welcome to Our Hillbrow",
+   "author": "Phaswane Mpe",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "不收",
+   "note": "不在 D 前 2000 · Goodreads 1,092"
+  },
+  {
+   "title": "The Long Journey of Poppie Nongena",
+   "author": "Elsa Joubert",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "不收",
+   "note": "不在 D 前 2000 · Goodreads 278"
+  },
+  {
+   "title": "Born a Crime",
+   "author": "Trevor Noah",
+   "kind": "本国",
+   "points": {
+    "E": 2
+   },
+   "score": 2,
+   "cats": [
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "不收",
+   "note": "不在 D 前 2000 · Goodreads 860,219"
+  },
+  {
+   "title": "Mhudi",
+   "author": "Sol Plaatje",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "mhudi",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "删除（零项，用户同意删）",
+   "note": "不在 D 前 2000；Goodreads 426；复核：不在非洲百部，也不在南非 31 本书单"
+  },
+  {
+   "title": "The Story of My Experiments with Truth",
+   "author": "M. K. Gandhi",
+   "kind": "外国",
+   "points": {
+    "D": 1,
+    "E": 1
+   },
+   "score": 2,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": "experiments-with-truth",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "彼得马里茨堡车站；D 1541；Goodreads 77,063"
+  },
+  {
+   "title": "King Solomon's Mines",
+   "author": "H. Rider Haggard",
+   "kind": "外国",
+   "points": {
+    "D": 1,
+    "E": 1
+   },
+   "score": 2,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": "king-solomons-mines",
+   "decision": "保留",
+   "first_draft": "待定",
+   "note": "D 672；Goodreads 54,093"
+  },
+  {
+   "title": "The Power of One",
+   "author": "Bryce Courtenay",
+   "kind": "外国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "待定",
+   "note": "澳大利亚作家；9.7 万人；不在 D 前 2000 · Goodreads 97,074"
+  },
+  {
+   "title": "The Lusiads",
+   "author": "Luís de Camões",
+   "kind": "他国书目",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "pt-lusiadas",
+   "decision": "属于 pt 的书，挂在这里，不在此评",
+   "first_draft": "",
+   "note": ""
+  }
+ ]
+}

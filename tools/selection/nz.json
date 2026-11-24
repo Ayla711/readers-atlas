@@ -1,0 +1,457 @@
+{
+ "cc": "nz",
+ "name": "新西兰",
+ "date": "2026-11-24",
+ "rule": "v2",
+ "sources": {
+  "A1": "《新西兰先驱报》周末版 + TimeOut 书店「新西兰人最喜爱的书」前 20（首届新西兰读书月，约 2004 年，2000 多张票）— nzherald.co.nz",
+  "A2": "The Spinoff 2018 专家评选「近 50 年最佳新西兰图书」前 50（50 位作家、出版人、学者；只从 1968 年以来的获奖书里选）— thegreatestbooks.org/lists/790 转录",
+  "A3": "The Spinoff 2018 读者评选前 20（同样只限 1968 年以来的获奖书）— thespinoff.co.nz",
+  "A4": "editoreric.com「新西兰文学最伟大的 33 部」（按年代排列，不分名次，所以没有前 10 加分）",
+  "B": "新西兰没有全国统一的必读书目（NCEA 不指定书），此类空缺",
+  "C": "布克奖、詹姆斯·泰特·布莱克奖、英联邦作家奖、新西兰图书奖（Wattie / Montana / Ockham）、卡内基奖",
+  "D": "thegreatestbooks.org 新西兰作家各榜（总榜名次）；挪威世界文库 100 本里没有新西兰作品；11-24 对照总榜前 2000 名逐页重读，表中 D 以重读为准",
+  "E": "Goodreads 评分人数（new-zealand-literature 书架页，2026-11-24）；11-24 用 Goodreads 自动补全接口逐本重查，表中 E 以重查为准"
+ },
+ "size_note": "规则 v2（11-24 晚）：两项证据或进 A 名单前 10 就够格；已有的书不因分数删；同一作者够格的都收；不设名额。本表结果：新增 13，保留 5，保留（只有一类证据） 1，不收 1，不算/没有真实地点 2。 《沃尔特纳的运气》（勃艮第）和《皮普先生》（布干维尔岛）写的不是新西兰，标“不算”。",
+ "rows": [
+  {
+   "title": "The Bone People",
+   "author": "Keri Hulme",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "A2": 4,
+    "A3": 4,
+    "A4": 3,
+    "C": 2,
+    "D": 1,
+    "E": 1
+   },
+   "score": 19,
+   "cats": [
+    "A1",
+    "A2",
+    "A3",
+    "A4",
+    "C",
+    "E",
+    "I"
+   ],
+   "in_app": "the-bone-people",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "布克奖 1985；D 1173 · Goodreads 24,784"
+  },
+  {
+   "title": "Plumb",
+   "author": "Maurice Gee",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "A2": 4,
+    "A3": 4,
+    "A4": 3,
+    "C": 2
+   },
+   "score": 17,
+   "cats": [
+    "A1",
+    "A2",
+    "A3",
+    "A4",
+    "C"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "专家榜第 1；詹姆斯·泰特·布莱克奖；不在 D 前 2000 · Goodreads 564"
+  },
+  {
+   "title": "Autobiography: To the Is-Land / An Angel at My Table",
+   "author": "Janet Frame",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 4,
+    "A3": 4,
+    "A4": 3
+   },
+   "score": 14,
+   "cats": [
+    "A1",
+    "A2",
+    "A3",
+    "A4"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增（替换 Owls Do Cry）",
+   "note": "三卷自传按一部算，每份名单取最高；奥马鲁、达尼丁、锡克利夫医院；不在 D 前 2000 · Goodreads 3,161"
+  },
+  {
+   "title": "Once Were Warriors",
+   "author": "Alan Duff",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 3,
+    "A3": 4,
+    "A4": 3
+   },
+   "score": 13,
+   "cats": [
+    "A1",
+    "A2",
+    "A3",
+    "A4"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "虚构的 Pine Block 国宅区，需找挂靠依据；不在 D 前 2000 · Goodreads 4,076"
+  },
+  {
+   "title": "The Luminaries",
+   "author": "Eleanor Catton",
+   "kind": "本国",
+   "points": {
+    "A2": 3,
+    "A3": 4,
+    "A4": 3,
+    "C": 2,
+    "E": 1
+   },
+   "score": 13,
+   "cats": [
+    "A2",
+    "A3",
+    "A4",
+    "C",
+    "E"
+   ],
+   "in_app": "the-luminaries",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "布克奖 2013；不在 D 前 2000 · Goodreads 87,962"
+  },
+  {
+   "title": "Potiki",
+   "author": "Patricia Grace",
+   "kind": "本国",
+   "points": {
+    "A2": 4,
+    "A3": 3,
+    "A4": 3,
+    "C": 2
+   },
+   "score": 12,
+   "cats": [
+    "A2",
+    "A3",
+    "A4",
+    "C"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "新西兰图书奖 1987；虚构海边社区，需找挂靠依据；不在 D 前 2000 · Goodreads 2,715"
+  },
+  {
+   "title": "Can You Tolerate This?",
+   "author": "Ashleigh Young",
+   "kind": "本国",
+   "points": {
+    "A2": 3,
+    "A3": 4,
+    "A4": 3
+   },
+   "score": 10,
+   "cats": [
+    "A2",
+    "A3",
+    "A4"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增（待核实地点）",
+   "note": "散文集，温斯顿奖；需确认写到的真实地点；不在 D 前 2000 · Goodreads 808"
+  },
+  {
+   "title": "Smith's Dream",
+   "author": "C. K. Stead",
+   "kind": "本国",
+   "points": {
+    "A2": 3,
+    "A3": 3,
+    "A4": 3
+   },
+   "score": 9,
+   "cats": [
+    "A2",
+    "A3",
+    "A4"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "近未来新西兰，科罗曼德尔半岛；不在 D 前 2000 · Goodreads 197"
+  },
+  {
+   "title": "Other Halves",
+   "author": "Sue McCauley",
+   "kind": "本国",
+   "points": {
+    "A2": 4,
+    "A4": 3,
+    "C": 2
+   },
+   "score": 9,
+   "cats": [
+    "A2",
+    "A4",
+    "C"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "奥克兰；Wattie 奖；不在 D 前 2000 · Goodreads 110"
+  },
+  {
+   "title": "The 10pm Question",
+   "author": "Kate De Goldi",
+   "kind": "本国",
+   "points": {
+    "A2": 3,
+    "A3": 4
+   },
+   "score": 7,
+   "cats": [
+    "A2",
+    "A3"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "不收",
+   "note": "不在 D 前 2000 · Goodreads 3,266"
+  },
+  {
+   "title": "Pounamu Pounamu",
+   "author": "Witi Ihimaera",
+   "kind": "本国",
+   "points": {
+    "A2": 3,
+    "A4": 3
+   },
+   "score": 6,
+   "cats": [
+    "A2",
+    "A4"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "不收（见名额说明②）",
+   "note": "不在 D 前 2000 · Goodreads 890"
+  },
+  {
+   "title": "Tu",
+   "author": "Patricia Grace",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A4": 3
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "A4"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "不收",
+   "note": "格雷斯第二本；不在 D 前 2000 · Goodreads 578"
+  },
+  {
+   "title": "Season of the Jew",
+   "author": "Maurice Shadbolt",
+   "kind": "本国",
+   "points": {
+    "A1": 4
+   },
+   "score": 4,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "不收",
+   "note": "不在 D 前 2000 · Goodreads 283"
+  },
+  {
+   "title": "Under the Mountain",
+   "author": "Maurice Gee",
+   "kind": "本国",
+   "points": {
+    "A1": 4
+   },
+   "score": 4,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "不收",
+   "note": "吉第二本；不在 D 前 2000 · Goodreads 1,440"
+  },
+  {
+   "title": "The Garden Party, and Other Stories",
+   "author": "Katherine Mansfield",
+   "kind": "本国",
+   "points": {
+    "A4": 3,
+    "D": 1,
+    "E": 1
+   },
+   "score": 5,
+   "cats": [
+    "A4",
+    "E",
+    "I"
+   ],
+   "in_app": "the-garden-party",
+   "decision": "保留",
+   "first_draft": "待定：建议破例保留",
+   "note": "D 1456 · Goodreads 11,123"
+  },
+  {
+   "title": "The Whale Rider",
+   "author": "Witi Ihimaera",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "E": 1
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": "the-whale-rider",
+   "decision": "保留",
+   "first_draft": "待定：建议保留",
+   "note": "不在 D 前 2000 · Goodreads 13,365"
+  },
+  {
+   "title": "The Changeover",
+   "author": "Margaret Mahy",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "C": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "C"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "不收",
+   "note": "不在 D 前 2000 · Goodreads 4,301"
+  },
+  {
+   "title": "Owls Do Cry",
+   "author": "Janet Frame",
+   "kind": "本国",
+   "points": {
+    "A1": 4
+   },
+   "score": 4,
+   "cats": [
+    "A1"
+   ],
+   "in_app": "owls-do-cry",
+   "decision": "保留",
+   "first_draft": "删除",
+   "note": "不在 D 前 2000 · Goodreads 2,260"
+  },
+  {
+   "title": "Man Alone",
+   "author": "John Mulgan",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "不收",
+   "note": "不在 D 前 2000 · Goodreads 371"
+  },
+  {
+   "title": "The Vintner's Luck",
+   "author": "Elizabeth Knox",
+   "kind": "本国（写法国）",
+   "points": {
+    "A1": 4,
+    "A2": 4,
+    "A3": 4,
+    "A4": 3
+   },
+   "score": 15,
+   "cats": [
+    "A1",
+    "A2",
+    "A3",
+    "A4"
+   ],
+   "in_app": null,
+   "decision": "不算新西兰",
+   "first_draft": "不算新西兰",
+   "note": "写的是勃艮第，可转给法国评；不在 D 前 2000 · Goodreads 3,743"
+  },
+  {
+   "title": "Mister Pip",
+   "author": "Lloyd Jones",
+   "kind": "本国（写布干维尔）",
+   "points": {
+    "A2": 3,
+    "A3": 4,
+    "A4": 3,
+    "C": 2,
+    "E": 1
+   },
+   "score": 13,
+   "cats": [
+    "A2",
+    "A3",
+    "A4",
+    "C",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不算新西兰",
+   "first_draft": "不算新西兰",
+   "note": "写的是巴布亚新几内亚布干维尔岛；不在 D 前 2000 · Goodreads 24,597"
+  },
+  {
+   "title": "Erewhon",
+   "author": "Samuel Butler",
+   "kind": "外国",
+   "points": {
+    "D": 1
+   },
+   "score": 1,
+   "cats": [
+    "I"
+   ],
+   "in_app": "erewhon",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "待定：建议保留",
+   "note": "英国作家；坎特伯雷高原；D 704；Goodreads 4,862"
+  }
+ ]
+}

@@ -1,0 +1,282 @@
+{
+ "cc": "ke",
+ "name": "肯尼亚",
+ "date": "2026-11-24",
+ "rule": "v2",
+ "sources": {
+  "A1": "「非洲 20 世纪百部最佳图书」（2002）；恩古吉《一粒麦种》在前 12 名（按前 10 加分）",
+  "B": "肯尼亚中学毕业考试（KCSE）英语文学必读书：《大河两岸》（到 2012）、《河与源》（2013–17）、《草原之花》（2018–22）、《诞生》（2003–18 间的必读书之一），《一粒麦种》是 2022–26 选读书 — nation.africa、the-star.co.ke、Strathmore 大学论文",
+  "C": "乔莫·肯雅塔文学奖、英联邦作家奖、辛克莱奖",
+  "D": "thegreatestbooks.org 单书页总榜名次；11-24 对照总榜前 2000 名逐页重读，表中 D 以重读为准",
+  "E": "Goodreads 评分人数（kenya、kenyan-literature 书架页，2026-11-24）；11-24 用 Goodreads 自动补全接口逐本重查，表中 E 以重查为准"
+ },
+ "size_note": "规则 v2（11-24 晚）：两项证据或进 A 名单前 10 就够格；已有的书不因分数删；同一作者够格的都收；不设名额。本表结果：新增 3，保留 2，保留（只有一类证据） 1，删除（零项） 3，不收 7，他国书目（不在此评） 1。 恩古吉《孩子，你别哭》（Goodreads 4,623）、《锡卡的火焰树》《察沃的食人狮》复核后仍是零项，删。",
+ "rows": [
+  {
+   "title": "A Grain of Wheat",
+   "author": "Ngũgĩ wa Thiong'o",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "B": 2
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "B"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增（替换 Weep Not, Child）",
+   "note": "不在 D 前 2000 · Goodreads 7,367"
+  },
+  {
+   "title": "The River and the Source",
+   "author": "Margaret Ogola",
+   "kind": "本国",
+   "points": {
+    "B": 2,
+    "C": 2
+   },
+   "score": 4,
+   "cats": [
+    "B",
+    "C"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "乔莫·肯雅塔奖、英联邦作家奖非洲区最佳处女作 1995；尼扬扎、内罗毕；不在 D 前 2000 · Goodreads 968"
+  },
+  {
+   "title": "Coming to Birth",
+   "author": "Marjorie Oludhe Macgoye",
+   "kind": "本国",
+   "points": {
+    "B": 2,
+    "C": 2
+   },
+   "score": 4,
+   "cats": [
+    "B",
+    "C"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "辛克莱奖 1986；基苏木、内罗毕；不在 D 前 2000 · Goodreads 295"
+  },
+  {
+   "title": "Facing Mount Kenya",
+   "author": "Jomo Kenyatta",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "新增",
+   "note": "基库尤民族志；地点待查；不在 D 前 2000 · Goodreads 429"
+  },
+  {
+   "title": "Devil on the Cross",
+   "author": "Ngũgĩ wa Thiong'o",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "不收",
+   "note": "恩古吉第二本；不在 D 前 2000 · Goodreads 2,287"
+  },
+  {
+   "title": "Matigari",
+   "author": "Ngũgĩ wa Thiong'o",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "不收",
+   "note": "恩古吉第三本；不在 D 前 2000 · Goodreads 865"
+  },
+  {
+   "title": "The River Between",
+   "author": "Ngũgĩ wa Thiong'o",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "不收",
+   "note": "恩古吉第四本；不在 D 前 2000 · Goodreads 5,739"
+  },
+  {
+   "title": "Blossoms of the Savannah",
+   "author": "Henry ole Kulet",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "不收",
+   "note": "不在 D 前 2000 · Goodreads 335"
+  },
+  {
+   "title": "Dust",
+   "author": "Yvonne Adhiambo Owuor",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "不收",
+   "note": "不在 D 前 2000 · Goodreads 1,812"
+  },
+  {
+   "title": "Weep Not, Child",
+   "author": "Ngũgĩ wa Thiong'o",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "weep-not-child",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "删除（零项，用户同意删）",
+   "note": "不在 D 前 2000；Goodreads 4,623"
+  },
+  {
+   "title": "Out of Africa",
+   "author": "Karen Blixen",
+   "kind": "外国",
+   "points": {
+    "D": 2,
+    "E": 1
+   },
+   "score": 3,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": "out-of-africa",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "书目在丹麦（dk）；D 459 · Goodreads 50,090"
+  },
+  {
+   "title": "West with the Night",
+   "author": "Beryl Markham",
+   "kind": "外国",
+   "points": {
+    "D": 1,
+    "E": 1
+   },
+   "score": 2,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": "west-with-the-night",
+   "decision": "保留",
+   "first_draft": "待定",
+   "note": "D 1945 · Goodreads 42,710"
+  },
+  {
+   "title": "Dreams from My Father",
+   "author": "Barack Obama",
+   "kind": "外国",
+   "points": {
+    "E": 2
+   },
+   "score": 2,
+   "cats": [
+    "E"
+   ],
+   "in_app": "dreams-from-my-father",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "待定",
+   "note": "不在 D 前 2000；Goodreads 234,733"
+  },
+  {
+   "title": "The Constant Gardener",
+   "author": "John le Carré",
+   "kind": "外国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "不收",
+   "note": "不在 D 前 2000 · Goodreads 32,557"
+  },
+  {
+   "title": "The Flame Trees of Thika",
+   "author": "Elspeth Huxley",
+   "kind": "外国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "flame-trees-of-thika",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "删除（零项，用户同意删）",
+   "note": "不在 D 前 2000；Goodreads 6,190"
+  },
+  {
+   "title": "The Man-Eaters of Tsavo",
+   "author": "J. H. Patterson",
+   "kind": "外国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "man-eaters-of-tsavo",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "删除（零项，用户同意删）",
+   "note": "不在 D 前 2000；Goodreads 4,683"
+  },
+  {
+   "title": "The Lusiads",
+   "author": "Luís de Camões",
+   "kind": "他国书目",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "pt-lusiadas",
+   "decision": "属于 pt 的书，挂在这里，不在此评",
+   "first_draft": "",
+   "note": ""
+  }
+ ]
+}

@@ -1,0 +1,484 @@
+{
+ "cc": "no",
+ "name": "挪威",
+ "date": "2026-11-24",
+ "rule": "v2",
+ "sources": {
+  "A1": "editoreric.com「挪威文学最伟大的 33 部」（按年代排列，不分名次）",
+  "A2": "挪威文学正典（Norsk litterær kanon，2007，利勒哈默尔文学节 10 人评审团选 25 部，按年代排列，不分名次）— litteraturfestival.no 的正典单页（PDF）",
+  "B": "挪威中学没有全国统一书目，此类空缺",
+  "C": "诺贝尔文学奖（比昂松 1903、汉姆生 1920、温塞特 1928、福瑟 2023）",
+  "BK": "挪威世界文库 100 本：汉姆生《饥饿》、易卜生《玩偶之家》",
+  "D": "thegreatestbooks.org 总榜名次（11-24 逐页读前 2000 名）",
+  "E": "Goodreads 评分人数（norwegian-literature 书架页，2026-11-24）；11-24 用 Goodreads 自动补全接口逐本重查，表中 E 以重查为准"
+ },
+ "size_note": "规则 v2（11-24 晚）：两项证据或进 A 名单前 10 就够格；已有的书不因分数删；同一作者够格的都收；不设名额。本表结果：新增 9，保留 5，保留（只有一类证据） 1，删除（零项） 5，不收 6，不算/没有真实地点 1。 这次补了挪威文学正典（2007，25 部）作 A2：《培尔·金特》因此够格；斯诺里《国王萨迦》有一项；汉姆生《神秘》（A2、D 1800）够格，新增，地点待查。正典里只有这一项证据的书（韦索斯《鸟》、科莱特《县长的女儿们》、民间故事集、达斯《北方的号角》、加博格《平静》）不新增。易卜生《泰耶·维根》、基兰《加尔曼与沃尔斯》、凡尔纳《彩票》、布里克森《巴贝特之宴》、沃斯通克拉夫特《书简》复核后仍是零项，删。",
+ "rows": [
+  {
+   "title": "Hunger",
+   "author": "Knut Hamsun",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "BK": 3,
+    "N": 1,
+    "D": 2,
+    "E": 1
+   },
+   "score": 10,
+   "cats": [
+    "A1",
+    "C",
+    "E",
+    "I"
+   ],
+   "in_app": "hunger",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "D 214 · Goodreads 69,715"
+  },
+  {
+   "title": "A Doll's House",
+   "author": "Henrik Ibsen",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "BK": 3,
+    "D": 2,
+    "E": 2
+   },
+   "score": 10,
+   "cats": [
+    "A1",
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增（待挂靠）",
+   "note": "D 412 · Goodreads 171,951"
+  },
+  {
+   "title": "Kristin Lavransdatter",
+   "author": "Sigrid Undset",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "N": 1,
+    "A2": 3,
+    "D": 2,
+    "E": 1
+   },
+   "score": 10,
+   "cats": [
+    "A1",
+    "A2",
+    "C",
+    "E",
+    "I"
+   ],
+   "in_app": "kristin-lavransdatter",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "正典选的是第一部《花冠》；D 292 · Goodreads 15,823"
+  },
+  {
+   "title": "Sophie's World",
+   "author": "Jostein Gaarder",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "D": 1,
+    "E": 2
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增（待挂靠）",
+   "note": "书里的小镇没写地名；D 1795 · Goodreads 294,583"
+  },
+  {
+   "title": "My Struggle",
+   "author": "Karl Ove Knausgård",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "D": 1,
+    "E": 1
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "E",
+    "I"
+   ],
+   "in_app": "my-struggle",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "D 886 · Goodreads 52,935"
+  },
+  {
+   "title": "The Redbreast",
+   "author": "Jo Nesbø",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "E": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "奥斯陆；不在 D 前 2000 · Goodreads 113,387"
+  },
+  {
+   "title": "Out Stealing Horses",
+   "author": "Per Petterson",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "挪威东部、瑞典边境；不在 D 前 2000 · Goodreads 39,262"
+  },
+  {
+   "title": "The Ice Palace",
+   "author": "Tarjei Vesaas",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "泰勒马克；不在 D 前 2000 · Goodreads 16,593"
+  },
+  {
+   "title": "The Alberta Trilogy",
+   "author": "Cora Sandel",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 3,
+    "D": 1
+   },
+   "score": 7,
+   "cats": [
+    "A1",
+    "A2",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "特罗姆瑟；正典选的是第二部《阿尔贝塔与自由》；D 1481 · Goodreads 994"
+  },
+  {
+   "title": "The House with the Blind Glass Windows",
+   "author": "Herbjørg Wassmo",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "D": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "韦斯特罗伦；D 1941 · Goodreads 1,690"
+  },
+  {
+   "title": "Pan",
+   "author": "Knut Hamsun",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "D": 1,
+    "E": 1
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "E",
+    "I"
+   ],
+   "in_app": "pan-hamsun",
+   "decision": "保留",
+   "first_draft": "待定",
+   "note": "D 1571 · Goodreads 13,144"
+  },
+  {
+   "title": "Growth of the Soil",
+   "author": "Knut Hamsun",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "D": 1,
+    "E": 1
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "不收",
+   "note": "汉姆生第三本；D 572 · Goodreads 15,075"
+  },
+  {
+   "title": "A Shining",
+   "author": "Jon Fosse",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "不收",
+   "note": "没有真实地点；不在 D 前 2000 · Goodreads 15,352"
+  },
+  {
+   "title": "Peer Gynt",
+   "author": "Henrik Ibsen",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 3
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "A2"
+   ],
+   "in_app": "peer-gynt",
+   "decision": "保留",
+   "first_draft": "待定",
+   "note": "易卜生第二本；不在 D 前 2000；Goodreads 9,946"
+  },
+  {
+   "title": "Terje Vigen",
+   "author": "Henrik Ibsen",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "terje-vigen",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "删除（零项，用户同意删）",
+   "note": "不在 D 前 2000；Goodreads 336"
+  },
+  {
+   "title": "Garman & Worse",
+   "author": "Alexander Kielland",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "garman-and-worse",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "删除（零项，用户同意删）",
+   "note": "不在 D 前 2000；Goodreads 481"
+  },
+  {
+   "title": "Heimskringla",
+   "author": "Snorri Sturluson",
+   "kind": "外国（冰岛）",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": "heimskringla",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "删除",
+   "note": "挪威文学正典第 2 部《国王萨迦》；不在 D 前 2000；Goodreads 1,437"
+  },
+  {
+   "title": "The Lottery Ticket",
+   "author": "Jules Verne",
+   "kind": "外国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "lottery-ticket",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "删除（零项，用户同意删）",
+   "note": "不在 D 前 2000；Goodreads 2,351"
+  },
+  {
+   "title": "Babette's Feast",
+   "author": "Karen Blixen",
+   "kind": "外国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "babettes-feast",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "删除（零项，用户同意删）",
+   "note": "不在 D 前 2000；Goodreads 8,377；所在集子《命运轶事》Goodreads 2,289，仍是零项"
+  },
+  {
+   "title": "Letters Written in Sweden, Norway, and Denmark",
+   "author": "Mary Wollstonecraft",
+   "kind": "外国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "wollstonecraft-letters",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "删除（零项，用户同意删）",
+   "note": "丹麦那边也挂着；不在 D 前 2000；Goodreads 1,111"
+  },
+  {
+   "title": "Mysteries",
+   "author": "Knut Hamsun",
+   "kind": "本国",
+   "points": {
+    "A2": 3,
+    "D": 1
+   },
+   "score": 4,
+   "cats": [
+    "A2",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "汉姆生；D 1800；Goodreads 8,685；书里的海边小镇没写地名，地点待查"
+  },
+  {
+   "title": "The Birds (Fuglane)",
+   "author": "Tarjei Vesaas",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 9,419；不在 D 前 2000"
+  },
+  {
+   "title": "The District Governor's Daughters",
+   "author": "Camilla Collett",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 836"
+  },
+  {
+   "title": "Norwegian Folk Tales",
+   "author": "Asbjørnsen & Moe",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 1,037"
+  },
+  {
+   "title": "The Trumpet of Nordland",
+   "author": "Petter Dass",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 28"
+  },
+  {
+   "title": "Peace (Fred)",
+   "author": "Arne Garborg",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 137；耶伦"
+  },
+  {
+   "title": "Erasmus Montanus",
+   "author": "Ludvig Holberg",
+   "kind": "本国（写丹麦）",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不算挪威",
+   "first_draft": "不算挪威",
+   "note": "故事发生在丹麦乡村；不在 D 前 2000 · Goodreads 1,227"
+  }
+ ]
+}

@@ -1,0 +1,360 @@
+{
+ "cc": "be",
+ "name": "比利时",
+ "date": "2026-11-24",
+ "rule": "v2",
+ "sources": {
+  "A1": "2022 年荷兰语文学经典调查前 100（只算弗拉芒作家）— kantl.be 报告",
+  "A2": "比利时法语区文化遗产书系 Espace Nord「20 部必读」（2023）— espacenord.com",
+  "A3": "2002 年 DBNL 经典调查前 10（《列那狐》在前 10）",
+  "B": "Espace Nord 书系（法语区政府所有的比利时法语文学全集，400 多种）",
+  "C": "诺贝尔文学奖（梅特林克 1911，剧本没有具体地点）",
+  "D": "thegreatestbooks.org「Set in Belgium」总榜名次；11-24 对照总榜前 2000 名逐页重读，表中 D 以重读为准",
+  "E": "Goodreads 评分人数（dutch-literature 书架页，2026-11-24）；11-24 用 Goodreads 自动补全接口逐本重查，表中 E 以重查为准"
+ },
+ "size_note": "规则 v2（11-24 晚）：两项证据或进 A 名单前 10 就够格；已有的书不因分数删；同一作者够格的都收；不设名额。本表结果：新增 11，保留 2，保留（只有一类证据） 1，删除（零项） 2，不收 1，他国书目（不在此评） 4。",
+ "rows": [
+  {
+   "title": "Of Reynaert the Fox",
+   "author": "Willem die Madocke maecte",
+   "kind": "本国（弗拉芒）",
+   "points": {
+    "A1": 4,
+    "A3": 4,
+    "D": 1
+   },
+   "score": 9,
+   "cats": [
+    "A1",
+    "A3",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "瓦斯兰（胡尔斯特洛、贝尔塞勒）；不在 D 前 2000 · Goodreads 39；审核补：D 864（榜上叫 Reynard the Fox）"
+  },
+  {
+   "title": "The Sorrow of Belgium",
+   "author": "Hugo Claus",
+   "kind": "本国（弗拉芒）",
+   "points": {
+    "A1": 4,
+    "D": 1
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "I"
+   ],
+   "in_app": "sorrow-of-belgium",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "D 1117 · Goodreads 4,032"
+  },
+  {
+   "title": "Chapel Road (De Kapellekensbaan)",
+   "author": "Louis Paul Boon",
+   "kind": "本国（弗拉芒）",
+   "points": {
+    "A1": 4
+   },
+   "score": 4,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "阿尔斯特；不在 D 前 2000 · Goodreads 1,205"
+  },
+  {
+   "title": "Cheese (Kaas)",
+   "author": "Willem Elsschot",
+   "kind": "本国（弗拉芒）",
+   "points": {
+    "A1": 3,
+    "D": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "安特卫普；D 776 · Goodreads 9,124"
+  },
+  {
+   "title": "Pallieter",
+   "author": "Felix Timmermans",
+   "kind": "本国（弗拉芒）",
+   "points": {
+    "A1": 3,
+    "D": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "利尔；D 846 · Goodreads 656"
+  },
+  {
+   "title": "The Lion of Flanders",
+   "author": "Hendrik Conscience",
+   "kind": "本国（弗拉芒）",
+   "points": {
+    "A1": 3,
+    "D": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "科特赖克金马刺之战；D 1830 · Goodreads 1,068"
+  },
+  {
+   "title": "The Misfortunates",
+   "author": "Dimitri Verhulst",
+   "kind": "本国（弗拉芒）",
+   "points": {
+    "A1": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增（待挂靠）",
+   "note": "虚构村子；不在 D 前 2000 · Goodreads 16,387"
+  },
+  {
+   "title": "The Angel Maker",
+   "author": "Stefan Brijs",
+   "kind": "本国（弗拉芒）",
+   "points": {
+    "A1": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增（待挂靠）",
+   "note": "虚构村子沃尔夫海姆；不在 D 前 2000 · Goodreads 15,969"
+  },
+  {
+   "title": "Beatrijs",
+   "author": "Anonymous",
+   "kind": "本国（弗拉芒）",
+   "points": {
+    "A1": 3,
+    "A3": 4,
+    "D": 1
+   },
+   "score": 8,
+   "cats": [
+    "A1",
+    "A3",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "不收",
+   "note": "传说，没有真实地点；D 1528 · Goodreads 1,447"
+  },
+  {
+   "title": "Bruges-la-Morte",
+   "author": "Georges Rodenbach",
+   "kind": "本国（法语）",
+   "points": {
+    "A2": 3,
+    "B": 2
+   },
+   "score": 5,
+   "cats": [
+    "A2",
+    "B"
+   ],
+   "in_app": "bruges-la-morte",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "不在 D 前 2000 · Goodreads 3,457"
+  },
+  {
+   "title": "Malpertuis",
+   "author": "Jean Ray",
+   "kind": "本国（法语）",
+   "points": {
+    "A2": 3,
+    "B": 2
+   },
+   "score": 5,
+   "cats": [
+    "A2",
+    "B"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "根特；不在 D 前 2000 · Goodreads 1,682"
+  },
+  {
+   "title": "La Comtesse des digues",
+   "author": "Marie Gevers",
+   "kind": "本国（法语）",
+   "points": {
+    "A2": 3,
+    "B": 2
+   },
+   "score": 5,
+   "cats": [
+    "A2",
+    "B"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "斯海尔德河圩田；不在 D 前 2000 · Goodreads 90"
+  },
+  {
+   "title": "Happe-Chair",
+   "author": "Camille Lemonnier",
+   "kind": "本国（法语）",
+   "points": {
+    "A2": 3,
+    "B": 2
+   },
+   "score": 5,
+   "cats": [
+    "A2",
+    "B"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增（地点待查）",
+   "note": "沙勒罗瓦一带钢铁厂；不在 D 前 2000 · Goodreads 16"
+  },
+  {
+   "title": "The Legend of Thyl Ulenspiegel",
+   "author": "Charles De Coster",
+   "kind": "本国（法语）",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": "ulenspiegel",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "待定：建议保留",
+   "note": "不在 D 前 2000；Goodreads 1,095"
+  },
+  {
+   "title": "Pedigree",
+   "author": "Georges Simenon",
+   "kind": "本国（法语）",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "pedigree-simenon",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "删除（零项，用户同意删）",
+   "note": "不在 D 前 2000；Goodreads 269；复核：Espace Nord 2023 目录里没有《家世》（只有西默农的另两本）"
+  },
+  {
+   "title": "Austerlitz",
+   "author": "W. G. Sebald",
+   "kind": "外国",
+   "points": {
+    "D": 2,
+    "E": 1
+   },
+   "score": 3,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "待定（新增候选）",
+   "note": "安特卫普中央车站；捷克那边已有；D 256 · Goodreads 29,209"
+  },
+  {
+   "title": "A Dog of Flanders",
+   "author": "Ouida",
+   "kind": "外国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "a-dog-of-flanders",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "删除（零项，用户同意删）",
+   "note": "不在 D 前 2000；Goodreads 1,103"
+  },
+  {
+   "title": "Les Misérables",
+   "author": "Victor Hugo",
+   "kind": "他国书目",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "fr-les-miserables",
+   "decision": "属于 fr 的书，挂在这里，不在此评",
+   "first_draft": "",
+   "note": ""
+  },
+  {
+   "title": "Vanity Fair",
+   "author": "William Makepeace Thackeray",
+   "kind": "他国书目",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "vanity-fair",
+   "decision": "属于 uk 的书，挂在这里，不在此评",
+   "first_draft": "",
+   "note": ""
+  },
+  {
+   "title": "Heart of Darkness",
+   "author": "Joseph Conrad",
+   "kind": "他国书目",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "heart-of-darkness",
+   "decision": "属于 uk 的书，挂在这里，不在此评",
+   "first_draft": "",
+   "note": ""
+  },
+  {
+   "title": "Villette",
+   "author": "Charlotte Brontë",
+   "kind": "他国书目",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "villette",
+   "decision": "属于 uk 的书，挂在这里，不在此评",
+   "first_draft": "",
+   "note": ""
+  }
+ ]
+}

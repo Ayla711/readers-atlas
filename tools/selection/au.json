@@ -1,0 +1,726 @@
+{
+ "cc": "au",
+ "name": "澳大利亚",
+ "date": "2026-11-24",
+ "rule": "v2",
+ "sources": {
+  "A1": "ABC Radio National《Top 100 Australian Books》2026 读者投票（28 万票，2026-10-18 公布）— timeout.com/australia 转载全表",
+  "A2": "《Australian Book Review》FAN Poll 2010「最喜爱的澳大利亚小说」前 20（290 部被提名）— australianbookreview.com.au；第 1 Cloudstreet、第 2 Richard Mahony、第 4 Breath 有文字确认，其余前 10 名次按 PDF 排版推断，只用“是否进前 10/前 20”",
+  "A3": "ABC First Tuesday Book Club 2012「10 Aussie Books to Read Before You Die」— tvtonight.com.au",
+  "B": "昆士兰 QCAA 高中文学课 2026–29 指定书目（新州 HSC 2027–28 文档拒绝抓取，维州 VCE 文学 2026 只有当代书，均未计）",
+  "C": "迈尔斯·富兰克林奖（维基百科全表）、布克奖、英联邦作家奖、国家图书委员会奖（Banjo）、ALS 金奖、IMPAC",
+  "N": "诺贝尔奖：帕特里克·怀特（1973），加在他得分最高的一本",
+  "D": "thegreatestbooks.org「Set in Australia」总榜名次（前 500 → 2，前 2000 → 1）；挪威世界文库 100 本里没有澳大利亚作品；11-24 对照总榜前 2000 名逐页重读，表中 D 以重读为准",
+  "E": "Goodreads 评分人数（australian-literature / australian-classics 书架页，2026-11-24）；11-24 用 Goodreads 自动补全接口逐本重查，表中 E 以重查为准"
+ },
+ "size_note": "规则 v2（11-24 晚）：两项证据或进 A 名单前 10 就够格；已有的书不因分数删；同一作者够格的都收；不设名额。本表结果：新增 27，保留 6，保留（只有一类证据） 1，删除（零项） 1，不收 1。 澳大利亚有三份读者和评论界名单，又有富兰克林奖等奖项，很多书同时有 A、C 两项证据，所以新增最多。帕特森的两首诗：《来自雪河的人》进了 ABC 2026 百部（1 项），《丛林流浪》没有进任何名单，也没有找到澳大利亚全国统一的必读诗目，零项，删。",
+ "rows": [
+  {
+   "title": "Cloudstreet",
+   "author": "Tim Winton",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "A2": 4,
+    "A3": 4,
+    "B": 2,
+    "C": 2,
+    "E": 1
+   },
+   "score": 17,
+   "cats": [
+    "A1",
+    "A2",
+    "A3",
+    "B",
+    "C",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "珀斯；三份榜单都是第 1；不在 D 前 2000 · Goodreads 29,571"
+  },
+  {
+   "title": "The Secret River",
+   "author": "Kate Grenville",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "A2": 4,
+    "A3": 4,
+    "C": 2,
+    "E": 1
+   },
+   "score": 15,
+   "cats": [
+    "A1",
+    "A2",
+    "A3",
+    "C",
+    "E"
+   ],
+   "in_app": "the-secret-river",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "英联邦作家奖 2006；不在 D 前 2000 · Goodreads 26,324"
+  },
+  {
+   "title": "The Slap",
+   "author": "Christos Tsiolkas",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 3,
+    "A3": 4,
+    "C": 2,
+    "E": 1
+   },
+   "score": 13,
+   "cats": [
+    "A1",
+    "A2",
+    "A3",
+    "C",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "墨尔本；英联邦作家奖 2009；不在 D 前 2000 · Goodreads 34,189"
+  },
+  {
+   "title": "Voss",
+   "author": "Patrick White",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 4,
+    "C": 2,
+    "N": 1,
+    "D": 1
+   },
+   "score": 11,
+   "cats": [
+    "A1",
+    "A2",
+    "C",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "首届富兰克林奖；D 804 · Goodreads 3,774"
+  },
+  {
+   "title": "Oscar and Lucinda",
+   "author": "Peter Carey",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 4,
+    "C": 2,
+    "D": 1,
+    "E": 1
+   },
+   "score": 11,
+   "cats": [
+    "A1",
+    "A2",
+    "C",
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "布克奖 1988；D 1530 · Goodreads 22,164"
+  },
+  {
+   "title": "Picnic at Hanging Rock",
+   "author": "Joan Lindsay",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 3,
+    "A3": 4,
+    "E": 1
+   },
+   "score": 11,
+   "cats": [
+    "A1",
+    "A2",
+    "A3",
+    "E"
+   ],
+   "in_app": "picnic-at-hanging-rock",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "不在 D 前 2000 · Goodreads 34,969"
+  },
+  {
+   "title": "A Fortunate Life",
+   "author": "A. B. Facey",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "A3": 4,
+    "C": 2,
+    "E": 1
+   },
+   "score": 11,
+   "cats": [
+    "A1",
+    "A3",
+    "C",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "回忆录；西澳麦带；Banjo 奖 1981；不在 D 前 2000 · Goodreads 10,348"
+  },
+  {
+   "title": "Breath",
+   "author": "Tim Winton",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 4,
+    "C": 2,
+    "E": 1
+   },
+   "score": 10,
+   "cats": [
+    "A1",
+    "A2",
+    "C",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "待定",
+   "note": "不在 D 前 2000 · Goodreads 27,218"
+  },
+  {
+   "title": "My Brother Jack",
+   "author": "George Johnston",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 4,
+    "C": 2
+   },
+   "score": 9,
+   "cats": [
+    "A1",
+    "A2",
+    "C"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "墨尔本；富兰克林奖 1964；不在 D 前 2000 · Goodreads 2,791"
+  },
+  {
+   "title": "Eucalyptus",
+   "author": "Murray Bail",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 4,
+    "C": 2
+   },
+   "score": 9,
+   "cats": [
+    "A1",
+    "A2",
+    "C"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "新州西部；富兰克林奖 1999；不在 D 前 2000 · Goodreads 5,904"
+  },
+  {
+   "title": "The Narrow Road to the Deep North",
+   "author": "Richard Flanagan",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "B": 2,
+    "C": 2,
+    "E": 1
+   },
+   "score": 9,
+   "cats": [
+    "A1",
+    "B",
+    "C",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "布克奖 2014；澳大利亚部分在塔斯马尼亚；不在 D 前 2000 · Goodreads 66,131"
+  },
+  {
+   "title": "Dirt Music",
+   "author": "Tim Winton",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 3,
+    "C": 2,
+    "E": 1
+   },
+   "score": 9,
+   "cats": [
+    "A1",
+    "A2",
+    "C",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "不收",
+   "note": "不在 D 前 2000 · Goodreads 16,231"
+  },
+  {
+   "title": "Carpentaria",
+   "author": "Alexis Wright",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 3,
+    "C": 2
+   },
+   "score": 8,
+   "cats": [
+    "A1",
+    "A2",
+    "C"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "卡奔塔利亚湾；虚构镇 Desperance，挂海湾真实地点；不在 D 前 2000 · Goodreads 2,269"
+  },
+  {
+   "title": "Monkey Grip",
+   "author": "Helen Garner",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 3,
+    "C": 2
+   },
+   "score": 8,
+   "cats": [
+    "A1",
+    "A2",
+    "C"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "墨尔本菲茨罗伊；国家图书委员会奖 1978；不在 D 前 2000 · Goodreads 9,289"
+  },
+  {
+   "title": "The Tree of Man",
+   "author": "Patrick White",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 4,
+    "D": 1
+   },
+   "score": 8,
+   "cats": [
+    "A1",
+    "A2",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "不收",
+   "note": "怀特第二本；D 741 · Goodreads 2,334"
+  },
+  {
+   "title": "The Harp in the South",
+   "author": "Ruth Park",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A3": 4
+   },
+   "score": 7,
+   "cats": [
+    "A1",
+    "A3"
+   ],
+   "in_app": "harp-in-the-south",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "悉尼萨里山；不在 D 前 2000 · Goodreads 5,008"
+  },
+  {
+   "title": "The Fortunes of Richard Mahony",
+   "author": "Henry Handel Richardson",
+   "kind": "本国",
+   "points": {
+    "A2": 4,
+    "C": 2,
+    "D": 1
+   },
+   "score": 7,
+   "cats": [
+    "A2",
+    "C",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "巴拉瑞特金矿；ALS 金奖 1929；D 1003 · Goodreads 384"
+  },
+  {
+   "title": "True History of the Kelly Gang",
+   "author": "Peter Carey",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "C": 2,
+    "D": 1,
+    "E": 1
+   },
+   "score": 7,
+   "cats": [
+    "A1",
+    "C",
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "不收",
+   "note": "D 1118 · Goodreads 24,906"
+  },
+  {
+   "title": "My Brilliant Career",
+   "author": "Miles Franklin",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 3
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "A2"
+   ],
+   "in_app": "my-brilliant-career",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "不在 D 前 2000 · Goodreads 8,941"
+  },
+  {
+   "title": "The Thorn Birds",
+   "author": "Colleen McCullough",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "D": 1,
+    "E": 2
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "E",
+    "I"
+   ],
+   "in_app": "the-thorn-birds",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "D 832 · Goodreads 371,812"
+  },
+  {
+   "title": "For the Term of His Natural Life",
+   "author": "Marcus Clarke",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 3
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "A2"
+   ],
+   "in_app": "natural-life",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "不在 D 前 2000 · Goodreads 3,229"
+  },
+  {
+   "title": "Boy Swallows Universe",
+   "author": "Trent Dalton",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "E": 2
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "布里斯班达拉区（真实）；不在 D 前 2000 · Goodreads 103,765"
+  },
+  {
+   "title": "The Dry",
+   "author": "Jane Harper",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "E": 2
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增（待挂靠）",
+   "note": "虚构镇 Kiewarra，需找作者说过的原型；不在 D 前 2000 · Goodreads 280,046"
+  },
+  {
+   "title": "Big Little Lies",
+   "author": "Liane Moriarty",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "E": 3
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增（待挂靠）",
+   "note": "虚构 Pirriwee 半岛，需找原型；不在 D 前 2000 · Goodreads 1,169,953"
+  },
+  {
+   "title": "Remembering Babylon",
+   "author": "David Malouf",
+   "kind": "本国",
+   "points": {
+    "A2": 3,
+    "C": 2
+   },
+   "score": 5,
+   "cats": [
+    "A2",
+    "C"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "不收",
+   "note": "不在 D 前 2000 · Goodreads 3,941"
+  },
+  {
+   "title": "Tomorrow, When the War Began",
+   "author": "John Marsden",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "E": 1
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "不收",
+   "note": "虚构镇；不在 D 前 2000 · Goodreads 62,368"
+  },
+  {
+   "title": "Jasper Jones",
+   "author": "Craig Silvey",
+   "kind": "本国",
+   "points": {
+    "A3": 4,
+    "E": 1
+   },
+   "score": 5,
+   "cats": [
+    "A3",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "不收",
+   "note": "不在 D 前 2000 · Goodreads 44,280"
+  },
+  {
+   "title": "The Rosie Project",
+   "author": "Graeme Simsion",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "E": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "不收",
+   "note": "不在 D 前 2000 · Goodreads 611,718"
+  },
+  {
+   "title": "The Light Between Oceans",
+   "author": "M. L. Stedman",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "E": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "不收",
+   "note": "不在 D 前 2000 · Goodreads 493,985"
+  },
+  {
+   "title": "Wild Dark Shore",
+   "author": "Charlotte McConaghy",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "E": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "不收",
+   "note": "虚构岛；不在 D 前 2000 · Goodreads 683,348"
+  },
+  {
+   "title": "Looking for Alibrandi",
+   "author": "Melina Marchetta",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "不收",
+   "note": "不在 D 前 2000 · Goodreads 26,121"
+  },
+  {
+   "title": "The Magic Pudding",
+   "author": "Norman Lindsay",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A3": 4
+   },
+   "score": 7,
+   "cats": [
+    "A1",
+    "A3"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "不收",
+   "note": "你要收请说；不在 D 前 2000 · Goodreads 4,273"
+  },
+  {
+   "title": "The Man from Snowy River",
+   "author": "Banjo Paterson",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": "man-from-snowy-river",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "删除",
+   "note": "不在 D 前 2000；Goodreads 439"
+  },
+  {
+   "title": "Waltzing Matilda",
+   "author": "Banjo Paterson",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "waltzing-matilda",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "删除（零项，用户同意删）",
+   "note": "帕特森第二首；不在 D 前 2000；Goodreads 149"
+  },
+  {
+   "title": "A Town Like Alice",
+   "author": "Nevil Shute",
+   "kind": "外国",
+   "points": {
+    "D": 1,
+    "E": 1
+   },
+   "score": 2,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "英国作家；后半部在爱丽丝泉和昆士兰海湾；D 850 · Goodreads 64,180"
+  },
+  {
+   "title": "The Songlines",
+   "author": "Bruce Chatwin",
+   "kind": "外国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "不收",
+   "note": "不在 D 前 2000 · Goodreads 12,874"
+  }
+ ]
+}

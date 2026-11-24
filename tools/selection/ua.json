@@ -1,0 +1,430 @@
+{
+ "cc": "ua",
+ "name": "乌克兰",
+ "date": "2026-11-24",
+ "rule": "v2",
+ "sources": {
+  "A1": "乌克兰笔会与 The Ukrainians 杂志「百部标志性乌克兰语长篇和中篇小说」（2021，按年代排列，不分名次；只收乌克兰语散文）— lb.ua 全表",
+  "B": "乌克兰外部独立评估（ZNO）乌克兰文学篇目 — osvita.ua 的篇目缩写页",
+  "C": "诺贝尔文学奖（阿列克谢耶维奇 2015，白俄罗斯作家）",
+  "BK": "挪威世界文库 100 本：策兰《诗集》",
+  "D": "thegreatestbooks.org「Set in Ukraine」总榜名次；11-24 对照总榜前 2000 名逐页重读，表中 D 以重读为准",
+  "E": "Goodreads 评分人数（ukrainian-literature 书架页，2026-11-24）；11-24 用 Goodreads 自动补全接口逐本重查，表中 E 以重查为准"
+ },
+ "size_note": "规则 v2（11-24 晚）：两项证据或进 A 名单前 10 就够格；已有的书不因分数删；同一作者够格的都收；不设名额。本表结果：新增 7，保留 3，保留（只有一类证据） 4，删除（零项） 1，不收 7，不算/没有真实地点 1，他国书目（不在此评） 2。",
+ "rows": [
+  {
+   "title": "The City (Misto)",
+   "author": "Valerian Pidmohylny",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "B": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "B"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "基辅；不在 D 前 2000 · Goodreads 6,913"
+  },
+  {
+   "title": "Shadows of Forgotten Ancestors",
+   "author": "Mykhailo Kotsiubynsky",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "B": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "B"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "喀尔巴阡山克里沃里夫尼亚；不在 D 前 2000 · Goodreads 2,847"
+  },
+  {
+   "title": "Zakhar Berkut",
+   "author": "Ivan Franko",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "B": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "B"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "图赫利亚；不在 D 前 2000 · Goodreads 1"
+  },
+  {
+   "title": "Do the Oxen Low When the Manger Is Full?",
+   "author": "Panas Myrny",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "B": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "B"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "波尔塔瓦州；不在 D 前 2000 · Goodreads 26"
+  },
+  {
+   "title": "The Black Council",
+   "author": "Panteleimon Kulish",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "B": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "B"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "涅任（1663 年黑色议会）；不在 D 前 2000 · Goodreads 1,890"
+  },
+  {
+   "title": "The Enchanted Desna",
+   "author": "Oleksandr Dovzhenko",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "B": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "B"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "索斯尼齐亚；不在 D 前 2000 · Goodreads 1,539"
+  },
+  {
+   "title": "The Shipmaster (Maister korablia)",
+   "author": "Yuri Yanovsky",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "B": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "B"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "敖德萨；不在 D 前 2000 · Goodreads 1,738"
+  },
+  {
+   "title": "The Tiger Trappers",
+   "author": "Ivan Bahrianyi",
+   "kind": "本国（写俄罗斯远东）",
+   "points": {
+    "A1": 3,
+    "B": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不算乌克兰",
+   "first_draft": "不算乌克兰",
+   "note": "不在 D 前 2000 · Goodreads 7,567"
+  },
+  {
+   "title": "Clouds (Khmary)",
+   "author": "Ivan Nechui-Levytsky",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "待定",
+   "note": "不在 D 前 2000 · Goodreads 8"
+  },
+  {
+   "title": "The Kaidash Family",
+   "author": "Ivan Nechui-Levytsky",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "待定",
+   "note": "不在 D 前 2000 · Goodreads 3,901"
+  },
+  {
+   "title": "Boarding School (Internat)",
+   "author": "Serhiy Zhadan",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "不收",
+   "note": "不在 D 前 2000 · Goodreads 8,670"
+  },
+  {
+   "title": "Felix Austria",
+   "author": "Sofia Andrukhovych",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "不收",
+   "note": "不在 D 前 2000 · Goodreads 4,123"
+  },
+  {
+   "title": "Testament (Kobzar)",
+   "author": "Taras Shevchenko",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": "zapovit",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "待定：建议破例保留",
+   "note": "不在 D 前 2000；Goodreads 1,531"
+  },
+  {
+   "title": "The Forest Song",
+   "author": "Lesya Ukrainka",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": "forest-song",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "待定：建议破例保留",
+   "note": "不在 D 前 2000；Goodreads 3,654"
+  },
+  {
+   "title": "Poems",
+   "author": "Paul Celan",
+   "kind": "外国（德语，生于切尔诺夫策）",
+   "points": {
+    "BK": 3,
+    "D": 1
+   },
+   "score": 4,
+   "cats": [
+    "I"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "新增",
+   "note": "切尔诺夫策；thegreatestbooks 把他算在罗马尼亚（当年属罗马尼亚）；D 1268 · Goodreads 4,058"
+  },
+  {
+   "title": "Voices from Chernobyl",
+   "author": "Svetlana Alexievich",
+   "kind": "外国",
+   "points": {
+    "N": 1,
+    "D": 1,
+    "E": 1
+   },
+   "score": 3,
+   "cats": [
+    "C",
+    "E",
+    "I"
+   ],
+   "in_app": "voices-from-chernobyl",
+   "decision": "保留",
+   "first_draft": "保留",
+   "note": "普里皮亚季；D 1281 · Goodreads 67,995"
+  },
+  {
+   "title": "Evenings on a Farm Near Dikanka",
+   "author": "Nikolai Gogol",
+   "kind": "俄语（生于乌克兰）",
+   "points": {
+    "D": 1,
+    "E": 1
+   },
+   "score": 2,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": "sorochyntsi-fair",
+   "decision": "保留",
+   "first_draft": "待定",
+   "note": "替换现有《索罗钦集市》（是其中一篇）；D 1656；Goodreads 15,253"
+  },
+  {
+   "title": "Red Cavalry",
+   "author": "Isaac Babel",
+   "kind": "俄语（生于乌克兰）",
+   "points": {
+    "D": 1
+   },
+   "score": 1,
+   "cats": [
+    "I"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "待定",
+   "note": "沃伦、加利西亚；D 517 · Goodreads 4,595"
+  },
+  {
+   "title": "Tevye the Dairyman",
+   "author": "Sholem Aleichem",
+   "kind": "外国（意第绪语，生于乌克兰）",
+   "points": {
+    "D": 1
+   },
+   "score": 1,
+   "cats": [
+    "I"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "待定",
+   "note": "博亚尔卡；D 1106 · Goodreads 1,576"
+  },
+  {
+   "title": "The White Guard",
+   "author": "Mikhail Bulgakov",
+   "kind": "俄语（生于乌克兰）",
+   "points": {
+    "D": 1,
+    "E": 1
+   },
+   "score": 2,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": "the-white-guard",
+   "decision": "保留",
+   "first_draft": "待定",
+   "note": "D 1742；Goodreads 16,888"
+  },
+  {
+   "title": "Everything Is Illuminated",
+   "author": "Jonathan Safran Foer",
+   "kind": "外国",
+   "points": {
+    "E": 2
+   },
+   "score": 2,
+   "cats": [
+    "E"
+   ],
+   "in_app": "everything-is-illuminated",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "待定",
+   "note": "不在 D 前 2000；Goodreads 185,769"
+  },
+  {
+   "title": "Death and the Penguin",
+   "author": "Andrey Kurkov",
+   "kind": "俄语（乌克兰作家）",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": "death-and-the-penguin",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "待定",
+   "note": "不在 D 前 2000；Goodreads 24,198"
+  },
+  {
+   "title": "The Fountain of Bakhchisaray",
+   "author": "Alexander Pushkin",
+   "kind": "外国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "fountain-of-bakhchisaray",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "删除（零项，用户同意删）",
+   "note": "不在 D 前 2000；Goodreads 查不到"
+  },
+  {
+   "title": "The Cherry Orchard",
+   "author": "Anton Chekhov",
+   "kind": "他国书目",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "cherry-orchard",
+   "decision": "属于 ru 的书，挂在这里，不在此评",
+   "first_draft": "",
+   "note": ""
+  },
+  {
+   "title": "The Lady with the Dog",
+   "author": "Anton Chekhov",
+   "kind": "他国书目",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "lady-with-the-dog",
+   "decision": "属于 ru 的书，挂在这里，不在此评",
+   "first_draft": "",
+   "note": ""
+  }
+ ]
+}

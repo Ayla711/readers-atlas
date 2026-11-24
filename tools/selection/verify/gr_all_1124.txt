@@ -1,0 +1,417 @@
+# Goodreads ratings counts, 11-24, autocomplete endpoint (max over queries: title / alt title / title+surname; author must match). index = row order in /tmp/allrows.json (spec rows, countries in order au nz eg za ng dz ma ke fi hu is tr ua ro nl be ch dk no se)
+0|29571|Cloudstreet|Tim Winton
+1|26324|The Secret River|Kate Grenville
+2|34189|The Slap|Christos Tsiolkas
+3|3774|Voss|Patrick White
+4|22164|Oscar and Lucinda|Peter Carey
+5|34969|Picnic at Hanging Rock|Joan Lindsay
+6|10348|A Fortunate Life|A.B. Facey
+7|27218|Breath|Tim Winton
+8|2791|My Brother Jack|George Johnston
+9|5904|Eucalyptus|Murray Bail
+10|66131|The Narrow Road to the Deep North|Richard Flanagan
+11|16231|Dirt Music|Tim Winton
+12|2269|Carpentaria|Alexis Wright
+13|9289|Monkey Grip|Helen Garner
+14|2334|The Tree of Man|Patrick White
+15|5008|The Harp in the South|Ruth Park
+16|384|The Fortunes of Richard Mahony|Henry Handel Richardson
+17|24906|True History of the Kelly Gang|Peter Carey
+18|8941|My Brilliant Career|Miles Franklin
+19|371812|The Thorn Birds|Colleen McCullough
+20|3229|For the Term of His Natural Life|Marcus Clarke
+21|103765|Boy Swallows Universe|Trent Dalton
+22|280046|The Dry|Jane Harper
+23|1169953|Big Little Lies|Liane Moriarty
+24|3941|Remembering Babylon|David Malouf
+25|62368|Tomorrow, When the War Began|John Marsden
+26|44280|Jasper Jones|Craig Silvey
+27|611718|The Rosie Project|Graeme Simsion
+28|493985|The Light Between Oceans|M.L. Stedman
+29|683348|Wild Dark Shore|Charlotte McConaghy
+30|26121|Looking for Alibrandi|Melina Marchetta
+31|4273|The Magic Pudding|Norman Lindsay
+32|439|The Man from Snowy River|A.B. Paterson
+33|149|Waltzing Matilda|A.B. Paterson
+34|64180|A Town Like Alice|Nevil Shute
+35|12874|The Songlines|Bruce Chatwin
+36|24784|The Bone People|Keri Hulme
+37|564|Plumb|Maurice Gee
+38|3161|Autobiography: To the Is-land / An Angel at My Table|Janet Frame
+39|4076|Once Were Warriors|Alan Duff
+40|87962|The Luminaries|Eleanor Catton
+41|2715|Potiki|Patricia Grace
+42|808|Can You Tolerate This?|Ashleigh Young
+43|197|Smith's Dream|C.K. Stead
+44|110|Other Halves|Sue McCauley
+45|3266|The 10PM Question|Kate De Goldi
+46|890|Pounamu Pounamu|Witi Ihimaera
+47|-|(wrong match, see manual)|
+48|283|Season Of The Jew|Maurice Shadbolt
+49|1440|Under the Mountain|Maurice Gee
+50|11123|The Garden Party and Other Stories|Katherine Mansfield
+51|13365|The Whale Rider|Witi Ihimaera
+52|4301|The Changeover|Margaret Mahy
+53|2260|Owls Do Cry|Janet Frame
+54|371|Man Alone|John Mulgan
+55|3743|The Vintner's Luck|Elizabeth Knox
+56|24597|Mister Pip|Lloyd Jones
+57|4862|Erewhon|Samuel Butler
+58|23886|Palace Walk (Cairo Trilogy #1)|Naguib Mahfouz
+59|33035|Children of the Alley|Naguib Mahfouz
+60|14242|Midaq Alley|Naguib Mahfouz
+61|21768|The Harafish|Naguib Mahfouz
+62|13461|The Thief and the Dogs|Naguib Mahfouz
+63|3876|Zayni Barakat|Gamal al-Ghitani
+64|253|Rama and the Dragon|Edwar Al-Kharrat
+65|4473|No One Sleeps in Alexandria|Ibrahim Abdel Meguid
+66|1|Seeds of Corruption|Sabri Moussa
+67|2806|The Heron|Ibrahim Aslan
+68|-||
+69|4427|Return of the Spirit|Tawfiq Al-Hakim
+70|3760|The Open Door|Latifa Al-Zayyat
+71|52747|Azazeel|Youssef Ziedan
+72|24108|The Yacoubian Building|Alaa Al Aswany
+73|36837|Woman at Point Zero|Nawal El Saadawi
+74|6301|The Call of the Curlew|Taha Hussein
+75|12094|Al-Ayyam = The Days|Taha Hussein
+76|15030|Sunset Oasis|Bahaa Taher
+77|-|(wrong match, see manual)|
+78|5624|Zaat|Sonallah Ibrahim
+79|237|Star of August|Sonallah Ibrahim
+80|1136|War in the Land of Egypt|Yusuf Al-Qa'id
+81|-||
+82|53745|Granada: The Complete Trilogy|Radwa Ashour
+83|143328|The English Patient|Michael Ondaatje
+84|3796122|The Alchemist|Paulo Coelho
+85|12367|The Alexandria Quartet|Lawrence Durrell
+86|29746|The Egyptian|Mika Waltari
+87|328527|Death on the Nile|Agatha Christie
+88|2342|Joseph and His Brothers|Thomas Mann
+89|3295|Ozymandias|Percy Bysshe Shelley
+90|123020|Disgrace|J.M. Coetzee
+91|22160|Life & Times of Michael K|J.M. Coetzee
+92|81733|Cry, the Beloved Country|Alan Paton
+93|98759|Long Walk to Freedom|Nelson Mandela
+94|4583|A Dry White Season|André Brink
+95|3331|Country of My Skull|Antjie Krog
+96|2381|Burger's Daughter|Nadine Gordimer
+97|3219|The Story of an African Farm|Olive Schreiner
+98|451|Down Second Avenue|Ezekiel Mphahlele
+99|756|Chaka|Thomas Mofolo
+100|64|Native Life in South Africa|Sol T. Plaatje
+101|1690|The Heart of Redness|Zakes Mda
+102|318|Mafeking Road|Herman Charles Bosman
+103|1092|Welcome to Our Hillbrow|Phaswane Mpe
+104|278|The Long Journey of Poppie Nongena|Elsa Joubert
+105|860219|Born a Crime|Trevor Noah
+106|426|Mhudi|Sol T. Plaatje
+107|77063|An Autobiography: The Story of My Experiments with Truth|Mahatma Gandhi
+108|54093|King Solomon's Mines|H. Rider Haggard
+109|97074|The Power of One|Bryce Courtenay
+110|430260|Things Fall Apart|Chinua Achebe
+111|14009|The Famished Road|Ben Okri
+112|195054|Half of a Yellow Sun|Chimamanda Ngozi Adichie
+113|9980|Arrow of God|Chinua Achebe
+114|429665|Americanah|Chimamanda Ngozi Adichie
+115|4144|The Palm-Wine Drinkard|Amos Tutuola
+116|5790|Death and the King's Horseman|Wole Soyinka
+117|153211|Purple Hibiscus|Chimamanda Ngozi Adichie
+118|8910|The Joys of Motherhood|Buchi Emecheta
+119|88|Labyrinths|Christopher Okigbo
+120|923|Forest of a Thousand Daemons|D.O. Fagunwa
+121|2099|Aké: The Years of Childhood|Wole Soyinka
+122|389116|My Sister, the Serial Killer|Oyinkan Braithwaite
+123|15346|The Interesting Narrative|Olaudah Equiano
+124|13743|No Longer at Ease|Chinua Achebe
+125|1220|Efuru|Flora Nwapa
+126|25865|Memory in the Flesh|Ahlam Mosteghanemi
+127|1435|Fantasia: An Algerian Cavalcade|Assia Djebar
+128|410|La Grande Maison|Mohammed Dib
+129|780|Nedjma|Kateb Yacine
+130|-||
+131|0|Al-Laz (Arabic Edition)|Al-Taher Wattar
+132|-||
+133|80832|Confessions|Augustine of Hippo
+134|0|Wedding of a Mule (Arabic Edition)|Al-Taher Wattar
+135|3274|Houris|Kamel Daoud
+136|11983|What the Day Owes the Night|Yasmina Khadra
+137|1560702|The Stranger|Albert Camus
+138|338623|The Plague|Albert Camus
+139|14320|The Immoralist|André Gide
+140|32010|The Sheltering Sky|Paul Bowles
+141|2380|Noces suivi de L'été|Albert Camus
+142|1|Au soleil (French Edition)|Guy de Maupassant
+143|12122|For Bread Alone|Mohamed Choukri
+144|-||
+145|1831|The Sacred Night|Tahar Ben Jelloun
+146|1622|La Boîte à merveilles|Ahmed Sefrioui
+147|490|Le Passé Simple|Driss Chraïbi
+148|290|The Game of Forgetting|Mohammed Berrada
+149|13983|This Blinding Absence of Light|Tahar Ben Jelloun
+150|2949|The Travels of Ibn Battutah|Ibn Battuta
+151|23468|In the Country of Others|Leïla Slimani
+152|3796122|The Alchemist|Paulo Coelho
+153|101400|Naked Lunch: The Restored Text|William S. Burroughs
+154|3393|The Voices of Marrakesh|Elias Canetti
+155|2340|Southern Mail|Antoine de Saint-Exupéry
+156|44|Au Maroc|Pierre Loti
+157|7367|A Grain of Wheat|Ngũgĩ wa Thiong'o
+158|968|The River and the Source|Margaret A. Ogola
+159|295|Coming to Birth|Marjorie Oludhe Macgoye
+160|429|Facing Mount Kenya|Jomo Kenyatta
+161|2287|Devil on the Cross|Ngũgĩ wa Thiong'o
+162|865|Matigari|Ngũgĩ wa Thiong'o
+163|5739|The River Between|Ngũgĩ wa Thiong'o
+164|335|Blossoms of the Savannah|H.R. Ole Kulet
+165|1812|Dust|Yvonne Adhiambo Owuor
+166|4623|Weep Not, Child|Ngũgĩ wa Thiong'o
+167|50090|Out of Africa|Isak Dinesen
+168|42710|West with the Night|Beryl Markham
+169|234734|Dreams from My Father|Barack Obama
+170|32557|The Constant Gardener|John le Carré
+171|6190|The Flame Trees of Thika|Elspeth Huxley
+172|4683|The Man-Eaters of Tsavo|John Henry Patterson
+173|12022|Tales from Moominvalley|Tove Jansson
+174|19845|The Year of the Hare|Arto Paasilinna
+175|6362|The Kalevala|Elias Lönnrot
+176|4414|Seitsemän veljestä|Aleksis Kivi
+177|2726|Under the North Star|Väinö Linna
+178|3639|Totta|Riikka Pulkkinen
+179|191|Mr. Boo|Hannu Mäkelä
+180|3945|My First Murder|Leena Lehtolainen
+181|69158|The Summer Book|Tove Jansson
+182|8893|The Unknown Soldier|Väinö Linna
+183|3843|Ice|Ulla-Lena Lundberg
+184|566|Meek Heritage|Frans Emil Sillanpää
+185|825|The Tales of Ensign Stål|Johan Ludvig Runeberg
+186|3187|Eclipse of the Crescent Moon|Géza Gárdonyi
+187|26847|The Paul Street Boys|Ferenc Molnár
+188|12722|Abigail|Magda Szabó
+189|42343|The Door|Magda Szabó
+190|2581|The Man with the Golden Touch|Mór Jókai
+191|51469|Embers|Sándor Márai
+192|1586|Be Faithful Unto Death|Zsigmond Móricz
+193|1966|Tóték|István Örkény
+194|14441|Fatelessness|Imre Kertész
+195|4173|Anna Édes|Dezső Kosztolányi
+196|698|Celestial Harmonies|Péter Esterházy
+197|20066|Satantango|László Krasznahorkai
+198|1087|János vitéz|Sándor Petőfi
+199|-||
+200|25|By the Danube|Attila József
+201|16662|Independent People|Halldór Laxness
+202|5699|Njal's Saga|Anonymous
+203|10653|The Blue Fox|Sjón
+204|33359|Jar City|Arnaldur Indriðason
+205|1126|The Saga of Grettir the Strong|Unknown
+206|3431|Egil's Saga|Anonymous
+207|236185|A Journey to the Centre of the Earth|Jules Verne
+208|131106|Burial Rites|Hannah Kent
+209|63890|My Name Is Red|Orhan Pamuk
+210|14334|Memed, My Hawk|Yaşar Kemal
+211|13215|Tutunamayanlar|Oğuz Atay
+212|17291|The Time Regulation Institute|Ahmet Hamdi Tanpınar
+213|18965|Aylak Adam|Yusuf Atılgan
+214|23547|Puslu Kıtalar Atlası|İhsan Oktay Anar
+215|149794|Madonna in a Fur Coat|Sabahattin Ali
+216|-|(wrong match, see manual)|
+217|5633|Huzur|Ahmet Hamdi Tanpınar
+218|1744|Bereketli Topraklar Üzerinde|Orhan Kemal
+219|4338|Aşk-ı Memnu|Halid Ziya Uşaklıgil
+220|20344|Çalıkuşu|Reşat Nuri Güntekin
+221|42567|The Museum of Innocence|Orhan Pamuk
+222|50829|Snow|Orhan Pamuk
+223|219268|The Forty Rules of Love|Elif Shafak
+224|544095|The Iliad|Homer
+225|783120|Murder on the Orient Express|Agatha Christie
+226|2191|The Forty Days of Musa Dagh|Franz Werfel
+227|10422|Xenophon's Anabasis|Xenophon
+228|5|Written after Swimming from Sestos to Abydos|Lord Byron
+229|6913|The City|Valerian Pidmohylny
+230|2847|Shadows of Forgotten Ancestors|Mykhailo Kotsiubynsky
+231|1|Zakhar Berkut|Ivan Franko
+232|-||
+233|1890|The Black Council|Panteleimon Kulish
+234|-||
+235|-||
+236|-||
+237|-||
+238|-||
+239|8670|Internat|Serhiy Zhadan
+240|4123|Felix Austria|Sofia Andrukhovych
+241|1531|Kobzar of Taras Shevchenko (Russian Edition)|Taras Shevchenko
+242|3654|The Forest Song|Lesia Ukrainka
+243|4058|Poems of Paul Celan|Paul Celan
+244|67995|Voices from Chernobyl|Svetlana Alexievich
+245|15253|Evenings on a Farm near Dikanka|Nikolai Gogol
+246|4595|Red Cavalry|Isaac Babel
+247|1576|Tevye the Dairyman and the Railroad Stories|Sholom Aleichem
+248|16888|The White Guard|Mikhail Bulgakov
+249|185769|Everything is Illuminated|Jonathan Safran Foer
+250|24198|Death and the Penguin|Andrey Kurkov
+251|-||
+252|20279|Ion|Liviu Rebreanu
+253|-||
+254|16032|Baltagul|Mihail Sadoveanu
+255|-||
+256|12955|Moromeții I|Marin Preda
+257|15809|The Lucky Mill|Ioan Slavici
+258|6684|The Story of Harap Alb|Ion Creangă
+259|7169|Amintiri din copilărie|Ion Creangă
+260|5899|Alexandru Lăpușneanu|Constantin Negruzzi
+261|2080|Luceafărul|Mihai Eminescu
+262|26435|Maitreyi|Mircea Eliade
+263|6010|Nostalgia|Mircea Cărtărescu
+264|8053|Solenoid|Mircea Cărtărescu
+265|6662|The Land of Green Plums|Herta Müller
+266|1580113|Dracula|Bram Stoker
+267|716|The Poems of Exile: Tristia|Ovid
+268|6493|The Castle of the Carpathians|Jules Verne
+269|11377|Max Havelaar|Multatuli
+270|13137|The Evenings|Gerard Reve
+271|15405|The Darkroom of Damocles|Willem Frederik Hermans
+272|925|Camera Obscura|Hildebrand
+273|636|Gysbreght van Aemstel|Joost van den Vondel
+274|4362949|The Diary of a Young Girl|Anne Frank
+275|21329|The Assault|Harry Mulisch
+276|18670|The Discovery of Heaven|Harry Mulisch
+277|10699|Turkish Delight|Jan Wolkers
+278|17639|Hersenschimmen|J. Bernlef
+279|3151|Eline Vere|Louis Couperus
+280|181291|The Dinner|Herman Koch
+281|371523|The Hiding Place|Corrie ten Boom
+282|1096306|The Goldfinch|Donna Tartt
+283|5919987|The Fault in Our Stars|John Green
+284|804010|Girl with a Pearl Earring|Tracy Chevalier
+285|156584|The Miniaturist|Jessie Burton
+286|25363|The Black Tulip|Alexandre Dumas
+287|17425|Hans Brinker, or The Silver Skates|Mary Mapes Dodge
+288|149171|The Fall|Albert Camus
+289|39|Of Reynaert the Fox|(ed. André Bouwman)
+290|4032|The Sorrow of Belgium|Hugo Claus
+291|1205|Chapel Road|Louis Paul Boon
+292|9124|Kaas|Willem Elsschot
+293|656|Pallieter|Felix Timmermans
+294|1068|The Lion of Flanders|Hendrik Conscience
+295|16387|The Misfortunates|Dimitri Verhulst
+296|15969|The Angel Maker|Stefan Brijs
+297|1447|Beatrijs|Unknown
+298|3457|Bruges-La-Morte|Georges Rodenbach
+299|1682|Malpertuis|Jean Ray
+300|90|La Comtesse des digues|Marie Gevers
+301|16|Happe-Chair|Camille Lemonnier
+302|1095|The Legend of Tyl Ulenspiegel|Charles de Coster
+303|269|Pedigree|Georges Simenon
+304|29209|Austerlitz|W.G. Sebald
+305|1103|A Dog of Flanders|Ouida
+306|6227|I'm Not Stiller|Max Frisch
+307|230046|Steppenwolf|Hermann Hesse
+308|558|Green Henry|Gottfried Keller
+309|5254|The Black Spider|Jeremias Gotthelf
+310|216602|Heidi|Johanna Spyri
+311|19142|The Judge and His Hangman|Friedrich Dürrenmatt
+312|1809|Julie, or the New Heloise|Jean-Jacques Rousseau
+313|4487|Belle du Seigneur|Albert Cohen
+314|2522|Man in the Holocene|Max Frisch
+315|7989|Reveries of the Solitary Walker|Jean-Jacques Rousseau
+316|338|Derborence|Charles-Ferdinand Ramuz
+317|65|Jürg Jenatsch|Conrad Ferdinand Meyer
+318|9696|Wilhelm Tell|Friedrich Schiller
+319|50755|Little Dorrit|Charles Dickens
+320|4500|The Prelude|William Wordsworth
+321|39692|Daisy Miller|Henry James
+322|268|The Prisoner of Chillon|Lord Byron
+323|3192|Manfred|Lord Byron
+324|129|The Final Problem and Other Stories|Arthur Conan Doyle
+325|160|Lucerne|Leo Tolstoy
+326|2|Auf dem See|Goethe
+327|163|Stranger in the Village|James Baldwin
+328|109265|The Complete Fairy Tales|Hans Christian Andersen
+329|2013|Lucky Per|Henrik Pontoppidan
+330|2785|The Fall of the King|Johannes V. Jensen
+331|10978|Either/Or|Søren Kierkegaard
+332|507|Marie Grubbe|Jens Peter Jacobsen
+333|204|The Rector of Veilbye|Steen Steensen Blicher
+334|1614|Ved vejen|Herman Bang
+335|292|Jammers Minde|Leonora Christina Ulfeldt
+336|2666|Winter's Tales|Isak Dinesen
+337|53737|Smilla's Sense of Snow|Peter Høeg
+338|28084|The Copenhagen Trilogy|Tove Ditlevsen
+339|12987|We, the Drowned|Carsten Jensen
+340|324|Pelle the Conqueror|Martin Andersen Nexø
+341|9|Peder Paars|Ludvig Holberg
+342|324|The Diary of a Parish Clerk|Steen Steensen Blicher
+343|713|Tine|Herman Bang
+344|359830|Beowulf (Seamus Heaney translation)|
+345|1111|Letters Written in Sweden, Norway, and Denmark|Mary Wollstonecraft
+346|69715|Hunger|Knut Hamsun
+347|171951|A Doll's House|Henrik Ibsen
+348|15823|Kristin Lavransdatter|Sigrid Undset
+349|294583|Sophie's World|Jostein Gaarder
+350|52935|My Struggle, Book 1|Karl Ove Knausgård
+351|113387|The Redbreast|Jo Nesbø
+352|39262|Out Stealing Horses|Per Petterson
+353|16593|The Ice Palace|Tarjei Vesaas
+354|994|The Alberta Trilogy|Cora Sandel
+355|1690|The House with the Blind Glass Windows|Herbjørg Wassmo
+356|13144|Pan|Knut Hamsun
+357|15075|Growth of the Soil|Knut Hamsun
+358|15352|A Shining|Jon Fosse
+359|9946|Peer Gynt|Henrik Ibsen
+360|336|Terje Vigen|Henrik Ibsen
+361|481|Garman and Worse|Alexander L. Kielland
+362|1437|Heimskringla|Snorri Sturluson
+363|2351|The Lottery Ticket|Jules Verne
+364|8377|Babette's Feast|Isak Dinesen
+365|1111|Letters Written in Sweden, Norway, and Denmark|Mary Wollstonecraft
+366|8685|Mysteries|Knut Hamsun
+367|9419|Fuglane|Tarjei Vesaas
+368|836|The District Governor's Daughters|Camilla Collett
+369|1037|Norwegian Folk Tales|Peter Christen Asbjørnsen
+370|28|The Trumpet of Nordland|Petter Dass
+371|137|Peace|Arne Garborg
+372|1227|Erasmus Montanus|Ludvig Holberg
+373|213378|Pippi Longstocking|Astrid Lindgren
+374|3547740|The Girl With the Dragon Tattoo|Stieg Larsson
+375|13099|The Wonderful Adventures of Nils|Selma Lagerlöf
+376|19422|Doctor Glas|Hjalmar Söderberg
+377|10856|The Emigrants|Vilhelm Moberg
+378|81429|Faceless Killers|Henning Mankell
+379|4780|The Red Room|August Strindberg
+380|11192|The Laughing Policeman|Maj Sjöwall
+381|1526|The Christmas Oratorio|Göran Tunström
+382|1614|Flowering Nettle|Harry Martinson
+383|10304|City of My Dreams|Per Anders Fogelström
+384|3287|The People of Hemsö|August Strindberg
+385|7159|Gösta Berling's Saga|Selma Lagerlöf
+386|19525|Kallocain|Karin Boye
+387|203|The Days of His Grace|Eyvind Johnson
+388|1299928|A Man Called Ove|Fredrik Backman
+389|125216|Let the Right One In|John Ajvide Lindqvist
+390|2276|Jerusalem|Selma Lagerlöf
+391|2659|Sara Videbeck (Det går an)|Carl Jonas Love Almqvist
+392|81|Fredmans epistlar|Carl Michael Bellman
+393|6341|The Abominable Man|Maj Sjöwall
+394|545|Giftas|August Strindberg
+395|2|Lapland Journey|Carl Linnaeus
+396|84|An Account of the Sámi|Johan Turi
+397|479|Katitzi|Katarina Taikon
+# manual re-queries (11-24) for rows the batch got wrong or missed:
+M47|578|Tu|Patricia Grace
+M77|2262|شرف (Sharaf)|Sonallah Ibrahim
+M216|13816|Kara Kitap (The Black Book)|Orhan Pamuk
+M68|5861|The Lamp of Umm Hashim|Yahya Haqqi
+M130|379|ريح الجنوب (Wind from the South)|Abdelhamid Benhedouga
+M132|78|ألف عام وعام من الحنين|Rachid Boudjedra
+M144|190|المرأة والوردة|Mohamed Zafzaf
+M81|834|الموت على الأسفلت|Abnudi
+M232|26|Хіба ревуть воли...|Panas Myrny
+M234|1539|The Enchanted Desna|Dovzhenko
+M235|1738|Майстер корабля|Yanovsky
+M236|7567|Тигролови|Ivan Bahrianyi
+M237|8|Хмари|Nechui-Levytsky
+M238|3901|The Kaidash Family|Nechui-Levytsky
+M251|293|The Fountain of Bakhchisarai|Pushkin
+M253|21757|Enigma Otiliei|George Călinescu
+M255|18084|Ultima noapte de dragoste, întâia noapte de război|Camil Petrescu
