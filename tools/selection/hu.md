@@ -20,15 +20,16 @@
 | 4 | Embers | Sándor Márai | 本国 | A1+3 D+1 E+1 | 5 | 3 |  | 新增 | 新增（地点待查） | 书里的庄园没写地名；D 504 · Goodreads 51,469 |
 | 5 | Fatelessness | Imre Kertész | 本国 | N+1 D+2 E+1 | 4 | 3 |  | 新增 | 不收 | 布达佩斯部分很短；D 495 · Goodreads 14,441 |
 | 6 | Eclipse of the Crescent Moon (Egri csillagok) | Géza Gárdonyi | 本国 | A1+4 B+2 | 6 | 2 | 是 | 保留 | 保留 | 大书投票第 1；不在 D 前 2000 · Goodreads 3,187 |
-| 7 | The Man with the Golden Touch (Az arany ember) | Mór Jókai | 本国 | A1+4 B+2 | 6 | 2 |  | 新增 | 新增 | 科马罗姆、多瑙河；不在 D 前 2000 · Goodreads 2,581 |
+| 7 | The Man with the Golden Touch (Az arany ember) | Mór Jókai | 本国 | A1+4 B+2 | 6 | 2 | 是 | 保留 | 新增 | 科马罗姆、多瑙河；不在 D 前 2000 · Goodreads 2,581 |
 | 8 | Be Faithful Unto Death | Zsigmond Móricz | 本国 | A1+3 B+2 | 5 | 2 | 是 | 保留 | 保留 | 德布勒森；不在 D 前 2000 · Goodreads 1,586 |
 | 9 | The Tót Family (Tóték) | István Örkény | 本国 | A1+3 B+2 | 5 | 2 |  | 新增 | 新增（地点待查） | 马特劳圣安娜是虚构村名；不在 D 前 2000 · Goodreads 1,966 |
 | 10 | Anna Édes | Dezső Kosztolányi | 本国 | A1+3 D+1 | 4 | 2 |  | 新增 | 不收 | D 1759 · Goodreads 4,173 |
 | 11 | Celestial Harmonies | Péter Esterházy | 本国 | A1+3 D+1 | 4 | 2 |  | 新增 | 不收 | D 1767 · Goodreads 698 |
-| 12 | Satantango | László Krasznahorkai | 本国 | N+1 E+1 | 2 | 2 |  | 新增 | 不收 | 不在 D 前 2000 · Goodreads 20,066 |
+| 12 | Satantango | László Krasznahorkai | 本国 | N+1 E+1 | 2 | 2 | 是 | 保留 | 不收 | 不在 D 前 2000 · Goodreads 20,066 |
 | 13 | János vitéz | Sándor Petőfi | 本国 | B+2 | 2 | 1 |  | 不收 | 不收 | 不在 D 前 2000 · Goodreads 1,087 |
 | 14 | By the Danube (A Dunánál) | Attila József | 本国 | B+2 | 2 | 1 | 是 | 保留（只有一类证据） | 删除（见名额说明） | 2020 年高中课程框架（9–12 年级）约瑟夫·阿蒂拉一节点名《在多瑙河边》（ELTE 网站上的框架文本）；不在 D 前 2000；Goodreads 25 |
 | 15 | The Great Plain (Az Alföld) | Sándor Petőfi | 本国 | B+1 | 1 | 1 | 是 | 保留（只有一类证据） | 删除（见名额说明） | 按 2020 课程框架写的学校课程里，5 年级“故乡、风景”单元的推荐篇目有《平原》（巴托尼亚罗姆学校课程）；框架原文没能打开，按推荐篇目记 1；不在 D 前 2000；Goodreads 查不到 |
+| 16 | National Song | Sándor Petőfi | 作家故居 |  | 0 | 0 | 是 | 作家故居、纪念地标注的代表作，不按选书规则评 |  |  |
 
 ## 说明
 规则 v2（11-24 晚）：两项证据或进 A 名单前 10 就够格；已有的书不因分数删；同一作者够格的都收；不设名额。本表结果：新增 9，保留 3，保留（只有一类证据） 2，不收 1。 两首诗都找到了课程来源：约瑟夫·阿蒂拉《在多瑙河边》在 2020 高中课程框架里点名；裴多菲《平原》只在按框架写的学校课程里看到（推荐篇目），框架原文没能打开。两首都保留。

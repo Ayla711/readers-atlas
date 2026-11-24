@@ -114,8 +114,8 @@
     "A2",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "gijsbrecht",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "阿姆斯特丹；D 1614 · Goodreads 636"
   },
@@ -226,8 +226,8 @@
     "A1",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "eline-vere",
+   "decision": "保留",
    "first_draft": "不收",
    "note": "D 1503 · Goodreads 3,151"
   },
@@ -380,6 +380,30 @@
    "decision": "保留",
    "first_draft": "待定",
    "note": "D 941；Goodreads 149,170"
+  },
+  {
+   "title": "Ethics",
+   "author": "Baruch Spinoza",
+   "kind": "作家故居",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "ethics-spinoza",
+   "decision": "作家故居、纪念地标注的代表作，不按选书规则评",
+   "first_draft": "",
+   "note": ""
+  },
+  {
+   "title": "The Praise of Folly",
+   "author": "Desiderius Erasmus",
+   "kind": "他国书目",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "praise-of-folly",
+   "decision": "属于 ch 的书，挂在这里，不在此评",
+   "first_draft": "",
+   "note": ""
   }
  ]
 }

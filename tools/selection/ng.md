@@ -31,7 +31,7 @@
 | 13 | Aké: The Years of Childhood | Wole Soyinka | 本国 | A1+3 | 3 | 1 | 是 | 保留（只有一类证据） | 删除 | 索因卡第二本；不在 D 前 2000；Goodreads 2,099 |
 | 14 | My Sister, the Serial Killer | Oyinkan Braithwaite | 本国 | E+2 | 2 | 1 |  | 不收 | 不收 | 不在 D 前 2000 · Goodreads 389,116 |
 | 15 | No Longer at Ease | Chinua Achebe | 本国 | E+1 | 1 | 1 | 是 | 保留（只有一类证据） | 删除 | 阿契贝第三本；不在 D 前 2000；Goodreads 13,743 |
-| 16 | Efuru | Flora Nwapa | 本国 |  | 0 | 0 | 是 | 删除（零项，复核后用户同意删） | 删除（零项，用户同意删） | 不在 D 前 2000；Goodreads 1,220；复核：不在非洲百部（thegreatestbooks 第 254 号书单全表） |
+| 16 | Efuru | Flora Nwapa | 本国 |  | 0 | 0 |  | 不收 | 删除（零项，用户同意删） | 不在 D 前 2000；Goodreads 1,220；复核：不在非洲百部（thegreatestbooks 第 254 号书单全表） |
 
 ## 说明
 规则 v2（11-24 晚）：两项证据或进 A 名单前 10 就够格；已有的书不因分数删；同一作者够格的都收；不设名额。本表结果：新增 5，保留 5，保留（只有一类证据） 2，删除（零项） 1，不收 3。 阿迪契、阿契贝、索因卡各有两三本够格或已在应用里，按 v2 都收。

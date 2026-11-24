@@ -24,15 +24,15 @@
 | 6 | La Comtesse des digues | Marie Gevers | 本国（法语） | A2+3 B+2 | 5 | 2 |  | 新增 | 新增 | 斯海尔德河圩田；不在 D 前 2000 · Goodreads 90 |
 | 7 | Happe-Chair | Camille Lemonnier | 本国（法语） | A2+3 B+2 | 5 | 2 |  | 新增 | 新增（地点待查） | 沙勒罗瓦一带钢铁厂；不在 D 前 2000 · Goodreads 16 |
 | 8 | Cheese (Kaas) | Willem Elsschot | 本国（弗拉芒） | A1+3 D+1 | 4 | 2 |  | 新增 | 新增 | 安特卫普；D 776 · Goodreads 9,124 |
-| 9 | Pallieter | Felix Timmermans | 本国（弗拉芒） | A1+3 D+1 | 4 | 2 |  | 新增 | 新增 | 利尔；D 846 · Goodreads 656 |
-| 10 | The Lion of Flanders | Hendrik Conscience | 本国（弗拉芒） | A1+3 D+1 | 4 | 2 |  | 新增 | 新增 | 科特赖克金马刺之战；D 1830 · Goodreads 1,068 |
+| 9 | Pallieter | Felix Timmermans | 本国（弗拉芒） | A1+3 D+1 | 4 | 2 | 是 | 保留 | 新增 | 利尔；D 846 · Goodreads 656 |
+| 10 | The Lion of Flanders | Hendrik Conscience | 本国（弗拉芒） | A1+3 D+1 | 4 | 2 | 是 | 保留 | 新增 | 科特赖克金马刺之战；D 1830 · Goodreads 1,068 |
 | 11 | The Misfortunates | Dimitri Verhulst | 本国（弗拉芒） | A1+3 E+1 | 4 | 2 |  | 新增 | 新增（待挂靠） | 虚构村子；不在 D 前 2000 · Goodreads 16,387 |
 | 12 | The Angel Maker | Stefan Brijs | 本国（弗拉芒） | A1+3 E+1 | 4 | 2 |  | 新增 | 新增（待挂靠） | 虚构村子沃尔夫海姆；不在 D 前 2000 · Goodreads 15,969 |
 | 13 | Chapel Road (De Kapellekensbaan) | Louis Paul Boon | 本国（弗拉芒） | A1+4 | 4 | 1 |  | 新增 | 新增 | 阿尔斯特；不在 D 前 2000 · Goodreads 1,205 |
 | 14 | The Legend of Thyl Ulenspiegel | Charles De Coster | 本国（法语） | B+2 | 2 | 1 | 是 | 保留（只有一类证据） | 待定：建议保留 | 不在 D 前 2000；Goodreads 1,095 |
-| 15 | Pedigree | Georges Simenon | 本国（法语） |  | 0 | 0 | 是 | 删除（零项，复核后用户同意删） | 删除（零项，用户同意删） | 不在 D 前 2000；Goodreads 269；复核：Espace Nord 2023 目录里没有《家世》（只有西默农的另两本） |
+| 15 | Pedigree | Georges Simenon | 本国（法语） |  | 0 | 0 |  | 不收 | 删除（零项，用户同意删） | 不在 D 前 2000；Goodreads 269；复核：Espace Nord 2023 目录里没有《家世》（只有西默农的另两本） |
 | 16 | Austerlitz | W. G. Sebald | 外国 | D+2 E+1 | 3 | 2 |  | 新增 | 待定（新增候选） | 安特卫普中央车站；捷克那边已有；D 256 · Goodreads 29,209 |
-| 17 | A Dog of Flanders | Ouida | 外国 |  | 0 | 0 | 是 | 删除（零项，复核后用户同意删） | 删除（零项，用户同意删） | 不在 D 前 2000；Goodreads 1,103 |
+| 17 | A Dog of Flanders | Ouida | 外国 |  | 0 | 0 |  | 不收 | 删除（零项，用户同意删） | 不在 D 前 2000；Goodreads 1,103 |
 | 18 | Les Misérables | Victor Hugo | 他国书目 |  | 0 | 0 | 是 | 属于 fr 的书，挂在这里，不在此评 |  |  |
 | 19 | Vanity Fair | William Makepeace Thackeray | 他国书目 |  | 0 | 0 | 是 | 属于 uk 的书，挂在这里，不在此评 |  |  |
 | 20 | Heart of Darkness | Joseph Conrad | 他国书目 |  | 0 | 0 | 是 | 属于 uk 的书，挂在这里，不在此评 |  |  |

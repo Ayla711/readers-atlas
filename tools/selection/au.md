@@ -50,7 +50,7 @@
 | 31 | Wild Dark Shore | Charlotte McConaghy | 本国 | A1+3 E+2 | 5 | 2 |  | 新增 | 不收 | 虚构岛；不在 D 前 2000 · Goodreads 683,348 |
 | 32 | Looking for Alibrandi | Melina Marchetta | 本国 | A1+3 E+1 | 4 | 2 |  | 新增 | 不收 | 不在 D 前 2000 · Goodreads 26,121 |
 | 33 | The Man from Snowy River | Banjo Paterson | 本国 | A1+3 | 3 | 1 | 是 | 保留（只有一类证据） | 删除 | 不在 D 前 2000；Goodreads 439 |
-| 34 | Waltzing Matilda | Banjo Paterson | 本国 |  | 0 | 0 | 是 | 删除（零项，复核后用户同意删） | 删除（零项，用户同意删） | 帕特森第二首；不在 D 前 2000；Goodreads 149 |
+| 34 | Waltzing Matilda | Banjo Paterson | 本国 |  | 0 | 0 |  | 不收 | 删除（零项，用户同意删） | 帕特森第二首；不在 D 前 2000；Goodreads 149 |
 | 35 | A Town Like Alice | Nevil Shute | 外国 | D+1 E+1 | 2 | 2 |  | 新增 | 新增 | 英国作家；后半部在爱丽丝泉和昆士兰海湾；D 850 · Goodreads 64,180 |
 | 36 | The Songlines | Bruce Chatwin | 外国 | E+1 | 1 | 1 |  | 不收 | 不收 | 不在 D 前 2000 · Goodreads 12,874 |
 

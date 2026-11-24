@@ -359,10 +359,22 @@
    "points": {},
    "score": 0,
    "cats": [],
-   "in_app": "sestos-to-abydos",
-   "decision": "删除（零项，复核后用户同意删）",
+   "in_app": null,
+   "decision": "不收",
    "first_draft": "删除（零项，用户同意删）",
    "note": "不在 D 前 2000；Goodreads 查不到"
+  },
+  {
+   "title": "Masnavi",
+   "author": "Rumi",
+   "kind": "作家故居",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "masnavi",
+   "decision": "作家故居、纪念地标注的代表作，不按选书规则评",
+   "first_draft": "",
+   "note": ""
   }
  ]
 }

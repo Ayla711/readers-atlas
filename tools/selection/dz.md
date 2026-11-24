@@ -18,8 +18,8 @@
 
 | # | 书 | 作者 | 类 | 明细 | 分 | 证据项 | 已在应用里 | 处理（v2） | v1 初稿（作废，仅供对照） | 说明 |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Memory in the Flesh | Ahlam Mosteghanemi | 本国 | A2+3 A3+3 A4+3 C+2 E+1 | 12 | 5 |  | 新增 | 新增 | 君士坦丁；马哈福兹奖章 1998；不在 D 前 2000 · Goodreads 25,865 |
-| 2 | The Ace (Al-Laz) | Tahar Wattar | 本国 | A2+3 A4+3 | 6 | 2 |  | 新增 | 新增（地点待查） | 阿拉伯语；独立战争；不在 D 前 2000 · Goodreads 0 |
+| 1 | Memory in the Flesh | Ahlam Mosteghanemi | 本国 | A2+3 A3+3 A4+3 C+2 E+1 | 12 | 5 | 是 | 保留 | 新增 | 君士坦丁；马哈福兹奖章 1998；不在 D 前 2000 · Goodreads 25,865 |
+| 2 | The Ace (Al-Laz) | Tahar Wattar | 本国 | A2+3 A4+3 | 6 | 2 |  | 不收（没有真实地点） | 不收（没有真实地点） | 阿拉伯语；独立战争；不在 D 前 2000 · Goodreads 0；核地点：故事在一座不具名的阿尔及利亚村庄，没有真实地点 |
 | 3 | Fantasia: An Algerian Cavalcade | Assia Djebar | 本国 | A1+4 D+1 | 5 | 2 | 是 | 保留 | 保留 | D 1085 · Goodreads 1,435 |
 | 4 | Confessions | Augustine of Hippo | 本国（古代努米底亚） | D+2 E+1 | 3 | 2 | 是 | 保留 | 待定 | 塔加斯特（今苏格艾赫拉斯）；D 118；Goodreads 80,832 |
 | 5 | La Grande Maison (Algeria trilogy) | Mohammed Dib | 本国 | A1+3 | 3 | 1 | 是 | 保留（只有一类证据） | 保留 | 特莱姆森；不在 D 前 2000；Goodreads 410 |
@@ -32,9 +32,9 @@
 | 12 | The Stranger | Albert Camus | 外国 | BK+3 N+1 D+2 E+3 | 9 | 3 | 是 | 保留 | 保留 | 阿尔及尔；D 23 · Goodreads 1,560,702 |
 | 13 | The Plague | Albert Camus | 外国 | D+2 E+2 | 4 | 2 | 是 | 保留 | 待定 | D 72 · Goodreads 338,623 |
 | 14 | The Immoralist | André Gide | 外国 | D+2 E+1 | 3 | 2 | 是 | 保留 | 待定 | 比斯克拉；D 477；Goodreads 14,320 |
-| 15 | The Sheltering Sky | Paul Bowles | 外国 | D+1 E+1 | 2 | 2 |  | 新增 | 待定（新增候选） | 奥兰、撒哈拉；D 596 · Goodreads 32,010 |
-| 16 | Nuptials | Albert Camus | 外国 |  | 0 | 0 | 是 | 删除（零项，复核后用户同意删） | 删除（零项，用户同意删） | 加缪第三本；不在 D 前 2000；Goodreads 2,380（法文集子《婚礼集》含《夏天》） |
-| 17 | Au soleil | Guy de Maupassant | 外国 |  | 0 | 0 | 是 | 删除（零项，复核后用户同意删） | 删除（零项，用户同意删） | 不在 D 前 2000；Goodreads 查不到 |
+| 15 | The Sheltering Sky | Paul Bowles | 外国 | D+1 E+1 | 2 | 2 | 是 | 保留 | 新增 | 奥兰、撒哈拉；D 596 · Goodreads 32,010；核地点：开篇在奥兰，结尾基特被送回奥兰 |
+| 16 | Nuptials | Albert Camus | 外国 |  | 0 | 0 |  | 不收 | 删除（零项，用户同意删） | 加缪第三本；不在 D 前 2000；Goodreads 2,380（法文集子《婚礼集》含《夏天》） |
+| 17 | Au soleil | Guy de Maupassant | 外国 |  | 0 | 0 |  | 不收 | 删除（零项，用户同意删） | 不在 D 前 2000；Goodreads 查不到 |
 
 ## 说明
-规则 v2（11-24 晚）：两项证据或进 A 名单前 10 就够格；已有的书不因分数删；同一作者够格的都收；不设名额。本表结果：新增 3，保留 5，保留（只有一类证据） 1，删除（零项） 2，不收 6。 《娜吉玛》只进了非洲百部（1 项），按 v2 不新增。加缪《婚礼集》、莫泊桑《在阳光下》复核后仍是零项，删。《庇护所》（奥兰、撒哈拉）D 596、Goodreads 3.2 万，两项，新增。
+规则 v2（11-24 晚）：两项证据或进 A 名单前 10 就够格；已有的书不因分数删；同一作者够格的都收；不设名额。本表结果：新增 2，保留 5，保留（只有一类证据） 1，删除（零项） 2，不收 6，没有真实地点 1。 《娜吉玛》只进了非洲百部（1 项），按 v2 不新增。加缪《婚礼集》、莫泊桑《在阳光下》复核后仍是零项，删。《庇护所》（奥兰、撒哈拉）D 596、Goodreads 3.2 万，两项，新增。 瓦塔尔《王牌》写的是一座不具名的村庄，没有真实地点，不收。

@@ -18,18 +18,18 @@
 | # | 书 | 作者 | 类 | 明细 | 分 | 证据项 | 已在应用里 | 处理（v2） | v1 初稿（作废，仅供对照） | 说明 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | For Bread Alone | Mohamed Choukri | 本国 | A2+3 A3+3 A4+4 E+1 | 11 | 4 | 是 | 保留 | 保留 | 丹吉尔；不在 D 前 2000 · Goodreads 12,122 |
-| 2 | The Sacred Night | Tahar Ben Jelloun | 本国 | A1+3 C+2 | 5 | 2 |  | 新增 | 新增 | 龚古尔奖 1987；不在 D 前 2000 · Goodreads 1,831 |
-| 3 | La Boîte à merveilles | Ahmed Sefrioui | 本国 | B+2 C+2 | 4 | 2 |  | 新增 | 新增 | 非斯老城；摩洛哥文学大奖；不在 D 前 2000 · Goodreads 1,622 |
-| 4 | This Blinding Absence of Light | Tahar Ben Jelloun | 本国 | C+2 E+1 | 3 | 2 |  | 新增 | 不收 | 本·杰伦第二本；不在 D 前 2000 · Goodreads 13,983 |
+| 2 | The Sacred Night | Tahar Ben Jelloun | 本国 | A1+3 C+2 | 5 | 2 | 是 | 保留 | 新增 | 龚古尔奖 1987；不在 D 前 2000 · Goodreads 1,831 |
+| 3 | La Boîte à merveilles | Ahmed Sefrioui | 本国 | B+2 C+2 | 4 | 2 | 是 | 保留 | 新增 | 非斯老城；摩洛哥文学大奖；不在 D 前 2000 · Goodreads 1,622 |
+| 4 | This Blinding Absence of Light | Tahar Ben Jelloun | 本国 | C+2 E+1 | 3 | 2 | 是 | 保留 | 不收 | 本·杰伦第二本；不在 D 前 2000 · Goodreads 13,983 |
 | 5 | Le Passé simple | Driss Chraïbi | 本国 | A1+3 | 3 | 1 |  | 不收 | 不收 | 不在 D 前 2000 · Goodreads 490 |
 | 6 | The Game of Forgetting | Mohammed Berrada | 本国 | A2+3 | 3 | 1 |  | 不收 | 不收 | 不在 D 前 2000 · Goodreads 290 |
 | 7 | In the Country of Others | Leïla Slimani | 本国 | E+1 | 1 | 1 |  | 不收 | 不收 | 不在 D 前 2000 · Goodreads 23,468 |
 | 8 | The Travels (Rihla) | Ibn Battuta | 本国 |  | 0 | 0 | 是 | 删除（零项，复核后用户同意删） | 删除（零项，用户同意删） | 不在 D 前 2000；Goodreads 2,949 |
-| 9 | The Alchemist | Paulo Coelho | 外国 | D+2 E+3 | 5 | 2 |  | 新增 | 新增 | 丹吉尔；D 416 · Goodreads 3,796,122 |
-| 10 | Naked Lunch | William S. Burroughs | 外国 | D+2 E+2 | 4 | 2 |  | 新增 | 待定 | 丹吉尔；D 253 · Goodreads 101,400 |
-| 11 | The Voices of Marrakesh | Elias Canetti | 外国 |  | 0 | 0 | 是 | 删除（零项，复核后用户同意删） | 删除（零项，用户同意删） | 不在 D 前 2000；Goodreads 3,393 |
-| 12 | Southern Mail | Antoine de Saint-Exupéry | 外国 |  | 0 | 0 | 是 | 删除（零项，复核后用户同意删） | 删除（零项，用户同意删） | 不在 D 前 2000；Goodreads 2,340 |
-| 13 | Au Maroc | Pierre Loti | 外国 |  | 0 | 0 | 是 | 删除（零项，复核后用户同意删） | 删除（零项，用户同意删） | 不在 D 前 2000；Goodreads 44 |
+| 9 | The Alchemist | Paulo Coelho | 外国 | D+2 E+3 | 5 | 2 | 是 | 保留 | 新增 | 丹吉尔；D 416 · Goodreads 3,796,122 |
+| 10 | Naked Lunch | William S. Burroughs | 外国 | D+2 E+2 | 4 | 2 | 是 | 保留 | 待定 | 丹吉尔；D 253 · Goodreads 101,400 |
+| 11 | The Voices of Marrakesh | Elias Canetti | 外国 |  | 0 | 0 |  | 不收 | 删除（零项，用户同意删） | 不在 D 前 2000；Goodreads 3,393 |
+| 12 | Southern Mail | Antoine de Saint-Exupéry | 外国 |  | 0 | 0 |  | 不收 | 删除（零项，用户同意删） | 不在 D 前 2000；Goodreads 2,340 |
+| 13 | Au Maroc | Pierre Loti | 外国 |  | 0 | 0 |  | 不收 | 删除（零项，用户同意删） | 不在 D 前 2000；Goodreads 44 |
 | 14 | The Woman and the Rose | Mohamed Zafzaf | 本国 | A2+3 A3+3 | 6 | 2 |  | 不算摩洛哥 | 不算摩洛哥 | 故事主要发生在西班牙托雷莫利诺斯，结尾才回到摩洛哥（英文维基）；可转给西班牙评；不在 D 前 2000 · Goodreads 190 |
 | 15 | The Innocents Abroad | Mark Twain | 他国书目 |  | 0 | 0 | 是 | 属于 it 的书，挂在这里，不在此评 |  |  |
 

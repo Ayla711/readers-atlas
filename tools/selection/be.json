@@ -99,8 +99,8 @@
     "A1",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "pallieter",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "利尔；D 846 · Goodreads 656"
   },
@@ -117,8 +117,8 @@
     "A1",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "lion-of-flanders",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "科特赖克金马刺之战；D 1830 · Goodreads 1,068"
   },
@@ -273,8 +273,8 @@
    "points": {},
    "score": 0,
    "cats": [],
-   "in_app": "pedigree-simenon",
-   "decision": "删除（零项，复核后用户同意删）",
+   "in_app": null,
+   "decision": "不收",
    "first_draft": "删除（零项，用户同意删）",
    "note": "不在 D 前 2000；Goodreads 269；复核：Espace Nord 2023 目录里没有《家世》（只有西默农的另两本）"
   },
@@ -303,8 +303,8 @@
    "points": {},
    "score": 0,
    "cats": [],
-   "in_app": "a-dog-of-flanders",
-   "decision": "删除（零项，复核后用户同意删）",
+   "in_app": null,
+   "decision": "不收",
    "first_draft": "删除（零项，用户同意删）",
    "note": "不在 D 前 2000；Goodreads 1,103"
   },

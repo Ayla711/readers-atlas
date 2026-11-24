@@ -68,8 +68,8 @@
     "A1",
     "C"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "sacred-night",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "龚古尔奖 1987；不在 D 前 2000 · Goodreads 1,831"
   },
@@ -86,8 +86,8 @@
     "B",
     "C"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "boite-a-merveilles",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "非斯老城；摩洛哥文学大奖；不在 D 前 2000 · Goodreads 1,622"
   },
@@ -136,8 +136,8 @@
     "C",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "blinding-absence-of-light",
+   "decision": "保留",
    "first_draft": "不收",
    "note": "本·杰伦第二本；不在 D 前 2000 · Goodreads 13,983"
   },
@@ -182,8 +182,8 @@
     "E",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "the-alchemist",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "丹吉尔；D 416 · Goodreads 3,796,122"
   },
@@ -200,8 +200,8 @@
     "E",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "naked-lunch",
+   "decision": "保留",
    "first_draft": "待定",
    "note": "丹吉尔；D 253 · Goodreads 101,400"
   },
@@ -212,8 +212,8 @@
    "points": {},
    "score": 0,
    "cats": [],
-   "in_app": "voices-of-marrakesh",
-   "decision": "删除（零项，复核后用户同意删）",
+   "in_app": null,
+   "decision": "不收",
    "first_draft": "删除（零项，用户同意删）",
    "note": "不在 D 前 2000；Goodreads 3,393"
   },
@@ -224,8 +224,8 @@
    "points": {},
    "score": 0,
    "cats": [],
-   "in_app": "southern-mail",
-   "decision": "删除（零项，复核后用户同意删）",
+   "in_app": null,
+   "decision": "不收",
    "first_draft": "删除（零项，用户同意删）",
    "note": "不在 D 前 2000；Goodreads 2,340"
   },
@@ -236,8 +236,8 @@
    "points": {},
    "score": 0,
    "cats": [],
-   "in_app": "au-maroc",
-   "decision": "删除（零项，复核后用户同意删）",
+   "in_app": null,
+   "decision": "不收",
    "first_draft": "删除（零项，用户同意删）",
    "note": "不在 D 前 2000；Goodreads 44"
   },

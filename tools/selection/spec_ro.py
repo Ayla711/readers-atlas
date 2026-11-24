@@ -1,4 +1,5 @@
 SPEC=dict(cc="ro",
+existing_alias={"Last Night of Love, First Night of War": "ultima-noapte", "Luceafărul": "luceafarul"},
 name="罗马尼亚",date="2026-11-24",
 sources={
 "A":"没有找到可用的全表：1990 年代有一份评论家调查把《老宫廷的浪子们》排第 1（adevarul.ro 提到），但查不到完整名单，未计",

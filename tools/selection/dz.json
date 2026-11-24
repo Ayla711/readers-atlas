@@ -14,7 +14,7 @@
   "D": "thegreatestbooks.org「Set in Algeria」总榜名次；11-24 对照总榜前 2000 名逐页重读，表中 D 以重读为准",
   "E": "Goodreads 评分人数（algerian-literature 书架页，2026-11-24）；11-24 用 Goodreads 自动补全接口逐本重查，表中 E 以重查为准"
  },
- "size_note": "规则 v2（11-24 晚）：两项证据或进 A 名单前 10 就够格；已有的书不因分数删；同一作者够格的都收；不设名额。本表结果：新增 3，保留 5，保留（只有一类证据） 1，删除（零项） 2，不收 6。 《娜吉玛》只进了非洲百部（1 项），按 v2 不新增。加缪《婚礼集》、莫泊桑《在阳光下》复核后仍是零项，删。《庇护所》（奥兰、撒哈拉）D 596、Goodreads 3.2 万，两项，新增。",
+ "size_note": "规则 v2（11-24 晚）：两项证据或进 A 名单前 10 就够格；已有的书不因分数删；同一作者够格的都收；不设名额。本表结果：新增 2，保留 5，保留（只有一类证据） 1，删除（零项） 2，不收 6，没有真实地点 1。 《娜吉玛》只进了非洲百部（1 项），按 v2 不新增。加缪《婚礼集》、莫泊桑《在阳光下》复核后仍是零项，删。《庇护所》（奥兰、撒哈拉）D 596、Goodreads 3.2 万，两项，新增。 瓦塔尔《王牌》写的是一座不具名的村庄，没有真实地点，不收。",
  "rows": [
   {
    "title": "Memory in the Flesh",
@@ -35,8 +35,8 @@
     "C",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "memory-in-the-flesh",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "君士坦丁；马哈福兹奖章 1998；不在 D 前 2000 · Goodreads 25,865"
   },
@@ -120,9 +120,9 @@
     "A4"
    ],
    "in_app": null,
-   "decision": "新增",
-   "first_draft": "新增（地点待查）",
-   "note": "阿拉伯语；独立战争；不在 D 前 2000 · Goodreads 0"
+   "decision": "不收（没有真实地点）",
+   "first_draft": "不收（没有真实地点）",
+   "note": "阿拉伯语；独立战争；不在 D 前 2000 · Goodreads 0；核地点：故事在一座不具名的阿尔及利亚村庄，没有真实地点"
   },
   {
    "title": "A Thousand Years of Nostalgia",
@@ -276,10 +276,10 @@
     "E",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
-   "first_draft": "待定（新增候选）",
-   "note": "奥兰、撒哈拉；D 596 · Goodreads 32,010"
+   "in_app": "the-sheltering-sky",
+   "decision": "保留",
+   "first_draft": "新增",
+   "note": "奥兰、撒哈拉；D 596 · Goodreads 32,010；核地点：开篇在奥兰，结尾基特被送回奥兰"
   },
   {
    "title": "Nuptials",
@@ -288,8 +288,8 @@
    "points": {},
    "score": 0,
    "cats": [],
-   "in_app": "nuptials",
-   "decision": "删除（零项，复核后用户同意删）",
+   "in_app": null,
+   "decision": "不收",
    "first_draft": "删除（零项，用户同意删）",
    "note": "加缪第三本；不在 D 前 2000；Goodreads 2,380（法文集子《婚礼集》含《夏天》）"
   },
@@ -300,8 +300,8 @@
    "points": {},
    "score": 0,
    "cats": [],
-   "in_app": "au-soleil",
-   "decision": "删除（零项，复核后用户同意删）",
+   "in_app": null,
+   "decision": "不收",
    "first_draft": "删除（零项，用户同意删）",
    "note": "不在 D 前 2000；Goodreads 查不到"
   }

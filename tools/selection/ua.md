@@ -36,10 +36,11 @@
 | 19 | Red Cavalry | Isaac Babel | 俄语（生于乌克兰） | D+1 | 1 | 1 |  | 不收 | 待定 | 沃伦、加利西亚；D 517 · Goodreads 4,595 |
 | 20 | Tevye the Dairyman | Sholem Aleichem | 外国（意第绪语，生于乌克兰） | D+1 | 1 | 1 |  | 不收 | 待定 | 博亚尔卡；D 1106 · Goodreads 1,576 |
 | 21 | Death and the Penguin | Andrey Kurkov | 俄语（乌克兰作家） | E+1 | 1 | 1 | 是 | 保留（只有一类证据） | 待定 | 不在 D 前 2000；Goodreads 24,198 |
-| 22 | The Fountain of Bakhchisaray | Alexander Pushkin | 外国 |  | 0 | 0 | 是 | 删除（零项，复核后用户同意删） | 删除（零项，用户同意删） | 不在 D 前 2000；Goodreads 查不到 |
-| 23 | The Tiger Trappers | Ivan Bahrianyi | 本国（写俄罗斯远东） | A1+3 B+2 | 5 | 2 |  | 不算乌克兰 | 不算乌克兰 | 不在 D 前 2000 · Goodreads 7,567 |
-| 24 | The Cherry Orchard | Anton Chekhov | 他国书目 |  | 0 | 0 | 是 | 属于 ru 的书，挂在这里，不在此评 |  |  |
-| 25 | The Lady with the Dog | Anton Chekhov | 他国书目 |  | 0 | 0 | 是 | 属于 ru 的书，挂在这里，不在此评 |  |  |
+| 22 | The Fountain of Bakhchisaray | Alexander Pushkin | 外国 |  | 0 | 0 |  | 不收 | 删除（零项，用户同意删） | 不在 D 前 2000；Goodreads 查不到 |
+| 23 | Eneida | Ivan Kotliarevsky | 作家故居 |  | 0 | 0 | 是 | 作家故居、纪念地标注的代表作，不按选书规则评 |  |  |
+| 24 | The Tiger Trappers | Ivan Bahrianyi | 本国（写俄罗斯远东） | A1+3 B+2 | 5 | 2 |  | 不算乌克兰 | 不算乌克兰 | 不在 D 前 2000 · Goodreads 7,567 |
+| 25 | The Cherry Orchard | Anton Chekhov | 他国书目 |  | 0 | 0 | 是 | 属于 ru 的书，挂在这里，不在此评 |  |  |
+| 26 | The Lady with the Dog | Anton Chekhov | 他国书目 |  | 0 | 0 | 是 | 属于 ru 的书，挂在这里，不在此评 |  |  |
 
 ## 说明
 规则 v2（11-24 晚）：两项证据或进 A 名单前 10 就够格；已有的书不因分数删；同一作者够格的都收；不设名额。本表结果：新增 7，保留 3，保留（只有一类证据） 4，删除（零项） 1，不收 7，不算/没有真实地点 1，他国书目（不在此评） 2。

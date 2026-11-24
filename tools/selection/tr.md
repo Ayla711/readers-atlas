@@ -34,7 +34,8 @@
 | 17 | Murder on the Orient Express | Agatha Christie | 外国 | D+2 E+2 | 4 | 2 | 是 | 保留 | 保留 | 锡尔凯吉车站；D 470；Goodreads 783,116 |
 | 18 | Anabasis | Xenophon | 外国 | D+1 E+1 | 2 | 2 | 是 | 保留 | 删除 | D 925；Goodreads 10,422 |
 | 19 | The Forty Days of Musa Dagh | Franz Werfel | 外国 | D+1 | 1 | 1 |  | 不收 | 不收 | D 1699 · Goodreads 2,191 |
-| 20 | Written After Swimming from Sestos to Abydos | Lord Byron | 外国 |  | 0 | 0 | 是 | 删除（零项，复核后用户同意删） | 删除（零项，用户同意删） | 不在 D 前 2000；Goodreads 查不到 |
+| 20 | Written After Swimming from Sestos to Abydos | Lord Byron | 外国 |  | 0 | 0 |  | 不收 | 删除（零项，用户同意删） | 不在 D 前 2000；Goodreads 查不到 |
+| 21 | Masnavi | Rumi | 作家故居 |  | 0 | 0 | 是 | 作家故居、纪念地标注的代表作，不按选书规则评 |  |  |
 
 ## 说明
 规则 v2（11-24 晚）：两项证据或进 A 名单前 10 就够格；已有的书不因分数删；同一作者够格的都收；不设名额。本表结果：新增 11，保留 6，删除（零项） 1，不收 2。

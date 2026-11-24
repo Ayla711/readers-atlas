@@ -44,8 +44,8 @@
     "A1",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "year-of-the-hare",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "海门林纳到拉普兰一路的真实地方；不在 D 前 2000 · Goodreads 19,845"
   },
@@ -66,8 +66,8 @@
     "E",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "kalevala",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "卡亚尼（伦洛特当医生、整理史诗的地方）；D 1017 · Goodreads 6,362"
   },
@@ -394,6 +394,42 @@
    "decision": "不收",
    "first_draft": "",
    "note": "西兰帕第二本；累计印数榜第 14 名；不在 D 前 2000 · Goodreads 686"
+  },
+  {
+   "title": "Finn Family Moomintroll",
+   "author": "Tove Jansson",
+   "kind": "作家故居",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "finn-family-moomintroll",
+   "decision": "作家故居、纪念地标注的代表作，不按选书规则评",
+   "first_draft": "",
+   "note": ""
+  },
+  {
+   "title": "Whitsongs",
+   "author": "Eino Leino",
+   "kind": "作家故居",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "helkavirsia",
+   "decision": "作家故居、纪念地标注的代表作，不按选书规则评",
+   "first_draft": "",
+   "note": ""
+  },
+  {
+   "title": "The Worker's Wife",
+   "author": "Minna Canth",
+   "kind": "作家故居",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "tyomiehen-vaimo",
+   "decision": "作家故居、纪念地标注的代表作，不按选书规则评",
+   "first_draft": "",
+   "note": ""
   }
  ]
 }

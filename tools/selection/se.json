@@ -32,8 +32,8 @@
     "E",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "pippi-longstocking",
+   "decision": "保留",
    "first_draft": "新增（待挂靠）",
    "note": "维默比（林格伦家乡）；D 283 · Goodreads 213,378"
   },
@@ -348,8 +348,8 @@
    "points": {},
    "score": 0,
    "cats": [],
-   "in_app": "jerusalem-lagerlof",
-   "decision": "删除（零项，复核后用户同意删）",
+   "in_app": null,
+   "decision": "不收",
    "first_draft": "删除（零项，用户同意删）",
    "note": "不在 D 前 2000；Goodreads 2,276"
   },
@@ -464,6 +464,42 @@
    "decision": "不收",
    "first_draft": "",
    "note": "Goodreads 479"
+  },
+  {
+   "title": "Miss Julie",
+   "author": "August Strindberg",
+   "kind": "作家故居",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "miss-julie",
+   "decision": "作家故居、纪念地标注的代表作，不按选书规则评",
+   "first_draft": "",
+   "note": ""
+  },
+  {
+   "title": "Emil of Lönneberga",
+   "author": "Astrid Lindgren",
+   "kind": "作家故居",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "emil-of-lonneberga",
+   "decision": "作家故居、纪念地标注的代表作，不按选书规则评",
+   "first_draft": "",
+   "note": ""
+  },
+  {
+   "title": "Guitar and Concertina",
+   "author": "Gustaf Fröding",
+   "kind": "作家故居",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "guitar-and-concertina",
+   "decision": "作家故居、纪念地标注的代表作，不按选书规则评",
+   "first_draft": "",
+   "note": ""
   }
  ]
 }

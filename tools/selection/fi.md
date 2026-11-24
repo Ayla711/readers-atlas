@@ -15,13 +15,13 @@
 
 | # | 书 | 作者 | 类 | 明细 | 分 | 证据项 | 已在应用里 | 处理（v2） | v1 初稿（作废，仅供对照） | 说明 |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Kalevala | Elias Lönnrot | 本国 | A1+4 D+1 B+2 EP+2 | 9 | 4 |  | 新增 | 新增 | 卡亚尼（伦洛特当医生、整理史诗的地方）；D 1017 · Goodreads 6,362 |
+| 1 | Kalevala | Elias Lönnrot | 本国 | A1+4 D+1 B+2 EP+2 | 9 | 4 | 是 | 保留 | 新增 | 卡亚尼（伦洛特当医生、整理史诗的地方）；D 1017 · Goodreads 6,362 |
 | 2 | Seven Brothers | Aleksis Kivi | 本国 | A1+4 B+2 EP+2 | 8 | 3 | 是 | 保留 | 保留 | 不在 D 前 2000 · Goodreads 4,414 |
 | 3 | Under the North Star | Väinö Linna | 本国 | A1+4 B+2 EP+2 | 8 | 3 |  | 新增 | 待定 | 虚构的彭廷库尔马以乌尔亚拉为原型；不在 D 前 2000 · Goodreads 2,726 |
 | 4 | The Unknown Soldier | Väinö Linna | 本国 | D+1 B+2 EP+2 | 5 | 3 |  | 新增 | 待定 | D 1233 · Goodreads 8,893 |
 | 5 | Meek Heritage | F. E. Sillanpää | 本国 | N+1 B+2 EP+2 | 5 | 3 |  | 新增 | 不收 | 即《虔诚的贫困》（Hurskas kurjuus）；累计印数榜第 16 名、高中共读第 5 名；不在 D 前 2000 · Goodreads 566 |
 | 6 | Tales from Moominvalley | Tove Jansson | 本国 | A1+4 E+1 | 5 | 2 |  | 新增 | 新增（待挂靠） | 不在 D 前 2000 · Goodreads 12,022 |
-| 7 | The Year of the Hare | Arto Paasilinna | 本国 | A1+4 E+1 | 5 | 2 |  | 新增 | 新增 | 海门林纳到拉普兰一路的真实地方；不在 D 前 2000 · Goodreads 19,845 |
+| 7 | The Year of the Hare | Arto Paasilinna | 本国 | A1+4 E+1 | 5 | 2 | 是 | 保留 | 新增 | 海门林纳到拉普兰一路的真实地方；不在 D 前 2000 · Goodreads 19,845 |
 | 8 | The Red Line (Punainen viiva) | Ilmari Kianto | 本国 | B+2 EP+2 | 4 | 2 |  | 新增 |  | 累计印数榜第 12 名、高中共读第 3 名；1907 年首次议会选举，地点待查；不在 D 前 2000 · Goodreads 1,330 |
 | 9 | The Summer Book | Tove Jansson | 本国 | D+1 E+1 | 2 | 2 |  | 新增 | 不收 | 扬松第二本；D 1228 · Goodreads 69,158 |
 | 10 | True (Totta) | Riikka Pulkkinen | 本国 | A1+4 | 4 | 1 |  | 新增 | 新增 | 赫尔辛基；不在 D 前 2000 · Goodreads 3,639 |
@@ -37,6 +37,9 @@
 | 20 | The Betrothal (Kihlaus) | Aleksis Kivi | 本国 | EP+2 | 2 | 1 |  | 不收 |  | 累计印数榜第 11 名；独幕剧；Goodreads 48 |
 | 21 | Borrowing Matches (Tulitikkuja lainaamassa) | Maiju Lassila | 本国 | EP+2 | 2 | 1 |  | 不收 |  | 累计印数榜第 13 名；不在 D 前 2000 · Goodreads 348 |
 | 22 | The Maid Silja (Nuorena nukkunut) | F. E. Sillanpää | 本国 | EP+2 | 2 | 1 |  | 不收 |  | 西兰帕第二本；累计印数榜第 14 名；不在 D 前 2000 · Goodreads 686 |
+| 23 | Finn Family Moomintroll | Tove Jansson | 作家故居 |  | 0 | 0 | 是 | 作家故居、纪念地标注的代表作，不按选书规则评 |  |  |
+| 24 | Whitsongs | Eino Leino | 作家故居 |  | 0 | 0 | 是 | 作家故居、纪念地标注的代表作，不按选书规则评 |  |  |
+| 25 | The Worker's Wife | Minna Canth | 作家故居 |  | 0 | 0 | 是 | 作家故居、纪念地标注的代表作，不按选书规则评 |  |  |
 
 ## 说明
 规则 v2（11-24 晚）：两项证据或进 A 名单前 10 就够格；已有的书不因分数删；同一作者够格的都收；不设名额。本表结果：新增 11，保留 1，保留（只有一类证据） 1，不收 9。 复核鲁内贝里时找到两份芬兰来源（赫尔辛基大学 2016 年硕士论文转引）：尼耶米按累计印数排的榜（算读者面 E 类，不算书单）和里卡马的高中共读书目调查（B）。《军旗手斯托尔的故事》是印数榜第 1 名，有一项证据，保留；《无名战士》有三项，新增；基安托《红线》、西兰帕《虔诚的贫困》各有两项，新增。只在印数榜上的阿霍《铁路》等四本不新增。

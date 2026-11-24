@@ -16,7 +16,7 @@
 
 | # | 书 | 作者 | 类 | 明细 | 分 | 证据项 | 已在应用里 | 处理（v2） | v1 初稿（作废，仅供对照） | 说明 |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Pippi Longstocking | Astrid Lindgren | 本国 | A1+3 BK+3 A2+3 D+2 E+2 | 13 | 4 |  | 新增 | 新增（待挂靠） | 维默比（林格伦家乡）；D 283 · Goodreads 213,378 |
+| 1 | Pippi Longstocking | Astrid Lindgren | 本国 | A1+3 BK+3 A2+3 D+2 E+2 | 13 | 4 | 是 | 保留 | 新增（待挂靠） | 维默比（林格伦家乡）；D 283 · Goodreads 213,378 |
 | 2 | The Emigrants | Vilhelm Moberg | 本国 | A1+3 A2+3 D+1 E+1 | 8 | 4 | 是 | 保留 | 保留 | D 1632 · Goodreads 10,856 |
 | 3 | Kallocain | Karin Boye | 本国 | A1+3 A2+3 D+1 E+1 | 8 | 4 |  | 不收 | 不收 | 反乌托邦，没有真实地点；D 1756 · Goodreads 19,525 |
 | 4 | The Wonderful Adventures of Nils | Selma Lagerlöf | 本国 | A1+3 N+1 D+1 E+1 | 6 | 4 | 是 | 保留 | 保留 | D 1213 · Goodreads 13,099 |
@@ -39,8 +39,11 @@
 | 21 | An Account of the Sámi | Johan Turi | 本国 | A2+3 | 3 | 1 |  | 不收 |  | Goodreads 84 |
 | 22 | Katitzi | Katarina Taikon | 本国 | A2+3 | 3 | 1 |  | 不收 |  | Goodreads 479 |
 | 23 | Let the Right One In | John Ajvide Lindqvist | 本国 | E+2 | 2 | 1 | 是 | 保留（只有一类证据） | 删除 | 不在 D 前 2000；Goodreads 125,216 |
-| 24 | Jerusalem | Selma Lagerlöf | 本国 |  | 0 | 0 | 是 | 删除（零项，复核后用户同意删） | 删除（零项，用户同意删） | 不在 D 前 2000；Goodreads 2,276 |
-| 25 | The Days of His Grace | Eyvind Johnson | 本国（写意大利） | A1+3 D+1 | 4 | 2 |  | 不算瑞典 | 不算瑞典 | D 1262 · Goodreads 203 |
+| 24 | Jerusalem | Selma Lagerlöf | 本国 |  | 0 | 0 |  | 不收 | 删除（零项，用户同意删） | 不在 D 前 2000；Goodreads 2,276 |
+| 25 | Miss Julie | August Strindberg | 作家故居 |  | 0 | 0 | 是 | 作家故居、纪念地标注的代表作，不按选书规则评 |  |  |
+| 26 | Emil of Lönneberga | Astrid Lindgren | 作家故居 |  | 0 | 0 | 是 | 作家故居、纪念地标注的代表作，不按选书规则评 |  |  |
+| 27 | Guitar and Concertina | Gustaf Fröding | 作家故居 |  | 0 | 0 | 是 | 作家故居、纪念地标注的代表作，不按选书规则评 |  |  |
+| 28 | The Days of His Grace | Eyvind Johnson | 本国（写意大利） | A1+3 D+1 | 4 | 2 |  | 不算瑞典 | 不算瑞典 | D 1262 · Goodreads 203 |
 
 ## 说明
 规则 v2（11-24 晚）：两项证据或进 A 名单前 10 就够格；已有的书不因分数删；同一作者够格的都收；不设名额。本表结果：新增 5，保留 8，保留（只有一类证据） 3，删除（零项） 1，不收 7，不算/没有真实地点 1。 这次补了瑞典文化正典（2025）作 A2：贝尔曼《弗雷德曼书简》、阿尔姆奎斯特《这行得通》各有一项，保留；《古斯泰·贝林》两项以上，保留。正典里只有这一项证据的书（《可憎的人》《结婚》《拉普兰之旅》《萨米人的故事》《卡蒂琪》）不新增。

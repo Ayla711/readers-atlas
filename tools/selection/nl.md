@@ -19,13 +19,13 @@
 | 2 | The Evenings (De avonden) | Gerard Reve | 本国 | A1+4 A2+4 D+1 E+1 | 10 | 4 |  | 新增 | 新增 | 阿姆斯特丹；D 845 · Goodreads 13,137 |
 | 3 | The Darkroom of Damocles | Willem Frederik Hermans | 本国 | A1+4 A2+4 D+1 E+1 | 10 | 4 |  | 新增 | 新增 | 福尔斯霍滕、莱顿；D 898 · Goodreads 15,405 |
 | 4 | Camera Obscura | Hildebrand | 本国 | A1+3 A2+4 D+1 | 8 | 3 | 是 | 保留 | 保留 | 不在 D 前 2000 · Goodreads 925；审核补：D 1490（榜上作者写本名 Nicolaas Beets） |
-| 5 | Gysbreght van Aemstel | Joost van den Vondel | 本国 | A1+3 A2+4 D+1 | 8 | 3 |  | 新增 | 新增 | 阿姆斯特丹；D 1614 · Goodreads 636 |
+| 5 | Gysbreght van Aemstel | Joost van den Vondel | 本国 | A1+3 A2+4 D+1 | 8 | 3 | 是 | 保留 | 新增 | 阿姆斯特丹；D 1614 · Goodreads 636 |
 | 6 | The Diary of a Young Girl | Anne Frank | 本国 | A1+3 D+2 E+3 | 8 | 3 | 是 | 保留 | 保留 | D 117 · Goodreads 4,362,949 |
 | 7 | The Discovery of Heaven | Harry Mulisch | 本国 | A1+4 D+1 E+1 | 6 | 3 |  | 新增 | 待定 | D 955 · Goodreads 18,670 |
 | 8 | The Assault | Harry Mulisch | 本国 | A1+4 E+1 | 5 | 2 | 是 | 保留 | 保留 | 不在 D 前 2000 · Goodreads 21,329 |
 | 9 | Turkish Delight | Jan Wolkers | 本国 | A1+3 E+1 | 4 | 2 |  | 新增 | 不收 | 不在 D 前 2000 · Goodreads 10,699 |
 | 10 | Out of Mind (Hersenschimmen) | J. Bernlef | 本国 | A1+3 E+1 | 4 | 2 |  | 新增 | 不收 | 不在 D 前 2000 · Goodreads 17,639 |
-| 11 | Eline Vere | Louis Couperus | 本国 | A1+3 D+1 | 4 | 2 |  | 新增 | 不收 | D 1503 · Goodreads 3,151 |
+| 11 | Eline Vere | Louis Couperus | 本国 | A1+3 D+1 | 4 | 2 | 是 | 保留 | 不收 | D 1503 · Goodreads 3,151 |
 | 12 | The Dinner | Herman Koch | 本国 | E+2 | 2 | 1 |  | 不收 | 不收 | 不在 D 前 2000 · Goodreads 181,291 |
 | 13 | The Hiding Place | Corrie ten Boom | 本国 | E+2 | 2 | 1 |  | 不收 | 不收 | 不在 D 前 2000 · Goodreads 371,523 |
 | 14 | The Goldfinch | Donna Tartt | 外国 | C+2 D+1 E+3 | 6 | 3 |  | 新增 | 待定（新增候选） | 阿姆斯特丹；D 728 · Goodreads 1,096,306 |
@@ -35,6 +35,8 @@
 | 18 | The Miniaturist | Jessie Burton | 外国 | E+2 | 2 | 1 | 是 | 保留（只有一类证据） | 待定 | 绅士运河；不在 D 前 2000；Goodreads 156,584 |
 | 19 | The Black Tulip | Alexandre Dumas | 外国 | E+1 | 1 | 1 | 是 | 保留（只有一类证据） | 待定 | 海牙监狱门；不在 D 前 2000；Goodreads 25,363 |
 | 20 | Hans Brinker | Mary Mapes Dodge | 外国 | E+1 | 1 | 1 | 是 | 保留（只有一类证据） | 待定 | 不在 D 前 2000；Goodreads 17,425 |
+| 21 | Ethics | Baruch Spinoza | 作家故居 |  | 0 | 0 | 是 | 作家故居、纪念地标注的代表作，不按选书规则评 |  |  |
+| 22 | The Praise of Folly | Desiderius Erasmus | 他国书目 |  | 0 | 0 | 是 | 属于 ch 的书，挂在这里，不在此评 |  |  |
 
 ## 说明
 规则 v2（11-24 晚）：两项证据或进 A 名单前 10 就够格；已有的书不因分数删；同一作者够格的都收；不设名额。本表结果：新增 8，保留 5，保留（只有一类证据） 4，不收 3。

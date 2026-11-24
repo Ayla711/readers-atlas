@@ -15,21 +15,21 @@
 | # | 书 | 作者 | 类 | 明细 | 分 | 证据项 | 已在应用里 | 处理（v2） | v1 初稿（作废，仅供对照） | 说明 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | Ion | Liviu Rebreanu | 本国 | B+2 E+1 | 3 | 2 | 是 | 保留 | 保留 | 不在 D 前 2000 · Goodreads 20,279 |
-| 2 | The Enigma of Otilia | George Călinescu | 本国 | B+2 E+1 | 3 | 2 |  | 新增 | 新增 | 布加勒斯特安蒂姆街；不在 D 前 2000 · Goodreads 21,757 |
-| 3 | The Hatchet (Baltagul) | Mihail Sadoveanu | 本国 | B+2 E+1 | 3 | 2 |  | 新增 | 新增 | 摩尔多瓦山区（塔尔考、多尔纳）；不在 D 前 2000 · Goodreads 16,032 |
-| 4 | Last Night of Love, First Night of War | Camil Petrescu | 本国 | B+2 E+1 | 3 | 2 |  | 新增 | 新增 | 布加勒斯特、普拉霍瓦前线；不在 D 前 2000 · Goodreads 18,084 |
-| 5 | The Moromete Family | Marin Preda | 本国 | B+2 E+1 | 3 | 2 |  | 新增 | 新增 | 西利什泰亚-古梅什蒂；不在 D 前 2000 · Goodreads 12,955 |
-| 6 | The Lucky Mill (Moara cu noroc) | Ioan Slavici | 本国 | B+2 E+1 | 3 | 2 |  | 新增 | 新增 | 伊内乌—阿拉德路上；不在 D 前 2000 · Goodreads 15,809 |
+| 2 | The Enigma of Otilia | George Călinescu | 本国 | B+2 E+1 | 3 | 2 | 是 | 保留 | 新增 | 布加勒斯特安蒂姆街；不在 D 前 2000 · Goodreads 21,757 |
+| 3 | The Hatchet (Baltagul) | Mihail Sadoveanu | 本国 | B+2 E+1 | 3 | 2 | 是 | 保留 | 新增 | 摩尔多瓦山区（塔尔考、多尔纳）；不在 D 前 2000 · Goodreads 16,032 |
+| 4 | Last Night of Love, First Night of War | Camil Petrescu | 本国 | B+2 E+1 | 3 | 2 | 是 | 保留 | 新增 | 布加勒斯特、普拉霍瓦前线；不在 D 前 2000 · Goodreads 18,084 |
+| 5 | The Moromete Family | Marin Preda | 本国 | B+2 E+1 | 3 | 2 | 是 | 保留 | 新增 | 西利什泰亚-古梅什蒂；不在 D 前 2000 · Goodreads 12,955 |
+| 6 | The Lucky Mill (Moara cu noroc) | Ioan Slavici | 本国 | B+2 E+1 | 3 | 2 | 是 | 保留 | 新增 | 伊内乌—阿拉德路上；不在 D 前 2000 · Goodreads 15,809 |
 | 7 | The Story of Harap-Alb | Ion Creangă | 本国 | B+2 | 2 | 1 |  | 不收 | 待定 | 不在 D 前 2000 · Goodreads 6,684 |
 | 8 | Alexandru Lăpușneanu | Costache Negruzzi | 本国 | B+2 | 2 | 1 |  | 不收 | 不收 | 不在 D 前 2000 · Goodreads 5,899 |
-| 9 | Luceafărul | Mihai Eminescu | 本国 | B+2 | 2 | 1 |  | 不收 | 不收 | 不在 D 前 2000 · Goodreads 2,080 |
+| 9 | Luceafărul | Mihai Eminescu | 本国 | B+2 | 2 | 1 | 是 | 保留（只有一类证据） | 不收 | 不在 D 前 2000 · Goodreads 2,080 |
 | 10 | Nostalgia | Mircea Cărtărescu | 本国 | D+1 | 1 | 1 |  | 不收 | 不收 | D 1582 · Goodreads 6,010 |
 | 11 | The Land of Green Plums | Herta Müller | 本国（德语） | N+1 | 1 | 1 | 是 | 保留（只有一类证据） | 待定 | 不在 D 前 2000；Goodreads 6,662 |
-| 12 | Memories of My Boyhood | Ion Creangă | 本国 |  | 0 | 0 | 是 | 删除（零项，复核后用户同意删） | 删除（零项，用户同意删） | 不在 D 前 2000；Goodreads 7,169；复核：2025 年 9 年级课程大纲只点作者克良格，不点书名 |
-| 13 | Solenoid | Mircea Cărtărescu | 本国 |  | 0 | 0 | 是 | 删除（零项，复核后用户同意删） | 删除（零项，用户同意删） | 不在 D 前 2000；Goodreads 8,053 |
+| 12 | Memories of My Boyhood | Ion Creangă | 本国 |  | 0 | 0 |  | 不收 | 删除（零项，用户同意删） | 不在 D 前 2000；Goodreads 7,169；复核：2025 年 9 年级课程大纲只点作者克良格，不点书名 |
+| 13 | Solenoid | Mircea Cărtărescu | 本国 |  | 0 | 0 |  | 不收 | 删除（零项，用户同意删） | 不在 D 前 2000；Goodreads 8,053 |
 | 14 | Dracula | Bram Stoker | 外国 | D+2 E+3 | 5 | 2 | 是 | 保留 | 保留 | 比斯特里察；D 56；Goodreads 1,580,100 |
-| 15 | Tristia | Ovid | 外国 |  | 0 | 0 | 是 | 删除（零项，复核后用户同意删） | 删除（零项，用户同意删） | 康斯坦察；不在 D 前 2000；Goodreads 716 |
-| 16 | The Carpathian Castle | Jules Verne | 外国 |  | 0 | 0 | 是 | 删除（零项，复核后用户同意删） | 删除（零项，用户同意删） | 不在 D 前 2000；Goodreads 6,493 |
+| 15 | Tristia | Ovid | 外国 |  | 0 | 0 |  | 不收 | 删除（零项，用户同意删） | 康斯坦察；不在 D 前 2000；Goodreads 716 |
+| 16 | The Carpathian Castle | Jules Verne | 外国 |  | 0 | 0 |  | 不收 | 删除（零项，用户同意删） | 不在 D 前 2000；Goodreads 6,493 |
 | 17 | Maitreyi | Mircea Eliade | 本国（写印度） | B+2 E+1 | 3 | 2 |  | 不算罗马尼亚 | 不算罗马尼亚 | 不在 D 前 2000 · Goodreads 26,435 |
 
 ## 说明

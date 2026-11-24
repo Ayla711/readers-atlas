@@ -43,8 +43,8 @@
     "B",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "enigma-otiliei",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "布加勒斯特安蒂姆街；不在 D 前 2000 · Goodreads 21,757"
   },
@@ -61,8 +61,8 @@
     "B",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "baltagul",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "摩尔多瓦山区（塔尔考、多尔纳）；不在 D 前 2000 · Goodreads 16,032"
   },
@@ -79,8 +79,8 @@
     "B",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "ultima-noapte",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "布加勒斯特、普拉霍瓦前线；不在 D 前 2000 · Goodreads 18,084"
   },
@@ -97,8 +97,8 @@
     "B",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "morometii",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "西利什泰亚-古梅什蒂；不在 D 前 2000 · Goodreads 12,955"
   },
@@ -115,8 +115,8 @@
     "B",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "moara-cu-noroc",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "伊内乌—阿拉德路上；不在 D 前 2000 · Goodreads 15,809"
   },
@@ -143,8 +143,8 @@
    "points": {},
    "score": 0,
    "cats": [],
-   "in_app": "amintiri-din-copilarie",
-   "decision": "删除（零项，复核后用户同意删）",
+   "in_app": null,
+   "decision": "不收",
    "first_draft": "删除（零项，用户同意删）",
    "note": "不在 D 前 2000；Goodreads 7,169；复核：2025 年 9 年级课程大纲只点作者克良格，不点书名"
   },
@@ -175,8 +175,8 @@
    "cats": [
     "B"
    ],
-   "in_app": null,
-   "decision": "不收",
+   "in_app": "luceafarul",
+   "decision": "保留（只有一类证据）",
    "first_draft": "不收",
    "note": "不在 D 前 2000 · Goodreads 2,080"
   },
@@ -221,8 +221,8 @@
    "points": {},
    "score": 0,
    "cats": [],
-   "in_app": "solenoid",
-   "decision": "删除（零项，复核后用户同意删）",
+   "in_app": null,
+   "decision": "不收",
    "first_draft": "删除（零项，用户同意删）",
    "note": "不在 D 前 2000；Goodreads 8,053"
   },
@@ -267,8 +267,8 @@
    "points": {},
    "score": 0,
    "cats": [],
-   "in_app": "tristia",
-   "decision": "删除（零项，复核后用户同意删）",
+   "in_app": null,
+   "decision": "不收",
    "first_draft": "删除（零项，用户同意删）",
    "note": "康斯坦察；不在 D 前 2000；Goodreads 716"
   },
@@ -279,8 +279,8 @@
    "points": {},
    "score": 0,
    "cats": [],
-   "in_app": "carpathian-castle",
-   "decision": "删除（零项，复核后用户同意删）",
+   "in_app": null,
+   "decision": "不收",
    "first_draft": "删除（零项，用户同意删）",
    "note": "不在 D 前 2000；Goodreads 6,493"
   }

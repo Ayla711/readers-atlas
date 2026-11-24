@@ -32,7 +32,7 @@
 | 14 | Welcome to Our Hillbrow | Phaswane Mpe | 本国 | A2+3 | 3 | 1 |  | 不收 | 不收 | 不在 D 前 2000 · Goodreads 1,092 |
 | 15 | The Long Journey of Poppie Nongena | Elsa Joubert | 本国 | A1+3 | 3 | 1 |  | 不收 | 不收 | 不在 D 前 2000 · Goodreads 278 |
 | 16 | Born a Crime | Trevor Noah | 本国 | E+2 | 2 | 1 |  | 不收 | 不收 | 不在 D 前 2000 · Goodreads 860,219 |
-| 17 | Mhudi | Sol Plaatje | 本国 |  | 0 | 0 | 是 | 删除（零项，复核后用户同意删） | 删除（零项，用户同意删） | 不在 D 前 2000；Goodreads 426；复核：不在非洲百部，也不在南非 31 本书单 |
+| 17 | Mhudi | Sol Plaatje | 本国 |  | 0 | 0 |  | 不收 | 删除（零项，用户同意删） | 不在 D 前 2000；Goodreads 426；复核：不在非洲百部，也不在南非 31 本书单 |
 | 18 | The Story of My Experiments with Truth | M. K. Gandhi | 外国 | D+1 E+1 | 2 | 2 | 是 | 保留 | 保留 | 彼得马里茨堡车站；D 1541；Goodreads 77,063 |
 | 19 | King Solomon's Mines | H. Rider Haggard | 外国 | D+1 E+1 | 2 | 2 | 是 | 保留 | 待定 | D 672；Goodreads 54,093 |
 | 20 | The Power of One | Bryce Courtenay | 外国 | E+1 | 1 | 1 |  | 不收 | 待定 | 澳大利亚作家；9.7 万人；不在 D 前 2000 · Goodreads 97,074 |

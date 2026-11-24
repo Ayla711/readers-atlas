@@ -53,8 +53,8 @@
     "E",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "a-dolls-house",
+   "decision": "保留",
    "first_draft": "新增（待挂靠）",
    "note": "D 412 · Goodreads 171,951"
   },
@@ -171,8 +171,8 @@
     "A1",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "the-ice-palace",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "泰勒马克；不在 D 前 2000 · Goodreads 16,593"
   },
@@ -249,8 +249,8 @@
     "E",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "growth-of-the-soil",
+   "decision": "保留",
    "first_draft": "不收",
    "note": "汉姆生第三本；D 572 · Goodreads 15,075"
   },
@@ -297,8 +297,8 @@
    "points": {},
    "score": 0,
    "cats": [],
-   "in_app": "terje-vigen",
-   "decision": "删除（零项，复核后用户同意删）",
+   "in_app": null,
+   "decision": "不收",
    "first_draft": "删除（零项，用户同意删）",
    "note": "不在 D 前 2000；Goodreads 336"
   },
@@ -309,8 +309,8 @@
    "points": {},
    "score": 0,
    "cats": [],
-   "in_app": "garman-and-worse",
-   "decision": "删除（零项，复核后用户同意删）",
+   "in_app": null,
+   "decision": "不收",
    "first_draft": "删除（零项，用户同意删）",
    "note": "不在 D 前 2000；Goodreads 481"
   },
@@ -337,8 +337,8 @@
    "points": {},
    "score": 0,
    "cats": [],
-   "in_app": "lottery-ticket",
-   "decision": "删除（零项，复核后用户同意删）",
+   "in_app": null,
+   "decision": "不收",
    "first_draft": "删除（零项，用户同意删）",
    "note": "不在 D 前 2000；Goodreads 2,351"
   },
@@ -349,8 +349,8 @@
    "points": {},
    "score": 0,
    "cats": [],
-   "in_app": "babettes-feast",
-   "decision": "删除（零项，复核后用户同意删）",
+   "in_app": null,
+   "decision": "不收",
    "first_draft": "删除（零项，用户同意删）",
    "note": "不在 D 前 2000；Goodreads 8,377；所在集子《命运轶事》Goodreads 2,289，仍是零项"
   },
@@ -361,8 +361,8 @@
    "points": {},
    "score": 0,
    "cats": [],
-   "in_app": "wollstonecraft-letters",
-   "decision": "删除（零项，复核后用户同意删）",
+   "in_app": null,
+   "decision": "不收",
    "first_draft": "删除（零项，用户同意删）",
    "note": "丹麦那边也挂着；不在 D 前 2000；Goodreads 1,111"
   },
@@ -411,8 +411,8 @@
    "cats": [
     "A2"
    ],
-   "in_app": null,
-   "decision": "不收",
+   "in_app": "amtmandens-dottre",
+   "decision": "保留（只有一类证据）",
    "first_draft": "",
    "note": "Goodreads 836"
   },
@@ -443,8 +443,8 @@
    "cats": [
     "A2"
    ],
-   "in_app": null,
-   "decision": "不收",
+   "in_app": "nordlands-trompet",
+   "decision": "保留（只有一类证据）",
    "first_draft": "",
    "note": "Goodreads 28"
   },
@@ -479,6 +479,54 @@
    "decision": "不算挪威",
    "first_draft": "不算挪威",
    "note": "故事发生在丹麦乡村；不在 D 前 2000 · Goodreads 1,227"
+  },
+  {
+   "title": "Hedda Gabler",
+   "author": "Henrik Ibsen",
+   "kind": "作家故居",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "hedda-gabler",
+   "decision": "作家故居、纪念地标注的代表作，不按选书规则评",
+   "first_draft": "",
+   "note": ""
+  },
+  {
+   "title": "Synnøve Solbakken",
+   "author": "Bjørnstjerne Bjørnson",
+   "kind": "作家故居",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "synnove-solbakken",
+   "decision": "作家故居、纪念地标注的代表作，不按选书规则评",
+   "first_draft": "",
+   "note": ""
+  },
+  {
+   "title": "The Kon-Tiki Expedition",
+   "author": "Thor Heyerdahl",
+   "kind": "作家故居",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "kon-tiki",
+   "decision": "作家故居、纪念地标注的代表作，不按选书规则评",
+   "first_draft": "",
+   "note": ""
+  },
+  {
+   "title": "Jeppe on the Hill",
+   "author": "Ludvig Holberg",
+   "kind": "他国书目",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "jeppe-on-the-hill",
+   "decision": "属于 dk 的书，挂在这里，不在此评",
+   "first_draft": "",
+   "note": ""
   }
  ]
 }

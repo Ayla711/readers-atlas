@@ -25,8 +25,8 @@
     "A1",
     "B"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "grain-of-wheat",
+   "decision": "保留",
    "first_draft": "新增（替换 Weep Not, Child）",
    "note": "不在 D 前 2000 · Goodreads 7,367"
   },
@@ -43,8 +43,8 @@
     "B",
     "C"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "river-and-the-source",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "乔莫·肯雅塔奖、英联邦作家奖非洲区最佳处女作 1995；尼扬扎、内罗毕；不在 D 前 2000 · Goodreads 968"
   },
@@ -61,8 +61,8 @@
     "B",
     "C"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "coming-to-birth",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "辛克莱奖 1986；基苏木、内罗毕；不在 D 前 2000 · Goodreads 295"
   },
@@ -169,8 +169,8 @@
    "points": {},
    "score": 0,
    "cats": [],
-   "in_app": "weep-not-child",
-   "decision": "删除（零项，复核后用户同意删）",
+   "in_app": null,
+   "decision": "不收",
    "first_draft": "删除（零项，用户同意删）",
    "note": "不在 D 前 2000；Goodreads 4,623"
   },
@@ -249,8 +249,8 @@
    "points": {},
    "score": 0,
    "cats": [],
-   "in_app": "flame-trees-of-thika",
-   "decision": "删除（零项，复核后用户同意删）",
+   "in_app": null,
+   "decision": "不收",
    "first_draft": "删除（零项，用户同意删）",
    "note": "不在 D 前 2000；Goodreads 6,190"
   },
@@ -261,8 +261,8 @@
    "points": {},
    "score": 0,
    "cats": [],
-   "in_app": "man-eaters-of-tsavo",
-   "decision": "删除（零项，复核后用户同意删）",
+   "in_app": null,
+   "decision": "不收",
    "first_draft": "删除（零项，用户同意删）",
    "note": "不在 D 前 2000；Goodreads 4,683"
   },

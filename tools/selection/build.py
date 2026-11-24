@@ -7,7 +7,8 @@ python3 -I build.py spec_au.py). Rule v2 (11-24, see docs/selection-rubric.md):
   left after the re-check; the spec marks them 用户同意删); never deleted on score alone
 - same author: every qualifying book is taken
 - rows marked by hand as not about this country / no real place are left as written
-existing.json (made from data/) tells which books are already in the app; books in the app with no row are listed as unscored."""
+existing.json (tools/selection/make_existing.py, from data/) tells which books are already in the app; books in the app with no row are
+listed as unscored, except books another country holds and books shown only at a writer's house or memorial (see rubric section 11)."""
 import json, sys, re, os
 CATS = {"A": "A", "B": "B", "C": "C", "N": "C", "BK": "I", "D": "I", "E": "E", "EP": "E"}
 def cat(k): return k if k.startswith("A") else CATS.get(k, k)
@@ -42,9 +43,11 @@ def build(spec):
     for b in ex:
         if b["id"] not in used:
             other = b.get("home") != cc
-            rows.append(dict(title=b.get("title"), author=b.get("author"), kind="他国书目" if other else "本国",
+            house = "line" not in b.get("via", ["line"])   # shown here only at a writer's house or memorial
+            rows.append(dict(title=b.get("title"), author=b.get("author"), kind="他国书目" if other else ("作家故居" if house else "本国"),
                              points={}, score=0, cats=[], in_app=b["id"],
-                             decision="属于 %s 的书，挂在这里，不在此评" % b.get("home") if other else "未评（要补评）",
+                             decision=("属于 %s 的书，挂在这里，不在此评" % b.get("home")) if other else
+                                      ("作家故居、纪念地标注的代表作，不按选书规则评" if house else "未评（要补评）"),
                              first_draft="", note=""))
     out = dict(cc=cc, name=spec["name"], date=spec["date"], rule="v2", sources=spec["sources"], size_note=spec["size_note"], rows=rows)
     json.dump(out, open(cc + ".json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)

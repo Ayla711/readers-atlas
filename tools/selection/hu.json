@@ -103,8 +103,8 @@
     "A1",
     "B"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "az-arany-ember",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "科马罗姆、多瑙河；不在 D 前 2000 · Goodreads 2,581"
   },
@@ -233,8 +233,8 @@
     "C",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "satantango",
+   "decision": "保留",
    "first_draft": "不收",
    "note": "不在 D 前 2000 · Goodreads 20,066"
   },
@@ -285,6 +285,18 @@
    "decision": "保留（只有一类证据）",
    "first_draft": "删除（见名额说明）",
    "note": "2020 年高中课程框架（9–12 年级）约瑟夫·阿蒂拉一节点名《在多瑙河边》（ELTE 网站上的框架文本）；不在 D 前 2000；Goodreads 25"
+  },
+  {
+   "title": "National Song",
+   "author": "Sándor Petőfi",
+   "kind": "作家故居",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "nemzeti-dal",
+   "decision": "作家故居、纪念地标注的代表作，不按选书规则评",
+   "first_draft": "",
+   "note": ""
   }
  ]
 }
