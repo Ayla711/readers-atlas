@@ -1107,10 +1107,8 @@
               "RUS-2393": "RU-SAR",
               "RUS-2388": "RU-AST",
               "RUS-2369": "RU-VGG",
-              "RUS-283": "RU-CR",
               "RUS-2615": "RU-MAG",
               "RUS-2616": "RU-SAK",
-              "RUS-5482": "RU-SEV",
               "RUS-2321": "RU-CHU",
               "RUS-2382": "RU-YAN",
               "RUS-2381": "RU-NEN",
@@ -1216,10 +1214,6 @@
           "RU-CU": [
             "Chuvashia",
             "楚瓦什共和国"
-          ],
-          "RU-CR": [
-            "Crimea",
-            "克里米亚"
           ],
           "RU-DA": [
             "Dagestan",
@@ -1421,10 +1415,6 @@
             "Saratov Oblast",
             "萨拉托夫州"
           ],
-          "RU-SEV": [
-            "Sevastopol",
-            "塞瓦斯托波尔"
-          ],
           "RU-SMO": [
             "Smolensk Oblast",
             "斯摩棱斯克州"
@@ -1513,12 +1503,15 @@
       "small_regions": [
         "RU-MOS",
         "RU-SPE",
-        "RU-SEV",
         "RU-IN",
         "RU-AD"
       ],
       "wash": {},
-      "drop_rings_lon_lt": 0
+      "drop_rings_lon_lt": 0,
+      "pov_drop": [
+        "UA-43",
+        "UA-40"
+      ]
     },
     {
       "code": "jp",
@@ -5536,6 +5529,188 @@
       ],
       "open": true,
       "small_regions": [],
+      "wash": {}
+    },
+    {
+      "code": "ua",
+      "iso": "UKR",
+      "name": "Ukraine",
+      "name_zh": "乌克兰",
+      "short": "Ukraine",
+      "short_zh": "乌克兰",
+      "region_term": {
+        "en": "region",
+        "zh": "州"
+      },
+      "bounds": [
+        22.0,
+        44.3,
+        40.3,
+        52.4
+      ],
+      "step": 0.008,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "UA-30": "UA-30",
+              "UA-32": "UA-32",
+              "UA-05": "UA-05",
+              "UA-07": "UA-07",
+              "UA-09": "UA-09",
+              "UA-12": "UA-12",
+              "UA-14": "UA-14",
+              "UA-18": "UA-18",
+              "UA-21": "UA-21",
+              "UA-23": "UA-23",
+              "UA-26": "UA-26",
+              "UA-35": "UA-35",
+              "UA-46": "UA-46",
+              "UA-48": "UA-48",
+              "UA-51": "UA-51",
+              "UA-53": "UA-53",
+              "UA-56": "UA-56",
+              "UA-59": "UA-59",
+              "UA-61": "UA-61",
+              "UA-63": "UA-63",
+              "UA-65": "UA-65",
+              "UA-68": "UA-68",
+              "UA-71": "UA-71",
+              "UA-74": "UA-74",
+              "UA-77": "UA-77",
+              "UA-43": "UA-43",
+              "UA-40": "UA-40"
+            }
+          }
+        ],
+        "names": {
+          "UA-30": [
+            "Kyiv",
+            "基辅市"
+          ],
+          "UA-32": [
+            "Kyiv Oblast",
+            "基辅州"
+          ],
+          "UA-05": [
+            "Vinnytsia",
+            "文尼察州"
+          ],
+          "UA-07": [
+            "Volyn",
+            "沃伦州"
+          ],
+          "UA-09": [
+            "Luhansk",
+            "卢甘斯克州"
+          ],
+          "UA-12": [
+            "Dnipropetrovsk",
+            "第聂伯罗彼得罗夫斯克州"
+          ],
+          "UA-14": [
+            "Donetsk",
+            "顿涅茨克州"
+          ],
+          "UA-18": [
+            "Zhytomyr",
+            "日托米尔州"
+          ],
+          "UA-21": [
+            "Zakarpattia",
+            "外喀尔巴阡州"
+          ],
+          "UA-23": [
+            "Zaporizhzhia",
+            "扎波罗热州"
+          ],
+          "UA-26": [
+            "Ivano-Frankivsk",
+            "伊万诺-弗兰科夫斯克州"
+          ],
+          "UA-35": [
+            "Kirovohrad",
+            "基洛沃格勒州"
+          ],
+          "UA-46": [
+            "Lviv",
+            "利沃夫州"
+          ],
+          "UA-48": [
+            "Mykolaiv",
+            "尼古拉耶夫州"
+          ],
+          "UA-51": [
+            "Odesa",
+            "敖德萨州"
+          ],
+          "UA-53": [
+            "Poltava",
+            "波尔塔瓦州"
+          ],
+          "UA-56": [
+            "Rivne",
+            "罗夫诺州"
+          ],
+          "UA-59": [
+            "Sumy",
+            "苏梅州"
+          ],
+          "UA-61": [
+            "Ternopil",
+            "捷尔诺波尔州"
+          ],
+          "UA-63": [
+            "Kharkiv",
+            "哈尔科夫州"
+          ],
+          "UA-65": [
+            "Kherson",
+            "赫尔松州"
+          ],
+          "UA-68": [
+            "Khmelnytskyi",
+            "赫梅利尼茨基州"
+          ],
+          "UA-71": [
+            "Cherkasy",
+            "切尔卡瑟州"
+          ],
+          "UA-74": [
+            "Chernihiv",
+            "切尔尼戈夫州"
+          ],
+          "UA-77": [
+            "Chernivtsi",
+            "切尔诺夫策州"
+          ],
+          "UA-43": [
+            "Crimea",
+            "克里米亚自治共和国"
+          ],
+          "UA-40": [
+            "Sevastopol",
+            "塞瓦斯托波尔市"
+          ]
+        }
+      },
+      "pov_units": [
+        "UA-43",
+        "UA-40"
+      ],
+      "data": [
+        "data/ua/geo.js",
+        "data/ua/books.js",
+        "data/ua/places.js",
+        "data/ua/lines.js"
+      ],
+      "open": true,
+      "small_regions": [
+        "UA-30",
+        "UA-40"
+      ],
       "wash": {}
     }
   ]

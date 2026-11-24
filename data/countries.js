@@ -285,7 +285,6 @@ window.RA_COUNTRIES = [
   "small_regions": [
    "RU-MOS",
    "RU-SPE",
-   "RU-SEV",
    "RU-IN",
    "RU-AD"
   ],
@@ -1126,7 +1125,37 @@ window.RA_COUNTRIES = [
    "data/tr/lines.js"
   ],
   "open": true
+ },
+ {
+  "code": "ua",
+  "iso": "UKR",
+  "name": "Ukraine",
+  "name_zh": "乌克兰",
+  "short": "Ukraine",
+  "short_zh": "乌克兰",
+  "region_term": {
+   "en": "region",
+   "zh": "州"
+  },
+  "bounds": [
+   22.0,
+   44.3,
+   40.3,
+   52.4
+  ],
+  "small_regions": [
+   "UA-30",
+   "UA-40"
+  ],
+  "wash": {},
+  "data": [
+   "data/ua/geo.js",
+   "data/ua/books.js",
+   "data/ua/places.js",
+   "data/ua/lines.js"
+  ],
+  "open": true
  }
 ];
 // Totals over every open country, for the world page.
-window.RA_WORLD_STATS = {"countries": 38, "books": 1559, "lines": 1501, "places": 1765};
+window.RA_WORLD_STATS = {"countries": 39, "books": 1568, "lines": 1509, "places": 1774};

@@ -213,7 +213,12 @@ def build_country(cfg):
     cent = defaultdict(lambda: [0.0, 0.0])
     for f in a1["features"]:
         p = f["properties"]
-        if p.get("adm0_a3") != cfg["iso"]:
+        # China's point of view (decision A-22): "pov_units" takes in admin-1 units Natural Earth draws in another
+        # country (Crimea and Sevastopol, UA-43 and UA-40, for Ukraine); "pov_drop" leaves them out of that country
+        iso2 = p.get("iso_3166_2")
+        if p.get("adm0_a3") != cfg["iso"] and iso2 not in cfg.get("pov_units", []):
+            continue
+        if iso2 in cfg.get("pov_drop", []):
             continue
         if p.get("ra_land_border") or p.get("ra_border_area"):   # go to data/world-geo.js (build_world)
             continue
