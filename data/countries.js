@@ -1099,7 +1099,34 @@ window.RA_COUNTRIES = [
    "data/fi/lines.js"
   ],
   "open": true
+ },
+ {
+  "code": "tr",
+  "iso": "TUR",
+  "name": "Turkey",
+  "name_zh": "土耳其",
+  "short": "Turkey",
+  "short_zh": "土耳其",
+  "region_term": {
+   "en": "region",
+   "zh": "地区"
+  },
+  "bounds": [
+   25.6,
+   35.8,
+   44.9,
+   42.2
+  ],
+  "small_regions": [],
+  "wash": {},
+  "data": [
+   "data/tr/geo.js",
+   "data/tr/books.js",
+   "data/tr/places.js",
+   "data/tr/lines.js"
+  ],
+  "open": true
  }
 ];
 // Totals over every open country, for the world page.
-window.RA_WORLD_STATS = {"countries": 37, "books": 1551, "lines": 1494, "places": 1757};
+window.RA_WORLD_STATS = {"countries": 38, "books": 1559, "lines": 1501, "places": 1765};

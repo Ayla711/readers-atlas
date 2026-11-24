@@ -5368,6 +5368,175 @@
       "open": true,
       "small_regions": [],
       "wash": {}
+    },
+    {
+      "code": "tr",
+      "iso": "TUR",
+      "name": "Turkey",
+      "name_zh": "土耳其",
+      "short": "Turkey",
+      "short_zh": "土耳其",
+      "region_term": {
+        "en": "region",
+        "zh": "地区"
+      },
+      "bounds": [
+        25.6,
+        35.8,
+        44.9,
+        42.2
+      ],
+      "step": 0.01,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "TR-34": "TR-TR1",
+              "TR-59": "TR-TR2",
+              "TR-22": "TR-TR2",
+              "TR-39": "TR-TR2",
+              "TR-10": "TR-TR2",
+              "TR-17": "TR-TR2",
+              "TR-35": "TR-TR3",
+              "TR-09": "TR-TR3",
+              "TR-20": "TR-TR3",
+              "TR-48": "TR-TR3",
+              "TR-45": "TR-TR3",
+              "TR-03": "TR-TR3",
+              "TR-43": "TR-TR3",
+              "TR-64": "TR-TR3",
+              "TR-16": "TR-TR4",
+              "TR-26": "TR-TR4",
+              "TR-11": "TR-TR4",
+              "TR-41": "TR-TR4",
+              "TR-54": "TR-TR4",
+              "TR-81": "TR-TR4",
+              "TR-14": "TR-TR4",
+              "TR-77": "TR-TR4",
+              "TR-06": "TR-TR5",
+              "TR-42": "TR-TR5",
+              "TR-70": "TR-TR5",
+              "TR-07": "TR-TR6",
+              "TR-32": "TR-TR6",
+              "TR-15": "TR-TR6",
+              "TR-01": "TR-TR6",
+              "TR-33": "TR-TR6",
+              "TR-31": "TR-TR6",
+              "TR-46": "TR-TR6",
+              "TR-80": "TR-TR6",
+              "TR-71": "TR-TR7",
+              "TR-68": "TR-TR7",
+              "TR-51": "TR-TR7",
+              "TR-50": "TR-TR7",
+              "TR-40": "TR-TR7",
+              "TR-38": "TR-TR7",
+              "TR-58": "TR-TR7",
+              "TR-66": "TR-TR7",
+              "TR-67": "TR-TR8",
+              "TR-78": "TR-TR8",
+              "TR-74": "TR-TR8",
+              "TR-37": "TR-TR8",
+              "TR-18": "TR-TR8",
+              "TR-57": "TR-TR8",
+              "TR-55": "TR-TR8",
+              "TR-60": "TR-TR8",
+              "TR-19": "TR-TR8",
+              "TR-05": "TR-TR8",
+              "TR-61": "TR-TR9",
+              "TR-52": "TR-TR9",
+              "TR-28": "TR-TR9",
+              "TR-53": "TR-TR9",
+              "TR-08": "TR-TR9",
+              "TR-29": "TR-TR9",
+              "TR-25": "TR-TRA",
+              "TR-24": "TR-TRA",
+              "TR-69": "TR-TRA",
+              "TR-04": "TR-TRA",
+              "TR-36": "TR-TRA",
+              "TR-76": "TR-TRA",
+              "TR-75": "TR-TRA",
+              "TR-44": "TR-TRB",
+              "TR-23": "TR-TRB",
+              "TR-12": "TR-TRB",
+              "TR-62": "TR-TRB",
+              "TR-65": "TR-TRB",
+              "TR-49": "TR-TRB",
+              "TR-13": "TR-TRB",
+              "TR-30": "TR-TRB",
+              "TR-27": "TR-TRC",
+              "TR-02": "TR-TRC",
+              "TR-79": "TR-TRC",
+              "TR-63": "TR-TRC",
+              "TR-21": "TR-TRC",
+              "TR-47": "TR-TRC",
+              "TR-72": "TR-TRC",
+              "TR-73": "TR-TRC",
+              "TR-56": "TR-TRC"
+            }
+          }
+        ],
+        "names": {
+          "TR-TR1": [
+            "Istanbul",
+            "伊斯坦布尔"
+          ],
+          "TR-TR2": [
+            "West Marmara",
+            "西马尔马拉"
+          ],
+          "TR-TR3": [
+            "Aegean",
+            "爱琴海地区"
+          ],
+          "TR-TR4": [
+            "East Marmara",
+            "东马尔马拉"
+          ],
+          "TR-TR5": [
+            "West Anatolia",
+            "西安纳托利亚"
+          ],
+          "TR-TR6": [
+            "Mediterranean",
+            "地中海地区"
+          ],
+          "TR-TR7": [
+            "Central Anatolia",
+            "中安纳托利亚"
+          ],
+          "TR-TR8": [
+            "West Black Sea",
+            "西黑海"
+          ],
+          "TR-TR9": [
+            "East Black Sea",
+            "东黑海"
+          ],
+          "TR-TRA": [
+            "Northeast Anatolia",
+            "东北安纳托利亚"
+          ],
+          "TR-TRB": [
+            "Central East Anatolia",
+            "中东安纳托利亚"
+          ],
+          "TR-TRC": [
+            "Southeast Anatolia",
+            "东南安纳托利亚"
+          ]
+        }
+      },
+      "data": [
+        "data/tr/geo.js",
+        "data/tr/books.js",
+        "data/tr/places.js",
+        "data/tr/lines.js"
+      ],
+      "open": true,
+      "small_regions": [],
+      "wash": {}
     }
   ]
 }

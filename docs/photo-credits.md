@@ -1575,3 +1575,11 @@
 | Kittilä, Lapland | Niera | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AKittil%C3%A4_Church_2021-07-02.jpg) |
 | Paltaniemi, Kajaani | SeppVei | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3AH%C3%B6vel%C3%B6.JPG) |
 | Kuopio (Minna Canth's Kanttila) | Htm | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AMinna_Canth_Park_2.JPG) |
+| Troy (Hisarlık), Çanakkale | Jorge Láscar | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ALegendary_walls_of_Troy_%288708672267%29.jpg) |
+| Abydos, on the Dardanelles (Hellespont) | Julian Lupyan | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File%3AContainer_Ship_South_of_1915_%C3%87anakkale_Bridge%2C_Dardanelles_Strait%2C_2024.jpg) |
+| Trabzon (Trapezus) | Dosseman | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ATrabzon_view_4858_panorama.jpg) |
+| The Museum of Innocence, Çukurcuma, Istanbul | Yourusernamewillbepublic2 | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File%3AMuseum_of_Innocence.jpg) |
+| Kars | Francesco Bini | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AKars%2C_castello%2C_veduta_01.jpg) |
+| Gökçedam, Osmaniye (Yaşar Kemal's birthplace) | Zeynel Cebeci | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ACeyhan_River_in_G%C3%B6k%C3%A7edam%2C_Osmaniye_23.JPG) |
+| Sirkeci station, Istanbul | Martin Dürrschnabel; derivative work: Dha | [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5) | [Commons](https://commons.wikimedia.org/wiki/File%3ABahnhofsfront-Istanbul-Sirkeci_retouched.jpg) |
+| Mevlâna Museum, Konya | Dosseman | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AKonya_Mevlana_Museum_from_park_2573.jpg) |
