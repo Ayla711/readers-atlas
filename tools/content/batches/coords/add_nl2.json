@@ -1,0 +1,20 @@
+{
+ "nl-amsterdam": {
+  "lat": 52.37277778,
+  "lon": 4.89361111,
+  "st": "en.wikipedia \"Amsterdam\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Amsterdam"
+ },
+ "nl-voorschoten": {
+  "lat": 52.13333333,
+  "lon": 4.45,
+  "st": "en.wikipedia \"Voorschoten\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Voorschoten"
+ },
+ "nl-westerbork-telescope": {
+  "lat": 52.91474,
+  "lon": 6.60334,
+  "st": "en.wikipedia \"Westerbork Synthesis Radio Telescope\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Westerbork_Synthesis_Radio_Telescope"
+ }
+}

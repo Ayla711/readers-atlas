@@ -1,0 +1,38 @@
+{
+ "be-waasland": {
+  "lat": 51.25027778,
+  "lon": 4.20222222,
+  "st": "nl.wikipedia \"Waasland\" coordinates",
+  "su": "https://nl.wikipedia.org/wiki/Waasland"
+ },
+ "be-antwerp": {
+  "lat": 51.21777778,
+  "lon": 4.40027778,
+  "st": "en.wikipedia \"Antwerp\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Antwerp"
+ },
+ "be-antwerpen-centraal": {
+  "lat": 51.21722222,
+  "lon": 4.42111111,
+  "st": "en.wikipedia \"Antwerpen-Centraal railway station\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Antwerpen-Centraal_railway_station"
+ },
+ "be-ter-muren": {
+  "lat": 50.91944444,
+  "lon": 4.05083333,
+  "st": "nl.wikipedia \"Erembodegem\" coordinates",
+  "su": "https://nl.wikipedia.org/wiki/Erembodegem"
+ },
+ "be-weert": {
+  "lat": 51.10194444,
+  "lon": 4.19305556,
+  "st": "nl.wikipedia \"Weert (België)\" coordinates",
+  "su": "https://nl.wikipedia.org/wiki/Weert_%28Belgi%C3%AB%29"
+ },
+ "be-vaalserberg": {
+  "lat": 50.75472222,
+  "lon": 6.02083333,
+  "st": "en.wikipedia \"Vaalserberg\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Vaalserberg"
+ }
+}
