@@ -1072,7 +1072,34 @@ window.RA_COUNTRIES = [
    "data/is/lines.js"
   ],
   "open": true
+ },
+ {
+  "code": "fi",
+  "iso": "FIN",
+  "name": "Finland",
+  "name_zh": "芬兰",
+  "short": "Finland",
+  "short_zh": "芬兰",
+  "region_term": {
+   "en": "region",
+   "zh": "区"
+  },
+  "bounds": [
+   19.4,
+   59.7,
+   31.7,
+   70.1
+  ],
+  "small_regions": [],
+  "wash": {},
+  "data": [
+   "data/fi/geo.js",
+   "data/fi/books.js",
+   "data/fi/places.js",
+   "data/fi/lines.js"
+  ],
+  "open": true
  }
 ];
 // Totals over every open country, for the world page.
-window.RA_WORLD_STATS = {"countries": 36, "books": 1544, "lines": 1492, "places": 1750};
+window.RA_WORLD_STATS = {"countries": 37, "books": 1551, "lines": 1494, "places": 1757};

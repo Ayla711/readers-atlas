@@ -5238,6 +5238,136 @@
         "IS-2"
       ],
       "wash": {}
+    },
+    {
+      "code": "fi",
+      "iso": "FIN",
+      "name": "Finland",
+      "name_zh": "芬兰",
+      "short": "Finland",
+      "short_zh": "芬兰",
+      "region_term": {
+        "en": "region",
+        "zh": "区"
+      },
+      "bounds": [
+        19.4,
+        59.7,
+        31.7,
+        70.1
+      ],
+      "step": 0.006,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "FI-02": "FI-02",
+              "FI-03": "FI-03",
+              "FI-04": "FI-04",
+              "FI-05": "FI-05",
+              "FI-06": "FI-06",
+              "FI-07": "FI-07",
+              "FI-08": "FI-08",
+              "FI-09": "FI-09",
+              "FI-10": "FI-10",
+              "FI-11": "FI-11",
+              "FI-12": "FI-12",
+              "FI-13": "FI-13",
+              "FI-14": "FI-14",
+              "FI-15": "FI-15",
+              "FI-16": "FI-16",
+              "FI-17": "FI-17",
+              "FI-18": "FI-18",
+              "FI-19": "FI-19"
+            }
+          }
+        ],
+        "names": {
+          "FI-02": [
+            "South Karelia",
+            "南卡累利阿区"
+          ],
+          "FI-03": [
+            "South Ostrobothnia",
+            "南博滕区"
+          ],
+          "FI-04": [
+            "South Savo",
+            "南萨沃区"
+          ],
+          "FI-05": [
+            "Kainuu",
+            "凯努区"
+          ],
+          "FI-06": [
+            "Kanta-Häme",
+            "坎塔海梅区"
+          ],
+          "FI-07": [
+            "Central Ostrobothnia",
+            "中博滕区"
+          ],
+          "FI-08": [
+            "Central Finland",
+            "中芬兰区"
+          ],
+          "FI-09": [
+            "Kymenlaakso",
+            "屈米区"
+          ],
+          "FI-10": [
+            "Lapland",
+            "拉普兰区"
+          ],
+          "FI-11": [
+            "Pirkanmaa",
+            "皮尔卡区"
+          ],
+          "FI-12": [
+            "Ostrobothnia",
+            "博滕区"
+          ],
+          "FI-13": [
+            "North Karelia",
+            "北卡累利阿区"
+          ],
+          "FI-14": [
+            "North Ostrobothnia",
+            "北博滕区"
+          ],
+          "FI-15": [
+            "North Savo",
+            "北萨沃区"
+          ],
+          "FI-16": [
+            "Päijät-Häme",
+            "派延奈-海梅区"
+          ],
+          "FI-17": [
+            "Satakunta",
+            "萨塔昆塔区"
+          ],
+          "FI-18": [
+            "Uusimaa",
+            "新地区"
+          ],
+          "FI-19": [
+            "Southwest Finland",
+            "西南芬兰区"
+          ]
+        }
+      },
+      "data": [
+        "data/fi/geo.js",
+        "data/fi/books.js",
+        "data/fi/places.js",
+        "data/fi/lines.js"
+      ],
+      "open": true,
+      "small_regions": [],
+      "wash": {}
     }
   ]
 }

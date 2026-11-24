@@ -1568,3 +1568,10 @@
 | Nonnahús, Akureyri | TommyBee | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3ANonnah%C3%BAsi%C3%B0.JPG) |
 | Skriðuklaustur | Villy Fink Isaksen | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AGunnar_Gunnarsson%27s_house_in_Skri%C3%B0uklaustur_1.jpg) |
 | Reykir and Grettislaug (facing Drangey) | Bromr | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ADrangey2010.JPG) |
+| Palojoki, Nurmijärvi (Aleksis Kivi's birth home) | Anneli Salo | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AA_Kivi_was_born_here_H6919_A_Kiven_synnyinkoti_C.JPG) |
+| Jutas battlefield, Nykarleby | Petritap | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AMonument_of_Battle_of_Jutas.jpg) |
+| Paikkari Croft, Sammatti | Abc10 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3APaikkarin_torppa_2016.jpg) |
+| Moomin Museum, Tampere | Iljanne | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AMuumimuseon_sis%C3%A4%C3%A4nk%C3%A4ynti_Tampere-talossa.jpg) |
+| Kittilä, Lapland | Niera | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AKittil%C3%A4_Church_2021-07-02.jpg) |
+| Paltaniemi, Kajaani | SeppVei | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3AH%C3%B6vel%C3%B6.JPG) |
+| Kuopio (Minna Canth's Kanttila) | Htm | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AMinna_Canth_Park_2.JPG) |
