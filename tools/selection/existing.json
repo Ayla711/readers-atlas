@@ -897,6 +897,56 @@
    ]
   },
   {
+   "id": "reynaert",
+   "title": "Of Reynaert the Fox",
+   "author": "Willem die Madocke maecte",
+   "home": "be",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "kaas",
+   "title": "Cheese",
+   "author": "Willem Elsschot",
+   "home": "be",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "chapel-road",
+   "title": "Chapel Road",
+   "author": "Louis Paul Boon",
+   "home": "be",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "comtesse-des-digues",
+   "title": "La Comtesse des digues",
+   "author": "Marie Gevers",
+   "home": "be",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "angel-maker",
+   "title": "The Angel Maker",
+   "author": "Stefan Brijs",
+   "home": "be",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
    "id": "fr-les-miserables",
    "title": "Les Misérables",
    "author": "Victor Hugo",
@@ -928,6 +978,15 @@
    "title": "Villette",
    "author": "Charlotte Brontë",
    "home": "uk",
+   "via": [
+    "line"
+   ]
+  },
+  {
+   "id": "cz-austerlitz",
+   "title": "Austerlitz",
+   "author": "W. G. Sebald",
+   "home": "cz",
    "via": [
     "line"
    ]
@@ -10410,6 +10469,55 @@
    "via": [
     "book",
     "house"
+   ]
+  },
+  {
+   "id": "the-evenings",
+   "title": "The Evenings",
+   "author": "Gerard Reve",
+   "home": "nl",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "darkroom-of-damocles",
+   "title": "The Darkroom of Damocles",
+   "author": "Willem Frederik Hermans",
+   "home": "nl",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "discovery-of-heaven",
+   "title": "The Discovery of Heaven",
+   "author": "Harry Mulisch",
+   "home": "nl",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "turkish-delight",
+   "title": "Turkish Delight",
+   "author": "Jan Wolkers",
+   "home": "nl",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "goldfinch",
+   "title": "The Goldfinch",
+   "author": "Donna Tartt",
+   "home": "us",
+   "via": [
+    "line"
    ]
   },
   {

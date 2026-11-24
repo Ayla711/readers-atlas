@@ -29,8 +29,8 @@
     "A3",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "reynaert",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "瓦斯兰（胡尔斯特洛、贝尔塞勒）；不在 D 前 2000 · Goodreads 39；审核补：D 864（榜上叫 Reynard the Fox）"
   },
@@ -63,8 +63,8 @@
    "cats": [
     "A1"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "chapel-road",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "阿尔斯特；不在 D 前 2000 · Goodreads 1,205"
   },
@@ -81,8 +81,8 @@
     "A1",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "kaas",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "安特卫普；D 776 · Goodreads 9,124"
   },
@@ -136,9 +136,9 @@
     "E"
    ],
    "in_app": null,
-   "decision": "新增",
-   "first_draft": "新增（待挂靠）",
-   "note": "虚构村子；不在 D 前 2000 · Goodreads 16,387"
+   "decision": "不收（没有真实地点）",
+   "first_draft": "不收（没有真实地点）",
+   "note": "虚构村子；不在 D 前 2000 · Goodreads 16,387；核地点：雷特维尔德海姆是虚构的村子"
   },
   {
    "title": "The Angel Maker",
@@ -153,10 +153,10 @@
     "A1",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
-   "first_draft": "新增（待挂靠）",
-   "note": "虚构村子沃尔夫海姆；不在 D 前 2000 · Goodreads 15,969"
+   "in_app": "angel-maker",
+   "decision": "保留",
+   "first_draft": "新增",
+   "note": "虚构村子沃尔夫海姆；不在 D 前 2000 · Goodreads 15,969；核地点：沃尔夫海姆是虚构的，挂在旁边书里写到的瓦尔瑟山三国交界点"
   },
   {
    "title": "Beatrijs",
@@ -211,8 +211,8 @@
    ],
    "in_app": null,
    "decision": "新增",
-   "first_draft": "新增",
-   "note": "根特；不在 D 前 2000 · Goodreads 1,682"
+   "first_draft": "新增（地点待查）",
+   "note": "根特；不在 D 前 2000 · Goodreads 1,682；核地点：书里没点城市名，查到的资料都没说房子在根特"
   },
   {
    "title": "La Comtesse des digues",
@@ -227,8 +227,8 @@
     "A2",
     "B"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "comtesse-des-digues",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "斯海尔德河圩田；不在 D 前 2000 · Goodreads 90"
   },
@@ -248,7 +248,7 @@
    "in_app": null,
    "decision": "新增",
    "first_draft": "新增（地点待查）",
-   "note": "沙勒罗瓦一带钢铁厂；不在 D 前 2000 · Goodreads 16"
+   "note": "沙勒罗瓦一带钢铁厂；不在 D 前 2000 · Goodreads 16；核地点：书里的地名（le Culot、la Californie、Saut-du-Leu）是本地小地名，查到的资料都没对上真实地点（维基文库全文逐章查过）"
   },
   {
    "title": "The Legend of Thyl Ulenspiegel",
@@ -291,8 +291,8 @@
     "E",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "cz-austerlitz",
+   "decision": "保留",
    "first_draft": "待定（新增候选）",
    "note": "安特卫普中央车站；捷克那边已有；D 256 · Goodreads 29,209"
   },

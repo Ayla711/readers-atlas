@@ -19,7 +19,7 @@ rows=[
 ("The Assault","Harry Mulisch","本国",{"A1": 4, "E": 1},"保留","不在 D 前 2000 · Goodreads 21,329"),
 ("The Discovery of Heaven","Harry Mulisch","本国",{"A1": 4, "D": 1, "E": 1},"待定","D 955 · Goodreads 18,670"),
 ("Turkish Delight","Jan Wolkers","本国",{"A1": 3, "E": 1},"不收","不在 D 前 2000 · Goodreads 10,699"),
-("Out of Mind (Hersenschimmen)","J. Bernlef","本国",{"A1": 3, "E": 1},"不收","不在 D 前 2000 · Goodreads 17,639"),
+("Out of Mind (Hersenschimmen)","J. Bernlef","本国",{"A1": 3, "E": 1},"新增（地点待查）","不在 D 前 2000 · Goodreads 17,639；核地点：故事在美国马萨诸塞州格洛斯特附近，挂到哪里待用户定"),
 ("Eline Vere","Louis Couperus","本国",{"A1": 3, "D": 1},"不收","D 1503 · Goodreads 3,151"),
 ("The Dinner","Herman Koch","本国",{"E": 2},"不收","不在 D 前 2000 · Goodreads 181,291"),
 ("The Hiding Place","Corrie ten Boom","本国",{"E": 2},"不收","不在 D 前 2000 · Goodreads 371,523"),

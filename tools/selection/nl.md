@@ -16,19 +16,19 @@
 | # | 书 | 作者 | 类 | 明细 | 分 | 证据项 | 已在应用里 | 处理（v2） | v1 初稿（作废，仅供对照） | 说明 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | Max Havelaar | Multatuli | 本国 | A1+4 A2+4 D+1 E+1 | 10 | 4 | 是 | 保留 | 保留 | 阿姆斯特丹劳里耶运河（框架故事）；D 545 · Goodreads 11,377 |
-| 2 | The Evenings (De avonden) | Gerard Reve | 本国 | A1+4 A2+4 D+1 E+1 | 10 | 4 |  | 新增 | 新增 | 阿姆斯特丹；D 845 · Goodreads 13,137 |
-| 3 | The Darkroom of Damocles | Willem Frederik Hermans | 本国 | A1+4 A2+4 D+1 E+1 | 10 | 4 |  | 新增 | 新增 | 福尔斯霍滕、莱顿；D 898 · Goodreads 15,405 |
+| 2 | The Evenings (De avonden) | Gerard Reve | 本国 | A1+4 A2+4 D+1 E+1 | 10 | 4 | 是 | 保留 | 新增 | 阿姆斯特丹；D 845 · Goodreads 13,137 |
+| 3 | The Darkroom of Damocles | Willem Frederik Hermans | 本国 | A1+4 A2+4 D+1 E+1 | 10 | 4 | 是 | 保留 | 新增 | 福尔斯霍滕、莱顿；D 898 · Goodreads 15,405 |
 | 4 | Camera Obscura | Hildebrand | 本国 | A1+3 A2+4 D+1 | 8 | 3 | 是 | 保留 | 保留 | 不在 D 前 2000 · Goodreads 925；审核补：D 1490（榜上作者写本名 Nicolaas Beets） |
 | 5 | Gysbreght van Aemstel | Joost van den Vondel | 本国 | A1+3 A2+4 D+1 | 8 | 3 | 是 | 保留 | 新增 | 阿姆斯特丹；D 1614 · Goodreads 636 |
 | 6 | The Diary of a Young Girl | Anne Frank | 本国 | A1+3 D+2 E+3 | 8 | 3 | 是 | 保留 | 保留 | D 117 · Goodreads 4,362,949 |
-| 7 | The Discovery of Heaven | Harry Mulisch | 本国 | A1+4 D+1 E+1 | 6 | 3 |  | 新增 | 待定 | D 955 · Goodreads 18,670 |
+| 7 | The Discovery of Heaven | Harry Mulisch | 本国 | A1+4 D+1 E+1 | 6 | 3 | 是 | 保留 | 待定 | D 955 · Goodreads 18,670 |
 | 8 | The Assault | Harry Mulisch | 本国 | A1+4 E+1 | 5 | 2 | 是 | 保留 | 保留 | 不在 D 前 2000 · Goodreads 21,329 |
-| 9 | Turkish Delight | Jan Wolkers | 本国 | A1+3 E+1 | 4 | 2 |  | 新增 | 不收 | 不在 D 前 2000 · Goodreads 10,699 |
-| 10 | Out of Mind (Hersenschimmen) | J. Bernlef | 本国 | A1+3 E+1 | 4 | 2 |  | 新增 | 不收 | 不在 D 前 2000 · Goodreads 17,639 |
+| 9 | Turkish Delight | Jan Wolkers | 本国 | A1+3 E+1 | 4 | 2 | 是 | 保留 | 不收 | 不在 D 前 2000 · Goodreads 10,699 |
+| 10 | Out of Mind (Hersenschimmen) | J. Bernlef | 本国 | A1+3 E+1 | 4 | 2 |  | 新增 | 新增（地点待查） | 不在 D 前 2000 · Goodreads 17,639；核地点：故事在美国马萨诸塞州格洛斯特附近，挂到哪里待用户定 |
 | 11 | Eline Vere | Louis Couperus | 本国 | A1+3 D+1 | 4 | 2 | 是 | 保留 | 不收 | D 1503 · Goodreads 3,151 |
 | 12 | The Dinner | Herman Koch | 本国 | E+2 | 2 | 1 |  | 不收 | 不收 | 不在 D 前 2000 · Goodreads 181,291 |
 | 13 | The Hiding Place | Corrie ten Boom | 本国 | E+2 | 2 | 1 |  | 不收 | 不收 | 不在 D 前 2000 · Goodreads 371,523 |
-| 14 | The Goldfinch | Donna Tartt | 外国 | C+2 D+1 E+3 | 6 | 3 |  | 新增 | 待定（新增候选） | 阿姆斯特丹；D 728 · Goodreads 1,096,306 |
+| 14 | The Goldfinch | Donna Tartt | 外国 | C+2 D+1 E+3 | 6 | 3 | 是 | 保留 | 待定（新增候选） | 阿姆斯特丹；D 728 · Goodreads 1,096,306 |
 | 15 | The Fall | Albert Camus | 外国 | D+1 E+2 | 3 | 2 | 是 | 保留 | 待定 | D 941；Goodreads 149,170 |
 | 16 | The Fault in Our Stars | John Green | 外国 | E+3 | 3 | 1 |  | 不收 | 待定（新增候选） | 安妮之家；不在 D 前 2000 · Goodreads 5,919,987 |
 | 17 | Girl with a Pearl Earring | Tracy Chevalier | 外国 | E+2 | 2 | 1 | 是 | 保留（只有一类证据） | 待定 | 代尔夫特；不在 D 前 2000；Goodreads 804,010 |

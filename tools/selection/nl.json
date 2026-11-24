@@ -52,8 +52,8 @@
     "E",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "the-evenings",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "阿姆斯特丹；D 845 · Goodreads 13,137"
   },
@@ -74,8 +74,8 @@
     "E",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "darkroom-of-damocles",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "福尔斯霍滕、莱顿；D 898 · Goodreads 15,405"
   },
@@ -172,8 +172,8 @@
     "E",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "discovery-of-heaven",
+   "decision": "保留",
    "first_draft": "待定",
    "note": "D 955 · Goodreads 18,670"
   },
@@ -190,8 +190,8 @@
     "A1",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "turkish-delight",
+   "decision": "保留",
    "first_draft": "不收",
    "note": "不在 D 前 2000 · Goodreads 10,699"
   },
@@ -210,8 +210,8 @@
    ],
    "in_app": null,
    "decision": "新增",
-   "first_draft": "不收",
-   "note": "不在 D 前 2000 · Goodreads 17,639"
+   "first_draft": "新增（地点待查）",
+   "note": "不在 D 前 2000 · Goodreads 17,639；核地点：故事在美国马萨诸塞州格洛斯特附近，挂到哪里待用户定"
   },
   {
    "title": "Eline Vere",
@@ -278,8 +278,8 @@
     "E",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "goldfinch",
+   "decision": "保留",
    "first_draft": "待定（新增候选）",
    "note": "阿姆斯特丹；D 728 · Goodreads 1,096,306"
   },
