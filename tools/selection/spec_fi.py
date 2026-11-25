@@ -1,4 +1,5 @@
 SPEC=dict(cc="fi",
+existing_alias={"True (Totta)": "true-totta"},
 name="芬兰",date="2026-11-24",
 sources={
 "A1":"芬兰官方门户 thisisFINLAND 读者投票「最喜爱的芬兰书」前 10（2013 年）— finland.fi",

@@ -28,15 +28,14 @@
 | 11 | Snow | Orhan Pamuk | 本国 | D+1 E+1 | 2 | 2 | 是 | 保留 | 删除 | 帕慕克第四本；D 1504 · Goodreads 50,829 |
 | 12 | Huzur (A Mind at Peace) | Ahmet Hamdi Tanpınar | 本国 | A1+4 | 4 | 1 | 是 | 保留 | 待定 | 不在 D 前 2000 · Goodreads 5,633 |
 | 13 | Bereketli Topraklar Üzerinde | Orhan Kemal | 本国 | A1+4 | 4 | 1 | 是 | 保留 | 不收 | 不在 D 前 2000 · Goodreads 1,744 |
-| 14 | Aşk-ı Memnu | Halit Ziya Uşaklıgil | 本国 | A1+4 | 4 | 1 |  | 新增 | 新增 | 不在 D 前 2000 · Goodreads 4,338；核地点：开篇的卡伦德尔没有坐标，图钉标在紧挨着它、第一章也点了名的耶尼柯伊；雅勒的位置书里没交代 |
+| 14 | Aşk-ı Memnu | Halit Ziya Uşaklıgil | 本国 | A1+4 | 4 | 1 | 是 | 保留 | 新增 | 不在 D 前 2000 · Goodreads 4,338；核地点：开篇的卡伦德尔没有坐标，图钉标在紧挨着它、第一章也点了名的耶尼柯伊；雅勒的位置书里没交代 |
 | 15 | The Forty Rules of Love | Elif Shafak | 本国 | E+2 | 2 | 1 |  | 不收 | 不收 | 不在 D 前 2000 · Goodreads 219,268 |
-| 16 | Forbidden Love | Halit Ziya Uşaklıgil | 本国 |  | 0 | 0 | 是 | 未评（要补评） |  |  |
-| 17 | The Iliad | Homer | 外国 | BK+3 D+2 E+2 | 7 | 2 | 是 | 保留 | 保留 | 特洛伊；D 37 · Goodreads 544,095 |
-| 18 | Murder on the Orient Express | Agatha Christie | 外国 | D+2 E+2 | 4 | 2 | 是 | 保留 | 保留 | 锡尔凯吉车站；D 470；Goodreads 783,116 |
-| 19 | Anabasis | Xenophon | 外国 | D+1 E+1 | 2 | 2 | 是 | 保留 | 删除 | D 925；Goodreads 10,422 |
-| 20 | The Forty Days of Musa Dagh | Franz Werfel | 外国 | D+1 | 1 | 1 |  | 不收 | 不收 | D 1699 · Goodreads 2,191 |
-| 21 | Written After Swimming from Sestos to Abydos | Lord Byron | 外国 |  | 0 | 0 |  | 不收 | 删除（零项，用户同意删） | 不在 D 前 2000；Goodreads 查不到 |
-| 22 | Masnavi | Rumi | 作家故居 |  | 0 | 0 | 是 | 作家故居、纪念地标注的代表作，不按选书规则评 |  |  |
+| 16 | The Iliad | Homer | 外国 | BK+3 D+2 E+2 | 7 | 2 | 是 | 保留 | 保留 | 特洛伊；D 37 · Goodreads 544,095 |
+| 17 | Murder on the Orient Express | Agatha Christie | 外国 | D+2 E+2 | 4 | 2 | 是 | 保留 | 保留 | 锡尔凯吉车站；D 470；Goodreads 783,116 |
+| 18 | Anabasis | Xenophon | 外国 | D+1 E+1 | 2 | 2 | 是 | 保留 | 删除 | D 925；Goodreads 10,422 |
+| 19 | The Forty Days of Musa Dagh | Franz Werfel | 外国 | D+1 | 1 | 1 |  | 不收 | 不收 | D 1699 · Goodreads 2,191 |
+| 20 | Written After Swimming from Sestos to Abydos | Lord Byron | 外国 |  | 0 | 0 |  | 不收 | 删除（零项，用户同意删） | 不在 D 前 2000；Goodreads 查不到 |
+| 21 | Masnavi | Rumi | 作家故居 |  | 0 | 0 | 是 | 作家故居、纪念地标注的代表作，不按选书规则评 |  |  |
 
 ## 说明
 规则 v2（11-24 晚）：两项证据或进 A 名单前 10 就够格；已有的书不因分数删；同一作者够格的都收；不设名额。本表结果：新增 11，保留 6，删除（零项） 1，不收 2。

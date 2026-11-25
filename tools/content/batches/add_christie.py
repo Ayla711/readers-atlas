@@ -18,9 +18,10 @@ CHRISTIE = ["secret-adversary", "poirot-investigates", "and-then-there-were-none
 
 def B(id, title, title_zh, year, pg=None):
     # Christie died in 1976: in copyright in the UK until the end of 2046 (spec R-4); the 1920s books are
-    # public domain in the US, which is why Project Gutenberg has them
+    # public domain in the US, which is why Project Gutenberg has them; from 11-25 those two are marked public domain (US)
     return dict(id=id, title=title, title_zh=title_zh, author="Agatha Christie", author_zh="阿加莎·克里斯蒂", year=year,
-                orig_lang="en", public_domain=False, source_url=G + str(pg) if pg else None)
+                orig_lang="en", public_domain=id in ("secret-adversary", "poirot-investigates"),
+                source_url=G + str(pg) if pg else None)
 
 books = [
     B("secret-adversary", "The Secret Adversary", "秘密对手", "1922", 1155),

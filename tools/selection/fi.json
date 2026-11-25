@@ -122,8 +122,8 @@
    "cats": [
     "A1"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "true-totta",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "赫尔辛基；不在 D 前 2000 · Goodreads 3,639；核地点：查到的资料都没点明城市，挂在普尔基宁读书、生活的赫尔辛基"
   },
@@ -428,18 +428,6 @@
    "cats": [],
    "in_app": "tyomiehen-vaimo",
    "decision": "作家故居、纪念地标注的代表作，不按选书规则评",
-   "first_draft": "",
-   "note": ""
-  },
-  {
-   "title": "True",
-   "author": "Riikka Pulkkinen",
-   "kind": "本国",
-   "points": {},
-   "score": 0,
-   "cats": [],
-   "in_app": "true-totta",
-   "decision": "未评（要补评）",
    "first_draft": "",
    "note": ""
   }

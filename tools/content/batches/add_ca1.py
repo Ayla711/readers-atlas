@@ -363,7 +363,7 @@ def write(name, entries, marker):
     body = ",\n".join("  " + b.obj(e) for e in entries)
     open(path, "w", encoding="utf-8").write(f"// Canada, hand-written content (tools/content/batches/add_ca1.py, {marker}).\n" + HEAD[name] + body + "\n];\n")
 
-# the 0.04-degree map simplifies these coasts away (validate.js allows 4 km for rough_coast, 6 km for offshore_island)
+# the 0.04-degree map simplifies these coasts away (validate.js allows 4 km for rough_coast, 10 km for offshore_island (6 before 11-25))
 FLAGS = {"ca-ucluelet": {"rough_coast": True}, "ca-moose-factory": {"offshore_island": True}}
 for x in places:
     x.update(FLAGS.get(x["id"], {}))

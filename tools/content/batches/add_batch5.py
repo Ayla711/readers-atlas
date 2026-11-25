@@ -42,7 +42,7 @@ books = [
     B("wind-in-the-willows", "The Wind in the Willows", "柳林风声", "Kenneth Grahame", "肯尼斯·格雷厄姆", "1908", 289),
     B("peter-pan-kensington", "Peter Pan in Kensington Gardens", "肯辛顿公园里的彼得·潘", "J. M. Barrie", "詹姆斯·巴里", "1906", 1332),
     # Eliot died in 1965: in UK copyright until the end of 2035; public domain in the US (1922), hence Gutenberg
-    B("the-waste-land", "The Waste Land", "荒原", "T. S. Eliot", "T. S. 艾略特", "1922", 1321, pd=False),
+    B("the-waste-land", "The Waste Land", "荒原", "T. S. Eliot", "T. S. 艾略特", "1922", 1321),
     B("pepys-diary", "The Diary of Samuel Pepys", "佩皮斯日记", "Samuel Pepys", "塞缪尔·佩皮斯", "1660–1669", 4200),
     B("dorian-gray", "The Picture of Dorian Gray", "道林·格雷的画像", "Oscar Wilde", "奥斯卡·王尔德", "1891", 174),
     B("return-of-the-native", "The Return of the Native", "还乡", "Thomas Hardy", "哈代", "1878", 122),

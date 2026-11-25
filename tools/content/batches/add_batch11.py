@@ -1,6 +1,6 @@
 """11-04 night: classics batch. Fourteen public-domain books with excerpts cut out of the downloaded Project Gutenberg
 files; Winnie-the-Pooh (in UK copyright until the end of 2026, public domain in the US) quoted from Gutenberg like
-The Waste Land and marked public_domain: false; scene notes in our own words for three books still in copyright
+The Waste Land (marked public_domain: false at first, true from 11-25); scene notes in our own words for three books still in copyright
 (Rebecca, The Hobbit, The Lion, the Witch and the Wardrobe). Coordinates from Geograph / Commons / Wikipedia;
 photos from Commons for every real-life model and pilgrimage place.
 Usage: python3 -I add_batch11.py <app_dir> <pg_texts_dir> <photo_work_dir>"""
@@ -32,7 +32,7 @@ books = [
     B("robinson-crusoe", "Robinson Crusoe", "鲁滨逊漂流记", "Daniel Defoe", "笛福", "1719", 521),
     B("gullivers-travels", "Gulliver's Travels", "格列佛游记", "Jonathan Swift", "斯威夫特", "1726", 829),
     # Milne died in January 1956: in UK copyright until the end of 2026; public domain in the US (1926), hence Gutenberg
-    B("winnie-the-pooh", "Winnie-the-Pooh", "小熊维尼", "A. A. Milne", "A. A. 米尔恩", "1926", 67098, pd=False),
+    B("winnie-the-pooh", "Winnie-the-Pooh", "小熊维尼", "A. A. Milne", "A. A. 米尔恩", "1926", 67098),
     dict(id="rebecca", title="Rebecca", title_zh="蝴蝶梦", author="Daphne du Maurier", author_zh="达芙妮·杜穆里埃", year="1938", orig_lang="en", public_domain=False, source_url=None),
     dict(id="the-hobbit", title="The Hobbit", title_zh="霍比特人", author="J. R. R. Tolkien", author_zh="托尔金", year="1937", orig_lang="en", public_domain=False, source_url=None),
     dict(id="lion-witch-wardrobe", title="The Lion, the Witch and the Wardrobe", title_zh="狮子、女巫和魔衣橱", author="C. S. Lewis", author_zh="C. S. 刘易斯", year="1950", orig_lang="en", public_domain=False, source_url=None, aliases=["Narnia", "纳尼亚"]),

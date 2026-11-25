@@ -1,5 +1,5 @@
 SPEC=dict(cc="tr",
-existing_alias={"Çalıkuşu": "calikusu"},
+existing_alias={"Çalıkuşu": "calikusu", "Aşk-ı Memnu": "ask-i-memnu"},
 name="土耳其",date="2026-11-24",
 sources={
 "A1":"《自由报》周日版 2017 年由 100 位评论家、作家、学者、文学教师和出版人评出的「土耳其文学有史以来最好的 100 部小说」— diken.com.tr 转载（前 10 名有编号，其余按出现顺序）",

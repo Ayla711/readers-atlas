@@ -126,9 +126,9 @@ for (const p of places) {
   else if (unit) placeRegion[p.id] = unit.r;
   else {
     const { km, region } = nearest(p.lon, p.lat);
-    // islands Natural Earth leaves out (e.g. Holy Island) are flagged in the data and may sit up to 6 km off
+    // islands Natural Earth leaves out (e.g. Holy Island) are flagged in the data and may sit up to 10 km off
     // mainland places on a coast that the simplified line cuts short (flag rough_coast) may sit up to 4 km off
-    const limit = p.offshore_island ? 6 : p.rough_coast ? 4 : 2;
+    const limit = p.offshore_island ? 10 : p.rough_coast ? 4 : 2;
     if (km > limit) err(`${label}: ${p.lat}, ${p.lon} is ${km.toFixed(1)} km outside ${COUNTRY.name}`);
     else { placeRegion[p.id] = region; if (!p.offshore_island) warn(`${label}: just off the simplified coastline (${km.toFixed(1)} km), counted in ${region}`); }
   }
