@@ -1,0 +1,10 @@
+// Bulgaria, hand-written content (tools/content/batches/add_bg1.py, 2026-11-25).
+window.RA_DATA = window.RA_DATA || {};
+window.RA_DATA.books = [
+  { id: "under-the-yoke", title: "Under the Yoke", title_zh: "轭下", title_orig: "Под игото", author: "Ivan Vazov", author_zh: "伊万·伐佐夫", year: "1894", orig_lang: "bg", public_domain: true, source_url: "https://bg.wikisource.org/wiki/Под_игото", author_orig: "Иван Вазов", aliases: ["Pod igoto", "Под игото", "Byala Cherkva"] },
+  { id: "time-of-parting", title: "Time of Parting", title_zh: "分离的时刻", title_orig: "Време разделно", author: "Anton Donchev", author_zh: "安东·东切夫", year: "1964", orig_lang: "bg", public_domain: false, source_url: null, author_orig: "Антон Дончев", aliases: ["Vreme razdelno", "Време разделно", "Time of Violence"] },
+  { id: "tobacco-dimov", title: "Tobacco", title_zh: "烟草", title_orig: "Тютюн", author: "Dimitar Dimov", author_zh: "迪米塔尔·迪莫夫", year: "1951", orig_lang: "bg", public_domain: false, source_url: null, author_orig: "Димитър Димов", aliases: ["Tyutyun", "Тютюн", "Nikotiana"] },
+  { id: "bay-ganyo", title: "Bay Ganyo", title_zh: "巴伊·甘纽", title_orig: "Бай Ганьо", author: "Aleko Konstantinov", author_zh: "阿列科·康斯坦丁诺夫", year: "1895", orig_lang: "bg", public_domain: true, source_url: "https://bg.wikisource.org/wiki/Бай_Ганьо", author_orig: "Алеко Константинов", aliases: ["Bai Ganyo", "Бай Ганьо"] },
+  { id: "ballad-georg-henig", title: "Ballad for Georg Henig", title_zh: "格奥尔格·赫尼希谣曲", title_orig: "Балада за Георг Хених", author: "Viktor Paskov", author_zh: "维克托·帕斯科夫", year: "1987", orig_lang: "bg", public_domain: false, source_url: null, author_orig: "Виктор Пасков", aliases: ["Balada za Georg Henih", "Балада за Георг Хених"] },
+  { id: "time-shelter", title: "Time Shelter", title_zh: "时间庇护所", title_orig: "Времеубежище", author: "Georgi Gospodinov", author_zh: "格奥尔基·戈斯波季诺夫", year: "2020", orig_lang: "bg", public_domain: false, source_url: null, author_orig: "Георги Господинов", aliases: ["Vremeubezhishte", "Времеубежище"] }
+];

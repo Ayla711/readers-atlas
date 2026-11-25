@@ -1,0 +1,8 @@
+{
+ "bg-sopot": {"lat": 42.65, "lon": 24.75, "st": "en.wikipedia \"Sopot, Plovdiv Province\" coordinates", "su": "https://en.wikipedia.org/wiki/Sopot,_Plovdiv_Province"},
+ "bg-chepino": {"lat": 42.00630556, "lon": 23.98411111, "st": "Wikidata Q12299050 \"Чепино\" (квартал на Велинград) coordinates; the Bulgarian Wikipedia article gives none through the API", "su": "https://www.wikidata.org/wiki/Q12299050"},
+ "bg-plovdiv": {"lat": 42.15, "lon": 24.75, "st": "en.wikipedia \"Plovdiv\" coordinates", "su": "https://en.wikipedia.org/wiki/Plovdiv"},
+ "bg-kazanlak": {"lat": 42.61666667, "lon": 25.4, "st": "en.wikipedia \"Kazanlak\" coordinates", "su": "https://en.wikipedia.org/wiki/Kazanlak"},
+ "bg-sofia": {"lat": 42.7, "lon": 23.33, "st": "en.wikipedia \"Sofia\" coordinates", "su": "https://en.wikipedia.org/wiki/Sofia"},
+ "bg-ndk": {"lat": 42.68472222, "lon": 23.31888889, "st": "en.wikipedia \"National Palace of Culture\" coordinates", "su": "https://en.wikipedia.org/wiki/National_Palace_of_Culture"}
+}

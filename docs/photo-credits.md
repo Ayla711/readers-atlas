@@ -1746,3 +1746,12 @@
 | Franz Michael Felder Museum, Schoppernau | Friedrich Böhringer | [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5) | [Commons](https://commons.wikimedia.org/wiki/File%3AOberdorf_55%2C_Schoppernau_3.JPG) |
 | Gljúfrasteinn, Mosfellsbær | Stig Nygaard | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AMosfellsdalur.jpg) |
 | Sol Plaatje Museum, 32 Angel Street, Kimberley | TwinMosia | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ASol_Plaatje_Museum.jpg) |
+| Sopot | vislupus | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AHouse-Museum_of_Ivan_Vazov_18.jpg) |
+| Chepino, Velingrad | Klearchos Kapoutsis | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AVelingrad_cloudy.jpg) |
+| Plovdiv | Unknown | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3ATobacco_district_in_Plovdiv_1932.jpg) |
+| Kazanlak | stealman | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AKazanlak_Center.jpg) |
+| Sofia | Marcin Szala | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AAlexander_Nevsky_Cathedral%2C_Sofia_%28by_Pudelek%29.JPG) |
+| National Palace of Culture, Sofia | Ivano Giambattista | [CC0](http://creativecommons.org/publicdomain/zero/1.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ANational_Palace_of_Culture%2C_Sofia_1.jpg) |
+| Mehmed Paša Sokolović Bridge, Višegrad | Marcin Szala | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AMehmed_Pa%C5%A1a_Sokolovi%C4%87_Bridge%2C_Vi%C5%A1egrad.JPG) |
+| Sarajevo | Choinowski | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABa%C5%A1%C4%8Dar%C5%A1ija_2014.jpg) |
+| Travnik | Kondephy | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AView_over_Travnik.jpg) |

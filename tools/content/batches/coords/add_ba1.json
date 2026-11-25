@@ -1,0 +1,5 @@
+{
+ "ba-visegrad-bridge": {"lat": 43.78248, "lon": 19.28794, "st": "sr.wikipedia \"Мост Мехмед-паше Соколовића\" coordinates (the English article gives none through the API)", "su": "https://sr.wikipedia.org/wiki/Мост_Мехмед-паше_Соколовића"},
+ "ba-sarajevo": {"lat": 43.85638889, "lon": 18.41305556, "st": "en.wikipedia \"Sarajevo\" coordinates", "su": "https://en.wikipedia.org/wiki/Sarajevo"},
+ "ba-travnik": {"lat": 44.22638889, "lon": 17.65972222, "st": "en.wikipedia \"Travnik\" coordinates", "su": "https://en.wikipedia.org/wiki/Travnik"}
+}

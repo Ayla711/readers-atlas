@@ -7035,6 +7035,299 @@
         "NZ-NSN"
       ],
       "wash": {}
+    },
+    {
+      "code": "bg",
+      "iso": "BGR",
+      "name": "Bulgaria",
+      "name_zh": "保加利亚",
+      "short": "Bulgaria",
+      "short_zh": "保加利亚",
+      "region_term": {
+        "en": "province",
+        "zh": "州"
+      },
+      "bounds": [
+        22.2,
+        41.15,
+        28.75,
+        44.3
+      ],
+      "step": 0.004,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "BG-01": "BG-01",
+              "BG-02": "BG-02",
+              "BG-03": "BG-03",
+              "BG-04": "BG-04",
+              "BG-05": "BG-05",
+              "BG-06": "BG-06",
+              "BG-07": "BG-07",
+              "BG-08": "BG-08",
+              "BG-09": "BG-09",
+              "BG-10": "BG-10",
+              "BG-11": "BG-11",
+              "BG-12": "BG-12",
+              "BG-13": "BG-13",
+              "BG-14": "BG-14",
+              "BG-15": "BG-15",
+              "BG-16": "BG-16",
+              "BG-17": "BG-17",
+              "BG-18": "BG-18",
+              "BG-19": "BG-19",
+              "BG-20": "BG-20",
+              "BG-21": "BG-21",
+              "BG-22": "BG-22",
+              "BG-23": "BG-23",
+              "BG-24": "BG-24",
+              "BG-25": "BG-25",
+              "BG-26": "BG-26",
+              "BG-27": "BG-27",
+              "BG-28": "BG-28"
+            }
+          }
+        ],
+        "names": {
+          "BG-01": [
+            "Blagoevgrad",
+            "布拉戈耶夫格勒州"
+          ],
+          "BG-02": [
+            "Burgas",
+            "布尔加斯州"
+          ],
+          "BG-03": [
+            "Varna",
+            "瓦尔纳州"
+          ],
+          "BG-04": [
+            "Veliko Tarnovo",
+            "大特尔诺沃州"
+          ],
+          "BG-05": [
+            "Vidin",
+            "维丁州"
+          ],
+          "BG-06": [
+            "Vratsa",
+            "弗拉察州"
+          ],
+          "BG-07": [
+            "Gabrovo",
+            "加布罗沃州"
+          ],
+          "BG-08": [
+            "Dobrich",
+            "多布里奇州"
+          ],
+          "BG-09": [
+            "Kardzhali",
+            "克尔贾利州"
+          ],
+          "BG-10": [
+            "Kyustendil",
+            "丘斯滕迪尔州"
+          ],
+          "BG-11": [
+            "Lovech",
+            "洛维奇州"
+          ],
+          "BG-12": [
+            "Montana",
+            "蒙塔纳州"
+          ],
+          "BG-13": [
+            "Pazardzhik",
+            "帕扎尔吉克州"
+          ],
+          "BG-14": [
+            "Pernik",
+            "佩尔尼克州"
+          ],
+          "BG-15": [
+            "Pleven",
+            "普列文州"
+          ],
+          "BG-16": [
+            "Plovdiv",
+            "普罗夫迪夫州"
+          ],
+          "BG-17": [
+            "Razgrad",
+            "拉兹格勒州"
+          ],
+          "BG-18": [
+            "Ruse",
+            "鲁塞州"
+          ],
+          "BG-19": [
+            "Silistra",
+            "锡利斯特拉州"
+          ],
+          "BG-20": [
+            "Sliven",
+            "斯利文州"
+          ],
+          "BG-21": [
+            "Smolyan",
+            "斯莫梁州"
+          ],
+          "BG-22": [
+            "Sofia City",
+            "索非亚市"
+          ],
+          "BG-23": [
+            "Sofia Province",
+            "索非亚州"
+          ],
+          "BG-24": [
+            "Stara Zagora",
+            "旧扎戈拉州"
+          ],
+          "BG-25": [
+            "Targovishte",
+            "特尔戈维什特州"
+          ],
+          "BG-26": [
+            "Haskovo",
+            "哈斯科沃州"
+          ],
+          "BG-27": [
+            "Shumen",
+            "舒门州"
+          ],
+          "BG-28": [
+            "Yambol",
+            "扬博尔州"
+          ]
+        }
+      },
+      "data": [
+        "data/bg/geo.js",
+        "data/bg/books.js",
+        "data/bg/places.js",
+        "data/bg/lines.js"
+      ],
+      "open": true,
+      "small_regions": [
+        "BG-22"
+      ],
+      "wash": {}
+    },
+    {
+      "code": "ba",
+      "iso": "BIH",
+      "name": "Bosnia and Herzegovina",
+      "name_zh": "波斯尼亚和黑塞哥维那",
+      "short": "Bosnia",
+      "short_zh": "波黑",
+      "region_term": {
+        "en": "canton or entity",
+        "zh": "州或实体"
+      },
+      "bounds": [
+        15.6,
+        42.45,
+        19.75,
+        45.35
+      ],
+      "step": 0.003,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "name",
+            "map": {
+              "Una-Sana": "BA-01",
+              "Posavina": "BA-02",
+              "Tuzla": "BA-03",
+              "Zenica-Doboj": "BA-04",
+              "Bosnian Podrinje": "BA-05",
+              "Central Bosnia": "BA-06",
+              "Herzegovina-Neretva": "BA-07",
+              "West Herzegovina": "BA-08",
+              "Sarajevo": "BA-09",
+              "West Bosnia": "BA-10",
+              "Brčko Distrikt": "BA-BRC",
+              "Doboj": "BA-SRP",
+              "Banja Luka": "BA-SRP",
+              "Bijeljina": "BA-SRP",
+              "Vlasenica": "BA-SRP",
+              "Sarajevo-romanija": "BA-SRP",
+              "Foča": "BA-SRP",
+              "Trebinje": "BA-SRP"
+            }
+          }
+        ],
+        "names": {
+          "BA-01": [
+            "Una-Sana",
+            "乌纳-萨纳州"
+          ],
+          "BA-02": [
+            "Posavina",
+            "波萨维纳州"
+          ],
+          "BA-03": [
+            "Tuzla",
+            "图兹拉州"
+          ],
+          "BA-04": [
+            "Zenica-Doboj",
+            "泽尼察-多博伊州"
+          ],
+          "BA-05": [
+            "Bosnian Podrinje",
+            "波斯尼亚-波德里涅州"
+          ],
+          "BA-06": [
+            "Central Bosnia",
+            "中波斯尼亚州"
+          ],
+          "BA-07": [
+            "Herzegovina-Neretva",
+            "黑塞哥维那-内雷特瓦州"
+          ],
+          "BA-08": [
+            "West Herzegovina",
+            "西黑塞哥维那州"
+          ],
+          "BA-09": [
+            "Sarajevo",
+            "萨拉热窝州"
+          ],
+          "BA-10": [
+            "Canton 10",
+            "第十州"
+          ],
+          "BA-SRP": [
+            "Republika Srpska",
+            "塞族共和国"
+          ],
+          "BA-BRC": [
+            "Brčko District",
+            "布尔奇科特区"
+          ]
+        }
+      },
+      "data": [
+        "data/ba/geo.js",
+        "data/ba/books.js",
+        "data/ba/places.js",
+        "data/ba/lines.js"
+      ],
+      "open": true,
+      "small_regions": [
+        "BA-BRC",
+        "BA-02",
+        "BA-05",
+        "BA-09"
+      ],
+      "wash": {}
     }
   ]
 }

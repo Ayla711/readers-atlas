@@ -1527,7 +1527,68 @@ window.RA_COUNTRIES = [
    "data/nz/lines.js"
   ],
   "open": true
+ },
+ {
+  "code": "bg",
+  "iso": "BGR",
+  "name": "Bulgaria",
+  "name_zh": "保加利亚",
+  "short": "Bulgaria",
+  "short_zh": "保加利亚",
+  "region_term": {
+   "en": "province",
+   "zh": "州"
+  },
+  "bounds": [
+   22.2,
+   41.15,
+   28.75,
+   44.3
+  ],
+  "small_regions": [
+   "BG-22"
+  ],
+  "wash": {},
+  "data": [
+   "data/bg/geo.js",
+   "data/bg/books.js",
+   "data/bg/places.js",
+   "data/bg/lines.js"
+  ],
+  "open": true
+ },
+ {
+  "code": "ba",
+  "iso": "BIH",
+  "name": "Bosnia and Herzegovina",
+  "name_zh": "波斯尼亚和黑塞哥维那",
+  "short": "Bosnia",
+  "short_zh": "波黑",
+  "region_term": {
+   "en": "canton or entity",
+   "zh": "州或实体"
+  },
+  "bounds": [
+   15.6,
+   42.45,
+   19.75,
+   45.35
+  ],
+  "small_regions": [
+   "BA-BRC",
+   "BA-02",
+   "BA-05",
+   "BA-09"
+  ],
+  "wash": {},
+  "data": [
+   "data/ba/geo.js",
+   "data/ba/books.js",
+   "data/ba/places.js",
+   "data/ba/lines.js"
+  ],
+  "open": true
  }
 ];
 // Totals over every open country, for the world page.
-window.RA_WORLD_STATS = {"countries": 48, "books": 1739, "lines": 1682, "places": 1936};
+window.RA_WORLD_STATS = {"countries": 50, "books": 1749, "lines": 1691, "places": 1945};
