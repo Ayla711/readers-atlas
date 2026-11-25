@@ -209,10 +209,10 @@
     "A2",
     "B"
    ],
-   "in_app": null,
-   "decision": "新增",
-   "first_draft": "新增（地点待查）",
-   "note": "根特；不在 D 前 2000 · Goodreads 1,682；核地点：书里没点城市名，查到的资料都没说房子在根特"
+   "in_app": "malpertuis",
+   "decision": "保留",
+   "first_draft": "新增",
+   "note": "根特；不在 D 前 2000 · Goodreads 1,682；核地点：书里没点城市名，查到的资料也没说房子在根特；挂在让·雷一生居住的根特"
   },
   {
    "title": "La Comtesse des digues",
@@ -245,10 +245,10 @@
     "A2",
     "B"
    ],
-   "in_app": null,
-   "decision": "新增",
-   "first_draft": "新增（地点待查）",
-   "note": "沙勒罗瓦一带钢铁厂；不在 D 前 2000 · Goodreads 16；核地点：书里的地名（le Culot、la Californie、Saut-du-Leu）是本地小地名，查到的资料都没对上真实地点（维基文库全文逐章查过）"
+   "in_app": "happe-chair",
+   "decision": "保留",
+   "first_draft": "新增",
+   "note": "沙勒罗瓦一带钢铁厂；不在 D 前 2000 · Goodreads 16；核地点：勒屈洛等地名没对上真实地点，挂在书里点名的博里纳日（第二十九章，矿工与军队的冲突）"
   },
   {
    "title": "The Legend of Thyl Ulenspiegel",

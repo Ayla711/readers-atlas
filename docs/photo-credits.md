@@ -1675,3 +1675,37 @@
 | Sunne | Gräsmark | [Public domain](https://en.wikipedia.org/wiki/Public_domain) | [Commons](https://commons.wikimedia.org/wiki/File%3ASunnesundet.jpg) |
 | Jämshög, Blekinge | Berliner Kartenspieler | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AKirche_in_J%C3%A4msh%C3%B6g%2C_Blekinge%2C_Schweden.jpg) |
 | Södermalm, Stockholm | Batintherain | [Public domain](https://en.wikipedia.org/wiki/Public_domain) | [Commons](https://commons.wikimedia.org/wiki/File%3AS%C3%B6dermalm.JPG) |
+| Helsinki | JIP | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AHelsinki_Senate_Square_with_flowers.jpg) |
+| Hämeenkyrö | J Hokkanen | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AH%C3%A4meenkyr%C3%B6-Kierikkala-N%C3%A4k%C3%B6alakahvila-IMG_6967_69.jpg) |
+| Petrozavodsk (Äänislinna) | Antonio Bonanno | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ALake_Onega._Embankment_in_Petrozavodsk.jpg) |
+| Gloucester, Massachusetts | Doug Kerr | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A2012_harbor_in_Gloucester_Massachusetts_USA_8393986457.jpg) |
+| Ghent | Martinvl | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AGraslei_Ghent.jpg) |
+| The Borinage | Christophe Gesché | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ATerril_de_la_flache%2C_vue_vers_Hornu_-_panoramio.jpg) |
+| Ankara | Radosław Botev | [CC BY 3.0 pl](https://creativecommons.org/licenses/by/3.0/pl/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File%3AUlus_Square%2C_Ankara.jpg) |
+| Kalender and Yeniköy, Bosphorus | el ui | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AOld_house_on_Bosphorus_shore_-_panoramio.jpg) |
+| Myrhorod | AlexanderUA | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AMyrhorod_Stadtansicht.jpg) |
+| West Leederville, Perth | Calistemon | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AWest_Leederville_Primary_School%2C_July_2026_02.jpg) |
+| Northcote, Melbourne | Unknown photographer | [Public domain](https://en.wikipedia.org/wiki/Public_domain) | [Commons](https://commons.wikimedia.org/wiki/File%3AHigh_Street%2C_Northcote%2C_Victoria.jpg) |
+| Sydney | Unknown photographer | [Public domain](https://en.wikipedia.org/wiki/Public_domain) | [Commons](https://commons.wikimedia.org/wiki/File%3ASydney_ferry_KANGAROO_at_Circular_Quay_and_paddle_steamer.jpg) |
+| Bellingen and the Bellinger River | Christopher Wood | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AThe_Bellingen_River_-_Taken_on_Saturday%2C_19th_March_2011_at_1-29pm._-_panoramio.jpg) |
+| Wickepin | Calistemon | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AAlbert_Facey_Homestead%2C_October_2020_03.jpg) |
+| Denmark, Western Australia | Kgbo | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ARoad_bridge_across_Denmark_River_in_Denmark%2C_Western_Australia%2C_2022.jpg) |
+| Elsternwick, Melbourne | Donaldtong | [Public domain](https://en.wikipedia.org/wiki/Public_domain) | [Commons](https://commons.wikimedia.org/wiki/File%3AElsternwick_Hotel.jpg) |
+| Cleveland, Tasmania | Mx. Granger | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3ACleveland_Church_and_cemetery_1.jpg) |
+| Esperance, Western Australia | Calistemon | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AWest_Beach%2C_Western_Australia%2C_January_2024_02.jpg) |
+| Normanton, Queensland | www.gondwananet.com | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ANormanton-queensland-australia-gulf-savannah-gulf-of-carpetnaria.jpg) |
+| Fitzroy, Melbourne | Ashton 29 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AAQUA_PROFONDA_%28Fitzroy_Pool%29.jpg) |
+| Castle Hill, Sydney | Collywolly | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ACastle_Hill_Heritage_Park_01.jpg) |
+| Ballarat | Anne-Marie Steenbergen | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ASovereign_hill_D1000053.jpg) |
+| Glenrowan | Peterdownunder | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AGlenrowan_inn.JPG) |
+| Darra, Brisbane | Kerry Raymond | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ALinh_Son_Buddhist_Temple%2C_89_Rowe_Street%2C_Darra%2C_Brisbane%2C_2023_02.jpg) |
+| Beulah, Victoria | Peterdownunder | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABeulah_Victoria_Hotel.JPG) |
+| Northern Beaches, Sydney | Graeme Churchard | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3APalm_Beach_Sydney_5.jpg) |
+| Raymond Terrace | AussieLegend | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AWirrawee_Cinema_King_Street%2C_Raymond_Terrace%2C_New_South_Wales%2C_Australia.jpg) |
+| Pemberton, Western Australia | JAW | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3APemberton_town_vasse_highway.jpg) |
+| University of Melbourne | Drechmeria-RBGV | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AThe_natural_philosophy_building_at_the_University_of_Melbourne%2C_Parkville.jpg) |
+| Stanley, Tasmania | Michael Coghlan | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3APark_-_Stanley%2C_Tasmania_%2826183878166%29.jpg) |
+| Australian Antarctic Division, Kingston (for Macquarie Island) | Krudller | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AMacquarie_station%2C_Macquarie_Island.JPG) |
+| Glebe, Sydney | Sardaka | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3A%281%29Derwent_Street_Glebe_022.jpg) |
+| Norman Lindsay Gallery, Faulconbridge | Sardaka | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A%281%29Norman_Lindsay_Gallery_060.jpg) |
+| Burketown | www.gondwananet.com | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABurketown-pub-gulf-savannah-queensland-australia.jpg) |

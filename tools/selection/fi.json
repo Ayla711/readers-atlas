@@ -124,8 +124,8 @@
    ],
    "in_app": null,
    "decision": "新增",
-   "first_draft": "新增（地点待查）",
-   "note": "赫尔辛基；不在 D 前 2000 · Goodreads 3,639；核地点：故事在赫尔辛基，但查到的资料没有落到具体地点"
+   "first_draft": "新增",
+   "note": "赫尔辛基；不在 D 前 2000 · Goodreads 3,639；核地点：查到的资料都没点明城市，挂在普尔基宁读书、生活的赫尔辛基"
   },
   {
    "title": "Mr Boo",
@@ -192,10 +192,10 @@
     "E",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
-   "first_draft": "新增（地点待查）",
-   "note": "D 1233 · Goodreads 8,893；核地点：主要地点（彼得罗扎沃茨克、斯维尔河、卡累利阿地峡）今属俄罗斯，挂到哪里待用户定"
+   "in_app": "unknown-soldier",
+   "decision": "保留",
+   "first_draft": "新增",
+   "note": "D 1233 · Goodreads 8,893；核地点：挂在彼得罗扎沃茨克（1941—1944 年叫 Äänislinna，进攻部分的中心），条目放在俄罗斯数据里"
   },
   {
    "title": "Ice",
@@ -228,10 +228,10 @@
     "C",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
-   "first_draft": "新增（地点待查）",
-   "note": "即《虔诚的贫困》（Hurskas kurjuus）；累计印数榜第 16 名、高中共读第 5 名；不在 D 前 2000 · Goodreads 566；核地点：主人公生在萨塔昆塔东北一个没有名字的教区，后来的教区也没点名"
+   "in_app": "meek-heritage",
+   "decision": "保留",
+   "first_draft": "新增",
+   "note": "即《虔诚的贫困》（Hurskas kurjuus）；累计印数榜第 16 名、高中共读第 5 名；不在 D 前 2000 · Goodreads 566；核地点：教区没写名字，挂在西兰帕出生的海门屈勒（上萨塔昆塔）"
   },
   {
    "title": "The Tales of Ensign Stål",
@@ -428,6 +428,18 @@
    "cats": [],
    "in_app": "tyomiehen-vaimo",
    "decision": "作家故居、纪念地标注的代表作，不按选书规则评",
+   "first_draft": "",
+   "note": ""
+  },
+  {
+   "title": "True",
+   "author": "Riikka Pulkkinen",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "true-totta",
+   "decision": "未评（要补评）",
    "first_draft": "",
    "note": ""
   }

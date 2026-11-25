@@ -843,6 +843,277 @@
     "house",
     "line"
    ]
+  },
+  {
+   "id": "cloudstreet",
+   "title": "Cloudstreet",
+   "author": "Tim Winton",
+   "home": "au",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "the-slap",
+   "title": "The Slap",
+   "author": "Christos Tsiolkas",
+   "home": "au",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "voss",
+   "title": "Voss",
+   "author": "Patrick White",
+   "home": "au",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "oscar-and-lucinda",
+   "title": "Oscar and Lucinda",
+   "author": "Peter Carey",
+   "home": "au",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "eucalyptus-bail",
+   "title": "Eucalyptus",
+   "author": "Murray Bail",
+   "home": "au",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "a-fortunate-life",
+   "title": "A Fortunate Life",
+   "author": "A. B. Facey",
+   "home": "au",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "breath-winton",
+   "title": "Breath",
+   "author": "Tim Winton",
+   "home": "au",
+   "via": [
+    "book",
+    "house"
+   ]
+  },
+  {
+   "id": "my-brother-jack",
+   "title": "My Brother Jack",
+   "author": "George Johnston",
+   "home": "au",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "narrow-road-deep-north",
+   "title": "The Narrow Road to the Deep North",
+   "author": "Richard Flanagan",
+   "home": "au",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "dirt-music",
+   "title": "Dirt Music",
+   "author": "Tim Winton",
+   "home": "au",
+   "via": [
+    "book",
+    "house"
+   ]
+  },
+  {
+   "id": "carpentaria",
+   "title": "Carpentaria",
+   "author": "Alexis Wright",
+   "home": "au",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "monkey-grip",
+   "title": "Monkey Grip",
+   "author": "Helen Garner",
+   "home": "au",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "tree-of-man",
+   "title": "The Tree of Man",
+   "author": "Patrick White",
+   "home": "au",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "richard-mahony",
+   "title": "The Fortunes of Richard Mahony",
+   "author": "Henry Handel Richardson",
+   "home": "au",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "true-history-kelly-gang",
+   "title": "True History of the Kelly Gang",
+   "author": "Peter Carey",
+   "home": "au",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "boy-swallows-universe",
+   "title": "Boy Swallows Universe",
+   "author": "Trent Dalton",
+   "home": "au",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "the-dry-harper",
+   "title": "The Dry",
+   "author": "Jane Harper",
+   "home": "au",
+   "via": [
+    "book",
+    "house"
+   ]
+  },
+  {
+   "id": "big-little-lies",
+   "title": "Big Little Lies",
+   "author": "Liane Moriarty",
+   "home": "au",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "remembering-babylon",
+   "title": "Remembering Babylon",
+   "author": "David Malouf",
+   "home": "au",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "tomorrow-when-the-war-began",
+   "title": "Tomorrow, When the War Began",
+   "author": "John Marsden",
+   "home": "au",
+   "via": [
+    "book",
+    "house"
+   ]
+  },
+  {
+   "id": "jasper-jones",
+   "title": "Jasper Jones",
+   "author": "Craig Silvey",
+   "home": "au",
+   "via": [
+    "book",
+    "house"
+   ]
+  },
+  {
+   "id": "the-rosie-project",
+   "title": "The Rosie Project",
+   "author": "Graeme Simsion",
+   "home": "au",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "light-between-oceans",
+   "title": "The Light Between Oceans",
+   "author": "M. L. Stedman",
+   "home": "au",
+   "via": [
+    "book",
+    "house"
+   ]
+  },
+  {
+   "id": "wild-dark-shore",
+   "title": "Wild Dark Shore",
+   "author": "Charlotte McConaghy",
+   "home": "au",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "looking-for-alibrandi",
+   "title": "Looking for Alibrandi",
+   "author": "Melina Marchetta",
+   "home": "au",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "magic-pudding",
+   "title": "The Magic Pudding",
+   "author": "Norman Lindsay",
+   "home": "au",
+   "via": [
+    "book",
+    "house",
+    "line"
+   ]
+  },
+  {
+   "id": "a-town-like-alice",
+   "title": "A Town Like Alice",
+   "author": "Nevil Shute",
+   "home": "au",
+   "via": [
+    "book",
+    "line"
+   ]
   }
  ],
  "be": [
@@ -940,6 +1211,26 @@
    "id": "angel-maker",
    "title": "The Angel Maker",
    "author": "Stefan Brijs",
+   "home": "be",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "malpertuis",
+   "title": "Malpertuis",
+   "author": "Jean Ray",
+   "home": "be",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "happe-chair",
+   "title": "Happe-Chair",
+   "author": "Camille Lemonnier",
    "home": "be",
    "via": [
     "book",
@@ -6180,6 +6471,35 @@
     "book",
     "line"
    ]
+  },
+  {
+   "id": "true-totta",
+   "title": "True",
+   "author": "Riikka Pulkkinen",
+   "home": "fi",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "meek-heritage",
+   "title": "Meek Heritage",
+   "author": "F. E. Sillanpää",
+   "home": "fi",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "unknown-soldier",
+   "title": "The Unknown Soldier",
+   "author": "Väinö Linna",
+   "home": "fi",
+   "via": [
+    "book"
+   ]
   }
  ],
  "fr": [
@@ -10553,6 +10873,15 @@
    ]
   },
   {
+   "id": "hersenschimmen",
+   "title": "Out of Mind",
+   "author": "J. Bernlef",
+   "home": "nl",
+   "via": [
+    "book"
+   ]
+  },
+  {
    "id": "goldfinch",
    "title": "The Goldfinch",
    "author": "Donna Tartt",
@@ -13366,6 +13695,15 @@
     "book",
     "house"
    ]
+  },
+  {
+   "id": "unknown-soldier",
+   "title": "The Unknown Soldier",
+   "author": "Väinö Linna",
+   "home": "fi",
+   "via": [
+    "line"
+   ]
   }
  ],
  "sa": [
@@ -14664,6 +15002,26 @@
     "book",
     "line"
    ]
+  },
+  {
+   "id": "tutunamayanlar",
+   "title": "The Disconnected",
+   "author": "Oğuz Atay",
+   "home": "tr",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "ask-i-memnu",
+   "title": "Forbidden Love",
+   "author": "Halit Ziya Uşaklıgil",
+   "home": "tr",
+   "via": [
+    "book",
+    "line"
+   ]
   }
  ],
  "ua": [
@@ -14801,6 +15159,16 @@
    "id": "the-shipmaster",
    "title": "The Shipmaster",
    "author": "Yuri Yanovsky",
+   "home": "ua",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "do-the-oxen-low",
+   "title": "Do the Oxen Low When the Manger Is Full?",
+   "author": "Panas Myrny",
    "home": "ua",
    "via": [
     "book",
@@ -18722,6 +19090,15 @@
    "via": [
     "book",
     "house"
+   ]
+  },
+  {
+   "id": "hersenschimmen",
+   "title": "Out of Mind",
+   "author": "J. Bernlef",
+   "home": "nl",
+   "via": [
+    "line"
    ]
   },
   {

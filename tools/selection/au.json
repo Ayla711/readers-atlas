@@ -36,10 +36,10 @@
     "C",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "cloudstreet",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "珀斯；三份榜单都是第 1；不在 D 前 2000 · Goodreads 29,571"
+   "note": "珀斯；三份榜单都是第 1；不在 D 前 2000 · Goodreads 29,571；核地点：云街是虚构的，挂在电视剧放房子的珀斯西利德维尔"
   },
   {
    "title": "The Secret River",
@@ -84,10 +84,10 @@
     "C",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "the-slap",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "墨尔本；英联邦作家奖 2009；不在 D 前 2000 · Goodreads 34,189"
+   "note": "墨尔本；英联邦作家奖 2009；不在 D 前 2000 · Goodreads 34,189；核地点：烧烤在诺斯科特赫克托和艾莎家"
   },
   {
    "title": "Voss",
@@ -107,10 +107,10 @@
     "C",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "voss",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "首届富兰克林奖；D 804 · Goodreads 3,774"
+   "note": "首届富兰克林奖；D 804 · Goodreads 3,774；核地点：挂在悉尼（1845 年开篇于邦纳家，劳拉在悉尼等待）"
   },
   {
    "title": "Oscar and Lucinda",
@@ -131,10 +131,10 @@
     "E",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "oscar-and-lucinda",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "布克奖 1988；D 1530 · Goodreads 22,164"
+   "note": "布克奖 1988；D 1530 · Goodreads 22,164；核地点：贝林根，玻璃教堂运去的地方（书中点名）"
   },
   {
    "title": "Picnic at Hanging Rock",
@@ -175,10 +175,10 @@
     "C",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "a-fortunate-life",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "回忆录；西澳麦带；Banjo 奖 1981；不在 D 前 2000 · Goodreads 10,348"
+   "note": "回忆录；西澳麦带；Banjo 奖 1981；不在 D 前 2000 · Goodreads 10,348；核地点：威克平，费西少年打工、1922—1934 年务农的地方，故居在主街"
   },
   {
    "title": "Breath",
@@ -197,10 +197,10 @@
     "C",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "breath-winton",
+   "decision": "保留",
    "first_draft": "待定",
-   "note": "不在 D 前 2000 · Goodreads 27,218"
+   "note": "不在 D 前 2000 · Goodreads 27,218；核地点：索耶镇是虚构的，挂在 2017 年电影取景地西澳丹麦镇（取景地不挂摘句）"
   },
   {
    "title": "My Brother Jack",
@@ -217,10 +217,10 @@
     "A2",
     "C"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "my-brother-jack",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "墨尔本；富兰克林奖 1964；不在 D 前 2000 · Goodreads 2,791"
+   "note": "墨尔本；富兰克林奖 1964；不在 D 前 2000 · Goodreads 2,791；核地点：挂在约翰斯顿童年住的埃尔斯特恩威克"
   },
   {
    "title": "Eucalyptus",
@@ -237,10 +237,10 @@
     "A2",
     "C"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "eucalyptus-bail",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "新州西部；富兰克林奖 1999；不在 D 前 2000 · Goodreads 5,904"
+   "note": "新州西部；富兰克林奖 1999；不在 D 前 2000 · Goodreads 5,904；核地点：庄园和小镇都没写地名；按名著规则挂在贝林根（2005 年为电影搭过布景，电影取消），关系最弱，说明里已写明"
   },
   {
    "title": "The Narrow Road to the Deep North",
@@ -259,10 +259,10 @@
     "C",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "narrow-road-deep-north",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "布克奖 2014；澳大利亚部分在塔斯马尼亚；不在 D 前 2000 · Goodreads 66,131"
+   "note": "布克奖 2014；澳大利亚部分在塔斯马尼亚；不在 D 前 2000 · Goodreads 66,131；核地点：塔斯马尼亚的克利夫兰，多里戈长大的小村（书中点名）"
   },
   {
    "title": "Dirt Music",
@@ -281,10 +281,10 @@
     "C",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "dirt-music",
+   "decision": "保留",
    "first_draft": "不收",
-   "note": "不在 D 前 2000 · Goodreads 16,231"
+   "note": "不在 D 前 2000 · Goodreads 16,231；核地点：怀特角是虚构的，挂在 2019 年电影取景地埃斯佩兰斯（取景地不挂摘句）"
   },
   {
    "title": "Carpentaria",
@@ -301,10 +301,10 @@
     "A2",
     "C"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "carpentaria",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "卡奔塔利亚湾；虚构镇 Desperance，挂海湾真实地点；不在 D 前 2000 · Goodreads 2,269"
+   "note": "卡奔塔利亚湾；虚构镇 Desperance，挂海湾真实地点；不在 D 前 2000 · Goodreads 2,269；核地点：挂在诺曼顿（《Overland》书评认为德斯佩兰斯的原型是它）"
   },
   {
    "title": "Monkey Grip",
@@ -321,10 +321,10 @@
     "A2",
     "C"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "monkey-grip",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "墨尔本菲茨罗伊；国家图书委员会奖 1978；不在 D 前 2000 · Goodreads 9,289"
+   "note": "墨尔本菲茨罗伊；国家图书委员会奖 1978；不在 D 前 2000 · Goodreads 9,289；核地点：菲茨罗伊（合租屋与菲茨罗伊泳池）"
   },
   {
    "title": "The Tree of Man",
@@ -341,10 +341,10 @@
     "A2",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "tree-of-man",
+   "decision": "保留",
    "first_draft": "不收",
-   "note": "怀特第二本；D 741 · Goodreads 2,334"
+   "note": "怀特第二本；D 741 · Goodreads 2,334；核地点：杜里尔盖是虚构的，挂在怀特 1948 年起务农的卡斯尔山"
   },
   {
    "title": "The Harp in the South",
@@ -379,10 +379,10 @@
     "C",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "richard-mahony",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "巴拉瑞特金矿；ALS 金奖 1929；D 1003 · Goodreads 384"
+   "note": "巴拉瑞特金矿；ALS 金奖 1929；D 1003 · Goodreads 384；核地点：巴拉瑞特；公版摘句（英文维基文库，《幸运的澳大利亚》序章）"
   },
   {
    "title": "True History of the Kelly Gang",
@@ -401,10 +401,10 @@
     "E",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "true-history-kelly-gang",
+   "decision": "保留",
    "first_draft": "不收",
-   "note": "D 1118 · Goodreads 24,906"
+   "note": "D 1118 · Goodreads 24,906；核地点：格伦罗万，1880 年最后一战，小说以此开篇"
   },
   {
    "title": "My Brilliant Career",
@@ -475,10 +475,10 @@
     "A1",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "boy-swallows-universe",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "布里斯班达拉区（真实）；不在 D 前 2000 · Goodreads 103,765"
+   "note": "布里斯班达拉区（真实）；不在 D 前 2000 · Goodreads 103,765；核地点：布里斯班达拉区"
   },
   {
    "title": "The Dry",
@@ -493,10 +493,10 @@
     "A1",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "the-dry-harper",
+   "decision": "保留",
    "first_draft": "新增（待挂靠）",
-   "note": "虚构镇 Kiewarra，需找作者说过的原型；不在 D 前 2000 · Goodreads 280,046"
+   "note": "虚构镇 Kiewarra，不在 D 前 2000 · Goodreads 280,046；核地点：没找到作者说过的原型；挂在 2020 年电影里改名基瓦拉的比尤拉（取景地不挂摘句）"
   },
   {
    "title": "Big Little Lies",
@@ -511,10 +511,10 @@
     "A1",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "big-little-lies",
+   "decision": "保留",
    "first_draft": "新增（待挂靠）",
-   "note": "虚构 Pirriwee 半岛，需找原型；不在 D 前 2000 · Goodreads 1,169,953"
+   "note": "虚构 Pirriwee 半岛，不在 D 前 2000 · Goodreads 1,169,953；核地点：莫里亚蒂说半岛的样子取自悉尼以北的海滩，挂在北部海滩"
   },
   {
    "title": "Remembering Babylon",
@@ -529,10 +529,10 @@
     "A2",
     "C"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "remembering-babylon",
+   "decision": "保留",
    "first_draft": "不收",
-   "note": "不在 D 前 2000 · Goodreads 3,941"
+   "note": "不在 D 前 2000 · Goodreads 3,941；核地点：定居点没写名字；挂在原型人物詹姆斯·莫里尔 1863 年回到移民中间的贾维斯菲尔德"
   },
   {
    "title": "Tomorrow, When the War Began",
@@ -547,10 +547,10 @@
     "A1",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "tomorrow-when-the-war-began",
+   "decision": "保留",
    "first_draft": "不收",
-   "note": "虚构镇；不在 D 前 2000 · Goodreads 62,368"
+   "note": "虚构镇；不在 D 前 2000 · Goodreads 62,368；核地点：维拉威是虚构的，挂在 2010 年电影把国王街改成维拉威主街的雷蒙德台地（取景地不挂摘句）"
   },
   {
    "title": "Jasper Jones",
@@ -565,10 +565,10 @@
     "A3",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "jasper-jones",
+   "decision": "保留",
    "first_draft": "不收",
-   "note": "不在 D 前 2000 · Goodreads 44,280"
+   "note": "不在 D 前 2000 · Goodreads 44,280；核地点：科里根是虚构的，挂在 2017 年电影取景地彭伯顿（取景地不挂摘句）"
   },
   {
    "title": "The Rosie Project",
@@ -583,10 +583,10 @@
     "A1",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "the-rosie-project",
+   "decision": "保留",
    "first_draft": "不收",
-   "note": "不在 D 前 2000 · Goodreads 611,718"
+   "note": "不在 D 前 2000 · Goodreads 611,718；核地点：故事在墨尔本，挂在墨尔本大学（读者通常这样认为，没核实书里点名）"
   },
   {
    "title": "The Light Between Oceans",
@@ -601,10 +601,10 @@
     "A1",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "light-between-oceans",
+   "decision": "保留",
    "first_draft": "不收",
-   "note": "不在 D 前 2000 · Goodreads 493,985"
+   "note": "不在 D 前 2000 · Goodreads 493,985；核地点：雅努斯岩和帕塔吉斯都是虚构的，挂在 2016 年电影取景地斯坦利（取景地不挂摘句）"
   },
   {
    "title": "Wild Dark Shore",
@@ -619,10 +619,10 @@
     "A1",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "wild-dark-shore",
+   "decision": "保留",
    "first_draft": "不收",
-   "note": "虚构岛；不在 D 前 2000 · Goodreads 683,348"
+   "note": "虚构岛；不在 D 前 2000 · Goodreads 683,348；核地点：剪水鹱岛的原型是麦夸里岛，但它在地图轮廓外约 1500 公里，图钉标在霍巴特附近的澳大利亚南极局"
   },
   {
    "title": "Looking for Alibrandi",
@@ -637,10 +637,10 @@
     "A1",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "looking-for-alibrandi",
+   "decision": "保留",
    "first_draft": "不收",
-   "note": "不在 D 前 2000 · Goodreads 26,121"
+   "note": "不在 D 前 2000 · Goodreads 26,121；核地点：格利布，乔茜的家"
   },
   {
    "title": "The Magic Pudding",
@@ -655,10 +655,10 @@
     "A1",
     "A3"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "magic-pudding",
+   "decision": "保留",
    "first_draft": "不收",
-   "note": "你要收请说；不在 D 前 2000 · Goodreads 4,273"
+   "note": "不在 D 前 2000 · Goodreads 4,273；核地点：故事里没有现实地名，挂在林赛写作此书的福尔肯布里奇家（诺曼·林赛美术馆，朝圣地）"
   },
   {
    "title": "The Man from Snowy River",
@@ -701,10 +701,10 @@
     "E",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "a-town-like-alice",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "英国作家；后半部在爱丽丝泉和昆士兰海湾；D 850 · Goodreads 64,180"
+   "note": "英国作家；后半部在爱丽丝泉和昆士兰海湾；D 850 · Goodreads 64,180；核地点：威尔斯敦是虚构的，舒特说原型是伯克敦"
   },
   {
    "title": "The Songlines",

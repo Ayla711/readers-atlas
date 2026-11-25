@@ -1,0 +1,14 @@
+{
+ "be-ghent": {
+  "lat": 51.05361111,
+  "lon": 3.72527778,
+  "st": "en.wikipedia \"Ghent\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Ghent"
+ },
+ "be-borinage": {
+  "lat": 50.43333333,
+  "lon": 3.83333333,
+  "st": "en.wikipedia \"Borinage\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Borinage"
+ }
+}

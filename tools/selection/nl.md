@@ -24,7 +24,7 @@
 | 7 | The Discovery of Heaven | Harry Mulisch | 本国 | A1+4 D+1 E+1 | 6 | 3 | 是 | 保留 | 待定 | D 955 · Goodreads 18,670 |
 | 8 | The Assault | Harry Mulisch | 本国 | A1+4 E+1 | 5 | 2 | 是 | 保留 | 保留 | 不在 D 前 2000 · Goodreads 21,329 |
 | 9 | Turkish Delight | Jan Wolkers | 本国 | A1+3 E+1 | 4 | 2 | 是 | 保留 | 不收 | 不在 D 前 2000 · Goodreads 10,699 |
-| 10 | Out of Mind (Hersenschimmen) | J. Bernlef | 本国 | A1+3 E+1 | 4 | 2 |  | 新增 | 新增（地点待查） | 不在 D 前 2000 · Goodreads 17,639；核地点：故事在美国马萨诸塞州格洛斯特附近，挂到哪里待用户定 |
+| 10 | Out of Mind (Hersenschimmen) | J. Bernlef | 本国 | A1+3 E+1 | 4 | 2 | 是 | 保留 | 新增 | 不在 D 前 2000 · Goodreads 17,639；核地点：挂在故事发生的马萨诸塞州格洛斯特，条目放在美国数据里 |
 | 11 | Eline Vere | Louis Couperus | 本国 | A1+3 D+1 | 4 | 2 | 是 | 保留 | 不收 | D 1503 · Goodreads 3,151 |
 | 12 | The Dinner | Herman Koch | 本国 | E+2 | 2 | 1 |  | 不收 | 不收 | 不在 D 前 2000 · Goodreads 181,291 |
 | 13 | The Hiding Place | Corrie ten Boom | 本国 | E+2 | 2 | 1 |  | 不收 | 不收 | 不在 D 前 2000 · Goodreads 371,523 |

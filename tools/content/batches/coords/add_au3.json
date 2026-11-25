@@ -1,0 +1,80 @@
+{
+ "au-glenrowan": {
+  "lat": -36.4625,
+  "lon": 146.2225,
+  "st": "en.wikipedia \"Glenrowan, Victoria\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Glenrowan%2C_Victoria"
+ },
+ "au-darra": {
+  "lat": -27.5636,
+  "lon": 152.9552,
+  "st": "en.wikipedia \"Darra, Queensland\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Darra%2C_Queensland"
+ },
+ "au-beulah": {
+  "lat": -35.93805556,
+  "lon": 142.42,
+  "st": "en.wikipedia \"Beulah, Victoria\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Beulah%2C_Victoria"
+ },
+ "au-northern-beaches": {
+  "lat": -33.609,
+  "lon": 151.328,
+  "st": "en.wikipedia \"Northern Beaches\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Northern_Beaches"
+ },
+ "au-jarvisfield": {
+  "lat": -19.5753,
+  "lon": 147.4911,
+  "st": "en.wikipedia \"Jarvisfield, Queensland\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Jarvisfield%2C_Queensland"
+ },
+ "au-raymond-terrace": {
+  "lat": -32.76147222,
+  "lon": 151.74405556,
+  "st": "en.wikipedia \"Raymond Terrace\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Raymond_Terrace"
+ },
+ "au-pemberton": {
+  "lat": -34.445,
+  "lon": 116.034,
+  "st": "en.wikipedia \"Pemberton, Western Australia\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Pemberton%2C_Western_Australia"
+ },
+ "au-unimelb": {
+  "lat": -37.7963,
+  "lon": 144.9614,
+  "st": "en.wikipedia \"University of Melbourne\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/University_of_Melbourne"
+ },
+ "au-stanley": {
+  "lat": -40.76111111,
+  "lon": 145.29444444,
+  "st": "en.wikipedia \"Stanley, Tasmania\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Stanley%2C_Tasmania"
+ },
+ "au-glebe": {
+  "lat": -33.87978,
+  "lon": 151.18541,
+  "st": "en.wikipedia \"Glebe, New South Wales\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Glebe%2C_New_South_Wales"
+ },
+ "au-norman-lindsay": {
+  "lat": -33.6793,
+  "lon": 150.5612,
+  "st": "en.wikipedia \"Norman Lindsay Gallery and Museum\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Norman_Lindsay_Gallery_and_Museum"
+ },
+ "au-burketown": {
+  "lat": -17.7408,
+  "lon": 139.5477,
+  "st": "en.wikipedia \"Burketown\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Burketown"
+ },
+ "au-antarctic-division": {
+  "lat": -42.98678611,
+  "lon": 147.2923,
+  "st": "en.wikipedia \"Australian Antarctic Division\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Australian_Antarctic_Division"
+ }
+}

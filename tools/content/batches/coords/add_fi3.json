@@ -1,0 +1,14 @@
+{
+ "fi-helsinki": {
+  "lat": 60.17083333,
+  "lon": 24.9375,
+  "st": "en.wikipedia \"Helsinki\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Helsinki"
+ },
+ "fi-hameenkyro": {
+  "lat": 61.63333333,
+  "lon": 23.2,
+  "st": "en.wikipedia \"Hämeenkyrö\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/H%C3%A4meenkyr%C3%B6"
+ }
+}

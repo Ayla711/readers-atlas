@@ -91,7 +91,8 @@ window.RA_COUNTRIES = [
   ],
   "open": true,
   "needs": [
-   "fr"
+   "fr",
+   "nl"
   ]
  },
  {
@@ -320,7 +321,10 @@ window.RA_COUNTRIES = [
    "data/ru/places.js",
    "data/ru/lines.js"
   ],
-  "open": true
+  "open": true,
+  "needs": [
+   "fi"
+  ]
  },
  {
   "code": "jp",
@@ -1525,4 +1529,4 @@ window.RA_COUNTRIES = [
  }
 ];
 // Totals over every open country, for the world page.
-window.RA_WORLD_STATS = {"countries": 48, "books": 1659, "lines": 1607, "places": 1871};
+window.RA_WORLD_STATS = {"countries": 48, "books": 1695, "lines": 1637, "places": 1906};

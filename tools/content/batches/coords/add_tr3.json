@@ -1,0 +1,14 @@
+{
+ "tr-ankara": {
+  "lat": 39.92888889,
+  "lon": 32.85472222,
+  "st": "en.wikipedia \"Ankara\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Ankara"
+ },
+ "tr-yenikoy": {
+  "lat": 41.118,
+  "lon": 29.066,
+  "st": "en.wikipedia \"Yeniköy, Sarıyer\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Yenik%C3%B6y%2C_Sar%C4%B1yer"
+ }
+}

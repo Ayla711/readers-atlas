@@ -20,9 +20,9 @@
 | 2 | Beatrijs | Anonymous | 本国（弗拉芒） | A1+3 A3+4 D+1 | 8 | 3 |  | 不收 | 不收 | 传说，没有真实地点；D 1528 · Goodreads 1,447 |
 | 3 | The Sorrow of Belgium | Hugo Claus | 本国（弗拉芒） | A1+4 D+1 | 5 | 2 | 是 | 保留 | 保留 | D 1117 · Goodreads 4,032 |
 | 4 | Bruges-la-Morte | Georges Rodenbach | 本国（法语） | A2+3 B+2 | 5 | 2 | 是 | 保留 | 保留 | 不在 D 前 2000 · Goodreads 3,457 |
-| 5 | Malpertuis | Jean Ray | 本国（法语） | A2+3 B+2 | 5 | 2 |  | 新增 | 新增（地点待查） | 根特；不在 D 前 2000 · Goodreads 1,682；核地点：书里没点城市名，查到的资料都没说房子在根特 |
+| 5 | Malpertuis | Jean Ray | 本国（法语） | A2+3 B+2 | 5 | 2 | 是 | 保留 | 新增 | 根特；不在 D 前 2000 · Goodreads 1,682；核地点：书里没点城市名，查到的资料也没说房子在根特；挂在让·雷一生居住的根特 |
 | 6 | La Comtesse des digues | Marie Gevers | 本国（法语） | A2+3 B+2 | 5 | 2 | 是 | 保留 | 新增 | 斯海尔德河圩田；不在 D 前 2000 · Goodreads 90 |
-| 7 | Happe-Chair | Camille Lemonnier | 本国（法语） | A2+3 B+2 | 5 | 2 |  | 新增 | 新增（地点待查） | 沙勒罗瓦一带钢铁厂；不在 D 前 2000 · Goodreads 16；核地点：书里的地名（le Culot、la Californie、Saut-du-Leu）是本地小地名，查到的资料都没对上真实地点（维基文库全文逐章查过） |
+| 7 | Happe-Chair | Camille Lemonnier | 本国（法语） | A2+3 B+2 | 5 | 2 | 是 | 保留 | 新增 | 沙勒罗瓦一带钢铁厂；不在 D 前 2000 · Goodreads 16；核地点：勒屈洛等地名没对上真实地点，挂在书里点名的博里纳日（第二十九章，矿工与军队的冲突） |
 | 8 | Cheese (Kaas) | Willem Elsschot | 本国（弗拉芒） | A1+3 D+1 | 4 | 2 | 是 | 保留 | 新增 | 安特卫普；D 776 · Goodreads 9,124 |
 | 9 | Pallieter | Felix Timmermans | 本国（弗拉芒） | A1+3 D+1 | 4 | 2 | 是 | 保留 | 新增 | 利尔；D 846 · Goodreads 656 |
 | 10 | The Lion of Flanders | Hendrik Conscience | 本国（弗拉芒） | A1+3 D+1 | 4 | 2 | 是 | 保留 | 新增 | 科特赖克金马刺之战；D 1830 · Goodreads 1,068 |

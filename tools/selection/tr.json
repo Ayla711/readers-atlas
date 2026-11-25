@@ -68,10 +68,10 @@
     "A1",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
-   "first_draft": "新增（地点待查）",
-   "note": "安卡拉、伊斯坦布尔；不在 D 前 2000 · Goodreads 13,215；核地点：查到的资料没有把它定在哪个地方"
+   "in_app": "tutunamayanlar",
+   "decision": "保留",
+   "first_draft": "新增",
+   "note": "安卡拉、伊斯坦布尔；不在 D 前 2000 · Goodreads 13,215；核地点：挂在安卡拉（图尔古特去那里找塞利姆的朋友苏莱曼·卡尔格和梅廷）"
   },
   {
    "title": "The Time Regulation Institute",
@@ -208,8 +208,8 @@
    ],
    "in_app": null,
    "decision": "新增",
-   "first_draft": "新增（地点待查）",
-   "note": "不在 D 前 2000 · Goodreads 4,338；核地点：开篇在博斯普鲁斯海峡边的卡伦德尔，各语种维基都没有它的坐标；雅勒的位置书里没交代"
+   "first_draft": "新增",
+   "note": "不在 D 前 2000 · Goodreads 4,338；核地点：开篇的卡伦德尔没有坐标，图钉标在紧挨着它、第一章也点了名的耶尼柯伊；雅勒的位置书里没交代"
   },
   {
    "title": "Çalıkuşu",
@@ -373,6 +373,18 @@
    "cats": [],
    "in_app": "masnavi",
    "decision": "作家故居、纪念地标注的代表作，不按选书规则评",
+   "first_draft": "",
+   "note": ""
+  },
+  {
+   "title": "Forbidden Love",
+   "author": "Halit Ziya Uşaklıgil",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "ask-i-memnu",
+   "decision": "未评（要补评）",
    "first_draft": "",
    "note": ""
   }

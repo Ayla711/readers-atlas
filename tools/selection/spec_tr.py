@@ -13,7 +13,7 @@ size_note="规则 v2（11-24 晚）：两项证据或进 A 名单前 10 就够�
 rows=[
 ("My Name Is Red","Orhan Pamuk","本国",{"A1": 4, "N": 1, "D": 1, "E": 1},"新增","伊斯坦布尔；D 1264 · Goodreads 63,890"),
 ("Memed, My Hawk","Yaşar Kemal","本国",{"A1": 4, "D": 1, "E": 1},"保留","评委榜第 1；D 721 · Goodreads 14,334"),
-("Tutunamayanlar (The Disconnected)","Oğuz Atay","本国",{"A1": 4, "E": 1},"新增（地点待查）","安卡拉、伊斯坦布尔；不在 D 前 2000 · Goodreads 13,215；核地点：查到的资料没有把它定在哪个地方"),
+("Tutunamayanlar (The Disconnected)","Oğuz Atay","本国",{"A1": 4, "E": 1},"新增","安卡拉、伊斯坦布尔；不在 D 前 2000 · Goodreads 13,215；核地点：挂在安卡拉（图尔古特去那里找塞利姆的朋友苏莱曼·卡尔格和梅廷）"),
 ("The Time Regulation Institute","Ahmet Hamdi Tanpınar","本国",{"A1": 4, "E": 1},"新增","伊斯坦布尔；不在 D 前 2000 · Goodreads 17,291"),
 ("Aylak Adam (The Idler)","Yusuf Atılgan","本国",{"A1": 4, "E": 1},"新增","伊斯坦布尔贝伊奥卢；不在 D 前 2000 · Goodreads 18,965"),
 ("Puslu Kıtalar Atlası","İhsan Oktay Anar","本国",{"A1": 4, "E": 1},"新增","奥斯曼时代伊斯坦布尔；不在 D 前 2000 · Goodreads 23,547"),
@@ -21,7 +21,7 @@ rows=[
 ("The Black Book","Orhan Pamuk","本国",{"A1": 4, "E": 1},"待定","不在 D 前 2000 · Goodreads 13,816"),
 ("Huzur (A Mind at Peace)","Ahmet Hamdi Tanpınar","本国",{"A1": 4},"待定","不在 D 前 2000 · Goodreads 5,633"),
 ("Bereketli Topraklar Üzerinde","Orhan Kemal","本国",{"A1": 4},"不收","不在 D 前 2000 · Goodreads 1,744"),
-("Aşk-ı Memnu","Halit Ziya Uşaklıgil","本国",{"A1": 4},"新增（地点待查）","不在 D 前 2000 · Goodreads 4,338；核地点：开篇在博斯普鲁斯海峡边的卡伦德尔，各语种维基都没有它的坐标；雅勒的位置书里没交代"),
+("Aşk-ı Memnu","Halit Ziya Uşaklıgil","本国",{"A1": 4},"新增","不在 D 前 2000 · Goodreads 4,338；核地点：开篇的卡伦德尔没有坐标，图钉标在紧挨着它、第一章也点了名的耶尼柯伊；雅勒的位置书里没交代"),
 ("Çalıkuşu","Reşat Nuri Güntekin","本国",{"A1": 3, "E": 1},"不收","不在 D 前 2000 · Goodreads 20,344"),
 ("The Museum of Innocence","Orhan Pamuk","本国",{"A1": 3, "E": 1},"删除（见名额说明）","帕慕克第三本；不在 D 前 2000 · Goodreads 42,567"),
 ("Snow","Orhan Pamuk","本国",{"D": 1, "E": 1},"删除","帕慕克第四本；D 1504 · Goodreads 50,829"),

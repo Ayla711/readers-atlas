@@ -1,0 +1,80 @@
+{
+ "au-west-leederville": {
+  "lat": -31.938,
+  "lon": 115.832,
+  "st": "en.wikipedia \"West Leederville, Western Australia\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/West_Leederville%2C_Western_Australia"
+ },
+ "au-northcote": {
+  "lat": -37.7722,
+  "lon": 144.9994,
+  "st": "en.wikipedia \"Northcote, Victoria\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Northcote%2C_Victoria"
+ },
+ "au-sydney": {
+  "lat": -33.86777778,
+  "lon": 151.21,
+  "st": "en.wikipedia \"Sydney\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Sydney"
+ },
+ "au-bellingen": {
+  "lat": -30.43333333,
+  "lon": 152.9,
+  "st": "en.wikipedia \"Bellingen, New South Wales\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Bellingen%2C_New_South_Wales"
+ },
+ "au-wickepin": {
+  "lat": -32.78333333,
+  "lon": 117.5,
+  "st": "en.wikipedia \"Wickepin\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Wickepin"
+ },
+ "au-denmark-wa": {
+  "lat": -34.96,
+  "lon": 117.35305556,
+  "st": "en.wikipedia \"Denmark, Western Australia\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Denmark%2C_Western_Australia"
+ },
+ "au-elsternwick": {
+  "lat": -37.887,
+  "lon": 145.006,
+  "st": "en.wikipedia \"Elsternwick\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Elsternwick"
+ },
+ "au-cleveland-tas": {
+  "lat": -41.802,
+  "lon": 147.3993,
+  "st": "en.wikipedia \"Cleveland, Tasmania\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Cleveland%2C_Tasmania"
+ },
+ "au-esperance": {
+  "lat": -33.86111111,
+  "lon": 121.89194444,
+  "st": "en.wikipedia \"Esperance, Western Australia\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Esperance%2C_Western_Australia"
+ },
+ "au-normanton": {
+  "lat": -17.6702,
+  "lon": 141.0791,
+  "st": "en.wikipedia \"Normanton, Queensland\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Normanton%2C_Queensland"
+ },
+ "au-fitzroy": {
+  "lat": -37.7984,
+  "lon": 144.9785,
+  "st": "en.wikipedia \"Fitzroy, Victoria\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Fitzroy%2C_Victoria"
+ },
+ "au-castle-hill": {
+  "lat": -33.72916667,
+  "lon": 151.00388889,
+  "st": "en.wikipedia \"Castle Hill, New South Wales\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Castle_Hill%2C_New_South_Wales"
+ },
+ "au-ballarat": {
+  "lat": -37.56083333,
+  "lon": 143.8475,
+  "st": "en.wikipedia \"Ballarat\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Ballarat"
+ }
+}
