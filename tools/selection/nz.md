@@ -18,22 +18,22 @@
 | # | 书 | 作者 | 类 | 明细 | 分 | 证据项 | 已在应用里 | 处理（v2） | v1 初稿（作废，仅供对照） | 说明 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | The Bone People | Keri Hulme | 本国 | A1+4 A2+4 A3+4 A4+3 C+2 D+1 E+1 | 19 | 7 | 是 | 保留 | 保留 | 布克奖 1985；D 1173 · Goodreads 24,784 |
-| 2 | Plumb | Maurice Gee | 本国 | A1+4 A2+4 A3+4 A4+3 C+2 | 17 | 5 |  | 新增 | 新增 | 专家榜第 1；詹姆斯·泰特·布莱克奖；不在 D 前 2000 · Goodreads 564 |
+| 2 | Plumb | Maurice Gee | 本国 | A1+4 A2+4 A3+4 A4+3 C+2 | 17 | 5 | 是 | 保留 | 新增 | 专家榜第 1；詹姆斯·泰特·布莱克奖；不在 D 前 2000 · Goodreads 564；核地点：三部曲大部分以西奥克兰亨德森为背景（书中的卢米斯），一家人住的“和平居”在那里；挂亨德森（原型） |
 | 3 | The Luminaries | Eleanor Catton | 本国 | A2+3 A3+4 A4+3 C+2 E+1 | 13 | 5 | 是 | 保留 | 保留 | 布克奖 2013；不在 D 前 2000 · Goodreads 87,962 |
-| 4 | Autobiography: To the Is-Land / An Angel at My Table | Janet Frame | 本国 | A1+3 A2+4 A3+4 A4+3 | 14 | 4 |  | 新增 | 新增（替换 Owls Do Cry） | 三卷自传按一部算，每份名单取最高；奥马鲁、达尼丁、锡克利夫医院；不在 D 前 2000 · Goodreads 3,161 |
-| 5 | Once Were Warriors | Alan Duff | 本国 | A1+3 A2+3 A3+4 A4+3 | 13 | 4 |  | 新增 | 新增 | 虚构的 Pine Block 国宅区，需找挂靠依据；不在 D 前 2000 · Goodreads 4,076 |
-| 6 | Potiki | Patricia Grace | 本国 | A2+4 A3+3 A4+3 C+2 | 12 | 4 |  | 新增 | 新增 | 新西兰图书奖 1987；虚构海边社区，需找挂靠依据；不在 D 前 2000 · Goodreads 2,715 |
-| 7 | Can You Tolerate This? | Ashleigh Young | 本国 | A2+3 A3+4 A4+3 | 10 | 3 |  | 新增 | 新增（待核实地点） | 散文集，温斯顿奖；需确认写到的真实地点；不在 D 前 2000 · Goodreads 808 |
-| 8 | Smith's Dream | C. K. Stead | 本国 | A2+3 A3+3 A4+3 | 9 | 3 |  | 新增 | 新增 | 近未来新西兰，科罗曼德尔半岛；不在 D 前 2000 · Goodreads 197 |
-| 9 | Other Halves | Sue McCauley | 本国 | A2+4 A4+3 C+2 | 9 | 3 |  | 新增 | 新增 | 奥克兰；Wattie 奖；不在 D 前 2000 · Goodreads 110 |
+| 4 | Autobiography: To the Is-Land / An Angel at My Table | Janet Frame | 本国 | A1+3 A2+4 A3+4 A4+3 | 14 | 4 | 是 | 保留 | 新增（替换 Owls Do Cry） | 三卷自传按一部算，每份名单取最高；奥马鲁、达尼丁、锡克利夫医院；不在 D 前 2000 · Goodreads 3,161；核地点：挂在已有的奥马鲁（伊登街五十六号） |
+| 5 | Once Were Warriors | Alan Duff | 本国 | A1+3 A2+3 A3+4 A4+3 | 13 | 4 | 是 | 保留 | 新增 | 虚构的 Pine Block 国宅区，不在 D 前 2000 · Goodreads 4,076；核地点：松林街区是罗托鲁阿福德兰兹的化身（Te Ara；达夫本人也这样说），挂福德兰兹（原型） |
+| 6 | Potiki | Patricia Grace | 本国 | A2+4 A3+3 A4+3 C+2 | 12 | 4 | 是 | 保留 | 新增 | 新西兰图书奖 1987；虚构海边社区，不在 D 前 2000 · Goodreads 2,715；核地点：维基百科：社区很像格雷斯的家乡洪戈埃卡，挂洪戈埃卡湾（原型） |
+| 7 | Can You Tolerate This? | Ashleigh Young | 本国 | A2+3 A3+4 A4+3 | 10 | 3 | 是 | 保留 | 新增（待核实地点） | 散文集，温德姆-坎贝尔奖；不在 D 前 2000 · Goodreads 808；核地点：蒂库伊蒂，扬长大的地方，散文《蒂库伊蒂地下》 |
+| 8 | Smith's Dream | C. K. Stead | 本国 | A2+3 A3+3 A4+3 | 9 | 3 | 是 | 保留 | 新增 | 近未来新西兰，科罗曼德尔半岛；不在 D 前 2000 · Goodreads 197；核地点：史密斯独居在科罗曼德尔外海的小岛，挂科罗曼德尔半岛 |
+| 9 | Other Halves | Sue McCauley | 本国 | A2+4 A4+3 C+2 | 9 | 3 | 是 | 保留 | 新增 | Wattie 奖；不在 D 前 2000 · Goodreads 110；核地点：书里的城市没能对照原文核实：一位读者的书评说开篇是 70 年代的克赖斯特彻奇，1984 年电影放在奥克兰；挂克赖斯特彻奇市中心点，说明里已写明 |
 | 10 | The Garden Party, and Other Stories | Katherine Mansfield | 本国 | A4+3 D+1 E+1 | 5 | 3 | 是 | 保留 | 待定：建议破例保留 | D 1456 · Goodreads 11,123 |
-| 11 | The 10pm Question | Kate De Goldi | 本国 | A2+3 A3+4 | 7 | 2 |  | 新增 | 不收 | 不在 D 前 2000 · Goodreads 3,266 |
-| 12 | Pounamu Pounamu | Witi Ihimaera | 本国 | A2+3 A4+3 | 6 | 2 |  | 新增 | 不收（见名额说明②） | 不在 D 前 2000 · Goodreads 890 |
-| 13 | Tu | Patricia Grace | 本国 | A1+3 A4+3 | 6 | 2 |  | 新增 | 不收 | 格雷斯第二本；不在 D 前 2000 · Goodreads 578 |
+| 11 | The 10pm Question | Kate De Goldi | 本国 | A2+3 A3+4 | 7 | 2 | 是 | 保留 | 不收 | 不在 D 前 2000 · Goodreads 3,266；核地点：书里没写城市名；德戈尔迪说她的小说都设在克赖斯特彻奇，挂克赖斯特彻奇市中心点，说明里已写明 |
+| 12 | Pounamu Pounamu | Witi Ihimaera | 本国 | A2+3 A4+3 | 6 | 2 | 是 | 保留 | 不收（见名额说明②） | 不在 D 前 2000 · Goodreads 890；核地点：怀图希，伊希马埃拉在故事里按想象重建的家乡（原型） |
+| 13 | Tu | Patricia Grace | 本国 | A1+3 A4+3 | 6 | 2 | 是 | 保留 | 不收 | 格雷斯第二本；不在 D 前 2000 · Goodreads 578；核地点：一家人搬去的惠灵顿（市中心点） |
 | 14 | The Whale Rider | Witi Ihimaera | 本国 | A1+4 E+1 | 5 | 2 | 是 | 保留 | 待定：建议保留 | 不在 D 前 2000 · Goodreads 13,365 |
-| 15 | The Changeover | Margaret Mahy | 本国 | A1+3 C+2 | 5 | 2 |  | 新增 | 不收 | 不在 D 前 2000 · Goodreads 4,301 |
-| 16 | Season of the Jew | Maurice Shadbolt | 本国 | A1+4 | 4 | 1 |  | 新增 | 不收 | 不在 D 前 2000 · Goodreads 283 |
-| 17 | Under the Mountain | Maurice Gee | 本国 | A1+4 | 4 | 1 |  | 新增 | 不收 | 吉第二本；不在 D 前 2000 · Goodreads 1,440 |
+| 15 | The Changeover | Margaret Mahy | 本国 | A1+3 C+2 | 5 | 2 | 是 | 保留 | 不收 | 不在 D 前 2000 · Goodreads 4,301；核地点：花园谷是马希给克赖斯特彻奇毕晓普代尔起的名字，挂毕晓普代尔（原型） |
+| 16 | Season of the Jew | Maurice Shadbolt | 本国 | A1+4 | 4 | 1 | 是 | 保留 | 不收 | 不在 D 前 2000 · Goodreads 283；核地点：马塔怀罗，1868 年 11 月 10 日特库蒂袭击的地方，小说从这一天讲起；英文维基没有条目，坐标取自维基数据 |
+| 17 | Under the Mountain | Maurice Gee | 本国 | A1+4 | 4 | 1 | 是 | 保留 | 不收 | 吉第二本；不在 D 前 2000 · Goodreads 1,440；核地点：普普克湖，双胞胎暑假住的地方 |
 | 18 | Owls Do Cry | Janet Frame | 本国 | A1+4 | 4 | 1 | 是 | 保留 | 删除 | 不在 D 前 2000 · Goodreads 2,260 |
 | 19 | Man Alone | John Mulgan | 本国 | A1+3 | 3 | 1 |  | 不收 | 不收 | 不在 D 前 2000 · Goodreads 371 |
 | 20 | Erewhon | Samuel Butler | 外国 | D+1 | 1 | 1 | 是 | 保留（只有一类证据） | 待定：建议保留 | 英国作家；坎特伯雷高原；D 704；Goodreads 4,862 |

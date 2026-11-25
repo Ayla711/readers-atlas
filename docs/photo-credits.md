@@ -1709,3 +1709,11 @@
 | Glebe, Sydney | Sardaka | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3A%281%29Derwent_Street_Glebe_022.jpg) |
 | Norman Lindsay Gallery, Faulconbridge | Sardaka | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A%281%29Norman_Lindsay_Gallery_060.jpg) |
 | Burketown | www.gondwananet.com | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABurketown-pub-gulf-savannah-queensland-australia.jpg) |
+| Henderson, Auckland | Prosperosity | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AHenderson%27s_Mill_20250411_122230.jpg) |
+| Hongoeka Bay | AxonsArachnida | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AHongoeka_Bay.jpg) |
+| Te Kūiti | Ulrich Lange, Bochum, Germany | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ATe_Kuiti%2C_Rora_Street%2C_New_Zealand.jpg) |
+| Coromandel Peninsula | W. Bulach | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A00_23_1006_Coromandel_Peninsula%2C_NZ_-_Coromandel%2C_McGregor_Bay.jpg) |
+| Christchurch | Michal Klajban | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AAvon_River%2C_Christchurch%2C_New_Zealand_01.jpg) |
+| Wellington | Wainuiomartian | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AWellington_Harbour_from_Te_Ara_Tupua.jpg) |
+| Lake Pupuke | Bjankuloski06 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABay_in_Lake_Pupuke_facing_Rangitoto_Channel.jpg) |
+| Bishopdale, Christchurch | Michal Klajban | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABishopdale_Seventh-day_Adventist_Church%2C_Christchurch%2C_New_Zealand_02.jpg) |

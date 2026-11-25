@@ -62,10 +62,10 @@
     "A4",
     "C"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "plumb",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "专家榜第 1；詹姆斯·泰特·布莱克奖；不在 D 前 2000 · Goodreads 564"
+   "note": "专家榜第 1；詹姆斯·泰特·布莱克奖；不在 D 前 2000 · Goodreads 564；核地点：三部曲大部分以西奥克兰亨德森为背景（书中的卢米斯），一家人住的“和平居”在那里；挂亨德森（原型）"
   },
   {
    "title": "Autobiography: To the Is-Land / An Angel at My Table",
@@ -84,10 +84,10 @@
     "A3",
     "A4"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "frame-autobiography",
+   "decision": "保留",
    "first_draft": "新增（替换 Owls Do Cry）",
-   "note": "三卷自传按一部算，每份名单取最高；奥马鲁、达尼丁、锡克利夫医院；不在 D 前 2000 · Goodreads 3,161"
+   "note": "三卷自传按一部算，每份名单取最高；奥马鲁、达尼丁、锡克利夫医院；不在 D 前 2000 · Goodreads 3,161；核地点：挂在已有的奥马鲁（伊登街五十六号）"
   },
   {
    "title": "Once Were Warriors",
@@ -106,10 +106,10 @@
     "A3",
     "A4"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "once-were-warriors",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "虚构的 Pine Block 国宅区，需找挂靠依据；不在 D 前 2000 · Goodreads 4,076"
+   "note": "虚构的 Pine Block 国宅区，不在 D 前 2000 · Goodreads 4,076；核地点：松林街区是罗托鲁阿福德兰兹的化身（Te Ara；达夫本人也这样说），挂福德兰兹（原型）"
   },
   {
    "title": "The Luminaries",
@@ -152,10 +152,10 @@
     "A4",
     "C"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "potiki",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "新西兰图书奖 1987；虚构海边社区，需找挂靠依据；不在 D 前 2000 · Goodreads 2,715"
+   "note": "新西兰图书奖 1987；虚构海边社区，不在 D 前 2000 · Goodreads 2,715；核地点：维基百科：社区很像格雷斯的家乡洪戈埃卡，挂洪戈埃卡湾（原型）"
   },
   {
    "title": "Can You Tolerate This?",
@@ -172,10 +172,10 @@
     "A3",
     "A4"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "can-you-tolerate-this",
+   "decision": "保留",
    "first_draft": "新增（待核实地点）",
-   "note": "散文集，温斯顿奖；需确认写到的真实地点；不在 D 前 2000 · Goodreads 808"
+   "note": "散文集，温德姆-坎贝尔奖；不在 D 前 2000 · Goodreads 808；核地点：蒂库伊蒂，扬长大的地方，散文《蒂库伊蒂地下》"
   },
   {
    "title": "Smith's Dream",
@@ -192,10 +192,10 @@
     "A3",
     "A4"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "smiths-dream",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "近未来新西兰，科罗曼德尔半岛；不在 D 前 2000 · Goodreads 197"
+   "note": "近未来新西兰，科罗曼德尔半岛；不在 D 前 2000 · Goodreads 197；核地点：史密斯独居在科罗曼德尔外海的小岛，挂科罗曼德尔半岛"
   },
   {
    "title": "Other Halves",
@@ -212,10 +212,10 @@
     "A4",
     "C"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "other-halves",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "奥克兰；Wattie 奖；不在 D 前 2000 · Goodreads 110"
+   "note": "Wattie 奖；不在 D 前 2000 · Goodreads 110；核地点：书里的城市没能对照原文核实：一位读者的书评说开篇是 70 年代的克赖斯特彻奇，1984 年电影放在奥克兰；挂克赖斯特彻奇市中心点，说明里已写明"
   },
   {
    "title": "The 10pm Question",
@@ -230,10 +230,10 @@
     "A2",
     "A3"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "the-10pm-question",
+   "decision": "保留",
    "first_draft": "不收",
-   "note": "不在 D 前 2000 · Goodreads 3,266"
+   "note": "不在 D 前 2000 · Goodreads 3,266；核地点：书里没写城市名；德戈尔迪说她的小说都设在克赖斯特彻奇，挂克赖斯特彻奇市中心点，说明里已写明"
   },
   {
    "title": "Pounamu Pounamu",
@@ -248,10 +248,10 @@
     "A2",
     "A4"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "pounamu-pounamu",
+   "decision": "保留",
    "first_draft": "不收（见名额说明②）",
-   "note": "不在 D 前 2000 · Goodreads 890"
+   "note": "不在 D 前 2000 · Goodreads 890；核地点：怀图希，伊希马埃拉在故事里按想象重建的家乡（原型）"
   },
   {
    "title": "Tu",
@@ -266,10 +266,10 @@
     "A1",
     "A4"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "tu-grace",
+   "decision": "保留",
    "first_draft": "不收",
-   "note": "格雷斯第二本；不在 D 前 2000 · Goodreads 578"
+   "note": "格雷斯第二本；不在 D 前 2000 · Goodreads 578；核地点：一家人搬去的惠灵顿（市中心点）"
   },
   {
    "title": "Season of the Jew",
@@ -282,10 +282,10 @@
    "cats": [
     "A1"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "season-of-the-jew",
+   "decision": "保留",
    "first_draft": "不收",
-   "note": "不在 D 前 2000 · Goodreads 283"
+   "note": "不在 D 前 2000 · Goodreads 283；核地点：马塔怀罗，1868 年 11 月 10 日特库蒂袭击的地方，小说从这一天讲起；英文维基没有条目，坐标取自维基数据"
   },
   {
    "title": "Under the Mountain",
@@ -298,10 +298,10 @@
    "cats": [
     "A1"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "under-the-mountain",
+   "decision": "保留",
    "first_draft": "不收",
-   "note": "吉第二本；不在 D 前 2000 · Goodreads 1,440"
+   "note": "吉第二本；不在 D 前 2000 · Goodreads 1,440；核地点：普普克湖，双胞胎暑假住的地方"
   },
   {
    "title": "The Garden Party, and Other Stories",
@@ -354,10 +354,10 @@
     "A1",
     "C"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "the-changeover",
+   "decision": "保留",
    "first_draft": "不收",
-   "note": "不在 D 前 2000 · Goodreads 4,301"
+   "note": "不在 D 前 2000 · Goodreads 4,301；核地点：花园谷是马希给克赖斯特彻奇毕晓普代尔起的名字，挂毕晓普代尔（原型）"
   },
   {
    "title": "Owls Do Cry",

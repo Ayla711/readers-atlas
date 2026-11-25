@@ -1,0 +1,68 @@
+{
+ "nz-henderson": {
+  "lat": -36.8811,
+  "lon": 174.6312,
+  "st": "en.wikipedia \"Henderson, New Zealand\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Henderson%2C_New_Zealand"
+ },
+ "nz-fordlands": {
+  "lat": -38.145,
+  "lon": 176.224,
+  "st": "en.wikipedia \"Fordlands\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Fordlands"
+ },
+ "nz-hongoeka": {
+  "lat": -41.06614722,
+  "lon": 174.85154167,
+  "st": "en.wikipedia \"Hongoeka\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Hongoeka"
+ },
+ "nz-te-kuiti": {
+  "lat": -38.33333333,
+  "lon": 175.16666667,
+  "st": "en.wikipedia \"Te Kūiti\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Te_K%C5%ABiti"
+ },
+ "nz-coromandel": {
+  "lat": -36.83333333,
+  "lon": 175.58333333,
+  "st": "en.wikipedia \"Coromandel Peninsula\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Coromandel_Peninsula"
+ },
+ "nz-christchurch": {
+  "lat": -43.5311,
+  "lon": 172.6361,
+  "st": "en.wikipedia \"Christchurch\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Christchurch"
+ },
+ "nz-waituhi": {
+  "lat": -38.58333333,
+  "lon": 177.9,
+  "st": "en.wikipedia \"Waituhi\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Waituhi"
+ },
+ "nz-wellington": {
+  "lat": -41.28888889,
+  "lon": 174.77722222,
+  "st": "en.wikipedia \"Wellington\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Wellington"
+ },
+ "nz-matawhero": {
+  "lat": -38.658,
+  "lon": 177.949,
+  "st": "wikidata Q25660807 \"Matawhero\" (locality in Gisborne District) coordinates; no en.wikipedia article, and the mi.wikipedia article has no coordinates",
+  "su": "https://www.wikidata.org/wiki/Q25660807"
+ },
+ "nz-lake-pupuke": {
+  "lat": -36.780115,
+  "lon": 174.766184,
+  "st": "en.wikipedia \"Lake Pupuke\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Lake_Pupuke"
+ },
+ "nz-bishopdale": {
+  "lat": -43.489,
+  "lon": 172.5857,
+  "st": "en.wikipedia \"Bishopdale, Christchurch\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Bishopdale%2C_Christchurch"
+ }
+}
