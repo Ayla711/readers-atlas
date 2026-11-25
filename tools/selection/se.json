@@ -172,8 +172,8 @@
     "E",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "laughing-policeman",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "斯德哥尔摩；D 1237 · Goodreads 11,192"
   },
@@ -190,8 +190,8 @@
     "A1",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "christmas-oratorio",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "韦姆兰松讷；D 1076 · Goodreads 1,526"
   },
@@ -208,10 +208,10 @@
     "A1",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "flowering-nettle",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "布莱金厄；D 1737 · Goodreads 1,614"
+   "note": "布莱金厄；D 1737 · Goodreads 1,614；核地点：挂在马丁松出生的耶姆舍格教区"
   },
   {
    "title": "City of My Dreams (Stockholm series)",
@@ -226,8 +226,8 @@
     "A1",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "city-of-my-dreams",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "斯德哥尔摩南岛；不在 D 前 2000 · Goodreads 10,304"
   },

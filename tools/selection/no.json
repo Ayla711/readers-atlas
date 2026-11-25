@@ -97,10 +97,10 @@
     "E",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
-   "first_draft": "新增（待挂靠）",
-   "note": "书里的小镇没写地名；D 1795 · Goodreads 294,583"
+   "in_app": "sophies-world",
+   "decision": "保留",
+   "first_draft": "新增",
+   "note": "D 1795 · Goodreads 294,583；核地点：希尔德的家在利勒桑"
   },
   {
    "title": "My Struggle",
@@ -135,8 +135,8 @@
     "A1",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "the-redbreast",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "奥斯陆；不在 D 前 2000 · Goodreads 113,387"
   },
@@ -153,10 +153,10 @@
     "A1",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "out-stealing-horses",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "挪威东部、瑞典边境；不在 D 前 2000 · Goodreads 39,262"
+   "note": "挪威东部、瑞典边境；不在 D 前 2000 · Goodreads 39,262；核地点：书里没写地名，挂在 2019 年电影的取景地特吕西尔（取景地不挂摘句，书的概述写在取景地说明里）"
   },
   {
    "title": "The Ice Palace",
@@ -191,8 +191,8 @@
     "A2",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "alberta-trilogy",
+   "decision": "保留",
    "first_draft": "新增",
    "note": "特罗姆瑟；正典选的是第二部《阿尔贝塔与自由》；D 1481 · Goodreads 994"
   },
@@ -209,10 +209,10 @@
     "A1",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "house-blind-glass-windows",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "韦斯特罗伦；D 1941 · Goodreads 1,690"
+   "note": "韦斯特罗伦；D 1941 · Goodreads 1,690；核地点：小地方没写名字，挂在瓦斯莫出生地韦斯特罗伦的米勒"
   },
   {
    "title": "Pan",
@@ -379,10 +379,10 @@
     "A2",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
-   "first_draft": "",
-   "note": "汉姆生；D 1800；Goodreads 8,685；书里的海边小镇没写地名，地点待查"
+   "in_app": "mysteries-hamsun",
+   "decision": "保留",
+   "first_draft": "新增",
+   "note": "汉姆生；D 1800；Goodreads 8,685；书里的海边小镇没写地名；核地点：小城没写名字，挂在利勒桑（当地传说汉姆生部分书稿写于诺格酒店）"
   },
   {
    "title": "The Birds (Fuglane)",

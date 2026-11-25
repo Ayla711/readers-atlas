@@ -23,12 +23,12 @@
 | 5 | Gösta Berling's Saga | Selma Lagerlöf | 本国 | A1+3 A2+3 D+1 | 7 | 3 | 是 | 保留 | 待定 | 拉格洛夫第二本；D 1034 · Goodreads 7,159 |
 | 6 | Doctor Glas | Hjalmar Söderberg | 本国 | A1+3 D+1 E+1 | 5 | 3 | 是 | 保留 | 保留 | D 1732 · Goodreads 19,422 |
 | 7 | Faceless Killers | Henning Mankell | 本国 | A1+3 D+1 E+1 | 5 | 3 | 是 | 保留 | 保留 | D 1416 · Goodreads 81,429 |
-| 8 | The Laughing Policeman | Sjöwall & Wahlöö | 本国 | A1+3 D+1 E+1 | 5 | 3 |  | 新增 | 新增 | 斯德哥尔摩；D 1237 · Goodreads 11,192 |
+| 8 | The Laughing Policeman | Sjöwall & Wahlöö | 本国 | A1+3 D+1 E+1 | 5 | 3 | 是 | 保留 | 新增 | 斯德哥尔摩；D 1237 · Goodreads 11,192 |
 | 9 | The Girl with the Dragon Tattoo | Stieg Larsson | 本国 | A1+3 E+3 | 6 | 2 | 是 | 保留 | 保留 | 不在 D 前 2000 · Goodreads 3,547,740 |
 | 10 | The Red Room | August Strindberg | 本国 | A1+3 D+1 | 4 | 2 | 是 | 保留 | 保留 | D 512 · Goodreads 4,780 |
-| 11 | The Christmas Oratorio | Göran Tunström | 本国 | A1+3 D+1 | 4 | 2 |  | 新增 | 新增 | 韦姆兰松讷；D 1076 · Goodreads 1,526 |
-| 12 | Flowering Nettle | Harry Martinson | 本国 | A1+3 D+1 | 4 | 2 |  | 新增 | 新增 | 布莱金厄；D 1737 · Goodreads 1,614 |
-| 13 | City of My Dreams (Stockholm series) | Per Anders Fogelström | 本国 | A1+3 E+1 | 4 | 2 |  | 新增 | 新增 | 斯德哥尔摩南岛；不在 D 前 2000 · Goodreads 10,304 |
+| 11 | The Christmas Oratorio | Göran Tunström | 本国 | A1+3 D+1 | 4 | 2 | 是 | 保留 | 新增 | 韦姆兰松讷；D 1076 · Goodreads 1,526 |
+| 12 | Flowering Nettle | Harry Martinson | 本国 | A1+3 D+1 | 4 | 2 | 是 | 保留 | 新增 | 布莱金厄；D 1737 · Goodreads 1,614；核地点：挂在马丁松出生的耶姆舍格教区 |
+| 13 | City of My Dreams (Stockholm series) | Per Anders Fogelström | 本国 | A1+3 E+1 | 4 | 2 | 是 | 保留 | 新增 | 斯德哥尔摩南岛；不在 D 前 2000 · Goodreads 10,304 |
 | 14 | The People of Hemsö | August Strindberg | 本国 | A1+3 D+1 | 4 | 2 | 是 | 保留 | 待定 | D 1482 · Goodreads 3,287 |
 | 15 | A Man Called Ove | Fredrik Backman | 本国 | E+3 | 3 | 1 |  | 不收 | 不收 | 不在 D 前 2000 · Goodreads 1,299,928 |
 | 16 | Sara Videbeck (Det går an) | C. J. L. Almqvist | 本国 | A2+3 | 3 | 1 | 是 | 保留（只有一类证据） | 删除 | 不在 D 前 2000；Goodreads 2,659 |

@@ -19,18 +19,18 @@
 | 1 | Kristin Lavransdatter | Sigrid Undset | 本国 | A1+3 N+1 A2+3 D+2 E+1 | 10 | 5 | 是 | 保留 | 保留 | 正典选的是第一部《花冠》；D 292 · Goodreads 15,823 |
 | 2 | Hunger | Knut Hamsun | 本国 | A1+3 BK+3 N+1 D+2 E+1 | 10 | 4 | 是 | 保留 | 保留 | D 214 · Goodreads 69,715 |
 | 3 | A Doll's House | Henrik Ibsen | 本国 | A1+3 BK+3 D+2 E+2 | 10 | 3 | 是 | 保留 | 新增（待挂靠） | D 412 · Goodreads 171,951 |
-| 4 | The Alberta Trilogy | Cora Sandel | 本国 | A1+3 A2+3 D+1 | 7 | 3 |  | 新增 | 新增 | 特罗姆瑟；正典选的是第二部《阿尔贝塔与自由》；D 1481 · Goodreads 994 |
-| 5 | Sophie's World | Jostein Gaarder | 本国 | A1+3 D+1 E+2 | 6 | 3 |  | 新增 | 新增（待挂靠） | 书里的小镇没写地名；D 1795 · Goodreads 294,583 |
+| 4 | The Alberta Trilogy | Cora Sandel | 本国 | A1+3 A2+3 D+1 | 7 | 3 | 是 | 保留 | 新增 | 特罗姆瑟；正典选的是第二部《阿尔贝塔与自由》；D 1481 · Goodreads 994 |
+| 5 | Sophie's World | Jostein Gaarder | 本国 | A1+3 D+1 E+2 | 6 | 3 | 是 | 保留 | 新增 | D 1795 · Goodreads 294,583；核地点：希尔德的家在利勒桑 |
 | 6 | My Struggle | Karl Ove Knausgård | 本国 | A1+3 D+1 E+1 | 5 | 3 | 是 | 保留 | 保留 | D 886 · Goodreads 52,935 |
 | 7 | Pan | Knut Hamsun | 本国 | A1+3 D+1 E+1 | 5 | 3 | 是 | 保留 | 待定 | D 1571 · Goodreads 13,144 |
 | 8 | Growth of the Soil | Knut Hamsun | 本国 | A1+3 D+1 E+1 | 5 | 3 | 是 | 保留 | 不收 | 汉姆生第三本；D 572 · Goodreads 15,075 |
 | 9 | Peer Gynt | Henrik Ibsen | 本国 | A1+3 A2+3 | 6 | 2 | 是 | 保留 | 待定 | 易卜生第二本；不在 D 前 2000；Goodreads 9,946 |
-| 10 | The Redbreast | Jo Nesbø | 本国 | A1+3 E+2 | 5 | 2 |  | 新增 | 新增 | 奥斯陆；不在 D 前 2000 · Goodreads 113,387 |
-| 11 | Out Stealing Horses | Per Petterson | 本国 | A1+3 E+1 | 4 | 2 |  | 新增 | 新增 | 挪威东部、瑞典边境；不在 D 前 2000 · Goodreads 39,262 |
+| 10 | The Redbreast | Jo Nesbø | 本国 | A1+3 E+2 | 5 | 2 | 是 | 保留 | 新增 | 奥斯陆；不在 D 前 2000 · Goodreads 113,387 |
+| 11 | Out Stealing Horses | Per Petterson | 本国 | A1+3 E+1 | 4 | 2 | 是 | 保留 | 新增 | 挪威东部、瑞典边境；不在 D 前 2000 · Goodreads 39,262；核地点：书里没写地名，挂在 2019 年电影的取景地特吕西尔（取景地不挂摘句，书的概述写在取景地说明里） |
 | 12 | The Ice Palace | Tarjei Vesaas | 本国 | A1+3 E+1 | 4 | 2 | 是 | 保留 | 新增 | 泰勒马克；不在 D 前 2000 · Goodreads 16,593 |
-| 13 | The House with the Blind Glass Windows | Herbjørg Wassmo | 本国 | A1+3 D+1 | 4 | 2 |  | 新增 | 新增 | 韦斯特罗伦；D 1941 · Goodreads 1,690 |
+| 13 | The House with the Blind Glass Windows | Herbjørg Wassmo | 本国 | A1+3 D+1 | 4 | 2 | 是 | 保留 | 新增 | 韦斯特罗伦；D 1941 · Goodreads 1,690；核地点：小地方没写名字，挂在瓦斯莫出生地韦斯特罗伦的米勒 |
 | 14 | A Shining | Jon Fosse | 本国 | A1+3 E+1 | 4 | 2 |  | 不收 | 不收 | 没有真实地点；不在 D 前 2000 · Goodreads 15,352 |
-| 15 | Mysteries | Knut Hamsun | 本国 | A2+3 D+1 | 4 | 2 |  | 新增 |  | 汉姆生；D 1800；Goodreads 8,685；书里的海边小镇没写地名，地点待查 |
+| 15 | Mysteries | Knut Hamsun | 本国 | A2+3 D+1 | 4 | 2 | 是 | 保留 | 新增 | 汉姆生；D 1800；Goodreads 8,685；书里的海边小镇没写地名；核地点：小城没写名字，挂在利勒桑（当地传说汉姆生部分书稿写于诺格酒店） |
 | 16 | The Birds (Fuglane) | Tarjei Vesaas | 本国 | A2+3 | 3 | 1 |  | 不收 |  | Goodreads 9,419；不在 D 前 2000 |
 | 17 | The District Governor's Daughters | Camilla Collett | 本国 | A2+3 | 3 | 1 | 是 | 保留（只有一类证据） |  | Goodreads 836 |
 | 18 | Norwegian Folk Tales | Asbjørnsen & Moe | 本国 | A2+3 | 3 | 1 |  | 不收 |  | Goodreads 1,037 |

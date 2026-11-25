@@ -17,9 +17,9 @@
 | 1 | Steppenwolf | Hermann Hesse | 本国（入籍瑞士） | A1+3 D+2 E+2 | 7 | 3 | 是 | 保留 | 新增（待挂靠） | 书里的城市以巴塞尔为原型；D 162 · Goodreads 230,046 |
 | 2 | Heidi | Johanna Spyri | 本国 | A1+3 D+1 E+2 | 6 | 3 | 是 | 保留 | 保留 | D 839 · Goodreads 216,602 |
 | 3 | The Judge and His Hangman | Friedrich Dürrenmatt | 本国 | A1+3 D+1 E+1 | 5 | 3 | 是 | 保留 | 保留 | D 973 · Goodreads 19,142 |
-| 4 | The Pledge | Friedrich Dürrenmatt | 本国 | A1+3 D+1 E+1 | 5 | 3 |  | 新增 |  | 迪伦马特第二本；苏黎世州、格劳宾登；D 1613 · Goodreads 12,453 |
-| 5 | I'm Not Stiller | Max Frisch | 本国 | A1+3 D+2 | 5 | 2 |  | 新增 | 新增 | 苏黎世；D 433 · Goodreads 6,227 |
-| 6 | Belle du Seigneur | Albert Cohen | 本国 | A1+3 D+2 | 5 | 2 |  | 新增 | 新增 | 日内瓦；D 484 · Goodreads 4,487 |
+| 4 | The Pledge | Friedrich Dürrenmatt | 本国 | A1+3 D+1 E+1 | 5 | 3 | 是 | 保留 | 新增 | 迪伦马特第二本；苏黎世州、格劳宾登；D 1613 · Goodreads 12,453；核地点：麦根村是虚构的，挂在框架故事开始的库尔 |
+| 5 | I'm Not Stiller | Max Frisch | 本国 | A1+3 D+2 | 5 | 2 | 是 | 保留 | 新增 | 苏黎世；D 433 · Goodreads 6,227 |
+| 6 | Belle du Seigneur | Albert Cohen | 本国 | A1+3 D+2 | 5 | 2 | 是 | 保留 | 新增 | 日内瓦；D 484 · Goodreads 4,487 |
 | 7 | Green Henry | Gottfried Keller | 本国 | A1+3 D+1 | 4 | 2 | 是 | 保留 | 新增 | 苏黎世、格拉特费尔登；D 588 · Goodreads 558 |
 | 8 | The Black Spider | Jeremias Gotthelf | 本国 | A1+3 D+1 | 4 | 2 | 是 | 保留 | 保留 | D 838 · Goodreads 5,254 |
 | 9 | Julie, or the New Heloise | Jean-Jacques Rousseau | 本国 | A1+3 D+1 | 4 | 2 | 是 | 保留 | 新增（替换《遐想》） | 克拉朗、沃韦；D 972 · Goodreads 1,809 |

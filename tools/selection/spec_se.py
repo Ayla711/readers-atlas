@@ -20,7 +20,7 @@ rows=[
 ("The Red Room","August Strindberg","本国",{"A1": 3, "D": 1},"保留","D 512 · Goodreads 4,780"),
 ("The Laughing Policeman","Sjöwall & Wahlöö","本国",{"A1": 3, "D": 1, "E": 1},"新增","斯德哥尔摩；D 1237 · Goodreads 11,192"),
 ("The Christmas Oratorio","Göran Tunström","本国",{"A1": 3, "D": 1},"新增","韦姆兰松讷；D 1076 · Goodreads 1,526"),
-("Flowering Nettle","Harry Martinson","本国",{"A1": 3, "D": 1},"新增","布莱金厄；D 1737 · Goodreads 1,614"),
+("Flowering Nettle","Harry Martinson","本国",{"A1": 3, "D": 1},"新增","布莱金厄；D 1737 · Goodreads 1,614；核地点：挂在马丁松出生的耶姆舍格教区"),
 ("City of My Dreams (Stockholm series)","Per Anders Fogelström","本国",{"A1": 3, "E": 1},"新增","斯德哥尔摩南岛；不在 D 前 2000 · Goodreads 10,304"),
 ("The People of Hemsö","August Strindberg","本国",{"A1": 3, "D": 1},"待定","D 1482 · Goodreads 3,287"),
 ("Gösta Berling's Saga","Selma Lagerlöf","本国",{"A1": 3, "A2": 3, "D": 1},"待定","拉格洛夫第二本；D 1034 · Goodreads 7,159"),

@@ -1954,6 +1954,36 @@
    ]
   },
   {
+   "id": "the-pledge",
+   "title": "The Pledge",
+   "author": "Friedrich Dürrenmatt",
+   "home": "ch",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "im-not-stiller",
+   "title": "I'm Not Stiller",
+   "author": "Max Frisch",
+   "home": "ch",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "belle-du-seigneur",
+   "title": "Belle du Seigneur",
+   "author": "Albert Cohen",
+   "home": "ch",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
    "id": "pt-childe-harold",
    "title": "Childe Harold's Pilgrimage",
    "author": "Lord Byron",
@@ -5063,6 +5093,17 @@
    "home": "dk",
    "via": [
     "book",
+    "line"
+   ]
+  },
+  {
+   "id": "winters-tales",
+   "title": "Winter's Tales",
+   "author": "Karen Blixen",
+   "home": "dk",
+   "via": [
+    "book",
+    "house",
     "line"
    ]
   },
@@ -10673,6 +10714,66 @@
    ]
   },
   {
+   "id": "alberta-trilogy",
+   "title": "The Alberta Trilogy",
+   "author": "Cora Sandel",
+   "home": "no",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "sophies-world",
+   "title": "Sophie's World",
+   "author": "Jostein Gaarder",
+   "home": "no",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "the-redbreast",
+   "title": "The Redbreast",
+   "author": "Jo Nesbø",
+   "home": "no",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "out-stealing-horses",
+   "title": "Out Stealing Horses",
+   "author": "Per Petterson",
+   "home": "no",
+   "via": [
+    "book",
+    "house"
+   ]
+  },
+  {
+   "id": "house-blind-glass-windows",
+   "title": "The House with the Blind Glass Windows",
+   "author": "Herbjørg Wassmo",
+   "home": "no",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "mysteries-hamsun",
+   "title": "Mysteries",
+   "author": "Knut Hamsun",
+   "home": "no",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
    "id": "jeppe-on-the-hill",
    "title": "Jeppe on the Hill",
    "author": "Ludvig Holberg",
@@ -14338,6 +14439,46 @@
    "via": [
     "book",
     "house"
+   ]
+  },
+  {
+   "id": "laughing-policeman",
+   "title": "The Laughing Policeman",
+   "author": "Maj Sjöwall and Per Wahlöö",
+   "home": "se",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "christmas-oratorio",
+   "title": "The Christmas Oratorio",
+   "author": "Göran Tunström",
+   "home": "se",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "flowering-nettle",
+   "title": "Flowering Nettle",
+   "author": "Harry Martinson",
+   "home": "se",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "city-of-my-dreams",
+   "title": "City of My Dreams",
+   "author": "Per Anders Fogelström",
+   "home": "se",
+   "via": [
+    "book",
+    "line"
    ]
   }
  ],

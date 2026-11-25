@@ -24,7 +24,7 @@
 | 7 | The Rector of Veilbye | Steen Steensen Blicher | 本国 | A1+4 | 4 | 1 | 是 | 保留 | 新增（替换《教区执事日记》） | 维尔比；不在 D 前 2000 · Goodreads 204 |
 | 8 | Ved Vejen (By the Wayside) | Herman Bang | 本国 | A1+4 | 4 | 1 | 是 | 保留 | 新增（替换《蒂娜》，待挂靠） | 不在 D 前 2000 · Goodreads 1,614 |
 | 9 | Jammers Minde (Memoirs) | Leonora Christina | 本国 | A1+4 | 4 | 1 | 是 | 保留 | 新增 | 哥本哈根城堡蓝塔；不在 D 前 2000 · Goodreads 292 |
-| 10 | Winter's Tales | Karen Blixen | 本国 | A1+4 | 4 | 1 |  | 新增 | 新增（地点待查） | 布里克森在丹麦的书；地点待查；不在 D 前 2000 · Goodreads 2,666；核地点：《悲伤田》的庄园没有名字，传说出自哪里没有核实到 |
+| 10 | Winter's Tales | Karen Blixen | 本国 | A1+4 | 4 | 1 | 是 | 保留 | 新增 | 布里克森在丹麦的书；不在 D 前 2000 · Goodreads 2,666；核地点：《悲伤田》的庄园没有名字，传说出自哪里没有核实到；核地点：挂在伦斯泰德隆德（布里克森出生、居住的地方，集子写于占领期间） |
 | 11 | The Copenhagen Trilogy | Tove Ditlevsen | 本国 | E+1 | 1 | 1 | 是 | 保留（只有一类证据） | 删除（见名额说明③） | 不在 D 前 2000；Goodreads 28,084 |
 | 12 | We, the Drowned | Carsten Jensen | 本国 | E+1 | 1 | 1 | 是 | 保留（只有一类证据） | 删除（见名额说明③） | 不在 D 前 2000；Goodreads 12,987 |
 | 13 | Pelle the Conqueror | Martin Andersen Nexø | 本国 | D+1 | 1 | 1 | 是 | 保留（只有一类证据） | 删除 | D 1479；Goodreads 324 |

@@ -31,7 +31,7 @@ rows=[
 ("Lucerne","Leo Tolstoy","外国",{},"删除（零项，用户同意删）","不在 D 前 2000；Goodreads 160"),
 ("On the Lake","J. W. von Goethe","外国",{},"删除（零项，用户同意删）","歌德的诗《湖上》（苏黎世湖）；不在 D 前 2000 · Goodreads 查不到单独条目（只有 2 人的德文本）"),
 ("Stranger in the Village","James Baldwin","外国",{"E": 1},"保留","不在 D 前 2000；Goodreads 163（单篇条目）；按所在集子计：《土生子札记》Goodreads 26,150"),
-("The Pledge","Friedrich Dürrenmatt","本国",{"A1": 3, "D": 1, "E": 1},"","迪伦马特第二本；苏黎世州、格劳宾登；D 1613 · Goodreads 12,453"),
+("The Pledge","Friedrich Dürrenmatt","本国",{"A1": 3, "D": 1, "E": 1},"新增","迪伦马特第二本；苏黎世州、格劳宾登；D 1613 · Goodreads 12,453；核地点：麦根村是虚构的，挂在框架故事开始的库尔"),
 ("The Visit","Friedrich Dürrenmatt","本国",{"A1": 3, "E": 1},"不收（没有真实地点）","居伦镇是虚构的；不在 D 前 2000 · Goodreads 41,778"),
 ("The Physicists","Friedrich Dürrenmatt","本国",{"A1": 3, "E": 1},"不收（没有真实地点）","疗养院是虚构的；不在 D 前 2000 · Goodreads 46,886"),
 ("Homo Faber","Max Frisch","本国（写美洲、欧洲）",{"A1": 3, "D": 1, "E": 1},"不算瑞士","故事不在瑞士；D 857 · Goodreads 33,585"),
