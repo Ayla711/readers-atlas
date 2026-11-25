@@ -5604,6 +5604,206 @@
    ]
   },
   {
+   "id": "zayni-barakat",
+   "title": "Zayni Barakat",
+   "author": "Gamal al-Ghitani",
+   "home": "eg",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "children-of-the-alley",
+   "title": "Children of the Alley",
+   "author": "Naguib Mahfouz",
+   "home": "eg",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "return-of-the-spirit",
+   "title": "Return of the Spirit",
+   "author": "Tawfiq al-Hakim",
+   "home": "eg",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "azazeel",
+   "title": "Azazeel",
+   "author": "Youssef Ziedan",
+   "home": "eg",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "woman-at-point-zero",
+   "title": "Woman at Point Zero",
+   "author": "Nawal El Saadawi",
+   "home": "eg",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "rama-and-the-dragon",
+   "title": "Rama and the Dragon",
+   "author": "Edwar al-Kharrat",
+   "home": "eg",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "no-one-sleeps-in-alexandria",
+   "title": "No One Sleeps in Alexandria",
+   "author": "Ibrahim Abdel Meguid",
+   "home": "eg",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "seeds-of-corruption",
+   "title": "Seeds of Corruption",
+   "author": "Sabri Moussa",
+   "home": "eg",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "the-heron",
+   "title": "The Heron",
+   "author": "Ibrahim Aslan",
+   "home": "eg",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "lamp-of-umm-hashim",
+   "title": "The Lamp of Umm Hashim",
+   "author": "Yahya Haqqi",
+   "home": "eg",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "the-open-door",
+   "title": "The Open Door",
+   "author": "Latifa al-Zayyat",
+   "home": "eg",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "call-of-the-curlew",
+   "title": "The Call of the Curlew",
+   "author": "Taha Hussein",
+   "home": "eg",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "the-harafish",
+   "title": "The Harafish",
+   "author": "Naguib Mahfouz",
+   "home": "eg",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "thief-and-the-dogs",
+   "title": "The Thief and the Dogs",
+   "author": "Naguib Mahfouz",
+   "home": "eg",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "the-days-taha-hussein",
+   "title": "The Days",
+   "author": "Taha Hussein",
+   "home": "eg",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "sunset-oasis",
+   "title": "Sunset Oasis",
+   "author": "Bahaa Taher",
+   "home": "eg",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "sharaf-ibrahim",
+   "title": "Sharaf",
+   "author": "Sonallah Ibrahim",
+   "home": "eg",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "war-in-the-land-of-egypt",
+   "title": "War in the Land of Egypt",
+   "author": "Yusuf al-Qa'id",
+   "home": "eg",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "the-english-patient",
+   "title": "The English Patient",
+   "author": "Michael Ondaatje",
+   "home": "eg",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "the-egyptian-waltari",
+   "title": "The Egyptian",
+   "author": "Mika Waltari",
+   "home": "eg",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
    "id": "histories",
    "title": "The Histories",
    "author": "Herodotus",
@@ -5626,6 +5826,15 @@
    "title": "The Innocents Abroad",
    "author": "Mark Twain",
    "home": "it",
+   "via": [
+    "line"
+   ]
+  },
+  {
+   "id": "the-alchemist",
+   "title": "The Alchemist",
+   "author": "Paulo Coelho",
+   "home": "ma",
    "via": [
     "line"
    ]

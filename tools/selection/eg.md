@@ -19,33 +19,33 @@
 | # | 书 | 作者 | 类 | 明细 | 分 | 证据项 | 已在应用里 | 处理（v2） | v1 初稿（作废，仅供对照） | 说明 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | The Cairo Trilogy (Palace Walk) | Naguib Mahfouz | 本国 | A1+4 A2+4 A3+3 A4+4 N+1 D+1 E+1 | 18 | 7 | 是 | 保留 | 保留 | D 1079 · Goodreads 23,886 |
-| 2 | Zayni Barakat | Gamal al-Ghitani | 本国 | A1+3 A2+4 A4+3 | 10 | 3 |  | 新增 | 新增 | 马穆鲁克时代开罗；不在 D 前 2000 · Goodreads 3,876 |
-| 3 | Children of the Alley | Naguib Mahfouz | 本国 | A2+4 BK+3 D+1 E+1 | 9 | 3 |  | 新增 | 新增 | 虚构的开罗老街区，挂杰马利亚；D 1194 · Goodreads 33,035 |
-| 4 | Return of the Spirit | Tawfiq al-Hakim | 本国 | A1+3 A2+3 A3+3 | 9 | 3 |  | 新增 | 新增 | 开罗；不在 D 前 2000 · Goodreads 4,427 |
-| 5 | Azazeel | Youssef Ziedan | 本国 | A2+3 C+2 E+1 | 6 | 3 |  | 新增 | 新增 | 艾赫米姆、亚历山大；不在 D 前 2000 · Goodreads 52,747 |
+| 2 | Zayni Barakat | Gamal al-Ghitani | 本国 | A1+3 A2+4 A4+3 | 10 | 3 | 是 | 保留 | 新增 | 马穆鲁克时代开罗；不在 D 前 2000 · Goodreads 3,876；核地点：写整座马穆鲁克开罗的“城市小说”，没有单一地点；挂开罗市中心点 |
+| 3 | Children of the Alley | Naguib Mahfouz | 本国 | A2+4 BK+3 D+1 E+1 | 9 | 3 | 是 | 保留 | 新增 | 虚构的开罗老街区，挂杰马利亚；D 1194 · Goodreads 33,035；核地点：街区是虚构的，马哈福兹的小巷来自他出生的贾马利亚；挂在贾马利亚的马哈福兹博物馆（与《梅达格胡同》同一处） |
+| 4 | Return of the Spirit | Tawfiq al-Hakim | 本国 | A1+3 A2+3 A3+3 | 9 | 3 | 是 | 保留 | 新增 | 开罗；不在 D 前 2000 · Goodreads 4,427；核地点：主要在开罗的赛义达·宰娜卜区（林恩·林纳版），挂赛义达·宰娜卜清真寺 |
+| 5 | Azazeel | Youssef Ziedan | 本国 | A2+3 C+2 E+1 | 6 | 3 | 是 | 保留 | 新增 | 艾赫米姆、亚历山大；不在 D 前 2000 · Goodreads 52,747；核地点：希帕提娅在亚历山大被杀，挂亚历山大 |
 | 6 | Midaq Alley | Naguib Mahfouz | 本国 | A2+3 D+1 E+1 | 5 | 3 | 是 | 保留 | 保留 | Banipal 第 49；D 830 · Goodreads 14,242 |
-| 7 | Woman at Point Zero | Nawal El Saadawi | 本国 | A4+3 D+1 E+1 | 5 | 3 |  | 新增 | 新增 | 开罗卡纳蒂尔女子监狱；D 1195 · Goodreads 36,837 |
-| 8 | Rama and the Dragon | Edwar al-Kharrat | 本国 | A1+4 A2+4 | 8 | 2 |  | 新增 | 新增 | 亚历山大；不在 D 前 2000 · Goodreads 253 |
-| 9 | No One Sleeps in Alexandria | Ibrahim Abdel Meguid | 本国 | A1+3 A2+3 | 6 | 2 |  | 新增 | 新增 | 亚历山大；不在 D 前 2000 · Goodreads 4,473 |
-| 10 | Seeds of Corruption | Sabri Moussa | 本国 | A1+3 A2+3 | 6 | 2 |  | 新增 | 新增 | 地点待查；不在 D 前 2000 · Goodreads 1 |
-| 11 | The Heron | Ibrahim Aslan | 本国 | A1+3 A2+3 | 6 | 2 |  | 新增 | 新增 | 开罗因巴巴；不在 D 前 2000 · Goodreads 2,806 |
-| 12 | The Lamp of Umm Hashim | Yahya Haqqi | 本国 | A1+3 A2+3 | 6 | 2 |  | 新增 | 新增 | 开罗赛义达·宰娜卜清真寺；不在 D 前 2000 · Goodreads 5,861 |
-| 13 | The Open Door | Latifa al-Zayyat | 本国 | A1+3 A2+3 | 6 | 2 |  | 新增 | 新增 | 开罗、塞得港；不在 D 前 2000 · Goodreads 3,760 |
-| 14 | The Call of the Curlew | Taha Hussein | 本国 | A1+3 A3+3 | 6 | 2 |  | 新增 | 新增 | 上埃及乡村，地点待查；不在 D 前 2000 · Goodreads 6,301 |
-| 15 | The Harafish | Naguib Mahfouz | 本国 | A2+3 E+1 | 4 | 2 |  | 新增 | 新增 | Banipal 第 16；虚构街区；不在 D 前 2000 · Goodreads 21,768 |
-| 16 | The Thief and the Dogs | Naguib Mahfouz | 本国 | A2+3 E+1 | 4 | 2 |  | 新增 | 新增 | Banipal 第 34；开罗；不在 D 前 2000 · Goodreads 13,461 |
+| 7 | Woman at Point Zero | Nawal El Saadawi | 本国 | A4+3 D+1 E+1 | 5 | 3 | 是 | 保留 | 新增 | 开罗卡纳蒂尔女子监狱；D 1195 · Goodreads 36,837；核地点：盖纳提尔女子监狱（盖纳提尔监狱建筑群） |
+| 8 | Rama and the Dragon | Edwar al-Kharrat | 本国 | A1+4 A2+4 | 8 | 2 | 是 | 保留 | 新增 | 不在 D 前 2000 · Goodreads 253；核地点：找不到资料说明小说的具体背景地；挂在作者出生、长大的亚历山大，说明里已写明 |
+| 9 | No One Sleeps in Alexandria | Ibrahim Abdel Meguid | 本国 | A1+3 A2+3 | 6 | 2 | 是 | 保留 | 新增 | 亚历山大；不在 D 前 2000 · Goodreads 4,473；核地点：二战时的亚历山大（市中心点） |
+| 10 | Seeds of Corruption | Sabri Moussa | 本国 | A1+3 A2+3 | 6 | 2 | 是 | 保留 | 新增 | 不在 D 前 2000 · Goodreads 1；核地点：故事在东部沙漠靠近苏丹边境的达尔希卜山一带，但达尔希卜山查不到坐标；挂在启发这部小说的东部沙漠之旅经过的胡迈斯拉（沙兹利圣陵，坐标取自维基数据） |
+| 11 | The Heron | Ibrahim Aslan | 本国 | A1+3 A2+3 | 6 | 2 | 是 | 保留 | 新增 | 开罗因巴巴；不在 D 前 2000 · Goodreads 2,806；核地点：因巴巴的基特卡特街区（图钉标因巴巴） |
+| 12 | The Lamp of Umm Hashim | Yahya Haqqi | 本国 | A1+3 A2+3 | 6 | 2 | 是 | 保留 | 新增 | 开罗赛义达·宰娜卜清真寺；不在 D 前 2000 · Goodreads 5,861；核地点：赛义达·宰娜卜清真寺 |
+| 13 | The Open Door | Latifa al-Zayyat | 本国 | A1+3 A2+3 | 6 | 2 | 是 | 保留 | 新增 | 开罗、塞得港；不在 D 前 2000 · Goodreads 3,760；核地点：高潮在 1956 年的塞得港，挂塞得港 |
+| 14 | The Call of the Curlew | Taha Hussein | 本国 | A1+3 A3+3 | 6 | 2 | 是 | 保留 | 新增 | 不在 D 前 2000 · Goodreads 6,301；核地点：阿姆娜的村子贝尼·瓦尔坎没找到位置，小说背景是上埃及乡村；挂马加加（作者家乡村子附近），说明里已写明。塔哈·侯赛因博物馆原本想作朝圣地，但 Commons 上唯一的照片是从公司网站拷来的，没有可用的自由授权照片，没收 |
+| 15 | The Harafish | Naguib Mahfouz | 本国 | A2+3 E+1 | 4 | 2 | 是 | 保留 | 新增 | Banipal 第 16；虚构街区；不在 D 前 2000 · Goodreads 21,768；核地点：维基百科：书中既没写城市也没写年代；挂在贾马利亚的马哈福兹博物馆，说明里已写明 |
+| 16 | The Thief and the Dogs | Naguib Mahfouz | 本国 | A2+3 E+1 | 4 | 2 | 是 | 保留 | 新增 | Banipal 第 34；开罗；不在 D 前 2000 · Goodreads 13,461；核地点：在开罗各处走动，结尾在一片没有名字的墓地；挂开罗市中心点 |
 | 17 | The Yacoubian Building | Alaa Al Aswany | 本国 | A2+3 E+1 | 4 | 2 | 是 | 保留 | 保留 | Banipal 第 32；不在 D 前 2000 · Goodreads 24,108 |
-| 18 | The Days (al-Ayyam) | Taha Hussein | 本国 | B+2 E+1 | 3 | 2 |  | 新增 | 新增 | 明亚省家乡村庄、爱资哈尔；不在 D 前 2000 · Goodreads 12,094 |
-| 19 | Sunset Oasis | Bahaa Taher | 本国 | C+2 E+1 | 3 | 2 |  | 新增 | 新增 | 锡瓦绿洲；arablit 说它没进 Banipal 名单；不在 D 前 2000 · Goodreads 15,030 |
-| 20 | Sharaf (Honor) | Sonallah Ibrahim | 本国 | A1+4 | 4 | 1 |  | 新增 | 新增 | 监狱，地点待查；不在 D 前 2000 · Goodreads 2,262 |
-| 21 | War in the Land of Egypt | Yusuf al-Qa'id | 本国 | A1+4 | 4 | 1 |  | 新增 | 新增 | 地点待查；不在 D 前 2000 · Goodreads 1,136 |
+| 18 | The Days (al-Ayyam) | Taha Hussein | 本国 | B+2 E+1 | 3 | 2 | 是 | 保留 | 新增 | 明亚省家乡村庄、爱资哈尔；不在 D 前 2000 · Goodreads 12,094；核地点：马加加附近的基卢村，村子没有坐标，挂马加加 |
+| 19 | Sunset Oasis | Bahaa Taher | 本国 | C+2 E+1 | 3 | 2 | 是 | 保留 | 新增 | 锡瓦绿洲；arablit 说它没进 Banipal 名单；不在 D 前 2000 · Goodreads 15,030；核地点：锡瓦绿洲 |
+| 20 | Sharaf (Honor) | Sonallah Ibrahim | 本国 | A1+4 | 4 | 1 | 是 | 保留 | 新增 | 不在 D 前 2000 · Goodreads 2,262；核地点：书里的监狱没有名字；挂开罗市中心点 |
+| 21 | War in the Land of Egypt | Yusuf al-Qa'id | 本国 | A1+4 | 4 | 1 | 是 | 保留 | 新增 | 不在 D 前 2000 · Goodreads 1,136；核地点：村子没有名字，在三角洲城镇坦塔附近；挂坦塔 |
 | 22 | Zaat | Sonallah Ibrahim | 本国 | A2+3 | 3 | 1 |  | 不收 | 不收 | 不在 D 前 2000 · Goodreads 5,624 |
 | 23 | August Star | Sonallah Ibrahim | 本国 | A2+3 | 3 | 1 |  | 不收 | 不收 | 阿斯旺高坝；不在 D 前 2000 · Goodreads 237 |
 | 24 | Death on the Asphalt | Abd al-Rahman al-Abnudi | 本国 | A4+3 | 3 | 1 |  | 不收 | 不收 | 长诗；不在 D 前 2000 · Goodreads 834 |
-| 25 | The English Patient | Michael Ondaatje | 外国 | C+2 D+1 E+2 | 5 | 3 |  | 新增 | 新增 | 开罗、吉尔夫凯比尔；D 621 · Goodreads 143,328 |
-| 26 | The Alchemist | Paulo Coelho | 外国 | D+2 E+3 | 5 | 2 |  | 新增 | 新增 | 法尤姆、吉萨；D 416 · Goodreads 3,796,122 |
+| 25 | The English Patient | Michael Ondaatje | 外国 | C+2 D+1 E+2 | 5 | 3 | 是 | 保留 | 新增 | 开罗、吉尔夫凯比尔；D 621 · Goodreads 143,328；核地点：泳者洞，阿尔玛西把凯瑟琳留在那里 |
+| 26 | The Alchemist | Paulo Coelho | 外国 | D+2 E+3 | 5 | 2 | 是 | 保留 | 新增 | 法尤姆、吉萨；D 416 · Goodreads 3,796,122；核地点：书已在摩洛哥数据里（丹吉尔）；埃及这一条挂吉萨大金字塔，圣地亚哥在那里挖掘 |
 | 27 | The Alexandria Quartet | Lawrence Durrell | 外国 | D+2 E+1 | 3 | 2 | 是 | 保留 | 保留 | D 258 · Goodreads 12,367 |
-| 28 | The Egyptian | Mika Waltari | 外国 | D+1 E+1 | 2 | 2 |  | 新增 | 新增 | 古埃及底比斯；D 1178 · Goodreads 29,746 |
+| 28 | The Egyptian | Mika Waltari | 外国 | D+1 E+1 | 2 | 2 | 是 | 保留 | 新增 | 古埃及底比斯；D 1178 · Goodreads 29,746；核地点：底比斯（卢克索） |
 | 29 | Death on the Nile | Agatha Christie | 外国 | E+2 | 2 | 1 | 是 | 保留（只有一类证据） | 保留 | 阿斯旺老瀑布酒店；不在 D 前 2000；Goodreads 328,527 |
 | 30 | Joseph and His Brothers | Thomas Mann | 外国 | D+2 | 2 | 1 |  | 不收 | 不收 | D 479 · Goodreads 2,342 |
 | 31 | Ozymandias | Percy Bysshe Shelley | 外国 | B+2 | 2 | 1 | 是 | 保留（只有一类证据） | 保留 | 拉美西姆神庙；不在 D 前 2000；Goodreads 3,295 |

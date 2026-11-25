@@ -1,0 +1,68 @@
+{
+ "eg-sayyida-zaynab": {
+  "lat": 30.03166667,
+  "lon": 31.24194444,
+  "st": "en.wikipedia \"Sayyida Zainab Mosque, Cairo\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Sayyida_Zainab_Mosque%2C_Cairo"
+ },
+ "eg-cairo": {
+  "lat": 30.04444444,
+  "lon": 31.23583333,
+  "st": "en.wikipedia \"Cairo\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Cairo"
+ },
+ "eg-qanater-prison": {
+  "lat": 30.19361111,
+  "lon": 31.13194444,
+  "st": "en.wikipedia \"Qanater Prison Complex\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Qanater_Prison_Complex"
+ },
+ "eg-imbaba": {
+  "lat": 30.0925,
+  "lon": 31.20055556,
+  "st": "en.wikipedia \"Imbaba\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Imbaba"
+ },
+ "eg-port-said": {
+  "lat": 31.2625,
+  "lon": 32.30611111,
+  "st": "en.wikipedia \"Port Said\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Port_Said"
+ },
+ "eg-humaithara": {
+  "lat": 24.20073889,
+  "lon": 34.63564722,
+  "st": "wikidata Q12208913 \"Humaithara\" coordinates; the en.wikipedia article has none",
+  "su": "https://www.wikidata.org/wiki/Q12208913"
+ },
+ "eg-maghagha": {
+  "lat": 28.65,
+  "lon": 30.85,
+  "st": "en.wikipedia \"Maghagha\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Maghagha"
+ },
+ "eg-siwa": {
+  "lat": 29.20527778,
+  "lon": 25.51944444,
+  "st": "en.wikipedia \"Siwa Oasis\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Siwa_Oasis"
+ },
+ "eg-tanta": {
+  "lat": 30.78333333,
+  "lon": 31.0,
+  "st": "en.wikipedia \"Tanta\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Tanta"
+ },
+ "eg-thebes": {
+  "lat": 25.72055556,
+  "lon": 32.61027778,
+  "st": "en.wikipedia \"Thebes, Egypt\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Thebes%2C_Egypt"
+ },
+ "eg-cave-of-swimmers": {
+  "lat": 23.59471944,
+  "lon": 25.2335,
+  "st": "en.wikipedia \"Cave of Swimmers\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Cave_of_Swimmers"
+ }
+}

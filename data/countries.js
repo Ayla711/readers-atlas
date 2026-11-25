@@ -1300,7 +1300,8 @@ window.RA_COUNTRIES = [
   "open": true,
   "needs": [
    "it",
-   "gr"
+   "gr",
+   "ma"
   ]
  },
  {
@@ -1529,4 +1530,4 @@ window.RA_COUNTRIES = [
  }
 ];
 // Totals over every open country, for the world page.
-window.RA_WORLD_STATS = {"countries": 48, "books": 1708, "lines": 1650, "places": 1917};
+window.RA_WORLD_STATS = {"countries": 48, "books": 1728, "lines": 1671, "places": 1928};

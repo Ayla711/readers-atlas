@@ -1717,3 +1717,13 @@
 | Wellington | Wainuiomartian | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AWellington_Harbour_from_Te_Ara_Tupua.jpg) |
 | Lake Pupuke | Bjankuloski06 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABay_in_Lake_Pupuke_facing_Rangitoto_Channel.jpg) |
 | Bishopdale, Christchurch | Michal Klajban | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABishopdale_Seventh-day_Adventist_Church%2C_Christchurch%2C_New_Zealand_02.jpg) |
+| Mosque of Sayyida Zaynab, Cairo | لا روسا | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AMosque_of_Sayeda_Zainab%2C_Cairo.JPG) |
+| Cairo | Vyacheslav Argenberg | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ACairo_skyline%2C_Nile_River%2C_Egypt.jpg) |
+| Qanatir Women's Prison | Hatem Moushir | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AEl_Qanater_El_Khayreya_%2C_photo_by_Hatem_Moushir_40.jpg) |
+| Kit Kat, Imbaba | Hossam el-Hamalawy | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AImbaba_Bridge_%28271400956%29.jpg) |
+| Port Said | Unknown photographer | [Public domain](https://en.wikipedia.org/wiki/Public_domain) | [Commons](https://commons.wikimedia.org/wiki/File%3APort_Said_1930s_01.jpg) |
+| Humaithara, Eastern Desert (for Mount Darhib) | youssef_alam | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ATombeau_de_Sheikh_Shazly_-_panoramio.jpg) |
+| Siwa Oasis | Vyacheslav Argenberg | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ASiwa_Oasis%2C_Sahara_Desert%2C_Egypt.jpg) |
+| Tanta | Ashashyou | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AEl-Sayed_el-Badawy_Mosque_-_Tanta_-_Egypt2.JPG) |
+| Thebes (Luxor) | Hamerani | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AKarnak_temple_complex_12.jpg) |
+| Cave of Swimmers, Gilf Kebir | Roland Unger | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AWadiSuraSwimmers.jpg) |

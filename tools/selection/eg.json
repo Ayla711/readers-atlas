@@ -60,10 +60,10 @@
     "E",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "children-of-the-alley",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "虚构的开罗老街区，挂杰马利亚；D 1194 · Goodreads 33,035"
+   "note": "虚构的开罗老街区，挂杰马利亚；D 1194 · Goodreads 33,035；核地点：街区是虚构的，马哈福兹的小巷来自他出生的贾马利亚；挂在贾马利亚的马哈福兹博物馆（与《梅达格胡同》同一处）"
   },
   {
    "title": "Midaq Alley",
@@ -98,10 +98,10 @@
     "A2",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "the-harafish",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "Banipal 第 16；虚构街区；不在 D 前 2000 · Goodreads 21,768"
+   "note": "Banipal 第 16；虚构街区；不在 D 前 2000 · Goodreads 21,768；核地点：维基百科：书中既没写城市也没写年代；挂在贾马利亚的马哈福兹博物馆，说明里已写明"
   },
   {
    "title": "The Thief and the Dogs",
@@ -116,10 +116,10 @@
     "A2",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "thief-and-the-dogs",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "Banipal 第 34；开罗；不在 D 前 2000 · Goodreads 13,461"
+   "note": "Banipal 第 34；开罗；不在 D 前 2000 · Goodreads 13,461；核地点：在开罗各处走动，结尾在一片没有名字的墓地；挂开罗市中心点"
   },
   {
    "title": "Zayni Barakat",
@@ -136,10 +136,10 @@
     "A2",
     "A4"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "zayni-barakat",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "马穆鲁克时代开罗；不在 D 前 2000 · Goodreads 3,876"
+   "note": "马穆鲁克时代开罗；不在 D 前 2000 · Goodreads 3,876；核地点：写整座马穆鲁克开罗的“城市小说”，没有单一地点；挂开罗市中心点"
   },
   {
    "title": "Rama and the Dragon",
@@ -154,10 +154,10 @@
     "A1",
     "A2"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "rama-and-the-dragon",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "亚历山大；不在 D 前 2000 · Goodreads 253"
+   "note": "不在 D 前 2000 · Goodreads 253；核地点：找不到资料说明小说的具体背景地；挂在作者出生、长大的亚历山大，说明里已写明"
   },
   {
    "title": "No One Sleeps in Alexandria",
@@ -172,10 +172,10 @@
     "A1",
     "A2"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "no-one-sleeps-in-alexandria",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "亚历山大；不在 D 前 2000 · Goodreads 4,473"
+   "note": "亚历山大；不在 D 前 2000 · Goodreads 4,473；核地点：二战时的亚历山大（市中心点）"
   },
   {
    "title": "Seeds of Corruption",
@@ -190,10 +190,10 @@
     "A1",
     "A2"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "seeds-of-corruption",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "地点待查；不在 D 前 2000 · Goodreads 1"
+   "note": "不在 D 前 2000 · Goodreads 1；核地点：故事在东部沙漠靠近苏丹边境的达尔希卜山一带，但达尔希卜山查不到坐标；挂在启发这部小说的东部沙漠之旅经过的胡迈斯拉（沙兹利圣陵，坐标取自维基数据）"
   },
   {
    "title": "The Heron",
@@ -208,10 +208,10 @@
     "A1",
     "A2"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "the-heron",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "开罗因巴巴；不在 D 前 2000 · Goodreads 2,806"
+   "note": "开罗因巴巴；不在 D 前 2000 · Goodreads 2,806；核地点：因巴巴的基特卡特街区（图钉标因巴巴）"
   },
   {
    "title": "The Lamp of Umm Hashim",
@@ -226,10 +226,10 @@
     "A1",
     "A2"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "lamp-of-umm-hashim",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "开罗赛义达·宰娜卜清真寺；不在 D 前 2000 · Goodreads 5,861"
+   "note": "开罗赛义达·宰娜卜清真寺；不在 D 前 2000 · Goodreads 5,861；核地点：赛义达·宰娜卜清真寺"
   },
   {
    "title": "Return of the Spirit",
@@ -246,10 +246,10 @@
     "A2",
     "A3"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "return-of-the-spirit",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "开罗；不在 D 前 2000 · Goodreads 4,427"
+   "note": "开罗；不在 D 前 2000 · Goodreads 4,427；核地点：主要在开罗的赛义达·宰娜卜区（林恩·林纳版），挂赛义达·宰娜卜清真寺"
   },
   {
    "title": "The Open Door",
@@ -264,10 +264,10 @@
     "A1",
     "A2"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "the-open-door",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "开罗、塞得港；不在 D 前 2000 · Goodreads 3,760"
+   "note": "开罗、塞得港；不在 D 前 2000 · Goodreads 3,760；核地点：高潮在 1956 年的塞得港，挂塞得港"
   },
   {
    "title": "Azazeel",
@@ -284,10 +284,10 @@
     "C",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "azazeel",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "艾赫米姆、亚历山大；不在 D 前 2000 · Goodreads 52,747"
+   "note": "艾赫米姆、亚历山大；不在 D 前 2000 · Goodreads 52,747；核地点：希帕提娅在亚历山大被杀，挂亚历山大"
   },
   {
    "title": "The Yacoubian Building",
@@ -322,10 +322,10 @@
     "E",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "woman-at-point-zero",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "开罗卡纳蒂尔女子监狱；D 1195 · Goodreads 36,837"
+   "note": "开罗卡纳蒂尔女子监狱；D 1195 · Goodreads 36,837；核地点：盖纳提尔女子监狱（盖纳提尔监狱建筑群）"
   },
   {
    "title": "The Call of the Curlew",
@@ -340,10 +340,10 @@
     "A1",
     "A3"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "call-of-the-curlew",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "上埃及乡村，地点待查；不在 D 前 2000 · Goodreads 6,301"
+   "note": "不在 D 前 2000 · Goodreads 6,301；核地点：阿姆娜的村子贝尼·瓦尔坎没找到位置，小说背景是上埃及乡村；挂马加加（作者家乡村子附近），说明里已写明。塔哈·侯赛因博物馆原本想作朝圣地，但 Commons 上唯一的照片是从公司网站拷来的，没有可用的自由授权照片，没收"
   },
   {
    "title": "The Days (al-Ayyam)",
@@ -358,10 +358,10 @@
     "B",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "the-days-taha-hussein",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "明亚省家乡村庄、爱资哈尔；不在 D 前 2000 · Goodreads 12,094"
+   "note": "明亚省家乡村庄、爱资哈尔；不在 D 前 2000 · Goodreads 12,094；核地点：马加加附近的基卢村，村子没有坐标，挂马加加"
   },
   {
    "title": "Sunset Oasis",
@@ -376,10 +376,10 @@
     "C",
     "E"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "sunset-oasis",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "锡瓦绿洲；arablit 说它没进 Banipal 名单；不在 D 前 2000 · Goodreads 15,030"
+   "note": "锡瓦绿洲；arablit 说它没进 Banipal 名单；不在 D 前 2000 · Goodreads 15,030；核地点：锡瓦绿洲"
   },
   {
    "title": "Sharaf (Honor)",
@@ -392,10 +392,10 @@
    "cats": [
     "A1"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "sharaf-ibrahim",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "监狱，地点待查；不在 D 前 2000 · Goodreads 2,262"
+   "note": "不在 D 前 2000 · Goodreads 2,262；核地点：书里的监狱没有名字；挂开罗市中心点"
   },
   {
    "title": "Zaat",
@@ -440,10 +440,10 @@
    "cats": [
     "A1"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "war-in-the-land-of-egypt",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "地点待查；不在 D 前 2000 · Goodreads 1,136"
+   "note": "不在 D 前 2000 · Goodreads 1,136；核地点：村子没有名字，在三角洲城镇坦塔附近；挂坦塔"
   },
   {
    "title": "Death on the Asphalt",
@@ -496,10 +496,10 @@
     "E",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "the-english-patient",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "开罗、吉尔夫凯比尔；D 621 · Goodreads 143,328"
+   "note": "开罗、吉尔夫凯比尔；D 621 · Goodreads 143,328；核地点：泳者洞，阿尔玛西把凯瑟琳留在那里"
   },
   {
    "title": "The Alchemist",
@@ -514,10 +514,10 @@
     "E",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "the-alchemist",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "法尤姆、吉萨；D 416 · Goodreads 3,796,122"
+   "note": "法尤姆、吉萨；D 416 · Goodreads 3,796,122；核地点：书已在摩洛哥数据里（丹吉尔）；埃及这一条挂吉萨大金字塔，圣地亚哥在那里挖掘"
   },
   {
    "title": "The Alexandria Quartet",
@@ -550,10 +550,10 @@
     "E",
     "I"
    ],
-   "in_app": null,
-   "decision": "新增",
+   "in_app": "the-egyptian-waltari",
+   "decision": "保留",
    "first_draft": "新增",
-   "note": "古埃及底比斯；D 1178 · Goodreads 29,746"
+   "note": "古埃及底比斯；D 1178 · Goodreads 29,746；核地点：底比斯（卢克索）"
   },
   {
    "title": "Death on the Nile",
