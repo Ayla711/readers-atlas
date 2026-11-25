@@ -1,0 +1,26 @@
+{
+ "se-norra-stationsgatan": {
+  "lat": 59.34972222,
+  "lon": 18.04386111,
+  "st": "sv.wikipedia \"Norra Stationsgatan\" coordinates",
+  "su": "https://sv.wikipedia.org/wiki/Norra_Stationsgatan"
+ },
+ "se-sunne": {
+  "lat": 59.83333333,
+  "lon": 13.13333333,
+  "st": "en.wikipedia \"Sunne, Sweden\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Sunne%2C_Sweden"
+ },
+ "se-jamshog": {
+  "lat": 56.23333333,
+  "lon": 14.51666667,
+  "st": "en.wikipedia \"Jämshög\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/J%C3%A4msh%C3%B6g"
+ },
+ "se-sodermalm": {
+  "lat": 59.31305556,
+  "lon": 18.06805556,
+  "st": "en.wikipedia \"Södermalm\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/S%C3%B6dermalm"
+ }
+}

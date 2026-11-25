@@ -1,0 +1,32 @@
+{
+ "no-lillesand": {
+  "lat": 58.24945,
+  "lon": 8.37719,
+  "st": "en.wikipedia \"Lillesand (town)\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Lillesand_%28town%29"
+ },
+ "no-tromso": {
+  "lat": 69.6517,
+  "lon": 18.9556,
+  "st": "en.wikipedia \"Tromsø\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Troms%C3%B8"
+ },
+ "no-royal-palace": {
+  "lat": 59.91722222,
+  "lon": 10.7275,
+  "st": "en.wikipedia \"Royal Palace, Oslo\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Royal_Palace%2C_Oslo"
+ },
+ "no-trysil": {
+  "lat": 61.31,
+  "lon": 12.315,
+  "st": "en.wikipedia \"Trysil Municipality\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Trysil_Municipality"
+ },
+ "no-myre": {
+  "lat": 68.914,
+  "lon": 15.0784,
+  "st": "en.wikipedia \"Myre, Øksnes\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Myre%2C_%C3%98ksnes"
+ }
+}

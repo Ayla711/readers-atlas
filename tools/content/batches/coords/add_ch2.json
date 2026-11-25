@@ -1,0 +1,20 @@
+{
+ "ch-chur": {
+  "lat": 46.85,
+  "lon": 9.53333333,
+  "st": "en.wikipedia \"Chur\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Chur"
+ },
+ "ch-zurich": {
+  "lat": 47.37444444,
+  "lon": 8.54111111,
+  "st": "en.wikipedia \"Zurich\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Zurich"
+ },
+ "ch-geneva": {
+  "lat": 46.20166667,
+  "lon": 6.14694444,
+  "st": "en.wikipedia \"Geneva\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Geneva"
+ }
+}

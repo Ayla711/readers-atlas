@@ -1663,3 +1663,15 @@
 | Nizhyn | Norbert Aepli (User:Noebu) | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A2005-08-16_Nizhyn_383.JPG) |
 | Sosnytsia, on the Desna | Dmytro Petishkin | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AZemstvo_building%2C_Sosnytsia_04.jpg) |
 | Odesa Film Studio | Сіліч Марія | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AOdessa_Film_Studio.jpg) |
+| Chur | Agnes Monkelbaan | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AChur_in_Graub%C3%BCnden_%28Zwitserland%29_035.jpg) |
+| Zurich | Jakub Hałun | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AGrossm%C3%BCnster_and_Limmat_River%2C_Zurich%2C_20250330_1239_7931.jpg) |
+| Geneva | Markus Bernet | [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5) | [Commons](https://commons.wikimedia.org/wiki/File%3AGeneva_Lac_Leman.jpg) |
+| Lillesand | Espen Franck-Nielsen | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ALillesandskyline12.jpg) |
+| Tromsø | Snurre86 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ATroms%C3%B8_sentrum_01.jpg) |
+| The Royal Palace and the Palace Park, Oslo | Beata May | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ARoyal_Palace%2C_Oslo_%282015%29.JPG) |
+| Trysil | Unknown photographer (National Library of Norway) | [Public domain](https://en.wikipedia.org/wiki/Public_domain) | [Commons](https://commons.wikimedia.org/wiki/File%3AInnbygda%2C_Trysil_-_no-nb_digifoto_20150313_00117_NB_MIT_FNR_00694.jpg) |
+| Myre, Vesterålen | Ryan Hodnett | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AMyre_-_%C3%98ksnes%2C_Norway_2023-07-13_%2807%29.jpg) |
+| Norra Stationsgatan, Stockholm | I99pema | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ANorra_Stationsgatan_49-53.jpg) |
+| Sunne | Gräsmark | [Public domain](https://en.wikipedia.org/wiki/Public_domain) | [Commons](https://commons.wikimedia.org/wiki/File%3ASunnesundet.jpg) |
+| Jämshög, Blekinge | Berliner Kartenspieler | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AKirche_in_J%C3%A4msh%C3%B6g%2C_Blekinge%2C_Schweden.jpg) |
+| Södermalm, Stockholm | Batintherain | [Public domain](https://en.wikipedia.org/wiki/Public_domain) | [Commons](https://commons.wikimedia.org/wiki/File%3AS%C3%B6dermalm.JPG) |
