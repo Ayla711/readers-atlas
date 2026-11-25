@@ -388,7 +388,6 @@
 | Lugou Bridge (Marco Polo Bridge) | H2v5o68z | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File%3ALugou_Bridge_1.jpg) |
 | Cao Yu's former residence, Tianjin | Xrdtj | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A%E6%B0%91%E4%B8%BB%E9%81%9325%E5%8F%B7%E6%9B%B9%E7%A6%BA%E6%97%A7%E5%B1%85.jpg) |
 | Baiyangdian Lake | 颜邯 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABoat_on_Baiyangdian%2C_Apr_2018.jpg) |
-| Pujiu Temple, Yongji | hwcmsb@126 | [CC BY 2.5](https://creativecommons.org/licenses/by/2.5) | [Commons](https://commons.wikimedia.org/wiki/File%3APujiu_Temple%2C_6_October_2017.jpg) |
 | Ergun, by the Argun River | Liuxingy | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A%E9%A2%9D%E5%B0%94%E5%8F%A4%E7%BA%B3_332%E5%9B%BD%E9%81%93_01.jpg) |
 | Fushun War Criminals Management Centre | H2v5o68z | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File%3A%E6%8A%9A%E9%A1%BA%E6%88%98%E7%8A%AF%E7%AE%A1%E7%90%86%E6%89%80%E9%81%97%E5%9D%80_1.jpg) |
 | Museum of the Imperial Palace of Manchukuo, Changchun | Yumeto | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A20230603_Laixun_Men.jpg) |
@@ -1733,3 +1732,17 @@
 | East London (City Hall hearings) | Bfluff | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ACity_Hall_Oxford_Street.jpg) |
 | Shaka Memorial, KwaDukuza | JRamatsui | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AShaka_Zulu_Memorial.jpg) |
 | Ibuza (Ibusa), Delta State | Assurance Chibuike Okwudili | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AThe_land_scape_view_of_Ibusa.jpg) |
+| Site of Green Hedges, Beaconsfield | David Hillas | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AGreen_Hedges_replica_at_Bekonscot_Model_Village_%28geograph_6389287%29.jpg) |
+| Haiyan, Zhejiang (Yu Hua's home town) | song songroov | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AHaiyan%2C_Jiaxing%2C_Zhejiang%2C_China_-_panoramio_%288%29.jpg) |
+| Former National Drama School, Jiang'an, Sichuan | N509FZ | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ASite_of_the_National_Drama_School_in_Jiang%27an_%2820250117104750%29.jpg) |
+| Saint-Exupéry statue, Place Bellecour, Lyon | Chabe01 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3APlace_Bellecour_Lyon_3.jpg) |
+| Arsenyev Museum, Vladivostok | Vyacheslav Bukharov | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ASvetlanskaya_Street_20%2C_Vladivostok_%28October_2024%29-0.jpg) |
+| Hamaoka Dunes, Omaezaki | Qurren | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Hamaoka_Dunes_1.jpg) |
+| Academia Brasileira de Letras | Wolfhardt | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AAcademia_brasileira_de_letras_1.JPG) |
+| Museu Casa Guimarães Rosa, Cordisburgo | Tiago Macedo | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AMuseu_Casa_Guimar%C3%A3es_Rosa_-_panoramio.jpg) |
+| Statue of Clarice Lispector, Leme | Fernando Frazão/Agência Brasil | [CC BY 3.0 br](https://creativecommons.org/licenses/by/3.0/br) | [Commons](https://commons.wikimedia.org/wiki/File%3AEstatuaClarice.jpg) |
+| Casa de Isla Negra | José Joaquín Cortes | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ACasa_de_Isla_Negra_-_El_Quisco_-_2009_-_01.jpg) |
+| Rosegger's house, Krieglach | Michael Zangl | [CC BY-SA 3.0 at](https://creativecommons.org/licenses/by-sa/3.0/at) | [Commons](https://commons.wikimedia.org/wiki/File%3AWiki_kri_004.JPG) |
+| Franz Michael Felder Museum, Schoppernau | Friedrich Böhringer | [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5) | [Commons](https://commons.wikimedia.org/wiki/File%3AOberdorf_55%2C_Schoppernau_3.JPG) |
+| Gljúfrasteinn, Mosfellsbær | Stig Nygaard | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AMosfellsdalur.jpg) |
+| Sol Plaatje Museum, 32 Angel Street, Kimberley | TwinMosia | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ASol_Plaatje_Museum.jpg) |
