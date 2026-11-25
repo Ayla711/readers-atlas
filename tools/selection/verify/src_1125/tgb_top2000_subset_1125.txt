@@ -1,0 +1,16 @@
+# thegreatestbooks.org overall ranks 1-2000, read 11-25 from /page/1..80 in the built-in browser (25 per page, 2000 rows: #1 Ulysses ... #2000 Sex and Repression in Savage Society).
+# Entries by the authors in the 11-25 Balkan tables (Bulgaria, Bosnia and Herzegovina, Serbia, Croatia, Albania), searched by author and by title. Books not listed were not in the top 2000.
+418	The Bridge on the Drina	Ivo Andrić
+472	Auto Da Fé	Elias Canetti
+562	Black Lamb and Grey Falcon	Rebecca West
+931	A Tomb for Boris Davidovich	Danilo Kiš
+1218	Death and the Dervish	Meša Selimović
+1222	The General of the Dead Army	Ismail Kadare
+1236	Selected Poems of Lord Byron	Lord Byron
+1417	The Tongue Set Free	Elias Canetti
+1437	Don Juan	Lord Byron
+1565	On the Edge of Reason	Miroslav Krleža
+1801	Kafka's Other Trial	Elias Canetti
+1927	Under the Yoke	Ivan Vazov
+1972	Bosnian Chronicle	Ivo Andrić
+# Also checked by title, not in the top 2000: Time Shelter, The Physics of Sorrow, Natural Novel, Tobacco, Arms and the Man, The Historian, People of the Book, The Cellist of Sarajevo, Zlata's Diary, The Damned Yard, Dictionary of the Khazars, Migrations, Impure Blood, The Mountain Wreath, Garden Ashes, Hourglass, The Encyclopedia of the Dead, Cyclops, The Return of Philip Latinowicz, The Glembays, Girl at War, Broken April, Chronicle in Stone, The Palace of Dreams, Childe Harold's Pilgrimage

@@ -1,0 +1,607 @@
+{
+ "cc": "bg",
+ "name": "保加利亚",
+ "date": "2026-11-25",
+ "rule": "v2",
+ "sources": {
+  "A1": "保加利亚国家电视台「大阅读」（Голямото четене，2008–09，全民投票）前 100 名 — bg.wikipedia.org/wiki/Голямото_четене_(България)（11-25 读全表，见 verify/src_1125/bg_big_read_2009.tsv；条目本身注明缺来源，前 12 名与英文维基一致）；24 部保加利亚作品",
+  "B": "保加利亚教育部（МОН）课程：5–7 年级按 2023–24 七年级全国考试样本所列的课程篇目，8–12 年级按各年级文学课程（mon.bg，2018/2021/2023 版）；毕业考试大纲只列主题，不列作品（verify/src_1125/bg_curriculum.txt）",
+  "C": "诺贝尔文学奖（卡内蒂 1981，德语作家，生于鲁塞；他得分最高的《迷惘》写维也纳，不在本表，未加）、国际布克奖、斯特雷加欧洲奖；本国的「年度小说」等奖 2004 年起才有，表中候选没有获奖的",
+  "BK": "挪威世界文库 100 本里没有保加利亚作品",
+  "D": "thegreatestbooks.org 总榜前 2000 名（11-25 逐页读完 80 页，按书名和作者对；verify/src_1125/tgb_top2000_subset_1125.txt）",
+  "E": "Goodreads 评分人数（自动补全接口，11-25；保加利亚文和英文书名各查一次，作者必须对上，取最大的一条；verify/src_1125/bg_goodreads.tsv）"
+ },
+ "size_note": "规则 v2：两项证据或进 A 名单前 10 就够格；不设名额。保加利亚第一次评，表里没有已在应用里的书。本表结果：新增 6，不算保加利亚 2（《铁灯台》写普里莱普，留给北马其顿；《被判决的灵魂》写西班牙），其余不收。塔列夫另三部（《普雷斯帕的钟声》《伊林登》《我听见你们的声音》）也写今北马其顿一带，只有一项证据，不收。没有全国统一的文学正典，这类空缺。",
+ "rows": [
+  {
+   "title": "Under the Yoke (Под игото)",
+   "author": "Ivan Vazov",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "B": 2,
+    "D": 1
+   },
+   "score": 7,
+   "cats": [
+    "A1",
+    "B",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "5–7、10 年级课程；D 1927 · Goodreads 8,910；核地点：书里的白教堂镇就是作者家乡索波特（英文、保加利亚文维基），小说里斯托扬爷爷的磨坊至今在索波特，挂索波特（原型）"
+  },
+  {
+   "title": "Time of Parting (Време разделно)",
+   "author": "Anton Donchev",
+   "kind": "本国",
+   "points": {
+    "A1": 4
+   },
+   "score": 4,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "不在 D 前 2000 · Goodreads 2,292；核地点：1668 年罗多彼山区的埃林德尼亚谷（谷名虚构），小说里被烧的切皮诺村是真实的，今为韦林格勒的一个区，挂切皮诺（原型）"
+  },
+  {
+   "title": "Tobacco (Тютюн)",
+   "author": "Dimitar Dimov",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "B": 2
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "B"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "10 年级课程；不在 D 前 2000 · Goodreads 8,515；核地点：书里的城市没写名字；bulgarianhistory.org 说尼科蒂亚纳公司的仓库取材于普罗夫迪夫奥德林街 8 号的东方烟草公司仓库，挂普罗夫迪夫（原型）"
+  },
+  {
+   "title": "The Iron Candlestick (Железният светилник)",
+   "author": "Dimitar Talev",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "B": 2
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不算保加利亚",
+   "first_draft": "不算保加利亚",
+   "note": "故事在普里莱普（今北马其顿），留给北马其顿表；11 年级课程；Goodreads 9,953"
+  },
+  {
+   "title": "Doomed Souls (Осъдени души)",
+   "author": "Dimitar Dimov",
+   "kind": "本国",
+   "points": {
+    "A1": 4
+   },
+   "score": 4,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不算保加利亚",
+   "first_draft": "不算保加利亚",
+   "note": "故事在西班牙内战时的西班牙；Goodreads 3,931"
+  },
+  {
+   "title": "Bay Ganyo (Бай Ганьо)",
+   "author": "Aleko Konstantinov",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "B": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "B"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "7、10、11 年级课程；不在 D 前 2000 · Goodreads 4,712；核地点：故事多在欧洲各国旅途中；保加利亚文维基说主角原型之一是卡赞勒克的玫瑰油小贩甘尤·索莫夫，挂卡赞勒克（原型）"
+  },
+  {
+   "title": "Ballad for Georg Henig (Балада за Георг Хених)",
+   "author": "Viktor Paskov",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "B": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "B"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "12 年级课程（2021 起）；不在 D 前 2000 · Goodreads 5,736；核地点：索非亚，提琴匠和一家人住在伊斯克尔街上那栋房子（普罗夫迪夫大学、保加利亚科学院的论文），挂索非亚市中心点"
+  },
+  {
+   "title": "Notes on the Bulgarian Uprisings",
+   "author": "Zahari Stoyanov",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "不在 D 前 2000 · Goodreads 401"
+  },
+  {
+   "title": "Natural Novel (Естествен роман)",
+   "author": "Georgi Gospodinov",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "不在 D 前 2000 · Goodreads 6,209"
+  },
+  {
+   "title": "Wolf Hunt (Хайка за вълци)",
+   "author": "Ivaylo Petrov",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "不在 D 前 2000 · Goodreads 1,211"
+  },
+  {
+   "title": "Antichrist (Антихрист)",
+   "author": "Emiliyan Stanev",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "不在 D 前 2000 · Goodreads 754"
+  },
+  {
+   "title": "Kaloyan's Daughter (Дъщерята на Калояна)",
+   "author": "Fani Popova-Mutafova",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "不在 D 前 2000 · Goodreads 776"
+  },
+  {
+   "title": "At Night on White Horses (Нощем с белите коне)",
+   "author": "Pavel Vezhinov",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "不在 D 前 2000 · Goodreads 1,294"
+  },
+  {
+   "title": "Yan Bibiyan (Ян Бибиян)",
+   "author": "Elin Pelin",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "不在 D 前 2000 · Goodreads 2,667"
+  },
+  {
+   "title": "Land for a Target (Земя за прицел)",
+   "author": "Svoboda Bachvarova",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "不在 D 前 2000 · Goodreads 393"
+  },
+  {
+   "title": "18% Gray (18% сиво)",
+   "author": "Zachary Karabashliev",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "不在 D 前 2000 · Goodreads 4,671"
+  },
+  {
+   "title": "The Thessalonica Miracle-Worker (Солунският чудотворец)",
+   "author": "Fani Popova-Mutafova",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "不在 D 前 2000 · Goodreads 797"
+  },
+  {
+   "title": "Patilansko Kingdom (Патиланско царство)",
+   "author": "Ran Bosilek",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "不在 D 前 2000 · Goodreads 1,863"
+  },
+  {
+   "title": "Avalanche (Лавина)",
+   "author": "Blaga Dimitrova",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "不在 D 前 2000 · Goodreads 1,857"
+  },
+  {
+   "title": "Before I Was Born and After My Death",
+   "author": "Ivaylo Petrov",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "不在 D 前 2000 · Goodreads 910"
+  },
+  {
+   "title": "The Bells of Prespa (Преспанските камбани)",
+   "author": "Dimitar Talev",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "写普雷斯帕湖一带（今北马其顿）；不在 D 前 2000 · Goodreads 3,003"
+  },
+  {
+   "title": "Ilinden (Илинден)",
+   "author": "Dimitar Talev",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "写 1903 年伊林登起义（今北马其顿）；不在 D 前 2000 · Goodreads 1,883"
+  },
+  {
+   "title": "I Hear Your Voices (Гласовете ви чувам)",
+   "author": "Dimitar Talev",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "不在 D 前 2000 · Goodreads 1,603"
+  },
+  {
+   "title": "Samuil (Самуил)",
+   "author": "Dimitar Talev",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "不在 D 前 2000 · Goodreads 398"
+  },
+  {
+   "title": "The Peach Thief (Крадецът на праскови)",
+   "author": "Emiliyan Stanev",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "11 年级课程；不在 D 前 2000 · Goodreads 6,136"
+  },
+  {
+   "title": "Unloved and Unwanted (Немили-недраги)",
+   "author": "Ivan Vazov",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "7 年级课程（节选）；写流亡罗马尼亚的保加利亚人；不在 D 前 2000 · Goodreads 3,809"
+  },
+  {
+   "title": "The Geratsi (Гераците)",
+   "author": "Elin Pelin",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "10 年级课程；不在 D 前 2000 · Goodreads 2,927（与短篇合集）"
+  },
+  {
+   "title": "To Chicago and Back (До Чикаго и назад)",
+   "author": "Aleko Konstantinov",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "7 年级课程（节选）；不在 D 前 2000 · Goodreads 2,671"
+  },
+  {
+   "title": "Epic of the Forgotten (Епопея на забравените)",
+   "author": "Ivan Vazov",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "集中的《希普卡山口的志愿兵》在 5–7 年级课程，按集子计；不在 D 前 2000 · Goodreads 1,714"
+  },
+  {
+   "title": "Hadzhi Dimitar and other poems",
+   "author": "Hristo Botev",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "9 年级课程；按集子计（《诗歌·政论》）；不在 D 前 2000 · Goodreads 1,873"
+  },
+  {
+   "title": "Time Shelter (Времеубежище)",
+   "author": "Georgi Gospodinov",
+   "kind": "本国",
+   "points": {
+    "C": 2,
+    "E": 1
+   },
+   "score": 3,
+   "cats": [
+    "C",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "国际布克奖 2023、斯特雷加欧洲奖 2021；不在 D 前 2000 · Goodreads 34,217；核地点：索非亚国家文化宫，叙述者被带到地下室看戴姆比的“重演”剧团排练（Literary Hub 刊出的节选），挂国家文化宫"
+  },
+  {
+   "title": "The Physics of Sorrow (Физика на тъгата)",
+   "author": "Georgi Gospodinov",
+   "kind": "本国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "不在 D 前 2000 · Goodreads 14,978"
+  },
+  {
+   "title": "Arms and the Man",
+   "author": "George Bernard Shaw",
+   "kind": "外国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "1885 年塞尔维亚—保加利亚战争，德拉戈曼山口附近的小镇；不在 D 前 2000 · Goodreads 11,576"
+  },
+  {
+   "title": "The Historian",
+   "author": "Elizabeth Kostova",
+   "kind": "外国",
+   "points": {
+    "E": 2
+   },
+   "score": 2,
+   "cats": [
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "后半部在保加利亚；不在 D 前 2000 · Goodreads 282,960"
+  },
+  {
+   "title": "The Shadow Land",
+   "author": "Elizabeth Kostova",
+   "kind": "外国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "不在 D 前 2000 · Goodreads 16,561"
+  },
+  {
+   "title": "The Tongue Set Free",
+   "author": "Elias Canetti",
+   "kind": "外国（德语，生于鲁塞）",
+   "points": {
+    "D": 1
+   },
+   "score": 1,
+   "cats": [
+    "I"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "鲁塞的童年；D 1417 · Goodreads 2,377（英文本条目）"
+  }
+ ]
+}

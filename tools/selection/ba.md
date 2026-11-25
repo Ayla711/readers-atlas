@@ -1,0 +1,43 @@
+# 波斯尼亚和黑塞哥维那 选书评分（2026-11-25，规则 v2）
+
+## 来源
+
+- **A** 没有找到全国性的经典名单或读者投票（11-25 查过「najbolji roman bosanskohercegovačke književnosti anketa」等；只有每年的「梅沙·塞利莫维奇奖」评当年新书，算 C 类），此类空缺
+- **B** 没有全国统一课程，查了两个实体各一份：萨拉热窝州 2024 课程的文学与读物书目（不分必读选读）和 2016 年高中「建议读物」（只算推荐，记 1），塞族共和国高中 4 年级塞尔维亚语文学课程（rpz-rs.org）；塞族共和国 1–3 年级课程网上没找到（verify/src_1125/ba_curriculum.txt）
+- **C** 诺贝尔文学奖（安德里奇 1961，加在他得分最高的《德里纳河上的桥》）、NIN 奖（1991 年以前是全南斯拉夫的年度小说奖）
+- **BK** 挪威世界文库 100 本里没有波黑作品
+- **D** thegreatestbooks.org 总榜前 2000 名（11-25 逐页读完 80 页；verify/src_1125/tgb_top2000_subset_1125.txt）
+- **E** Goodreads 评分人数（自动补全接口，11-25；原文和英文书名各查一次；verify/src_1125/ba_goodreads.tsv）
+
+## 候选与得分
+
+证据项：每份本国书单（A1、A2……）各算一项，另有 B 课本与全集、C 奖项（含诺贝尔）、I 国际经典（世界文库、thegreatestbooks）、E 读者面（Goodreads）。有两项以上，或进某份 A 名单前 10，就够线。
+
+| # | 书 | 作者 | 类 | 明细 | 分 | 证据项 | 已在应用里 | 处理（v2） | v1 初稿（作废，仅供对照） | 说明 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | Death and the Dervish (Derviš i smrt) | Meša Selimović | 本国 | B+2 C+2 D+1 E+1 | 6 | 4 |  | 新增 |  | NIN 奖 1966；萨拉热窝州高中书目、塞族共和国 4 年级课程；D 1218 · Goodreads 11,685；核地点：小说里的城镇没写名字（英译本导言说就是泛指的“卡萨巴”），出版社简介说苦修院在萨拉热窝，挂萨拉热窝市中心点，说明里写明 |
+| 2 | The Bridge on the Drina (Na Drini ćuprija) | Ivo Andrić | 本国 | N+1 D+2 E+1 | 4 | 3 |  | 新增 |  | D 418 · Goodreads 27,112；核地点：维舍格拉德的穆罕默德-帕夏·索科洛维奇桥，整部小说写这座桥四百年 |
+| 3 | Bosnian Chronicle (Travnička hronika) | Ivo Andrić | 本国 | B+2 D+1 | 3 | 2 |  | 新增 |  | 萨拉热窝州课程（职业高中 4 年级）；D 1972 · Goodreads 2,860；核地点：特拉夫尼克，1807–1814 年法国和奥地利领事驻在这里 |
+| 4 | The Fortress (Tvrđava) | Meša Selimović | 本国 | B+2 | 2 | 1 |  | 不收 |  | 不在 D 前 2000 · Goodreads 6,689 |
+| 5 | Stone Sleeper (Kameni spavač) | Mak Dizdar | 本国 | B+2 | 2 | 1 |  | 不收 |  | 诗集；不在 D 前 2000 · Goodreads 402 |
+| 6 | Sarajevo Marlboro (Sarajevski Marlboro) | Miljenko Jergović | 本国 | B+2 | 2 | 1 |  | 不收 |  | 不在 D 前 2000 · Goodreads 5,439 |
+| 7 | Donkey Years (Magareće godine) | Branko Ćopić | 本国 | B+2 | 2 | 1 |  | 不收 |  | 不在 D 前 2000 · Goodreads 1,128 |
+| 8 | Eagles Fly Early (Orlovi rano lete) | Branko Ćopić | 本国 | B+2 | 2 | 1 |  | 不收 |  | 不在 D 前 2000 · Goodreads 4,381 |
+| 9 | The Garden the Colour of Mallow (Bašta sljezove boje) | Branko Ćopić | 本国 | B+2 | 2 | 1 |  | 不收 |  | 不在 D 前 2000 · Goodreads 1,109 |
+| 10 | The Badger before the Court (Jazavac pred sudom) | Petar Kočić | 本国 | B+2 | 2 | 1 |  | 不收 |  | 不在 D 前 2000 · Goodreads 1,068 |
+| 11 | Grozdana's Laughter (Grozdanin kikot) | Hamza Humo | 本国 | B+2 | 2 | 1 |  | 不收 |  | 不在 D 前 2000 · Goodreads 184 |
+| 12 | Ponornica | Skender Kulenović | 本国 | B+2 | 2 | 1 |  | 不收 |  | 不在 D 前 2000 · Goodreads 241 |
+| 13 | Hasanaginica | folk ballad | 本国 | B+2 | 2 | 1 |  | 不收 |  | 写伊莫茨基一带（今克罗地亚）；不在 D 前 2000 · Goodreads 89（伊萨科维奇编本） |
+| 14 | The Question of Bruno | Aleksandar Hemon | 本国 | B+2 | 2 | 1 |  | 不收 |  | 不在 D 前 2000 · Goodreads 1,573 |
+| 15 | The Devil in Sarajevo (Đavo u Sarajevu) | Nenad Veličković | 本国 | B+2 | 2 | 1 |  | 不收 |  | 不在 D 前 2000 · Goodreads 42 |
+| 16 | Zlata's Diary | Zlata Filipović | 本国 | E+1 | 1 | 1 |  | 不收 |  | 不在 D 前 2000 · Goodreads 12,766 |
+| 17 | The Woman from Sarajevo (Gospođica) | Ivo Andrić | 本国 |  | 0 | 0 |  | 不收 |  | 不在两份课程、不在 D 前 2000 · Goodreads 2,800 |
+| 18 | People of the Book | Geraldine Brooks | 外国 | E+2 | 2 | 1 |  | 不收 |  | 萨拉热窝哈加达；不在 D 前 2000 · Goodreads 161,067 |
+| 19 | The Cellist of Sarajevo | Steven Galloway | 外国 | E+1 | 1 | 1 |  | 不收 |  | 不在 D 前 2000 · Goodreads 45,942 |
+| 20 | Safe Area Goražde | Joe Sacco | 外国 | E+1 | 1 | 1 |  | 不收 |  | 不在 D 前 2000 · Goodreads 11,041 |
+| 21 | Black Lamb and Grey Falcon | Rebecca West | 外国 | D+1 | 1 | 1 |  | 不收 |  | 写整个南斯拉夫（克罗地亚、波黑、塞尔维亚、马其顿、黑山）；D 562 · Goodreads 2,807 |
+| 22 | How the Soldier Repairs the Gramophone | Saša Stanišić | 外国（德语，生于维舍格拉德） |  | 0 | 0 |  | 不收 |  | 不在 D 前 2000 · Goodreads 3,030 |
+| 23 | The Damned Yard (Prokleta avlija) | Ivo Andrić | 本国 | B+2 E+1 | 3 | 2 |  | 不算波黑 | 不算波黑 | 写伊斯坦布尔的监狱“该诅咒的院子”，留给土耳其表；塞族共和国 4 年级课程；不在 D 前 2000 · Goodreads 11,976（最大的一条 27,112 是和《德里纳河上的桥》的合订本，没用） |
+
+## 说明
+规则 v2：两项证据或进 A 名单前 10 就够格；不设名额。波黑第一次评，表里没有已在应用里的书。本表结果：新增 3（《德里纳河上的桥》《苦修僧与死亡》《特拉夫尼克纪事》），不算波黑 1（《该诅咒的院子》写伊斯坦布尔的监狱，留给土耳其表），其余只有一项证据，不收。读者面（Goodreads）上万的只有安德里奇、塞利莫维奇和几本外国书；没有 A 类名单，所以课程里的书（《石头睡者》《萨拉热窝万宝路》《锦葵色的花园》等）大多只有一项证据。
