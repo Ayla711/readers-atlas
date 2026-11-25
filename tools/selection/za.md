@@ -17,15 +17,15 @@
 | # | 书 | 作者 | 类 | 明细 | 分 | 证据项 | 已在应用里 | 处理（v2） | v1 初稿（作废，仅供对照） | 说明 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | Disgrace | J. M. Coetzee | 本国 | A2+3 C+2 N+1 D+2 E+2 | 10 | 4 | 是 | 保留 | 保留 | 布克奖 1999；D 259 · Goodreads 123,020 |
-| 2 | Life & Times of Michael K | J. M. Coetzee | 本国 | A1+3 BK+3 C+2 D+1 E+1 | 10 | 4 |  | 新增 | 待定 | D 1703 · Goodreads 22,160 |
+| 2 | Life & Times of Michael K | J. M. Coetzee | 本国 | A1+3 BK+3 C+2 D+1 E+1 | 10 | 4 | 是 | 保留 | 待定 | D 1703 · Goodreads 22,160；核地点：艾伯特亲王镇，迈克尔·K把母亲的骨灰埋在那里的废弃农场 |
 | 3 | Cry, the Beloved Country | Alan Paton | 本国 | A1+3 A2+3 D+2 E+1 | 9 | 4 | 是 | 保留 | 保留 | D 286 · Goodreads 81,733 |
 | 4 | Long Walk to Freedom | Nelson Mandela | 本国 | A1+3 A2+3 E+1 | 7 | 3 | 是 | 保留 | 保留 | 不在 D 前 2000 · Goodreads 98,759 |
-| 5 | A Dry White Season | André Brink | 本国 | A1+3 A2+3 D+1 | 7 | 3 |  | 新增 | 新增 | 约翰内斯堡、索韦托；D 977 · Goodreads 4,583 |
-| 6 | Burger's Daughter | Nadine Gordimer | 本国 | A1+3 N+1 D+1 | 5 | 3 |  | 新增 | 新增 | 约翰内斯堡；D 914 · Goodreads 2,381 |
-| 7 | Country of My Skull | Antjie Krog | 本国 | A1+3 A2+3 | 6 | 2 |  | 新增 | 新增 | 真相与和解委员会听证；不在 D 前 2000 · Goodreads 3,331 |
+| 5 | A Dry White Season | André Brink | 本国 | A1+3 A2+3 D+1 | 7 | 3 | 是 | 保留 | 新增 | 约翰内斯堡、索韦托；D 977 · Goodreads 4,583；核地点：小说从 1976 年 6 月 16 日索韦托起义开始，挂索韦托的赫克托·彼得森博物馆（标的是那一天，说明里已写明） |
+| 6 | Burger's Daughter | Nadine Gordimer | 本国 | A1+3 N+1 D+1 | 5 | 3 | 是 | 保留 | 新增 | 约翰内斯堡；D 914 · Goodreads 2,381；核地点：约翰内斯堡市中心点；开篇的监狱没写名字 |
+| 7 | Country of My Skull | Antjie Krog | 本国 | A1+3 A2+3 | 6 | 2 | 是 | 保留 | 新增 | 真相与和解委员会听证；不在 D 前 2000 · Goodreads 3,331；核地点：真相与和解委员会 1996 年 4 月在东伦敦市政厅举行第一批听证会，克罗格特别写了诺蒙德·卡拉塔在那里的证词；挂东伦敦市中心点 |
 | 8 | The Story of an African Farm | Olive Schreiner | 本国 | A2+3 D+1 | 4 | 2 | 是 | 保留 | 保留 | 卡鲁；D 1285 · Goodreads 3,219 |
-| 9 | Down Second Avenue | Es'kia Mphahlele | 本国 | A1+3 D+1 | 4 | 2 |  | 新增 | 新增 | 比勒陀利亚马拉巴斯塔德；D 1625 · Goodreads 451 |
-| 10 | Chaka | Thomas Mofolo | 本国 | A1+3 D+1 | 4 | 2 |  | 新增 | 新增 | 作者是莱索托巴苏陀人；写祖鲁兰；D 1071 · Goodreads 756 |
+| 9 | Down Second Avenue | Es'kia Mphahlele | 本国 | A1+3 D+1 | 4 | 2 | 是 | 保留 | 新增 | 比勒陀利亚马拉巴斯塔德；D 1625 · Goodreads 451；核地点：比勒陀利亚马拉巴斯塔德，第二大道所在 |
+| 10 | Chaka | Thomas Mofolo | 本国 | A1+3 D+1 | 4 | 2 | 是 | 保留 | 新增 | 作者是莱索托巴苏陀人；写祖鲁兰；D 1071 · Goodreads 756；核地点：夸杜库扎的沙卡纪念地（沙卡墓，莫福洛 1909 年去过） |
 | 11 | Native Life in South Africa | Sol Plaatje | 本国 | A1+3 | 3 | 1 | 是 | 保留（只有一类证据） | 删除 | 不在 D 前 2000；Goodreads 64 |
 | 12 | The Heart of Redness | Zakes Mda | 本国 | A2+3 | 3 | 1 |  | 不收 | 不收 | 不在 D 前 2000 · Goodreads 1,690 |
 | 13 | Mafeking Road | Herman Charles Bosman | 本国 | A2+3 | 3 | 1 |  | 不收 | 不收 | 不在 D 前 2000 · Goodreads 318 |

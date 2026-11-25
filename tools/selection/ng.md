@@ -16,15 +16,15 @@
 
 | # | 书 | 作者 | 类 | 明细 | 分 | 证据项 | 已在应用里 | 处理（v2） | v1 初稿（作废，仅供对照） | 说明 |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | The Famished Road | Ben Okri | 本国 | A1+3 A2+3 C+2 D+1 E+1 | 10 | 5 |  | 新增 | 新增 | 布克奖 1991；拉各斯的无名贫民区，挂拉各斯；D 1470 · Goodreads 14,009 |
+| 1 | The Famished Road | Ben Okri | 本国 | A1+3 A2+3 C+2 D+1 E+1 | 10 | 5 | 是 | 保留 | 新增 | 布克奖 1991；拉各斯的无名贫民区，挂拉各斯；D 1470 · Goodreads 14,009；核地点：城市没写名字，一般认为取材于奥克里长大的拉各斯贫民窟；挂已有的拉各斯，说明里已写明 |
 | 2 | Things Fall Apart | Chinua Achebe | 本国 | A1+4 A2+3 BK+3 D+2 E+2 | 14 | 4 | 是 | 保留 | 保留 | D 60 · Goodreads 430,260 |
 | 3 | Half of a Yellow Sun | Chimamanda Ngozi Adichie | 本国 | A2+3 C+2 D+1 E+2 | 8 | 4 | 是 | 保留 | 保留 | 橘子奖 2007；D 1122 · Goodreads 195,054 |
-| 4 | Arrow of God | Chinua Achebe | 本国 | A1+3 A2+3 D+1 | 7 | 3 |  | 新增 | 待定 | D 709 · Goodreads 9,980 |
-| 5 | Americanah | Chimamanda Ngozi Adichie | 本国 | A2+3 D+2 E+2 | 7 | 3 |  | 新增 | 待定 | 拉各斯、恩苏卡部分；D 436 · Goodreads 429,665 |
-| 6 | The Palm-Wine Drinkard | Amos Tutuola | 本国 | A1+3 A2+3 D+1 | 7 | 3 |  | 新增 | 新增 | 约鲁巴神话丛林，挂作者家乡阿贝奥库塔；D 833 · Goodreads 4,144 |
+| 4 | Arrow of God | Chinua Achebe | 本国 | A1+3 A2+3 D+1 | 7 | 3 | 是 | 保留 | 待定 | D 709 · Goodreads 9,980；核地点：乌穆阿罗、奥克佩里是虚构的；阿契贝取材于乌穆丘 1913 年祭司拒任酋长被关押的事，挂乌穆丘（原型） |
+| 5 | Americanah | Chimamanda Ngozi Adichie | 本国 | A2+3 D+2 E+2 | 7 | 3 | 是 | 保留 | 待定 | 拉各斯、恩苏卡部分；D 436 · Goodreads 429,665；核地点：伊菲麦露在拉各斯长大、回国后住在拉各斯，挂已有的拉各斯 |
+| 6 | The Palm-Wine Drinkard | Amos Tutuola | 本国 | A1+3 A2+3 D+1 | 7 | 3 | 是 | 保留 | 新增 | 约鲁巴神话丛林，挂作者家乡阿贝奥库塔；D 833 · Goodreads 4,144；核地点：神话丛林；作者生在阿贝奥库塔，挂已有的阿凯（阿贝奥库塔），说明里已写明 |
 | 7 | Death and the King's Horseman | Wole Soyinka | 本国 | A1+3 A2+3 N+1 | 7 | 3 | 是 | 保留 | 保留 | 奥约；不在 D 前 2000 · Goodreads 5,790 |
 | 8 | Purple Hibiscus | Chimamanda Ngozi Adichie | 本国 | A2+3 C+2 E+2 | 7 | 3 | 是 | 保留 | 删除 | 阿迪契第三本（英联邦作家奖最佳处女作 2005）；不在 D 前 2000 · Goodreads 153,211 |
-| 9 | The Joys of Motherhood | Buchi Emecheta | 本国 | A1+3 A2+3 | 6 | 2 |  | 新增 | 新增 | 拉各斯、伊布扎；不在 D 前 2000 · Goodreads 8,910 |
+| 9 | The Joys of Motherhood | Buchi Emecheta | 本国 | A1+3 A2+3 | 6 | 2 | 是 | 保留 | 新增 | 拉各斯、伊布扎；不在 D 前 2000 · Goodreads 8,910；核地点：伊布扎（伊布萨），努·埃戈的家乡，她最后死在那里 |
 | 10 | The Interesting Narrative | Olaudah Equiano | 本国 | D+1 E+1 | 2 | 2 | 是 | 保留 | 删除 | D 1888；Goodreads 15,346 |
 | 11 | Labyrinths | Christopher Okigbo | 本国 | A1+3 | 3 | 1 |  | 不收 | 不收 | 不在 D 前 2000 · Goodreads 88 |
 | 12 | Forest of a Thousand Daemons | D. O. Fagunwa | 本国 | A1+3 | 3 | 1 |  | 不收 | 不收 | 不在 D 前 2000 · Goodreads 923 |

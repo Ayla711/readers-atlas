@@ -10918,6 +10918,56 @@
     "book",
     "line"
    ]
+  },
+  {
+   "id": "the-famished-road",
+   "title": "The Famished Road",
+   "author": "Ben Okri",
+   "home": "ng",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "arrow-of-god",
+   "title": "Arrow of God",
+   "author": "Chinua Achebe",
+   "home": "ng",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "americanah",
+   "title": "Americanah",
+   "author": "Chimamanda Ngozi Adichie",
+   "home": "ng",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "palm-wine-drinkard",
+   "title": "The Palm-Wine Drinkard",
+   "author": "Amos Tutuola",
+   "home": "ng",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "joys-of-motherhood",
+   "title": "The Joys of Motherhood",
+   "author": "Buchi Emecheta",
+   "home": "ng",
+   "via": [
+    "book",
+    "line"
+   ]
   }
  ],
  "nl": [
@@ -19647,6 +19697,66 @@
    "id": "disgrace",
    "title": "Disgrace",
    "author": "J. M. Coetzee",
+   "home": "za",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "life-and-times-of-michael-k",
+   "title": "Life & Times of Michael K",
+   "author": "J. M. Coetzee",
+   "home": "za",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "a-dry-white-season",
+   "title": "A Dry White Season",
+   "author": "André Brink",
+   "home": "za",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "burgers-daughter",
+   "title": "Burger's Daughter",
+   "author": "Nadine Gordimer",
+   "home": "za",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "country-of-my-skull",
+   "title": "Country of My Skull",
+   "author": "Antjie Krog",
+   "home": "za",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "down-second-avenue",
+   "title": "Down Second Avenue",
+   "author": "Es'kia Mphahlele",
+   "home": "za",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "chaka-mofolo",
+   "title": "Chaka",
+   "author": "Thomas Mofolo",
    "home": "za",
    "via": [
     "book",

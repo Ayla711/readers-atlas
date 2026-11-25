@@ -1727,3 +1727,9 @@
 | Tanta | Ashashyou | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AEl-Sayed_el-Badawy_Mosque_-_Tanta_-_Egypt2.JPG) |
 | Thebes (Luxor) | Hamerani | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AKarnak_temple_complex_12.jpg) |
 | Cave of Swimmers, Gilf Kebir | Roland Unger | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AWadiSuraSwimmers.jpg) |
+| Prince Albert | jonty.fisher | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3APrince_Albert%2C_Western_Cape_%282009%29.jpg) |
+| Hector Pieterson Museum, Soweto | Jorge Láscar from Australia | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AThe_Hector_Pieterson_Memorial_%284611836835%29.jpg) |
+| Johannesburg | Mark Hillary | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AJohannesburg_skyline_2017.jpg) |
+| East London (City Hall hearings) | Bfluff | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ACity_Hall_Oxford_Street.jpg) |
+| Shaka Memorial, KwaDukuza | JRamatsui | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AShaka_Zulu_Memorial.jpg) |
+| Ibuza (Ibusa), Delta State | Assurance Chibuike Okwudili | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AThe_land_scape_view_of_Ibusa.jpg) |

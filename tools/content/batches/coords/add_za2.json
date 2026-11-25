@@ -1,0 +1,38 @@
+{
+ "za-prince-albert": {
+  "lat": -33.22527778,
+  "lon": 22.03,
+  "st": "en.wikipedia \"Prince Albert, South Africa\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Prince_Albert%2C_South_Africa"
+ },
+ "za-hector-pieterson": {
+  "lat": -26.23483333,
+  "lon": 27.90861667,
+  "st": "en.wikipedia \"Hector Pieterson Museum\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Hector_Pieterson_Museum"
+ },
+ "za-johannesburg": {
+  "lat": -26.20444444,
+  "lon": 28.04555556,
+  "st": "en.wikipedia \"Johannesburg\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Johannesburg"
+ },
+ "za-east-london": {
+  "lat": -33.0175,
+  "lon": 27.90472222,
+  "st": "en.wikipedia \"East London, South Africa\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/East_London%2C_South_Africa"
+ },
+ "za-marabastad": {
+  "lat": -25.741,
+  "lon": 28.1759,
+  "st": "en.wikipedia \"Marabastad, Pretoria\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Marabastad%2C_Pretoria"
+ },
+ "za-shaka-memorial": {
+  "lat": -29.34005278,
+  "lon": 31.29447222,
+  "st": "en.wikipedia \"Shaka Memorial\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Shaka_Memorial"
+ }
+}
