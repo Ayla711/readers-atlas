@@ -7712,6 +7712,106 @@
         "HR-20"
       ],
       "wash": {}
+    },
+    {
+      "code": "al",
+      "iso": "ALB",
+      "name": "Albania",
+      "name_zh": "阿尔巴尼亚",
+      "short": "Albania",
+      "short_zh": "阿尔巴尼亚",
+      "region_term": {
+        "en": "county",
+        "zh": "州"
+      },
+      "bounds": [
+        19.2,
+        39.55,
+        21.15,
+        42.7
+      ],
+      "step": 0.003,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "AL-01": "AL-01",
+              "AL-02": "AL-02",
+              "AL-03": "AL-03",
+              "AL-04": "AL-04",
+              "AL-05": "AL-05",
+              "AL-06": "AL-06",
+              "AL-07": "AL-07",
+              "AL-08": "AL-08",
+              "AL-09": "AL-09",
+              "AL-10": "AL-10",
+              "AL-11": "AL-11",
+              "AL-12": "AL-12"
+            }
+          }
+        ],
+        "names": {
+          "AL-01": [
+            "Berat",
+            "培拉特州"
+          ],
+          "AL-02": [
+            "Durrës",
+            "都拉斯州"
+          ],
+          "AL-03": [
+            "Elbasan",
+            "爱尔巴桑州"
+          ],
+          "AL-04": [
+            "Fier",
+            "费里州"
+          ],
+          "AL-05": [
+            "Gjirokastër",
+            "吉诺卡斯特州"
+          ],
+          "AL-06": [
+            "Korçë",
+            "科尔察州"
+          ],
+          "AL-07": [
+            "Kukës",
+            "库克斯州"
+          ],
+          "AL-08": [
+            "Lezhë",
+            "莱什州"
+          ],
+          "AL-09": [
+            "Dibër",
+            "迪勃拉州"
+          ],
+          "AL-10": [
+            "Shkodër",
+            "斯库台州"
+          ],
+          "AL-11": [
+            "Tirana",
+            "地拉那州"
+          ],
+          "AL-12": [
+            "Vlorë",
+            "发罗拉州"
+          ]
+        }
+      },
+      "data": [
+        "data/al/geo.js",
+        "data/al/books.js",
+        "data/al/places.js",
+        "data/al/lines.js"
+      ],
+      "open": true,
+      "small_regions": [],
+      "wash": {}
     }
   ]
 }

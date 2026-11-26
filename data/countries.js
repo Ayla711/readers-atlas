@@ -1648,7 +1648,34 @@ window.RA_COUNTRIES = [
   "needs": [
    "tr"
   ]
+ },
+ {
+  "code": "al",
+  "iso": "ALB",
+  "name": "Albania",
+  "name_zh": "阿尔巴尼亚",
+  "short": "Albania",
+  "short_zh": "阿尔巴尼亚",
+  "region_term": {
+   "en": "county",
+   "zh": "州"
+  },
+  "bounds": [
+   19.2,
+   39.55,
+   21.15,
+   42.7
+  ],
+  "small_regions": [],
+  "wash": {},
+  "data": [
+   "data/al/geo.js",
+   "data/al/books.js",
+   "data/al/places.js",
+   "data/al/lines.js"
+  ],
+  "open": true
  }
 ];
 // Totals over every open country, for the world page.
-window.RA_WORLD_STATS = {"countries": 52, "books": 1761, "lines": 1704, "places": 1955};
+window.RA_WORLD_STATS = {"countries": 53, "books": 1762, "lines": 1705, "places": 1956};
