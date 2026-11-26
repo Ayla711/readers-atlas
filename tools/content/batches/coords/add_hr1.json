@@ -1,0 +1,8 @@
+{
+ "hr-zagreb": {"lat": 45.81305556, "lon": 15.9775, "st": "en.wikipedia \"Zagreb\" coordinates", "su": "https://en.wikipedia.org/wiki/Zagreb"},
+ "hr-tinova-kula": {"lat": 43.20429, "lon": 17.36861, "st": "Wikidata Q61694821 (Tinova kula) P625", "su": "https://www.wikidata.org/wiki/Q61694821"},
+ "hr-peasant-revolts-museum": {"lat": 45.9847126, "lon": 16.0167441, "st": "Wikidata Q16116845 (Museum of Peasant Revolts) P625", "su": "https://www.wikidata.org/wiki/Q16116845"},
+ "hr-vela-luka": {"lat": 42.96111111, "lon": 16.71944444, "st": "en.wikipedia \"Vela Luka\" coordinates", "su": "https://en.wikipedia.org/wiki/Vela_Luka"},
+ "hr-rab": {"lat": 44.75611111, "lon": 14.76111111, "st": "en.wikipedia \"Rab (town)\" coordinates", "su": "https://en.wikipedia.org/wiki/Rab_(town)"},
+ "hr-vinkovci": {"lat": 45.29111111, "lon": 18.80111111, "st": "en.wikipedia \"Vinkovci\" coordinates", "su": "https://en.wikipedia.org/wiki/Vinkovci"}
+}

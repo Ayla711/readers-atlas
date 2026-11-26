@@ -1615,7 +1615,40 @@ window.RA_COUNTRIES = [
    "data/rs/lines.js"
   ],
   "open": true
+ },
+ {
+  "code": "hr",
+  "iso": "HRV",
+  "name": "Croatia",
+  "name_zh": "克罗地亚",
+  "short": "Croatia",
+  "short_zh": "克罗地亚",
+  "region_term": {
+   "en": "county",
+   "zh": "县"
+  },
+  "bounds": [
+   13.45,
+   42.35,
+   19.5,
+   46.6
+  ],
+  "small_regions": [
+   "HR-21",
+   "HR-20"
+  ],
+  "wash": {},
+  "data": [
+   "data/hr/geo.js",
+   "data/hr/books.js",
+   "data/hr/places.js",
+   "data/hr/lines.js"
+  ],
+  "open": true,
+  "needs": [
+   "tr"
+  ]
  }
 ];
 // Totals over every open country, for the world page.
-window.RA_WORLD_STATS = {"countries": 51, "books": 1754, "lines": 1696, "places": 1949};
+window.RA_WORLD_STATS = {"countries": 52, "books": 1761, "lines": 1704, "places": 1955};

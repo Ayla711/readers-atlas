@@ -7559,6 +7559,159 @@
       "open": true,
       "small_regions": [],
       "wash": {}
+    },
+    {
+      "code": "hr",
+      "iso": "HRV",
+      "name": "Croatia",
+      "name_zh": "克罗地亚",
+      "short": "Croatia",
+      "short_zh": "克罗地亚",
+      "region_term": {
+        "en": "county",
+        "zh": "县"
+      },
+      "bounds": [
+        13.45,
+        42.35,
+        19.5,
+        46.6
+      ],
+      "step": 0.003,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "name_zh",
+            "map": {
+              "波热加-斯拉沃尼亚县": "HR-11"
+            }
+          },
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "HR-01": "HR-01",
+              "HR-02": "HR-02",
+              "HR-03": "HR-03",
+              "HR-04": "HR-04",
+              "HR-05": "HR-05",
+              "HR-06": "HR-06",
+              "HR-07": "HR-07",
+              "HR-08": "HR-08",
+              "HR-09": "HR-09",
+              "HR-10": "HR-10",
+              "HR-12": "HR-12",
+              "HR-13": "HR-13",
+              "HR-14": "HR-14",
+              "HR-15": "HR-15",
+              "HR-16": "HR-16",
+              "HR-17": "HR-17",
+              "HR-18": "HR-18",
+              "HR-19": "HR-19",
+              "HR-20": "HR-20",
+              "HR-21": "HR-21"
+            }
+          }
+        ],
+        "names": {
+          "HR-01": [
+            "Zagreb County",
+            "萨格勒布县"
+          ],
+          "HR-02": [
+            "Krapina-Zagorje",
+            "克拉皮纳-扎戈列县"
+          ],
+          "HR-03": [
+            "Sisak-Moslavina",
+            "锡萨克-莫斯拉维纳县"
+          ],
+          "HR-04": [
+            "Karlovac",
+            "卡尔洛瓦茨县"
+          ],
+          "HR-05": [
+            "Varaždin",
+            "瓦拉日丁县"
+          ],
+          "HR-06": [
+            "Koprivnica-Križevci",
+            "科普里夫尼察-克里热夫齐县"
+          ],
+          "HR-07": [
+            "Bjelovar-Bilogora",
+            "别洛瓦尔-比洛戈拉县"
+          ],
+          "HR-08": [
+            "Primorje-Gorski Kotar",
+            "滨海-山区县"
+          ],
+          "HR-09": [
+            "Lika-Senj",
+            "利卡-塞尼县"
+          ],
+          "HR-10": [
+            "Virovitica-Podravina",
+            "维罗维蒂察-波德拉维纳县"
+          ],
+          "HR-11": [
+            "Požega-Slavonia",
+            "波热加-斯拉沃尼亚县"
+          ],
+          "HR-12": [
+            "Brod-Posavina",
+            "布罗德-波萨维纳县"
+          ],
+          "HR-13": [
+            "Zadar",
+            "扎达尔县"
+          ],
+          "HR-14": [
+            "Osijek-Baranja",
+            "奥西耶克-巴拉尼亚县"
+          ],
+          "HR-15": [
+            "Šibenik-Knin",
+            "希贝尼克-克宁县"
+          ],
+          "HR-16": [
+            "Vukovar-Srijem",
+            "武科瓦尔-斯里耶姆县"
+          ],
+          "HR-17": [
+            "Split-Dalmatia",
+            "斯普利特-达尔马提亚县"
+          ],
+          "HR-18": [
+            "Istria",
+            "伊斯特拉县"
+          ],
+          "HR-19": [
+            "Dubrovnik-Neretva",
+            "杜布罗夫尼克-内雷特瓦县"
+          ],
+          "HR-20": [
+            "Međimurje",
+            "梅吉穆列县"
+          ],
+          "HR-21": [
+            "City of Zagreb",
+            "萨格勒布市"
+          ]
+        }
+      },
+      "data": [
+        "data/hr/geo.js",
+        "data/hr/books.js",
+        "data/hr/places.js",
+        "data/hr/lines.js"
+      ],
+      "open": true,
+      "small_regions": [
+        "HR-21",
+        "HR-20"
+      ],
+      "wash": {}
     }
   ]
 }
