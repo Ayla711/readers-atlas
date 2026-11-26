@@ -1,0 +1,9 @@
+{
+ "lv-saulrieti": {"lat": 57.078114, "lon": 25.842204, "st": "Wikidata Q55424733 (Saulrieti, Skalbe summer house) P625", "su": "https://www.wikidata.org/wiki/Q55424733"},
+ "lv-ragaciems": {"lat": 57.02416667, "lon": 23.49166667, "st": "lv.wikipedia \"Ragaciems\" coordinates", "su": "https://lv.wikipedia.org/wiki/Ragaciems"},
+ "lv-lozmetejkalns": {"lat": 56.85277778, "lon": 23.66388889, "st": "lv.wikipedia \"Ložmetējkalns\" coordinates", "su": "https://lv.wikipedia.org/wiki/Ložmetējkalns"},
+ "lv-grizinkalns": {"lat": 56.95833333, "lon": 24.15472222, "st": "en.wikipedia \"Grīziņkalns\" coordinates", "su": "https://en.wikipedia.org/wiki/Grīziņkalns"},
+ "lv-sakstagals": {"lat": 56.53527778, "lon": 27.14361111, "st": "lv.wikipedia \"Sakstagals\" coordinates", "su": "https://lv.wikipedia.org/wiki/Sakstagals"},
+ "lv-lejasciems": {"lat": 57.27888889, "lon": 26.57583333, "st": "lv.wikipedia \"Lejasciems\" coordinates", "su": "https://lv.wikipedia.org/wiki/Lejasciems"},
+ "lv-liezere": {"lat": 57.01527778, "lon": 26.06555556, "st": "lv.wikipedia \"Liezēre\" coordinates", "su": "https://lv.wikipedia.org/wiki/Liezēre"}
+}

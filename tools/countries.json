@@ -7927,6 +7927,265 @@
       "open": true,
       "small_regions": [],
       "wash": {}
+    },
+    {
+      "code": "lv",
+      "iso": "LVA",
+      "name": "Latvia",
+      "name_zh": "拉脱维亚",
+      "short": "Latvia",
+      "short_zh": "拉脱维亚",
+      "region_term": {
+        "en": "municipality or state city",
+        "zh": "区或直辖市"
+      },
+      "bounds": [
+        20.9,
+        55.65,
+        28.3,
+        58.1
+      ],
+      "step": 0.004,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "LV-002": "LV-002",
+              "LV-007": "LV-007",
+              "LV-011": "LV-011",
+              "LV-015": "LV-015",
+              "LV-016": "LV-016",
+              "LV-022": "LV-022",
+              "LV-026": "LV-026",
+              "LV-033": "LV-033",
+              "LV-041": "LV-041",
+              "LV-042": "LV-042",
+              "LV-047": "LV-047",
+              "LV-050": "LV-050",
+              "LV-052": "LV-052",
+              "LV-054": "LV-054",
+              "LV-056": "LV-056",
+              "LV-058": "LV-058",
+              "LV-059": "LV-059",
+              "LV-062": "LV-062",
+              "LV-067": "LV-067",
+              "LV-068": "LV-068",
+              "LV-073": "LV-073",
+              "LV-077": "LV-077",
+              "LV-080": "LV-080",
+              "LV-087": "LV-087",
+              "LV-088": "LV-088",
+              "LV-089": "LV-089",
+              "LV-091": "LV-091",
+              "LV-094": "LV-094",
+              "LV-097": "LV-097",
+              "LV-099": "LV-099",
+              "LV-101": "LV-101",
+              "LV-106": "LV-106",
+              "LV-111": "LV-111",
+              "LV-112": "LV-112",
+              "LV-113": "LV-113",
+              "LV-DGV": "LV-DGV",
+              "LV-JEL": "LV-JEL",
+              "LV-JUR": "LV-JUR",
+              "LV-LPX": "LV-LPX",
+              "LV-REZ": "LV-REZ",
+              "LV-RIX": "LV-RIX",
+              "LV-VEN": "LV-VEN",
+              "LV-102": "LV-059"
+            }
+          }
+        ],
+        "names": {
+          "LV-002": [
+            "Aizkraukle Municipality",
+            "艾兹克拉乌克莱区"
+          ],
+          "LV-007": [
+            "Alūksne Municipality",
+            "阿卢克斯内区"
+          ],
+          "LV-011": [
+            "Ādaži Municipality",
+            "阿达日区"
+          ],
+          "LV-015": [
+            "Balvi Municipality",
+            "巴尔维区"
+          ],
+          "LV-016": [
+            "Bauska Municipality",
+            "包斯卡区"
+          ],
+          "LV-022": [
+            "Cēsis Municipality",
+            "采西斯区"
+          ],
+          "LV-026": [
+            "Dobele Municipality",
+            "多贝莱区"
+          ],
+          "LV-033": [
+            "Gulbene Municipality",
+            "古尔贝内区"
+          ],
+          "LV-041": [
+            "Jelgava Municipality",
+            "叶尔加瓦区"
+          ],
+          "LV-042": [
+            "Jēkabpils Municipality",
+            "叶卡布皮尔斯区"
+          ],
+          "LV-047": [
+            "Krāslava Municipality",
+            "克拉斯拉瓦区"
+          ],
+          "LV-050": [
+            "Kuldīga Municipality",
+            "库尔迪加区"
+          ],
+          "LV-052": [
+            "Ķekava Municipality",
+            "凯卡瓦区"
+          ],
+          "LV-054": [
+            "Limbaži Municipality",
+            "林巴日区"
+          ],
+          "LV-056": [
+            "Līvāni Municipality",
+            "利瓦尼区"
+          ],
+          "LV-058": [
+            "Ludza Municipality",
+            "卢扎区"
+          ],
+          "LV-059": [
+            "Madona Municipality",
+            "马多纳区"
+          ],
+          "LV-062": [
+            "Mārupe Municipality",
+            "马鲁佩区"
+          ],
+          "LV-067": [
+            "Ogre Municipality",
+            "奥格雷区"
+          ],
+          "LV-068": [
+            "Olaine Municipality",
+            "奥莱内区"
+          ],
+          "LV-073": [
+            "Preiļi Municipality",
+            "普雷伊利区"
+          ],
+          "LV-077": [
+            "Rēzekne Municipality",
+            "雷泽克内区"
+          ],
+          "LV-080": [
+            "Ropaži Municipality",
+            "罗帕日区"
+          ],
+          "LV-087": [
+            "Salaspils Municipality",
+            "萨拉斯皮尔斯区"
+          ],
+          "LV-088": [
+            "Saldus Municipality",
+            "萨尔杜斯区"
+          ],
+          "LV-089": [
+            "Saulkrasti Municipality",
+            "绍尔克拉斯蒂区"
+          ],
+          "LV-091": [
+            "Sigulda Municipality",
+            "锡古尔达区"
+          ],
+          "LV-094": [
+            "Smiltene Municipality",
+            "斯米尔特内区"
+          ],
+          "LV-097": [
+            "Talsi Municipality",
+            "塔尔西区"
+          ],
+          "LV-099": [
+            "Tukums Municipality",
+            "图库姆斯区"
+          ],
+          "LV-101": [
+            "Valka Municipality",
+            "瓦尔卡区"
+          ],
+          "LV-106": [
+            "Ventspils Municipality",
+            "文茨皮尔斯区"
+          ],
+          "LV-111": [
+            "Augšdaugava Municipality",
+            "上道加瓦区"
+          ],
+          "LV-112": [
+            "South Kurzeme Municipality",
+            "南库尔泽梅区"
+          ],
+          "LV-113": [
+            "Valmiera Municipality",
+            "瓦尔米耶拉区"
+          ],
+          "LV-DGV": [
+            "Daugavpils",
+            "陶格夫匹尔斯市"
+          ],
+          "LV-JEL": [
+            "Jelgava",
+            "叶尔加瓦市"
+          ],
+          "LV-JUR": [
+            "Jūrmala",
+            "尤尔马拉市"
+          ],
+          "LV-LPX": [
+            "Liepāja",
+            "利耶帕亚市"
+          ],
+          "LV-REZ": [
+            "Rēzekne",
+            "雷泽克内市"
+          ],
+          "LV-RIX": [
+            "Riga",
+            "里加市"
+          ],
+          "LV-VEN": [
+            "Ventspils",
+            "文茨皮尔斯市"
+          ]
+        }
+      },
+      "data": [
+        "data/lv/geo.js",
+        "data/lv/books.js",
+        "data/lv/places.js",
+        "data/lv/lines.js"
+      ],
+      "open": true,
+      "small_regions": [
+        "LV-JUR",
+        "LV-JEL",
+        "LV-REZ",
+        "LV-VEN",
+        "LV-LPX",
+        "LV-DGV",
+        "LV-RIX"
+      ],
+      "wash": {}
     }
   ]
 }

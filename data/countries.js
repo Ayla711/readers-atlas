@@ -1702,7 +1702,42 @@ window.RA_COUNTRIES = [
    "data/ee/lines.js"
   ],
   "open": true
+ },
+ {
+  "code": "lv",
+  "iso": "LVA",
+  "name": "Latvia",
+  "name_zh": "拉脱维亚",
+  "short": "Latvia",
+  "short_zh": "拉脱维亚",
+  "region_term": {
+   "en": "municipality or state city",
+   "zh": "区或直辖市"
+  },
+  "bounds": [
+   20.9,
+   55.65,
+   28.3,
+   58.1
+  ],
+  "small_regions": [
+   "LV-JUR",
+   "LV-JEL",
+   "LV-REZ",
+   "LV-VEN",
+   "LV-LPX",
+   "LV-DGV",
+   "LV-RIX"
+  ],
+  "wash": {},
+  "data": [
+   "data/lv/geo.js",
+   "data/lv/books.js",
+   "data/lv/places.js",
+   "data/lv/lines.js"
+  ],
+  "open": true
  }
 ];
 // Totals over every open country, for the world page.
-window.RA_WORLD_STATS = {"countries": 54, "books": 1772, "lines": 1714, "places": 1965};
+window.RA_WORLD_STATS = {"countries": 55, "books": 1779, "lines": 1719, "places": 1972};

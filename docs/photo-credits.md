@@ -1772,3 +1772,10 @@
 | Iru ämm, Iru hill | Rein Urm | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AIru_linnam%C3%A4gi_2013_%281%29.jpg) |
 | Tänassilma | Oktoober | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AT%C3%A4nassilma_j%C3%B5gi_Oiu.jpg) |
 | Tartu | Cayambe | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ATartu_Town_Hall_2015.jpg) |
+| Saulrieti, Vecpiebalga | J. Sedols | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AVecpiebalga%2C_K._Skalbes_muzejs_%22Saulrieti%22_2000-05-27.jpg) |
+| Ragaciems | Treisijs | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AImanta_Ziedo%C5%86a_un_Ausmas_Ziedones-Kant%C4%81nes_kapavieta.jpg) |
+| Ložmetējkalns | Evita wiki | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ALo%C5%BEmet%C4%93jkalns_Piemi%C5%86as_akmens.jpg) |
+| Grīziņkalns, Riga | Mārtiņš Bruņenieks | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AGr%C4%ABzi%C5%86kalns_-_d%C4%81rznieka_m%C4%81ja_%281%29.jpg) |
+| Sakstagals | J. Sedols | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AKolnas%C4%81ta_-_F._Trasuna_muzejs_Sakstagal%C4%81._2002-09-14.jpg) |
+| Liezēre | J. Sedols | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ALiezeres_bazn%C4%ABca_2001-08-25.jpg) |
+| Lejasciems | Semigallen | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AAnna_Sakse_monument_Lejasciems.jpg) |
