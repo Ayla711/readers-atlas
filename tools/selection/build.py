@@ -30,7 +30,7 @@ def build(spec):
         if hit and not isinstance(hit, list): used.add(hit)
         cats = sorted({cat(k) for k, v in pts.items() if v})
         q = len(cats) >= 2 or any(k.startswith("A") and v >= 4 for k, v in pts.items())
-        manual = ("不算" in dec) or ("没有真实地点" in dec) or ("没有真实地点" in note and "不收" in dec)
+        manual = ("不算" in dec) or ("没有真实地点" in dec) or ("没有真实地点" in note and "不收" in dec) or ("破例收" in dec)   # 破例收: the user chose to add a book the rule leaves out (al, 11-25)
         unver = "未核" in note or "未查" in note
         if manual: new = dec
         elif hit:
