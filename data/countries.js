@@ -1588,7 +1588,34 @@ window.RA_COUNTRIES = [
    "data/ba/lines.js"
   ],
   "open": true
+ },
+ {
+  "code": "rs",
+  "iso": "SRB",
+  "name": "Serbia",
+  "name_zh": "塞尔维亚",
+  "short": "Serbia",
+  "short_zh": "塞尔维亚",
+  "region_term": {
+   "en": "district",
+   "zh": "州"
+  },
+  "bounds": [
+   18.75,
+   41.8,
+   23.1,
+   46.25
+  ],
+  "small_regions": [],
+  "wash": {},
+  "data": [
+   "data/rs/geo.js",
+   "data/rs/books.js",
+   "data/rs/places.js",
+   "data/rs/lines.js"
+  ],
+  "open": true
  }
 ];
 // Totals over every open country, for the world page.
-window.RA_WORLD_STATS = {"countries": 50, "books": 1749, "lines": 1691, "places": 1945};
+window.RA_WORLD_STATS = {"countries": 51, "books": 1754, "lines": 1696, "places": 1949};

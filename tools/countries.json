@@ -7328,6 +7328,237 @@
         "BA-09"
       ],
       "wash": {}
+    },
+    {
+      "code": "rs",
+      "iso": "SRB",
+      "name": "Serbia",
+      "name_zh": "塞尔维亚",
+      "short": "Serbia",
+      "short_zh": "塞尔维亚",
+      "region_term": {
+        "en": "district",
+        "zh": "州"
+      },
+      "bounds": [
+        18.75,
+        41.8,
+        23.1,
+        46.25
+      ],
+      "step": 0.004,
+      "pov_units": [
+        "XK-X01~",
+        "XK-X02~",
+        "XK-X03~",
+        "XK-X04~",
+        "XK-X05~",
+        "XK-X06~",
+        "XK-X07~",
+        "XK-X08~",
+        "XK-X09~",
+        "XK-X10~",
+        "XK-X11~",
+        "XK-X12~",
+        "XK-X13~",
+        "XK-X14~",
+        "XK-X15~",
+        "XK-X16~",
+        "XK-X17~",
+        "XK-X18~",
+        "XK-X19~",
+        "XK-X20~",
+        "XK-X21~",
+        "XK-X22~",
+        "XK-X23~",
+        "XK-X24~",
+        "XK-X25~",
+        "XK-X26~",
+        "XK-X27~",
+        "XK-X28~",
+        "XK-X29~",
+        "XK-X30~"
+      ],
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "RS-00": "RS-00",
+              "RS-01": "RS-01",
+              "RS-02": "RS-02",
+              "RS-03": "RS-03",
+              "RS-04": "RS-04",
+              "RS-05": "RS-05",
+              "RS-06": "RS-06",
+              "RS-07": "RS-07",
+              "RS-08": "RS-08",
+              "RS-09": "RS-09",
+              "RS-10": "RS-10",
+              "RS-11": "RS-11",
+              "RS-12": "RS-12",
+              "RS-13": "RS-13",
+              "RS-14": "RS-14",
+              "RS-15": "RS-15",
+              "RS-16": "RS-16",
+              "RS-17": "RS-17",
+              "RS-18": "RS-18",
+              "RS-19": "RS-19",
+              "RS-20": "RS-20",
+              "RS-21": "RS-21",
+              "RS-22": "RS-22",
+              "RS-23": "RS-23",
+              "RS-24": "RS-24",
+              "XK-X01~": "RS-KM",
+              "XK-X02~": "RS-KM",
+              "XK-X03~": "RS-KM",
+              "XK-X04~": "RS-KM",
+              "XK-X05~": "RS-KM",
+              "XK-X06~": "RS-KM",
+              "XK-X07~": "RS-KM",
+              "XK-X08~": "RS-KM",
+              "XK-X09~": "RS-KM",
+              "XK-X10~": "RS-KM",
+              "XK-X11~": "RS-KM",
+              "XK-X12~": "RS-KM",
+              "XK-X13~": "RS-KM",
+              "XK-X14~": "RS-KM",
+              "XK-X15~": "RS-KM",
+              "XK-X16~": "RS-KM",
+              "XK-X17~": "RS-KM",
+              "XK-X18~": "RS-KM",
+              "XK-X19~": "RS-KM",
+              "XK-X20~": "RS-KM",
+              "XK-X21~": "RS-KM",
+              "XK-X22~": "RS-KM",
+              "XK-X23~": "RS-KM",
+              "XK-X24~": "RS-KM",
+              "XK-X25~": "RS-KM",
+              "XK-X26~": "RS-KM",
+              "XK-X27~": "RS-KM",
+              "XK-X28~": "RS-KM",
+              "XK-X29~": "RS-KM",
+              "XK-X30~": "RS-KM"
+            }
+          }
+        ],
+        "names": {
+          "RS-00": [
+            "City of Belgrade",
+            "贝尔格莱德市"
+          ],
+          "RS-01": [
+            "North Bačka",
+            "北巴奇卡州"
+          ],
+          "RS-02": [
+            "Central Banat",
+            "中巴纳特州"
+          ],
+          "RS-03": [
+            "North Banat",
+            "北巴纳特州"
+          ],
+          "RS-04": [
+            "South Banat",
+            "南巴纳特州"
+          ],
+          "RS-05": [
+            "West Bačka",
+            "西巴奇卡州"
+          ],
+          "RS-06": [
+            "South Bačka",
+            "南巴奇卡州"
+          ],
+          "RS-07": [
+            "Srem",
+            "斯雷姆州"
+          ],
+          "RS-08": [
+            "Mačva",
+            "马奇瓦州"
+          ],
+          "RS-09": [
+            "Kolubara",
+            "科卢巴拉州"
+          ],
+          "RS-10": [
+            "Podunavlje",
+            "波杜纳维耶州"
+          ],
+          "RS-11": [
+            "Braničevo",
+            "布拉尼切沃州"
+          ],
+          "RS-12": [
+            "Šumadija",
+            "舒马迪亚州"
+          ],
+          "RS-13": [
+            "Pomoravlje",
+            "波莫拉夫列州"
+          ],
+          "RS-14": [
+            "Bor",
+            "博尔州"
+          ],
+          "RS-15": [
+            "Zaječar",
+            "扎耶查尔州"
+          ],
+          "RS-16": [
+            "Zlatibor",
+            "兹拉蒂博尔州"
+          ],
+          "RS-17": [
+            "Moravica",
+            "莫拉维察州"
+          ],
+          "RS-18": [
+            "Raška",
+            "拉什卡州"
+          ],
+          "RS-19": [
+            "Rasina",
+            "拉辛州"
+          ],
+          "RS-20": [
+            "Nišava",
+            "尼沙瓦州"
+          ],
+          "RS-21": [
+            "Toplica",
+            "托普利察州"
+          ],
+          "RS-22": [
+            "Pirot",
+            "皮罗特州"
+          ],
+          "RS-23": [
+            "Jablanica",
+            "亚布拉尼察州"
+          ],
+          "RS-24": [
+            "Pčinja",
+            "普钦尼亚州"
+          ],
+          "RS-KM": [
+            "Kosovo",
+            "科索沃"
+          ]
+        }
+      },
+      "data": [
+        "data/rs/geo.js",
+        "data/rs/books.js",
+        "data/rs/places.js",
+        "data/rs/lines.js"
+      ],
+      "open": true,
+      "small_regions": [],
+      "wash": {}
     }
   ]
 }

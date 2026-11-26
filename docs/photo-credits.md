@@ -1755,3 +1755,7 @@
 | Mehmed Paša Sokolović Bridge, Višegrad | Marcin Szala | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AMehmed_Pa%C5%A1a_Sokolovi%C4%87_Bridge%2C_Vi%C5%A1egrad.JPG) |
 | Sarajevo | Choinowski | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABa%C5%A1%C4%8Dar%C5%A1ija_2014.jpg) |
 | Travnik | Kondephy | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AView_over_Travnik.jpg) |
+| Velika Drenova | Sonjabgd | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AVelika_Drenova_-Crkva.JPG) |
+| Monument to Milorad Pavić, Tašmajdan Park | Press Service of the President of the Republic of Azerbaijan | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AIlham_Aliyev_visited_monuments_to_national_leader_Heydar_Aliyev_and_Milorad_Pavic_in_Tasmajdan_park%2C_Belgrade_07.jpg) |
+| Novi Sad | Ванилица | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AWiki.Vojvodina_II_Freedom_Square_%28Novi_Sad%29_058.jpg) |
+| Belgrade | Mickey Mystique | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AKalemegdan%2C_a04.jpg) |

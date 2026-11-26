@@ -1,0 +1,6 @@
+{
+ "rs-velika-drenova": {"lat": 43.6264819, "lon": 21.1301216, "st": "sr.wikipedia \"Велика Дренова\" coordinates (en.wikipedia and Wikidata Q3555317 give only 43°38′N 21°08′E)", "su": "https://sr.wikipedia.org/wiki/Велика_Дренова"},
+ "rs-pavic-monument": {"lat": 44.80887075, "lon": 20.47190838, "st": "Wikidata Q97201398 (Споменик Милораду Павићу у Београду) P625", "su": "https://www.wikidata.org/wiki/Q97201398"},
+ "rs-novi-sad": {"lat": 45.25416667, "lon": 19.8425, "st": "en.wikipedia \"Novi Sad\" coordinates", "su": "https://en.wikipedia.org/wiki/Novi_Sad"},
+ "rs-belgrade": {"lat": 44.81777778, "lon": 20.45694444, "st": "en.wikipedia \"Belgrade\" coordinates", "su": "https://en.wikipedia.org/wiki/Belgrade"}
+}
