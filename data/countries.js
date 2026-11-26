@@ -1675,7 +1675,34 @@ window.RA_COUNTRIES = [
    "data/al/lines.js"
   ],
   "open": true
+ },
+ {
+  "code": "ee",
+  "iso": "EST",
+  "name": "Estonia",
+  "name_zh": "爱沙尼亚",
+  "short": "Estonia",
+  "short_zh": "爱沙尼亚",
+  "region_term": {
+   "en": "county",
+   "zh": "县"
+  },
+  "bounds": [
+   21.7,
+   57.45,
+   28.25,
+   59.75
+  ],
+  "small_regions": [],
+  "wash": {},
+  "data": [
+   "data/ee/geo.js",
+   "data/ee/books.js",
+   "data/ee/places.js",
+   "data/ee/lines.js"
+  ],
+  "open": true
  }
 ];
 // Totals over every open country, for the world page.
-window.RA_WORLD_STATS = {"countries": 53, "books": 1762, "lines": 1705, "places": 1956};
+window.RA_WORLD_STATS = {"countries": 54, "books": 1772, "lines": 1714, "places": 1965};

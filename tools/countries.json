@@ -7812,6 +7812,121 @@
       "open": true,
       "small_regions": [],
       "wash": {}
+    },
+    {
+      "code": "ee",
+      "iso": "EST",
+      "name": "Estonia",
+      "name_zh": "爱沙尼亚",
+      "short": "Estonia",
+      "short_zh": "爱沙尼亚",
+      "region_term": {
+        "en": "county",
+        "zh": "县"
+      },
+      "bounds": [
+        21.7,
+        57.45,
+        28.25,
+        59.75
+      ],
+      "step": 0.003,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "EE-37": "EE-37",
+              "EE-39": "EE-39",
+              "EE-44": "EE-44",
+              "EE-49": "EE-49",
+              "EE-51": "EE-51",
+              "EE-57": "EE-57",
+              "EE-59": "EE-59",
+              "EE-65": "EE-65",
+              "EE-67": "EE-67",
+              "EE-70": "EE-70",
+              "EE-74": "EE-74",
+              "EE-78": "EE-78",
+              "EE-82": "EE-82",
+              "EE-84": "EE-84",
+              "EE-86": "EE-86"
+            }
+          }
+        ],
+        "names": {
+          "EE-37": [
+            "Harju",
+            "哈留县"
+          ],
+          "EE-39": [
+            "Hiiu",
+            "希乌县"
+          ],
+          "EE-44": [
+            "Ida-Viru",
+            "东维鲁县"
+          ],
+          "EE-49": [
+            "Jõgeva",
+            "约格瓦县"
+          ],
+          "EE-51": [
+            "Järva",
+            "耶尔瓦县"
+          ],
+          "EE-57": [
+            "Lääne",
+            "莱内县"
+          ],
+          "EE-59": [
+            "Lääne-Viru",
+            "西维鲁县"
+          ],
+          "EE-65": [
+            "Põlva",
+            "珀尔瓦县"
+          ],
+          "EE-67": [
+            "Pärnu",
+            "派尔努县"
+          ],
+          "EE-70": [
+            "Rapla",
+            "拉普拉县"
+          ],
+          "EE-74": [
+            "Saare",
+            "萨雷县"
+          ],
+          "EE-78": [
+            "Tartu",
+            "塔尔图县"
+          ],
+          "EE-82": [
+            "Valga",
+            "瓦尔加县"
+          ],
+          "EE-84": [
+            "Viljandi",
+            "维尔扬迪县"
+          ],
+          "EE-86": [
+            "Võru",
+            "沃鲁县"
+          ]
+        }
+      },
+      "data": [
+        "data/ee/geo.js",
+        "data/ee/books.js",
+        "data/ee/places.js",
+        "data/ee/lines.js"
+      ],
+      "open": true,
+      "small_regions": [],
+      "wash": {}
     }
   ]
 }

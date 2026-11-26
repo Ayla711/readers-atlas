@@ -1,0 +1,11 @@
+{
+ "ee-vargamae": {"lat": 59.11227611, "lon": 25.58945694, "st": "et.wikipedia \"A. H. Tammsaare muuseum (Vargamäe)\" coordinates", "su": "https://et.wikipedia.org/wiki/A._H._Tammsaare_muuseum_(Vargamäe)"},
+ "ee-palamuse": {"lat": 58.68472222, "lon": 26.58416667, "st": "et.wikipedia \"Palamuse\" coordinates", "su": "https://et.wikipedia.org/wiki/Palamuse"},
+ "ee-iru-amm": {"lat": 59.460261, "lon": 24.905896, "st": "et.wikipedia \"Iru ämm\" coordinates", "su": "https://et.wikipedia.org/wiki/Iru_ämm"},
+ "ee-tallinn": {"lat": 59.43722222, "lon": 24.745, "st": "et.wikipedia \"Tallinn\" coordinates", "su": "https://et.wikipedia.org/wiki/Tallinn"},
+ "ee-voisiku": {"lat": 58.625277, "lon": 25.9225, "st": "et.wikipedia \"Võisiku mõis\" coordinates", "su": "https://et.wikipedia.org/wiki/Võisiku_mõis"},
+ "ee-kaali": {"lat": 58.372778, "lon": 22.669444, "st": "et.wikipedia \"Kaali kraater\" coordinates", "su": "https://et.wikipedia.org/wiki/Kaali_kraater"},
+ "ee-tartu": {"lat": 58.38, "lon": 26.7225, "st": "et.wikipedia \"Tartu\" coordinates", "su": "https://et.wikipedia.org/wiki/Tartu"},
+ "ee-tanassilma": {"lat": 58.39166667, "lon": 25.83638889, "st": "et.wikipedia \"Tänassilma\" coordinates", "su": "https://et.wikipedia.org/wiki/Tänassilma"},
+ "ee-open-air-museum": {"lat": 59.43138889, "lon": 24.63805556, "st": "et.wikipedia \"Eesti Vabaõhumuuseum\" coordinates", "su": "https://et.wikipedia.org/wiki/Eesti_Vabaõhumuuseum"}
+}

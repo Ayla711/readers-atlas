@@ -1765,3 +1765,10 @@
 | Rab | Isiwal | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A20140505_Rab_old_town_1.jpg) |
 | Vinkovci | MirkoS18 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A%C5%BDeljezni%C4%8Dki_kolodvor_Vinkovci_-_%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%B8%D1%87%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D1%86%D0%B0_%D0%92%D0%B8%D0%BD%D0%BA%D0%BE%D0%B2%D1%86%D0%B8.jpg) |
 | Hotel Dajti, Tirana | Marie Čcheidzeová | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AHotel_Dajti_2008.jpg) |
+| Estonian Open Air Museum, Rocca al Mare | Bahnfrend | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AEstonian_Open_Air_Museum%2C_2006_%2802%29.jpg) |
+| Vargamäe (A. H. Tammsaare Museum) | Ivo Kruusamägi from Estonian Wikipedia | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AA._H._Tammsaare_museum_in_Vargam%C3%A4e_2007.JPG) |
+| Palamuse | Minnekon | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3APalamuse_parv_2024.jpg) |
+| Kaali crater, Saaremaa | ansik | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AKaali_kraater_2006.jpg) |
+| Iru ämm, Iru hill | Rein Urm | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AIru_linnam%C3%A4gi_2013_%281%29.jpg) |
+| Tänassilma | Oktoober | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AT%C3%A4nassilma_j%C3%B5gi_Oiu.jpg) |
+| Tartu | Cayambe | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ATartu_Town_Hall_2015.jpg) |
