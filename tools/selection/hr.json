@@ -1,0 +1,554 @@
+{
+ "cc": "hr",
+ "name": "克罗地亚",
+ "date": "2026-11-25",
+ "rule": "v2",
+ "sources": {
+  "A1": "《民族》周刊（Nacional）2002 年 1 月「每个克罗地亚人都该读的 20 本书」大调查结果（arhiva.nacional.hr/clanak/12956，11-25 读全表，见 verify/src_1125/hr_lists.txt）；克罗地亚作品 5 项：第 8《旗帜》、第 9《独眼巨人》、第 10 乌耶维奇诗歌、第 12《彼特里察·克伦普赫歌谣》、第 13 德拉戈耶维奇诗歌",
+  "A2": "《晨报》（Jutarnji list）2010 年请约 40 位学者、作家和公众人物评「最好的克罗地亚小说」；只查到第一名《独眼巨人》（hr、en 维基），完整名次没找到，所以只给《独眼巨人》记分（verify/src_1125/hr_lists.txt）",
+  "B": "克罗地亚语课程（NN 10/2019）：高中各年级必读书记 2，「经典作品选读书目」记 1；国家会考目录 2026 表 4 与必读书一致（verify/src_1125/hr_curriculum.txt）",
+  "C": "NIN 奖（1991 年以前是全南斯拉夫的年度小说奖）；独立后的年度小说奖（tportal 等）只评当年新书，本表的候选里没有拿来对照，不计",
+  "BK": "挪威世界文库 100 本里没有克罗地亚作品",
+  "D": "thegreatestbooks.org 总榜前 2000 名（11-25 逐页读完 80 页；verify/src_1125/tgb_top2000_subset_1125.txt）",
+  "E": "Goodreads 评分人数（自动补全接口，11-25；verify/src_1125/hr_rs_goodreads.tsv）"
+ },
+ "size_note": "规则 v2：两项证据或进 A 名单前 10 就够格；不设名额。克罗地亚第一次评；表里只有《东方快车谋杀案》已在应用里（土耳其包）。本表结果：新增 8（其中《东方快车谋杀案》已在土耳其包，只加地点；《独眼巨人》《旗帜》、乌耶维奇诗选、《彼特里察·克伦普赫歌谣》、德拉戈耶维奇诗选、《黄金、乳香和没药》《理智的边缘》《东方快车谋杀案》），不算克罗地亚 5，其余只有一项证据，不收。两本诗选按 A-24 挂诗人的出生地（乌耶维奇的出生地是弗尔戈拉茨的蒂恩塔，今为纪念场所）。课程必读的《格伦巴伊一家》只有课程一项，按规则不收。",
+ "rows": [
+  {
+   "title": "Cyclops (Kiklop)",
+   "author": "Ranko Marinković",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "A2": 4,
+    "B": 2,
+    "C": 2
+   },
+   "score": 12,
+   "cats": [
+    "A1",
+    "A2",
+    "B",
+    "C"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "《民族》第 9，《晨报》第 1；高中 4 年级必读；NIN 奖 1965；不在 D 前 2000 · Goodreads 1,887；核地点：二战前夕萨格勒布的文人和艺术家圈子（hr 维基），挂萨格勒布市中心点"
+  },
+  {
+   "title": "The Banners (Zastave)",
+   "author": "Miroslav Krleža",
+   "kind": "本国",
+   "points": {
+    "A1": 4
+   },
+   "score": 4,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "《民族》第 8；不在课程、不在 D 前 2000 · Goodreads 89（五卷本）；核地点：以萨格勒布上流家庭的卡米洛·埃梅里奇基为中心，写 20 世纪前三十年克罗地亚、匈牙利和塞尔维亚的政局（hr 维基），挂萨格勒布市中心点"
+  },
+  {
+   "title": "Poems (Tin Ujević)",
+   "author": "Tin Ujević",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "B": 2
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "B"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "《民族》第 10（「诗歌」）；高中 3 年级必读（诗选 10 首）；不在 D 前 2000 · Goodreads 231（《诗选》）；核地点：诗不写某一个地方，按 A-24 挂他的出生地弗尔戈拉茨的蒂恩塔，塔里每年办纪念他的文学活动（hr 维基）"
+  },
+  {
+   "title": "Ballads of Petrica Kerempuh (Balade Petrice Kerempuha)",
+   "author": "Miroslav Krleža",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "B": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "B"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "《民族》第 12；高中选读；不在 D 前 2000 · Goodreads 181；核地点：诗集的核心主题之一是 1573 年古贝茨农民起义（hr 维基），挂起义发生地上斯图比察的农民起义博物馆"
+  },
+  {
+   "title": "Poems (Danijel Dragojević)",
+   "author": "Danijel Dragojević",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "B": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "B"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "《民族》第 13（「诗歌」）；高中选读（诗选）；不在 D 前 2000 · Goodreads 126（他人数最多的一本《晚夏》）；核地点：诗不写某一个地方，按 A-24 挂他的出生地科尔丘拉岛上的韦拉卢卡"
+  },
+  {
+   "title": "Gold, Frankincense and Myrrh (Mirisi, zlato i tamjan)",
+   "author": "Slobodan Novak",
+   "kind": "本国",
+   "points": {
+    "B": 1,
+    "C": 2
+   },
+   "score": 3,
+   "cats": [
+    "B",
+    "C"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "NIN 奖 1968；高中选读；不在 D 前 2000 · Goodreads 511；核地点：小说里的岛没写名字（hr 维基），作者一生和拉布岛连在一起、最好的作品都献给了它（《新报》），挂拉布城（原型）"
+  },
+  {
+   "title": "On the Edge of Reason (Na rubu pameti)",
+   "author": "Miroslav Krleža",
+   "kind": "本国",
+   "points": {
+    "B": 1,
+    "D": 1
+   },
+   "score": 2,
+   "cats": [
+    "B",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "高中选读；D 1565 · Goodreads 1,989；核地点：萨格勒布（en 维基）"
+  },
+  {
+   "title": "Murder on the Orient Express",
+   "author": "Agatha Christie",
+   "kind": "外国",
+   "points": {
+    "D": 2,
+    "E": 2
+   },
+   "score": 4,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "书已在应用里（土耳其包，挂伊斯坦布尔锡尔凯吉站），这里只给它加克罗地亚的地点和场景：列车被大雪困在温科夫奇和布罗德之间（en 维基），命案和侦破都在这里，挂温科夫奇；D 470 · Goodreads 783,187"
+  },
+  {
+   "title": "The Glembays (Gospoda Glembajevi)",
+   "author": "Miroslav Krleža",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "剧本；高中 4 年级必读；不在 D 前 2000 · Goodreads 4,817"
+  },
+  {
+   "title": "Prijan Lovro",
+   "author": "August Šenoa",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "高中 1 年级必读；不在 D 前 2000 · Goodreads 1,920"
+  },
+  {
+   "title": "The Last of the Stipančićs (Posljednji Stipančići)",
+   "author": "Vjenceslav Novak",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "高中 1 年级必读；不在 D 前 2000 · Goodreads 2,172"
+  },
+  {
+   "title": "Novela od Stanca",
+   "author": "Marin Držić",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "剧本；高中 2 年级必读；不在 D 前 2000 · Goodreads 1,224"
+  },
+  {
+   "title": "Dubravka",
+   "author": "Ivan Gundulić",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "剧本；高中 3 年级必读；不在 D 前 2000 · Goodreads 840"
+  },
+  {
+   "title": "The Return of Philip Latinowicz (Povratak Filipa Latinovicza)",
+   "author": "Miroslav Krleža",
+   "kind": "本国",
+   "points": {
+    "B": 1
+   },
+   "score": 1,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "高中选读；不在 D 前 2000 · Goodreads 3,152"
+  },
+  {
+   "title": "The Goldsmith's Gold (Zlatarovo zlato)",
+   "author": "August Šenoa",
+   "kind": "本国",
+   "points": {
+    "B": 1
+   },
+   "score": 1,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "高中选读；不在 D 前 2000 · Goodreads 2,227"
+  },
+  {
+   "title": "In the Registry (U registraturi)",
+   "author": "Ante Kovačić",
+   "kind": "本国",
+   "points": {
+    "B": 1
+   },
+   "score": 1,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "高中选读；不在 D 前 2000 · Goodreads 2,163"
+  },
+  {
+   "title": "The Springs of Ivan Galeb (Proljeća Ivana Galeba)",
+   "author": "Vladan Desnica",
+   "kind": "本国",
+   "points": {
+    "B": 1
+   },
+   "score": 1,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "高中选读；不在 D 前 2000 · Goodreads 1,115"
+  },
+  {
+   "title": "Dundo Maroje",
+   "author": "Marin Držić",
+   "kind": "本国",
+   "points": {
+    "B": 1
+   },
+   "score": 1,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "剧本，故事在罗马；高中选读；不在 D 前 2000 · Goodreads 1,696"
+  },
+  {
+   "title": "Judita",
+   "author": "Marko Marulić",
+   "kind": "本国",
+   "points": {
+    "B": 1
+   },
+   "score": 1,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "高中选读（节选）；不在 D 前 2000 · Goodreads 695"
+  },
+  {
+   "title": "Hasanaginica",
+   "author": "folk ballad",
+   "kind": "本国",
+   "points": {
+    "B": 1
+   },
+   "score": 1,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "写伊莫茨基一带；高中选读；不在 D 前 2000 · Goodreads 89"
+  },
+  {
+   "title": "Fording the Stream of Consciousness (Forsiranje romana-reke)",
+   "author": "Dubravka Ugrešić",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "NIN 奖 1988；不在课程、不在 D 前 2000 · Goodreads 666"
+  },
+  {
+   "title": "The Unwept (Neisplakani)",
+   "author": "Mirko Božić",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "NIN 奖 1955；不在课程、不在 D 前 2000 · Goodreads 8"
+  },
+  {
+   "title": "Vir",
+   "author": "Jure Franičević-Pločar",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "NIN 奖 1974；不在课程、不在 D 前 2000 · Goodreads 8"
+  },
+  {
+   "title": "The Museum of Unconditional Surrender",
+   "author": "Dubravka Ugrešić",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "不在课程、不在 D 前 2000 · Goodreads 1,664"
+  },
+  {
+   "title": "Trieste (Sonnenschein)",
+   "author": "Daša Drndić",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "故事主要在意大利戈里齐亚；不在 D 前 2000 · Goodreads 1,501"
+  },
+  {
+   "title": "Girl at War",
+   "author": "Sara Nović",
+   "kind": "外国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "不在 D 前 2000 · Goodreads 35,170"
+  },
+  {
+   "title": "Twelfth Night",
+   "author": "William Shakespeare",
+   "kind": "外国",
+   "points": {
+    "E": 2
+   },
+   "score": 2,
+   "cats": [
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "伊利里亚是剧中一个泛称的海岸国度，不是具体地点；不在 D 前 2000 · Goodreads 199,583"
+  },
+  {
+   "title": "Mathias Sandorf",
+   "author": "Jules Verne",
+   "kind": "外国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "部分写帕津和伊斯特拉；不在 D 前 2000 · Goodreads 1,028"
+  },
+  {
+   "title": "The Hired Man",
+   "author": "Aminatta Forna",
+   "kind": "外国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "不在 D 前 2000 · Goodreads 4,590"
+  },
+  {
+   "title": "The Death of Smail-aga Čengić (Smrt Smail-age Čengića)",
+   "author": "Ivan Mažuranić",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不算克罗地亚",
+   "first_draft": "不算克罗地亚",
+   "note": "写黑塞哥维那的加茨科一带（今波黑），以后看波黑表；高中 3 年级必读 · Goodreads 2,021"
+  },
+  {
+   "title": "A Tomb for Boris Davidovich (Grobnica za Borisa Davidoviča)",
+   "author": "Danilo Kiš",
+   "kind": "外国（塞尔维亚）",
+   "points": {
+    "A1": 3,
+    "D": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "不算克罗地亚",
+   "first_draft": "不算克罗地亚",
+   "note": "《民族》第 11；写苏联和东欧的清洗；D 931 · Goodreads 3,813"
+  },
+  {
+   "title": "The Damned Yard (Prokleta avlija)",
+   "author": "Ivo Andrić",
+   "kind": "外国（波黑）",
+   "points": {
+    "B": 2,
+    "E": 1
+   },
+   "score": 3,
+   "cats": [
+    "B",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不算克罗地亚",
+   "first_draft": "不算克罗地亚",
+   "note": "写伊斯坦布尔的监狱，留给土耳其表；课程总表必读 · Goodreads 11,976"
+  },
+  {
+   "title": "The Bridge on the Drina (Na Drini ćuprija)",
+   "author": "Ivo Andrić",
+   "kind": "外国（波黑）",
+   "points": {
+    "B": 1,
+    "E": 1
+   },
+   "score": 2,
+   "cats": [
+    "B",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不算克罗地亚",
+   "first_draft": "不算克罗地亚",
+   "note": "已在波黑表（维舍格拉德）；高中选读 · Goodreads 27,112"
+  }
+ ]
+}
