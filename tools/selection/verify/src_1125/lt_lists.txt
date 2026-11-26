@@ -1,0 +1,16 @@
+# Lithuania, A lists, read 11-26.
+# A1: "67 įsimintiniausi visų laikų lietuvių autorių grožiniai kūriniai: kas atsidūrė viršuje?", LRT.lt, 2026-06-08 15:48
+#     (https://www.lrt.lt/naujienos/kultura/12/2954252/), first published on the blog "Fantastiškų(-os) knygų žiurkės".
+#     The blogger asked 63 people who work with books (writers, poets, translators, journalists, editors, literary scholars,
+#     Lithuanian teachers, ...) for personal lists of the best Lithuanian fiction; 277 works were named 1,060 times.
+#     Ranked by number of mentions (Silva Rerum counted as one work across its parts):
+1 Dievų miškas (Sruoga) 47; 2 Silva Rerum (Sabaliauskaitė) 42; 3-4 Balta drobulė (Škėma) 37; 3-4 Pietinia kronikas (Kmita) 37;
+5 Altorių šešėly (Mykolaitis-Putinas) 36; 6 Vilniaus pokeris (Gavelis) 32; 7 Mylimi kaulai (Zylė) 31; 8 Tūla (Kunčinas) 29;
+9 Ragana ir lietus (Ivanauskaitė) 24; 10-11 Lygiosios trunka akimirką (Meras) 19; 10-11 Mano vardas – Marytė (Šlepikas) 19;
+12-14 Anglų kalbos žodynas (Cicėnaitė), Marti ir kiti apsakymai (Žemaitė), Šiąnakt aš miegosiu prie sienos (Radvilavičiūtė) 14;
+15-16 Trys sekundės dangaus (Parulskis), Diseris (Žiūra) 13; 17-20 Žalčio žvilgsnis (Kondrotas), Baltieji prieš juoduosius
+(Kalinauskaitė), Priešaušrio vieškeliai (Radzevičius), Lietuviai prie Laptevų jūros (Grinkevičiūtė) 12
+#     Ranks 21-67 are in the article; not copied here because the user's decision (11-26) takes only the top 10.
+#     Rule: the two books tied at 10-11 both count as "top 10" (A1 4). The user asked for exactly 10 books (11-26):
+#     ranks 1-9 plus, of the tie, the one with more Goodreads ratings (Mano vardas – Marytė 3,824 > Lygiosios trunka akimirką 3,156).
+# A2: none used. This is a single list; no second national list was read and scored for Lithuania.
