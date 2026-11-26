@@ -1779,3 +1779,13 @@
 | Sakstagals | J. Sedols | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AKolnas%C4%81ta_-_F._Trasuna_muzejs_Sakstagal%C4%81._2002-09-14.jpg) |
 | Liezēre | J. Sedols | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ALiezeres_bazn%C4%ABca_2001-08-25.jpg) |
 | Lejasciems | Semigallen | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AAnna_Sakse_monument_Lejasciems.jpg) |
+| Rasos Cemetery, Vilnius | arz | [Public domain](https://en.wikipedia.org/wiki/Public_domain) | [Commons](https://commons.wikimedia.org/wiki/File%3ARasos_entrance.jpg) |
+| Antakalnis Cemetery, Vilnius | Augustas Didžgalvis | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AAntakalnio_kap_by_Augustas_Didzgalvis.jpg) |
+| St Michael's Church, Vilnius | John Samuel | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AChurch_of_St_Michael%2C_Vilnius%2C_Lithuania.jpg) |
+| St George's Church, Vilnius | Pofka | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ASide-view_of_the_Church_of_St._George_in_Vilnius%2C_Lithuania_in_2023.jpg) |
+| Užupis, Vilnius | Stela | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File%3APrie_Men%C5%B3_inkubatoriaus.jpg) |
+| Pilotiškės | VytautasDegutis at Lithuanian Wikipedia | [Public domain](https://en.wikipedia.org/wiki/Public_domain) | [Commons](https://commons.wikimedia.org/wiki/File%3AAu%C5%A1rakalnis.JPG) |
+| Lieporiai, Šiauliai | Mind lt | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File%3ASiauliu_Lieporiu_gimnazija.jpg) |
+| Wolf Children Memorial, Mikytai | Ruth Leiserowitz | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AWolfskinder-Denkmal_in_Mikytai%2C_1995.jpg) |
+| Stutthof Museum, Sztutowo | kallerna | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AStutthof_concentration_camp_2016.jpg) |
+| 34th Street, Manhattan | Tdorante10 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A34th_St_9th_Av_td_%282018-08-16%29_11.jpg) |

@@ -1,0 +1,12 @@
+{
+ "lt-rasos": {"lat": 54.66833333, "lon": 25.30444444, "st": "en.wikipedia \"Rasos Cemetery\" coordinates", "su": "https://en.wikipedia.org/wiki/Rasos_Cemetery"},
+ "lt-sv-mykolo": {"lat": 54.6828, "lon": 25.2922, "st": "lt.wikipedia \"Vilniaus šv. arkangelo Mykolo bažnyčia\" coordinates", "su": "https://lt.wikipedia.org/wiki/Vilniaus_šv._arkangelo_Mykolo_bažnyčia"},
+ "lt-lieporiai": {"lat": 55.906, "lon": 23.267, "st": "lt.wikipedia \"Lieporiai (Šiauliai)\" coordinates", "su": "https://lt.wikipedia.org/wiki/Lieporiai_(Šiauliai)"},
+ "lt-pilotiskes": {"lat": 54.552, "lon": 23.714, "st": "lt.wikipedia \"Pilotiškės\" coordinates", "su": "https://lt.wikipedia.org/wiki/Pilotiškės"},
+ "lt-sv-jurgio": {"lat": 54.6876, "lon": 25.2825, "st": "lt.wikipedia \"Vilniaus šv. Jurgio bažnyčia\" coordinates", "su": "https://lt.wikipedia.org/wiki/Vilniaus_šv._Jurgio_bažnyčia"},
+ "lt-uzupis": {"lat": 54.68055556, "lon": 25.29694444, "st": "en.wikipedia \"Užupis\" coordinates", "su": "https://en.wikipedia.org/wiki/Užupis"},
+ "lt-antakalnis": {"lat": 54.698, "lon": 25.321, "st": "en.wikipedia \"Antakalnis Cemetery\" coordinates", "su": "https://en.wikipedia.org/wiki/Antakalnis_Cemetery"},
+ "lt-mikytai": {"lat": 55.124, "lon": 21.951, "st": "lt.wikipedia \"Mikytai (Pagėgiai)\" coordinates", "su": "https://lt.wikipedia.org/wiki/Mikytai_(Pagėgiai)"},
+ "pl-stutthof": {"lat": 54.32888889, "lon": 19.15388889, "st": "en.wikipedia \"Stutthof concentration camp\" coordinates", "su": "https://en.wikipedia.org/wiki/Stutthof_concentration_camp"},
+ "us-ny-34th-street": {"lat": 40.7506, "lon": -73.9896, "st": "en.wikipedia \"34th Street (Manhattan)\" coordinates", "su": "https://en.wikipedia.org/wiki/34th_Street_(Manhattan)"}
+}

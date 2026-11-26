@@ -8186,6 +8186,96 @@
         "LV-RIX"
       ],
       "wash": {}
+    },
+    {
+      "code": "lt",
+      "iso": "LTU",
+      "name": "Lithuania",
+      "name_zh": "立陶宛",
+      "short": "Lithuania",
+      "short_zh": "立陶宛",
+      "region_term": {
+        "en": "county",
+        "zh": "县"
+      },
+      "bounds": [
+        20.9,
+        53.85,
+        26.9,
+        56.5
+      ],
+      "step": 0.003,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "LT-AL": "LT-AL",
+              "LT-KL": "LT-KL",
+              "LT-KU": "LT-KU",
+              "LT-MR": "LT-MR",
+              "LT-PN": "LT-PN",
+              "LT-SA": "LT-SA",
+              "LT-TA": "LT-TA",
+              "LT-TE": "LT-TE",
+              "LT-UT": "LT-UT",
+              "LT-VL": "LT-VL"
+            }
+          }
+        ],
+        "names": {
+          "LT-AL": [
+            "Alytus",
+            "阿利图斯县"
+          ],
+          "LT-KL": [
+            "Klaipėda",
+            "克莱佩达县"
+          ],
+          "LT-KU": [
+            "Kaunas",
+            "考纳斯县"
+          ],
+          "LT-MR": [
+            "Marijampolė",
+            "马里扬泊列县"
+          ],
+          "LT-PN": [
+            "Panevėžys",
+            "帕内韦日斯县"
+          ],
+          "LT-SA": [
+            "Šiauliai",
+            "希奥利艾县"
+          ],
+          "LT-TA": [
+            "Tauragė",
+            "陶拉格县"
+          ],
+          "LT-TE": [
+            "Telšiai",
+            "特尔希艾县"
+          ],
+          "LT-UT": [
+            "Utena",
+            "乌田纳县"
+          ],
+          "LT-VL": [
+            "Vilnius",
+            "维尔纽斯县"
+          ]
+        }
+      },
+      "data": [
+        "data/lt/geo.js",
+        "data/lt/books.js",
+        "data/lt/places.js",
+        "data/lt/lines.js"
+      ],
+      "open": true,
+      "small_regions": [],
+      "wash": {}
     }
   ]
 }

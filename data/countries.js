@@ -92,7 +92,8 @@ window.RA_COUNTRIES = [
   "open": true,
   "needs": [
    "fr",
-   "nl"
+   "nl",
+   "lt"
   ]
  },
  {
@@ -887,7 +888,8 @@ window.RA_COUNTRIES = [
   "open": true,
   "needs": [
    "de",
-   "cz"
+   "cz",
+   "lt"
   ]
  },
  {
@@ -1737,7 +1739,34 @@ window.RA_COUNTRIES = [
    "data/lv/lines.js"
   ],
   "open": true
+ },
+ {
+  "code": "lt",
+  "iso": "LTU",
+  "name": "Lithuania",
+  "name_zh": "立陶宛",
+  "short": "Lithuania",
+  "short_zh": "立陶宛",
+  "region_term": {
+   "en": "county",
+   "zh": "县"
+  },
+  "bounds": [
+   20.9,
+   53.85,
+   26.9,
+   56.5
+  ],
+  "small_regions": [],
+  "wash": {},
+  "data": [
+   "data/lt/geo.js",
+   "data/lt/books.js",
+   "data/lt/places.js",
+   "data/lt/lines.js"
+  ],
+  "open": true
  }
 ];
 // Totals over every open country, for the world page.
-window.RA_WORLD_STATS = {"countries": 55, "books": 1779, "lines": 1719, "places": 1972};
+window.RA_WORLD_STATS = {"countries": 56, "books": 1788, "lines": 1727, "places": 1982};
