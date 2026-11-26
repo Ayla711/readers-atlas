@@ -1,0 +1,4 @@
+# Latvia, B (curriculum), searched 11-26: the Skola2030 literature programme samples (mape.skola2030.lv/resources/131 redirects to
+# mape.gov.lv, which answered "Resurss šobrīd nav pieejams"); school summer reading lists found online are a single school's,
+# not national. No national list of works was read, so B is left empty; no decision in the Latvia table depends on it (the user
+# chose the books by the Lielā lasīšana Top 21, 11-26).

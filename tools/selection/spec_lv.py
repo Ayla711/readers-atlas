@@ -1,0 +1,21 @@
+SPEC=dict(cc="lv",
+name="拉脱维亚",date="2026-11-26",
+sources={
+"A1":"LTV 与国家图书馆 2014 年「大阅读」（Lielā lasīšana，近 4 万读者投票）：前 5 名有名次（LSM），前 21、前 100 按字母排（verify/src_1125/lv_lists.txt）",
+"A2":"拉脱维亚文化正典（2008）文学部分 14 条，不分名次（kulturaskanons.lv；verify/src_1125/lv_lists.txt）",
+"B":"全国课程：Skola2030 文学课程样本 11-26 打不开（mape.gov.lv 显示「资源暂时不可用」），网上找到的暑期书单都是单个学校的；没有读到全国书目，B 空着；表里没有一本书的去留取决于它（verify/src_1125/lv_curriculum.txt）",
+"C":"本国最高文学奖是拉脱维亚文学年度奖（LALIGABA，2008 年起）；表里的书都早于这个奖，没有逐本对照",
+"BK":"挪威世界文库 100 本里没有拉脱维亚作品",
+"D":"thegreatestbooks.org 总榜前 2000 名（11-25 逐页读完 80 页，11-26 按作者再查）：没有拉脱维亚作品",
+"E":"Goodreads 评分人数（自动补全接口，11-26；verify/src_1125/lv_goodreads.tsv）",
+},
+size_note="规则 v2：两项证据或进 A 名单前 10 就够格；不设名额。拉脱维亚第一次评。11-26 用户定：拉脱维亚只收 2014 年「大阅读」前 21 名里的拉脱维亚作品，共 7 本。其中前 5 名里的 4 本（大阅读只有前 5 有名次，算前 10）和同时进了正典的《比勒》按规则够格；《人之子》《花的童话》只有一项证据，按用户的决定破例收。前 100 里另外 30 部拉脱维亚作品，以及正典里其余不在前 21 的作品（如《测量员的时代》《火与夜》等），按用户的决定不收，没有逐本评分。",
+rows=[
+("The Kitten's Mill (Kaķīša dzirnavas)","Kārlis Skalbe","本国",{"A1": 4, "A2": 3},"","童话；2014 大阅读电话投票第 1；正典点名的《冬天的童话》（1913）收了这篇，按集子计；不在 D 前 2000 · Goodreads 611"),
+("Clearers of Fate (Likteņa līdumnieki)","Vladimirs Kaijaks","本国",{"A1": 4},"","四部曲；大阅读第 2；不在 D 前 2000 · Goodreads 280（第一部《埃妮娅的辫子》）"),
+("Epiphanies (Epifānijas)","Imants Ziedonis","本国",{"A1": 4, "A2": 3},"","散文诗；大阅读第 3（网络投票第 1）；正典点名；不在 D 前 2000 · Goodreads 1,409"),
+("Blizzard of Souls (Dvēseļu putenis)","Aleksandrs Grīns","本国",{"A1": 4},"","大阅读第 4；不在 D 前 2000 · Goodreads 801"),
+("Bille","Vizma Belševica","本国",{"A1": 3, "A2": 3},"","三部曲；大阅读前 21；正典点名；不在 D 前 2000 · Goodreads 920"),
+("The Child of Man (Cilvēka bērns)","Jānis Klīdzējs","本国",{"A1": 3},"破例收（11-26 用户定：拉脱维亚收 2014 年「大阅读」前 21 名里的拉脱维亚作品）","大阅读前 21；不在 D 前 2000 · Goodreads 450"),
+("Fairy Tales about Flowers (Pasakas par ziediem)","Anna Sakse","本国",{"A1": 3},"破例收（11-26 用户定：拉脱维亚收 2014 年「大阅读」前 21 名里的拉脱维亚作品）","童话集；大阅读前 21；不在 D 前 2000 · Goodreads 852"),
+])

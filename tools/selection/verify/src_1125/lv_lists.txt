@@ -1,0 +1,28 @@
+# Latvia, A lists, read 11-26.
+# A1: LTV / Latvian National Library "Lielā lasīšana" (2014), reader vote (nearly 40,000 voters): first a Top 100, then a Top 21,
+#     then a Top 5; on 16 November 2014 a phone vote chose the nation's favourite book.
+#     Ranks of the Top 5 from LSM, "Nācijas mīļākā grāmata – Kārļa Skalbes «Kaķīša dzirnavas»"
+#       (https://www.lsm.lv/raksts/kultura/literatura/nacijas-milaka-gramata-karla-skalbes-kakisa-dzirnavas.a106589/):
+#       1 Kaķīša dzirnavas (Skalbe) · 2 Likteņa līdumnieki (Kaijaks) · 3 Epifānijas (Ziedonis; first in the internet vote)
+#       · 4 Dvēseļu putenis (Grīns) · 5 Trīs draugi (Remarque)
+#     Top 21 (alphabetical, no ranks) from gramatas.wordpress.com/2014/11/17/lielas-lasisanas-top-21-un-top-5/ ; Latvian works in it:
+#       Bille (Belševica), Cilvēka bērns (Klīdzējs), Dvēseļu putenis (Grīns), Epifānijas (Ziedonis), Kaķīša dzirnavas (Skalbe),
+#       Likteņa līdumnieki (Kaijaks), Pasakas par ziediem (Sakse)
+#     Top 100 (alphabetical, no ranks) from sibillasgramatas.wordpress.com/saraksti-un-topi/liela-lasisana-top-100/ ; 37 Latvian works,
+#       the 7 above and: Aija, Baltā grāmata (Jaunsudrabiņš); Aka, Zemdegas (Ezera); Alīna (Gailīte); Dievs. Daba. Darbs (Brigadere);
+#       Dzīves svinēšana (Ikstena); Gulta ar zelta kāju (Skujiņš); Jelgava 94 (Joņevs); Krāsainās pasakas (Ziedonis); Lāčplēsis
+#       (Pumpurs); Lazdu laipa (Indrāne); Meldras un Matīsa ceļojums vēsturē, Ulmanis. Lielā Kārļa testaments, Zigfrīda Meierovica
+#       trīs Annas (Ūdris); Mērnieku laiki (Kaudzītes); Mūžības skartie (Čaks); Noveles (Blaumanis); Pasakas (Skalbe); Pieci pirksti
+#       (Zālīte); Saplēstā krūze (Dziļums); Staburaga bērni (Valdis); Starp mums, meitenēm, runājot (Ērgle); Straumēni (Virza);
+#       Stum stum (Neiburga); Vilkaču mantiniece (Leimane); Zaļā zeme (Upīts); Zīļuks (Stāraste); Zīmogs sarkanā vaskā (Lejiņš);
+#       Zvejnieka dēls (Lācis)
+#     Rule: only the Top 5 have ranks, so only they count as "top 10" (A1 4); the rest of the Top 21 and Top 100 score A1 3.
+# A2: Latvian Cultural Canon (2008), literature, 14 entries, no ranks (kulturaskanons.lv/list/ and each /archive/ page). Works named:
+#       Ziedonis: Es ieeju sevī (1968), Taureņu uzbrukums (1988), Epifānijas I–II (1971, 1974) · Vācietis: Si minors (1982)
+#       · Skalbe: Ziemas pasakas (1913; contains Kaķīša dzirnavas) · Rainis: Gals un sākums (1912), Uguns un nakts (1905)
+#       · Poruks: Pērļu zvejnieks (1895) · Mīlenbahs: Latviešu valodas vārdnīca (a dictionary; not counted)
+#       · Kaudzītes: Mērnieku laiki (1879) · Ezera: Zemdegas (1977) · Blaumanis: noveles, Indrāni (1904) · U. Bērziņš: dzeja
+#       · Belševica: Gadu gredzeni (1969), Dzeltu laiks (1987), Bille (1992–1999) · Ādamsons: Smalkās kaites (1937)
+#       · Čaks: Mana paradīze (1932), Mūžības skartie (1937–1939) · Jaunsudrabiņš: Aija (1911–1925), Baltā grāmata (1914–1921)
+#     The rubric counts a short unranked canon as a whole "top 10" only by the user's decision (Denmark); for this canon of 14 the
+#     user was asked (11-26) and chose instead to take only the Latvian works in the Lielā lasīšana Top 21, so A2 scores 3 here.
