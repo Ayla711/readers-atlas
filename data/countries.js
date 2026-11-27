@@ -1942,7 +1942,37 @@ window.RA_COUNTRIES = [
    "data/mk/lines.js"
   ],
   "open": true
+ },
+ {
+  "code": "cy",
+  "iso": "CYP",
+  "name": "Cyprus",
+  "name_zh": "塞浦路斯",
+  "short": "Cyprus",
+  "short_zh": "塞浦路斯",
+  "region_term": {
+   "en": "district",
+   "zh": "区"
+  },
+  "bounds": [
+   32.2,
+   34.5,
+   34.65,
+   35.75
+  ],
+  "small_regions": [],
+  "wash": {},
+  "data": [
+   "data/cy/geo.js",
+   "data/cy/books.js",
+   "data/cy/places.js",
+   "data/cy/lines.js"
+  ],
+  "open": true,
+  "needs": [
+   "it"
+  ]
  }
 ];
 // Totals over every open country, for the world page.
-window.RA_WORLD_STATS = {"countries": 62, "books": 1810, "lines": 1750, "places": 2006};
+window.RA_WORLD_STATS = {"countries": 63, "books": 1812, "lines": 1753, "places": 2009};

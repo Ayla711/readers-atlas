@@ -1,0 +1,5 @@
+{
+ "cy-famagusta": {"lat": 35.125, "lon": 33.94166667, "st": "en.wikipedia \"Famagusta\" coordinates", "su": "https://en.wikipedia.org/wiki/Famagusta"},
+ "cy-othello-castle": {"lat": 35.127694, "lon": 33.94325, "st": "en.wikipedia \"Othello Castle\" coordinates (Wikidata Q7108569 P625 agrees)", "su": "https://en.wikipedia.org/wiki/Othello_Castle"},
+ "cy-nicosia": {"lat": 35.1725, "lon": 33.365, "st": "en.wikipedia \"Nicosia\" coordinates", "su": "https://en.wikipedia.org/wiki/Nicosia"}
+}

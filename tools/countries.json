@@ -8996,6 +8996,76 @@
       "open": true,
       "small_regions": [],
       "wash": {}
+    },
+    {
+      "code": "cy",
+      "iso": "CYP",
+      "name": "Cyprus",
+      "name_zh": "塞浦路斯",
+      "short": "Cyprus",
+      "short_zh": "塞浦路斯",
+      "region_term": {
+        "en": "district",
+        "zh": "区"
+      },
+      "bounds": [
+        32.2,
+        34.5,
+        34.65,
+        35.75
+      ],
+      "step": 0.002,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "CY-01": "CY-01",
+              "CY-02": "CY-02",
+              "CY-03": "CY-03",
+              "CY-04": "CY-04",
+              "CY-05": "CY-05",
+              "CY-06": "CY-06"
+            }
+          }
+        ],
+        "names": {
+          "CY-01": [
+            "Nicosia",
+            "尼科西亚区"
+          ],
+          "CY-02": [
+            "Limassol",
+            "利马索尔区"
+          ],
+          "CY-03": [
+            "Larnaca",
+            "拉纳卡区"
+          ],
+          "CY-04": [
+            "Famagusta",
+            "法马古斯塔区"
+          ],
+          "CY-05": [
+            "Paphos",
+            "帕福斯区"
+          ],
+          "CY-06": [
+            "Kyrenia",
+            "凯里尼亚区"
+          ]
+        }
+      },
+      "data": [
+        "data/cy/geo.js",
+        "data/cy/books.js",
+        "data/cy/places.js",
+        "data/cy/lines.js"
+      ],
+      "open": true,
+      "small_regions": [],
+      "wash": {}
     }
   ]
 }
