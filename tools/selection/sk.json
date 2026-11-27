@@ -1,0 +1,888 @@
+{
+ "cc": "sk",
+ "name": "斯洛伐克",
+ "date": "2026-11-26",
+ "rule": "v2",
+ "sources": {
+  "A1": "2010 年斯洛伐克电视台（STV 二台）与 Ikar、Martinus、Tatran 合办的「我最爱的书」（Moja naj kniha）观众投票：任何有斯洛伐克语版的小说、中篇、小说集都可提名（不含《圣经》），提名轮得出前 100，再投出前 25、前 10 和第 1（2010-11-05 决赛）；前 100 的完整名次 11-26 经 web.archive.org 在 mojanajkniha.sk 读到（verify/src_1125/sk_lists.txt）",
+  "不算": "没有找到评论界或全国性的「斯洛伐克最佳书」排名名单：找过 SME、.týždeň、Denník N、Pravda、文学信息中心、RTVS；只找到不排名的问答式调查（文学中心「世纪末问卷」14 位作家、plav.sk 2019 年 6 人、《文学报》秋季调查 4 人）和每年一届的「年度好书」，都不算名单（同上）",
+  "B": "国家教育大纲 ISCED 3A 高中斯洛伐克语和文学「新方案」各单元的必读（2 分）和推荐（1 分）篇目；必读部分与国家教育研究所 2012 年《毕业生应知应会》（2013-09-01 起）一致（verify/src_1125/sk_curriculum.txt）",
+  "C": "本国最高小说奖 Anasoft litera（2006 年起）历届得主里没有表中的书；欧盟文学奖斯洛伐克得主里兰科夫 2009 年获奖",
+  "BK": "挪威世界文库 100 本里没有斯洛伐克作品",
+  "D": "thegreatestbooks.org 总榜前 2000 名（11-25 逐页读完，11-26 按作者再查）：没有斯洛伐克作品；外国书里只有写到斯洛伐克的《时光的礼物》（第 1772）",
+  "E": "Goodreads 评分人数（自动补全接口，11-26；verify/src_1125/sk_goodreads.tsv）"
+ },
+ "size_note": "规则 v2：两项证据或进 A 名单前 10 就够格；不设名额。斯洛伐克第一次评。只有一份 A 名单（2010 年电视观众投票，大多是外国书和通俗书）；按规则 6 本斯洛伐克书够格：投票前 10 的 2 本，加上投票里同时有课纲或欧盟文学奖的 4 本。11-26 用户定：只收投票前 10 名里的斯洛伐克书（2 本），另外 4 本写「用户定不收」。课纲必读的经典（《龙回来了》《山坡上的房子》等）不在投票里，只有一项证据，按规则不收。外国书《时光的礼物》已在奥地利数据里，按规则够格，用户定在什图罗沃的大桥加一个地点。",
+ "rows": [
+  {
+   "title": "Slovak Tales (Slovenské rozprávky)",
+   "author": "Pavol Dobšinský",
+   "kind": "本国",
+   "points": {
+    "A1": 4
+   },
+   "score": 4,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "“我最爱的书”第 1；民间故事集（多布欣斯基搜集整理）；不在课纲、不在 D 前 2000 · Goodreads 60"
+  },
+  {
+   "title": "Me, the Little One (Ja, malkáč)",
+   "author": "Ľubo Dobrovoda",
+   "kind": "本国",
+   "points": {
+    "A1": 4
+   },
+   "score": 4,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "“我最爱的书”第 2；2005 年自费出版的处女作，五岁男孩眼里 1960 年代末的一家人；不在 D 前 2000 · Goodreads 162"
+  },
+  {
+   "title": "Three Chestnut Horses (Tri gaštanové kone)",
+   "author": "Margita Figuli",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "B": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "B"
+   ],
+   "in_app": null,
+   "decision": "用户定不收：斯洛伐克只收 2010 年投票前 10 名里的斯洛伐克书（11-26）",
+   "first_draft": "用户定不收：斯洛伐克只收 2010 年投票前 10 名里的斯洛伐克书（11-26）",
+   "note": "“我最爱的书”第 39；课纲推荐篇目；不在 D 前 2000 · Goodreads 1,009"
+  },
+  {
+   "title": "Jozef Mak",
+   "author": "Jozef Cíger Hronský",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "B": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "B"
+   ],
+   "in_app": null,
+   "decision": "用户定不收：斯洛伐克只收 2010 年投票前 10 名里的斯洛伐克书（11-26）",
+   "first_draft": "用户定不收：斯洛伐克只收 2010 年投票前 10 名里的斯洛伐克书（11-26）",
+   "note": "“我最爱的书”第 60；课纲必读；不在 D 前 2000 · Goodreads 883"
+  },
+  {
+   "title": "It Happened on the First of September (or Some Other Time) (Stalo sa prvého septembra (alebo inokedy))",
+   "author": "Pavol Rankov",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "C": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "C"
+   ],
+   "in_app": null,
+   "decision": "用户定不收：斯洛伐克只收 2010 年投票前 10 名里的斯洛伐克书（11-26）",
+   "first_draft": "用户定不收：斯洛伐克只收 2010 年投票前 10 名里的斯洛伐克书（11-26）",
+   "note": "“我最爱的书”第 71；2009 年欧盟文学奖；不在 D 前 2000 · Goodreads 685"
+  },
+  {
+   "title": "The Orphan of the Podhradskýs (Sirota Podhradských)",
+   "author": "Terézia Vansová",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "B": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "B"
+   ],
+   "in_app": null,
+   "decision": "用户定不收：斯洛伐克只收 2010 年投票前 10 名里的斯洛伐克书（11-26）",
+   "first_draft": "用户定不收：斯洛伐克只收 2010 年投票前 10 名里的斯洛伐克书（11-26）",
+   "note": "“我最爱的书”第 74；课纲推荐篇目；不在 D 前 2000 · Goodreads 150"
+  },
+  {
+   "title": "Death of a Goat (Smrť kozy)",
+   "author": "R. Doboš, J. Bednárik, P. Gašpar, J. Petrek",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "“我最爱的书”第 11；只有这一项证据；不在 D 前 2000 · 查不到（Goodreads 没有这一条）"
+  },
+  {
+   "title": "All or Nothing: The Story Goes On (Všetko alebo nič: Príbeh pokračuje)",
+   "author": "Eva Urbaníková",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "“我最爱的书”第 14；只有这一项证据；不在 D 前 2000 · Goodreads 273"
+  },
+  {
+   "title": "Even in Hell the Sun Rises (Raz aj v pekle vyjde slnko)",
+   "author": "Pavel Hirax Baričák",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "“我最爱的书”第 18；只有这一项证据；不在 D 前 2000 · Goodreads 180"
+  },
+  {
+   "title": "In the Sign of Shit (V znamení Hovna)",
+   "author": "Jaroslav Rumpli",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "“我最爱的书”第 24；只有这一项证据；不在 D 前 2000 · Goodreads 83"
+  },
+  {
+   "title": "The Mighty Lord's Servant (Mocipánov služobník)",
+   "author": "Oto Malý",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "“我最爱的书”第 25；只有这一项证据；不在 D 前 2000 · 查不到（Goodreads 没有这一条）"
+  },
+  {
+   "title": "A House in One Stroke (Domček jedným ťahom)",
+   "author": "Veronika Šikulová",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "“我最爱的书”第 28；只有这一项证据；不在 D 前 2000 · Goodreads 57"
+  },
+  {
+   "title": "The Fly (Mucha)",
+   "author": "Dominik Dán",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "“我最爱的书”第 30；只有这一项证据；不在 D 前 2000 · Goodreads 772"
+  },
+  {
+   "title": "Love Is a Bug in the Program (Láska je chyba v programe)",
+   "author": "Maxim E. Matkin",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "“我最爱的书”第 32；只有这一项证据；不在 D 前 2000 · Goodreads 723"
+  },
+  {
+   "title": "Elizabeth's Court (Alžbetin dvor)",
+   "author": "Hana Zelinová",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "“我最爱的书”第 34；只有这一项证据；不在 D 前 2000 · Goodreads 71"
+  },
+  {
+   "title": "Jeans Diary (Džínsový denník)",
+   "author": "Zuzka Šulajová",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "“我最爱的书”第 40；只有这一项证据；不在 D 前 2000 · Goodreads 802"
+  },
+  {
+   "title": "The Vaccine (Vakcína)",
+   "author": "Ivana Vranská Rojková",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "“我最爱的书”第 42；只有这一项证据；不在 D 前 2000 · Goodreads 2"
+  },
+  {
+   "title": "Red Wine (Červené víno)",
+   "author": "František Hečko",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "“我最爱的书”第 48；只有这一项证据；不在 D 前 2000 · 不在课纲必读和推荐里 · Goodreads 70"
+  },
+  {
+   "title": "The Thousand-Year-Old Bee (Tisícročná včela)",
+   "author": "Peter Jaroš",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "“我最爱的书”第 52；只有这一项证据；不在 D 前 2000 · 不在课纲必读和推荐里 · Goodreads 205"
+  },
+  {
+   "title": "The Posthumous Child (Pohrobok)",
+   "author": "Štefan Konkol",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "“我最爱的书”第 54；只有这一项证据；不在 D 前 2000 · Goodreads 45"
+  },
+  {
+   "title": "Lies (Klamstvá)",
+   "author": "Táňa Keleová-Vasilková",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "“我最爱的书”第 58；只有这一项证据；不在 D 前 2000 · Goodreads 30"
+  },
+  {
+   "title": "Monkeys from Our Shelf (Opice z našej police)",
+   "author": "Krista Bendová",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "“我最爱的书”第 59；只有这一项证据；不在 D 前 2000 · 儿童诗 · Goodreads 139"
+  },
+  {
+   "title": "The Lady of Čachtice (Čachtická pani)",
+   "author": "Jožo Nižnánsky",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "“我最爱的书”第 61；只有这一项证据；不在 D 前 2000 · Goodreads 695"
+  },
+  {
+   "title": "Maroško",
+   "author": "Martin Rázus",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "“我最爱的书”第 63；只有这一项证据；不在 D 前 2000 · 课纲只推荐拉祖斯的叙事诗 · Goodreads 54"
+  },
+  {
+   "title": "Fairy-Tale Archipelago (Rozprávkové súostrovie)",
+   "author": "Pavel Paulenda",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "“我最爱的书”第 64；只有这一项证据；不在 D 前 2000 · 查不到（Goodreads 没有这一条）"
+  },
+  {
+   "title": "The Intimacy of Wolves (Intimita vlkov)",
+   "author": "Jozef Heriban",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "“我最爱的书”第 65；只有这一项证据；不在 D 前 2000 · Goodreads 42"
+  },
+  {
+   "title": "I'm Not Afraid Any More (Už sa nebojím)",
+   "author": "Mária Ďuranová",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "“我最爱的书”第 69；只有这一项证据；不在 D 前 2000 · Goodreads 3"
+  },
+  {
+   "title": "Nothing Will Part Us (Nič nás nerozdelí)",
+   "author": "Veronika Vajayová",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "“我最爱的书”第 72；只有这一项证据；不在 D 前 2000 · Goodreads 11"
+  },
+  {
+   "title": "It's Different, Mum... (Je to inak, mami...)",
+   "author": "Tamara Tainová",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "“我最爱的书”第 73；只有这一项证据；不在 D 前 2000 · Goodreads 173"
+  },
+  {
+   "title": "April Girl (Aprílové dievča)",
+   "author": "Martina Solčanská",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "“我最爱的书”第 77；只有这一项证据；不在 D 前 2000 · Goodreads 173"
+  },
+  {
+   "title": "Mother's Locket (Matkin medailón)",
+   "author": "Fero Rajec",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "“我最爱的书”第 80；只有这一项证据；不在 D 前 2000 · Goodreads 2"
+  },
+  {
+   "title": "Tales of the Girl Julka (Rozprávky o dievčinke Julke)",
+   "author": "Bibiana Ondrejková",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "“我最爱的书”第 82；只有这一项证据；不在 D 前 2000 · 查不到（Goodreads 没有这一条）"
+  },
+  {
+   "title": "Shards (Čriepky)",
+   "author": "Eduard Samlek",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "“我最爱的书”第 84；只有这一项证据；不在 D 前 2000 · 查不到（Goodreads 没有这一条）"
+  },
+  {
+   "title": "Pure Boredom (Čistá nuda)",
+   "author": "Eva Bacigalová",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "“我最爱的书”第 86；只有这一项证据；不在 D 前 2000 · Goodreads 38"
+  },
+  {
+   "title": "A Rotten Heart (Zdochnuté srdce)",
+   "author": "Eli Elias",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "“我最爱的书”第 87；只有这一项证据；不在 D 前 2000 · Goodreads 77"
+  },
+  {
+   "title": "The Power of Love (Sila lásky)",
+   "author": "Eva Biela Brndiarová",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "“我最爱的书”第 89；只有这一项证据；不在 D 前 2000 · Goodreads 6"
+  },
+  {
+   "title": "The Camp of Fallen Women (Tábor padlých žien)",
+   "author": "Anton Baláž",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "“我最爱的书”第 90；只有这一项证据；不在 D 前 2000 · Goodreads 79"
+  },
+  {
+   "title": "Reason (Rozum)",
+   "author": "Rudolf Sloboda",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "“我最爱的书”第 91；只有这一项证据；不在 D 前 2000 · 课纲推荐的是他的《纳西索斯》，不是这本 · Goodreads 355"
+  },
+  {
+   "title": "Goods (Tovar)",
+   "author": "Tatiana Melasová",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "“我最爱的书”第 92；只有这一项证据；不在 D 前 2000 · Goodreads 294"
+  },
+  {
+   "title": "Grandmother's Tales (Rozprávky starej matere)",
+   "author": "Mária Jančová",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "“我最爱的书”第 98；只有这一项证据；不在 D 前 2000 · Goodreads 28"
+  },
+  {
+   "title": "Once You Understand (Keď raz pochopíš)",
+   "author": "Kristína Mišovicová",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "“我最爱的书”第 99；只有这一项证据；不在 D 前 2000 · 查不到（Goodreads 没有这一条）"
+  },
+  {
+   "title": "Fairy Tales (Rozprávky)",
+   "author": "Dagmar Kážová",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "“我最爱的书”第 100；只有这一项证据；不在 D 前 2000 · 查不到（Goodreads 没有这一条）"
+  },
+  {
+   "title": "The Dragon Returns (Drak sa vracia)",
+   "author": "Dobroslav Chrobák",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "课纲必读；不在“我最爱的书”前 100；不在 D 前 2000 · Goodreads 1,401"
+  },
+  {
+   "title": "The House on the Hillside (Dom v stráni)",
+   "author": "Martin Kukučín",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "课纲必读；不在“我最爱的书”前 100；不在 D 前 2000 · Goodreads 390"
+  },
+  {
+   "title": "The Ťapák Family (Ťapákovci)",
+   "author": "Božena Slančíková Timrava",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "课纲必读；不在“我最爱的书”前 100；不在 D 前 2000 · Goodreads 800"
+  },
+  {
+   "title": "Maco Mlieč",
+   "author": "Jozef Gregor Tajovský",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "课纲必读；不在“我最爱的书”前 100；不在 D 前 2000 · Goodreads 387"
+  },
+  {
+   "title": "The Cradle (Kolíska)",
+   "author": "Alfonz Bednár",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "课纲必读；不在“我最爱的书”前 100；不在 D 前 2000 · Goodreads 684"
+  },
+  {
+   "title": "The Taste of Power (Ako chutí moc)",
+   "author": "Ladislav Mňačko",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "课纲必读；不在“我最爱的书”前 100；不在 D 前 2000 · Goodreads 2,129"
+  },
+  {
+   "title": "A Suitcase of Dreams (Kufor na sny)",
+   "author": "Dušan Dušek",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "课纲必读；不在“我最爱的书”前 100；不在 D 前 2000 · Goodreads 261"
+  },
+  {
+   "title": "Marína",
+   "author": "Andrej Sládkovič",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "课纲必读（选读）；不在“我最爱的书”前 100；不在 D 前 2000 · Goodreads 284"
+  },
+  {
+   "title": "The Living Whip (Živý bič)",
+   "author": "Milo Urban",
+   "kind": "本国",
+   "points": {
+    "B": 1
+   },
+   "score": 1,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "课纲推荐；不在“我最爱的书”前 100；不在 D 前 2000 · Goodreads 748"
+  },
+  {
+   "title": "The Gamekeeper's Wife (Hájnikova žena)",
+   "author": "Pavol Országh Hviezdoslav",
+   "kind": "本国",
+   "points": {
+    "B": 1
+   },
+   "score": 1,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "课纲推荐；不在“我最爱的书”前 100；不在 D 前 2000 · Goodreads 212"
+  },
+  {
+   "title": "Rivers of Babylon",
+   "author": "Peter Pišťanek",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "不在“我最爱的书”前 100、不在课纲必读和推荐里、没有获本国或欧盟大奖；不在 D 前 2000 · Goodreads 833"
+  },
+  {
+   "title": "A Time of Gifts",
+   "author": "Patrick Leigh Fermor",
+   "kind": "外国",
+   "points": {
+    "D": 1,
+    "E": 1
+   },
+   "score": 2,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "D 1772 · Goodreads 10,294；书已在奥地利数据里（梅尔克）；斯洛伐克这一条挂什图罗沃的玛丽亚·瓦莱里娅桥，全书在桥上结束（用户 11-26 选定）"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+# Slovakia, A lists, read 11-26.
+# A1: "Moja naj kniha" 2010, Slovak Television (STV, Dvojka) with Ikar, Martinus and Tatran. Public vote, April-November 2010;
+#     any book available in Slovak (novels, novellas, story collections; the Bible excluded). The nomination round gave the NAJ 100,
+#     a second vote the NAJ 25, then the NAJ 10 and the winner (final 5 Nov 2010). The full ranking 1-100 is on mojanajkniha.sk,
+#     read 11-26 through web.archive.org (naj-kniha/s81/naj-100-knih.html?page=1..4, snapshots 2012-2015; the NAJ 25 page of
+#     2010-07-08, postupujuce-knihy.html, gives the same 26-50). The final top 10 also: Martinus blog 2010-11-06, literama.sk.
+#     Full ranking (S = Slovak original work):
+1 Slovenské rozprávky (Dobšinský) S; 2 Ja, Malkáč (Ľubo Dobrovoda) S; 3 Malý princ; 4 Anna zo Zeleného domu; 5 Súmrak;
+6 Da Vinciho kód; 7 Chatrč; 8 Jana Eyrová; 9 Alchymista; 10 Hlava XXII; 11 Smrť kozy (Doboš, Bednárik, Gašpar, Petrek) S;
+12 Harry Potter a Dary smrti; 13 Traja kamaráti; 14 Všetko alebo nič: Príbeh pokračuje (Eva Urbaníková) S; 15 Krstný otec;
+16 Babička (Němcová); 17 Večne spievajú lesy; 18 Raz aj v pekle vyjde slnko (Pavel Hirax Baričák) S; 19 Egypťan Sinuhet;
+20 Pýcha a predsudok; 21 Odviate vetrom; 22 1984; 23 Pán prsteňov III; 24 V znamení Hovna (Jaroslav Rumpli) S;
+25 Mocipánov služobník (Oto Malý) S; 26 Sto rokov samoty; 27 Zločin a trest; 28 Domček jedným ťahom (Veronika Šikulová) S;
+29 Kto chytá v žite; 30 Mucha (Dominik Dán) S; 31 Stopárov sprievodca galaxiou; 32 Láska je chyba v programe (Maxim E. Matkin) S;
+33 Sofiina voľba; 34 Alžbetin dvor (Hana Zelinová) S; 35 Quo vadis?; 36 Anna Kareninová; 37 Láska je len slovo; 38 Vajce a ja;
+39 Tri gaštanové kone (Margita Figuli) S; 40 Džínsový denník (Zuzka Šulajová) S; 41 Tisíc žiarivých sĺnk; 42 Vakcína (Iva Vranská Rojková) S;
+43 Mal to byť pekný život (Andrea Coddingtonová); 44 Mastičkár; 45 Motýľ; 46 Čajka Jonathan Livingston; 47 Eragon;
+48 Červené víno (František Hečko) S; 49 Parfum; 50 Doktor Živago; 51 Búrlivé výšiny; 52 Tisícročná včela (Peter Jaroš) S;
+53 Meno ruže; 54 Pohrobok (Štefan Konkol) S; 55 Dracula; 56 Portrét Doriana Graya; 57 Majster a Margaréta;
+58 Klamstvá (Táňa Keleová-Vasilková) S; 59 Opice z našej police (Krista Bendová) S; 60 Jozef Mak (Jozef Cíger Hronský) S;
+61 Čachtická pani (Jožo Nižnánsky) S; 62 Gróf Monte Christo; 63 Maroško (Martin Rázus) S; 64 Rozprávkové súostrovie (Pavel Paulenda) S;
+65 Intimita vlkov (Jozef Heriban) S; 66 Muži, ktorí nenávidia ženy; 67 Pipi Dlhá Pančucha; 68 Agónia a extáza;
+69 Už sa nebojím (Mária Ďuranová) S; 70 Muž, ktorý sadil stromy; 71 Stalo sa prvého septembra (alebo inokedy) (Pavol Rankov) S;
+72 Nič nás nerozdelí (Veronika Vajayová) S; 73 Je to inak, mami... (Tamara Tainová) S; 74 Sirota Podhradských (Terézia Vansová) S;
+75 Rebeka; 76 Tieň vetra; 77 Aprílové dievča (Martina Solčanská) S; 78 Medený jazdec; 79 Ľavá ruka Boha; 80 Matkin medailón (Fero Rajec) S;
+81 Na ceste; 82 Rozprávky o dievčinke Julke (Bibiana Ondrejková) S; 83 Stepný vlk; 84 Čriepky (Eduard Samlek) S; 85 Tajomný ostrov;
+86 Čistá nuda (Eva Bacigalová) S; 87 Zdochnuté srdce (Eli Elias) S; 88 Duchovia vlkov; 89 Sila lásky (Eva Biela Brndiarová) S;
+90 Tábor padlých žien (Anton Baláž) S; 91 Rozum (Rudolf Sloboda) S; 92 Tovar (Tatiana Melasová) S; 93 Malý strom; 94 Citadela;
+95 Kniha o San Michele; 96 Tichý Don; 97 Cesta; 98 Rozprávky starej matere (Mária Jančová) S; 99 Keď raz pochopíš (Kristína Mišovicová) S;
+100 Rozprávky (Dagmar Kážová) S
+# Looked for and not found, 11-26: a ranked critics' or national poll of the best Slovak books (searched SME, .týždeň, Denník N,
+#     Pravda, Literárne informačné centrum, RTVS). Found only surveys with free answers and no ranking: litcentrum.sk
+#     "A Questionnaire for the End of the Millennium" (14 writers, 2013 reprint), plav.sk "Tri desaťročia slovenskej literatúry"
+#     (6 respondents, 2019), Literárne noviny autumn survey (4 respondents); yearly "Kniha roka" polls cover one year's books.
+#     None is counted as a list.

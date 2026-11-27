@@ -1,0 +1,16 @@
+# Slovakia, B (curriculum), read 11-26.
+# Štátny vzdelávací program ISCED 3A, slovenský jazyk a literatúra (gymnázium), "nová koncepcia": povinní autori a diela and
+#     odporúčaní autori per thematic unit, as summarised by the school ssag.sk (ssag.sk/studovna/files/pc.pdf).
+#     The same required list is in "Cieľové požiadavky na vedomosti a zručnosti maturantov zo SJL" (ŠPÚ 2012, valid from 1.9.2013;
+#     kadavinci.edupage.org/files/cp_slovensky_jazyk_a_literatura_2013_2014.pdf). The 2016 edition (valid from 1.9.2018) could not
+#     be opened (spospredza.edu.sk refused); school summaries of it (spsdopke.edu.sk, doucovaniekosice.sk) list the same core works.
+# Required (povinní), Slovak prose, poetry and drama:
+#   Gavlovič: Valaská škola (výber); Kollár: Předzpěv (Slávy dcera); Chalupka: Mor ho!; Sládkovič: Marína (výber); Botto: Smrť Jánošíkova;
+#   Krasko, Smrek, Dilong, Válek (Dotyky), Rúfus (výber); Kukučín: Keď báčik z Chochoľova umrie; Tajovský: Maco Mlieč;
+#   Timrava: Ťapákovci; Kukučín: Dom v stráni; Hronský: Jozef Mak; Chrobák: Drak sa vracia; Bednár: Kolíska; Mňačko: Ako chutí moc;
+#   Dušek: Kufor na sny; Palárik: Dobrodružstvo pri obžinkoch; Tajovský: Statky-zmätky; Bukovčan: Kým kohút nezaspieva; Lasica-Satinský: Soirée.
+# Recommended (odporúčaní), works that matter for this table:
+#   unit 5: Hviezdoslav: Hájnikova žena, Ežo Vlkolínsky; unit 6: Vansová: Sirota Podhradských; Vajanský: Suchá ratolesť;
+#   unit 13 and 16: Urban: Živý bič; Ondrejov: Zbojnícka mladosť; Figuli: Tri gaštanové kone; unit 19 and 24: Tatarka: Démon súhlasu,
+#   Panna zázračnica; Sloboda: Narcis; Mitana: Psie dni; unit 22: Mňačko: Smrť sa volá Engelchen; Ťažký: Pivnica plná vlkov.
+#   (Sloboda's Rozum, Jaroš's Tisícročná včela, Hečko's Červené víno, Rankov, Dobšinský, Dobrovoda are not named.)
