@@ -1202,7 +1202,10 @@ window.RA_COUNTRIES = [
    "data/tr/places.js",
    "data/tr/lines.js"
   ],
-  "open": true
+  "open": true,
+  "needs": [
+   "si"
+  ]
  },
  {
   "code": "ua",
@@ -1855,7 +1858,37 @@ window.RA_COUNTRIES = [
   "needs": [
    "at"
   ]
+ },
+ {
+  "code": "si",
+  "iso": "SVN",
+  "name": "Slovenia",
+  "name_zh": "斯洛文尼亚",
+  "short": "Slovenia",
+  "short_zh": "斯洛文尼亚",
+  "region_term": {
+   "en": "statistical region",
+   "zh": "统计区"
+  },
+  "bounds": [
+   13.3,
+   45.35,
+   16.7,
+   46.95
+  ],
+  "small_regions": [],
+  "wash": {},
+  "data": [
+   "data/si/geo.js",
+   "data/si/books.js",
+   "data/si/places.js",
+   "data/si/lines.js"
+  ],
+  "open": true,
+  "needs": [
+   "it"
+  ]
  }
 ];
 // Totals over every open country, for the world page.
-window.RA_WORLD_STATS = {"countries": 59, "books": 1803, "lines": 1742, "places": 1998};
+window.RA_WORLD_STATS = {"countries": 60, "books": 1807, "lines": 1747, "places": 2003};

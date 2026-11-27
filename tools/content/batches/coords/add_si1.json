@@ -1,0 +1,7 @@
+{
+ "si-jurcic-muljava": {"lat": 45.903753762, "lon": 14.797907701, "st": "Wikidata Q12793172 (Jurčič House) P625", "su": "https://www.wikidata.org/wiki/Q12793172"},
+ "si-visoko": {"lat": 46.1269523, "lon": 14.2077074, "st": "Wikidata Q108131863 (Dvorec Visoko) P625; the sl.wikipedia article has no coordinates", "su": "https://www.wikidata.org/wiki/Q108131863"},
+ "si-strmol": {"lat": 46.26388889, "lon": 14.47888889, "st": "sl.wikipedia \"Grad Strmol\" coordinates", "su": "https://sl.wikipedia.org/wiki/Grad_Strmol"},
+ "si-banjsice": {"lat": 46.04905, "lon": 13.69995, "st": "en.wikipedia \"Banjšice Plateau\" coordinates", "su": "https://en.wikipedia.org/wiki/Banjšice_Plateau"},
+ "tr-hippodrome": {"lat": 41.00638889, "lon": 28.97583333, "st": "en.wikipedia \"Hippodrome of Constantinople\" coordinates", "su": "https://en.wikipedia.org/wiki/Hippodrome_of_Constantinople"}
+}

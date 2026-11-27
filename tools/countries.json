@@ -8661,6 +8661,106 @@
       "open": true,
       "small_regions": [],
       "wash": {}
+    },
+    {
+      "code": "si",
+      "iso": "SVN",
+      "name": "Slovenia",
+      "name_zh": "斯洛文尼亚",
+      "short": "Slovenia",
+      "short_zh": "斯洛文尼亚",
+      "region_term": {
+        "en": "statistical region",
+        "zh": "统计区"
+      },
+      "bounds": [
+        13.3,
+        45.35,
+        16.7,
+        46.95
+      ],
+      "step": 0.005,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "SI-GOR": "SI-GOR",
+              "SI-GRS": "SI-GRS",
+              "SI-JVS": "SI-JVS",
+              "SI-KOR": "SI-KOR",
+              "SI-OBK": "SI-OBK",
+              "SI-OSR": "SI-OSR",
+              "SI-PNO": "SI-PNO",
+              "SI-POD": "SI-POD",
+              "SI-POM": "SI-POM",
+              "SI-POS": "SI-POS",
+              "SI-SAV": "SI-SAV",
+              "SI-ZAS": "SI-ZAS"
+            }
+          }
+        ],
+        "names": {
+          "SI-POM": [
+            "Mura",
+            "穆拉统计区"
+          ],
+          "SI-POD": [
+            "Drava",
+            "德拉瓦统计区"
+          ],
+          "SI-KOR": [
+            "Carinthia",
+            "科罗什卡统计区"
+          ],
+          "SI-SAV": [
+            "Savinja",
+            "萨维尼亚统计区"
+          ],
+          "SI-ZAS": [
+            "Central Sava",
+            "中萨瓦统计区"
+          ],
+          "SI-POS": [
+            "Lower Sava",
+            "下萨瓦统计区"
+          ],
+          "SI-JVS": [
+            "Southeast Slovenia",
+            "东南斯洛文尼亚统计区"
+          ],
+          "SI-OSR": [
+            "Central Slovenia",
+            "中斯洛文尼亚统计区"
+          ],
+          "SI-GOR": [
+            "Upper Carniola",
+            "上卡尼鄂拉统计区"
+          ],
+          "SI-PNO": [
+            "Littoral–Inner Carniola",
+            "滨海-内卡尼鄂拉统计区"
+          ],
+          "SI-GRS": [
+            "Gorizia",
+            "戈里齐亚统计区"
+          ],
+          "SI-OBK": [
+            "Coastal–Karst",
+            "沿海-喀斯特统计区"
+          ]
+        }
+      },
+      "data": [
+        "data/si/geo.js",
+        "data/si/books.js",
+        "data/si/places.js",
+        "data/si/lines.js"
+      ],
+      "open": true,
+      "small_regions": [],
+      "wash": {}
     }
   ]
 }
