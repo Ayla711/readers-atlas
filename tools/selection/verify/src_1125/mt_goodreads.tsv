@@ -1,0 +1,33 @@
+# Goodreads autocomplete, read 11-27 in the built-in browser (window.GR2, and the plain autocomplete for "V.");
+# largest entry of that title whose author matches
+V.	26271	Pynchon (the query "V. Pynchon" first returns Inherent Vice, 40279: not this book)
+The Odyssey	1306017	Homer
+The Maltese Falcon	120275	Hammett (not set in Malta)
+Everyone Brave Is Forgiven	46439	Cleave
+The Jew of Malta	6349	Marlowe
+The Disorderly Knights	4224	Dunnett
+Earthly Powers	3508	Burgess
+The Kappillan of Malta	895	Monsarrat
+Fl-Isem tal-Missier (U tal-Iben)	488	Immanuel Mifsud
+Dak li l-Lejl Iħallik Tgħid	464	Mejlak
+Is-Sriep Reġgħu Saru Velenużi	214	Vella Gera
+Jutta Heim	209	Immanuel Mifsud
+Leli ta' Ħaż-Żgħir	92	Ellul Mercer
+Kissirtu kullimkien	85	Lara Calleja
+Trojan	82	Vella Gera
+Rokit	72	Loranne Vella
+L-Eżodu taċ-Ċikonji	55	Nabhan
+Magna Mater	47	Loranne Vella
+Il-Ħelsien	35	Ġużè Bonnici
+Xemgħat	33	Żahra
+Ulied in-Nanna Venut fl-Amerka	24	Mamo
+Karnival	22	Ebejer
+Ineż Farruġ	22	Caruana
+Ir-Re Borġ	19	Aleks Farrugia
+Marta Marta	19	Loranne Vella
+Mal-Fanal Hemm Ħarstek Tixgħel	15	Oliver Friggieri
+Xi drabi mqar persuna	14	Simone Galea
+L-Ibleh	9	Orlando
+Nazju Ellul	5	Muscat Azzopardi
+Dun Karm: Il-Poeżiji Miġbura	3	Dun Karm
+Ġiżimin li Qatt ma Jiftaħ	0	no entry
