@@ -1,0 +1,397 @@
+{
+ "cc": "me",
+ "name": "黑山",
+ "date": "2026-11-27",
+ "rule": "v2",
+ "sources": {
+  "A": "没有找到全国性的「最佳书」名单或读者投票（11-27 查过黑山各大报刊、Matica crnogorska 和地区来源；verify/src_1125/me_lists.txt），此类空缺",
+  "B": "黑山教育局 2020 年普通高中「黑山语-塞尔维亚语、波斯尼亚语、克罗地亚语与文学」科目大纲：各年级「推荐经典」记 2，按时期列的篇目记 1（verify/src_1125/me_curriculum.txt）",
+  "C": "NIN 小说奖（1954 年起，1991 年以前是全南斯拉夫的年度小说奖，英文维基 11-27）和欧盟文学奖的黑山得主",
+  "BK": "挪威世界文库 100 本里没有黑山作品",
+  "D": "thegreatestbooks.org 总榜前 2000 名（11-25 逐页读完，11-27 按作者再查）：没有黑山作品",
+  "E": "Goodreads 评分人数（自动补全接口，11-27；verify/src_1125/me_goodreads.tsv）"
+ },
+ "size_note": "规则 v2：两项证据或进 A 名单前 10 就够格；不设名额。黑山第一次评。没有 A 名单；课纲和奖项各算一项，没有一本书两项都占，Goodreads 都不到 1 万人，按规则一本都不够格。11-27 用户定：照阿尔巴尼亚的办法，只破例收公认的民族经典、涅古什的《山地花环》。",
+ "rows": [
+  {
+   "title": "The Mountain Wreath (Gorski vijenac)",
+   "author": "Petar II Petrović-Njegoš",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "破例收（11-27 用户：黑山按规则一本都不够格，只破例收《山地花环》）",
+   "first_draft": "破例收（11-27 用户：黑山按规则一本都不够格，只破例收《山地花环》）",
+   "note": "诗剧，1847 年维也纳出版；课纲二年级经典；不在 D 前 2000 · Goodreads 3,731"
+  },
+  {
+   "title": "The Wailing Mountain (Lelejska gora)",
+   "author": "Mihailo Lalić",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "课纲四年级经典；1957 年 NIN 奖决选（未获奖）；不在 D 前 2000 · Goodreads 276"
+  },
+  {
+   "title": "Evil Spring (Zlo proljeće)",
+   "author": "Mihailo Lalić",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "课纲三年级经典；不在 D 前 2000 · Goodreads 86"
+  },
+  {
+   "title": "The Fortune of War (Ratna sreća)",
+   "author": "Mihailo Lalić",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "1973 年 NIN 奖；不在课纲里；不在 D 前 2000 · Goodreads 11"
+  },
+  {
+   "title": "The Red Cockerel (Crveni petao leti prema nebu)",
+   "author": "Miodrag Bulatović",
+   "kind": "本国",
+   "points": {
+    "B": 1
+   },
+   "score": 1,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "课纲四年级篇目；不在 D 前 2000 · Goodreads 400"
+  },
+  {
+   "title": "People with Four Fingers (Ljudi sa četiri prsta)",
+   "author": "Miodrag Bulatović",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "1975 年 NIN 奖；不在课纲里；不在 D 前 2000 · Goodreads 178"
+  },
+  {
+   "title": "Land Without Justice (Besudna zemlja)",
+   "author": "Milovan Đilas",
+   "kind": "本国",
+   "points": {
+    "B": 1
+   },
+   "score": 1,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "回忆录；课纲四年级篇目；不在 D 前 2000 · Goodreads 109"
+  },
+  {
+   "title": "Examples of Humanity and Bravery (Primjeri čojstva i junaštva)",
+   "author": "Marko Miljanov",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "课纲二年级经典；不在 D 前 2000 · Goodreads 67"
+  },
+  {
+   "title": "Kanjoš Macedonović",
+   "author": "Stefan Mitrov Ljubiša",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "短篇；课纲二年级经典；不在 D 前 2000 · Goodreads 40"
+  },
+  {
+   "title": "Lament (Lelek)",
+   "author": "Nikola Lopičić",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "课纲三年级经典；查不到 Goodreads（没有这一条）；不在 D 前 2000"
+  },
+  {
+   "title": "A Night Worth More than a Century (Noć skuplja vijeka)",
+   "author": "Petar II Petrović-Njegoš",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "抒情诗；课纲四年级经典；不在 D 前 2000 · Goodreads 56"
+  },
+  {
+   "title": "The Ray of the Microcosm (Luča mikrokozma)",
+   "author": "Petar II Petrović-Njegoš",
+   "kind": "本国",
+   "points": {
+    "B": 1
+   },
+   "score": 1,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "哲理长诗；课纲四年级篇目（献词）；不在 D 前 2000 · Goodreads 412"
+  },
+  {
+   "title": "Instruction to the Olive Tree (Instrukcija maslini)",
+   "author": "Radovan Zogović",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "诗；课纲四年级经典；查不到 Goodreads（没有这一条）；不在 D 前 2000"
+  },
+  {
+   "title": "The Star of David (Davidova zvijezda)",
+   "author": "Zuvdija Hodžić",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "课纲四年级经典；不在 D 前 2000 · Goodreads 22"
+  },
+  {
+   "title": "Hansen's Children (Hansenova djeca)",
+   "author": "Ognjen Spahić",
+   "kind": "本国",
+   "points": {
+    "B": 1
+   },
+   "score": 1,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "课纲四年级篇目（选段）；不在 D 前 2000 · Goodreads 470"
+  },
+  {
+   "title": "A Head Full of Joy (Puna glava radosti)",
+   "author": "Ognjen Spahić",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2014 年欧盟文学奖；不在 D 前 2000 · Goodreads 51"
+  },
+  {
+   "title": "Mimesis (Mimezis)",
+   "author": "Andrej Nikolaidis",
+   "kind": "本国",
+   "points": {
+    "B": 1
+   },
+   "score": 1,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "课纲四年级篇目（选段）；不在 D 前 2000 · Goodreads 184"
+  },
+  {
+   "title": "The Son (Sin)",
+   "author": "Andrej Nikolaidis",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2011 年欧盟文学奖；不在 D 前 2000 · Goodreads 557"
+  },
+  {
+   "title": "Arcueil",
+   "author": "Aleksandar Bečanović",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2017 年欧盟文学奖；不在 D 前 2000 · Goodreads 32"
+  },
+  {
+   "title": "The Minister (Ministar)",
+   "author": "Stefan Bošković",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2020 年欧盟文学奖；不在 D 前 2000 · Goodreads 66"
+  },
+  {
+   "title": "Sampas",
+   "author": "Ilija Đurović",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2023 年欧盟文学奖；不在 D 前 2000 · Goodreads 56"
+  },
+  {
+   "title": "The Door of the Womb (Vrata od utrobe)",
+   "author": "Mirko Kovač",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "NIN 奖；作者生在黑山，小说写黑塞哥维那；不在课纲里；不在 D 前 2000 · Goodreads 124"
+  },
+  {
+   "title": "The Mouth Full of Earth (Usta puna zemlje)",
+   "author": "Branimir Šćepanović",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "1974 年 NIN 奖决选（未获奖）；不在课纲里；不在 D 前 2000 · Goodreads 2,493"
+  },
+  {
+   "title": "Black Lamb and Grey Falcon",
+   "author": "Rebecca West",
+   "kind": "外国",
+   "points": {
+    "D": 1
+   },
+   "score": 1,
+   "cats": [
+    "I"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "写整个南斯拉夫，黑山是其中一章；D 562 · Goodreads 2,809；已在波黑表里评过，不收"
+  }
+ ]
+}
