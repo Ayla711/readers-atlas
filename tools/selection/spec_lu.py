@@ -1,0 +1,23 @@
+SPEC=dict(cc="lu",
+name="卢森堡",date="2026-11-27",
+sources={
+'A':'没有找到全国性的「最佳书」名单或读者投票（11-27；forum 杂志一组朋友的「非正式正典」书评不算；verify/src_1125/lu_lists.txt），此类空缺',
+'B':'教育部 SCRIPT《卢森堡语读本（4C、4G 年级）》收录的作品节选记 1（verify/src_1125/lu_curriculum.txt）',
+'C':'Servais 文学奖（1992 年起）和欧盟文学奖的卢森堡得主（维基 11-27）',
+'BK':'挪威世界文库 100 本里没有卢森堡作品',
+'D':'thegreatestbooks.org 总榜前 2000 名：没有卢森堡作者；「故事在卢森堡」只有凯撒《高卢战记》（第 1886，写的是特雷维里人，不在今天的卢森堡）',
+'E':'Goodreads 评分人数（自动补全接口，11-27；verify/src_1125/lu_goodreads.tsv）',
+},
+size_note='规则 v2：两项证据或进 A 名单前 10 就够格；不设名额。卢森堡第一次评。没有 A 名单。按规则 2 本够格：霍舍特《Perl oder Pica》（读本节选 + 1999 年 Servais 奖）和福尔贾里尼《Amok》（读本节选 + 2013 年欧盟文学奖）。11-27 用户定：只收这 2 本，《雷纳特》等不破例。',
+rows=[
+('Perl oder Pica', 'Jhemp Hoscheit', '本国', {'B': 1, 'C': 2}, '', '1998 年卢森堡语小说；读本收开篇；1999 年 Servais 奖；不在 D 前 2000 · Goodreads 9'),
+('Amok: A Luxembourg Love Chronicle (Amok: Eng Lëtzebuerger Liebeschronik)', 'Tullio Forgiarini', '本国', {'B': 1, 'C': 2}, '', '卢森堡语小说；读本收开篇；2013 年欧盟文学奖；不在 D 前 2000 · Goodreads 69'),
+('Renert', 'Michel Rodange', '本国', {'B': 1}, '', '1872 年，卢森堡语民族史诗（狐狸列那改编）；读本收末尾《鹨之歌》；不在 D 前 2000 · Goodreads 2'),
+('schacko klak', 'Roger Manderscheid', '本国', {'B': 1}, '', '1988 年，卢森堡语自传体小说三部曲第一部；读本收开篇；（Servais 奖给的是续集）不在 D 前 2000 · Goodreads 5'),
+('Ons Heemecht and other poems', 'Michel Lentz', '本国', {'B': 1}, '', '国歌歌词作者；读本收《我们的家园》《火车》；查不到 Goodreads'),
+('De Papagei um Käschtebam', 'Roger Manderscheid', '本国', {'C': 2}, '', '1991 年；1992 年 Servais 奖；不在 D 前 2000 · Goodreads 2'),
+('All Dag verstoppt en aneren', 'Gast Groeber', '本国', {'C': 2}, '', '短篇集；2016 年欧盟文学奖；不在 D 前 2000 · Goodreads 63'),
+('Die Mutationen', 'Francis Kirps', '本国', {'C': 2}, '', '短篇集；2020 年 Servais 奖、欧盟文学奖；不在 D 前 2000 · Goodreads 25'),
+('Amateur', 'Jean Back', '本国', {'C': 2}, '', '2010 年欧盟文学奖；不在 D 前 2000 · 查不到 Goodreads'),
+('Ma vie sous les tentes', 'Jeff Schinker', '本国', {'C': 2}, '', '2023 年欧盟文学奖；不在 D 前 2000 · Goodreads 2'),
+])

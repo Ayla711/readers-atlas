@@ -1,0 +1,129 @@
+{
+ "cc": "micro",
+ "name": "摩纳哥、圣马力诺、安道尔、列支敦士登",
+ "date": "2026-11-27",
+ "rule": "v2",
+ "sources": {
+  "A": "四国都没有找到全国性的「最佳书」名单（verify/src_1125/microstates_1127.txt）",
+  "B": "摩纳哥没有本国文学课纲；安道尔、圣马力诺、列支敦士登用邻国的课纲，没有本国篇目",
+  "C": "安道尔：查理曼奖（Premi Carlemany，安道尔政府）；列支敦士登：欧盟文学奖得主",
+  "BK": "挪威世界文库 100 本里没有这四国的作品",
+  "D": "thegreatestbooks.org 总榜前 2000 名：写摩纳哥、圣马力诺、安道尔、列支敦士登的书都没有",
+  "E": "Goodreads 评分人数（自动补全接口，11-27）"
+ },
+ "size_note": "规则 v2：两项证据或进 A 名单前 10 就够格。四个小国按规则一本都不够格，每国最多一项证据。11-27 用户没有选任何一国破例收书：四国暂不加，地图也暂不做；梵蒂冈见 spec_va.py。",
+ "rows": [
+  {
+   "title": "Loser Takes All",
+   "author": "Graham Greene",
+   "kind": "摩纳哥",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "用户暂不加这个国家（11-27）",
+   "note": "1955 年，蒙特卡洛赌场的蜜月；不在 D 前 2000 · Goodreads 1,716"
+  },
+  {
+   "title": "A Legenda de Santa Devota",
+   "author": "Louis Notari",
+   "kind": "摩纳哥",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "用户暂不加这个国家（11-27）",
+   "note": "1927 年，第一部摩纳哥语文学作品，作者也写了国歌歌词；查不到 Goodreads"
+  },
+  {
+   "title": "La libertà perpetua di San Marino",
+   "author": "Giosuè Carducci",
+   "kind": "圣马力诺",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "用户暂不加这个国家（11-27）",
+   "note": "1894 年 9 月 30 日在新落成的公共宫发表的演说，诺奖作家；公有领域；查不到 Goodreads"
+  },
+  {
+   "title": "Blau de Prússia",
+   "author": "Albert Villaró",
+   "kind": "安道尔",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "用户暂不加这个国家（11-27）",
+   "note": "2006 年查理曼奖，背景在当代安道尔的犯罪小说；作者是安道尔公民；不在 D 前 2000 · Goodreads 81"
+  },
+  {
+   "title": "Andorra",
+   "author": "Max Frisch",
+   "kind": "安道尔",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "用户暂不加这个国家（11-27）",
+   "note": "1961 年剧本；故事在虚构的国家，弗里施说它和真实的安道尔无关，不挂；Goodreads 14,527"
+  },
+  {
+   "title": "Die dunkle Muse",
+   "author": "Armin Öhri",
+   "kind": "列支敦士登",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "用户暂不加这个国家（11-27）",
+   "note": "2014 年欧盟文学奖；故事在 1865 年的柏林，不在列支敦士登；Goodreads 521"
+  },
+  {
+   "title": "Frühe Pflanzung",
+   "author": "Anna Ospelt",
+   "kind": "列支敦士登",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "用户暂不加这个国家（11-27）",
+   "note": "2023 年欧盟文学奖；写早期育儿和自然观察，没有明确的列支敦士登地点；Goodreads 20"
+  },
+  {
+   "title": "Man wortet sich die Orte selbst",
+   "author": "Iren Nigg",
+   "kind": "列支敦士登",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "用户暂不加这个国家（11-27）",
+   "note": "诗集；2011 年欧盟文学奖；Goodreads 4"
+  }
+ ]
+}
