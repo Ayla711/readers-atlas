@@ -1888,7 +1888,34 @@ window.RA_COUNTRIES = [
   "needs": [
    "it"
   ]
+ },
+ {
+  "code": "me",
+  "iso": "MNE",
+  "name": "Montenegro",
+  "name_zh": "黑山",
+  "short": "Montenegro",
+  "short_zh": "黑山",
+  "region_term": {
+   "en": "municipality",
+   "zh": "市镇"
+  },
+  "bounds": [
+   18.3,
+   41.75,
+   20.45,
+   43.65
+  ],
+  "small_regions": [],
+  "wash": {},
+  "data": [
+   "data/me/geo.js",
+   "data/me/books.js",
+   "data/me/places.js",
+   "data/me/lines.js"
+  ],
+  "open": true
  }
 ];
 // Totals over every open country, for the world page.
-window.RA_WORLD_STATS = {"countries": 60, "books": 1807, "lines": 1747, "places": 2003};
+window.RA_WORLD_STATS = {"countries": 61, "books": 1808, "lines": 1748, "places": 2004};

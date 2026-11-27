@@ -8761,6 +8761,161 @@
       "open": true,
       "small_regions": [],
       "wash": {}
+    },
+    {
+      "code": "me",
+      "iso": "MNE",
+      "name": "Montenegro",
+      "name_zh": "黑山",
+      "short": "Montenegro",
+      "short_zh": "黑山",
+      "region_term": {
+        "en": "municipality",
+        "zh": "市镇"
+      },
+      "bounds": [
+        18.3,
+        41.75,
+        20.45,
+        43.65
+      ],
+      "step": 0.002,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "ME-01": "ME-01",
+              "ME-02": "ME-02",
+              "ME-03": "ME-03",
+              "ME-04": "ME-04",
+              "ME-05": "ME-05",
+              "ME-06": "ME-06",
+              "ME-07": "ME-07",
+              "ME-08": "ME-08",
+              "ME-09": "ME-09",
+              "ME-10": "ME-10",
+              "ME-11": "ME-11",
+              "ME-12": "ME-12",
+              "ME-13": "ME-13",
+              "ME-14": "ME-14",
+              "ME-15": "ME-15",
+              "ME-16": "ME-16",
+              "ME-17": "ME-17",
+              "ME-18": "ME-18",
+              "ME-19": "ME-19",
+              "ME-20": "ME-20",
+              "ME-21": "ME-21",
+              "ME-22": "ME-22",
+              "ME-23": "ME-23"
+            }
+          }
+        ],
+        "names": {
+          "ME-01": [
+            "Andrijevica",
+            "安德里耶维察"
+          ],
+          "ME-02": [
+            "Bar",
+            "巴尔"
+          ],
+          "ME-03": [
+            "Berane",
+            "贝拉内"
+          ],
+          "ME-04": [
+            "Bijelo Polje",
+            "比耶洛波列"
+          ],
+          "ME-05": [
+            "Budva",
+            "布德瓦"
+          ],
+          "ME-06": [
+            "Cetinje",
+            "采蒂涅"
+          ],
+          "ME-07": [
+            "Danilovgrad",
+            "达尼洛夫格勒"
+          ],
+          "ME-08": [
+            "Herceg Novi",
+            "海尔采格诺维"
+          ],
+          "ME-09": [
+            "Kolašin",
+            "科拉欣"
+          ],
+          "ME-10": [
+            "Kotor",
+            "科托尔"
+          ],
+          "ME-11": [
+            "Mojkovac",
+            "莫伊科瓦茨"
+          ],
+          "ME-12": [
+            "Nikšić",
+            "尼克希奇"
+          ],
+          "ME-13": [
+            "Plav",
+            "普拉夫"
+          ],
+          "ME-14": [
+            "Pljevlja",
+            "普列夫利亚"
+          ],
+          "ME-15": [
+            "Plužine",
+            "普卢日内"
+          ],
+          "ME-16": [
+            "Podgorica",
+            "波德戈里察"
+          ],
+          "ME-17": [
+            "Rožaje",
+            "罗扎耶"
+          ],
+          "ME-18": [
+            "Šavnik",
+            "沙夫尼克"
+          ],
+          "ME-19": [
+            "Tivat",
+            "蒂瓦特"
+          ],
+          "ME-20": [
+            "Ulcinj",
+            "乌尔齐尼"
+          ],
+          "ME-21": [
+            "Žabljak",
+            "扎布利亚克"
+          ],
+          "ME-22": [
+            "Gusinje",
+            "古西涅"
+          ],
+          "ME-23": [
+            "Petnjica",
+            "佩特尼察"
+          ]
+        }
+      },
+      "data": [
+        "data/me/geo.js",
+        "data/me/books.js",
+        "data/me/places.js",
+        "data/me/lines.js"
+      ],
+      "open": true,
+      "small_regions": [],
+      "wash": {}
     }
   ]
 }

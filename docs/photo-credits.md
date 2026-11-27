@@ -1807,3 +1807,4 @@
 | Strmol Castle, near Cerklje na Gorenjskem | Mihael Grmek | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AGrad_Strmol_02.jpg) |
 | Banjšice Plateau (the Bainsizza) | K.u.k. Kriegspressequartier, Lichtbildstelle Wien | [Public domain](https://en.wikipedia.org/wiki/Public_domain) | [Commons](https://commons.wikimedia.org/wiki/File%3ABainsizza_Plateau._%28BildID_15599835%29.jpg) |
 | Hippodrome of Constantinople (Sultanahmet Square), Istanbul | Roger W | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AIstanbul_-_Hippodrome_%283494147224%29.jpg) |
+| Mount Lovćen and Njegoš's Mausoleum (Jezerski vrh) | Ingo Mehling | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AJezerski_Vrh%2C_Njegos_mausoleum_-_2.jpg) |
