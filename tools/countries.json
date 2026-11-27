@@ -8916,6 +8916,86 @@
       "open": true,
       "small_regions": [],
       "wash": {}
+    },
+    {
+      "code": "mk",
+      "iso": "MKD",
+      "name": "North Macedonia",
+      "name_zh": "北马其顿",
+      "short": "North Macedonia",
+      "short_zh": "北马其顿",
+      "region_term": {
+        "en": "statistical region",
+        "zh": "统计区"
+      },
+      "bounds": [
+        20.4,
+        40.8,
+        23.1,
+        42.4
+      ],
+      "step": 0.002,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "MK001": "MK001",
+              "MK002": "MK002",
+              "MK003": "MK003",
+              "MK004": "MK004",
+              "MK005": "MK005",
+              "MK006": "MK006",
+              "MK007": "MK007",
+              "MK008": "MK008"
+            }
+          }
+        ],
+        "names": {
+          "MK001": [
+            "Vardar",
+            "瓦尔达尔统计区"
+          ],
+          "MK002": [
+            "Eastern",
+            "东部统计区"
+          ],
+          "MK003": [
+            "Southwestern",
+            "西南统计区"
+          ],
+          "MK004": [
+            "Southeastern",
+            "东南统计区"
+          ],
+          "MK005": [
+            "Pelagonia",
+            "佩拉戈尼亚统计区"
+          ],
+          "MK006": [
+            "Polog",
+            "波洛格统计区"
+          ],
+          "MK007": [
+            "Northeastern",
+            "东北统计区"
+          ],
+          "MK008": [
+            "Skopje",
+            "斯科普里统计区"
+          ]
+        }
+      },
+      "data": [
+        "data/mk/geo.js",
+        "data/mk/books.js",
+        "data/mk/places.js",
+        "data/mk/lines.js"
+      ],
+      "open": true,
+      "small_regions": [],
+      "wash": {}
     }
   ]
 }

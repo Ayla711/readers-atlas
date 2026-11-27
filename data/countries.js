@@ -1915,7 +1915,34 @@ window.RA_COUNTRIES = [
    "data/me/lines.js"
   ],
   "open": true
+ },
+ {
+  "code": "mk",
+  "iso": "MKD",
+  "name": "North Macedonia",
+  "name_zh": "北马其顿",
+  "short": "North Macedonia",
+  "short_zh": "北马其顿",
+  "region_term": {
+   "en": "statistical region",
+   "zh": "统计区"
+  },
+  "bounds": [
+   20.4,
+   40.8,
+   23.1,
+   42.4
+  ],
+  "small_regions": [],
+  "wash": {},
+  "data": [
+   "data/mk/geo.js",
+   "data/mk/books.js",
+   "data/mk/places.js",
+   "data/mk/lines.js"
+  ],
+  "open": true
  }
 ];
 // Totals over every open country, for the world page.
-window.RA_WORLD_STATS = {"countries": 61, "books": 1809, "lines": 1749, "places": 2005};
+window.RA_WORLD_STATS = {"countries": 62, "books": 1810, "lines": 1750, "places": 2006};
