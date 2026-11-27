@@ -1,0 +1,10 @@
+{
+ "by-orsha-karatkievich": {"lat": 54.511489, "lon": 30.429003, "st": "be.wikipedia \"Дом па вуліцы Уладзіміра Леніна, 26 (Орша)\" coordinates", "su": "https://be.wikipedia.org/wiki/Дом_па_вуліцы_Уладзіміра_Леніна,_26_(Орша)"},
+ "by-karanioka": {"lat": 51.95833, "lon": 29.71333, "st": "be.wikipedia \"Каранёўка (Хойніцкі раён)\" coordinates", "su": "https://be.wikipedia.org/wiki/Каранёўка_(Хойніцкі_раён)"},
+ "by-bychki": {"lat": 55.165054, "lon": 28.385989, "st": "be.wikipedia \"Музей-сядзіба Васіля Быкава\" coordinates", "su": "https://be.wikipedia.org/wiki/Музей-сядзіба_Васіля_Быкава"},
+ "by-lastok": {"lat": 53.47306, "lon": 26.91, "st": "be.wikipedia \"Ласток\" coordinates", "su": "https://be.wikipedia.org/wiki/Ласток"},
+ "by-belavezha": {"lat": 52.667, "lon": 23.833, "st": "be.wikipedia \"Белавежская пушча (нацыянальны парк)\" coordinates", "su": "https://be.wikipedia.org/wiki/Белавежская_пушча_(нацыянальны_парк)"},
+ "by-polotsk": {"lat": 55.48333333, "lon": 28.8, "st": "be.wikipedia \"Полацк\" coordinates", "su": "https://be.wikipedia.org/wiki/Полацк"},
+ "by-slutsk": {"lat": 53.01667, "lon": 27.55, "st": "be.wikipedia \"Слуцк\" coordinates", "su": "https://be.wikipedia.org/wiki/Слуцк"},
+ "by-kusliany": {"lat": 54.46, "lon": 26.19888889, "st": "be.wikipedia \"Кушляны\" coordinates (the museum's own article gives coordinates in Minsk, which are wrong)", "su": "https://be.wikipedia.org/wiki/Кушляны"}
+}

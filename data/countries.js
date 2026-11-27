@@ -1766,7 +1766,36 @@ window.RA_COUNTRIES = [
    "data/lt/lines.js"
   ],
   "open": true
+ },
+ {
+  "code": "by",
+  "iso": "BLR",
+  "name": "Belarus",
+  "name_zh": "白俄罗斯",
+  "short": "Belarus",
+  "short_zh": "白俄罗斯",
+  "region_term": {
+   "en": "region or city",
+   "zh": "州或市"
+  },
+  "bounds": [
+   23.1,
+   51.2,
+   32.85,
+   56.2
+  ],
+  "small_regions": [
+   "BY-HM"
+  ],
+  "wash": {},
+  "data": [
+   "data/by/geo.js",
+   "data/by/books.js",
+   "data/by/places.js",
+   "data/by/lines.js"
+  ],
+  "open": true
  }
 ];
 // Totals over every open country, for the world page.
-window.RA_WORLD_STATS = {"countries": 56, "books": 1788, "lines": 1727, "places": 1982};
+window.RA_WORLD_STATS = {"countries": 57, "books": 1796, "lines": 1734, "places": 1990};

@@ -1789,3 +1789,10 @@
 | Wolf Children Memorial, Mikytai | Ruth Leiserowitz | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AWolfskinder-Denkmal_in_Mikytai%2C_1995.jpg) |
 | Stutthof Museum, Sztutowo | kallerna | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AStutthof_concentration_camp_2016.jpg) |
 | 34th Street, Manhattan | Tdorante10 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A34th_St_9th_Av_td_%282018-08-16%29_11.jpg) |
+| Karatkievič Museum, Orsha | Mikra72 | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File%3ALenina_street_26_in_Orsha_-_002.jpg) |
+| Vasil Bykaŭ Museum-Estate, Byčki | Sergei | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:By%C4%8Dki_siadziba_V._Bykava_1.JPG) |
+| Lastok | Валацуга | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3A%C5%81astok._%D0%9B%D0%B0%D1%81%D1%82%D0%BE%D0%BA._%D0%A1%D1%8F%D0%B4%D0%B7%D1%96%D0%B1%D0%B0_%D0%AF%D0%BA%D1%83%D0%B1%D0%B0_%D0%9A%D0%BE%D0%BB%D0%B0%D1%81%D0%B0_%281885%29.jpg) |
+| Belavezha Forest | Metselaar, J. | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABelovezhskaya_Pushcha_N.P.jpg) |
+| Polotsk | Jurasikt | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABELARUS_-_POLOTSK_%28%D0%9F%D0%BE%D0%BB%D0%B0%D1%86%D0%BA%29._St_Sophia_cathedral..jpg) |
+| Slutsk | Pulkassa, Flickr | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABLR_Slutsk_Administrative_Building.jpg) |
+| Bahuševič Museum-Estate, Kušlany | Viktar Palstsiuk | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABelarus-Kushlany.jpg) |

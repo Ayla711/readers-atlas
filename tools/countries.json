@@ -8276,6 +8276,83 @@
       "open": true,
       "small_regions": [],
       "wash": {}
+    },
+    {
+      "code": "by",
+      "iso": "BLR",
+      "name": "Belarus",
+      "name_zh": "白俄罗斯",
+      "short": "Belarus",
+      "short_zh": "白俄罗斯",
+      "region_term": {
+        "en": "region or city",
+        "zh": "州或市"
+      },
+      "bounds": [
+        23.1,
+        51.2,
+        32.85,
+        56.2
+      ],
+      "step": 0.004,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "BY-BR": "BY-BR",
+              "BY-HM": "BY-HM",
+              "BY-HO": "BY-HO",
+              "BY-HR": "BY-HR",
+              "BY-MA": "BY-MA",
+              "BY-MI": "BY-MI",
+              "BY-VI": "BY-VI"
+            }
+          }
+        ],
+        "names": {
+          "BY-BR": [
+            "Brest Region",
+            "布列斯特州"
+          ],
+          "BY-HM": [
+            "Minsk",
+            "明斯克市"
+          ],
+          "BY-HO": [
+            "Gomel Region",
+            "戈梅利州"
+          ],
+          "BY-HR": [
+            "Grodno Region",
+            "格罗德诺州"
+          ],
+          "BY-MA": [
+            "Mogilev Region",
+            "莫吉廖夫州"
+          ],
+          "BY-MI": [
+            "Minsk Region",
+            "明斯克州"
+          ],
+          "BY-VI": [
+            "Vitebsk Region",
+            "维捷布斯克州"
+          ]
+        }
+      },
+      "data": [
+        "data/by/geo.js",
+        "data/by/books.js",
+        "data/by/places.js",
+        "data/by/lines.js"
+      ],
+      "open": true,
+      "small_regions": [
+        "BY-HM"
+      ],
+      "wash": {}
     }
   ]
 }
