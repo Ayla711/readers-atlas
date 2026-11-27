@@ -1999,7 +1999,61 @@ window.RA_COUNTRIES = [
    "data/mt/lines.js"
   ],
   "open": true
+ },
+ {
+  "code": "lu",
+  "iso": "LUX",
+  "name": "Luxembourg",
+  "name_zh": "卢森堡",
+  "short": "Luxembourg",
+  "short_zh": "卢森堡",
+  "region_term": {
+   "en": "canton",
+   "zh": "县"
+  },
+  "bounds": [
+   5.7,
+   49.42,
+   6.56,
+   50.2
+  ],
+  "small_regions": [],
+  "wash": {},
+  "data": [
+   "data/lu/geo.js",
+   "data/lu/books.js",
+   "data/lu/places.js",
+   "data/lu/lines.js"
+  ],
+  "open": true
+ },
+ {
+  "code": "va",
+  "iso": "VAT",
+  "name": "Vatican City",
+  "name_zh": "梵蒂冈",
+  "short": "Vatican",
+  "short_zh": "梵蒂冈",
+  "region_term": {
+   "en": "city-state",
+   "zh": "城国"
+  },
+  "bounds": [
+   12.4445,
+   41.8995,
+   12.4595,
+   41.9085
+  ],
+  "small_regions": [],
+  "wash": {},
+  "data": [
+   "data/va/geo.js",
+   "data/va/books.js",
+   "data/va/places.js",
+   "data/va/lines.js"
+  ],
+  "open": true
  }
 ];
 // Totals over every open country, for the world page.
-window.RA_WORLD_STATS = {"countries": 64, "books": 1814, "lines": 1755, "places": 2011};
+window.RA_WORLD_STATS = {"countries": 66, "books": 1817, "lines": 1758, "places": 2014};

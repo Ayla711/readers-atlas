@@ -9198,6 +9198,151 @@
       "open": true,
       "small_regions": [],
       "wash": {}
+    },
+    {
+      "code": "lu",
+      "iso": "LUX",
+      "name": "Luxembourg",
+      "name_zh": "卢森堡",
+      "short": "Luxembourg",
+      "short_zh": "卢森堡",
+      "region_term": {
+        "en": "canton",
+        "zh": "县"
+      },
+      "bounds": [
+        5.7,
+        49.42,
+        6.56,
+        50.2
+      ],
+      "step": 0.002,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "LU-CL": "LU-CL",
+              "LU-WI": "LU-WI",
+              "LU-VD": "LU-VD",
+              "LU-DI": "LU-DI",
+              "LU-RD": "LU-RD",
+              "LU-ME": "LU-ME",
+              "LU-EC": "LU-EC",
+              "LU-CA": "LU-CA",
+              "LU-LU": "LU-LU",
+              "LU-GR": "LU-GR",
+              "LU-ES": "LU-ES",
+              "LU-RM": "LU-RM"
+            }
+          }
+        ],
+        "names": {
+          "LU-CL": [
+            "Clervaux",
+            "克莱沃县"
+          ],
+          "LU-WI": [
+            "Wiltz",
+            "维尔茨县"
+          ],
+          "LU-VD": [
+            "Vianden",
+            "菲安登县"
+          ],
+          "LU-DI": [
+            "Diekirch",
+            "迪基希县"
+          ],
+          "LU-RD": [
+            "Redange",
+            "雷当日县"
+          ],
+          "LU-ME": [
+            "Mersch",
+            "梅尔施县"
+          ],
+          "LU-EC": [
+            "Echternach",
+            "埃希特纳赫县"
+          ],
+          "LU-CA": [
+            "Capellen",
+            "卡佩伦县"
+          ],
+          "LU-LU": [
+            "Luxembourg",
+            "卢森堡县"
+          ],
+          "LU-GR": [
+            "Grevenmacher",
+            "格雷文马赫县"
+          ],
+          "LU-ES": [
+            "Esch-sur-Alzette",
+            "阿尔泽特河畔埃施县"
+          ],
+          "LU-RM": [
+            "Remich",
+            "雷米希县"
+          ]
+        }
+      },
+      "data": [
+        "data/lu/geo.js",
+        "data/lu/books.js",
+        "data/lu/places.js",
+        "data/lu/lines.js"
+      ],
+      "open": true,
+      "small_regions": [],
+      "wash": {}
+    },
+    {
+      "code": "va",
+      "iso": "VAT",
+      "name": "Vatican City",
+      "name_zh": "梵蒂冈",
+      "short": "Vatican",
+      "short_zh": "梵蒂冈",
+      "region_term": {
+        "en": "city-state",
+        "zh": "城国"
+      },
+      "bounds": [
+        12.4445,
+        41.8995,
+        12.4595,
+        41.9085
+      ],
+      "step": 5e-05,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "VA": "VA"
+            }
+          }
+        ],
+        "names": {
+          "VA": [
+            "Vatican City",
+            "梵蒂冈城国"
+          ]
+        }
+      },
+      "data": [
+        "data/va/geo.js",
+        "data/va/books.js",
+        "data/va/places.js",
+        "data/va/lines.js"
+      ],
+      "open": true,
+      "small_regions": [],
+      "wash": {}
     }
   ]
 }

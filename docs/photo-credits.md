@@ -1815,3 +1815,6 @@
 | Nicosia (Lefkosia / Lefkoşa) | Nicosia029 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AVenetian_walls_and_green_parks_Nicosia_Republic_of_Cyprus_Kypros.jpg) |
 | Ħaż-Żebbuġ, Dun Karm's native town | Unknown author | [Public domain](https://en.wikipedia.org/wiki/Public_domain) | [Commons](https://commons.wikimedia.org/wiki/File%3APjazza_San_Filep%2C_%C4%A6a%C5%BC-%C5%BBebbu%C4%A1_1920.jpg) |
 | Valletta | Luca Aless | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ALa_Valletta_-_Panorama.jpg) |
+| Esch-sur-Alzette | Zinneke | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AEsch-sur-Alzette_Rue_de_l%27Alzette_2022-05.jpg) |
+| Dreiborn, the Centre socio-éducatif de l'État | GilPe | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AWormeldange%2C_Dreiborn_%2811%29.jpg) |
+| Sistine Chapel | Antoine Taveneaux | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ASistine_Chapel_ceiling_03.jpg) |
