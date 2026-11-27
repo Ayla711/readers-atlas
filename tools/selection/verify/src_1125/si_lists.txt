@@ -1,0 +1,23 @@
+# Slovenia, A lists, read 11-26/27.
+# A1: Tomi Deutsch, "Najpomembnejši slovenski romani" (The Most Important Slovenian Novels), Šolska knjižnica 33 (2024), no. 3-4,
+#     pp. 3-17 (ZRSS; zrss.si/wp-content/uploads/2026/05/Solska_knjiznica_3_4_2024_splet.pdf; also dlib.si). Novels only.
+#     Round 1 (March 2024): 166 of 172 school librarians at the three runs of the Bibliopedagoška šola 2024 seminar, in 34 groups,
+#     each wrote a ranked top 10 with no titles suggested (10 points down to 1); the top 15 of each run, plus a starting list of
+#     15 novels drawn from the N1 list and the matura list, went on. Round 2: 153 librarians rated 25 novels 1-3; the final
+#     ranking is the mean of those who had read the novel; 18 novels are in the final list (Table 6).
+#     Final ranking (mean; round-1 points):
+1 Jurčič, Deseti brat (2.809; 275); 2 Finžgar, Pod svobodnim soncem (2.734; 225); 3 Tavčar, Visoška kronika (2.728; 230);
+4 Bartol, Alamut (2.711; 179); 5 Jančar, To noč sem jo videl (2.678; 159); 6 Pahor, Nekropola (2.583; 36); 7 Cankar, Na klancu (2.542; 104);
+8 Jalen, Bobri (2.457; 100); 9 Bevk, Kaplan Martin Čedermac (2.341; 60); 10 Kranjec, Strici so mi povedali (2.288; 27);
+11 Zupan, Menuet za kitaro (2.280); 12 Kveder, Njeno življenje (2.271); 13 Kovačič, Prišleki (2.256); 14 Lainšček, Kurji pastir (2.240);
+15 Kranjec, Povest o dobrih ljudeh (2.239); 16 Prežihov Voranc, Doberdob (2.235); 17 Lainšček, Namesto koga roža cveti (2.225);
+18 Kosmač, Pomladni dan (2.200)
+#     Rated in round 2 but left out of the final 18: Jančar, Katarina, pav in jezuit (2.158); Mihelič, April (2.150); Novak, Lipa
+#     zelenela je (2.150); Lainšček, Ločil bom peno od valov (2.139); Rebula, V Sibilinem vetru (2.115); Cankar, Hiša Marije
+#     Pomočnice (2.050); Prežihov Voranc, Požganica (1.966). Not counted as being in the list.
+# Not counted as a list: N1 (n1info.si), "Bralni seznam za kulturni dan: 10 pomembnih slovenskih romanov", 7 Feb 2022, signed T. L.:
+#     one journalist's unranked reading list (Deseti brat, Alamut, Bobri, Kristalni čas, Namesto koga roža cveti, Nokturno za
+#     Primorsko, To noč sem jo videl, Con brio, Čefurji raus!, Ivana pred morjem); it is also one of the two sources of A1's
+#     starting list. Delo's "kresnik vseh kresnikov" (2016, Kristalni čas, chosen by 18 jurors) and "kresnik desetletja"
+#     (2020, To noč sem jo videl) are prizes (C), not lists.
+# The user decided (11-26): take only the top 5 of A1; Alamut not this time (its castle is in Iran, which has no map yet): 4 books.
