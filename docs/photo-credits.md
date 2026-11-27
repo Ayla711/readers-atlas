@@ -1796,3 +1796,6 @@
 | Polotsk | Jurasikt | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABELARUS_-_POLOTSK_%28%D0%9F%D0%BE%D0%BB%D0%B0%D1%86%D0%BA%29._St_Sophia_cathedral..jpg) |
 | Slutsk | Pulkassa, Flickr | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABLR_Slutsk_Administrative_Building.jpg) |
 | Bahuševič Museum-Estate, Kušlany | Viktar Palstsiuk | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABelarus-Kushlany.jpg) |
+| Unțești, Ungheni | Vladikh | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABiserica_%E2%80%9ETo%C8%9Bi_Sfin%C8%9Bii%E2%80%9D_din_sat._Un%C8%9Be%C8%99ti_01.jpg) |
+| Horodiște, Dondușeni | Tatiana Beghiu | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ABiserica_%E2%80%9ESf._Treime%E2%80%9D_din_Horodi%C8%99te.jpg) |
+| Codreanca (Cobâlca), Strășeni | Ion Chibzii | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AThe_surroundings_of_the_Codreanca_village_%281980%29._%2824503778619%29.jpg) |

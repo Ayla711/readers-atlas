@@ -1795,7 +1795,37 @@ window.RA_COUNTRIES = [
    "data/by/lines.js"
   ],
   "open": true
+ },
+ {
+  "code": "md",
+  "iso": "MDA",
+  "name": "Moldova",
+  "name_zh": "摩尔多瓦",
+  "short": "Moldova",
+  "short_zh": "摩尔多瓦",
+  "region_term": {
+   "en": "district or municipality",
+   "zh": "区或市"
+  },
+  "bounds": [
+   26.6,
+   45.4,
+   30.2,
+   48.5
+  ],
+  "small_regions": [
+   "MD-BA",
+   "MD-BD"
+  ],
+  "wash": {},
+  "data": [
+   "data/md/geo.js",
+   "data/md/books.js",
+   "data/md/places.js",
+   "data/md/lines.js"
+  ],
+  "open": true
  }
 ];
 // Totals over every open country, for the world page.
-window.RA_WORLD_STATS = {"countries": 57, "books": 1796, "lines": 1734, "places": 1990};
+window.RA_WORLD_STATS = {"countries": 58, "books": 1801, "lines": 1739, "places": 1995};

@@ -8353,6 +8353,234 @@
         "BY-HM"
       ],
       "wash": {}
+    },
+    {
+      "code": "md",
+      "iso": "MDA",
+      "name": "Moldova",
+      "name_zh": "摩尔多瓦",
+      "short": "Moldova",
+      "short_zh": "摩尔多瓦",
+      "region_term": {
+        "en": "district or municipality",
+        "zh": "区或市"
+      },
+      "bounds": [
+        26.6,
+        45.4,
+        30.2,
+        48.5
+      ],
+      "step": 0.002,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "MD-AN": "MD-AN",
+              "MD-BA": "MD-BA",
+              "MD-BD": "MD-BD",
+              "MD-BR": "MD-BR",
+              "MD-BS": "MD-BS",
+              "MD-CA": "MD-CA",
+              "MD-CL": "MD-CL",
+              "MD-CM": "MD-CM",
+              "MD-CR": "MD-CR",
+              "MD-CS": "MD-CS",
+              "MD-CT": "MD-CT",
+              "MD-CU": "MD-CU",
+              "MD-DO": "MD-DO",
+              "MD-DR": "MD-DR",
+              "MD-DU": "MD-DU",
+              "MD-ED": "MD-ED",
+              "MD-FA": "MD-FA",
+              "MD-FL": "MD-FL",
+              "MD-GA": "MD-GA",
+              "MD-GL": "MD-GL",
+              "MD-HI": "MD-HI",
+              "MD-IA": "MD-IA",
+              "MD-LE": "MD-LE",
+              "MD-NI": "MD-NI",
+              "MD-OC": "MD-OC",
+              "MD-OR": "MD-OR",
+              "MD-RE": "MD-RE",
+              "MD-RI": "MD-RI",
+              "MD-SD": "MD-SD",
+              "MD-SI": "MD-SI",
+              "MD-SN": "MD-SN",
+              "MD-SO": "MD-SO",
+              "MD-ST": "MD-ST",
+              "MD-SV": "MD-SV",
+              "MD-TA": "MD-TA",
+              "MD-TE": "MD-TE",
+              "MD-UN": "MD-UN"
+            }
+          }
+        ],
+        "names": {
+          "MD-AN": [
+            "Anenii Noi",
+            "阿内尼诺伊区"
+          ],
+          "MD-BA": [
+            "Bălți",
+            "伯尔齐市"
+          ],
+          "MD-BD": [
+            "Bender",
+            "本德尔市"
+          ],
+          "MD-BR": [
+            "Briceni",
+            "布里切尼区"
+          ],
+          "MD-BS": [
+            "Basarabeasca",
+            "巴萨拉别亚斯卡区"
+          ],
+          "MD-CA": [
+            "Cahul",
+            "卡胡尔区"
+          ],
+          "MD-CL": [
+            "Călărași",
+            "克勒拉希区"
+          ],
+          "MD-CM": [
+            "Cimișlia",
+            "奇米什利亚区"
+          ],
+          "MD-CR": [
+            "Criuleni",
+            "克留列尼区"
+          ],
+          "MD-CS": [
+            "Căușeni",
+            "克乌舍尼区"
+          ],
+          "MD-CT": [
+            "Cantemir",
+            "坎泰米尔区"
+          ],
+          "MD-CU": [
+            "Chișinău",
+            "基希讷乌市"
+          ],
+          "MD-DO": [
+            "Dondușeni",
+            "顿杜谢尼区"
+          ],
+          "MD-DR": [
+            "Drochia",
+            "德罗基亚区"
+          ],
+          "MD-DU": [
+            "Dubăsari",
+            "杜伯萨里区"
+          ],
+          "MD-ED": [
+            "Edineț",
+            "埃迪涅茨区"
+          ],
+          "MD-FA": [
+            "Fălești",
+            "弗莱什蒂区"
+          ],
+          "MD-FL": [
+            "Florești",
+            "弗洛雷什蒂区"
+          ],
+          "MD-GA": [
+            "Gagauzia",
+            "加告兹自治区"
+          ],
+          "MD-GL": [
+            "Glodeni",
+            "格洛代尼区"
+          ],
+          "MD-HI": [
+            "Hîncești",
+            "亨切什蒂区"
+          ],
+          "MD-IA": [
+            "Ialoveni",
+            "亚洛韦尼区"
+          ],
+          "MD-LE": [
+            "Leova",
+            "莱奥瓦区"
+          ],
+          "MD-NI": [
+            "Nisporeni",
+            "尼斯波雷尼区"
+          ],
+          "MD-OC": [
+            "Ocnița",
+            "奥克尼察区"
+          ],
+          "MD-OR": [
+            "Orhei",
+            "奥尔海伊区"
+          ],
+          "MD-RE": [
+            "Rezina",
+            "雷齐纳区"
+          ],
+          "MD-RI": [
+            "Rîșcani",
+            "勒什卡尼区"
+          ],
+          "MD-SD": [
+            "Șoldănești",
+            "绍尔德内什蒂区"
+          ],
+          "MD-SI": [
+            "Sîngerei",
+            "森杰雷区"
+          ],
+          "MD-SN": [
+            "Transnistria (Left Bank of the Dniester)",
+            "德涅斯特河左岸地区"
+          ],
+          "MD-SO": [
+            "Soroca",
+            "索罗卡区"
+          ],
+          "MD-ST": [
+            "Strășeni",
+            "斯特雷谢尼区"
+          ],
+          "MD-SV": [
+            "Ștefan Vodă",
+            "斯特凡沃德区"
+          ],
+          "MD-TA": [
+            "Taraclia",
+            "塔拉克利亚区"
+          ],
+          "MD-TE": [
+            "Telenești",
+            "泰莱内什蒂区"
+          ],
+          "MD-UN": [
+            "Ungheni",
+            "温格尼区"
+          ]
+        }
+      },
+      "data": [
+        "data/md/geo.js",
+        "data/md/books.js",
+        "data/md/places.js",
+        "data/md/lines.js"
+      ],
+      "open": true,
+      "small_regions": [
+        "MD-BA",
+        "MD-BD"
+      ],
+      "wash": {}
     }
   ]
 }

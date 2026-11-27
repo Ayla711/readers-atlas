@@ -1,0 +1,7 @@
+{
+ "md-mana": {"lat": 47.34277, "lon": 28.6866, "st": "ro.wikipedia \"Mana, Orhei\" coordinates", "su": "https://ro.wikipedia.org/wiki/Mana,_Orhei"},
+ "md-untesti": {"lat": 47.22972, "lon": 27.91167, "st": "ro.wikipedia \"Unțești, Ungheni\" coordinates", "su": "https://ro.wikipedia.org/wiki/Unțești,_Ungheni"},
+ "md-malaiesti": {"lat": 46.98139, "lon": 29.54833, "st": "ro.wikipedia \"Mălăiești, Stînga Nistrului\" coordinates", "su": "https://ro.wikipedia.org/wiki/Mălăiești,_Stînga_Nistrului"},
+ "md-horodiste": {"lat": 48.265, "lon": 27.78916667, "st": "ro.wikipedia \"Horodiște, Dondușeni\" coordinates", "su": "https://ro.wikipedia.org/wiki/Horodiște,_Dondușeni"},
+ "md-codreanca": {"lat": 47.28111111, "lon": 28.58527778, "st": "ro.wikipedia \"Codreanca, Strășeni\" coordinates", "su": "https://ro.wikipedia.org/wiki/Codreanca,_Strășeni"}
+}
