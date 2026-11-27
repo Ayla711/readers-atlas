@@ -26,7 +26,7 @@ let { lines } = sandbox.window.RA_DATA;
 const errors = [], warnings = [];
 const err = (m) => errors.push(m), warn = (m) => warnings.push(m);
 const TYPES = ["original", "prototype", "pilgrimage", "film_location"];
-const LANGS = ["en", "enm", "sco", "zh", "ja", "fr", "de", "it", "ru", "la", "cy", "es", "pt", "cs", "pl", "yi", "qu", "bo", "ca", "eu", "gl", "ga", "el", "grc", "da", "no", "sv", "nl", "ang", "non", "hu", "is", "fi", "tr", "uk", "ro", "fa", "ar", "gu", "af", "st", "bg", "sh", "hr", "sq", "et", "lv", "lt", "be"];
+const LANGS = ["en", "enm", "sco", "zh", "ja", "fr", "de", "it", "ru", "la", "cy", "es", "pt", "cs", "pl", "yi", "qu", "bo", "ca", "eu", "gl", "ga", "el", "grc", "da", "no", "sv", "nl", "ang", "non", "hu", "is", "fi", "tr", "uk", "ro", "fa", "ar", "gu", "af", "st", "bg", "sh", "hr", "sq", "et", "lv", "lt", "be", "sk"];
 const ID_RE = /^[a-z0-9]+(-[a-z0-9]+)*$/;
 
 function checkIds(list, kind) {

@@ -8581,6 +8581,86 @@
         "MD-BD"
       ],
       "wash": {}
+    },
+    {
+      "code": "sk",
+      "iso": "SVK",
+      "name": "Slovakia",
+      "name_zh": "斯洛伐克",
+      "short": "Slovakia",
+      "short_zh": "斯洛伐克",
+      "region_term": {
+        "en": "region",
+        "zh": "州"
+      },
+      "bounds": [
+        16.7,
+        47.6,
+        22.7,
+        49.7
+      ],
+      "step": 0.002,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "SK-BC": "SK-BC",
+              "SK-BL": "SK-BL",
+              "SK-KI": "SK-KI",
+              "SK-NI": "SK-NI",
+              "SK-PV": "SK-PV",
+              "SK-TA": "SK-TA",
+              "SK-TC": "SK-TC",
+              "SK-ZI": "SK-ZI"
+            }
+          }
+        ],
+        "names": {
+          "SK-BL": [
+            "Bratislava Region",
+            "布拉迪斯拉发州"
+          ],
+          "SK-TA": [
+            "Trnava Region",
+            "特尔纳瓦州"
+          ],
+          "SK-TC": [
+            "Trenčín Region",
+            "特伦钦州"
+          ],
+          "SK-NI": [
+            "Nitra Region",
+            "尼特拉州"
+          ],
+          "SK-ZI": [
+            "Žilina Region",
+            "日利纳州"
+          ],
+          "SK-BC": [
+            "Banská Bystrica Region",
+            "班斯卡-比斯特里察州"
+          ],
+          "SK-PV": [
+            "Prešov Region",
+            "普雷绍夫州"
+          ],
+          "SK-KI": [
+            "Košice Region",
+            "科希策州"
+          ]
+        }
+      },
+      "data": [
+        "data/sk/geo.js",
+        "data/sk/books.js",
+        "data/sk/places.js",
+        "data/sk/lines.js"
+      ],
+      "open": true,
+      "small_regions": [],
+      "wash": {}
     }
   ]
 }

@@ -1825,7 +1825,37 @@ window.RA_COUNTRIES = [
    "data/md/lines.js"
   ],
   "open": true
+ },
+ {
+  "code": "sk",
+  "iso": "SVK",
+  "name": "Slovakia",
+  "name_zh": "斯洛伐克",
+  "short": "Slovakia",
+  "short_zh": "斯洛伐克",
+  "region_term": {
+   "en": "region",
+   "zh": "州"
+  },
+  "bounds": [
+   16.7,
+   47.6,
+   22.7,
+   49.7
+  ],
+  "small_regions": [],
+  "wash": {},
+  "data": [
+   "data/sk/geo.js",
+   "data/sk/books.js",
+   "data/sk/places.js",
+   "data/sk/lines.js"
+  ],
+  "open": true,
+  "needs": [
+   "at"
+  ]
  }
 ];
 // Totals over every open country, for the world page.
-window.RA_WORLD_STATS = {"countries": 58, "books": 1801, "lines": 1739, "places": 1995};
+window.RA_WORLD_STATS = {"countries": 59, "books": 1803, "lines": 1742, "places": 1998};
