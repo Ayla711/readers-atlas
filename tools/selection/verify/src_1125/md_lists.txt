@@ -1,0 +1,20 @@
+# Moldova, A lists, read 11-26.
+# A1: "TOP 10 romane basarabene din ultimii 50 de ani", UNIMEDIA news portal and Cartier publishing house, August 2013.
+#     Eight critics (Mircea V. Ciobanu, Emilian Galaicu-Paun, Maria Sleahtitchi, Gheorghe Erizanu, Mihail Vakulovski, Andrei Turcanu,
+#     Vasile Ernu, Dumitru Crudu) each made a top 10 (10 points down to 1; not their own novels); all the titles they named went to a
+#     public vote on UNIMEDIA. Method: National Library of Moldova, "Lectura Central" (bnrm.md, 2014) and
+#     lecturacentral.wordpress.com/repere-in-activitatea-de-promovare-a-cartii-si-lecturii/ . The final ranking is printed only in the
+#     UNIMEDIA chart on that page (wp-content/uploads/2017/08/1.jpg), read 11-26 in the built-in browser:
+1 Povestea cu cocosul rosu (Vasilache); 2 Zbor frant (Besleaga); 3 Povara bunatatii noastre (Druta); 4 Din calidor (Goma);
+5 Hronicul gainarilor (Busuioc); 6= Iepurii nu mor (Bastovoi), Tesut viu. 10 x 10 (Galaicu-Paun); 7 Singur in fata dragostei (Busuioc);
+8 Sex & Perestroika (Cheianu); 9= Un american la Chisinau (Crudu), Martorul (Garnet); 10= Clopotnita (Druta), Vamile (Saka), Pizdet (Vakulovski)
+#     (Galaicu-Paun's blog, 2015, also gives Tesut viu as sixth.)
+# Not counted as a list: "(Ancheta) Cele mai bune 10 romane basarabene din toate timpurile", Timpul, March 2013
+#     (timpul.md/articol/...-41720.html). The writer Dumitru Crudu asked readers for a top 10, but the ranked list printed there
+#     (1 In preajma revolutiei, Stere; 2 Povara bunatatii noastre; 3 Povestea cu cocosul rosu; 4 Singur in fata dragostei; 5 Zbor frant;
+#     6 Frunze de dor; 7 Tesut viu; 8 Iepurii nu mor; 9 Pizdet; 10 Sex & Perestroika) is one critic's answer: Cartier publishes it as
+#     "Mircea V. Ciobanu: 10 romane basarabene" (cartier.md/tag/savatie-bastovoi). Ciobanu was also one of the eight critics of A1.
+# A3: "Top 100 carti care au marcat cititorii din Moldova", #diez, 2014-09-03: over 100 Facebook "Top 10 books" lists (609 titles); mostly
+#     foreign books. Moldovan works in it: 3 Tema pentru acasa (Dabija); 18 Povara bunatatii noastre (Druta); 73 Singur in fata dragostei
+#     (Busuioc); 74 Latrand la luna (Busuioc).
+# The user decided (11-26) to take only the top 5 of A1: 5 books.

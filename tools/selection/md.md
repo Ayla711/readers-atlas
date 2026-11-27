@@ -1,0 +1,38 @@
+# 摩尔多瓦 选书评分（2026-11-26，规则 v2）
+
+## 来源
+
+- **A1** 2013 年 8 月 Unimedia 新闻网与 Cartier 出版社「近 50 年最佳比萨拉比亚长篇」：8 位评论家各报前 10（10 分到 1 分，不评自己的书），全部提名交网民投票；最终名次只印在 Unimedia 的图表上，11-26 在浏览器里读（verify/src_1125/md_lists.txt）
+- **A3** #diez 2014-09-03「Book Challenge」读者书单前 100（100 多份 Facebook 书单、609 个书名，大多是外国书）（同上）
+- **不算** 《时代报》2013 年 3 月那份「有史以来最好的 10 部比萨拉比亚长篇」是评论家米尔恰·V·丘巴努一个人的答卷（他也是 A1 的 8 位评论家之一），不当作单独的名单（同上）
+- **B** 全国罗马尼亚语文学课程 11-26 没有去读，B 空着；表里没有一本书的去留取决于它（verify/src_1125/md_curriculum.txt）
+- **C** 没有逐本对照本国文学奖，表里没有一本书的去留取决于它
+- **BK** 挪威世界文库 100 本里没有摩尔多瓦作品
+- **D** thegreatestbooks.org 总榜前 2000 名（11-25 逐页读完，11-26 按作者再查）：没有摩尔多瓦作品
+- **E** Goodreads 评分人数（自动补全接口，11-26；verify/src_1125/md_goodreads.tsv）
+
+## 候选与得分
+
+证据项：每份本国书单（A1、A2……）各算一项，另有 B 课本与全集、C 奖项（含诺贝尔）、I 国际经典（世界文库、thegreatestbooks）、E 读者面（Goodreads）。有两项以上，或进某份 A 名单前 10，就够线。
+
+| # | 书 | 作者 | 类 | 明细 | 分 | 证据项 | 已在应用里 | 处理（v2） | v1 初稿（作废，仅供对照） | 说明 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | The Burden of Our Kindness (Povara bunătății noastre) | Ion Druță | 本国 | A1+4 A3+3 | 7 | 2 |  | 新增 |  | Unimedia 第 3、Book Challenge 第 18；不在 D 前 2000 · Goodreads 522 |
+| 2 | Alone in the Face of Love (Singur în fața dragostei) | Aureliu Busuioc | 本国 | A1+4 A3+3 | 7 | 2 |  | 用户定不收：摩尔多瓦只收 Unimedia 评选前 5 名（11-26） | 用户定不收：摩尔多瓦只收 Unimedia 评选前 5 名（11-26） | Unimedia 第 7、Book Challenge 第 73；不在 D 前 2000 · Goodreads 877 |
+| 3 | The Tale of the Red Rooster (Povestea cu cocoșul roșu) | Vasile Vasilache | 本国 | A1+4 | 4 | 1 |  | 新增 |  | Unimedia 第 1；不在 D 前 2000 · Goodreads 17 |
+| 4 | Broken Flight (Zbor frânt) | Vladimir Beșleagă | 本国 | A1+4 | 4 | 1 |  | 新增 |  | Unimedia 第 2；不在 D 前 2000 · Goodreads 94 |
+| 5 | From the Porch (Din calidor) | Paul Goma | 本国 | A1+4 | 4 | 1 |  | 新增 |  | Unimedia 第 4；不在 D 前 2000 · Goodreads 141 |
+| 6 | The Chronicle of the Chicken Thieves (Hronicul găinarilor) | Aureliu Busuioc | 本国 | A1+4 | 4 | 1 |  | 新增 |  | Unimedia 第 5；不在 D 前 2000 · Goodreads 97 |
+| 7 | Rabbits Don't Die (Iepurii nu mor) | Savatie Baștovoi | 本国 | A1+4 | 4 | 1 |  | 用户定不收：摩尔多瓦只收 Unimedia 评选前 5 名（11-26） | 用户定不收：摩尔多瓦只收 Unimedia 评选前 5 名（11-26） | Unimedia 并列第 6；不在 D 前 2000 · Goodreads 123 |
+| 8 | Living Tissue. 10 x 10 (Țesut viu. 10 x 10) | Emilian Galaicu-Păun | 本国 | A1+4 | 4 | 1 |  | 用户定不收：摩尔多瓦只收 Unimedia 评选前 5 名（11-26） | 用户定不收：摩尔多瓦只收 Unimedia 评选前 5 名（11-26） | Unimedia 并列第 6；不在 D 前 2000 · Goodreads 42 |
+| 9 | Sex & Perestroika | Constantin Cheianu | 本国 | A1+4 | 4 | 1 |  | 用户定不收：摩尔多瓦只收 Unimedia 评选前 5 名（11-26） | 用户定不收：摩尔多瓦只收 Unimedia 评选前 5 名（11-26） | Unimedia 第 8；不在 D 前 2000 · Goodreads 61 |
+| 10 | Homework (Temă pentru acasă) | Nicolae Dabija | 本国 | A3+4 | 4 | 1 |  | 用户定不收：摩尔多瓦只收 Unimedia 评选前 5 名（11-26） | 用户定不收：摩尔多瓦只收 Unimedia 评选前 5 名（11-26） | Book Challenge 第 3；近年本国畅销书第一；不在 D 前 2000 · Goodreads 2,439 |
+| 11 | An American in Chișinău (Un american la Chișinău) | Dumitru Crudu | 本国 | A1+4 | 4 | 1 |  | 用户定不收：摩尔多瓦只收 Unimedia 评选前 5 名（11-26） | 用户定不收：摩尔多瓦只收 Unimedia 评选前 5 名（11-26） | Unimedia 并列第 9；不在 D 前 2000 · Goodreads 33 |
+| 12 | The Witness (Martorul) | Vasile Gârneț | 本国 | A1+4 | 4 | 1 |  | 用户定不收：摩尔多瓦只收 Unimedia 评选前 5 名（11-26） | 用户定不收：摩尔多瓦只收 Unimedia 评选前 5 名（11-26） | Unimedia 并列第 9；不在 D 前 2000 · Goodreads 2 |
+| 13 | The Bell Tower (Clopotnița) | Ion Druță | 本国 | A1+4 | 4 | 1 |  | 用户定不收：摩尔多瓦只收 Unimedia 评选前 5 名（11-26） | 用户定不收：摩尔多瓦只收 Unimedia 评选前 5 名（11-26） | Unimedia 并列第 10；不在 D 前 2000 · Goodreads 255 |
+| 14 | The Customs (Vămile) | Serafim Saka | 本国 | A1+4 | 4 | 1 |  | 用户定不收：摩尔多瓦只收 Unimedia 评选前 5 名（11-26） | 用户定不收：摩尔多瓦只收 Unimedia 评选前 5 名（11-26） | Unimedia 并列第 10；不在 D 前 2000 · Goodreads 9 |
+| 15 | Pizdeț | Alexandru Vakulovski | 本国 | A1+4 | 4 | 1 |  | 用户定不收：摩尔多瓦只收 Unimedia 评选前 5 名（11-26） | 用户定不收：摩尔多瓦只收 Unimedia 评选前 5 名（11-26） | Unimedia 并列第 10；不在 D 前 2000 · Goodreads 352 |
+| 16 | The Summer My Mother Had Green Eyes (Vara în care mama a avut ochii verzi) | Tatiana Țîbuleac | 本国 | E+1 | 1 | 1 |  | 不收 |  | 不在任何名单里；故事主要在法国；不在 D 前 2000 · Goodreads 71,368 |
+
+## 说明
+规则 v2：两项证据或进 A 名单前 10 就够格；不设名额。摩尔多瓦第一次评。A1 只评长篇小说，因并列前 10 名共 14 本；加 Book Challenge 第 3 的《家庭作业》，按规则 15 本够格。11-26 用户定：摩尔多瓦地方小，只收 Unimedia 评选前 5 名（5 本）；其余 10 本（含《家庭作业》）写「用户定不收」。茨布莱亚克《妈妈眼睛变绿的那个夏天》读者面大，但只有一项证据，按规则不收。
