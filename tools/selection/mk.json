@@ -1,0 +1,905 @@
+{
+ "cc": "mk",
+ "name": "北马其顿",
+ "date": "2026-11-27",
+ "rule": "v2",
+ "sources": {
+  "A": "没有找到全国性的「最佳书」名单或读者投票（11-27 查过马其顿语和英语来源；kajgana 论坛一位网友按奖项和 Goodreads 自己打分的书单、8 人投票的 Goodreads 书单、fakulteti.mk 2016 年 700 人网络问卷都不算；verify/src_1125/mk_lists.txt），此类空缺",
+  "B": "国家考试中心 2014 年《马其顿语与文学·国家毕业考试考纲》（依据四个年级的教学大纲）列出的马其顿文学篇目：单独列出的作品记 2，诗人只写「选读」的记 1；2025 年新版一年级大纲只用到一年级，不计分（verify/src_1125/mk_curriculum.txt）",
+  "C": "「年度小说奖」（Утрински весник 1999–2016，斯拉夫科·亚涅夫斯基基金会 2017 年起；mk.wikipedia，2025 年得主见 MIA 2026-03-13）和欧盟文学奖的北马其顿得主（英文维基 11-27）",
+  "BK": "挪威世界文库 100 本里没有马其顿作品",
+  "D": "thegreatestbooks.org 总榜前 2000 名（11-25 逐页读完，11-27 按作者再查）：没有马其顿作品（斯特凡诺夫斯基《五部剧》第 4082、布扎罗夫斯卡《我的丈夫》第 7800）；写到北马其顿的外国书只有《黑羊与灰鹰》（第 562）",
+  "E": "Goodreads 评分人数（自动补全接口，11-27；verify/src_1125/mk_goodreads.tsv）"
+ },
+ "size_note": "规则 v2：两项证据或进 A 名单前 10 就够格；不设名额。北马其顿第一次评。没有 A 名单；考纲里全是 1999 年以前的经典，年度小说奖和欧盟文学奖从 1999 年起才有，没有一本书两项都占；Goodreads 最多的是布扎罗夫斯卡的短篇集《我的丈夫》（5,794），都不到 1 万人。按规则一本都不够格，11-27 用户定：照阿尔巴尼亚、黑山的办法，只破例收安德烈耶夫斯基的《偃麦草》。",
+ "rows": [
+  {
+   "title": "Couch Grass (Pirej)",
+   "author": "Petre M. Andreevski",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "破例收（11-27 用户：北马其顿按规则一本都不够格，只破例收《偃麦草》）",
+   "first_draft": "破例收（11-27 用户：北马其顿按规则一本都不够格，只破例收《偃麦草》）",
+   "note": "1980 年；巴尔干战争到一战，南部山村里约恩和韦利卡夫妇的故事；考纲作品；常被称作最重要的马其顿长篇；不在 D 前 2000 · Goodreads 860"
+  },
+  {
+   "title": "White Dawns (Beli mugri)",
+   "author": "Kočo Racin",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "1939 年诗集，马其顿现代文学的奠基作；考纲作品；不在 D 前 2000 · Goodreads 185"
+  },
+  {
+   "title": "The Great Water (Golemata voda)",
+   "author": "Živko Čingo",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "1971 年；战后孤儿院；考纲作品；不在 D 前 2000 · Goodreads 409"
+  },
+  {
+   "title": "Wild Flesh (Divo meso)",
+   "author": "Goran Stefanovski",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "剧本，1979；考纲作品；不在 D 前 2000（《五部剧》第 4082）· Goodreads 370"
+  },
+  {
+   "title": "The Desert (Pustina)",
+   "author": "Gjorgji Abadžiev",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "1961 年；考纲作品；不在 D 前 2000 · Goodreads 269"
+  },
+  {
+   "title": "A Macedonian Bloody Wedding (Makedonska krvava svadba)",
+   "author": "Vojdan Černodrinski",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "剧本，1900；考纲作品；不在 D 前 2000 · Goodreads 263"
+  },
+  {
+   "title": "Čorbadži Teodos",
+   "author": "Vasil Iljoski",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "喜剧，1937；考纲作品；不在 D 前 2000 · Goodreads 238"
+  },
+  {
+   "title": "Blackness (Crnila)",
+   "author": "Kole Čašule",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "剧本，1960；考纲作品；不在 D 前 2000 · Goodreads 237"
+  },
+  {
+   "title": "Black Seed (Crno seme)",
+   "author": "Taško Georgievski",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "1966 年；希腊内战时关在爱琴海荒岛上的马其顿人；考纲作品；不在 D 前 2000 · Goodreads 236"
+  },
+  {
+   "title": "Migrant Workers (Pečalbari)",
+   "author": "Anton Panov",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "剧本，1936；考纲作品；不在 D 前 2000 · Goodreads 228"
+  },
+  {
+   "title": "Money Is a Killer (Parite se otepuvačka)",
+   "author": "Risto Krle",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "剧本，1938；考纲作品；不在 D 前 2000 · Goodreads 207"
+  },
+  {
+   "title": "The Serdar (Serdarot)",
+   "author": "Grigor Prličev",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "长诗，1860 年用希腊文写成；考纲作品；不在 D 前 2000 · Goodreads 193"
+  },
+  {
+   "title": "A Patched Life (Krpen život)",
+   "author": "Stale Popov",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "1953 年；考纲作品；不在 D 前 2000 · Goodreads 193"
+  },
+  {
+   "title": "The Street (Ulica)",
+   "author": "Slavko Janevski",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "1950 年；考纲作品；不在 D 前 2000 · Goodreads 138"
+  },
+  {
+   "title": "Folk Songs (Zbornik, 1861)",
+   "author": "Dimitar and Konstantin Miladinov",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "1861 年民歌集；考纲写「搜集活动、文学活动」；不在 D 前 2000 · 查不到 Goodreads"
+  },
+  {
+   "title": "Poems (selection) / The Embroideress (Vezilka)",
+   "author": "Blaže Koneski",
+   "kind": "本国",
+   "points": {
+    "B": 1
+   },
+   "score": 1,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "考纲只写「选读」；不在 D 前 2000 · Goodreads 15"
+  },
+  {
+   "title": "Poems (selection)",
+   "author": "Aco Šopov",
+   "kind": "本国",
+   "points": {
+    "B": 1
+   },
+   "score": 1,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "考纲只写「选读」；不在 D 前 2000 · Goodreads 3"
+  },
+  {
+   "title": "Poems (selection)",
+   "author": "Radovan Pavlovski",
+   "kind": "本国",
+   "points": {
+    "B": 1
+   },
+   "score": 1,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "考纲只写「选读」；不在 D 前 2000 · Goodreads 3"
+  },
+  {
+   "title": "Poems (selection)",
+   "author": "Gane Todorovski",
+   "kind": "本国",
+   "points": {
+    "B": 1
+   },
+   "score": 1,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "考纲只写「选读」；不在 D 前 2000 · Goodreads 8"
+  },
+  {
+   "title": "Rains (Doždovi) and other poems",
+   "author": "Mateja Matevski",
+   "kind": "本国",
+   "points": {
+    "B": 1
+   },
+   "score": 1,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "考纲只写「选读」；不在 D 前 2000 · Goodreads 3"
+  },
+  {
+   "title": "Poems (selection)",
+   "author": "Vlada Urošević",
+   "kind": "本国",
+   "points": {
+    "B": 1
+   },
+   "score": 1,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "考纲只写「选读」；不在 D 前 2000 · Goodreads 146（《佩特梅兹》）"
+  },
+  {
+   "title": "Freud's Sister (Sestrata na Sigmund Frojd)",
+   "author": "Goce Smilevski",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2010 年欧盟文学奖；故事在维也纳、布拉格和特雷津，不在北马其顿；不在 D 前 2000 · Goodreads 1,987"
+  },
+  {
+   "title": "A Spare Life (Rezerven život)",
+   "author": "Lidija Dimkovska",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2013 年欧盟文学奖；斯科普里的连体双胞胎；不在 D 前 2000（D 马其顿作者榜第 2，总榜 2000 名以外）· Goodreads 413"
+  },
+  {
+   "title": "Fear of Barbarians (Strav od varvari)",
+   "author": "Petar Andonovski",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2020 年欧盟文学奖；不在 D 前 2000 · Goodreads 228"
+  },
+  {
+   "title": "The Body in Which to Live (Teloto vo koe treba da se živee)",
+   "author": "Petar Andonovski",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2015 年年度小说奖；不在 D 前 2000 · Goodreads 97"
+  },
+  {
+   "title": "The Navel of the World (Papokot na svetot)",
+   "author": "Venko Andonovski",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2000 年年度小说奖；不在 D 前 2000 · Goodreads 425"
+  },
+  {
+   "title": "Conversation with Spinoza (Razgovor so Spinoza)",
+   "author": "Goce Smilevski",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2002 年年度小说奖；不在 D 前 2000 · Goodreads 364"
+  },
+  {
+   "title": "Hidden Desires, Restless Journeys (Skrieni želbi, nemirni patuvanja)",
+   "author": "Vladimir Jankovski",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2020 年年度小说奖、2022 年欧盟文学奖（同属 C，算一项）；不在 D 前 2000 · Goodreads 42"
+  },
+  {
+   "title": "A Unique Citizen Number (Edinstven matičen broj)",
+   "author": "Lidija Dimkovska",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2023 年年度小说奖；不在 D 前 2000 · Goodreads 202"
+  },
+  {
+   "title": "Countdown (Odbrojuvanje)",
+   "author": "Frosina Parmakovska",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2017 年年度小说奖；不在 D 前 2000 · Goodreads 147"
+  },
+  {
+   "title": "Nišan",
+   "author": "Blaže Minevski",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2007 年年度小说奖；不在 D 前 2000 · Goodreads 108"
+  },
+  {
+   "title": "Indigo Bombay",
+   "author": "Jagoda Mihajlovska-Georgieva",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2008 年年度小说奖；不在 D 前 2000 · Goodreads 96"
+  },
+  {
+   "title": "Ash Collectors (Sobirači na pepel)",
+   "author": "Davor Stojanovski",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2016 年年度小说奖；不在 D 前 2000 · Goodreads 94"
+  },
+  {
+   "title": "Each with His Own Lake (Sekoj so svoeto ezero)",
+   "author": "Nenad Joldeski",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "短篇集；2016 年欧盟文学奖；不在 D 前 2000 · Goodreads 63"
+  },
+  {
+   "title": "The Day of the Worm (Denot na crvot)",
+   "author": "Simona Jovanoska",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2021 年年度小说奖；不在 D 前 2000 · Goodreads 62"
+  },
+  {
+   "title": "The World I Chose (Svetot što go izbrav)",
+   "author": "Kalina Maleska",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2024 年年度小说奖；不在 D 前 2000 · Goodreads 51"
+  },
+  {
+   "title": "The True but Not Very Probable Story of the Pustopolski Family",
+   "author": "Vlada Urošević",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2022 年年度小说奖；不在 D 前 2000 · Goodreads 45"
+  },
+  {
+   "title": "Three Marys (Tri Marii)",
+   "author": "Olivera Kjorveziroska",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2025 年年度小说奖（2026-03-13 公布）；不在 D 前 2000 · Goodreads 44"
+  },
+  {
+   "title": "Eleven Women (Edinaeset ženi)",
+   "author": "Snežana Mladenovska-Angjelkov",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2011 年年度小说奖；不在 D 前 2000 · Goodreads 39"
+  },
+  {
+   "title": "The Twenty-First (Dvaeset i prviot)",
+   "author": "Tomislav Osmanli",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2009 年年度小说奖；不在 D 前 2000 · Goodreads 31"
+  },
+  {
+   "title": "Someone Was Here (Nekoj bil tuka)",
+   "author": "Nikolina Andova-Šopova",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2018 年年度小说奖；不在 D 前 2000 · Goodreads 29"
+  },
+  {
+   "title": "When I Left \"Karl Liebknecht\" (Koga zaminav od „Karl Libkneht“)",
+   "author": "Lidija Dimkovska",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "短篇集；2018 年欧盟文学奖；不在 D 前 2000 · Goodreads 26"
+  },
+  {
+   "title": "The Well (Bunar)",
+   "author": "Dimitar Baševski",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2001 年年度小说奖；不在 D 前 2000 · Goodreads 8"
+  },
+  {
+   "title": "Rosica's Dolls (Kuklite na Rosica)",
+   "author": "Olivera Nikolova",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2004 年年度小说奖；不在 D 前 2000 · Goodreads 7"
+  },
+  {
+   "title": "The Dog with the Sad Look (Pesot so tažen pogled)",
+   "author": "Olivera Nikolova",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2019 年年度小说奖；不在 D 前 2000 · Goodreads 5"
+  },
+  {
+   "title": "Mazarena's House (Kuḱata na Mazarena)",
+   "author": "Slobodan Micković",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "1999 年年度小说奖；不在 D 前 2000 · Goodreads 4"
+  },
+  {
+   "title": "Snow in Casablanca (Snegot vo Kazablanka)",
+   "author": "Kica Kolbe",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2006 年年度小说奖；不在 D 前 2000 · Goodreads 4"
+  },
+  {
+   "title": "Last Year's Birds' Nests (Pticite od lanskite gnezda)",
+   "author": "Mitko Madžunkov",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2012 年年度小说奖；不在 D 前 2000 · Goodreads 4"
+  },
+  {
+   "title": "Džahiz and the Dog Exterminators (Džahiz i istrebuvačite na kučinja)",
+   "author": "Pajo Avirović",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2005 年年度小说奖；不在 D 前 2000 · Goodreads 3"
+  },
+  {
+   "title": "Balkan Babylonians (Balkanvavilonci)",
+   "author": "Luan Starova",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2014 年年度小说奖；不在 D 前 2000 · Goodreads 2"
+  },
+  {
+   "title": "The Man Who Loved Ladybirds (Čovekot što gi sakaše kalinkite)",
+   "author": "Duško Rodev",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2010 年年度小说奖；不在 D 前 2000 · Goodreads 2"
+  },
+  {
+   "title": "Lost Žegol (Izguben žegol)",
+   "author": "Milovan Stefanovski",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2003 年年度小说奖；不在 D 前 2000 · Goodreads 1"
+  },
+  {
+   "title": "The Fishhook (Jadica)",
+   "author": "Vladimir Plavevski",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2013 年年度小说奖；不在 D 前 2000 · 查不到 Goodreads"
+  },
+  {
+   "title": "My Husband (Mojot maž)",
+   "author": "Rumena Bužarovska",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "短篇集，2014；斯科普里的婚姻；不在课纲、没获上述奖；不在 D 前 2000（第 7800）· Goodreads 5,794（全国最多，仍不到 1 万）"
+  },
+  {
+   "title": "The Witch (Veštica)",
+   "author": "Venko Andonovski",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2006 年；不在课纲、没获上述奖；不在 D 前 2000 · Goodreads 452"
+  },
+  {
+   "title": "Black Lamb and Grey Falcon",
+   "author": "Rebecca West",
+   "kind": "外国",
+   "points": {
+    "D": 1
+   },
+   "score": 1,
+   "cats": [
+    "I"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "写整个南斯拉夫，马其顿（斯科普里、奥赫里德、比托拉）占好几章；D 562 · Goodreads 2,809；波黑、黑山表里评过，不收"
+  }
+ ]
+}

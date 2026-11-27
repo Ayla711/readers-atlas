@@ -1,0 +1,18 @@
+# North Macedonia, A lists, looked for 11-27: none found.
+# Searched (Macedonian and English): "најдобри македонски романи анкета критичари листа", "анкета најдобар македонски роман на
+#     сите времиња гласање читатели", "\"Пиреј\" анкета најдобра македонска книга", "best Macedonian novels of all time survey".
+# Found, and not counted:
+# - kajgana.com forum, user Zlatikevichius, "100 македонски романи кои мора да ги прочиташ во животот" (alphabetical, one
+#   person's choice, made "because nobody else had") and "50 нови македонски романи кои мора да ги прочиташ во животот
+#   (2000-2023)": one person's scores built from prize results (Роман на годината, Balkanika, EUPL, Pegaz, Stale Popov, Racin)
+#   plus Goodreads average and readers, weights by his own judgment. It re-counts classes C and E, so it is not a list.
+#   https://forum.kajgana.com/threads/100-makedonski-romani-koi-mora-da-gi-prochitash-vo-zhivotot.103735/
+#   https://forum.kajgana.com/threads/50-novi-makedonski-romani-koi-mora-da-gi-prochitash-vo-zhivotot-2000-2023.117113/
+# - Goodreads list "100 Македонски романи" (103 books, 8 voters, made 2019 by the same person): too small to count.
+#   https://www.goodreads.com/list/show/134396.100_
+# - fakulteti.mk 2016 web poll of 700 respondents "Какви книги се читаат во Македонија?": favourite books of any country, a few
+#   percentages, not a ranked list of Macedonian books. https://www.fakulteti.mk/news/16-06-18/kakvi_knigi_se_chitaat_vo_makedonija
+# - yearly best-seller notes (Три, Култура, kajgana 2020, radiomof 2019), forum threads ("Најдобрите македонски романи?"),
+#   one reader's interview (kulturabeta 2025), a shop blog's "5 најдобри книги" (goodlife.mk): not lists.
+# thegreatestbooks.org: Macedonian authors' page has Stefanovski's Five Plays (4082nd), Dimkovska's A Spare Life, Bužarovska's
+#   My Husband (7800th): none in the top 2000. Set in North Macedonia: Rebecca West's Black Lamb and Grey Falcon (562).
