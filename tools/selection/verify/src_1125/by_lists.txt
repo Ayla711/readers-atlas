@@ -1,0 +1,25 @@
+# Belarus, A lists, read 11-26.
+# Both lists come from one campaign for the 500th anniversary of Belarusian book printing ("Piacisothodnasc"), run by the
+# campaign "Budzma belarusami!" with the Union of Belarusian Writers: "the most important books that over 500 years shaped the
+# Belarusians as a nation". Published by Radio Svaboda, 2016-11-09 (https://www.svaboda.org/a/28106140.html);
+# also Budzma (https://budzma.org/news/ehkspyertny-spis-znakavykh-knih-za-500-hadow-pownaya-vyersiya.html) and Nasha Niva (nashaniva.com/180229).
+# A1: experts' joint list, top 50 (21 contributors: 18 experts and 3 representatives of state institutions):
+1 Bahusevic, Dudka bielaruskaja; 2 Bahdanovic, Vianok; 3 Skaryna, Bible*; 4 Kolas, Novaja ziamlia; 5 Husouski, Piesnia pra zubra;
+6 Barscheuski, Sliachcic Zavalnia; 7 Karatkievic, Kalasy pad siarpom tvaim; 8 Melez, Liudzi na balocie; 9 Karski, Bielarusy*;
+10 Statute of the Grand Duchy*; 11 Harecki, Dzvie dusy; 12 Lastouski, Short history of Belarus*; 13 Bryl/Adamovic/Kalesnik, Ja z vohniennaj vioski;
+14 Bykau, Znak biady; 15 Dunin-Marcinkievic, Pinskaja sliachta; 16 Abdziralovic, Advecnym sliacham*; 17 Lastouski, History of the Belarusian book*;
+18 Kupala, Zalejka; 19 Hienijus, Spoviedz; 20 Mickiewicz, Pan Tadeusz; 21 Kolas, Symon-muzyka; 22 Taraskievic, Grammar*; 23 Budny, Catechism*;
+24 Nasovic, Dictionary*; 25 Kupala, Spadcyna; 26 Sys, Pan Les; 27 Alexievich, Voices of Utopia (cycle); 28 Harecki, History of Belarusian literature*;
+29 Kupala, Tutejsyja; 30 Aliachnovic, U kapciurokh HPU; 31 Mryj, Zapiski Samsona Samasuja; 32 Corny, Selected; 33 Encyclopedia of the Grand Duchy*;
+34 Baradulin, Ksty; 35 Harun, Matcyn dar; 36 Bryl, Ptuski i hniozdy; 37 Razanau, Sliach 360; 38 Taras na Parnasie; 39 Goethe's Faust, tr. Siomukha*;
+40 Arlou, Krajina Bielarus*; 41 Hilevic, Rodnyja dzieci; 42 Stankievic, Liubic noc - prava pacukou; 43 Ciapinski, Gospel*; 44 Ciotka, First reader*;
+45 Skaryna, Little travel book*; 46 Simeon Polacki, Many-coloured garden; 47 Kisialiou, Pacynalniki*; 48 Smolic, Geography of Belarus*;
+49 Stralcou, Selected; 50 Arsennieva, Pad sinim niebam
+# A2: internet users' vote, top 20 (the Budzma site's readers first drew up the list, then voted on it over 10 days):
+1 Kalasy pad siarpom tvaim; 2 Skaryna, Bible*; 3 Vianok; 4 Znak biady; 5 Novaja ziamlia; 6 Piesnia pra zubra; 7 Liudzi na balocie;
+8 Sliachcic Zavalnia; 9 Statutes*; 10 Pan Tadeusz; 11 Pinskaja sliachta; 12 Dudka bielaruskaja; 13 Zalejka; 14 Taraskievic, Grammar*;
+15 Maur, Paleskija rabinzony; 16 Ksty; 17 Karatkievic, Chrystos pryziamliusia u Harodni; 18 Budny, Catechism*; 19 Zapiski Samsona Samasuja;
+20 Corny, Posuki buducyni
+# * not literature (scripture, law, scholarship, grammar, dictionary, reference, a translation of a foreign work): not counted.
+# Pan Tadeusz is held by data/pl (pl-pan-tadeusz) and is not counted again here.
+# The user decided (11-26) to take only the 8 literary works in the top 10 of either list.
