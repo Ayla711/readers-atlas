@@ -9066,6 +9066,138 @@
       "open": true,
       "small_regions": [],
       "wash": {}
+    },
+    {
+      "code": "mt",
+      "iso": "MLT",
+      "name": "Malta",
+      "name_zh": "马耳他",
+      "short": "Malta",
+      "short_zh": "马耳他",
+      "region_term": {
+        "en": "region",
+        "zh": "区"
+      },
+      "bounds": [
+        14.15,
+        35.78,
+        14.6,
+        36.1
+      ],
+      "step": 0.0005,
+      "regions": {
+        "mode": "merge",
+        "by": [
+          {
+            "field": "iso_3166_2",
+            "map": {
+              "MT-04": "MT-EAS",
+              "MT-15": "MT-EAS",
+              "MT-12": "MT-EAS",
+              "MT-19": "MT-EAS",
+              "MT-24": "MT-EAS",
+              "MT-34": "MT-EAS",
+              "MT-40": "MT-EAS",
+              "MT-41": "MT-EAS",
+              "MT-48": "MT-EAS",
+              "MT-56": "MT-EAS",
+              "MT-57": "MT-EAS",
+              "MT-58": "MT-EAS",
+              "MT-03": "MT-POR",
+              "MT-06": "MT-POR",
+              "MT-09": "MT-POR",
+              "MT-20": "MT-POR",
+              "MT-60": "MT-POR",
+              "MT-64": "MT-POR",
+              "MT-08": "MT-POR",
+              "MT-21": "MT-POR",
+              "MT-39": "MT-POR",
+              "MT-59": "MT-POR",
+              "MT-63": "MT-POR",
+              "MT-10": "MT-GOZ",
+              "MT-13": "MT-GOZ",
+              "MT-14": "MT-GOZ",
+              "MT-16": "MT-GOZ",
+              "MT-22": "MT-GOZ",
+              "MT-36": "MT-GOZ",
+              "MT-37": "MT-GOZ",
+              "MT-42": "MT-GOZ",
+              "MT-45": "MT-GOZ",
+              "MT-50": "MT-GOZ",
+              "MT-52": "MT-GOZ",
+              "MT-61": "MT-GOZ",
+              "MT-62": "MT-GOZ",
+              "MT-65": "MT-GOZ",
+              "MT-01": "MT-NOR",
+              "MT-02": "MT-NOR",
+              "MT-30": "MT-NOR",
+              "MT-31": "MT-NOR",
+              "MT-32": "MT-NOR",
+              "MT-35": "MT-NOR",
+              "MT-38": "MT-NOR",
+              "MT-49": "MT-NOR",
+              "MT-51": "MT-NOR",
+              "MT-05": "MT-SOU",
+              "MT-17": "MT-SOU",
+              "MT-11": "MT-SOU",
+              "MT-18": "MT-SOU",
+              "MT-25": "MT-SOU",
+              "MT-26": "MT-SOU",
+              "MT-27": "MT-SOU",
+              "MT-28": "MT-SOU",
+              "MT-43": "MT-SOU",
+              "MT-53": "MT-SOU",
+              "MT-54": "MT-SOU",
+              "MT-67": "MT-SOU",
+              "MT-07": "MT-WES",
+              "MT-29": "MT-WES",
+              "MT-46": "MT-WES",
+              "MT-23": "MT-WES",
+              "MT-33": "MT-WES",
+              "MT-44": "MT-WES",
+              "MT-47": "MT-WES",
+              "MT-55": "MT-WES",
+              "MT-66": "MT-WES",
+              "MT-68": "MT-WES"
+            }
+          }
+        ],
+        "names": {
+          "MT-EAS": [
+            "Eastern",
+            "东部区"
+          ],
+          "MT-POR": [
+            "Port",
+            "港口区"
+          ],
+          "MT-GOZ": [
+            "Gozo",
+            "戈佐区"
+          ],
+          "MT-NOR": [
+            "Northern",
+            "北部区"
+          ],
+          "MT-SOU": [
+            "Southern",
+            "南部区"
+          ],
+          "MT-WES": [
+            "Western",
+            "西部区"
+          ]
+        }
+      },
+      "data": [
+        "data/mt/geo.js",
+        "data/mt/books.js",
+        "data/mt/places.js",
+        "data/mt/lines.js"
+      ],
+      "open": true,
+      "small_regions": [],
+      "wash": {}
     }
   ]
 }

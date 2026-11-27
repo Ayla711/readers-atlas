@@ -1813,3 +1813,5 @@
 | Famagusta (Ammochostos / Gazimağusa) | Blcksprt | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AFamagusta_view_from_city_wall.jpg) |
 | Othello Castle (Othello's Tower), Famagusta | Blcksprt | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AOthello_Castle_Inside_1.jpg) |
 | Nicosia (Lefkosia / Lefkoşa) | Nicosia029 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AVenetian_walls_and_green_parks_Nicosia_Republic_of_Cyprus_Kypros.jpg) |
+| Ħaż-Żebbuġ, Dun Karm's native town | Unknown author | [Public domain](https://en.wikipedia.org/wiki/Public_domain) | [Commons](https://commons.wikimedia.org/wiki/File%3APjazza_San_Filep%2C_%C4%A6a%C5%BC-%C5%BBebbu%C4%A1_1920.jpg) |
+| Valletta | Luca Aless | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ALa_Valletta_-_Panorama.jpg) |

@@ -1972,7 +1972,34 @@ window.RA_COUNTRIES = [
   "needs": [
    "it"
   ]
+ },
+ {
+  "code": "mt",
+  "iso": "MLT",
+  "name": "Malta",
+  "name_zh": "马耳他",
+  "short": "Malta",
+  "short_zh": "马耳他",
+  "region_term": {
+   "en": "region",
+   "zh": "区"
+  },
+  "bounds": [
+   14.15,
+   35.78,
+   14.6,
+   36.1
+  ],
+  "small_regions": [],
+  "wash": {},
+  "data": [
+   "data/mt/geo.js",
+   "data/mt/books.js",
+   "data/mt/places.js",
+   "data/mt/lines.js"
+  ],
+  "open": true
  }
 ];
 // Totals over every open country, for the world page.
-window.RA_WORLD_STATS = {"countries": 63, "books": 1812, "lines": 1753, "places": 2009};
+window.RA_WORLD_STATS = {"countries": 64, "books": 1814, "lines": 1755, "places": 2011};
