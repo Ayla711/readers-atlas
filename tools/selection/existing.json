@@ -1,4 +1,16 @@
 {
+ "al": [
+  {
+   "id": "general-of-the-dead-army",
+   "title": "The General of the Dead Army",
+   "author": "Ismail Kadare",
+   "home": "al",
+   "via": [
+    "book",
+    "line"
+   ]
+  }
+ ],
  "ar": [
   {
    "id": "voyage-of-the-beagle",
@@ -1116,6 +1128,38 @@
    ]
   }
  ],
+ "ba": [
+  {
+   "id": "bridge-on-the-drina",
+   "title": "The Bridge on the Drina",
+   "author": "Ivo Andrić",
+   "home": "ba",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "death-and-the-dervish",
+   "title": "Death and the Dervish",
+   "author": "Meša Selimović",
+   "home": "ba",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "bosnian-chronicle",
+   "title": "Bosnian Chronicle",
+   "author": "Ivo Andrić",
+   "home": "ba",
+   "via": [
+    "book",
+    "line"
+   ]
+  }
+ ],
  "be": [
   {
    "id": "ulenspiegel",
@@ -1279,6 +1323,68 @@
    "author": "W. G. Sebald",
    "home": "cz",
    "via": [
+    "line"
+   ]
+  }
+ ],
+ "bg": [
+  {
+   "id": "under-the-yoke",
+   "title": "Under the Yoke",
+   "author": "Ivan Vazov",
+   "home": "bg",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "time-of-parting",
+   "title": "Time of Parting",
+   "author": "Anton Donchev",
+   "home": "bg",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "tobacco-dimov",
+   "title": "Tobacco",
+   "author": "Dimitar Dimov",
+   "home": "bg",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "bay-ganyo",
+   "title": "Bay Ganyo",
+   "author": "Aleko Konstantinov",
+   "home": "bg",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "ballad-georg-henig",
+   "title": "Ballad for Georg Henig",
+   "author": "Viktor Paskov",
+   "home": "bg",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "time-shelter",
+   "title": "Time Shelter",
+   "author": "Georgi Gospodinov",
+   "home": "bg",
+   "via": [
+    "book",
     "line"
    ]
   }
@@ -1611,6 +1717,90 @@
    "author": "Clarice Lispector",
    "home": "sa",
    "via": [
+    "house"
+   ]
+  }
+ ],
+ "by": [
+  {
+   "id": "kalasy-pad-siarpom-tvaim",
+   "title": "Ears of Rye beneath Your Sickle",
+   "author": "Uladzimir Karatkievič",
+   "home": "by",
+   "via": [
+    "book",
+    "house",
+    "line"
+   ]
+  },
+  {
+   "id": "liudzi-na-balocie",
+   "title": "People of the Marsh",
+   "author": "Ivan Mielež",
+   "home": "by",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "znak-biady",
+   "title": "The Sign of Misfortune",
+   "author": "Vasil Bykaŭ",
+   "home": "by",
+   "via": [
+    "book",
+    "house",
+    "line"
+   ]
+  },
+  {
+   "id": "novaja-ziamlia",
+   "title": "The New Land",
+   "author": "Jakub Kolas",
+   "home": "by",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "piesnia-pra-zubra",
+   "title": "The Song of the Bison",
+   "author": "Mikola Husoŭski",
+   "home": "by",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "sliachcic-zavalnia",
+   "title": "Squire Zavalnia",
+   "author": "Jan Barščeŭski",
+   "home": "by",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "vianok",
+   "title": "The Wreath",
+   "author": "Maksim Bahdanovič",
+   "home": "by",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "dudka-bielaruskaja",
+   "title": "The Belarusian Fife",
+   "author": "Francišak Bahuševič",
+   "home": "by",
+   "via": [
+    "book",
     "house"
    ]
   }
@@ -3522,6 +3712,37 @@
    "home": "sa",
    "via": [
     "house"
+   ]
+  }
+ ],
+ "cy": [
+  {
+   "id": "ammochostos-vasilevousa",
+   "title": "Famagusta Regina (Ammochostos Vasilevousa)",
+   "author": "Kyriakos Charalambides",
+   "home": "cy",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "island-of-missing-trees",
+   "title": "The Island of Missing Trees",
+   "author": "Elif Shafak",
+   "home": "cy",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "othello",
+   "title": "Othello",
+   "author": "William Shakespeare",
+   "home": "it",
+   "via": [
+    "line"
    ]
   }
  ],
@@ -5536,6 +5757,108 @@
    "author": "Elisabeth Elliot",
    "home": "sa",
    "via": [
+    "line"
+   ]
+  }
+ ],
+ "ee": [
+  {
+   "id": "tode-ja-oigus",
+   "title": "Truth and Justice",
+   "author": "A. H. Tammsaare",
+   "home": "ee",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "kevade-luts",
+   "title": "Spring",
+   "author": "Oskar Luts",
+   "home": "ee",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "kalevipoeg",
+   "title": "Kalevipoeg",
+   "author": "Friedrich Reinhold Kreutzwald",
+   "home": "ee",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "rehepapp",
+   "title": "Old Barny, or November",
+   "author": "Andrus Kivirähk",
+   "home": "ee",
+   "via": [
+    "book",
+    "house"
+   ]
+  },
+  {
+   "id": "sipsik",
+   "title": "Sipsik",
+   "author": "Eno Raud",
+   "home": "ee",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "naksitrallid",
+   "title": "Three Jolly Fellows",
+   "author": "Eno Raud",
+   "home": "ee",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "mees-kes-teadis-ussisonu",
+   "title": "The Man Who Spoke Snakish",
+   "author": "Andrus Kivirähk",
+   "home": "ee",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "seitsmes-rahukevad",
+   "title": "The Seventh Spring of Peace",
+   "author": "Viivi Luik",
+   "home": "ee",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "keisri-hull",
+   "title": "The Czar's Madman",
+   "author": "Jaan Kross",
+   "home": "ee",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "hobevalge",
+   "title": "Silverwhite",
+   "author": "Lennart Meri",
+   "home": "ee",
+   "via": [
+    "book",
     "line"
    ]
   }
@@ -8202,6 +8525,88 @@
    ]
   }
  ],
+ "hr": [
+  {
+   "id": "kiklop",
+   "title": "Cyclops",
+   "author": "Ranko Marinković",
+   "home": "hr",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "zastave",
+   "title": "The Banners",
+   "author": "Miroslav Krleža",
+   "home": "hr",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "ujevic-poems",
+   "title": "Poems",
+   "author": "Tin Ujević",
+   "home": "hr",
+   "via": [
+    "book",
+    "house",
+    "line"
+   ]
+  },
+  {
+   "id": "balade-petrice-kerempuha",
+   "title": "The Ballads of Petrica Kerempuh",
+   "author": "Miroslav Krleža",
+   "home": "hr",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "dragojevic-poems",
+   "title": "Poems",
+   "author": "Danijel Dragojević",
+   "home": "hr",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "mirisi-zlato-i-tamjan",
+   "title": "Gold, Frankincense and Myrrh",
+   "author": "Slobodan Novak",
+   "home": "hr",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "na-rubu-pameti",
+   "title": "On the Edge of Reason",
+   "author": "Miroslav Krleža",
+   "home": "hr",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "murder-on-the-orient-express",
+   "title": "Murder on the Orient Express",
+   "author": "Agatha Christie",
+   "home": "tr",
+   "via": [
+    "line"
+   ]
+  }
+ ],
  "hu": [
   {
    "id": "egri-csillagok",
@@ -10777,6 +11182,204 @@
    ]
   }
  ],
+ "lt": [
+  {
+   "id": "dievu-miskas",
+   "title": "Forest of the Gods",
+   "author": "Balys Sruoga",
+   "home": "lt",
+   "via": [
+    "book",
+    "house"
+   ]
+  },
+  {
+   "id": "silva-rerum",
+   "title": "Silva Rerum",
+   "author": "Kristina Sabaliauskaitė",
+   "home": "lt",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "balta-drobule",
+   "title": "White Shroud",
+   "author": "Antanas Škėma",
+   "home": "lt",
+   "via": [
+    "book"
+   ]
+  },
+  {
+   "id": "pietinia-kronikas",
+   "title": "Southern Chronicles",
+   "author": "Rimantas Kmita",
+   "home": "lt",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "altoriu-sesely",
+   "title": "In the Shadow of the Altars",
+   "author": "Vincas Mykolaitis-Putinas",
+   "home": "lt",
+   "via": [
+    "book",
+    "house",
+    "line"
+   ]
+  },
+  {
+   "id": "vilniaus-pokeris",
+   "title": "Vilnius Poker",
+   "author": "Ričardas Gavelis",
+   "home": "lt",
+   "via": [
+    "book",
+    "house",
+    "line"
+   ]
+  },
+  {
+   "id": "mylimi-kaulai",
+   "title": "Beloved Bones",
+   "author": "Kotryna Zylė",
+   "home": "lt",
+   "via": [
+    "book"
+   ]
+  },
+  {
+   "id": "tula",
+   "title": "Tūla",
+   "author": "Jurgis Kunčinas",
+   "home": "lt",
+   "via": [
+    "book",
+    "house",
+    "line"
+   ]
+  },
+  {
+   "id": "ragana-ir-lietus",
+   "title": "The Witch and the Rain",
+   "author": "Jurga Ivanauskaitė",
+   "home": "lt",
+   "via": [
+    "book",
+    "house"
+   ]
+  },
+  {
+   "id": "mano-vardas-maryte",
+   "title": "In the Shadow of Wolves",
+   "author": "Alvydas Šlepikas",
+   "home": "lt",
+   "via": [
+    "book",
+    "line"
+   ]
+  }
+ ],
+ "lu": [
+  {
+   "id": "perl-oder-pica",
+   "title": "Perl oder Pica",
+   "author": "Jhemp Hoscheit",
+   "home": "lu",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "amok-forgiarini",
+   "title": "Amok: A Luxembourg Love Story",
+   "author": "Tullio Forgiarini",
+   "home": "lu",
+   "via": [
+    "book",
+    "line"
+   ]
+  }
+ ],
+ "lv": [
+  {
+   "id": "kakisa-dzirnavas",
+   "title": "The Kitten's Mill",
+   "author": "Kārlis Skalbe",
+   "home": "lv",
+   "via": [
+    "book",
+    "house"
+   ]
+  },
+  {
+   "id": "liktena-lidumnieki",
+   "title": "Clearers of Fate",
+   "author": "Vladimirs Kaijaks",
+   "home": "lv",
+   "via": [
+    "book",
+    "house"
+   ]
+  },
+  {
+   "id": "epifanijas",
+   "title": "Epiphanies",
+   "author": "Imants Ziedonis",
+   "home": "lv",
+   "via": [
+    "book",
+    "house",
+    "line"
+   ]
+  },
+  {
+   "id": "dveselu-putenis",
+   "title": "Blizzard of Souls",
+   "author": "Aleksandrs Grīns",
+   "home": "lv",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "bille",
+   "title": "Bille",
+   "author": "Vizma Belševica",
+   "home": "lv",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "cilveka-berns",
+   "title": "The Child of Man",
+   "author": "Jānis Klīdzējs",
+   "home": "lv",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "pasakas-par-ziediem",
+   "title": "Fairy Tales about Flowers",
+   "author": "Anna Sakse",
+   "home": "lv",
+   "via": [
+    "book",
+    "line"
+   ]
+  }
+ ],
  "ma": [
   {
    "id": "for-bread-alone",
@@ -10844,6 +11447,105 @@
    "author": "Mark Twain",
    "home": "it",
    "via": [
+    "line"
+   ]
+  }
+ ],
+ "md": [
+  {
+   "id": "povestea-cu-cocosul-rosu",
+   "title": "The Tale of the Red Rooster",
+   "author": "Vasile Vasilache",
+   "home": "md",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "zbor-frant",
+   "title": "Broken Flight",
+   "author": "Vladimir Beșleagă",
+   "home": "md",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "povara-bunatatii-noastre",
+   "title": "The Burden of Our Kindness",
+   "author": "Ion Druță",
+   "home": "md",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "din-calidor",
+   "title": "From the Porch: A Bessarabian Childhood",
+   "author": "Paul Goma",
+   "home": "md",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "hronicul-gainarilor",
+   "title": "The Chronicle of the Chicken Thieves",
+   "author": "Aureliu Busuioc",
+   "home": "md",
+   "via": [
+    "book",
+    "line"
+   ]
+  }
+ ],
+ "me": [
+  {
+   "id": "gorski-vijenac",
+   "title": "The Mountain Wreath",
+   "author": "Petar II Petrović-Njegoš",
+   "home": "me",
+   "via": [
+    "book",
+    "house",
+    "line"
+   ]
+  }
+ ],
+ "mk": [
+  {
+   "id": "pirej",
+   "title": "Pirej (Couch Grass)",
+   "author": "Petre M. Andreevski",
+   "home": "mk",
+   "via": [
+    "book",
+    "line"
+   ]
+  }
+ ],
+ "mt": [
+  {
+   "id": "dun-karm-poems",
+   "title": "Poems (Dun Karm)",
+   "author": "Dun Karm Psaila",
+   "home": "mt",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "v-pynchon",
+   "title": "V.",
+   "author": "Thomas Pynchon",
+   "home": "mt",
+   "via": [
+    "book",
     "line"
    ]
   }
@@ -12290,6 +12992,15 @@
    "via": [
     "line"
    ]
+  },
+  {
+   "id": "dievu-miskas",
+   "title": "Forest of the Gods",
+   "author": "Balys Sruoga",
+   "home": "lt",
+   "via": [
+    "line"
+   ]
   }
  ],
  "pt": [
@@ -12936,6 +13647,59 @@
    "author": "Bram Stoker",
    "home": "uk",
    "via": [
+    "line"
+   ]
+  }
+ ],
+ "rs": [
+  {
+   "id": "koreni",
+   "title": "Roots",
+   "author": "Dobrica Ćosić",
+   "home": "rs",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "dictionary-of-the-khazars",
+   "title": "Dictionary of the Khazars",
+   "author": "Milorad Pavić",
+   "home": "rs",
+   "via": [
+    "book",
+    "house",
+    "line"
+   ]
+  },
+  {
+   "id": "the-use-of-man",
+   "title": "The Use of Man",
+   "author": "Aleksandar Tišma",
+   "home": "rs",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "my-familys-role-in-the-world-revolution",
+   "title": "My Family's Role in the World Revolution",
+   "author": "Bora Ćosić",
+   "home": "rs",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "at-the-lucky-hand",
+   "title": "At the Lucky Hand",
+   "author": "Goran Petrović",
+   "home": "rs",
+   "via": [
+    "book",
     "line"
    ]
   }
@@ -15209,6 +15973,97 @@
    ]
   }
  ],
+ "si": [
+  {
+   "id": "deseti-brat",
+   "title": "The Tenth Brother",
+   "author": "Josip Jurčič",
+   "home": "si",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "pod-svobodnim-soncem",
+   "title": "Under the Free Sun",
+   "author": "Fran Saleški Finžgar",
+   "home": "si",
+   "via": [
+    "book"
+   ]
+  },
+  {
+   "id": "visoska-kronika",
+   "title": "The Visoko Chronicle",
+   "author": "Ivan Tavčar",
+   "home": "si",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "to-noc-sem-jo-videl",
+   "title": "I Saw Her That Night",
+   "author": "Drago Jančar",
+   "home": "si",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "veronika-decides-to-die",
+   "title": "Veronika Decides to Die",
+   "author": "Paulo Coelho",
+   "home": "si",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "farewell-to-arms",
+   "title": "A Farewell to Arms",
+   "author": "Ernest Hemingway",
+   "home": "it",
+   "via": [
+    "line"
+   ]
+  }
+ ],
+ "sk": [
+  {
+   "id": "prostonarodne-slovenske-povesti",
+   "title": "Slovak Folk Tales",
+   "author": "Pavol Dobšinský",
+   "home": "sk",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "ja-malkac",
+   "title": "I, the Little One",
+   "author": "Ľubo Dobrovoda",
+   "home": "sk",
+   "via": [
+    "book",
+    "line"
+   ]
+  },
+  {
+   "id": "at-time-of-gifts",
+   "title": "A Time of Gifts",
+   "author": "Patrick Leigh Fermor",
+   "home": "at",
+   "via": [
+    "line"
+   ]
+  }
+ ],
  "sr": [
   {
    "id": "oroonoko",
@@ -15409,6 +16264,15 @@
    "home": "tr",
    "via": [
     "book",
+    "line"
+   ]
+  },
+  {
+   "id": "pod-svobodnim-soncem",
+   "title": "Under the Free Sun",
+   "author": "Fran Saleški Finžgar",
+   "home": "si",
+   "via": [
     "line"
    ]
   }
@@ -19492,6 +20356,15 @@
    ]
   },
   {
+   "id": "balta-drobule",
+   "title": "White Shroud",
+   "author": "Antanas Škėma",
+   "home": "lt",
+   "via": [
+    "line"
+   ]
+  },
+  {
    "id": "fr-journey-end-of-night",
    "title": "Journey to the End of the Night",
    "author": "Louis-Ferdinand Céline",
@@ -19585,6 +20458,18 @@
    "home": "sa",
    "via": [
     "house"
+   ]
+  }
+ ],
+ "va": [
+  {
+   "id": "agony-and-the-ecstasy",
+   "title": "The Agony and the Ecstasy",
+   "author": "Irving Stone",
+   "home": "va",
+   "via": [
+    "book",
+    "line"
    ]
   }
  ],

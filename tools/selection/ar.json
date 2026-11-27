@@ -1,0 +1,945 @@
+{
+ "cc": "ar",
+ "name": "阿根廷",
+ "date": "2026-11-27",
+ "rule": "v2",
+ "sources": {
+  "A1": "《世界报》（马德里）2001 年「20 世纪 100 部最佳西语小说」（报社书系）；按顺序的转录见 goodreads.com/list/show/152515。第 10 名以后按作者字母排，前 10 名的依据没能核实，所以不加前 10 分",
+  "A2": "《周刊》（Semana，波哥大）2007 年「近 25 年 100 部最佳西语小说」（81 位作家、评论家、编辑；1982–2007）— semana.com；名次按 thegreatestbooks.org/lists/430 的转录",
+  "A3": "《国家报》Babelia 2016 年「近 25 年西语文学里程碑」（50 位评论家、作家、书商，24 本）— thegreatestbooks.org/lists/179",
+  "A4": "ABC Cultural（马德里）2022 年「世界文学 100 本」（50 多位评论家和作家）；阿根廷入选的是《虚构集》和《法昆多》— unidiversidad.com.ar 转述",
+  "B": "阿根廷没有全国统一的指定书目（课程由各省定，国家核心学习目标不点书名），此类空缺",
+  "C": "罗慕洛·加列戈斯奖、埃拉尔德奖、阿尔法瓜拉奖、简明图书馆奖（西班牙语维基获奖表，11-27 读）",
+  "D": "thegreatestbooks.org 总榜前 2000 名（与 src_1125 同一份）；阿根廷作家榜前 75 名用来找候选",
+  "E": "Goodreads 评分人数（自动补全接口，11-27）"
+ },
+ "size_note": "规则 v2：两项证据或进 A 名单前 10 就够格；已有的书不因分数删；同一作者够格的都收；不设名额。阿根廷第一次按 v2 评。没有找到阿根廷本国的读者或专家投票榜，A 类用的是三份西语世界名单和一份世界文学名单，所以 1980 年以前的阿根廷经典只能靠《世界报》名单、总榜和 Goodreads 拿分：《七个疯子》《佐马》《小嘴巴》《亚当·布宜诺斯艾利斯》都只有一项或零项，按规则不收，这一点要请你看一下。《莫雷尔的发明》写的是虚构的海岛，《博马索》写意大利，《热带夜幕降临》写里约，标“不算”。11-27 用户定：新增按规则全收；零项的 4 本全部删除。原始数据：verify/src_1127/sa_lists_1127.txt、ar_1127.txt。",
+ "rows": [
+  {
+   "title": "Hopscotch",
+   "author": "Julio Cortázar",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "D": 2,
+    "E": 1
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "E",
+    "I"
+   ],
+   "in_app": "hopscotch",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "D 434 · Goodreads 52,135"
+  },
+  {
+   "title": "Kiss of the Spider Woman",
+   "author": "Manuel Puig",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "D": 1,
+    "E": 1
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "E",
+    "I"
+   ],
+   "in_app": "kiss-of-the-spider-woman",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "D 1304 · Goodreads 24,331"
+  },
+  {
+   "title": "On Heroes and Tombs",
+   "author": "Ernesto Sabato",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": "on-heroes-and-tombs",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "不在 D 前 2000 · Goodreads 15,198"
+  },
+  {
+   "title": "Facundo: Civilization and Barbarism",
+   "author": "Domingo Faustino Sarmiento",
+   "kind": "本国",
+   "points": {
+    "A4": 3,
+    "D": 1
+   },
+   "score": 4,
+   "cats": [
+    "A4",
+    "I"
+   ],
+   "in_app": "facundo",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "D 592 · Goodreads 3,326"
+  },
+  {
+   "title": "Our Share of Night",
+   "author": "Mariana Enríquez",
+   "kind": "本国",
+   "points": {
+    "C": 2,
+    "E": 1
+   },
+   "score": 3,
+   "cats": [
+    "C",
+    "E"
+   ],
+   "in_app": "our-share-of-night",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "埃拉尔德奖 2019；不在 D 前 2000 · Goodreads 74,254"
+  },
+  {
+   "title": "The Gaucho Martín Fierro",
+   "author": "José Hernández",
+   "kind": "本国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": "martin-fierro",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "不在 D 前 2000 · Goodreads 10,874"
+  },
+  {
+   "title": "Bestiary",
+   "author": "Julio Cortázar",
+   "kind": "本国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": "bestiary",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "总榜 1526 名是英文选集 Blow-Up，不算这本 · Goodreads 25,869"
+  },
+  {
+   "title": "The Eternaut",
+   "author": "Héctor Germán Oesterheld",
+   "kind": "本国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": "el-eternauta",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "不在 D 前 2000 · Goodreads 10,169"
+  },
+  {
+   "title": "Things We Lost in the Fire",
+   "author": "Mariana Enríquez",
+   "kind": "本国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": "things-we-lost-in-the-fire",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "不在 D 前 2000 · Goodreads 71,939"
+  },
+  {
+   "title": "Stories of Love, Madness and Death",
+   "author": "Horacio Quiroga",
+   "kind": "外国（乌拉圭作家，写米西奥内斯）",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": "cuentos-de-amor-locura-muerte",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "不在 D 前 2000 · Goodreads 21,243"
+  },
+  {
+   "title": "The Voyage of the Beagle",
+   "author": "Charles Darwin",
+   "kind": "外国",
+   "points": {
+    "D": 1
+   },
+   "score": 1,
+   "cats": [
+    "I"
+   ],
+   "in_app": "voyage-of-the-beagle",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "D 1688 · Goodreads 8,737"
+  },
+  {
+   "title": "Night Flight",
+   "author": "Antoine de Saint-Exupéry",
+   "kind": "外国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": "night-flight",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "不在 D 前 2000 · Goodreads 13,565"
+  },
+  {
+   "title": "Miracle in the Andes",
+   "author": "Nando Parrado",
+   "kind": "外国（乌拉圭）",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": "miracle-in-the-andes",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "不在 D 前 2000 · Goodreads 28,228"
+  },
+  {
+   "title": "Alive: The Story of the Andes Survivors",
+   "author": "Piers Paul Read",
+   "kind": "外国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": "alive-andes",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "不在 D 前 2000 · Goodreads 83,758"
+  },
+  {
+   "title": "Operation Massacre",
+   "author": "Rodolfo Walsh",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "operacion-masacre",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "用户同意删（11-27：南美零项的书全部删除）",
+   "note": "不在 D 前 2000 · Goodreads 7,113；第二遍查了阿根廷作家榜前 75 名和三份西语名单（都只收小说），都没有"
+  },
+  {
+   "title": "Far Away and Long Ago",
+   "author": "W. H. Hudson",
+   "kind": "本国（英文写作）",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "far-away-and-long-ago",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "用户同意删（11-27：南美零项的书全部删除）",
+   "note": "不在 D 前 2000 · Goodreads 519；第二遍查了阿根廷作家榜前 75 名，没有（哈德森的《绿厦》总榜 985 名，写委内瑞拉）"
+  },
+  {
+   "title": "The Jesuit Empire",
+   "author": "Leopoldo Lugones",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "imperio-jesuitico",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "用户同意删（11-27：南美零项的书全部删除）",
+   "note": "不在 D 前 2000 · Goodreads 22；第二遍查了阿根廷作家榜前 75 名，没有"
+  },
+  {
+   "title": "The Lighthouse at the End of the World",
+   "author": "Jules Verne",
+   "kind": "外国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "lighthouse-at-the-end-of-the-world",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "用户同意删（11-27：南美零项的书全部删除）",
+   "note": "不在 D 前 2000 · Goodreads 5,650；第二遍查了 thegreatestbooks 凡尔纳各书，这本不在前 2000"
+  },
+  {
+   "title": "Ficciones",
+   "author": "Jorge Luis Borges",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A4": 3,
+    "D": 2,
+    "E": 1
+   },
+   "score": 9,
+   "cats": [
+    "A1",
+    "A4",
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "D 46 · Goodreads 85,060；书已在应用里（挂在乌拉圭弗赖本托斯），这里是给阿根廷加地点"
+  },
+  {
+   "title": "El túnel (The Tunnel)",
+   "author": "Ernesto Sabato",
+   "kind": "本国",
+   "points": {
+    "D": 1,
+    "E": 2
+   },
+   "score": 3,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "D 1427 · Goodreads 105,086；布宜诺斯艾利斯"
+  },
+  {
+   "title": "Santa Evita",
+   "author": "Tomás Eloy Martínez",
+   "kind": "本国",
+   "points": {
+    "A2": 4,
+    "A3": 3
+   },
+   "score": 7,
+   "cats": [
+    "A2",
+    "A3"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "Semana 第 8、《国家报》第 23；不在 D 前 2000 · Goodreads 3,333；布宜诺斯艾利斯"
+  },
+  {
+   "title": "La grande",
+   "author": "Juan José Saer",
+   "kind": "本国",
+   "points": {
+    "A2": 3,
+    "A3": 4
+   },
+   "score": 7,
+   "cats": [
+    "A2",
+    "A3"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "Semana 第 40、《国家报》第 10；不在 D 前 2000 · Goodreads 222；圣菲省科拉斯丁"
+  },
+  {
+   "title": "El pasado (The Past)",
+   "author": "Alan Pauls",
+   "kind": "本国",
+   "points": {
+    "A2": 3,
+    "C": 2
+   },
+   "score": 5,
+   "cats": [
+    "A2",
+    "C"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "Semana 第 30；埃拉尔德奖 2003；Goodreads 1,234；布宜诺斯艾利斯"
+  },
+  {
+   "title": "Santo oficio de la memoria",
+   "author": "Mempo Giardinelli",
+   "kind": "本国",
+   "points": {
+    "A2": 3,
+    "C": 2
+   },
+   "score": 5,
+   "cats": [
+    "A2",
+    "C"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "Semana 第 32；罗慕洛·加列戈斯奖 1993；Goodreads 84；查科省"
+  },
+  {
+   "title": "El vuelo de la reina",
+   "author": "Tomás Eloy Martínez",
+   "kind": "本国",
+   "points": {
+    "A2": 3,
+    "C": 2
+   },
+   "score": 5,
+   "cats": [
+    "A2",
+    "C"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "Semana 第 47；阿尔法瓜拉奖 2002；Goodreads 976；布宜诺斯艾利斯"
+  },
+  {
+   "title": "La invención de Morel (The Invention of Morel)",
+   "author": "Adolfo Bioy Casares",
+   "kind": "本国（写虚构海岛）",
+   "points": {
+    "D": 1,
+    "E": 1
+   },
+   "score": 2,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "不收（没有真实地点）",
+   "first_draft": "不收（没有真实地点）",
+   "note": "D 1250 · Goodreads 40,107；故事在一座虚构的太平洋小岛上"
+  },
+  {
+   "title": "Los siete locos (The Seven Madmen)",
+   "author": "Roberto Arlt",
+   "kind": "本国",
+   "points": {
+    "D": 1
+   },
+   "score": 1,
+   "cats": [
+    "I"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "D 1159 · Goodreads 5,670"
+  },
+  {
+   "title": "Zama",
+   "author": "Antonio Di Benedetto",
+   "kind": "本国（写亚松森）",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "不在 D 前 2000 · Goodreads 4,149"
+  },
+  {
+   "title": "Boquitas pintadas (Heartbreak Tango)",
+   "author": "Manuel Puig",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "不在 D 前 2000 · Goodreads 8,362"
+  },
+  {
+   "title": "Distancia de rescate (Fever Dream)",
+   "author": "Samanta Schweblin",
+   "kind": "本国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "不在 D 前 2000 · Goodreads 60,840"
+  },
+  {
+   "title": "Plata quemada (Money to Burn)",
+   "author": "Ricardo Piglia",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Semana 第 46；Goodreads 3,068；1997 年行星奖后来被法院判定评审不公，不计"
+  },
+  {
+   "title": "Respiración artificial",
+   "author": "Ricardo Piglia",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 3,098"
+  },
+  {
+   "title": "El entenado (The Witness)",
+   "author": "Juan José Saer",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 3,927"
+  },
+  {
+   "title": "El juguete rabioso",
+   "author": "Roberto Arlt",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 8,035"
+  },
+  {
+   "title": "Adán Buenosayres",
+   "author": "Leopoldo Marechal",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 700"
+  },
+  {
+   "title": "La gesta del marrano",
+   "author": "Marcos Aguinis",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Semana 第 44；Goodreads 1,463"
+  },
+  {
+   "title": "Los pichiciegos",
+   "author": "Fogwill",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Semana 第 53；Goodreads 3,181"
+  },
+  {
+   "title": "Los fantasmas",
+   "author": "César Aira",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Semana 第 70；Goodreads 2,710"
+  },
+  {
+   "title": "Luna caliente",
+   "author": "Mempo Giardinelli",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Semana 第 64；Goodreads 1,407"
+  },
+  {
+   "title": "No habrá más penas ni olvido",
+   "author": "Osvaldo Soriano",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Semana 第 89；Goodreads 1,137"
+  },
+  {
+   "title": "Glosa",
+   "author": "Juan José Saer",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Semana 第 78；Goodreads 916"
+  },
+  {
+   "title": "Cumpleaños",
+   "author": "César Aira",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Semana 第 81；Goodreads 924"
+  },
+  {
+   "title": "Una sombra ya pronto serás",
+   "author": "Osvaldo Soriano",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Semana 第 65；Goodreads 790"
+  },
+  {
+   "title": "El traductor",
+   "author": "Salvador Benesdra",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Semana 第 80；Goodreads 345"
+  },
+  {
+   "title": "Un campeón desparejo",
+   "author": "Adolfo Bioy Casares",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Semana 第 52；Goodreads 218"
+  },
+  {
+   "title": "La muerte como efecto secundario",
+   "author": "Ana María Shua",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Semana 第 72；Goodreads 172"
+  },
+  {
+   "title": "En estado de memoria",
+   "author": "Tununa Mercado",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Semana 第 59；Goodreads 141"
+  },
+  {
+   "title": "Crónica de un iniciado",
+   "author": "Abelardo Castillo",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Semana 第 79；Goodreads 98"
+  },
+  {
+   "title": "Una novela china",
+   "author": "César Aira",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Semana 第 55；Goodreads 82"
+  },
+  {
+   "title": "La sexta lámpara",
+   "author": "Pablo De Santis",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Semana 第 82；Goodreads 84"
+  },
+  {
+   "title": "El desierto y su semilla",
+   "author": "Jorge Barón Biza",
+   "kind": "本国",
+   "points": {
+    "A3": 3
+   },
+   "score": 3,
+   "cats": [
+    "A3"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "《国家报》第 12；Goodreads 1,065"
+  },
+  {
+   "title": "La pesquisa",
+   "author": "Juan José Saer",
+   "kind": "本国（大半写巴黎）",
+   "points": {
+    "A3": 3
+   },
+   "score": 3,
+   "cats": [
+    "A3"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "《国家报》第 17；Goodreads 1,322"
+  },
+  {
+   "title": "Borges (diario)",
+   "author": "Adolfo Bioy Casares",
+   "kind": "本国",
+   "points": {
+    "A3": 3
+   },
+   "score": 3,
+   "cats": [
+    "A3"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "《国家报》第 7；Goodreads 没有查到"
+  },
+  {
+   "title": "Son memorias",
+   "author": "Tulio Halperin Donghi",
+   "kind": "本国",
+   "points": {
+    "A3": 3
+   },
+   "score": 3,
+   "cats": [
+    "A3"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "《国家报》第 18；Goodreads 6"
+  },
+  {
+   "title": "Bomarzo",
+   "author": "Manuel Mujica Lainez",
+   "kind": "本国（写意大利）",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不算阿根廷",
+   "first_draft": "不算阿根廷",
+   "note": "写的是意大利博马索；Goodreads 1,357"
+  },
+  {
+   "title": "Cae la noche tropical (Tropical Night Falling)",
+   "author": "Manuel Puig",
+   "kind": "本国（写里约）",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不算阿根廷",
+   "first_draft": "不算阿根廷",
+   "note": "写的是里约热内卢"
+  },
+  {
+   "title": "The Aleph",
+   "author": "Jorge Luis Borges",
+   "kind": "作家故居",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "el-aleph",
+   "decision": "作家故居、纪念地标注的代表作，不按选书规则评",
+   "first_draft": "",
+   "note": ""
+  },
+  {
+   "title": "Don Segundo Sombra",
+   "author": "Ricardo Güiraldes",
+   "kind": "作家故居",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "don-segundo-sombra",
+   "decision": "作家故居、纪念地标注的代表作，不按选书规则评",
+   "first_draft": "",
+   "note": ""
+  },
+  {
+   "title": "Mafalda",
+   "author": "Quino",
+   "kind": "作家故居",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "mafalda",
+   "decision": "作家故居、纪念地标注的代表作，不按选书规则评",
+   "first_draft": "",
+   "note": ""
+  }
+ ]
+}

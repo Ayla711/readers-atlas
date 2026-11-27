@@ -1,0 +1,877 @@
+{
+ "cc": "br",
+ "name": "巴西",
+ "date": "2026-11-27",
+ "rule": "v2",
+ "sources": {
+  "A1": "《勇敢！》（Bravo!）杂志「巴西文学 100 本必读书」，有名次 — thegreatestbooks.org/lists/822 转录",
+  "A2": "《圣保罗页报》2025 年 5 月「21 世纪最佳巴西文学」（约 100 位评委）；全表没能读到，只核到前 3 名和另外两本（名次不详，按 3 分算）— publishnews.com.br、portaltela.com",
+  "B": "圣保罗大学入学考试（Fuvest）指定必读书，2022–2033 各年（fuvest.br、jornal.usp.br 等）",
+  "C": "雅布蒂奖、海洋奖、美洲之家奖、艾斯纳奖（葡萄牙语维基各书条目，11-27 读）",
+  "D": "thegreatestbooks.org 总榜前 2000 名；巴西作家榜前 75 名用来找候选",
+  "E": "Goodreads 评分人数（自动补全接口，11-27）"
+ },
+ "size_note": "规则 v2：两项证据或进 A 名单前 10 就够格；已有的书不因分数删；同一作者够格的都收；不设名额。巴西第一次按 v2 评。《勇敢！》名单前 10 名里的《拱顶玫瑰》《放纵》《古老的耕作》都够格（诗集和小说），按规则新增；《炼金术士》写西班牙和埃及，标“不算”。已有书里有 5 本零项（《伊拉塞玛》《上帝之城》《圣母的恩典》和两本英文游记），第二遍查了《勇敢！》全表、Fuvest 2022–2033、《页报》已知部分，都没有，请你定。11-27 用户定：新增按规则全收；零项的 5 本全部删除。原始数据：verify/src_1127/br_1127.txt。",
+ "rows": [
+  {
+   "title": "The Posthumous Memoirs of Brás Cubas",
+   "author": "Machado de Assis",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "D": 2,
+    "E": 1
+   },
+   "score": 7,
+   "cats": [
+    "A1",
+    "E",
+    "I"
+   ],
+   "in_app": "bras-cubas",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "D 294 · Goodreads 41,985"
+  },
+  {
+   "title": "Dom Casmurro",
+   "author": "Machado de Assis",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "B": 2,
+    "D": 1,
+    "E": 1
+   },
+   "score": 8,
+   "cats": [
+    "A1",
+    "B",
+    "E",
+    "I"
+   ],
+   "in_app": "dom-casmurro",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "Fuvest 2029；D 609 · Goodreads 41,269"
+  },
+  {
+   "title": "Rebellion in the Backlands",
+   "author": "Euclides da Cunha",
+   "kind": "本国",
+   "points": {
+    "A1": 4
+   },
+   "score": 4,
+   "cats": [
+    "A1"
+   ],
+   "in_app": "os-sertoes",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "《勇敢！》第 4；不在 D 前 2000 · Goodreads 1,288"
+  },
+  {
+   "title": "The Girl in the Photograph",
+   "author": "Lygia Fagundes Telles",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "B": 2,
+    "C": 2
+   },
+   "score": 7,
+   "cats": [
+    "A1",
+    "B",
+    "C"
+   ],
+   "in_app": "as-meninas",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "Fuvest 2026；雅布蒂奖 1974 · Goodreads 4,596"
+  },
+  {
+   "title": "Crooked Plow",
+   "author": "Itamar Vieira Junior",
+   "kind": "本国",
+   "points": {
+    "A2": 4,
+    "C": 2,
+    "E": 1
+   },
+   "score": 7,
+   "cats": [
+    "A2",
+    "C",
+    "E"
+   ],
+   "in_app": "crooked-plow",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "《页报》第 2；雅布蒂奖、海洋奖 2020 · Goodreads 35,124"
+  },
+  {
+   "title": "The Dark Side of the Skin",
+   "author": "Jeferson Tenório",
+   "kind": "本国",
+   "points": {
+    "A2": 4,
+    "C": 2,
+    "E": 1
+   },
+   "score": 7,
+   "cats": [
+    "A2",
+    "C",
+    "E"
+   ],
+   "in_app": "o-avesso-da-pele",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "《页报》第 3；雅布蒂奖 2021 · Goodreads 16,062"
+  },
+  {
+   "title": "Gabriela, Clove and Cinnamon",
+   "author": "Jorge Amado",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "D": 1,
+    "E": 1
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "E",
+    "I"
+   ],
+   "in_app": "gabriela-clove-and-cinnamon",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "D 995 · Goodreads 10,285"
+  },
+  {
+   "title": "Family Ties",
+   "author": "Clarice Lispector",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "B": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "B"
+   ],
+   "in_app": "family-ties",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "Fuvest 2030–33 · Goodreads 5,761"
+  },
+  {
+   "title": "An Invincible Memory",
+   "author": "João Ubaldo Ribeiro",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "C": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "C"
+   ],
+   "in_app": "an-invincible-memory",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "雅布蒂奖 · Goodreads 1,061"
+  },
+  {
+   "title": "The Slum",
+   "author": "Aluísio Azevedo",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": "o-cortico",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "Goodreads 17,312"
+  },
+  {
+   "title": "Child of the Dark",
+   "author": "Carolina Maria de Jesus",
+   "kind": "本国",
+   "points": {
+    "B": 2,
+    "E": 1
+   },
+   "score": 3,
+   "cats": [
+    "B",
+    "E"
+   ],
+   "in_app": "child-of-the-dark",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "Fuvest 2030–31 · Goodreads 11,677"
+  },
+  {
+   "title": "Daytripper",
+   "author": "Fábio Moon and Gabriel Bá",
+   "kind": "本国",
+   "points": {
+    "C": 2,
+    "E": 1
+   },
+   "score": 3,
+   "cats": [
+    "C",
+    "E"
+   ],
+   "in_app": "daytripper",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "艾斯纳奖 · Goodreads 38,302"
+  },
+  {
+   "title": "The Brothers",
+   "author": "Milton Hatoum",
+   "kind": "本国",
+   "points": {
+    "B": 2,
+    "C": 2
+   },
+   "score": 4,
+   "cats": [
+    "B",
+    "C"
+   ],
+   "in_app": "dois-irmaos",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "Fuvest 2024–25；雅布蒂奖 2001 · Goodreads 4,496"
+  },
+  {
+   "title": "Sagarana",
+   "author": "João Guimarães Rosa",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": "sagarana",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "Goodreads 3,282"
+  },
+  {
+   "title": "The Year Fifteen",
+   "author": "Rachel de Queiroz",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": "o-quinze",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "Goodreads 3,071"
+  },
+  {
+   "title": "Time and the Wind",
+   "author": "Erico Verissimo",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": "time-and-the-wind",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "Goodreads 2,770（第一部）"
+  },
+  {
+   "title": "Incident in Antares",
+   "author": "Erico Verissimo",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": "incident-in-antares",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "Fuvest 2029 · Goodreads 3,191"
+  },
+  {
+   "title": "Anguish",
+   "author": "Graciliano Ramos",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": "anguish-ramos",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "Fuvest 2022–24 · Goodreads 3,640"
+  },
+  {
+   "title": "Captains of the Sands",
+   "author": "Jorge Amado",
+   "kind": "本国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": "captains-of-the-sands",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "Goodreads 34,677"
+  },
+  {
+   "title": "My Sweet Orange Tree",
+   "author": "José Mauro de Vasconcelos",
+   "kind": "本国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": "my-sweet-orange-tree",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "Goodreads 93,113"
+  },
+  {
+   "title": "The River of Doubt",
+   "author": "Candice Millard",
+   "kind": "外国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": "the-river-of-doubt",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "Goodreads 83,856"
+  },
+  {
+   "title": "The Voyage of the Beagle",
+   "author": "Charles Darwin",
+   "kind": "外国",
+   "points": {
+    "D": 1
+   },
+   "score": 1,
+   "cats": [
+    "I"
+   ],
+   "in_app": "voyage-of-the-beagle",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "D 1688 · Goodreads 8,737"
+  },
+  {
+   "title": "Iracema",
+   "author": "José de Alencar",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "iracema",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "用户同意删（11-27：南美零项的书全部删除）",
+   "note": "Goodreads 8,202；第二遍查了《勇敢！》全表、Fuvest 2022–33，都没有"
+  },
+  {
+   "title": "City of God",
+   "author": "Paulo Lins",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "city-of-god",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "用户同意删（11-27：南美零项的书全部删除）",
+   "note": "Goodreads 6,876；第二遍同上，都没有（电影另算）"
+  },
+  {
+   "title": "A Dog as a Gift",
+   "author": "Ariano Suassuna",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "a-dog-as-a-gift",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "用户同意删（11-27：南美零项的书全部删除）",
+   "note": "即《圣母的恩典》，Goodreads 9,010；第二遍同上，都没有"
+  },
+  {
+   "title": "The Naturalist on the River Amazons",
+   "author": "Henry Walter Bates",
+   "kind": "外国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "naturalist-on-the-amazons",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "用户同意删（11-27：南美零项的书全部删除）",
+   "note": "Goodreads 116；第二遍查了 thegreatestbooks，没有"
+  },
+  {
+   "title": "Through the Brazilian Wilderness",
+   "author": "Theodore Roosevelt",
+   "kind": "外国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "through-the-brazilian-wilderness",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "用户同意删（11-27：南美零项的书全部删除）",
+   "note": "Goodreads 830；第二遍同上，没有"
+  },
+  {
+   "title": "A paixão segundo G.H.",
+   "author": "Clarice Lispector",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "B": 2,
+    "D": 1,
+    "E": 1
+   },
+   "score": 8,
+   "cats": [
+    "A1",
+    "B",
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "《勇敢！》第 9；Fuvest 2027–28；D 514 · Goodreads 24,545；里约热内卢一套顶层公寓"
+  },
+  {
+   "title": "Lavoura arcaica",
+   "author": "Raduan Nassar",
+   "kind": "本国",
+   "points": {
+    "A1": 4
+   },
+   "score": 4,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "《勇敢！》第 8；Goodreads 3,276；地点待核（书里的农庄没有地名）"
+  },
+  {
+   "title": "A rosa do povo",
+   "author": "Carlos Drummond de Andrade",
+   "kind": "本国",
+   "points": {
+    "A1": 4
+   },
+   "score": 4,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "《勇敢！》第 6，诗集；Goodreads 1,982；地点待核"
+  },
+  {
+   "title": "Libertinagem",
+   "author": "Manuel Bandeira",
+   "kind": "本国",
+   "points": {
+    "A1": 4
+   },
+   "score": 4,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "《勇敢！》第 7，诗集，收《累西腓回忆》；Goodreads 700"
+  },
+  {
+   "title": "Um defeito de cor",
+   "author": "Ana Maria Gonçalves",
+   "kind": "本国",
+   "points": {
+    "A2": 4,
+    "C": 2
+   },
+   "score": 6,
+   "cats": [
+    "A2",
+    "C"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "《页报》第 1；美洲之家奖 2007 · Goodreads 3,310；巴伊亚"
+  },
+  {
+   "title": "Canção para ninar menino grande",
+   "author": "Conceição Evaristo",
+   "kind": "本国",
+   "points": {
+    "A2": 3,
+    "B": 2
+   },
+   "score": 5,
+   "cats": [
+    "A2",
+    "B"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "《页报》前 25；Fuvest 2026–29 · Goodreads 4,112；地点待核"
+  },
+  {
+   "title": "O som do rugido da onça",
+   "author": "Micheliny Verunschk",
+   "kind": "本国",
+   "points": {
+    "A2": 3,
+    "C": 2
+   },
+   "score": 5,
+   "cats": [
+    "A2",
+    "C"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "《页报》前 25；雅布蒂奖 2022 · Goodreads 2,511；地点待核（亚马孙、慕尼黑）"
+  },
+  {
+   "title": "O alquimista (The Alchemist)",
+   "author": "Paulo Coelho",
+   "kind": "本国（写西班牙、埃及）",
+   "points": {
+    "D": 2,
+    "E": 3
+   },
+   "score": 5,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "不算巴西",
+   "first_draft": "不算巴西",
+   "note": "D 416 · Goodreads 3,797,475"
+  },
+  {
+   "title": "Morte e vida severina",
+   "author": "João Cabral de Melo Neto",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 3,814"
+  },
+  {
+   "title": "O guarani",
+   "author": "José de Alencar",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 2,774"
+  },
+  {
+   "title": "Triste fim de Policarpo Quaresma",
+   "author": "Lima Barreto",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 7,125"
+  },
+  {
+   "title": "São Bernardo",
+   "author": "Graciliano Ramos",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 4,354"
+  },
+  {
+   "title": "Crônica da casa assassinada",
+   "author": "Lúcio Cardoso",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 1,108"
+  },
+  {
+   "title": "Memórias de um sargento de milícias",
+   "author": "Manuel Antônio de Almeida",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 7,376"
+  },
+  {
+   "title": "O Ateneu",
+   "author": "Raul Pompéia",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 1,970"
+  },
+  {
+   "title": "Fogo morto",
+   "author": "José Lins do Rego",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 839"
+  },
+  {
+   "title": "Quincas Borba",
+   "author": "Machado de Assis",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Fuvest 2022–25 · Goodreads 8,742"
+  },
+  {
+   "title": "Esaú e Jacó",
+   "author": "Machado de Assis",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Fuvest 2030–33 · Goodreads 2,271"
+  },
+  {
+   "title": "Úrsula",
+   "author": "Maria Firmina dos Reis",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Fuvest 2032–33 · Goodreads 1,505"
+  },
+  {
+   "title": "O alienista",
+   "author": "Machado de Assis",
+   "kind": "本国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 22,879"
+  },
+  {
+   "title": "Olhos d'água",
+   "author": "Conceição Evaristo",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "雅布蒂奖 2015（短篇） · Goodreads 9,863"
+  },
+  {
+   "title": "Dona Flor e seus dois maridos",
+   "author": "Jorge Amado",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 9,855"
+  },
+  {
+   "title": "The Devil to Pay in the Backlands",
+   "author": "João Guimarães Rosa",
+   "kind": "作家故居",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "the-devil-to-pay-in-the-backlands",
+   "decision": "作家故居、纪念地标注的代表作，不按选书规则评",
+   "first_draft": "",
+   "note": ""
+  },
+  {
+   "title": "Barren Lives",
+   "author": "Graciliano Ramos",
+   "kind": "作家故居",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "barren-lives",
+   "decision": "作家故居、纪念地标注的代表作，不按选书规则评",
+   "first_draft": "",
+   "note": ""
+  },
+  {
+   "title": "Macunaíma",
+   "author": "Mário de Andrade",
+   "kind": "作家故居",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "macunaima",
+   "decision": "作家故居、纪念地标注的代表作，不按选书规则评",
+   "first_draft": "",
+   "note": ""
+  },
+  {
+   "title": "The Hour of the Star",
+   "author": "Clarice Lispector",
+   "kind": "作家故居",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "the-hour-of-the-star",
+   "decision": "作家故居、纪念地标注的代表作，不按选书规则评",
+   "first_draft": "",
+   "note": ""
+  }
+ ]
+}

@@ -1,0 +1,603 @@
+{
+ "cc": "cl",
+ "name": "智利",
+ "date": "2026-11-27",
+ "rule": "v2",
+ "sources": {
+  "A1": "Emol「建国二百年理想书库」读者投票（2006 年 10 月公布，一万多票），只公布了各类前一两名：小说《小偷的儿子》《帕佩卢乔》，诗《大地上的居所》，纪实《我承认，我曾历尽沧桑》，短篇《杀人的婊子》，散文《智利史》— memoriachilena.gob.cl；各类第一、二名按前 10 算",
+  "A2": "《世界报》2001 年「20 世纪 100 部最佳西语小说」（同阿根廷表）",
+  "A3": "《周刊》2007 年「近 25 年 100 部最佳西语小说」（同阿根廷表）",
+  "A4": "《国家报》Babelia 2016 年「近 25 年西语文学里程碑」（同阿根廷表）",
+  "B": "没有找到智利全国统一的指定书目，此类空缺",
+  "C": "罗慕洛·加列戈斯奖、埃拉尔德奖（同阿根廷表）",
+  "D": "thegreatestbooks.org 总榜前 2000 名；智利作家榜前 50 名用来找候选",
+  "E": "Goodreads 评分人数（自动补全接口，11-27）"
+ },
+ "size_note": "规则 v2：两项证据或进 A 名单前 10 就够格；已有的书不因分数删；不设名额。智利第一次按 v2 评。Emol 2006 年投票各类的第一名都够格：《小偷的儿子》《帕佩卢乔》《我承认，我曾历尽沧桑》《杀人的婊子》新增；《大地上的居所》大多写于缅甸、锡兰、爪哇，标“不算”；散文类第一名是恩西纳 20 卷本《智利史》，是史书，不列入。《2666》《荒野侦探》写墨西哥，《读爱情故事的老人》写厄瓜多尔亚马孙，标“不算智利”（后者转到厄瓜多尔表评）。《智利之夜》只有 Goodreads 一项，按规则不收，请你看一下。11-27 用户定：新增按规则全收；零项的 3 本全部删除。原始数据：verify/src_1127/cl_1127.txt。",
+ "rows": [
+  {
+   "title": "The House of the Spirits",
+   "author": "Isabel Allende",
+   "kind": "本国",
+   "points": {
+    "A2": 3,
+    "D": 2,
+    "E": 2
+   },
+   "score": 7,
+   "cats": [
+    "A2",
+    "E",
+    "I"
+   ],
+   "in_app": "the-house-of-the-spirits",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "D 296 · Goodreads 354,952"
+  },
+  {
+   "title": "Distant Star",
+   "author": "Roberto Bolaño",
+   "kind": "本国",
+   "points": {
+    "A3": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A3",
+    "E"
+   ],
+   "in_app": "distant-star",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "Semana 第 13 · Goodreads 16,462"
+  },
+  {
+   "title": "The Obscene Bird of Night",
+   "author": "José Donoso",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": "the-obscene-bird-of-night",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "Goodreads 5,482"
+  },
+  {
+   "title": "Twenty Love Poems and a Song of Despair",
+   "author": "Pablo Neruda",
+   "kind": "本国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": "twenty-love-poems",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "总榜 1740 名是英文选集，不算这本 · Goodreads 85,341"
+  },
+  {
+   "title": "Paula",
+   "author": "Isabel Allende",
+   "kind": "本国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": "paula-allende",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "Goodreads 61,634"
+  },
+  {
+   "title": "The Motorcycle Diaries",
+   "author": "Ernesto Che Guevara",
+   "kind": "外国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": "the-motorcycle-diaries",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "Goodreads 48,547"
+  },
+  {
+   "title": "In Patagonia",
+   "author": "Bruce Chatwin",
+   "kind": "外国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": "in-patagonia",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "Goodreads 20,157"
+  },
+  {
+   "title": "The Voyage of the Beagle",
+   "author": "Charles Darwin",
+   "kind": "外国",
+   "points": {
+    "D": 1
+   },
+   "score": 1,
+   "cats": [
+    "I"
+   ],
+   "in_app": "voyage-of-the-beagle",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "D 1688 · Goodreads 8,737"
+  },
+  {
+   "title": "Azul",
+   "author": "Rubén Darío",
+   "kind": "外国（尼加拉瓜，在瓦尔帕莱索出版）",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "azul",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "用户同意删（11-27：南美零项的书全部删除）",
+   "note": "Goodreads 3,595；第二遍查了 thegreatestbooks 达里奥各书，不在前 2000"
+  },
+  {
+   "title": "Across Patagonia",
+   "author": "Florence Dixie",
+   "kind": "外国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "across-patagonia",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "用户同意删（11-27：南美零项的书全部删除）",
+   "note": "Goodreads 91；第二遍同上，没有"
+  },
+  {
+   "title": "Crusoe's Island",
+   "author": "J. Ross Browne",
+   "kind": "外国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "crusoes-island",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "用户同意删（11-27：南美零项的书全部删除）",
+   "note": "Goodreads 7；第二遍同上，没有"
+  },
+  {
+   "title": "Hijo de ladrón",
+   "author": "Manuel Rojas",
+   "kind": "本国",
+   "points": {
+    "A1": 4
+   },
+   "score": 4,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "Emol 小说第 1 · Goodreads 1,268；瓦尔帕莱索"
+  },
+  {
+   "title": "Papelucho",
+   "author": "Marcela Paz",
+   "kind": "本国",
+   "points": {
+    "A1": 4
+   },
+   "score": 4,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "Emol 小说第 2，儿童日记体系列 · Goodreads 1,763；地点待核"
+  },
+  {
+   "title": "Confieso que he vivido",
+   "author": "Pablo Neruda",
+   "kind": "本国",
+   "points": {
+    "A1": 4
+   },
+   "score": 4,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "Emol 纪实第 1，回忆录 · Goodreads 4,972；特木科等"
+  },
+  {
+   "title": "Putas asesinas",
+   "author": "Roberto Bolaño",
+   "kind": "本国",
+   "points": {
+    "A1": 4
+   },
+   "score": 4,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "Emol 短篇第 1 · Goodreads 7,415；地点待核"
+  },
+  {
+   "title": "Ardiente paciencia (The Postman)",
+   "author": "Antonio Skármeta",
+   "kind": "本国",
+   "points": {
+    "A2": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A2",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "Goodreads 20,580；黑岛"
+  },
+  {
+   "title": "Residencia en la tierra",
+   "author": "Pablo Neruda",
+   "kind": "本国（写亚洲）",
+   "points": {
+    "A1": 4,
+    "D": 1
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "不算智利",
+   "first_draft": "不算智利",
+   "note": "D 1487；诗多写于缅甸、锡兰、爪哇"
+  },
+  {
+   "title": "Nocturno de Chile (By Night in Chile)",
+   "author": "Roberto Bolaño",
+   "kind": "本国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 21,611"
+  },
+  {
+   "title": "De amor y de sombra",
+   "author": "Isabel Allende",
+   "kind": "本国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 38,933"
+  },
+  {
+   "title": "Hija de la fortuna",
+   "author": "Isabel Allende",
+   "kind": "本国（大半写加州）",
+   "points": {
+    "E": 2
+   },
+   "score": 2,
+   "cats": [
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 146,015"
+  },
+  {
+   "title": "Tengo miedo torero",
+   "author": "Pedro Lemebel",
+   "kind": "本国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 22,914"
+  },
+  {
+   "title": "Formas de volver a casa",
+   "author": "Alejandro Zambra",
+   "kind": "本国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 15,894"
+  },
+  {
+   "title": "Martín Rivas",
+   "author": "Alberto Blest Gana",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 1,685"
+  },
+  {
+   "title": "El lugar sin límites",
+   "author": "José Donoso",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 4,822"
+  },
+  {
+   "title": "La amortajada",
+   "author": "María Luisa Bombal",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 5,358"
+  },
+  {
+   "title": "El museo de cera",
+   "author": "Jorge Edwards",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 133"
+  },
+  {
+   "title": "Lumpérica",
+   "author": "Diamela Eltit",
+   "kind": "本国",
+   "points": {
+    "A3": 3
+   },
+   "score": 3,
+   "cats": [
+    "A3"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Semana 第 57 · Goodreads 241"
+  },
+  {
+   "title": "El cuarto mundo",
+   "author": "Diamela Eltit",
+   "kind": "本国",
+   "points": {
+    "A3": 3
+   },
+   "score": 3,
+   "cats": [
+    "A3"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Semana 第 66 · Goodreads 309"
+  },
+  {
+   "title": "Los vigilantes",
+   "author": "Diamela Eltit",
+   "kind": "本国",
+   "points": {
+    "A3": 3
+   },
+   "score": 3,
+   "cats": [
+    "A3"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Semana 第 99 · Goodreads 247"
+  },
+  {
+   "title": "Jamás el fuego nunca",
+   "author": "Diamela Eltit",
+   "kind": "本国",
+   "points": {
+    "A4": 3
+   },
+   "score": 3,
+   "cats": [
+    "A4"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "《国家报》第 21 · Goodreads 459"
+  },
+  {
+   "title": "La burla del tiempo",
+   "author": "Mauricio Electorat",
+   "kind": "本国",
+   "points": {
+    "A3": 3
+   },
+   "score": 3,
+   "cats": [
+    "A3"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Semana 第 54 · Goodreads 47"
+  },
+  {
+   "title": "El inútil de la familia",
+   "author": "Jorge Edwards",
+   "kind": "本国",
+   "points": {
+    "A3": 3
+   },
+   "score": 3,
+   "cats": [
+    "A3"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Semana 第 56 · Goodreads 136"
+  },
+  {
+   "title": "2666",
+   "author": "Roberto Bolaño",
+   "kind": "本国（写墨西哥）",
+   "points": {
+    "A3": 4,
+    "D": 2,
+    "E": 1
+   },
+   "score": 7,
+   "cats": [
+    "A3",
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "不算智利",
+   "first_draft": "不算智利",
+   "note": "写墨西哥圣特莱莎（华雷斯）"
+  },
+  {
+   "title": "Los detectives salvajes (The Savage Detectives)",
+   "author": "Roberto Bolaño",
+   "kind": "本国（写墨西哥）",
+   "points": {
+    "A3": 4,
+    "A4": 4,
+    "C": 2,
+    "D": 2,
+    "E": 1
+   },
+   "score": 13,
+   "cats": [
+    "A3",
+    "A4",
+    "C",
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "不算智利",
+   "first_draft": "不算智利",
+   "note": "主要写墨西哥城"
+  },
+  {
+   "title": "Un viejo que leía novelas de amor",
+   "author": "Luis Sepúlveda",
+   "kind": "本国（写厄瓜多尔）",
+   "points": {
+    "A3": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A3",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不算智利",
+   "first_draft": "不算智利",
+   "note": "写厄瓜多尔亚马孙，转到厄瓜多尔表评"
+  },
+  {
+   "title": "Canto General",
+   "author": "Pablo Neruda",
+   "kind": "作家故居",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "canto-general",
+   "decision": "作家故居、纪念地标注的代表作，不按选书规则评",
+   "first_draft": "",
+   "note": ""
+  },
+  {
+   "title": "Desolation",
+   "author": "Gabriela Mistral",
+   "kind": "作家故居",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "desolacion",
+   "decision": "作家故居、纪念地标注的代表作，不按选书规则评",
+   "first_draft": "",
+   "note": ""
+  }
+ ]
+}

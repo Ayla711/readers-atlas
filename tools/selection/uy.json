@@ -1,0 +1,246 @@
+{
+ "cc": "uy",
+ "name": "乌拉圭",
+ "date": "2026-11-27",
+ "rule": "v2",
+ "sources": {
+  "A1": "《观察家报》2025 年 3 月「最好的乌拉圭书」（问 100 位各界人士，52 部作品被提名，大多一票），文章按顺序介绍了前 5：《短暂的生命》、奥拉西奥·基罗加的一部短篇集（没写书名）、《造船厂》、何塞·佩德罗·巴兰的代表作（没写书名）、《爱丽儿》— elobservador.com.uy",
+  "A2": "《世界报》2001 年「20 世纪 100 部最佳西语小说」（同阿根廷表）",
+  "A3": "《周刊》2007 年「近 25 年 100 部最佳西语小说」（同阿根廷表）",
+  "A4": "《国家报》Babelia 2016 年「近 25 年西语文学里程碑」（同阿根廷表）",
+  "B": "没有找到乌拉圭全国统一的指定书目，此类空缺",
+  "D": "thegreatestbooks.org 总榜前 2000 名",
+  "E": "Goodreads 评分人数（自动补全接口，11-27）"
+ },
+ "size_note": "规则 v2：两项证据或进 A 名单前 10 就够格；已有的书不因分数删；不设名额。乌拉圭第一次按 v2 评。《观察家报》前 5 里，基罗加那一本和巴兰那一本文章没写书名，没法计分；《短暂的生命》写布宜诺斯艾利斯和虚构的圣玛丽亚，标“不算乌拉圭”；《爱丽儿》是写给拉美青年的长篇散文，没有地点。《造船厂》的圣玛丽亚是虚构的城市，按“名著不跳过”新增，地点待核。11-27 用户定：两本新增都收；零项的 3 本全部删除。原始数据：verify/src_1127/sa_small_1127.txt。",
+ "rows": [
+  {
+   "title": "Ficciones",
+   "author": "Jorge Luis Borges",
+   "kind": "外国（阿根廷，《博闻强记的富内斯》写弗赖本托斯）",
+   "points": {
+    "A2": 3,
+    "D": 2,
+    "E": 1
+   },
+   "score": 6,
+   "cats": [
+    "A2",
+    "E",
+    "I"
+   ],
+   "in_app": "ficciones",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "D 46 · Goodreads 85,060"
+  },
+  {
+   "title": "The Truce",
+   "author": "Mario Benedetti",
+   "kind": "本国",
+   "points": {
+    "A2": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A2",
+    "E"
+   ],
+   "in_app": "la-tregua",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "Goodreads 48,634"
+  },
+  {
+   "title": "The Book of Embraces",
+   "author": "Eduardo Galeano",
+   "kind": "本国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": "the-book-of-embraces",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "Goodreads 12,060"
+  },
+  {
+   "title": "The Voyage of the Beagle",
+   "author": "Charles Darwin",
+   "kind": "外国",
+   "points": {
+    "D": 1
+   },
+   "score": 1,
+   "cats": [
+    "I"
+   ],
+   "in_app": "voyage-of-the-beagle",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "D 1688 · Goodreads 8,737"
+  },
+  {
+   "title": "Spring with a Broken Corner",
+   "author": "Mario Benedetti",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "spring-with-a-broken-corner",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "用户同意删（11-27：南美零项的书全部删除）",
+   "note": "Goodreads 7,732；第二遍查了乌拉圭作家榜和三份西语名单，都没有"
+  },
+  {
+   "title": "Soccer in Sun and Shadow",
+   "author": "Eduardo Galeano",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "soccer-in-sun-and-shadow",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "用户同意删（11-27：南美零项的书全部删除）",
+   "note": "Goodreads 9,646；第二遍同上"
+  },
+  {
+   "title": "The Purple Land",
+   "author": "W. H. Hudson",
+   "kind": "外国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "the-purple-land",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "用户同意删（11-27：南美零项的书全部删除）",
+   "note": "Goodreads 589；第二遍查了 thegreatestbooks，不在前 2000"
+  },
+  {
+   "title": "El astillero (The Shipyard)",
+   "author": "Juan Carlos Onetti",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "A2": 3,
+    "D": 1
+   },
+   "score": 8,
+   "cats": [
+    "A1",
+    "A2",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "《观察家报》第 3；D 1802 · Goodreads 2,523；虚构的圣玛丽亚，地点待核"
+  },
+  {
+   "title": "La novela luminosa",
+   "author": "Mario Levrero",
+   "kind": "本国",
+   "points": {
+    "A3": 3,
+    "A4": 4
+   },
+   "score": 7,
+   "cats": [
+    "A3",
+    "A4"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "Semana 第 94、《国家报》第 5 · Goodreads 1,273；蒙得维的亚"
+  },
+  {
+   "title": "Cuando ya no importe",
+   "author": "Juan Carlos Onetti",
+   "kind": "本国",
+   "points": {
+    "A3": 3
+   },
+   "score": 3,
+   "cats": [
+    "A3"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Semana 第 19 · Goodreads 465"
+  },
+  {
+   "title": "Montevideanos",
+   "author": "Mario Benedetti",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 824"
+  },
+  {
+   "title": "La vida breve",
+   "author": "Juan Carlos Onetti",
+   "kind": "本国（写布宜诺斯艾利斯）",
+   "points": {
+    "A1": 4
+   },
+   "score": 4,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不算乌拉圭",
+   "first_draft": "不算乌拉圭",
+   "note": "《观察家报》第 1；写布宜诺斯艾利斯和虚构的圣玛丽亚 · Goodreads 1,329"
+  },
+  {
+   "title": "Ariel",
+   "author": "José Enrique Rodó",
+   "kind": "本国",
+   "points": {
+    "A1": 4
+   },
+   "score": 4,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收（没有真实地点）",
+   "first_draft": "不收（没有真实地点）",
+   "note": "《观察家报》第 5；写给拉美青年的长篇散文 · Goodreads 549"
+  },
+  {
+   "title": "Stories of Love, Madness and Death",
+   "author": "Horacio Quiroga",
+   "kind": "作家故居",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "cuentos-de-amor-locura-muerte",
+   "decision": "作家故居、纪念地标注的代表作，不按选书规则评",
+   "first_draft": "",
+   "note": ""
+  },
+  {
+   "title": "Open Veins of Latin America",
+   "author": "Eduardo Galeano",
+   "kind": "作家故居",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "open-veins-of-latin-america",
+   "decision": "作家故居、纪念地标注的代表作，不按选书规则评",
+   "first_draft": "",
+   "note": ""
+  }
+ ]
+}

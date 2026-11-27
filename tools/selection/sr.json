@@ -1,0 +1,87 @@
+{
+ "cc": "sr",
+ "name": "苏里南",
+ "date": "2026-11-27",
+ "rule": "v2",
+ "sources": {
+  "A1": "没有找到苏里南本国的书单",
+  "B": "没有找到苏里南全国统一的指定书目，此类空缺",
+  "D": "thegreatestbooks.org 总榜前 2000 名",
+  "E": "Goodreads 评分人数（自动补全接口，11-27）"
+ },
+ "size_note": "规则 v2。苏里南第一次按 v2 评。已有两本都保留；候选《糖的代价》《南南西》、阿斯特丽德·罗默的书都没有够线的证据（罗默得的是作家奖，不算某本书），没有新增。原始数据：verify/src_1127/sa_small_1127.txt。",
+ "rows": [
+  {
+   "title": "Oroonoko",
+   "author": "Aphra Behn",
+   "kind": "外国",
+   "points": {
+    "D": 1,
+    "E": 1
+   },
+   "score": 2,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": "oroonoko",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "D 682 · Goodreads 17,745"
+  },
+  {
+   "title": "Candide",
+   "author": "Voltaire",
+   "kind": "外国",
+   "points": {
+    "D": 2,
+    "E": 2
+   },
+   "score": 4,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": "candide",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "D 75 · Goodreads 316,147；第 19 章写苏里南"
+  },
+  {
+   "title": "Hoe duur was de suiker",
+   "author": "Cynthia McLeod",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 2,159"
+  },
+  {
+   "title": "Zuid-Zuid-West",
+   "author": "Albert Helman",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 17"
+  },
+  {
+   "title": "Over de gekte van een vrouw",
+   "author": "Astrid Roemer",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 918"
+  }
+ ]
+}

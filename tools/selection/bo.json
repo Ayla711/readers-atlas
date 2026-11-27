@@ -1,0 +1,666 @@
+{
+ "cc": "bo",
+ "name": "玻利维亚",
+ "date": "2026-11-27",
+ "rule": "v2",
+ "sources": {
+  "A1": "卡洛斯·梅萨《玻利维亚文学十佳小说》（2004，从 91 部里评出，书里列了前 30）— 英文维基 Bolivian literature",
+  "A2": "「玻利维亚十五部奠基小说」（编委会选定，国家出版、免费发给学校，2011 年 12 月 eju.tv 报道），不分名次",
+  "B": "没有找到玻利维亚全国统一的指定书目（十五部奠基小说算 A2），此类空缺",
+  "D": "thegreatestbooks.org 总榜前 2000 名",
+  "E": "Goodreads 评分人数（自动补全接口，11-27）"
+ },
+ "size_note": "规则 v2：两项证据或进 A 名单前 10 就够格；已有的书不因分数删；不设名额。玻利维亚第一次按 v2 评。梅萨书前 10 名都够格，另有《蒂里内亚》《波托西皇城史》两份名单都有，新增共 12 本；Goodreads 人数都在 300 以下。已有书里 2 本零项（普雷斯科特《秘鲁征服史》和一本英文游记），请你定。11-27 用户定：玻利维亚只收梅萨书前 3 名（《胡安·德·拉·罗萨》《青铜种族》《恰斯卡尼亚维》）；零项的 2 本删除。原始数据：verify/src_1127/sa_small_1127.txt。",
+ "rows": [
+  {
+   "title": "Open Veins of Latin America",
+   "author": "Eduardo Galeano",
+   "kind": "外国（乌拉圭）",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": "open-veins-of-latin-america",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "Goodreads 30,340"
+  },
+  {
+   "title": "Marching Powder",
+   "author": "Rusty Young",
+   "kind": "外国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": "marching-powder",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "Goodreads 32,799"
+  },
+  {
+   "title": "History of the Conquest of Peru",
+   "author": "William H. Prescott",
+   "kind": "外国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "conquest-of-peru",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "用户同意删（11-27：南美零项的书全部删除）",
+   "note": "Goodreads 428；第二遍查了 thegreatestbooks，不在前 2000"
+  },
+  {
+   "title": "Adventures in Bolivia",
+   "author": "C. H. Prodgers",
+   "kind": "外国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "adventures-in-bolivia",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "用户同意删（11-27：南美零项的书全部删除）",
+   "note": "Goodreads 2；第二遍同上"
+  },
+  {
+   "title": "Juan de la Rosa",
+   "author": "Nataniel Aguirre",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "A2": 3
+   },
+   "score": 7,
+   "cats": [
+    "A1",
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "梅萨书第 1、十五本里有；Goodreads 143；科恰班巴"
+  },
+  {
+   "title": "Raza de bronce",
+   "author": "Alcides Arguedas",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "A2": 3
+   },
+   "score": 7,
+   "cats": [
+    "A1",
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "梅萨书第 2、十五本里有；Goodreads 266；的的喀喀湖畔"
+  },
+  {
+   "title": "La Chaskañawi",
+   "author": "Carlos Medinaceli",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "A2": 3
+   },
+   "score": 7,
+   "cats": [
+    "A1",
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "梅萨书第 3、十五本里有；Goodreads 107；地点待核"
+  },
+  {
+   "title": "Los deshabitados",
+   "author": "Marcelo Quiroga Santa Cruz",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "A2": 3
+   },
+   "score": 7,
+   "cats": [
+    "A1",
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "用户定不收：玻利维亚只收梅萨书前 3 名（11-27）",
+   "first_draft": "用户定不收：玻利维亚只收梅萨书前 3 名（11-27）",
+   "note": "梅萨书第 4、十五本里有；Goodreads 135；地点待核"
+  },
+  {
+   "title": "Aluvión de fuego",
+   "author": "Óscar Cerruto",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "A2": 3
+   },
+   "score": 7,
+   "cats": [
+    "A1",
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "用户定不收：玻利维亚只收梅萨书前 3 名（11-27）",
+   "first_draft": "用户定不收：玻利维亚只收梅萨书前 3 名（11-27）",
+   "note": "梅萨书第 5、十五本里有；Goodreads 32；地点待核"
+  },
+  {
+   "title": "Metal del diablo",
+   "author": "Augusto Céspedes",
+   "kind": "本国",
+   "points": {
+    "A1": 4
+   },
+   "score": 4,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "用户定不收：玻利维亚只收梅萨书前 3 名（11-27）",
+   "first_draft": "用户定不收：玻利维亚只收梅萨书前 3 名（11-27）",
+   "note": "梅萨书第 6；Goodreads 34；地点待核"
+  },
+  {
+   "title": "Matías, el apóstol suplente",
+   "author": "Julio de la Vega",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "A2": 3
+   },
+   "score": 7,
+   "cats": [
+    "A1",
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "用户定不收：玻利维亚只收梅萨书前 3 名（11-27）",
+   "first_draft": "用户定不收：玻利维亚只收梅萨书前 3 名（11-27）",
+   "note": "梅萨书第 7、十五本里有；Goodreads 6；地点待核"
+  },
+  {
+   "title": "Manchay Puytu",
+   "author": "Néstor Taboada Terán",
+   "kind": "本国",
+   "points": {
+    "A1": 4
+   },
+   "score": 4,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "用户定不收：玻利维亚只收梅萨书前 3 名（11-27）",
+   "first_draft": "用户定不收：玻利维亚只收梅萨书前 3 名（11-27）",
+   "note": "梅萨书第 8；Goodreads 16；波托西"
+  },
+  {
+   "title": "Felipe Delgado",
+   "author": "Jaime Saenz",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "A2": 3
+   },
+   "score": 7,
+   "cats": [
+    "A1",
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "用户定不收：玻利维亚只收梅萨书前 3 名（11-27）",
+   "first_draft": "用户定不收：玻利维亚只收梅萨书前 3 名（11-27）",
+   "note": "梅萨书第 9、十五本里有；Goodreads 52；拉巴斯"
+  },
+  {
+   "title": "Tierras hechizadas",
+   "author": "Adolfo Costa du Rels",
+   "kind": "本国",
+   "points": {
+    "A1": 4
+   },
+   "score": 4,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "用户定不收：玻利维亚只收梅萨书前 3 名（11-27）",
+   "first_draft": "用户定不收：玻利维亚只收梅萨书前 3 名（11-27）",
+   "note": "梅萨书第 10；Goodreads 5；地点待核"
+  },
+  {
+   "title": "Tirinea",
+   "author": "Jesús Urzagasti",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 3
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "用户定不收：玻利维亚只收梅萨书前 3 名（11-27）",
+   "first_draft": "用户定不收：玻利维亚只收梅萨书前 3 名（11-27）",
+   "note": "梅萨书第 12、十五本里有；Goodreads 未查到；地点待核"
+  },
+  {
+   "title": "Historia de la Villa Imperial de Potosí",
+   "author": "Bartolomé Arzáns de Orsúa y Vela",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 3
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "用户定不收：玻利维亚只收梅萨书前 3 名（11-27）",
+   "first_draft": "用户定不收：玻利维亚只收梅萨书前 3 名（11-27）",
+   "note": "梅萨书第 24、十五本里有；Goodreads 未查到；波托西"
+  },
+  {
+   "title": "La candidatura de Rojas",
+   "author": "Armando Chirveches",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "梅萨书第 11"
+  },
+  {
+   "title": "Los fundadores del alba",
+   "author": "Renato Prada Oropeza",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "梅萨书第 13"
+  },
+  {
+   "title": "En las tierras del Potosí",
+   "author": "Jaime Mendoza",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "梅萨书第 14"
+  },
+  {
+   "title": "Yanakuna",
+   "author": "Jesús Lara",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "梅萨书第 15"
+  },
+  {
+   "title": "Socavones de angustia",
+   "author": "Fernando Ramírez Velarde",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "梅萨书第 16"
+  },
+  {
+   "title": "Altiplano",
+   "author": "Raúl Botelho Gosálvez",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "梅萨书第 17"
+  },
+  {
+   "title": "La casa solariega",
+   "author": "Armando Chirveches",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "梅萨书第 18"
+  },
+  {
+   "title": "La niña de sus ojos",
+   "author": "Antonio Díaz Villamil",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "梅萨书第 19"
+  },
+  {
+   "title": "La sima fecunda",
+   "author": "Augusto Guzmán",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "梅萨书第 20"
+  },
+  {
+   "title": "Los Andes no creen en Dios",
+   "author": "Adolfo Costa du Rels",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "梅萨书第 21"
+  },
+  {
+   "title": "Mallku",
+   "author": "Gastón Suárez",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "梅萨书第 22"
+  },
+  {
+   "title": "El signo escalonado",
+   "author": "Néstor Taboada Terán",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "梅萨书第 23"
+  },
+  {
+   "title": "Su excelencia y su ilustrísima",
+   "author": "Santiago Vaca Guzmán",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "梅萨书第 25"
+  },
+  {
+   "title": "Páginas bárbaras",
+   "author": "Jaime Mendoza",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "梅萨书第 26"
+  },
+  {
+   "title": "Sangre de mestizos",
+   "author": "Augusto Céspedes",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "梅萨书第 27"
+  },
+  {
+   "title": "Repete",
+   "author": "Jesús Lara",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "梅萨书第 28"
+  },
+  {
+   "title": "Prisionero de guerra",
+   "author": "Augusto Guzmán",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "梅萨书第 29"
+  },
+  {
+   "title": "Mateo Montemayor",
+   "author": "Fernando Diez de Medina",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "梅萨书第 30"
+  },
+  {
+   "title": "Jonás y la ballena rosada",
+   "author": "Wolfango Montes",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "十五本之一"
+  },
+  {
+   "title": "El otro gallo",
+   "author": "Jorge Suárez",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "十五本之一"
+  },
+  {
+   "title": "Íntimas",
+   "author": "Adela Zamudio",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "十五本之一"
+  },
+  {
+   "title": "El Loco",
+   "author": "Arturo Borda",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "十五本之一"
+  },
+  {
+   "title": "La Virgen de las siete calles",
+   "author": "Alfredo Flores",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "十五本之一"
+  },
+  {
+   "title": "El run run de la calavera",
+   "author": "Ramón Rocha Monroy",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "十五本之一"
+  }
+ ]
+}

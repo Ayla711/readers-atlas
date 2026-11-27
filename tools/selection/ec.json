@@ -1,0 +1,170 @@
+{
+ "cc": "ec",
+ "name": "厄瓜多尔",
+ "date": "2026-11-27",
+ "rule": "v2",
+ "sources": {
+  "A1": "《周刊》2007 年「近 25 年 100 部最佳西语小说」（同阿根廷表）；没有找到厄瓜多尔本国的书单",
+  "B": "没有找到厄瓜多尔全国统一的指定书目，此类空缺",
+  "C": "罗慕洛·加列戈斯奖（同阿根廷表）",
+  "D": "thegreatestbooks.org 总榜前 2000 名",
+  "E": "Goodreads 评分人数（自动补全接口，11-27）"
+ },
+ "size_note": "规则 v2：两项证据或进 A 名单前 10 就够格；已有的书不因分数删；不设名额。厄瓜多尔第一次按 v2 评。没有找到本国书单，所以《瓦西蓬戈》这样的本国经典拿不到分，按规则不收，请你看一下。智利作家塞普尔维达的《读爱情故事的老人》写厄瓜多尔亚马孙，在这里新增。11-27 用户定：新增的一本收；零项的 2 本删除。原始数据：verify/src_1127/sa_small_1127.txt。",
+ "rows": [
+  {
+   "title": "The Land of Cinnamon",
+   "author": "William Ospina",
+   "kind": "外国（哥伦比亚）",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": "el-pais-de-la-canela",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "罗慕洛·加列戈斯奖 2009 · Goodreads 1,216"
+  },
+  {
+   "title": "Through Gates of Splendor",
+   "author": "Elisabeth Elliot",
+   "kind": "外国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": "through-gates-of-splendor",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "Goodreads 33,690"
+  },
+  {
+   "title": "The Voyage of the Beagle",
+   "author": "Charles Darwin",
+   "kind": "外国",
+   "points": {
+    "D": 1
+   },
+   "score": 1,
+   "cats": [
+    "I"
+   ],
+   "in_app": "voyage-of-the-beagle",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "D 1688 · Goodreads 8,737"
+  },
+  {
+   "title": "The Encantadas, or Enchanted Isles",
+   "author": "Herman Melville",
+   "kind": "外国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "the-encantadas",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "用户同意删（11-27：南美零项的书全部删除）",
+   "note": "Goodreads 506；第二遍查了 thegreatestbooks 梅尔维尔各书，不在前 2000"
+  },
+  {
+   "title": "My Delirium on Chimborazo",
+   "author": "Simón Bolívar",
+   "kind": "外国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "my-delirium-on-chimborazo",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "用户同意删（11-27：南美零项的书全部删除）",
+   "note": "短文；第二遍查了 thegreatestbooks，没有"
+  },
+  {
+   "title": "Un viejo que leía novelas de amor (The Old Man Who Read Love Stories)",
+   "author": "Luis Sepúlveda",
+   "kind": "外国（智利）",
+   "points": {
+    "A1": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "Semana 第 45 · Goodreads 32,894；亚马孙的埃尔伊迪利奥"
+  },
+  {
+   "title": "Huasipungo",
+   "author": "Jorge Icaza",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 1,476"
+  },
+  {
+   "title": "Mandíbula",
+   "author": "Mónica Ojeda",
+   "kind": "本国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 18,122"
+  },
+  {
+   "title": "Cumandá",
+   "author": "Juan León Mera",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 501"
+  },
+  {
+   "title": "A la costa",
+   "author": "Luis A. Martínez",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 208"
+  },
+  {
+   "title": "Las cruces sobre el agua",
+   "author": "Joaquín Gallegos Lara",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 320"
+  }
+ ]
+}

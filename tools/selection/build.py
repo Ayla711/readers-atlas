@@ -17,6 +17,7 @@ def build(spec):
     cc = spec["cc"]
     ex = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "existing.json"), encoding="utf-8")).get(cc, [])
     alias = spec.get("existing_alias", {})
+    homes = set(spec.get("homes", [cc]))   # 11-27: South America keeps its books in one shared list, data/sa
     used = set(); rows = []
     for t, a, kind, pts, dec, note in spec["rows"]:
         hit = None
@@ -42,7 +43,7 @@ def build(spec):
                          in_app=(", ".join(hit) if isinstance(hit, list) else hit), decision=new, first_draft=dec, note=note))
     for b in ex:
         if b["id"] not in used:
-            other = b.get("home") != cc
+            other = b.get("home") not in homes
             house = "line" not in b.get("via", ["line"])   # shown here only at a writer's house or memorial
             rows.append(dict(title=b.get("title"), author=b.get("author"), kind="他国书目" if other else ("作家故居" if house else "本国"),
                              points={}, score=0, cats=[], in_app=b["id"],

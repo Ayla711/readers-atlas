@@ -1,0 +1,22 @@
+SPEC=dict(cc="ec", homes=["ec", "sa"],
+name="厄瓜多尔",date="2026-11-27",
+sources={
+"A1":"《周刊》2007 年「近 25 年 100 部最佳西语小说」（同阿根廷表）；没有找到厄瓜多尔本国的书单",
+"B":"没有找到厄瓜多尔全国统一的指定书目，此类空缺",
+"C":"罗慕洛·加列戈斯奖（同阿根廷表）",
+"D":"thegreatestbooks.org 总榜前 2000 名","E":"Goodreads 评分人数（自动补全接口，11-27）",
+},
+size_note="规则 v2：两项证据或进 A 名单前 10 就够格；已有的书不因分数删；不设名额。厄瓜多尔第一次按 v2 评。没有找到本国书单，所以《瓦西蓬戈》这样的本国经典拿不到分，按规则不收，请你看一下。智利作家塞普尔维达的《读爱情故事的老人》写厄瓜多尔亚马孙，在这里新增。11-27 用户定：新增的一本收；零项的 2 本删除。原始数据：verify/src_1127/sa_small_1127.txt。",
+rows=[
+("The Land of Cinnamon","William Ospina","外国（哥伦比亚）",{"C":2},"","罗慕洛·加列戈斯奖 2009 · Goodreads 1,216"),
+("Through Gates of Splendor","Elisabeth Elliot","外国",{"E":1},"","Goodreads 33,690"),
+("The Voyage of the Beagle","Charles Darwin","外国",{"D":1},"","D 1688 · Goodreads 8,737"),
+("The Encantadas, or Enchanted Isles","Herman Melville","外国",{},"用户同意删（11-27：南美零项的书全部删除）","Goodreads 506；第二遍查了 thegreatestbooks 梅尔维尔各书，不在前 2000"),
+("My Delirium on Chimborazo","Simón Bolívar","外国",{},"用户同意删（11-27：南美零项的书全部删除）","短文；第二遍查了 thegreatestbooks，没有"),
+("Un viejo que leía novelas de amor (The Old Man Who Read Love Stories)","Luis Sepúlveda","外国（智利）",{"A1":3,"E":1},"新增","Semana 第 45 · Goodreads 32,894；亚马孙的埃尔伊迪利奥"),
+("Huasipungo","Jorge Icaza","本国",{},"","Goodreads 1,476"),
+("Mandíbula","Mónica Ojeda","本国",{"E":1},"","Goodreads 18,122"),
+("Cumandá","Juan León Mera","本国",{},"","Goodreads 501"),
+("A la costa","Luis A. Martínez","本国",{},"","Goodreads 208"),
+("Las cruces sobre el agua","Joaquín Gallegos Lara","本国",{},"","Goodreads 320"),
+])

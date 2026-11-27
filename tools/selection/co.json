@@ -1,0 +1,599 @@
+{
+ "cc": "co",
+ "name": "哥伦比亚",
+ "date": "2026-11-27",
+ "rule": "v2",
+ "sources": {
+  "A1": "「200 本书，200 年」（马尼萨莱斯书展和佩雷拉理工大学发起，国家电台、《祖国报》合办，100 多位评委，2019 年 8 月），只读到前 10 名 — radionacional.co",
+  "A2": "《世界报》2001 年「20 世纪 100 部最佳西语小说」（同阿根廷表）",
+  "A3": "《周刊》2007 年「近 25 年 100 部最佳西语小说」（同阿根廷表）",
+  "A4": "《国家报》Babelia 2016 年「近 25 年西语文学里程碑」（同阿根廷表）",
+  "B": "没有找到哥伦比亚全国统一的指定书目，此类空缺",
+  "C": "罗慕洛·加列戈斯奖、阿尔法瓜拉奖（同阿根廷表）",
+  "D": "thegreatestbooks.org 总榜前 2000 名；哥伦比亚作家榜前 43 名用来找候选",
+  "E": "Goodreads 评分人数（自动补全接口，11-27）"
+ },
+ "size_note": "规则 v2：两项证据或进 A 名单前 10 就够格；已有的书不因分数删；同一作者够格的都收；不设名额。哥伦比亚第一次按 v2 评。「200 本书，200 年」前 10 名都够格，其中 7 本应用里还没有（《漩涡》《编花冠的女人》《大房子》《音乐万岁》《秃鹫不是天天下葬》《昌戈》诗集《南方居所》《漂在自己身上的四年》），加上加西亚·马尔克斯的《没有人给他写信的上校》《爱情和其他魔鬼》《苦妓回忆录》、巴列霍《坠崖》、雷斯特雷波《谵妄》、金塔纳《深渊》，新增共 14 本，偏多，请你收窄。《族长的秋天》写的是一个虚构的加勒比国家，标“没有真实地点”。11-27 用户定：哥伦比亚只收 6 本（《漩涡》《编花冠的女人》《大房子》《坠崖》《没有人给他写信的上校》《爱情和其他魔鬼》），其余 8 本不收；零项的 1 本删除。原始数据：verify/src_1127/co_1127.txt。",
+ "rows": [
+  {
+   "title": "One Hundred Years of Solitude",
+   "author": "Gabriel García Márquez",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "A2": 3,
+    "D": 2,
+    "E": 3
+   },
+   "score": 12,
+   "cats": [
+    "A1",
+    "A2",
+    "E",
+    "I"
+   ],
+   "in_app": "one-hundred-years-of-solitude",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "D 4 · Goodreads 1,164,972"
+  },
+  {
+   "title": "Love in the Time of Cholera",
+   "author": "Gabriel García Márquez",
+   "kind": "本国",
+   "points": {
+    "A3": 4,
+    "D": 2,
+    "E": 2
+   },
+   "score": 8,
+   "cats": [
+    "A3",
+    "E",
+    "I"
+   ],
+   "in_app": "love-in-the-time-of-cholera",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "Semana 第 1；D 171 · Goodreads 569,245"
+  },
+  {
+   "title": "Chronicle of a Death Foretold",
+   "author": "Gabriel García Márquez",
+   "kind": "本国",
+   "points": {
+    "A2": 3,
+    "E": 2
+   },
+   "score": 5,
+   "cats": [
+    "A2",
+    "E"
+   ],
+   "in_app": "chronicle-of-a-death-foretold",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "Goodreads 257,611"
+  },
+  {
+   "title": "María",
+   "author": "Jorge Isaacs",
+   "kind": "本国",
+   "points": {
+    "A1": 4
+   },
+   "score": 4,
+   "cats": [
+    "A1"
+   ],
+   "in_app": "maria-isaacs",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "「200 本书」第 4 · Goodreads 8,159"
+  },
+  {
+   "title": "The Sound of Things Falling",
+   "author": "Juan Gabriel Vásquez",
+   "kind": "本国",
+   "points": {
+    "C": 2,
+    "E": 1
+   },
+   "score": 3,
+   "cats": [
+    "C",
+    "E"
+   ],
+   "in_app": "the-sound-of-things-falling",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "阿尔法瓜拉奖 2011 · Goodreads 22,962"
+  },
+  {
+   "title": "Oblivion: A Memoir",
+   "author": "Héctor Abad Faciolince",
+   "kind": "本国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": "el-olvido-que-seremos",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "Goodreads 25,123"
+  },
+  {
+   "title": "Up the Orinoco and Down the Magdalena",
+   "author": "J. A. Zahm",
+   "kind": "外国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "up-the-orinoco-and-down-the-magdalena",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "用户同意删（11-27：南美零项的书全部删除）",
+   "note": "Goodreads 0；第二遍查了 thegreatestbooks，没有"
+  },
+  {
+   "title": "La vorágine (The Vortex)",
+   "author": "José Eustasio Rivera",
+   "kind": "本国",
+   "points": {
+    "A1": 4
+   },
+   "score": 4,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "「200 本书」第 1 · Goodreads 4,615；卡萨纳雷平原、亚马孙"
+  },
+  {
+   "title": "La tejedora de coronas",
+   "author": "Germán Espinosa",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "A3": 3
+   },
+   "score": 7,
+   "cats": [
+    "A1",
+    "A3"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "「200 本书」第 3、Semana 第 20 · Goodreads 320；卡塔赫纳"
+  },
+  {
+   "title": "La casa grande",
+   "author": "Álvaro Cepeda Samudio",
+   "kind": "本国",
+   "points": {
+    "A1": 4
+   },
+   "score": 4,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "「200 本书」第 5 · Goodreads 970；谢纳加，1928 年香蕉园屠杀"
+  },
+  {
+   "title": "¡Que viva la música!",
+   "author": "Andrés Caicedo",
+   "kind": "本国",
+   "points": {
+    "A1": 4
+   },
+   "score": 4,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "用户定不收：哥伦比亚只收 6 本（11-27）",
+   "first_draft": "用户定不收：哥伦比亚只收 6 本（11-27）",
+   "note": "「200 本书」第 6 · Goodreads 4,792；卡利"
+  },
+  {
+   "title": "Cóndores no entierran todos los días",
+   "author": "Gustavo Álvarez Gardeazábal",
+   "kind": "本国",
+   "points": {
+    "A1": 4
+   },
+   "score": 4,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "用户定不收：哥伦比亚只收 6 本（11-27）",
+   "first_draft": "用户定不收：哥伦比亚只收 6 本（11-27）",
+   "note": "「200 本书」第 7 · Goodreads 971；图卢阿"
+  },
+  {
+   "title": "Changó, el gran putas",
+   "author": "Manuel Zapata Olivella",
+   "kind": "本国",
+   "points": {
+    "A1": 4
+   },
+   "score": 4,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "用户定不收：哥伦比亚只收 6 本（11-27）",
+   "first_draft": "用户定不收：哥伦比亚只收 6 本（11-27）",
+   "note": "「200 本书」第 8 · Goodreads 176；地点待核"
+  },
+  {
+   "title": "Morada al sur",
+   "author": "Aurelio Arturo",
+   "kind": "本国",
+   "points": {
+    "A1": 4
+   },
+   "score": 4,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "用户定不收：哥伦比亚只收 6 本（11-27）",
+   "first_draft": "用户定不收：哥伦比亚只收 6 本（11-27）",
+   "note": "「200 本书」第 9，诗 · Goodreads 61；纳里尼奥，地点待核"
+  },
+  {
+   "title": "Cuatro años a bordo de mí mismo",
+   "author": "Eduardo Zalamea Borda",
+   "kind": "本国",
+   "points": {
+    "A1": 4
+   },
+   "score": 4,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "用户定不收：哥伦比亚只收 6 本（11-27）",
+   "first_draft": "用户定不收：哥伦比亚只收 6 本（11-27）",
+   "note": "「200 本书」第 10 · Goodreads 205；瓜希拉"
+  },
+  {
+   "title": "El coronel no tiene quien le escriba",
+   "author": "Gabriel García Márquez",
+   "kind": "本国",
+   "points": {
+    "A2": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A2",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "Goodreads 73,837；小镇没有写名字，地点待核"
+  },
+  {
+   "title": "El desbarrancadero (The Abyss)",
+   "author": "Fernando Vallejo",
+   "kind": "本国",
+   "points": {
+    "A3": 4,
+    "A4": 3,
+    "C": 2
+   },
+   "score": 9,
+   "cats": [
+    "A3",
+    "A4",
+    "C"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "Semana 第 10、《国家报》第 16；罗慕洛·加列戈斯奖 2003 · Goodreads 2,097；麦德林"
+  },
+  {
+   "title": "Del amor y otros demonios (Of Love and Other Demons)",
+   "author": "Gabriel García Márquez",
+   "kind": "本国",
+   "points": {
+    "A3": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A3",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "Semana 第 92 · Goodreads 91,610；卡塔赫纳"
+  },
+  {
+   "title": "Memoria de mis putas tristes",
+   "author": "Gabriel García Márquez",
+   "kind": "本国",
+   "points": {
+    "A3": 3,
+    "E": 2
+   },
+   "score": 5,
+   "cats": [
+    "A3",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "用户定不收：哥伦比亚只收 6 本（11-27）",
+   "first_draft": "用户定不收：哥伦比亚只收 6 本（11-27）",
+   "note": "Semana 第 90 · Goodreads 102,040；城市没有写名字，地点待核"
+  },
+  {
+   "title": "Delirio",
+   "author": "Laura Restrepo",
+   "kind": "本国",
+   "points": {
+    "C": 2,
+    "E": 1
+   },
+   "score": 3,
+   "cats": [
+    "C",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "用户定不收：哥伦比亚只收 6 本（11-27）",
+   "first_draft": "用户定不收：哥伦比亚只收 6 本（11-27）",
+   "note": "阿尔法瓜拉奖 2004 · Goodreads 13,916；波哥大"
+  },
+  {
+   "title": "Los abismos",
+   "author": "Pilar Quintana",
+   "kind": "本国",
+   "points": {
+    "C": 2,
+    "E": 1
+   },
+   "score": 3,
+   "cats": [
+    "C",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "用户定不收：哥伦比亚只收 6 本（11-27）",
+   "first_draft": "用户定不收：哥伦比亚只收 6 本（11-27）",
+   "note": "阿尔法瓜拉奖 2021 · Goodreads 11,791；卡利"
+  },
+  {
+   "title": "El otoño del patriarca",
+   "author": "Gabriel García Márquez",
+   "kind": "本国（写虚构国家）",
+   "points": {
+    "D": 1,
+    "E": 1
+   },
+   "score": 2,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "不收（没有真实地点）",
+   "first_draft": "不收（没有真实地点）",
+   "note": "D 1599 · Goodreads 28,025；一个虚构的加勒比国家"
+  },
+  {
+   "title": "Noticia de un secuestro",
+   "author": "Gabriel García Márquez",
+   "kind": "本国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 17,305"
+  },
+  {
+   "title": "Vivir para contarla",
+   "author": "Gabriel García Márquez",
+   "kind": "本国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 13,194"
+  },
+  {
+   "title": "Relato de un náufrago",
+   "author": "Gabriel García Márquez",
+   "kind": "本国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 27,752"
+  },
+  {
+   "title": "La perra",
+   "author": "Pilar Quintana",
+   "kind": "本国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 17,122"
+  },
+  {
+   "title": "La virgen de los sicarios",
+   "author": "Fernando Vallejo",
+   "kind": "本国",
+   "points": {
+    "A3": 3
+   },
+   "score": 3,
+   "cats": [
+    "A3"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Semana 第 11 · Goodreads 5,035"
+  },
+  {
+   "title": "Empresas y tribulaciones de Maqroll el Gaviero",
+   "author": "Álvaro Mutis",
+   "kind": "本国",
+   "points": {
+    "A3": 3
+   },
+   "score": 3,
+   "cats": [
+    "A3"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Semana 第 25 · Goodreads 1,540"
+  },
+  {
+   "title": "La nieve del almirante",
+   "author": "Álvaro Mutis",
+   "kind": "本国",
+   "points": {
+    "A3": 3
+   },
+   "score": 3,
+   "cats": [
+    "A3"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Semana 第 50 · Goodreads 987"
+  },
+  {
+   "title": "Rosario Tijeras",
+   "author": "Jorge Franco",
+   "kind": "本国",
+   "points": {
+    "A3": 3
+   },
+   "score": 3,
+   "cats": [
+    "A3"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Semana 第 86 · Goodreads 4,724"
+  },
+  {
+   "title": "Cartas cruzadas",
+   "author": "Darío Jaramillo Agudelo",
+   "kind": "本国",
+   "points": {
+    "A3": 3
+   },
+   "score": 3,
+   "cats": [
+    "A3"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Semana 第 36 · Goodreads 196"
+  },
+  {
+   "title": "Angosta",
+   "author": "Héctor Abad Faciolince",
+   "kind": "本国",
+   "points": {
+    "A3": 3
+   },
+   "score": 3,
+   "cats": [
+    "A3"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Semana 第 71 · Goodreads 1,267"
+  },
+  {
+   "title": "Sin remedio",
+   "author": "Antonio Caballero",
+   "kind": "本国",
+   "points": {
+    "A3": 3
+   },
+   "score": 3,
+   "cats": [
+    "A3"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Semana 第 75 · Goodreads 684"
+  },
+  {
+   "title": "Los ejércitos",
+   "author": "Evelio Rosero",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 2,619"
+  },
+  {
+   "title": "Poems",
+   "author": "José Asunción Silva",
+   "kind": "作家故居",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "silva-poesias",
+   "decision": "作家故居、纪念地标注的代表作，不按选书规则评",
+   "first_draft": "",
+   "note": ""
+  }
+ ]
+}

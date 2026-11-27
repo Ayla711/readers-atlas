@@ -1,0 +1,575 @@
+{
+ "cc": "pe",
+ "name": "秘鲁",
+ "date": "2026-11-27",
+ "rule": "v2",
+ "sources": {
+  "A1": "《辩论》杂志 1995 年「秘鲁十佳小说」（93 位文学文化界人士投票），只核到前 4 名 — PUCP 论文转述",
+  "A2": "《商报》（利马）「近 70 年最有影响的十本短篇集」（60 位秘鲁作家投票），只核到前 3 名 — trome.com 专栏",
+  "A3": "《世界报》2001 年「20 世纪 100 部最佳西语小说」（同阿根廷表）",
+  "A4": "《周刊》2007 年「近 25 年 100 部最佳西语小说」及《国家报》2016 年名单（同阿根廷表）",
+  "B": "没有找到秘鲁全国统一的指定书目，此类空缺",
+  "C": "罗慕洛·加列戈斯奖、简明图书馆奖、埃拉尔德奖、阿尔法瓜拉奖",
+  "D": "thegreatestbooks.org 总榜前 2000 名；秘鲁作家榜前 30 名用来找候选",
+  "E": "Goodreads 评分人数（自动补全接口，11-27）"
+ },
+ "size_note": "规则 v2：两项证据或进 A 名单前 10 就够格；已有的书不因分数删；同一作者够格的都收；不设名额。秘鲁第一次按 v2 评。《辩论》和《商报》两份投票只核到前几名，进了前几名的 6 本都新增（《胡里乌斯的世界》《广漠的世界》《深沉的河流》《哑巴的话》《无辜者》《关闭的果园》）。《绿房子》只有罗慕洛·加列戈斯奖一项、塞萨尔·巴列霍的诗集一项都没有，按规则不收，这一点要请你看一下。《公羊的节日》写多米尼加、《天堂在另外那个街角》写塔希提和法国、《马丁·罗马尼亚的夸张人生》写巴黎、《世界末日之战》写巴西，标“不算秘鲁”。11-27 用户定：新增按规则全收；零项的 2 本全部删除。原始数据：verify/src_1127/pe_1127.txt。",
+ "rows": [
+  {
+   "title": "Conversation in the Cathedral",
+   "author": "Mario Vargas Llosa",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "A3": 3,
+    "D": 1,
+    "E": 1
+   },
+   "score": 9,
+   "cats": [
+    "A1",
+    "A3",
+    "E",
+    "I"
+   ],
+   "in_app": "conversation-in-the-cathedral",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "《辩论》第 4；D 1298 · Goodreads 12,729"
+  },
+  {
+   "title": "The Time of the Hero",
+   "author": "Mario Vargas Llosa",
+   "kind": "本国",
+   "points": {
+    "A3": 3,
+    "C": 2,
+    "D": 1,
+    "E": 1
+   },
+   "score": 7,
+   "cats": [
+    "A3",
+    "C",
+    "E",
+    "I"
+   ],
+   "in_app": "the-time-of-the-hero",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "简明图书馆奖 1962；D 989 · Goodreads 30,781"
+  },
+  {
+   "title": "The Bridge of San Luis Rey",
+   "author": "Thornton Wilder",
+   "kind": "外国",
+   "points": {
+    "D": 1,
+    "E": 1
+   },
+   "score": 2,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": "bridge-of-san-luis-rey",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "D 608 · Goodreads 40,197"
+  },
+  {
+   "title": "Canto General",
+   "author": "Pablo Neruda",
+   "kind": "外国（智利）",
+   "points": {
+    "D": 1
+   },
+   "score": 1,
+   "cats": [
+    "I"
+   ],
+   "in_app": "canto-general",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "D 860 · Goodreads 1,790"
+  },
+  {
+   "title": "The Motorcycle Diaries",
+   "author": "Ernesto Che Guevara",
+   "kind": "外国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": "the-motorcycle-diaries",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "Goodreads 48,547"
+  },
+  {
+   "title": "Touching the Void",
+   "author": "Joe Simpson",
+   "kind": "外国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": "touching-the-void",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "Goodreads 67,412"
+  },
+  {
+   "title": "The Voyage of the Beagle",
+   "author": "Charles Darwin",
+   "kind": "外国",
+   "points": {
+    "D": 1
+   },
+   "score": 1,
+   "cats": [
+    "I"
+   ],
+   "in_app": "voyage-of-the-beagle",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "D 1688 · Goodreads 8,737"
+  },
+  {
+   "title": "History of the Conquest of Peru",
+   "author": "William H. Prescott",
+   "kind": "外国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "conquest-of-peru",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "用户同意删（11-27：南美零项的书全部删除）",
+   "note": "Goodreads 428；第二遍查了 thegreatestbooks，不在前 2000"
+  },
+  {
+   "title": "Eight Hundred Leagues on the Amazon",
+   "author": "Jules Verne",
+   "kind": "外国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "the-giant-raft",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "用户同意删（11-27：南美零项的书全部删除）",
+   "note": "Goodreads 2,413；第二遍同上"
+  },
+  {
+   "title": "Un mundo para Julius",
+   "author": "Alfredo Bryce Echenique",
+   "kind": "本国",
+   "points": {
+    "A1": 4
+   },
+   "score": 4,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "《辩论》第 1 · Goodreads 4,176；利马"
+  },
+  {
+   "title": "El mundo es ancho y ajeno",
+   "author": "Ciro Alegría",
+   "kind": "本国",
+   "points": {
+    "A1": 4
+   },
+   "score": 4,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "《辩论》第 2 · Goodreads 647；北部安第斯，地点待核"
+  },
+  {
+   "title": "Los ríos profundos (Deep Rivers)",
+   "author": "José María Arguedas",
+   "kind": "本国",
+   "points": {
+    "A1": 4,
+    "D": 1
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "《辩论》第 3；D 1545 · Goodreads 2,720；阿班凯、库斯科"
+  },
+  {
+   "title": "La palabra del mudo",
+   "author": "Julio Ramón Ribeyro",
+   "kind": "本国",
+   "points": {
+    "A2": 4
+   },
+   "score": 4,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "《商报》短篇第 1 · Goodreads 1,271；利马"
+  },
+  {
+   "title": "Los inocentes",
+   "author": "Oswaldo Reynoso",
+   "kind": "本国",
+   "points": {
+    "A2": 4
+   },
+   "score": 4,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "《商报》短篇第 2 · Goodreads 807；利马"
+  },
+  {
+   "title": "Huerto cerrado",
+   "author": "Alfredo Bryce Echenique",
+   "kind": "本国",
+   "points": {
+    "A2": 4
+   },
+   "score": 4,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "《商报》短篇第 3 · Goodreads 138；利马"
+  },
+  {
+   "title": "Lituma en los Andes (Death in the Andes)",
+   "author": "Mario Vargas Llosa",
+   "kind": "本国",
+   "points": {
+    "A3": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A3",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "新增",
+   "note": "Goodreads 10,172；中部安第斯，地点待核"
+  },
+  {
+   "title": "La casa verde (The Green House)",
+   "author": "Mario Vargas Llosa",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "罗慕洛·加列戈斯奖 1967 · Goodreads 5,748"
+  },
+  {
+   "title": "Pantaleón y las visitadoras",
+   "author": "Mario Vargas Llosa",
+   "kind": "本国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 13,850"
+  },
+  {
+   "title": "La tía Julia y el escribidor",
+   "author": "Mario Vargas Llosa",
+   "kind": "本国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 24,965"
+  },
+  {
+   "title": "Travesuras de la niña mala",
+   "author": "Mario Vargas Llosa",
+   "kind": "本国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 53,677"
+  },
+  {
+   "title": "El sueño del celta",
+   "author": "Mario Vargas Llosa",
+   "kind": "本国（写刚果、爱尔兰、亚马孙）",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 10,812"
+  },
+  {
+   "title": "No me esperen en abril",
+   "author": "Alfredo Bryce Echenique",
+   "kind": "本国",
+   "points": {
+    "A4": 3
+   },
+   "score": 3,
+   "cats": [
+    "A4"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Semana 第 63 · Goodreads 552"
+  },
+  {
+   "title": "La hora azul",
+   "author": "Alonso Cueto",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "埃拉尔德奖 2005 · Goodreads 1,478"
+  },
+  {
+   "title": "Abril rojo",
+   "author": "Santiago Roncagliolo",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "阿尔法瓜拉奖 2006 · Goodreads 4,318"
+  },
+  {
+   "title": "Cien cuyes",
+   "author": "Gustavo Rodríguez",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "阿尔法瓜拉奖 2023 · Goodreads 4,337"
+  },
+  {
+   "title": "La noche es virgen",
+   "author": "Jaime Bayly",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "埃拉尔德奖 1997 · Goodreads 883"
+  },
+  {
+   "title": "Los heraldos negros",
+   "author": "César Vallejo",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 1,424"
+  },
+  {
+   "title": "Trilce",
+   "author": "César Vallejo",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 1,691"
+  },
+  {
+   "title": "Todas las sangres",
+   "author": "José María Arguedas",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 287"
+  },
+  {
+   "title": "Comentarios reales",
+   "author": "Inca Garcilaso de la Vega",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 572"
+  },
+  {
+   "title": "La fiesta del chivo (The Feast of the Goat)",
+   "author": "Mario Vargas Llosa",
+   "kind": "本国（写多米尼加）",
+   "points": {
+    "A4": 4,
+    "D": 1,
+    "E": 1
+   },
+   "score": 6,
+   "cats": [
+    "A4",
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "不算秘鲁",
+   "first_draft": "不算秘鲁",
+   "note": "Semana 第 2、《国家报》第 1；写多米尼加"
+  },
+  {
+   "title": "El paraíso en la otra esquina",
+   "author": "Mario Vargas Llosa",
+   "kind": "本国（写塔希提、法国）",
+   "points": {
+    "A4": 3
+   },
+   "score": 3,
+   "cats": [
+    "A4"
+   ],
+   "in_app": null,
+   "decision": "不算秘鲁",
+   "first_draft": "不算秘鲁",
+   "note": ""
+  },
+  {
+   "title": "La vida exagerada de Martín Romaña",
+   "author": "Alfredo Bryce Echenique",
+   "kind": "本国（写巴黎）",
+   "points": {
+    "A3": 3,
+    "A4": 3
+   },
+   "score": 6,
+   "cats": [
+    "A3",
+    "A4"
+   ],
+   "in_app": null,
+   "decision": "不算秘鲁",
+   "first_draft": "不算秘鲁",
+   "note": "写巴黎"
+  },
+  {
+   "title": "La guerra del fin del mundo (The War of the End of the World)",
+   "author": "Mario Vargas Llosa",
+   "kind": "本国（写巴西）",
+   "points": {
+    "D": 1
+   },
+   "score": 1,
+   "cats": [
+    "I"
+   ],
+   "in_app": null,
+   "decision": "不算秘鲁",
+   "first_draft": "不算秘鲁",
+   "note": "D 1241；写巴西卡努杜斯，可转给巴西评"
+  },
+  {
+   "title": "Peruvian Traditions",
+   "author": "Ricardo Palma",
+   "kind": "作家故居",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "tradiciones-peruanas",
+   "decision": "作家故居、纪念地标注的代表作，不按选书规则评",
+   "first_draft": "",
+   "note": ""
+  }
+ ]
+}

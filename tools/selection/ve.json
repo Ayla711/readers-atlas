@@ -1,0 +1,194 @@
+{
+ "cc": "ve",
+ "name": "委内瑞拉",
+ "date": "2026-11-27",
+ "rule": "v2",
+ "sources": {
+  "A1": "《周刊》2007 年「近 25 年 100 部最佳西语小说」（同阿根廷表）；没有找到委内瑞拉本国的书单",
+  "B": "没有找到委内瑞拉全国统一的指定书目，此类空缺",
+  "C": "罗慕洛·加列戈斯奖、埃拉尔德奖（同阿根廷表）",
+  "D": "thegreatestbooks.org 总榜前 2000 名",
+  "E": "Goodreads 评分人数（自动补全接口，11-27）"
+ },
+ "size_note": "规则 v2：两项证据或进 A 名单前 10 就够格；已有的书不因分数删；不设名额。委内瑞拉第一次按 v2 评。没有找到本国书单，《堂娜芭芭拉》只有 Goodreads 6,460 人，一项都没有，按规则不收，这一点要请你看一下。《时间里的访问》写 16 世纪的西班牙和佛兰德斯，标“不算”。已有书里 3 本游记零项，请你定。11-27 用户定：破例收《堂娜芭芭拉》；零项的 3 本游记删除。原始数据：verify/src_1127/sa_small_1127.txt。",
+ "rows": [
+  {
+   "title": "The Lost World",
+   "author": "Arthur Conan Doyle",
+   "kind": "外国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": "the-lost-world",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "Goodreads 75,402"
+  },
+  {
+   "title": "Personal Narrative of Travels to the Equinoctial Regions of America",
+   "author": "Alexander von Humboldt",
+   "kind": "外国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "personal-narrative",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "用户同意删（11-27：南美零项的书全部删除）",
+   "note": "Goodreads 309；总榜 1999 名是《宇宙》，不算这本"
+  },
+  {
+   "title": "The Discovery of Guiana",
+   "author": "Walter Raleigh",
+   "kind": "外国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "discovery-of-guiana",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "用户同意删（11-27：南美零项的书全部删除）",
+   "note": "Goodreads 101；第二遍查了 thegreatestbooks，没有"
+  },
+  {
+   "title": "Up the Orinoco and Down the Magdalena",
+   "author": "J. A. Zahm",
+   "kind": "外国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "up-the-orinoco-and-down-the-magdalena",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "用户同意删（11-27：南美零项的书全部删除）",
+   "note": "Goodreads 0；第二遍同上"
+  },
+  {
+   "title": "Doña Bárbara",
+   "author": "Rómulo Gallegos",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "破例收（11-27 用户：委内瑞拉按规则一本新书都没有，破例收国民小说《堂娜芭芭拉》）",
+   "first_draft": "破例收（11-27 用户：委内瑞拉按规则一本新书都没有，破例收国民小说《堂娜芭芭拉》）",
+   "note": "Goodreads 6,460；阿普雷平原"
+  },
+  {
+   "title": "Green Mansions",
+   "author": "W. H. Hudson",
+   "kind": "外国",
+   "points": {
+    "D": 1
+   },
+   "score": 1,
+   "cats": [
+    "I"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "D 985；写委内瑞拉圭亚那的森林 · Goodreads 3,410"
+  },
+  {
+   "title": "El rastro",
+   "author": "Jorge Gómez Jiménez",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Semana 第 31"
+  },
+  {
+   "title": "La enfermedad",
+   "author": "Alberto Barrera Tyszka",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "埃拉尔德奖 2006 · Goodreads 806"
+  },
+  {
+   "title": "Las lanzas coloradas",
+   "author": "Arturo Uslar Pietri",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 1,094"
+  },
+  {
+   "title": "Las memorias de Mamá Blanca",
+   "author": "Teresa de la Parra",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 865"
+  },
+  {
+   "title": "Canaima",
+   "author": "Rómulo Gallegos",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 310"
+  },
+  {
+   "title": "País portátil",
+   "author": "Adriano González León",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 113"
+  },
+  {
+   "title": "La visita en el tiempo",
+   "author": "Arturo Uslar Pietri",
+   "kind": "本国（写西班牙、佛兰德斯）",
+   "points": {
+    "A1": 3,
+    "C": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不算委内瑞拉",
+   "first_draft": "不算委内瑞拉",
+   "note": "Semana 第 38；罗慕洛·加列戈斯奖 1991"
+  }
+ ]
+}
