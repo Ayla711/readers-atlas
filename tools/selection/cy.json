@@ -1,0 +1,450 @@
+{
+ "cc": "cy",
+ "name": "塞浦路斯",
+ "date": "2026-11-27",
+ "rule": "v2",
+ "sources": {
+  "A": "没有找到全国性的「最佳书」名单或读者投票（11-27 查过希腊语、土耳其语和英语来源；书店分类页、一位老师选的「12 首诗」、旅游书单、几人投票的 Goodreads 书单都不算；verify/src_1125/cy_lists.txt），此类空缺",
+  "B": "塞浦路斯共和国教育部高中文学大纲（共同课 2016–18、方向课 2016–18）：共同课「讲授」篇目记 2，「建议」篇目和方向课「几选一读整本」记 1；土族塞人学校的文学篇目没有找到（verify/src_1125/cy_curriculum.txt）",
+  "C": "塞浦路斯共和国国家文学奖（按书查，希腊文维基和报道）和欧盟文学奖的塞浦路斯得主（英文维基 11-27）",
+  "BK": "挪威世界文库 100 本里没有塞浦路斯作品；写到塞浦路斯的外国书里，奥维德《变形记》在文库里",
+  "D": "thegreatestbooks.org 总榜前 2000 名（11-25 逐页读完，11-27 查「故事在塞浦路斯」页）：没有塞浦路斯作者；写到塞浦路斯的外国书有《奥赛罗》（第 1072）、《出埃及记》（第 1297）、《变形记》（第 194）、塞弗里斯《航海日志》（第 1685）",
+  "E": "Goodreads 评分人数（自动补全接口，11-27；verify/src_1125/cy_goodreads.tsv）"
+ },
+ "size_note": "规则 v2：两项证据或进 A 名单前 10 就够格；不设名额。塞浦路斯第一次评。没有 A 名单。本国书只有哈拉兰比季斯的诗集《女王法马古斯塔》够格（方向课选读 + 国家诗歌奖）。外国书有三本够格：《奥赛罗》（已在意大利数据里）、奥维德《变形记》（已在意大利数据里）、尤里斯《出埃及记》（新书）。11-27 用户定：收《女王法马古斯塔》和《奥赛罗》，《变形记》《出埃及记》不收；另破例收沙法克《失落之树岛》（只有 Goodreads 一项）。",
+ "rows": [
+  {
+   "title": "Famagusta Regina (Ammochostos Vasilevousa)",
+   "author": "Kyriakos Charalambides",
+   "kind": "本国",
+   "points": {
+    "B": 1,
+    "C": 2
+   },
+   "score": 3,
+   "cats": [
+    "B",
+    "C"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "1982 年诗集，写 1974 年失去的家乡法马古斯塔；高中方向课「塞浦路斯文学」四选一读整本；塞浦路斯国家诗歌奖；不在 D 前 2000 · Goodreads 5"
+  },
+  {
+   "title": "Letters to Mother (Grammata sti mitera)",
+   "author": "Costas Montis",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "诗集三部（1965、1972、1980）；共同课讲授《第二封给母亲的信》，方向课四选一；不在 D 前 2000 · Goodreads 1"
+  },
+  {
+   "title": "Closed Doors (Kleistes portes)",
+   "author": "Costas Montis",
+   "kind": "本国",
+   "points": {
+    "B": 1
+   },
+   "score": 1,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "1964 年小说，写 1955–59 年的反英斗争；方向课四选一、共同课建议篇目；不在 D 前 2000 · Goodreads 12"
+  },
+  {
+   "title": "The 9th of July 1821 (I 9i Iouliou)",
+   "author": "Vasilis Michaelides",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "方言叙事长诗，写 1821 年尼科西亚的屠杀；共同课讲授；不在 D 前 2000 · Goodreads 2（诗集）"
+  },
+  {
+   "title": "Love Poems (Rimes agapis)",
+   "author": "Anonymous (16th century)",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "威尼斯统治时期的塞浦路斯方言十四行诗集；共同课讲授两首；不在 D 前 2000 · 查不到 Goodreads"
+  },
+  {
+   "title": "Digenis (O Dienis)",
+   "author": "Folk song",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "民歌；共同课讲授；不在 D 前 2000 · 查不到 Goodreads"
+  },
+  {
+   "title": "The Orange Grove (O portokalokipos)",
+   "author": "G. Philippou Pierides",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "短篇；共同课讲授；不在 D 前 2000 · Goodreads 6（《时代四部曲》英译本）"
+  },
+  {
+   "title": "Cypriot Symphony (Kypriaki symfonia)",
+   "author": "Theodosis Pierides",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "长诗；共同课讲授；不在 D 前 2000 · 查不到 Goodreads"
+  },
+  {
+   "title": "Like a Dog (Sa skyli)",
+   "author": "Nikos Nikolaidis",
+   "kind": "本国",
+   "points": {
+    "B": 2
+   },
+   "score": 2,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "短篇；共同课讲授；不在 D 前 2000 · 查不到 Goodreads"
+  },
+  {
+   "title": "Deposition (Katathesi)",
+   "author": "Pantelis Michanikos",
+   "kind": "本国",
+   "points": {
+    "B": 1
+   },
+   "score": 1,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "诗集；方向课四选一；不在 D 前 2000 · Goodreads 3"
+  },
+  {
+   "title": "Posthumously Deformed (Metathanatios aposchimatistheis)",
+   "author": "Andreas Pastellas",
+   "kind": "本国",
+   "points": {
+    "B": 1
+   },
+   "score": 1,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "诗集；方向课四选一（他获国家奖的是另一本《离散的空间》）；不在 D 前 2000 · 查不到 Goodreads"
+  },
+  {
+   "title": "Cypriot Songs (Tzypriotika traoudkia)",
+   "author": "Dimitris Lipertis",
+   "kind": "本国",
+   "points": {
+    "B": 1
+   },
+   "score": 1,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "方言诗；共同课建议篇目；不在 D 前 2000 · 查不到 Goodreads"
+  },
+  {
+   "title": "Thersandros",
+   "author": "Epameinondas Frangoudis",
+   "kind": "本国",
+   "points": {
+    "B": 1
+   },
+   "score": 1,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "1847 年，塞浦路斯第一部小说；方向课可替换篇目；不在 D 前 2000 · 查不到 Goodreads"
+  },
+  {
+   "title": "Refugee in My Own Land (Prosfygas ston topo mou)",
+   "author": "Rina Katselli",
+   "kind": "本国",
+   "points": {
+    "B": 1
+   },
+   "score": 1,
+   "cats": [
+    "B"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "1974 年后的回忆；共同课建议篇目；不在 D 前 2000 · 查不到 Goodreads"
+  },
+  {
+   "title": "Diary of an Infidelity (Imerologio mias apistias)",
+   "author": "Emilios Solomou",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2013 年欧盟文学奖；不在 D 前 2000 · Goodreads 144"
+  },
+  {
+   "title": "The Experiment (To peirama)",
+   "author": "Myrto Azina Chronides",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2010 年欧盟文学奖；不在 D 前 2000 · Goodreads 75"
+  },
+  {
+   "title": "The Day the River Froze (Ti mera pou pagose o potamos)",
+   "author": "Stavros Christodoulou",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2020 年欧盟文学奖；不在 D 前 2000 · Goodreads 48"
+  },
+  {
+   "title": "An Album of Stories (Ena alpoum istories)",
+   "author": "Antonis Georgiou",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2016 年欧盟文学奖；不在 D 前 2000 · 查不到 Goodreads"
+  },
+  {
+   "title": "Outpost (Fylakio)",
+   "author": "Hari N. Spanou",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2023 年欧盟文学奖；不在 D 前 2000 · 查不到 Goodreads"
+  },
+  {
+   "title": "Master Batistas (O Afentis Batistas)",
+   "author": "Costas Montis",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "1980 年代自传体历史小说，得的是塞浦路斯作家协会奖（不是国家奖）；不在课纲里；不在 D 前 2000 · Goodreads 37"
+  },
+  {
+   "title": "Othello",
+   "author": "William Shakespeare",
+   "kind": "外国",
+   "points": {
+    "D": 1,
+    "E": 2
+   },
+   "score": 3,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "D 1072 · Goodreads 452,048；书已在意大利数据里（威尼斯）；第二幕起故事搬到塞浦路斯的港口，传统上指法马古斯塔（「奥赛罗塔」）"
+  },
+  {
+   "title": "Metamorphoses",
+   "author": "Ovid",
+   "kind": "外国",
+   "points": {
+    "BK": 3,
+    "D": 2,
+    "E": 1
+   },
+   "score": 6,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "用户定不收：塞浦路斯只收本国一本和《奥赛罗》（11-27）",
+   "first_draft": "用户定不收：塞浦路斯只收本国一本和《奥赛罗》（11-27）",
+   "note": "BK · D 194 · Goodreads 81,710；书已在意大利数据里；第十卷皮格马利翁是塞浦路斯人，他女儿帕福斯给岛上的城市留下名字"
+  },
+  {
+   "title": "Exodus",
+   "author": "Leon Uris",
+   "kind": "外国",
+   "points": {
+    "D": 1,
+    "E": 2
+   },
+   "score": 3,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "用户定不收：塞浦路斯只收本国一本和《奥赛罗》（11-27）",
+   "first_draft": "用户定不收：塞浦路斯只收本国一本和《奥赛罗》（11-27）",
+   "note": "D 1297 · Goodreads 102,235；新书；开篇几章在塞浦路斯（卡拉奥洛斯难民营、法马古斯塔），主体在巴勒斯坦"
+  },
+  {
+   "title": "The Island of Missing Trees",
+   "author": "Elif Shafak",
+   "kind": "外国",
+   "points": {
+    "E": 2
+   },
+   "score": 2,
+   "cats": [
+    "E"
+   ],
+   "in_app": null,
+   "decision": "破例收（11-27 用户选定）",
+   "first_draft": "破例收（11-27 用户选定）",
+   "note": "2021 年；1974 年前后尼科西亚的一棵无花果树和一对希族、土族恋人；只有 Goodreads 一项（192,616）；不在 D 前 2000（第 17333）"
+  },
+  {
+   "title": "The Sunrise",
+   "author": "Victoria Hislop",
+   "kind": "外国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "2014 年；1972–74 年的法马古斯塔；只有 Goodreads 一项（13,340）；不在 D 前 2000"
+  },
+  {
+   "title": "Logbook III (Imerologio katastromatos III)",
+   "author": "George Seferis",
+   "kind": "外国",
+   "points": {
+    "D": 1
+   },
+   "score": 1,
+   "cats": [
+    "I"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "1955 年诗集，写塞浦路斯（普拉特雷斯的夜莺、萨拉米斯）；D 1685（《航海日志》）· Goodreads 448（诗全集）；塞弗里斯已在希腊数据里"
+  },
+  {
+   "title": "Bitter Lemons",
+   "author": "Lawrence Durrell",
+   "kind": "外国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "1957 年，作者在凯里尼亚附近贝拉佩斯村的三年；初中课本有节选（不计分）；不在 D 前 2000 · Goodreads 3,036"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+# B: Ministry of Education of the Republic of Cyprus (moec.gov.cy), lyceum literature programmes, read 11-27:
+# (1) "Αναλυτικό Πρόγραμμα Λογοτεχνίας Κοινού Κορμού" (A and B Lyceum 2016-17, C Lyceum 2017-18)
+#     https://www.moec.gov.cy/analytika_programmata/deiktes_epitychias_eparkeias/per_lyk_logotechnia_kk.pdf
+# (2) "Αναλυτικό Πρόγραμμα Λογοτεχνίας Προσανατολισμού/Εμβάθυνσης" (B Lyceum 2016-17, C Lyceum 2017-18)
+#     https://www.moec.gov.cy/analytika_programmata/deiktes_epitychias_eparkeias/per_lyk_logotechnia_kat.pdf
+# Texts from the ministry's anthology "Κείμενα Κυπριακής Λογοτεχνίας" (ΚΚΛ Α΄ 2015, Β΄ 2012).
+# Scored 2 = taught (x) in (1): A: "Ο Διενής" (folk), "Ρίμες αγάπης" (two poems), Β. Μιχαηλίδης "Η 9η Ιουλίου";
+#   B: Ν. Νικολαΐδης "Σα σκυλί", Θ. Πιερίδης "Κυπριακή συμφωνία", Μ. Κράλης, Κ. Χρυσάνθης, poets of the Independence
+#   generation (choice of 3-4); C: Κ. Μόντης "Δεύτερο γράμμα στη μητέρα, θ΄", "Έλληνες ποιητές", "Της εισβολής";
+#   Π. Μηχανικός "Ένα τραγούδι για τον Ριμαχό"; Κ. Χαραλαμπίδης "Στα στέφανα της κόρης του"; Γ. Φ. Πιερίδης "Ο πορτοκαλόκηπος".
+# Scored 1 = suggested in (1), or one of several in (2): (2) C Lyceum "Η Λογοτεχνία της Κύπρου", one whole work chosen of
+#   Κ. Μόντης "Γράμματα στη μητέρα" (excerpt) or "Οι Κλειστές πόρτες"; Π. Μηχανικός "Κατάθεση"; Κ. Χαραλαμπίδης "Αμμόχωστος
+#   Βασιλεύουσα"; Α. Παστελλάς "Μεταθανατίως αποσχηματισθείς". (1) suggestions: Δ. Λιπέρτης poems, Μιχαηλίδης "Η ανεράδα",
+#   Κ. Μόντης "Κλειστές πόρτες" (excerpt), Ρ. Κατσελλή "Πρόσφυγας στον τόπο μου"; (2) B: Ε. Φραγκούδης "Ο Θέρσανδρος" (alternative).
+# Not scored: reading-club catalogues (optional); gymnasium programme (lower secondary; has excerpts of Durrell's Bitter
+#   Lemons and Montis's Closed Doors) https://www.moec.gov.cy/analytika_programmata/deiktes_epitychias_eparkeias/dee_gym_logotechnia.pdf
+# Turkish Cypriot schools: no programme of the Turkish Cypriot education authorities with set literary works was found;
+#   Turkish Cypriot writers (Baybars, Selçuk, Yaşın, Levent, Nesim) appear in (1) only as suggestions for music/reading.
+# C: Republic of Cyprus State Prizes for Literature (Κρατικά Βραβεία Λογοτεχνίας; checked for the books above in el.wikipedia
+#   and press: Χαραλαμπίδης "Αμμόχωστος Βασιλεύουσα" won the State Prize for Poetry, el.wikipedia and Τα Νέα 2024-07-18) and
+#   the EU Prize for Literature's Cypriot winners (en.wikipedia 11-27: 2010 Azina Chronides, 2013 Solomou, 2016 Georgiou,
+#   2020 Christodoulou, 2023 Spanou).
