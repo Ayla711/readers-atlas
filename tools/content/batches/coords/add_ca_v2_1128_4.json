@@ -1,0 +1,6 @@
+{
+ "ca-orillia": {"lat": 44.60417, "lon": -79.42389, "st": "en.wikipedia \"Orillia\" coordinates", "su": "https://en.wikipedia.org/wiki/Orillia"},
+ "ca-parliament-hill": {"lat": 45.42472, "lon": -75.69944, "st": "en.wikipedia \"Parliament Hill\" coordinates", "su": "https://en.wikipedia.org/wiki/Parliament_Hill"},
+ "ca-sainte-marie": {"lat": 44.73417, "lon": -79.84528, "st": "en.wikipedia \"Sainte-Marie among the Hurons\" coordinates", "su": "https://en.wikipedia.org/wiki/Sainte-Marie_among_the_Hurons"},
+ "ca-essex-county": {"lat": 42.17528, "lon": -82.78056, "st": "en.wikipedia \"Essex County, Ontario\" coordinates", "su": "https://en.wikipedia.org/wiki/Essex_County,_Ontario"}
+}

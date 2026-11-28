@@ -1829,3 +1829,7 @@
 | Elgin Theatre, Toronto | Geo Swan | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Front_Facade_for_the_Elgin_and_Winter_Gardens_theatres,_Yonge_Street,_Toronto_-e.jpg) |
 | Toronto Islands | shankar s. | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:A_lovely_cottage_on_Ward%27s_Island_(27864695136).jpg) |
 | Erindale College (University of Toronto Mississauga) | Siqbal at English Wikipedia | [Public domain](https://en.wikipedia.org/wiki/Public_domain) | [Commons](https://commons.wikimedia.org/wiki/File:University_of_Toronto_at_Mississauga.JPG) |
+| Orillia, Ontario | Jcart1534 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Stephen_Leacock_House_Orillia.jpg) |
+| Parliament Hill, Ottawa | DXR | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Centre_Block,_Ottawa,_Southeast_view_20170422_1.jpg) |
+| Sainte-Marie among the Hurons | Pjposullivan | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Sainte-Marie_among_the_Hurons_native_section.JPG) |
+| Essex County, Ontario | Andrea_44 | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:The_sky_over_Essex_County_today_(3629337607).jpg) |
