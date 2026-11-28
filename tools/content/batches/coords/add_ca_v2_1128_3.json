@@ -1,0 +1,7 @@
+{
+ "ca-bloor-viaduct": {"lat": 43.67528, "lon": -79.36389, "st": "en.wikipedia \"Prince Edward Viaduct\" coordinates", "su": "https://en.wikipedia.org/wiki/Prince_Edward_Viaduct"},
+ "ca-high-park": {"lat": 43.646821, "lon": -79.462996, "st": "en.wikipedia \"High Park\" coordinates", "su": "https://en.wikipedia.org/wiki/High_Park"},
+ "ca-elgin-theatre": {"lat": 43.65306, "lon": -79.37917, "st": "en.wikipedia \"Elgin and Winter Garden Theatres\" coordinates", "su": "https://en.wikipedia.org/wiki/Elgin_and_Winter_Garden_Theatres"},
+ "ca-toronto-islands": {"lat": 43.62083, "lon": -79.37861, "st": "en.wikipedia \"Toronto Islands\" coordinates", "su": "https://en.wikipedia.org/wiki/Toronto_Islands"},
+ "ca-erindale": {"lat": 43.54833, "lon": -79.66333, "st": "en.wikipedia \"University of Toronto Mississauga\" coordinates", "su": "https://en.wikipedia.org/wiki/University_of_Toronto_Mississauga"}
+}

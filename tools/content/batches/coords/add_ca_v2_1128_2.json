@@ -1,0 +1,5 @@
+{
+ "ca-saint-laurent": {"lat": 45.509873, "lon": -73.563768, "st": "en.wikipedia \"Red-Light District, Montreal\" coordinates (Saint Laurent Boulevard at Saint Catherine Street)", "su": "https://en.wikipedia.org/wiki/Red-Light_District,_Montreal"},
+ "ca-saint-henri": {"lat": 45.47716, "lon": -73.58651, "st": "en.wikipedia \"Saint-Henri, Montreal\" coordinates", "su": "https://en.wikipedia.org/wiki/Saint-Henri,_Montreal"},
+ "ca-knowlton": {"lat": 45.21722, "lon": -72.51861, "st": "en.wikipedia \"Knowlton, Quebec\" coordinates", "su": "https://en.wikipedia.org/wiki/Knowlton,_Quebec"}
+}
