@@ -1,0 +1,665 @@
+加拿大选书复核原始数据（2026-11-28，规则 v2）
+
+== A1 CBC Books「100 novels that make you proud to be Canadian」（2014，2017 重发，不排名）
+CBC 原页 403（Akamai）打不开；按 thegreatestbooks.org/lists/501 抄本（99 本）+ 漏掉的 What We All Long For（Dionne Brand）。Someone Knows My Name = The Book of Negroes。
+  419 — Will Ferguson
+  A Complicated Kindness — Miriam Toews
+  A Fine Balance — Rohinton Mistry
+  A Season in the Life of Emmanuel — Marie-Claire Blais
+  A Sunday at the Pool in Kigali — Gil Courtemanche
+  A Tale for the Time Being — Ruth Ozeki
+  Alias Grace — Margaret Atwood
+  Annabel — Kathleen Winter
+  Away — Jane Urquhart
+  Barney's Version — Mordecai Richler
+  Bear — Marian Engel
+  Beautiful Losers — Leonard Cohen
+  Bone and Bread — Saleema Nawaz
+  Brown Girl in the Ring — Nalo Hopkinson
+  By Grand Central Station I Sat Down and Wept — Elizabeth Smart
+  Cereus Blooms at Night — Shani Mootoo
+  Certainty — Madeleine Thien
+  Come, Thou Tortoise — Jessica Grant
+  Creation — Katherine Govier
+  Crow Lake — Mary Lawson
+  De Niro's Game — Rawi Hage
+  Elizabeth and After — Matt Cohen
+  The Collected Essex County — Jeff Lemire
+  Fall on Your Knees — Ann-Marie MacDonald
+  February — Lisa Moore
+  Fifth Business — Robertson Davies
+  Forty Words for Sorrow — Giles Blunt
+  Fruit — Brian Francis
+  Fugitive Pieces — Anne Michaels
+  Funny Boy — Shyam Selvadurai
+  Galore — Michael Crummey
+  Generation X — Douglas Coupland
+  George & Rue — George Elliott Clarke
+  Green Grass, Running Water — Thomas King
+  Half-Blood Blues — Esi Edugyan
+  Holding Still for as Long as Possible — Zoe Whittall
+  How to Make Love to a Negro Without Getting Tired — Dany Laferrière
+  In the Skin of a Lion — Michael Ondaatje
+  Indian Horse — Richard Wagamese
+  Kamouraska — Anne Hébert
+  Kiss of the Fur Queen — Tomson Highway
+  Kit's Law — Donna Morrissey
+  Late Nights on Air — Elizabeth Hay
+  Life of Pi — Yann Martel
+  Lives of the Saints — Nino Ricci
+  Lost Girls — Andrew Pyper
+  Lullabies for Little Criminals — Heather O'Neill
+  Mercy Among the Children — David Adams Richards
+  Monkey Beach — Eden Robinson
+  Neuromancer — William Gibson
+  No Great Mischief — Alistair MacLeod
+  No Time for Goodbye — Linwood Barclay
+  Obasan — Joy Kogawa
+  Room — Emma Donoghue
+  Ru — Kim Thúy
+  Scott Pilgrim's Precious Little Life — Bryan Lee O'Malley
+  Secret Daughter — Shilpi Somaya Gowda
+  Six Metres of Pavement — Farzana Doctor
+  Skim — Mariko Tamaki
+  Spin — Robert Charles Wilson
+  Still Life — Louise Penny
+  Sunshine Sketches of a Little Town — Stephen Leacock
+  Swamp Angel — Ethel Wilson
+  Sweetness in the Belly — Camilla Gibb
+  The Amazing Absorbing Boy — Rabindranath Maharaj
+  The Antagonist — Lynn Coady
+  The Best Laid Plans — Terry Fallis
+  The Birth House — Ami McKay
+  The Bishop's Man — Linden MacIntyre
+  The Book of Negroes — Lawrence Hill
+  The Book of Secrets — M. G. Vassanji
+  The Cellist of Sarajevo — Steven Galloway
+  The Colony of Unrequited Dreams — Wayne Johnston
+  The Cure for Death by Lightning — Gail Anderson-Dargatz
+  The Double Hook — Sheila Watson
+  The Englishman's Boy — Guy Vanderhaeghe
+  The Golden Mean — Annabel Lyon
+  The Handmaid's Tale — Margaret Atwood
+  The Hero's Walk — Anita Rau Badami
+  The Jade Peony — Wayson Choy
+  The Lesser Blessed — Richard Van Camp
+  The Little Girl Who Was Too Fond of Matches — Gaétan Soucy
+  The Luminaries — Eleanor Catton
+  The Mistress of Nothing — Kate Pullinger
+  The Orenda — Joseph Boyden
+  The Outlander — Gil Adamson
+  The Polished Hoe — Austin Clarke
+  The Romantic — Barbara Gowdy
+  The Sisters Brothers — Patrick deWitt
+  The Stone Angel — Margaret Laurence
+  The Stone Diaries — Carol Shields
+  The Time in Between — David Bergen
+  The Wars — Timothy Findley
+  The Wives of Bath — Susan Swan
+  Three Day Road — Joseph Boyden
+  Tigana — Guy Gavriel Kay
+  Two Solitudes — Hugh MacLennan
+  Whale Music — Paul Quarrington
+  What the Body Remembers — Shauna Singh Baldwin
+  What We All Long For — Dionne Brand
+
+== A2 Literary Review of Canada「LRC 100」（2006-01 / 2006-03，按年代排）
+https://reviewcanada.ca/magazine/2006/01/the-lrc-100-part-one/ ；https://reviewcanada.ca/magazine/2006/03/the-lrc-100-part-two/
+文学、叙事类（算候选）：
+  A Fine Balance — Rohinton Mistry
+  A Season in the Life of Emmanuel — Marie-Claire Blais
+  Bear — Marian Engel
+  Fifth Business — Robertson Davies
+  Green Grass, Running Water — Thomas King
+  Neuromancer — William Gibson
+  Obasan — Joy Kogawa
+  Sunshine Sketches of a Little Town — Stephen Leacock
+  The Colony of Unrequited Dreams — Wayne Johnston
+  The Handmaid's Tale — Margaret Atwood
+  The Jade Peony — Wayson Choy
+  The Stone Angel — Margaret Laurence
+  The Stone Diaries — Carol Shields
+  The Wars — Timothy Findley
+  Two Solitudes — Hugh MacLennan
+  Voyages — Jacques Cartier
+  A Journey from Prince of Wales's Fort — Samuel Hearne
+  Wacousta — John Richardson
+  Roughing It in the Bush — Susanna Moodie
+  Wild Animals I Have Known — Ernest Thompson Seton
+  The Imperialist — Sara Jeannette Duncan
+  Anne of Green Gables — L. M. Montgomery
+  Flint and Feather — E. Pauline Johnson
+  Maria Chapdelaine — Louis Hémon
+  Jalna — Mazo de la Roche
+  Such Is My Beloved — Morley Callaghan
+  Menaud, maître-draveur — Félix-Antoine Savard
+  As for Me and My House — Sinclair Ross
+  The Tin Flute — Gabrielle Roy
+  Who Has Seen the Wind — W. O. Mitchell
+  Les Plouffe — Roger Lemelin
+  People of the Deer — Farley Mowat
+  The Apprenticeship of Duddy Kravitz — Mordecai Richler
+  The Spice-Box of Earth — Leonard Cohen
+  Prochain épisode — Hubert Aquin
+  Les Belles-sœurs — Michel Tremblay
+  Lives of Girls and Women — Alice Munro
+  La Sagouine — Antonine Maillet
+  The Last Spike — Pierre Berton
+  The Temptations of Big Bear — Rudy Wiebe
+  Alligator Pie — Dennis Lee
+  Solomon Gursky Was Here — Mordecai Richler
+  Dry Lips Oughta Move to Kapuskasing — Tomson Highway
+  另有 Poems of Archibald Lampman（Goodreads 8）、Combat Journal for Place d'Armes（9）、Red Lights on the Prairies（69）、The Ecstasy of Rita Joe（396）、Leaving Home（179）、Ten Lost Years（156）、The Siren Years（35）、A New Athens（11）、In Praise of Older Women（2,516）
+  其余约一半是报告、经济、政治、评论、百科全书、冰球书，不算候选。
+
+== C 奖项（维基百科 wikitext，11-28 抓取）
+-- 吉勒奖（2014 年 Waiting for the Man 是长名单误入，不算；2000 年并列得主 Mercy Among the Children 解析漏掉，补上）
+  1994 The Book of Secrets — M. G. Vassanji
+  1995 A Fine Balance — Rohinton Mistry
+  1996 Alias Grace — Margaret Atwood
+  1997 Barney's Version — Mordecai Richler
+  1998 The Love of a Good Woman — Alice Munro
+  1999 A Good House — Bonnie Burnard
+  2000 Anil's Ghost — Michael Ondaatje
+  2001 Clara Callan — Richard B. Wright
+  2002 The Polished Hoe — Austin Clarke
+  2003 The In-Between World of Vikram Lall — M. G. Vassanji
+  2004 Runaway — Alice Munro
+  2005 The Time in Between — David Bergen
+  2006 Bloodletting & Miraculous Cures — Vincent Lam
+  2007 Late Nights on Air — Elizabeth Hay
+  2008 Through Black Spruce — Joseph Boyden
+  2009 The Bishop's Man — Linden MacIntyre
+  2010 The Sentimentalists — Johanna Skibsrud
+  2011 Half-Blood Blues — Esi Edugyan
+  2012 419 — Will Ferguson
+  2013 Hellgoing — Lynn Coady
+  2014 Us Conductors — Sean Michaels
+  2015 Fifteen Dogs — André Alexis
+  2016 Do Not Say We Have Nothing — Madeleine Thien
+  2017 Bellevue Square — Michael Redhill
+  2018 Washington Black — Esi Edugyan
+  2019 Reproduction — Ian Williams
+  2020 How to Pronounce Knife — Souvankham Thammavongsa
+  2021 What Strange Paradise — Omar El Akkad
+  2022 The Sleeping Car Porter — Suzette Mayr
+  2023 Study for Obedience — Sarah Bernstein
+  2024 Held — Anne Michaels
+  2025 Pick a Colour — Souvankham Thammavongsa
+  2026 Your Breath in Charcoal — Nicholas Herring
+  2000 Mercy Among the Children — David Adams Richards（并列，维基百科 Mercy Among the Children 条目）
+-- 总督奖英语小说
+  1936 Think of the Earth — Bertram Brooker
+  1937 The Dark Weaver — Laura G. Salverson
+  1938 Swiss Sonata — Gwethalyn Graham
+  1939 The Champlain Road — Franklin D. McDowell
+  1940 Thirty Acres — Ringuet
+  1941 Three Came to Ville Marie — Alan Sullivan
+  1942 Little Man — G. Herbert Sallans
+  1943 The Pied Piper of Dipper Creek — Thomas H. Raddall
+  1944 Earth and High Heaven — Gwethalyn Graham
+  1945 Two Solitudes — Hugh MacLennan
+  1946 Continental Revue — Winifred Bambrick
+  1947 The Tin Flute — Gabrielle Roy
+  1948 The Precipice — Hugh MacLennan
+  1949 Mr. Ames Against Time — Philip Child
+  1950 The Outlander — Germaine Guèvremont
+  1951 The Loved and the Lost — Morley Callaghan
+  1952 The Pillar — David Walker
+  1953 Digby — David Walker
+  1954 The Fall of a Titan — Igor Gouzenko
+  1955 The Sixth of June — Lionel Shapiro
+  1956 The Sacrifice — Adele Wiseman
+  1957 Street of Riches — Gabrielle Roy
+  1958 Execution — Colin McDougall
+  1959 The Watch That Ends the Night — Hugh MacLennan
+  1960 The Luck of Ginger Coffey — Brian Moore
+  1961 Hear Us O Lord from Heaven Thy Dwelling Place — Malcolm Lowry
+  1962 Running to Paradise — Kildare Dobbs
+  1963 Hugh Garner's Best Stories — Hugh Garner
+  1964 The Deserter — Douglas LePan
+  1966 A Jest of God — Margaret Laurence
+  1968 Dance of the Happy Shades — Alice Munro
+  1968 Cocksure — Mordecai Richler
+  1969 The Studhorse Man — Robert Kroetsch
+  1970 The New Ancestors — Dave Godfrey
+  1971 St. Urbain's Horseman — Mordecai Richler
+  1972 The Manticore — Robertson Davies
+  1973 The Temptations of Big Bear — Rudy Wiebe
+  1974 The Diviners — Margaret Laurence
+  1975 The Great Victorian Collection — Brian Moore
+  1976 Bear — Marian Engel
+  1977 The Wars — Timothy Findley
+  1978 Who Do You Think You Are? — Alice Munro
+  1979 The Resurrection of Joseph Bourne — Jack Hodgins
+  1980 Burning Water — George Bowering
+  1981 Home Truths: Selected Canadian Stories — Mavis Gallant
+  1982 Man Descending — Guy Vanderhaeghe
+  1983 Shakespeare's Dog — Leon Rooke
+  1984 The Engineer of Human Souls — Josef Skvorecky
+  1985 The Handmaid's Tale — Margaret Atwood
+  1986 The Progress of Love — Alice Munro
+  1987 A Dream Like Mine — M. T. Kelly
+  1988 Nights Below Station Street — David Adams Richards
+  1989 Whale Music — Paul Quarrington
+  1990 Lives of the Saints — Nino Ricci
+  1991 Such a Long Journey — Rohinton Mistry
+  1992 The English Patient — Michael Ondaatje
+  1993 The Stone Diaries — Carol Shields
+  1994 A Discovery of Strangers — Rudy Wiebe
+  1995 The Roaring Girl — Greg Hollingshead
+  1996 The Englishman's Boy — Guy Vanderhaeghe
+  1997 The Underpainter — Jane Urquhart
+  1998 Forms of Devotion — Diane Schoemperlen
+  1999 Elizabeth and After — Matt Cohen
+  2000 Anil's Ghost — Michael Ondaatje
+  2001 Clara Callan — Richard B. Wright
+  2002 A Song for Nettie Johnson — Gloria Sawai
+  2003 Elle — Douglas Glover
+  2004 A Complicated Kindness — Miriam Toews
+  2005 A Perfect Night to Go to China — David Gilmour
+  2006 The Law of Dreams — Peter Behrens
+  2007 Divisadero — Michael Ondaatje
+  2008 The Origin of Species — Nino Ricci
+  2009 The Mistress of Nothing — Kate Pullinger
+  2010 Cool Water — Dianne Warren
+  2011 The Sisters Brothers — Patrick deWitt
+  2012 The Purchase — Linda Spalding
+  2013 The Luminaries — Eleanor Catton
+  2014 The Back of the Turtle — Thomas King
+  2015 Daddy Lenin and Other Stories — Guy Vanderhaeghe
+  2016 Do Not Say We Have Nothing — Madeleine Thien
+  2017 We'll All Be Burnt in Our Beds Some Night — Joel Thomas Hynes
+  2018 The Red Word — Sarah Henstra
+  2019 Five Wives — Joan Thomas
+  2020 Five Little Indians — Michelle Good
+  2021 Tainna — Norma Dunning
+  2022 Pure Colour — Sheila Heti
+  2023 Chrysalis — Anuja Varghese
+  2024 Empty Spaces — Jordan Abel
+  2025 Small Ceremonies — Kyle Edwards
+  2026 Property — Kate Cayley
+-- 总督奖法语小说
+  1959 Malgré tout, la joie — André Giroux
+  1961 Ashini — Yves Thériault
+  1962 Contes du pays incertain — Jacques Ferron
+  1964 Les terres sèches — Jean-Paul Pinsonneault
+  1965 L'incubation — Gérard Bessette
+  1966 La joue droite — Claire Martin
+  1967 Salut Galarneau — Jacques Godbout
+  1968 Trou de mémoire — Hubert Aquin
+  1968 Les Manuscrits de Pauline Archange — Marie-Claire Blais
+  1969 Une forêt pour Zoé — Louise Maheux-Forcier
+  1970 La femme de Loth — Monique Bosco
+  1971 Le cycle — Gérard Bessette
+  1972 Don l'Orignal — Antonine Maillet
+  1973 L'hiver de force — Réjean Ducharme
+  1974 Don Quichotte de la démanche — Victor-Lévy Beaulieu
+  1975 Les enfants du sabbat — Anne Hébert
+  1976 Les rescapés — André Major
+  1977 Ces enfants de ma vie — Gabrielle Roy
+  1978 Les grandes marées — Jacques Poulin
+  1979 Le Sourd dans la ville — Marie-Claire Blais
+  1980 La première personne — Pierre Turgeon
+  1981 La province lunaire — Denys Chabot
+  1982 Le cercle des arènes — Roger Fournier
+  1983 Laura Laur — Suzanne Jacob
+  1984 Agonie — Jacques Brault
+  1985 Lucie ou un midi en novembre — Fernand Ouellette
+  1986 Les silences du corbeau — Yvon Rivard
+  1987 L'obsédante obèse et autres agressions — Gilles Archambault
+  1988 Le Silence ou le Parfait Bonheur — Jacques Folch-Ribas
+  1989 La Rage — Louis Hamelin
+  1990 La Mauvaise foi — Gérald Tougas
+  1991 La croix du Nord — André Brochu
+  1992 L'enfant chargé de songes — Anne Hébert
+  1993 Cantique des plaines — Nancy Huston
+  1994 Le petit aigle à tête blanche — Robert Lalonde
+  1995 Les Oiseaux de Saint-John Perse — Nicole Houde
+  1996 Soifs — Marie-Claire Blais
+  1997 Cet imperceptible mouvement — Aude
+  1998 La Terre ferme — Christiane Frenette
+  1999 La Danse juive — Lise Tremblay
+  2000 Un vent se lève qui éparpille — Jean-Marc Dalpé
+  2001 Le ravissement — Andrée A. Michaud
+  2002 La Gloire de Cassiodore — Monique LaRue
+  2003 La maison étrangère — Élise Turcotte
+  2004 Le cercle parfait — Pascale Quiviger
+  2005 Hotaru — Aki Shimazaki
+  2006 La Rivière du loup — Andrée Laberge
+  2007 La mer de la tranquillité — Sylvain Trudel
+  2008 Naissance de Rebecca à l’ère des tourments — Marie-Claire Blais
+  2009 Le discours sur la tombe de l'idiot — Julie Mazzieri
+  2010 Ru — Kim Thúy
+  2011 L’homme blanc — Perrine Leblanc
+  2012 Pour sûr — France Daigle
+  2013 Quand les guêpes se taisent — Stéphanie Pelletier
+  2014 Bondrée — Andrée A. Michaud
+  2015 Six degrés de liberté — Nicolas Dickner
+  2016 Au péril de la mer — Dominique Fortier
+  2017 Le Poids de la neige — Christian Guay-Poliquin
+  2018 De synthèse — Karoline Georges
+  2019 Le drap blanc — Céline Huyghebaert
+  2020 Chasse à l'homme — Sophie Létourneau
+  2021 Faire les sucres — Fanny Britt
+  2022 Mille secrets mille dangers — Alain Farah
+  2023 Galumpf — Marie Hélène Poitras
+  2024 Lait cru — Steve Poutré
+  2025 Les déterrées — Katia Belkhodja
+  2026 Comme les éclipses — Alex Thibodeau
+-- 总督奖非虚构
+  1936 TBR: Newspaper Pieces — Thomas Beattie Roberton
+  1937 My Discovery of the West — Stephen Leacock
+  1938 Canadian Mosaic — John Murray Gibbon
+  1939 Confessions of an Immigrant's Daughter — Laura Salverson
+  1940 Slava Bohu — J. F. C. Wright
+  1941 Klee Wyck — Emily Carr
+  1942 The Unknown Country — Bruce Hutchison
+  1942 The Unguarded Frontier — Edgar McInnis
+  1943 On Canadian Poetry — E. K. Brown
+  1943 The Incomplete Anglers — John D. Robins
+  1944 Partner in Three Worlds — Dorothy Duncan
+  1944 The War: Fourth Year — Edgar McInnis
+  1945 Gauntlet to Overlord — Ross Munro
+  1945 We Keep a Light — Evelyn M. Richardson
+  1946 In Search of Myself — Frederick Philip Grove
+  1946 Colony to Nation — Arthur R. M. Lower
+  1947 Haida — William Sclater
+  1947 The Government of Canada — R. MacGregor Dawson
+  1948 Halifax, Warden of the North — Thomas H. Raddall
+  1948 The Canadian Army, 1939-1945 — C. P. Stacey
+  1949 Cross-country — Hugh MacLennan
+  1949 Democratic Government in Canada — R. MacGregor Dawson
+  1950 The Saskatchewan — Marjorie Wilkins Campbell
+  1950 The Progressive Party in Canada — W. L. Morton
+  1951 The Government of Prince Edward Island — Frank MacKinnon
+  1951 The Ardent Exile — Josephine Phelan
+  1952 John A. Macdonald, The Young Politician — Donald G. Creighton
+  1952 The Incredible Canadian — Bruce Hutchison
+  1953 Canada, A Story of Challenge — J. M. S. Careless
+  1953 Sex and the Nature of Things — N. J. Berrill
+  1954 Thirty and Three — Hugh MacLennan
+  1954 This Most Famous Stream — Arthur R. M. Lower
+  1955 Man's Emerging Mind — N. J. Berrill
+  1955 John A. Macdonald, The Old Chieftain — Donald G. Creighton
+  1956 The Mysterious North — Pierre Berton
+  1956 Century of Conflict — Joseph Lister Rutledge
+  1957 The Path of Destiny — Thomas H. Raddall
+  1957 Canada: Tomorrow's Giant — Bruce Hutchison
+  1958 Klondike — Pierre Berton
+  1958 The History of Fanny Burney — Joyce Hemlow
+  1960 In Search of Canadian Liberalism — Frank H. Underhill
+  1961 The Ascent of Life — T. A. Goudge
+  1962 The Gutenberg Galaxy — Marshall McLuhan
+  1963 Brown of the Globe — J.M.S. Careless
+  1964 John Addington Symonds — Phyllis Grosskurth
+  1965 In Defence of Canada — James Eayrs
+  1966 The Crystal Spirit: A Study of George Orwell — George Woodcock
+  1967 The Oxford Companion to Canadian History and Literature — Norah Story
+  1968 Hunting Tigers Under Glass — Mordecai Richler
+  1971 The Last Spike — Pierre Berton
+  1973 Painters in a New Land — Michael Bell
+  1974 The Siren Years — Charles Ritchie
+  1975 Hallowed Walls — Marion MacRae and Anthony Adamson
+  1976 The Writing of Canadian History — Carl Berger
+  1977 Essays on the Constitution — Frank Scott
+  1978 Go-Boy! Memories of a Life Behind Bars — Roger Caron
+  1979 Emily Carr — Maria Tippett
+  1980 Discipline of Power: The Conservative Interlude and the Liberal Restoration — Jeffrey Simpson
+  1981 Caribou and the Barren-Lands — George Calef
+  1982 Louisbourg Portraits: Life in an Eighteenth- Century Garrison Town — Christopher Moore
+  1983 Byng of Vimy: General and Governor General — Jeffery Williams
+  1984 The Private Capital: Ambition and Love in the Age of Macdonald and Laurier — Sandra Gwyn
+  1985 The Regenerators: Social Criticism in Late Victorian English Canada — Ramsay Cook
+  1986 Northrop Frye on Shakespeare — Northrop Frye
+  1987 The Russian Album — Michael Ignatieff
+  1988 In the Sleep Room — Anne Collins
+  1989 Willie: The Life of W. Somerset Maugham — Robert Calder
+  1990 Trudeau and Our Times — Stephen Clarkson and Christina McCall
+  1991 Occupied Canada: A Young White Man Discovers His Unsuspected Past — Robert Hunter and Robert Calihoo
+  1992 Revenge of the Land: A Century of Greed, Tragedy and Murder on a Saskatchewan Farm — Maggie Siggins
+  1993 Touch the Dragon — Karen Connelly
+  1994 Rogue Primate: An Exploration of Human Domestication — John A. Livingston
+  1995 Shadow Maker: The Life of Gwendolyn MacEwen — Rosemary Sullivan
+  1996 The Unconscious Civilization — John Ralston Saul
+  1997 Drumblair: Memories of a Jamaican Childhood — Rachel Manley
+  1998 Lines on the Water: A Fisherman's Life on the Miramichi — David Adams Richards
+  1999 Water — Marq de Villiers
+  2000 Notes from the Hyena's Belly — Nega Mezlekia
+  2001 The Ingenuity Gap — Thomas Homer-Dixon
+  2002 Saboteurs: Wiebo Ludwig's War Against Big Oil — Andrew Nikiforuk
+  2003 Paris 1919: Six Months That Changed the World — Margaret MacMillan
+  2004 Shake Hands With the Devil: The Failure of Humanity in Rwanda — Roméo Dallaire
+  2005 The Golden Spruce: A True Story of Myth, Madness and Greed — John Vaillant
+  2006 The Judgment of Paris: The Revolutionary Decade That Gave the World Impressionism — Ross King
+  2007 I've Got a Home in Glory Land: A Lost Tale of the Underground Railroad — Karolyn Smardz Frost
+  2008 Fifteen Days: Stories of Bravery, Friendship, Life and Death from Inside the New Canadian Army — Christie Blatchford
+  2009 A Place Within: Rediscovering India — M. G. Vassanji
+  2010 Lakeland: Journeys into the Soul of Canada — Allan Casey
+  2011 Mordecai: The Life and Times — Charles Foran
+  2012 Leonardo and the Last Supper — Ross King
+  2013 Journey with No Maps: A Life of P.K. Page — Sandra Djwa
+  2014 The End of Absence: Reclaiming What We’ve Lost in a World of Constant Connection — Michael Harris
+  2015 Bee Time: Lessons from the Hive — Mark L. Winston
+  2016 A World We Have Lost: Saskatchewan Before 1905 — Bill Waiser
+  2017 The Way of the Strangers: Encounters with the Islamic State — Graeme Wood
+  2018 Mamaskatch: A Cree Coming of Age — Darrel J. McLeod
+  2019 To the River: Losing My Brother — Don Gillmor
+  2023 Unearthing — Kyo Maclear
+  2024 Wînipêk: Visions of Canada from an Indigenous Centre — Niigaan Sinclair
+  2025 How to Survive a Bear Attack — Claire Cameron
+  2026 Black Bear: A Story of Siblinghood and Survival — Trina Moyles
+-- 英联邦作家奖 加拿大和加勒比区（维基百科 Commonwealth Writers' Prize 条目；总奖得主标 *）
+  最佳书：Room、Galore、Good to a Fault、The Book of Negroes*、The Friends of Meager Fortune、Alligator、Runaway、Deafening、The Polished Hoe*、Hateship, Friendship, Courtship, Loveship, Marriage、The Hero's Walk、What the Body Remembers、Barney's Version、A Fine Balance*、The Robber Bride、The English Patient、Such a Long Journey*、Friend of My Youth、Solomon Gursky Was Here*、The Honorary Patron、The Handmaid's Tale 等
+  最佳处女作：Fall on Your Knees*（其余加拿大得主 Goodreads 都不到 3,300）
+-- 其他：布克奖 The English Patient 1992、The Blind Assassin 2000、Life of Pi 2002、The Luminaries 2013、The Testaments 2019；普利策 The Stone Diaries 1995、The Shipping News 1994；美国国家图书奖 The Shipping News 1993；橘子奖 Fugitive Pieces 1997；IMPAC No Great Mischief 2001、De Niro's Game 2008；梅迪西斯奖 Une saison dans la vie d'Emmanuel；费米娜奖 Bonheur d'occasion 1947；克拉克奖 Station Eleven 2015（均据各书维基百科条目）
+-- 诺贝尔：Alice Munro 2013
+
+== D thegreatestbooks.org 总榜名次（前 2000 快照）
+  A Fine Balance — 530
+  Fifth Business — 1539
+  Life of Pi — 1104
+  Neuromancer — 871
+  Obasan — 1858
+  The Handmaid's Tale — 133
+  The Stone Diaries — 1657
+  Anne of Green Gables — 242
+  Lives of Girls and Women — 1155
+  Runaway — 1524
+  The English Patient — 621
+  The Diviners — 1868
+  Who Do You Think You Are? — 1724
+  The Engineer of Human Souls — 1783
+  The Blind Assassin — 1226
+  Cat's Eye — 1616
+  Selected Stories — 1248
+  Station Eleven — 1366
+  Beast in View — 1116
+  Under the Volcano — 62
+  The Beauty of the Husband — 1669
+  Understanding Media — 1513
+  The Shipping News — 468
+  White Fang — 1957
+  不在前 2000：Fall on Your Knees 2440、By Grand Central Station 2422、Two Solitudes 2953、Surfacing、Hateship
+
+== E Goodreads 评分人数（auto_complete 接口，取作者相符的最大值，11-28）
+  419 — 13,100
+  A Complicated Kindness — 29,221
+  A Fine Balance — 166,803
+  A Season in the Life of Emmanuel — 1,289
+  A Sunday at the Pool in Kigali — 4,802
+  A Tale for the Time Being — 141,528
+  Alias Grace — 163,301
+  Annabel — 12,112
+  Away — 6,358
+  Barney's Version — 14,359
+  Bear — 12,546
+  Beautiful Losers — 7,901
+  Bone and Bread — 2,751
+  Brown Girl in the Ring — 7,761
+  By Grand Central Station I Sat Down and Wept — 8,731
+  Cereus Blooms at Night — 3,832
+  Certainty — 787
+  Come, Thou Tortoise — 3,997
+  Creation — 194
+  Crow Lake — 30,163
+  De Niro's Game — 4,208
+  Elizabeth and After — 574
+  The Collected Essex County — 13,384
+  Fall on Your Knees — 69,093
+  February — 未查到
+  Fifth Business — 21,263
+  Forty Words for Sorrow — 6,963
+  Fruit — 1,920
+  Fugitive Pieces — 17,735
+  Funny Boy — 9,451
+  Galore — 5,929
+  Generation X — 30,757
+  George & Rue — 379
+  Green Grass, Running Water — 8,570
+  Half-Blood Blues — 17,952
+  Holding Still for as Long as Possible — 1,322
+  How to Make Love to a Negro Without Getting Tired — 2,512
+  In the Skin of a Lion — 19,716
+  Indian Horse — 36,685
+  Kamouraska — 1,822
+  Kiss of the Fur Queen — 3,069
+  Kit's Law — 3,406
+  Late Nights on Air — 12,874
+  Life of Pi — 1,795,723
+  Lives of the Saints — 1,836
+  Lost Girls — 1,724
+  Lullabies for Little Criminals — 31,225
+  Mercy Among the Children — 6,061
+  Monkey Beach — 11,239
+  Neuromancer — 385,090
+  No Great Mischief — 12,561
+  No Time for Goodbye — 44,905
+  Obasan — 8,631
+  Room — 851,698
+  Ru — 27,211
+  Scott Pilgrim's Precious Little Life — 223,378
+  Secret Daughter — 78,790
+  Six Metres of Pavement — 357
+  Skim — 17,433
+  Spin — 46,083
+  Still Life — 300,962
+  Sunshine Sketches of a Little Town — 3,940
+  Swamp Angel — 1,155
+  Sweetness in the Belly — 9,617
+  The Amazing Absorbing Boy — 368
+  The Antagonist — 2,040
+  The Best Laid Plans — 11,421
+  The Birth House — 47,343
+  The Bishop's Man — 8,226
+  The Book of Negroes — 93,641
+  The Book of Secrets — 1,301
+  The Cellist of Sarajevo — 45,966
+  The Colony of Unrequited Dreams — 7,812
+  The Cure for Death by Lightning — 6,927
+  The Double Hook — 901
+  The Englishman's Boy — 5,039
+  The Golden Mean — 4,292
+  The Handmaid's Tale — 2,595,409
+  The Hero's Walk — 4,208
+  The Jade Peony — 5,718
+  The Lesser Blessed — 1,923
+  The Little Girl Who Was Too Fond of Matches — 4,040
+  The Luminaries — 87,981
+  The Mistress of Nothing — 4,303
+  The Orenda — 19,489
+  The Outlander — 11,247
+  The Polished Hoe — 1,974
+  The Romantic — 1,702
+  The Sisters Brothers — 106,458
+  The Stone Angel — 13,898
+  The Stone Diaries — 43,057
+  The Time in Between — 3,099
+  The Wars — 10,152
+  The Wives of Bath — 765
+  Three Day Road — 26,567
+  Tigana — 54,449
+  Two Solitudes — 3,130
+  Whale Music — 811
+  What the Body Remembers — 3,046
+  What We All Long For — 2,285
+  Voyages — 34
+  A Journey from Prince of Wales's Fort — 30
+  Wacousta — 226
+  Roughing It in the Bush — 1,550
+  Wild Animals I Have Known — 1,615
+  The Imperialist — 173
+  Anne of Green Gables — 1,168,033
+  Flint and Feather — 99
+  Maria Chapdelaine — 2,961
+  Jalna — 1,051
+  Such Is My Beloved — 657
+  Menaud, maître-draveur — 288
+  As for Me and My House — 2,335
+  The Tin Flute — 5,273
+  Who Has Seen the Wind — 4,580
+  Les Plouffe — 222
+  People of the Deer — 1,641
+  The Apprenticeship of Duddy Kravitz — 9,542
+  The Spice-Box of Earth — 964
+  Prochain épisode — 836
+  Les Belles-sœurs — 4,457
+  Lives of Girls and Women — 16,567
+  La Sagouine — 292
+  The Last Spike — 702
+  The Temptations of Big Bear — 189
+  Alligator Pie — 1,456
+  Solomon Gursky Was Here — 3,227
+  Dry Lips Oughta Move to Kapuskasing — 659
+  The Love of a Good Woman — 9,921
+  Clara Callan — 9,287
+  Anil's Ghost — 19,410
+  Runaway — 28,759
+  Bloodletting & Miraculous Cures — 10,509
+  Through Black Spruce — 15,732
+  Fifteen Dogs — 29,721
+  Do Not Say We Have Nothing — 25,065
+  Washington Black — 74,974
+  How to Pronounce Knife — 21,570
+  What Strange Paradise — 18,203
+  Study for Obedience — 14,823
+  Held — 12,769
+  Pick a Colour — 13,383
+  Such a Long Journey — 11,860
+  The English Patient — 143,377
+  Divisadero — 12,059
+  Pure Colour — 22,290
+  Five Little Indians — 49,725
+  The Diviners — 8,166
+  Who Do You Think You Are? — 7,609
+  The Engineer of Human Souls — 1,118
+  Dance of the Happy Shades — 4,855
+  St. Urbain's Horseman — 1,857
+  The Manticore — 7,091
+  A Jest of God — 3,576
+  Klondike — 1,072
+  Klee Wyck — 1,446
+  The Blind Assassin — 168,346
+  The Testaments — 472,327
+  The Robber Bride — 51,176
+  Hateship, Friendship, Courtship, Loveship, Marriage — 23,967
+  Cat's Eye — 75,245
+  Surfacing — 29,864
+  Selected Stories — 7,303
+  Station Eleven — 657,999
+  Emily of New Moon — 56,233
+  Barometer Rising — 1,864
+  Songs of a Sourdough — 1,123
+  All My Puny Sorrows — 34,244
+  Beast in View — 2,768
+  Under the Volcano — 27,833
+  The Beauty of the Husband — 10,461
+  Understanding Media — 4,333
+  The Shipping News — 156,274
+  White Fang — 213,672
+  Mrs. Mike — 21,189
+  I Heard the Owl Call My Name — 9,461
+  The Day the World Came to Town — 75,183
+  另查：Friend of My Youth 5,556；Good to a Fault 3,913；Deafening 4,511；The Friends of Meager Fortune 606；The Honorary Patron 16；The Electrical Field 440；Icefields 1,448；Chorus of Mushrooms 1,812；Natasha and Other Stories 1,989；The End of the Alphabet 3,228；Under This Unbroken Sky 1,751；Alligator（Lisa Moore）未查到
+  总督奖法语得主最多：Faire les sucres 3,844、Mille secrets mille dangers 3,801、Le poids de la neige 3,346（Ru 除外）
+  吉勒奖其余得主：A Good House 3,057；Vikram Lall 3,728；The Sentimentalists 3,447；Hellgoing 1,954；Us Conductors 4,005；Bellevue Square 7,486；Reproduction 2,779；The Sleeping Car Porter 9,388；Your Breath in Charcoal 115

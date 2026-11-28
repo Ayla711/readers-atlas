@@ -1,0 +1,3144 @@
+{
+ "cc": "ca",
+ "name": "加拿大",
+ "date": "2026-11-28",
+ "rule": "v2",
+ "sources": {
+  "A1": "CBC Books《100 novels that make you proud to be Canadian》（2014，2017 重发；不排名）。CBC 页面 403 打不开，按 thegreatestbooks.org 抄本（list 501，99 本）加漏掉的 What We All Long For 计",
+  "A2": "《Literary Review of Canada》LRC 100（2006 年 1 月、3 月两期，按年代排，不排名；reviewcanada.ca）。100 项里约一半是报告、经济、政治、评论等非文学，不算候选",
+  "B": "没有全国统一的课本书目，此类空缺",
+  "C": "吉勒奖、总督奖（英语小说、法语小说、非虚构；维基百科全表，原始表见 verify/src_1128/ca_1128.txt）、布克奖、普利策奖、橘子奖、IMPAC、英联邦作家奖（含地区奖、最佳处女作）、梅迪西斯奖、费米娜奖、克拉克奖、美国国家图书奖",
+  "N": "诺贝尔奖：艾丽丝·门罗（2013），加在她得分最高的《女孩和女人的生活》",
+  "D": "thegreatestbooks.org 总榜前 2000 名（前 500 → 2，前 2000 → 1）",
+  "E": "Goodreads 评分人数（自动补全接口，11-28）"
+ },
+ "size_note": "规则 v2。加拿大第一次按 v2 评。候选：CBC 100 全部、LRC 100 里的文学和叙事类、吉勒奖全部得主、英联邦作家奖加拿大和加勒比区得主、总督奖英语小说里 Goodreads 过万或进 D 的书、应用里已有的 41 本。总督奖法语小说得主除《Ru》外 Goodreads 都不到 4,000，1960 年前的英语小说得主都不到 1,100，吉勒奖其余得主不到 1 万，都只有奖项一项，不逐本列。LRC 100 里还有 Combat Journal for Place d'Armes、Red Lights on the Prairies、Ten Lost Years、The Siren Years、A New Athens、The Ecstasy of Rita Joe、Leaving Home、In Praise of Older Women、Lampman 诗集，Goodreads 都不到 2,600，只有一项。写外国的书标「不算加拿大」；《使女的故事》写马萨诸塞，放到美国复核。CBC 那份「100 true stories」非虚构名单页面打不开（403），没用。11-28 用户定：够线的 42 本新书全部收下（标「地点待核」的几本，建数据时找不到真实地点就不收，再告诉用户）；零项的三本旧书（Barometer Rising、Songs of a Sourdough、I Heard the Owl Call My Name）删除，瑟维斯在道森的小屋照常保留。用户追问后再核：只有一类证据的旧书 10 本，用户逐本看，删 3 本（Dance of the Happy Shades、St. Urbain's Horseman、The Manticore，作者都有更够格的书），其余 7 本保留；Life of Pi 在加拿大只有多伦多插叙，和 Do Not Say We Have Nothing 同样判不算加拿大，删除。已有 41 本最后保留 34 本。原始数据：verify/src_1128/ca_1128.txt。",
+ "rows": [
+  {
+   "title": "419",
+   "author": "Will Ferguson",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "C": 2,
+    "E": 1
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "C",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "CBC 100 · 吉勒奖 2012 · Goodreads 13,100；卡尔加里和尼日利亚两头写"
+  },
+  {
+   "title": "A Complicated Kindness",
+   "author": "Miriam Toews",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "C": 2,
+    "E": 1
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "C",
+    "E"
+   ],
+   "in_app": "complicated-kindness",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "CBC 100 · 总督奖 2004 · Goodreads 29,221"
+  },
+  {
+   "title": "A Fine Balance",
+   "author": "Rohinton Mistry",
+   "kind": "本国（写印度）",
+   "points": {
+    "A1": 3,
+    "A2": 3,
+    "C": 2,
+    "D": 1,
+    "E": 2
+   },
+   "score": 11,
+   "cats": [
+    "A1",
+    "A2",
+    "C",
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "不算加拿大",
+   "first_draft": "不算加拿大",
+   "note": "CBC 100 · LRC 100 · 吉勒奖 1995 · 英联邦作家奖总奖 · D 530 · Goodreads 166,803"
+  },
+  {
+   "title": "A Season in the Life of Emmanuel",
+   "author": "Marie-Claire Blais",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 3,
+    "C": 2
+   },
+   "score": 8,
+   "cats": [
+    "A1",
+    "A2",
+    "C"
+   ],
+   "in_app": "season-in-the-life-of-emmanuel",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "CBC 100 · LRC 100 · 梅迪西斯奖 · Goodreads 1,289"
+  },
+  {
+   "title": "A Sunday at the Pool in Kigali",
+   "author": "Gil Courtemanche",
+   "kind": "本国（写卢旺达）",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不算加拿大",
+   "first_draft": "不算加拿大",
+   "note": "CBC 100 · Goodreads 4,802"
+  },
+  {
+   "title": "A Tale for the Time Being",
+   "author": "Ruth Ozeki",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "E": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 141,528；一半写不列颠哥伦比亚的科尔特斯岛，一半写日本"
+  },
+  {
+   "title": "Alias Grace",
+   "author": "Margaret Atwood",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "C": 2,
+    "E": 2
+   },
+   "score": 7,
+   "cats": [
+    "A1",
+    "C",
+    "E"
+   ],
+   "in_app": "alias-grace",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "CBC 100 · 吉勒奖 1996 · Goodreads 163,301"
+  },
+  {
+   "title": "Annabel",
+   "author": "Kathleen Winter",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 12,112；拉布拉多"
+  },
+  {
+   "title": "Away",
+   "author": "Jane Urquhart",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 6,358"
+  },
+  {
+   "title": "Barney's Version",
+   "author": "Mordecai Richler",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "C": 2,
+    "E": 1
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "C",
+    "E"
+   ],
+   "in_app": "barneys-version",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "CBC 100 · 吉勒奖 1997 · 英联邦作家奖（加拿大和加勒比区） · Goodreads 14,359"
+  },
+  {
+   "title": "Bear",
+   "author": "Marian Engel",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 3,
+    "C": 2,
+    "E": 1
+   },
+   "score": 9,
+   "cats": [
+    "A1",
+    "A2",
+    "C",
+    "E"
+   ],
+   "in_app": "bear-engel",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "CBC 100 · LRC 100 · 总督奖 1976 · Goodreads 12,546"
+  },
+  {
+   "title": "Beautiful Losers",
+   "author": "Leonard Cohen",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 7,901"
+  },
+  {
+   "title": "Bone and Bread",
+   "author": "Saleema Nawaz",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 2,751"
+  },
+  {
+   "title": "Brown Girl in the Ring",
+   "author": "Nalo Hopkinson",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 7,761"
+  },
+  {
+   "title": "By Grand Central Station I Sat Down and Wept",
+   "author": "Elizabeth Smart",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 8,731；D 2422"
+  },
+  {
+   "title": "Cereus Blooms at Night",
+   "author": "Shani Mootoo",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 3,832"
+  },
+  {
+   "title": "Certainty",
+   "author": "Madeleine Thien",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 787"
+  },
+  {
+   "title": "Come, Thou Tortoise",
+   "author": "Jessica Grant",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 3,997"
+  },
+  {
+   "title": "Creation",
+   "author": "Katherine Govier",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 194"
+  },
+  {
+   "title": "Crow Lake",
+   "author": "Mary Lawson",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 30,163；安大略北部"
+  },
+  {
+   "title": "De Niro's Game",
+   "author": "Rawi Hage",
+   "kind": "本国（写黎巴嫩）",
+   "points": {
+    "A1": 3,
+    "C": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不算加拿大",
+   "first_draft": "不算加拿大",
+   "note": "CBC 100 · IMPAC 2008 · Goodreads 4,208；写贝鲁特"
+  },
+  {
+   "title": "Elizabeth and After",
+   "author": "Matt Cohen",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "C": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "C"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "CBC 100 · 总督奖 1999 · Goodreads 574；安大略小镇"
+  },
+  {
+   "title": "The Collected Essex County",
+   "author": "Jeff Lemire",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 13,384；图像小说；安大略埃塞克斯县"
+  },
+  {
+   "title": "Fall on Your Knees",
+   "author": "Ann-Marie MacDonald",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "C": 2,
+    "E": 1
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "C",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "CBC 100 · 英联邦作家奖最佳处女作 · Goodreads 69,093；布雷顿角；D 2440"
+  },
+  {
+   "title": "February",
+   "author": "Lisa Moore",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收；数据未核，先核",
+   "first_draft": "",
+   "note": "CBC 100；Goodreads 未查到"
+  },
+  {
+   "title": "Fifth Business",
+   "author": "Robertson Davies",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 3,
+    "D": 1,
+    "E": 1
+   },
+   "score": 8,
+   "cats": [
+    "A1",
+    "A2",
+    "E",
+    "I"
+   ],
+   "in_app": "fifth-business",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "CBC 100 · LRC 100 · D 1539 · Goodreads 21,263"
+  },
+  {
+   "title": "Forty Words for Sorrow",
+   "author": "Giles Blunt",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 6,963"
+  },
+  {
+   "title": "Fruit",
+   "author": "Brian Francis",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 1,920"
+  },
+  {
+   "title": "Fugitive Pieces",
+   "author": "Anne Michaels",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "C": 2,
+    "E": 1
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "C",
+    "E"
+   ],
+   "in_app": "fugitive-pieces",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "CBC 100 · 橘子奖 1997 · Goodreads 17,735"
+  },
+  {
+   "title": "Funny Boy",
+   "author": "Shyam Selvadurai",
+   "kind": "本国（写斯里兰卡）",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不算加拿大",
+   "first_draft": "不算加拿大",
+   "note": "CBC 100 · Goodreads 9,451"
+  },
+  {
+   "title": "Galore",
+   "author": "Michael Crummey",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "C": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "C"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "CBC 100 · 英联邦作家奖（加拿大和加勒比区） · Goodreads 5,929；纽芬兰"
+  },
+  {
+   "title": "Generation X",
+   "author": "Douglas Coupland",
+   "kind": "本国（写美国）",
+   "points": {
+    "A1": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不算加拿大",
+   "first_draft": "不算加拿大",
+   "note": "CBC 100 · Goodreads 30,757；写棕榈泉"
+  },
+  {
+   "title": "George & Rue",
+   "author": "George Elliott Clarke",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 379"
+  },
+  {
+   "title": "Green Grass, Running Water",
+   "author": "Thomas King",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 3
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "CBC 100 · LRC 100 · Goodreads 8,570；阿尔伯塔南部；小镇布洛瑟姆是虚构的，地点待核"
+  },
+  {
+   "title": "Half-Blood Blues",
+   "author": "Esi Edugyan",
+   "kind": "本国（写德国、法国）",
+   "points": {
+    "A1": 3,
+    "C": 2,
+    "E": 1
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "C",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不算加拿大",
+   "first_draft": "不算加拿大",
+   "note": "CBC 100 · 吉勒奖 2011 · Goodreads 17,952"
+  },
+  {
+   "title": "Holding Still for as Long as Possible",
+   "author": "Zoe Whittall",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 1,322"
+  },
+  {
+   "title": "How to Make Love to a Negro Without Getting Tired",
+   "author": "Dany Laferrière",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 2,512"
+  },
+  {
+   "title": "In the Skin of a Lion",
+   "author": "Michael Ondaatje",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 19,716；多伦多"
+  },
+  {
+   "title": "Indian Horse",
+   "author": "Richard Wagamese",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": "indian-horse",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 36,685"
+  },
+  {
+   "title": "Kamouraska",
+   "author": "Anne Hébert",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 1,822"
+  },
+  {
+   "title": "Kiss of the Fur Queen",
+   "author": "Tomson Highway",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 3,069"
+  },
+  {
+   "title": "Kit's Law",
+   "author": "Donna Morrissey",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 3,406"
+  },
+  {
+   "title": "Late Nights on Air",
+   "author": "Elizabeth Hay",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "C": 2,
+    "E": 1
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "C",
+    "E"
+   ],
+   "in_app": "late-nights-on-air",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "CBC 100 · 吉勒奖 2007 · Goodreads 12,874"
+  },
+  {
+   "title": "Life of Pi",
+   "author": "Yann Martel",
+   "kind": "本国（主体写印度和太平洋）",
+   "points": {
+    "A1": 3,
+    "C": 2,
+    "D": 1,
+    "E": 3
+   },
+   "score": 9,
+   "cats": [
+    "A1",
+    "C",
+    "E",
+    "I"
+   ],
+   "in_app": "life-of-pi",
+   "decision": "不算加拿大",
+   "first_draft": "不算加拿大",
+   "note": "CBC 100 · 布克奖 2002 · D 1104 · Goodreads 1,795,723；加拿大只有第一部里派成年后在多伦多的插叙；和 Do Not Say We Have Nothing 同样处理（11-28 用户定），数据里删除，复核印度时再看"
+  },
+  {
+   "title": "Lives of the Saints",
+   "author": "Nino Ricci",
+   "kind": "本国（写意大利）",
+   "points": {
+    "A1": 3,
+    "C": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不算加拿大",
+   "first_draft": "不算加拿大",
+   "note": "CBC 100 · 总督奖 1990 · Goodreads 1,836"
+  },
+  {
+   "title": "Lost Girls",
+   "author": "Andrew Pyper",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 1,724"
+  },
+  {
+   "title": "Lullabies for Little Criminals",
+   "author": "Heather O'Neill",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 31,225；蒙特利尔"
+  },
+  {
+   "title": "Mercy Among the Children",
+   "author": "David Adams Richards",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "C": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "C"
+   ],
+   "in_app": "mercy-among-the-children",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "CBC 100 · 吉勒奖 2000（与《阿尼尔的幽灵》并列） · Goodreads 6,061"
+  },
+  {
+   "title": "Monkey Beach",
+   "author": "Eden Robinson",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 11,239；不列颠哥伦比亚的基塔马特"
+  },
+  {
+   "title": "Neuromancer",
+   "author": "William Gibson",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 3,
+    "D": 1,
+    "E": 2
+   },
+   "score": 9,
+   "cats": [
+    "A1",
+    "A2",
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "没有真实地点",
+   "first_draft": "没有真实地点",
+   "note": "CBC 100 · LRC 100 · D 871 · Goodreads 385,090；赛博朋克，不写加拿大"
+  },
+  {
+   "title": "No Great Mischief",
+   "author": "Alistair MacLeod",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "C": 2,
+    "E": 1
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "C",
+    "E"
+   ],
+   "in_app": "no-great-mischief",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "CBC 100 · IMPAC 2001 · Goodreads 12,561"
+  },
+  {
+   "title": "No Time for Goodbye",
+   "author": "Linwood Barclay",
+   "kind": "本国（写美国）",
+   "points": {
+    "A1": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不算加拿大",
+   "first_draft": "不算加拿大",
+   "note": "CBC 100 · Goodreads 44,905"
+  },
+  {
+   "title": "Obasan",
+   "author": "Joy Kogawa",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 3,
+    "D": 1
+   },
+   "score": 7,
+   "cats": [
+    "A1",
+    "A2",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "CBC 100 · LRC 100 · D 1858 · Goodreads 8,631；不列颠哥伦比亚和阿尔伯塔"
+  },
+  {
+   "title": "Room",
+   "author": "Emma Donoghue",
+   "kind": "本国（写美国）",
+   "points": {
+    "A1": 3,
+    "C": 2,
+    "E": 2
+   },
+   "score": 7,
+   "cats": [
+    "A1",
+    "C",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不算加拿大",
+   "first_draft": "不算加拿大",
+   "note": "CBC 100 · 英联邦作家奖（加拿大和加勒比区） · Goodreads 851,698"
+  },
+  {
+   "title": "Ru",
+   "author": "Kim Thúy",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "C": 2,
+    "E": 1
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "C",
+    "E"
+   ],
+   "in_app": "ru-thuy",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "CBC 100 · 总督奖法语 2010 · Goodreads 27,211"
+  },
+  {
+   "title": "Scott Pilgrim's Precious Little Life",
+   "author": "Bryan Lee O'Malley",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "E": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 223,378；图像小说；多伦多"
+  },
+  {
+   "title": "Secret Daughter",
+   "author": "Shilpi Somaya Gowda",
+   "kind": "本国（写印度、美国）",
+   "points": {
+    "A1": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不算加拿大",
+   "first_draft": "不算加拿大",
+   "note": "CBC 100 · Goodreads 78,790"
+  },
+  {
+   "title": "Six Metres of Pavement",
+   "author": "Farzana Doctor",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 357"
+  },
+  {
+   "title": "Skim",
+   "author": "Mariko Tamaki",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 17,433；图像小说；多伦多，地点待核"
+  },
+  {
+   "title": "Spin",
+   "author": "Robert Charles Wilson",
+   "kind": "本国（写美国）",
+   "points": {
+    "A1": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不算加拿大",
+   "first_draft": "不算加拿大",
+   "note": "CBC 100 · Goodreads 46,083"
+  },
+  {
+   "title": "Still Life",
+   "author": "Louise Penny",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "E": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 300,962；魁北克东镇；三松村是虚构的，地点待核"
+  },
+  {
+   "title": "Sunshine Sketches of a Little Town",
+   "author": "Stephen Leacock",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 3
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "CBC 100 · LRC 100 · Goodreads 3,940；马里波萨＝奥里利亚"
+  },
+  {
+   "title": "Swamp Angel",
+   "author": "Ethel Wilson",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 1,155"
+  },
+  {
+   "title": "Sweetness in the Belly",
+   "author": "Camilla Gibb",
+   "kind": "本国（写埃塞俄比亚、伦敦）",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不算加拿大",
+   "first_draft": "不算加拿大",
+   "note": "CBC 100 · Goodreads 9,617"
+  },
+  {
+   "title": "The Amazing Absorbing Boy",
+   "author": "Rabindranath Maharaj",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 368"
+  },
+  {
+   "title": "The Antagonist",
+   "author": "Lynn Coady",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 2,040"
+  },
+  {
+   "title": "The Best Laid Plans",
+   "author": "Terry Fallis",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 11,421；渥太华"
+  },
+  {
+   "title": "The Birth House",
+   "author": "Ami McKay",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 47,343；新斯科舍的斯科茨湾"
+  },
+  {
+   "title": "The Bishop's Man",
+   "author": "Linden MacIntyre",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "C": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "C"
+   ],
+   "in_app": "bishops-man",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "CBC 100 · 吉勒奖 2009 · Goodreads 8,226"
+  },
+  {
+   "title": "The Book of Negroes",
+   "author": "Lawrence Hill",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "C": 2,
+    "E": 1
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "C",
+    "E"
+   ],
+   "in_app": "book-of-negroes",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "CBC 100 · 英联邦作家奖总奖 · Goodreads 93,641；CBC 名单用的是美国版书名 Someone Knows My Name"
+  },
+  {
+   "title": "The Book of Secrets",
+   "author": "M. G. Vassanji",
+   "kind": "本国（写东非）",
+   "points": {
+    "A1": 3,
+    "C": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不算加拿大",
+   "first_draft": "不算加拿大",
+   "note": "CBC 100 · 吉勒奖 1994 · Goodreads 1,301"
+  },
+  {
+   "title": "The Cellist of Sarajevo",
+   "author": "Steven Galloway",
+   "kind": "本国（写萨拉热窝）",
+   "points": {
+    "A1": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不算加拿大",
+   "first_draft": "不算加拿大",
+   "note": "CBC 100 · Goodreads 45,966"
+  },
+  {
+   "title": "The Colony of Unrequited Dreams",
+   "author": "Wayne Johnston",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 3
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "CBC 100 · LRC 100 · Goodreads 7,812；纽芬兰"
+  },
+  {
+   "title": "The Cure for Death by Lightning",
+   "author": "Gail Anderson-Dargatz",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 6,927"
+  },
+  {
+   "title": "The Double Hook",
+   "author": "Sheila Watson",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 901"
+  },
+  {
+   "title": "The Englishman's Boy",
+   "author": "Guy Vanderhaeghe",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "C": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "C"
+   ],
+   "in_app": "englishmans-boy",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "CBC 100 · 总督奖 1996 · Goodreads 5,039"
+  },
+  {
+   "title": "The Golden Mean",
+   "author": "Annabel Lyon",
+   "kind": "本国（写古马其顿）",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不算加拿大",
+   "first_draft": "不算加拿大",
+   "note": "CBC 100 · Goodreads 4,292"
+  },
+  {
+   "title": "The Handmaid's Tale",
+   "author": "Margaret Atwood",
+   "kind": "本国（写美国）",
+   "points": {
+    "A1": 3,
+    "A2": 3,
+    "C": 2,
+    "D": 2,
+    "E": 3
+   },
+   "score": 13,
+   "cats": [
+    "A1",
+    "A2",
+    "C",
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "不算加拿大",
+   "first_draft": "不算加拿大",
+   "note": "CBC 100 · LRC 100 · 总督奖 1985 · D 133 · Goodreads 2,595,409；写马萨诸塞州剑桥；放到美国复核"
+  },
+  {
+   "title": "The Hero's Walk",
+   "author": "Anita Rau Badami",
+   "kind": "本国（写印度）",
+   "points": {
+    "A1": 3,
+    "C": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不算加拿大",
+   "first_draft": "不算加拿大",
+   "note": "CBC 100 · 英联邦作家奖（加拿大和加勒比区） · Goodreads 4,208"
+  },
+  {
+   "title": "The Jade Peony",
+   "author": "Wayson Choy",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 3
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "CBC 100 · LRC 100 · Goodreads 5,718；温哥华唐人街"
+  },
+  {
+   "title": "The Lesser Blessed",
+   "author": "Richard Van Camp",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 1,923"
+  },
+  {
+   "title": "The Little Girl Who Was Too Fond of Matches",
+   "author": "Gaétan Soucy",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 4,040"
+  },
+  {
+   "title": "The Luminaries",
+   "author": "Eleanor Catton",
+   "kind": "本国（写新西兰）",
+   "points": {
+    "A1": 3,
+    "C": 2,
+    "E": 1
+   },
+   "score": 6,
+   "cats": [
+    "A1",
+    "C",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不算加拿大",
+   "first_draft": "不算加拿大",
+   "note": "CBC 100 · 布克奖 2013 · 总督奖 2013 · Goodreads 87,981"
+  },
+  {
+   "title": "The Mistress of Nothing",
+   "author": "Kate Pullinger",
+   "kind": "本国（写埃及）",
+   "points": {
+    "A1": 3,
+    "C": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不算加拿大",
+   "first_draft": "不算加拿大",
+   "note": "CBC 100 · 总督奖 2009 · Goodreads 4,303"
+  },
+  {
+   "title": "The Orenda",
+   "author": "Joseph Boyden",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 19,489；休伦尼亚（乔治亚湾）"
+  },
+  {
+   "title": "The Outlander",
+   "author": "Gil Adamson",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 11,247；阿尔伯塔落基山；1950 年得总督奖的 The Outlander 是盖夫勒蒙的另一本书"
+  },
+  {
+   "title": "The Polished Hoe",
+   "author": "Austin Clarke",
+   "kind": "本国（写巴巴多斯）",
+   "points": {
+    "A1": 3,
+    "C": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不算加拿大",
+   "first_draft": "不算加拿大",
+   "note": "CBC 100 · 吉勒奖 2002 · 英联邦作家奖总奖 · Goodreads 1,974"
+  },
+  {
+   "title": "The Romantic",
+   "author": "Barbara Gowdy",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 1,702"
+  },
+  {
+   "title": "The Sisters Brothers",
+   "author": "Patrick deWitt",
+   "kind": "本国（写美国）",
+   "points": {
+    "A1": 3,
+    "C": 2,
+    "E": 2
+   },
+   "score": 7,
+   "cats": [
+    "A1",
+    "C",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不算加拿大",
+   "first_draft": "不算加拿大",
+   "note": "CBC 100 · 总督奖 2011 · Goodreads 106,458"
+  },
+  {
+   "title": "The Stone Angel",
+   "author": "Margaret Laurence",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 3,
+    "E": 1
+   },
+   "score": 7,
+   "cats": [
+    "A1",
+    "A2",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "CBC 100 · LRC 100 · Goodreads 13,898；马纳瓦卡＝马尼托巴的尼帕瓦"
+  },
+  {
+   "title": "The Stone Diaries",
+   "author": "Carol Shields",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 3,
+    "C": 2,
+    "D": 1,
+    "E": 1
+   },
+   "score": 10,
+   "cats": [
+    "A1",
+    "A2",
+    "C",
+    "E",
+    "I"
+   ],
+   "in_app": "stone-diaries",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "CBC 100 · LRC 100 · 总督奖 1993 · 普利策奖 1995 · D 1657 · Goodreads 43,057"
+  },
+  {
+   "title": "The Time in Between",
+   "author": "David Bergen",
+   "kind": "本国（写越南）",
+   "points": {
+    "A1": 3,
+    "C": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不算加拿大",
+   "first_draft": "不算加拿大",
+   "note": "CBC 100 · 吉勒奖 2005 · Goodreads 3,099"
+  },
+  {
+   "title": "The Wars",
+   "author": "Timothy Findley",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 3,
+    "C": 2,
+    "E": 1
+   },
+   "score": 9,
+   "cats": [
+    "A1",
+    "A2",
+    "C",
+    "E"
+   ],
+   "in_app": "the-wars",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "CBC 100 · LRC 100 · 总督奖 1977 · Goodreads 10,152"
+  },
+  {
+   "title": "The Wives of Bath",
+   "author": "Susan Swan",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 765"
+  },
+  {
+   "title": "Three Day Road",
+   "author": "Joseph Boyden",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 26,567；一战法国战场和安大略北部（穆斯法克托里）"
+  },
+  {
+   "title": "Tigana",
+   "author": "Guy Gavriel Kay",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "A1",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "没有真实地点",
+   "first_draft": "没有真实地点",
+   "note": "CBC 100 · Goodreads 54,449；奇幻"
+  },
+  {
+   "title": "Two Solitudes",
+   "author": "Hugh MacLennan",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "A2": 3,
+    "C": 2
+   },
+   "score": 8,
+   "cats": [
+    "A1",
+    "A2",
+    "C"
+   ],
+   "in_app": "two-solitudes",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "CBC 100 · LRC 100 · 总督奖 1945 · Goodreads 3,130；D 2953"
+  },
+  {
+   "title": "Whale Music",
+   "author": "Paul Quarrington",
+   "kind": "本国",
+   "points": {
+    "A1": 3,
+    "C": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "C"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "CBC 100 · 总督奖 1989 · Goodreads 811；地点待核"
+  },
+  {
+   "title": "What the Body Remembers",
+   "author": "Shauna Singh Baldwin",
+   "kind": "本国（写印度）",
+   "points": {
+    "A1": 3,
+    "C": 2
+   },
+   "score": 5,
+   "cats": [
+    "A1",
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不算加拿大",
+   "first_draft": "不算加拿大",
+   "note": "CBC 100 · 英联邦作家奖（加拿大和加勒比区） · Goodreads 3,046"
+  },
+  {
+   "title": "What We All Long For",
+   "author": "Dionne Brand",
+   "kind": "本国",
+   "points": {
+    "A1": 3
+   },
+   "score": 3,
+   "cats": [
+    "A1"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "CBC 100 · Goodreads 2,285；thegreatestbooks 的抄本漏了这一本"
+  },
+  {
+   "title": "Voyages",
+   "author": "Jacques Cartier",
+   "kind": "本国（探险记）",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "LRC 100 · Goodreads 34"
+  },
+  {
+   "title": "A Journey from Prince of Wales's Fort",
+   "author": "Samuel Hearne",
+   "kind": "本国（探险记）",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "LRC 100 · Goodreads 30"
+  },
+  {
+   "title": "Wacousta",
+   "author": "John Richardson",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "LRC 100 · Goodreads 226"
+  },
+  {
+   "title": "Roughing It in the Bush",
+   "author": "Susanna Moodie",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": "roughing-it-in-the-bush",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "LRC 100 · Goodreads 1,550；11-28 用户逐本看后定保留"
+  },
+  {
+   "title": "Wild Animals I Have Known",
+   "author": "Ernest Thompson Seton",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "LRC 100 · Goodreads 1,615"
+  },
+  {
+   "title": "The Imperialist",
+   "author": "Sara Jeannette Duncan",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "LRC 100 · Goodreads 173"
+  },
+  {
+   "title": "Anne of Green Gables",
+   "author": "L. M. Montgomery",
+   "kind": "本国",
+   "points": {
+    "A2": 3,
+    "D": 2,
+    "E": 3
+   },
+   "score": 8,
+   "cats": [
+    "A2",
+    "E",
+    "I"
+   ],
+   "in_app": "anne-of-green-gables",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "LRC 100 · D 242 · Goodreads 1,168,033"
+  },
+  {
+   "title": "Flint and Feather",
+   "author": "E. Pauline Johnson",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "LRC 100 · Goodreads 99"
+  },
+  {
+   "title": "Maria Chapdelaine",
+   "author": "Louis Hémon",
+   "kind": "外国（法国作家写魁北克）",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "LRC 100 · Goodreads 2,961"
+  },
+  {
+   "title": "Jalna",
+   "author": "Mazo de la Roche",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "LRC 100 · Goodreads 1,051"
+  },
+  {
+   "title": "Such Is My Beloved",
+   "author": "Morley Callaghan",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "LRC 100 · Goodreads 657"
+  },
+  {
+   "title": "Menaud, maître-draveur",
+   "author": "Félix-Antoine Savard",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "LRC 100 · Goodreads 288"
+  },
+  {
+   "title": "As for Me and My House",
+   "author": "Sinclair Ross",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "LRC 100 · Goodreads 2,335"
+  },
+  {
+   "title": "The Tin Flute",
+   "author": "Gabrielle Roy",
+   "kind": "本国",
+   "points": {
+    "A2": 3,
+    "C": 2
+   },
+   "score": 5,
+   "cats": [
+    "A2",
+    "C"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "LRC 100 · 总督奖 1947 · 费米娜奖 1947 · Goodreads 5,273；蒙特利尔圣亨利区；法文原名 Bonheur d'occasion"
+  },
+  {
+   "title": "Who Has Seen the Wind",
+   "author": "W. O. Mitchell",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "LRC 100 · Goodreads 4,580"
+  },
+  {
+   "title": "Les Plouffe",
+   "author": "Roger Lemelin",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "LRC 100 · Goodreads 222"
+  },
+  {
+   "title": "People of the Deer",
+   "author": "Farley Mowat",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "LRC 100 · Goodreads 1,641"
+  },
+  {
+   "title": "The Apprenticeship of Duddy Kravitz",
+   "author": "Mordecai Richler",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "LRC 100 · Goodreads 9,542"
+  },
+  {
+   "title": "The Spice-Box of Earth",
+   "author": "Leonard Cohen",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "LRC 100 · Goodreads 964"
+  },
+  {
+   "title": "Prochain épisode",
+   "author": "Hubert Aquin",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "LRC 100 · Goodreads 836"
+  },
+  {
+   "title": "Les Belles-sœurs",
+   "author": "Michel Tremblay",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "LRC 100 · Goodreads 4,457"
+  },
+  {
+   "title": "Lives of Girls and Women",
+   "author": "Alice Munro",
+   "kind": "本国",
+   "points": {
+    "A2": 3,
+    "N": 1,
+    "D": 1,
+    "E": 1
+   },
+   "score": 6,
+   "cats": [
+    "A2",
+    "C",
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "LRC 100 · D 1155 · Goodreads 16,567；朱比利＝安大略的温厄姆一带；诺贝尔加分给门罗得分最高的这一本"
+  },
+  {
+   "title": "La Sagouine",
+   "author": "Antonine Maillet",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "LRC 100 · Goodreads 292"
+  },
+  {
+   "title": "The Last Spike",
+   "author": "Pierre Berton",
+   "kind": "本国",
+   "points": {
+    "A2": 3,
+    "C": 2
+   },
+   "score": 5,
+   "cats": [
+    "A2",
+    "C"
+   ],
+   "in_app": "the-last-spike",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "LRC 100 · 总督奖非虚构 1971 · Goodreads 702"
+  },
+  {
+   "title": "The Temptations of Big Bear",
+   "author": "Rudy Wiebe",
+   "kind": "本国",
+   "points": {
+    "A2": 3,
+    "C": 2
+   },
+   "score": 5,
+   "cats": [
+    "A2",
+    "C"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "LRC 100 · 总督奖 1973 · Goodreads 189；萨斯喀彻温（弗罗格湖、皮特堡）"
+  },
+  {
+   "title": "Alligator Pie",
+   "author": "Dennis Lee",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "LRC 100 · Goodreads 1,456"
+  },
+  {
+   "title": "Solomon Gursky Was Here",
+   "author": "Mordecai Richler",
+   "kind": "本国",
+   "points": {
+    "A2": 3,
+    "C": 2
+   },
+   "score": 5,
+   "cats": [
+    "A2",
+    "C"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "LRC 100 · 英联邦作家奖总奖 · Goodreads 3,227；蒙特利尔和北极"
+  },
+  {
+   "title": "Dry Lips Oughta Move to Kapuskasing",
+   "author": "Tomson Highway",
+   "kind": "本国",
+   "points": {
+    "A2": 3
+   },
+   "score": 3,
+   "cats": [
+    "A2"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "LRC 100 · Goodreads 659"
+  },
+  {
+   "title": "The Love of a Good Woman",
+   "author": "Alice Munro",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "吉勒奖 1998 · Goodreads 9,921"
+  },
+  {
+   "title": "Clara Callan",
+   "author": "Richard B. Wright",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "吉勒奖 2001 · 总督奖 2001 · Goodreads 9,287"
+  },
+  {
+   "title": "Anil's Ghost",
+   "author": "Michael Ondaatje",
+   "kind": "本国（写斯里兰卡）",
+   "points": {
+    "C": 2,
+    "E": 1
+   },
+   "score": 3,
+   "cats": [
+    "C",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不算加拿大",
+   "first_draft": "不算加拿大",
+   "note": "吉勒奖 2000 · 总督奖 2000 · Goodreads 19,410"
+  },
+  {
+   "title": "Runaway",
+   "author": "Alice Munro",
+   "kind": "本国",
+   "points": {
+    "C": 2,
+    "D": 1,
+    "E": 1
+   },
+   "score": 4,
+   "cats": [
+    "C",
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "吉勒奖 2004 · 英联邦作家奖（加拿大和加勒比区） · D 1524 · Goodreads 28,759；短篇集，多数写安大略；地点待核"
+  },
+  {
+   "title": "Bloodletting & Miraculous Cures",
+   "author": "Vincent Lam",
+   "kind": "本国",
+   "points": {
+    "C": 2,
+    "E": 1
+   },
+   "score": 3,
+   "cats": [
+    "C",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "吉勒奖 2006 · Goodreads 10,509；多伦多的医院"
+  },
+  {
+   "title": "Through Black Spruce",
+   "author": "Joseph Boyden",
+   "kind": "本国",
+   "points": {
+    "C": 2,
+    "E": 1
+   },
+   "score": 3,
+   "cats": [
+    "C",
+    "E"
+   ],
+   "in_app": "through-black-spruce",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "吉勒奖 2008 · Goodreads 15,732"
+  },
+  {
+   "title": "Fifteen Dogs",
+   "author": "André Alexis",
+   "kind": "本国",
+   "points": {
+    "C": 2,
+    "E": 1
+   },
+   "score": 3,
+   "cats": [
+    "C",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "吉勒奖 2015 · Goodreads 29,721；多伦多"
+  },
+  {
+   "title": "Do Not Say We Have Nothing",
+   "author": "Madeleine Thien",
+   "kind": "本国（大半写中国）",
+   "points": {
+    "C": 2,
+    "E": 1
+   },
+   "score": 3,
+   "cats": [
+    "C",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不算加拿大",
+   "first_draft": "不算加拿大",
+   "note": "吉勒奖 2016 · 总督奖 2016 · Goodreads 25,065；框架在温哥华，主体写中国；复核中国时再看"
+  },
+  {
+   "title": "Washington Black",
+   "author": "Esi Edugyan",
+   "kind": "本国",
+   "points": {
+    "C": 2,
+    "E": 1
+   },
+   "score": 3,
+   "cats": [
+    "C",
+    "E"
+   ],
+   "in_app": "washington-black",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "吉勒奖 2018 · Goodreads 74,974"
+  },
+  {
+   "title": "How to Pronounce Knife",
+   "author": "Souvankham Thammavongsa",
+   "kind": "本国",
+   "points": {
+    "C": 2,
+    "E": 1
+   },
+   "score": 3,
+   "cats": [
+    "C",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "吉勒奖 2020 · Goodreads 21,570；老挝移民短篇集，城市多不点名；地点待核"
+  },
+  {
+   "title": "What Strange Paradise",
+   "author": "Omar El Akkad",
+   "kind": "本国（写地中海小岛）",
+   "points": {
+    "C": 2,
+    "E": 1
+   },
+   "score": 3,
+   "cats": [
+    "C",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不算加拿大",
+   "first_draft": "不算加拿大",
+   "note": "吉勒奖 2021 · Goodreads 18,203"
+  },
+  {
+   "title": "Study for Obedience",
+   "author": "Sarah Bernstein",
+   "kind": "本国",
+   "points": {
+    "C": 2,
+    "E": 1
+   },
+   "score": 3,
+   "cats": [
+    "C",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "没有真实地点",
+   "first_draft": "没有真实地点",
+   "note": "吉勒奖 2023 · Goodreads 14,823；不点名的北方国家"
+  },
+  {
+   "title": "Held",
+   "author": "Anne Michaels",
+   "kind": "本国（写欧洲）",
+   "points": {
+    "C": 2,
+    "E": 1
+   },
+   "score": 3,
+   "cats": [
+    "C",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不算加拿大",
+   "first_draft": "不算加拿大",
+   "note": "吉勒奖 2024 · Goodreads 12,769；一战法国战场、巴黎、萨福克、芬兰、伦敦（维基百科）"
+  },
+  {
+   "title": "Pick a Colour",
+   "author": "Souvankham Thammavongsa",
+   "kind": "本国",
+   "points": {
+    "C": 2,
+    "E": 1
+   },
+   "score": 3,
+   "cats": [
+    "C",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "吉勒奖 2025 · Goodreads 13,383；地点待核"
+  },
+  {
+   "title": "Such a Long Journey",
+   "author": "Rohinton Mistry",
+   "kind": "本国（写孟买）",
+   "points": {
+    "C": 2,
+    "E": 1
+   },
+   "score": 3,
+   "cats": [
+    "C",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不算加拿大",
+   "first_draft": "不算加拿大",
+   "note": "总督奖 1991 · 英联邦作家奖总奖 · Goodreads 11,860"
+  },
+  {
+   "title": "The English Patient",
+   "author": "Michael Ondaatje",
+   "kind": "本国（写意大利）",
+   "points": {
+    "C": 2,
+    "D": 1,
+    "E": 2
+   },
+   "score": 5,
+   "cats": [
+    "C",
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "不算加拿大",
+   "first_draft": "不算加拿大",
+   "note": "布克奖 1992 · 总督奖 1992 · 英联邦作家奖（加拿大和加勒比区） · D 621 · Goodreads 143,377"
+  },
+  {
+   "title": "Divisadero",
+   "author": "Michael Ondaatje",
+   "kind": "本国（写加州、法国）",
+   "points": {
+    "C": 2,
+    "E": 1
+   },
+   "score": 3,
+   "cats": [
+    "C",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不算加拿大",
+   "first_draft": "不算加拿大",
+   "note": "总督奖 2007 · Goodreads 12,059"
+  },
+  {
+   "title": "Pure Colour",
+   "author": "Sheila Heti",
+   "kind": "本国",
+   "points": {
+    "C": 2,
+    "E": 1
+   },
+   "score": 3,
+   "cats": [
+    "C",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "没有真实地点",
+   "first_draft": "没有真实地点",
+   "note": "总督奖 2022 · Goodreads 22,290"
+  },
+  {
+   "title": "Five Little Indians",
+   "author": "Michelle Good",
+   "kind": "本国",
+   "points": {
+    "C": 2,
+    "E": 1
+   },
+   "score": 3,
+   "cats": [
+    "C",
+    "E"
+   ],
+   "in_app": "five-little-indians",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "总督奖 2020 · Goodreads 49,725"
+  },
+  {
+   "title": "The Diviners",
+   "author": "Margaret Laurence",
+   "kind": "本国",
+   "points": {
+    "C": 2,
+    "D": 1
+   },
+   "score": 3,
+   "cats": [
+    "C",
+    "I"
+   ],
+   "in_app": "the-diviners",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "总督奖 1974 · D 1868 · Goodreads 8,166"
+  },
+  {
+   "title": "Who Do You Think You Are?",
+   "author": "Alice Munro",
+   "kind": "本国",
+   "points": {
+    "C": 2,
+    "D": 1
+   },
+   "score": 3,
+   "cats": [
+    "C",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "总督奖 1978 · D 1724 · Goodreads 7,609；汉拉蒂＝安大略的温厄姆一带"
+  },
+  {
+   "title": "The Engineer of Human Souls",
+   "author": "Josef Škvorecký",
+   "kind": "本国",
+   "points": {
+    "C": 2,
+    "D": 1
+   },
+   "score": 3,
+   "cats": [
+    "C",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "总督奖 1984 · D 1783 · Goodreads 1,118；多伦多的学院和捷克两头写"
+  },
+  {
+   "title": "Dance of the Happy Shades",
+   "author": "Alice Munro",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": "dance-of-the-happy-shades",
+   "decision": "用户定不收：只有一类证据，作者已有更够格的书（11-28 逐本看后定），数据里删除",
+   "first_draft": "用户定不收：只有一类证据，作者已有更够格的书（11-28 逐本看后定），数据里删除",
+   "note": "总督奖 1968 · Goodreads 4,855；门罗另有《女孩和女人的生活》等 4 本新增，温厄姆由它们挂"
+  },
+  {
+   "title": "St. Urbain's Horseman",
+   "author": "Mordecai Richler",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": "st-urbains-horseman",
+   "decision": "用户定不收：只有一类证据，作者已有更够格的书（11-28 逐本看后定），数据里删除",
+   "first_draft": "用户定不收：只有一类证据，作者已有更够格的书（11-28 逐本看后定），数据里删除",
+   "note": "总督奖 1971 · Goodreads 1,857；里奇勒另有 Barney's Version、Solomon Gursky Was Here"
+  },
+  {
+   "title": "The Manticore",
+   "author": "Robertson Davies",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": "the-manticore",
+   "decision": "用户定不收：只有一类证据，作者已有更够格的书（11-28 逐本看后定），数据里删除",
+   "first_draft": "用户定不收：只有一类证据，作者已有更够格的书（11-28 逐本看后定），数据里删除",
+   "note": "总督奖 1972 · Goodreads 7,091；Fifth Business 的续集"
+  },
+  {
+   "title": "A Jest of God",
+   "author": "Margaret Laurence",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "总督奖 1966 · Goodreads 3,576"
+  },
+  {
+   "title": "Klondike",
+   "author": "Pierre Berton",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": "klondike-berton",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "总督奖非虚构 1958 · Goodreads 1,072；11-28 用户逐本看后定保留"
+  },
+  {
+   "title": "Klee Wyck",
+   "author": "Emily Carr",
+   "kind": "本国",
+   "points": {
+    "C": 2
+   },
+   "score": 2,
+   "cats": [
+    "C"
+   ],
+   "in_app": "klee-wyck",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "总督奖非虚构 1941 · Goodreads 1,446；11-28 用户逐本看后定保留"
+  },
+  {
+   "title": "The Blind Assassin",
+   "author": "Margaret Atwood",
+   "kind": "本国",
+   "points": {
+    "C": 2,
+    "D": 1,
+    "E": 2
+   },
+   "score": 5,
+   "cats": [
+    "C",
+    "E",
+    "I"
+   ],
+   "in_app": "blind-assassin",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "布克奖 2000 · D 1226 · Goodreads 168,346"
+  },
+  {
+   "title": "The Testaments",
+   "author": "Margaret Atwood",
+   "kind": "本国",
+   "points": {
+    "C": 2,
+    "E": 2
+   },
+   "score": 4,
+   "cats": [
+    "C",
+    "E"
+   ],
+   "in_app": "the-testaments",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "布克奖 2019 · Goodreads 472,327"
+  },
+  {
+   "title": "The Robber Bride",
+   "author": "Margaret Atwood",
+   "kind": "本国",
+   "points": {
+    "C": 2,
+    "E": 1
+   },
+   "score": 3,
+   "cats": [
+    "C",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "英联邦作家奖（加拿大和加勒比区） · Goodreads 51,176；多伦多"
+  },
+  {
+   "title": "Hateship, Friendship, Courtship, Loveship, Marriage",
+   "author": "Alice Munro",
+   "kind": "本国",
+   "points": {
+    "C": 2,
+    "E": 1
+   },
+   "score": 3,
+   "cats": [
+    "C",
+    "E"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "英联邦作家奖（加拿大和加勒比区） · Goodreads 23,967；短篇集，多写安大略西南部；地点待核"
+  },
+  {
+   "title": "Cat's Eye",
+   "author": "Margaret Atwood",
+   "kind": "本国",
+   "points": {
+    "D": 1,
+    "E": 1
+   },
+   "score": 2,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "D 1616 · Goodreads 75,245；多伦多"
+  },
+  {
+   "title": "Surfacing",
+   "author": "Margaret Atwood",
+   "kind": "本国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "Goodreads 29,864"
+  },
+  {
+   "title": "Selected Stories",
+   "author": "Alice Munro",
+   "kind": "本国",
+   "points": {
+    "D": 1
+   },
+   "score": 1,
+   "cats": [
+    "I"
+   ],
+   "in_app": null,
+   "decision": "不收",
+   "first_draft": "",
+   "note": "D 1248 · Goodreads 7,303"
+  },
+  {
+   "title": "Station Eleven",
+   "author": "Emily St. John Mandel",
+   "kind": "本国",
+   "points": {
+    "C": 2,
+    "D": 1,
+    "E": 2
+   },
+   "score": 5,
+   "cats": [
+    "C",
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "克拉克奖 2015 · D 1366 · Goodreads 657,999；开场在多伦多的埃尔金剧院，后面大半写密歇根一带"
+  },
+  {
+   "title": "Emily of New Moon",
+   "author": "L. M. Montgomery",
+   "kind": "本国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": "emily-of-new-moon",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "Goodreads 56,233；11-28 用户逐本看后定保留"
+  },
+  {
+   "title": "Barometer Rising",
+   "author": "Hugh MacLennan",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "barometer-rising",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "用户同意删（11-28：加拿大零项的三本全部删除）",
+   "note": "Goodreads 1,864"
+  },
+  {
+   "title": "Songs of a Sourdough",
+   "author": "Robert W. Service",
+   "kind": "本国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "songs-of-a-sourdough",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "用户同意删（11-28：加拿大零项的三本全部删除）",
+   "note": "Goodreads 1,123"
+  },
+  {
+   "title": "All My Puny Sorrows",
+   "author": "Miriam Toews",
+   "kind": "本国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": "all-my-puny-sorrows",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "Goodreads 34,244；另得 2014 年作家信托小说奖（维基百科），这个奖不在 C 类里；11-28 用户逐本看后定保留"
+  },
+  {
+   "title": "Beast in View",
+   "author": "Margaret Millar",
+   "kind": "本国（写洛杉矶）",
+   "points": {
+    "D": 1
+   },
+   "score": 1,
+   "cats": [
+    "I"
+   ],
+   "in_app": null,
+   "decision": "不算加拿大",
+   "first_draft": "不算加拿大",
+   "note": "D 1116 · Goodreads 2,768"
+  },
+  {
+   "title": "Under the Volcano",
+   "author": "Malcolm Lowry",
+   "kind": "外国（写墨西哥）",
+   "points": {
+    "D": 2,
+    "E": 1
+   },
+   "score": 3,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "不算加拿大",
+   "first_draft": "不算加拿大",
+   "note": "D 62 · Goodreads 27,833"
+  },
+  {
+   "title": "The Beauty of the Husband",
+   "author": "Anne Carson",
+   "kind": "本国",
+   "points": {
+    "D": 1,
+    "E": 1
+   },
+   "score": 2,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "没有真实地点",
+   "first_draft": "没有真实地点",
+   "note": "D 1669 · Goodreads 10,461；诗集"
+  },
+  {
+   "title": "Understanding Media",
+   "author": "Marshall McLuhan",
+   "kind": "本国（论著）",
+   "points": {
+    "D": 1
+   },
+   "score": 1,
+   "cats": [
+    "I"
+   ],
+   "in_app": null,
+   "decision": "没有真实地点",
+   "first_draft": "没有真实地点",
+   "note": "D 1513 · Goodreads 4,333；传播学论著"
+  },
+  {
+   "title": "The Shipping News",
+   "author": "Annie Proulx",
+   "kind": "外国（写纽芬兰）",
+   "points": {
+    "C": 2,
+    "D": 2,
+    "E": 2
+   },
+   "score": 6,
+   "cats": [
+    "C",
+    "E",
+    "I"
+   ],
+   "in_app": null,
+   "decision": "新增",
+   "first_draft": "",
+   "note": "普利策奖 1994 · 美国国家图书奖 1993 · D 468 · Goodreads 156,274；纽芬兰"
+  },
+  {
+   "title": "White Fang",
+   "author": "Jack London",
+   "kind": "外国（写育空）",
+   "points": {
+    "D": 1,
+    "E": 2
+   },
+   "score": 3,
+   "cats": [
+    "E",
+    "I"
+   ],
+   "in_app": "white-fang",
+   "decision": "保留",
+   "first_draft": "",
+   "note": "D 1957 · Goodreads 213,672"
+  },
+  {
+   "title": "Mrs. Mike",
+   "author": "Benedict and Nancy Freedman",
+   "kind": "外国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": "mrs-mike",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "Goodreads 21,189；11-28 用户逐本看后定保留"
+  },
+  {
+   "title": "I Heard the Owl Call My Name",
+   "author": "Margaret Craven",
+   "kind": "外国",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "i-heard-the-owl",
+   "decision": "删除（零项，复核后用户同意删）",
+   "first_draft": "用户同意删（11-28：加拿大零项的三本全部删除）",
+   "note": "Goodreads 9,461"
+  },
+  {
+   "title": "The Day the World Came to Town",
+   "author": "Jim DeFede",
+   "kind": "外国",
+   "points": {
+    "E": 1
+   },
+   "score": 1,
+   "cats": [
+    "E"
+   ],
+   "in_app": "day-the-world-came-to-town",
+   "decision": "保留（只有一类证据）",
+   "first_draft": "",
+   "note": "Goodreads 75,183；11-28 用户逐本看后定保留"
+  },
+  {
+   "title": "The Call of the Wild",
+   "author": "Jack London",
+   "kind": "他国书目",
+   "points": {},
+   "score": 0,
+   "cats": [],
+   "in_app": "us-call-of-the-wild",
+   "decision": "属于 us 的书，挂在这里，不在此评",
+   "first_draft": "",
+   "note": ""
+  }
+ ]
+}
