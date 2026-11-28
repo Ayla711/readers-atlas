@@ -1,0 +1,6 @@
+# Guyana, second search (read 2026-11-28; the user asked on 11-27 whether one more book could be found)
+## A Handful of Dust (Evelyn Waugh, 1934)
+D: thegreatestbooks.org top-2000 snapshot (the one used for the 11-27 tables, window.T2): rank 449, "A Handful of Dust", Evelyn Waugh, /books/39
+E: Goodreads auto_complete, "A Handful of Dust Waugh" -> 30,095 ratings (A Handful of Dust, Evelyn Waugh)
+Setting: chapter 5 "In Search of a City" lands Tony Last and Dr Messinger at Demerara and takes them upriver to a Macushi village (litcharts chapter summary); Mr Todd is "a British Guianan" (en.wikipedia "A Handful of Dust"). Waugh arrived in British Guiana on 23 Dec 1932 and went into the Rupununi with the district commissioner (en.wikipedia); he stayed at the St Ignatius Jesuit mission in the central Rupununi on 23 Jan 1933 and again from 22 Feb to 5 Mar 1933, reading Fr Mather's Dickens there (jesuitarchives.co.uk "Evelyn Waugh in Guyana"). The settler Christie, the model for Mr Todd, was met on the same journey (en.wikipedia).
+Not taken: Ninety-Two Days (Waugh's travel book of the journey): Goodreads 95, not in the top 2000.
