@@ -9,7 +9,7 @@ sources={
 "D":"thegreatestbooks.org 总榜前 2000 名（前 500 → 2，前 2000 → 1）",
 "E":"Goodreads 评分人数（自动补全接口，11-28）",
 },
-size_note="规则 v2。加拿大第一次按 v2 评。候选：CBC 100 全部、LRC 100 里的文学和叙事类、吉勒奖全部得主、英联邦作家奖加拿大和加勒比区得主、总督奖英语小说里 Goodreads 过万或进 D 的书、应用里已有的 41 本。总督奖法语小说得主除《Ru》外 Goodreads 都不到 4,000，1960 年前的英语小说得主都不到 1,100，吉勒奖其余得主不到 1 万，都只有奖项一项，不逐本列。LRC 100 里还有 Combat Journal for Place d'Armes、Red Lights on the Prairies、Ten Lost Years、The Siren Years、A New Athens、The Ecstasy of Rita Joe、Leaving Home、In Praise of Older Women、Lampman 诗集，Goodreads 都不到 2,600，只有一项。写外国的书标「不算加拿大」；《使女的故事》写马萨诸塞，放到美国复核。CBC 那份「100 true stories」非虚构名单页面打不开（403），没用。11-28 用户定：够线的 42 本新书全部收下（标「地点待核」的几本，建数据时找不到真实地点就不收，再告诉用户）；零项的三本旧书（Barometer Rising、Songs of a Sourdough、I Heard the Owl Call My Name）删除，瑟维斯在道森的小屋照常保留。用户追问后再核：只有一类证据的旧书 10 本，用户逐本看，删 3 本（Dance of the Happy Shades、St. Urbain's Horseman、The Manticore，作者都有更够格的书），其余 7 本保留；Life of Pi 在加拿大只有多伦多插叙，和 Do Not Say We Have Nothing 同样判不算加拿大，删除。已有 41 本最后保留 34 本。原始数据：verify/src_1128/ca_1128.txt。",
+size_note="规则 v2。加拿大第一次按 v2 评。候选：CBC 100 全部、LRC 100 里的文学和叙事类、吉勒奖全部得主、英联邦作家奖加拿大和加勒比区得主、总督奖英语小说里 Goodreads 过万或进 D 的书、应用里已有的 41 本。总督奖法语小说得主除《Ru》外 Goodreads 都不到 4,000，1960 年前的英语小说得主都不到 1,100，吉勒奖其余得主不到 1 万，都只有奖项一项，不逐本列。LRC 100 里还有 Combat Journal for Place d'Armes、Red Lights on the Prairies、Ten Lost Years、The Siren Years、A New Athens、The Ecstasy of Rita Joe、Leaving Home、In Praise of Older Women、Lampman 诗集，Goodreads 都不到 2,600，只有一项。写外国的书标「不算加拿大」；《使女的故事》写马萨诸塞，放到美国复核。CBC 那份「100 true stories」非虚构名单页面打不开（403），没用。11-28 用户定：够线的 42 本新书全部收下（标「地点待核」的几本，建数据时找不到真实地点就不收，再告诉用户）；零项的三本旧书先定全删；作家故居必须挂代表作，道森的瑟维斯小屋只挂 Songs of a Sourdough，用户改定「算了都留着吧」，这本破例收（场景和小屋都保留），另两本（Barometer Rising、I Heard the Owl Call My Name）删除。用户追问后再核：只有一类证据的旧书 10 本，用户逐本看，删 3 本（Dance of the Happy Shades、St. Urbain's Horseman、The Manticore，作者都有更够格的书），其余 7 本保留；Life of Pi 在加拿大只有多伦多插叙，和 Do Not Say We Have Nothing 同样判不算加拿大，删除。已有 41 本最后保留 35 本。原始数据：verify/src_1128/ca_1128.txt。",
 rows=[
 ('419', 'Will Ferguson', '本国', {'A1': 3, 'C': 2, 'E': 1}, '', 'CBC 100 · 吉勒奖 2012 · Goodreads 13,100；卡尔加里和尼日利亚两头写'),
 ('A Complicated Kindness', 'Miriam Toews', '本国', {'A1': 3, 'C': 2, 'E': 1}, '', 'CBC 100 · 总督奖 2004 · Goodreads 29,221'),
@@ -177,7 +177,7 @@ rows=[
 ('Station Eleven', 'Emily St. John Mandel', '本国', {'C': 2, 'D': 1, 'E': 2}, '', '克拉克奖 2015 · D 1366 · Goodreads 657,999；开场在多伦多的埃尔金剧院，后面大半写密歇根一带'),
 ('Emily of New Moon', 'L. M. Montgomery', '本国', {'E': 1}, '', 'Goodreads 56,233；11-28 用户逐本看后定保留'),
 ('Barometer Rising', 'Hugh MacLennan', '本国', {}, '用户同意删（11-28：加拿大零项的三本全部删除）', 'Goodreads 1,864'),
-('Songs of a Sourdough', 'Robert W. Service', '本国', {}, '用户同意删（11-28：加拿大零项的三本全部删除）', 'Goodreads 1,123'),
+('Songs of a Sourdough', 'Robert W. Service', '本国', {}, '破例收（11-28 用户先定删，得知道森瑟维斯小屋要挂这本代表作后改为「算了都留着吧」）', 'Goodreads 1,123；零项；拉伯奇湖的场景和瑟维斯小屋都保留'),
 ('All My Puny Sorrows', 'Miriam Toews', '本国', {'E': 1}, '', 'Goodreads 34,244；另得 2014 年作家信托小说奖（维基百科），这个奖不在 C 类里；11-28 用户逐本看后定保留'),
 ('Beast in View', 'Margaret Millar', '本国（写洛杉矶）', {'D': 1}, '不算加拿大', 'D 1116 · Goodreads 2,768'),
 ('Under the Volcano', 'Malcolm Lowry', '外国（写墨西哥）', {'D': 2, 'E': 1}, '不算加拿大', 'D 62 · Goodreads 27,833'),
