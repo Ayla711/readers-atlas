@@ -1,0 +1,6 @@
+{
+ "ar-mar-del-plata": {"lat": -38.0, "lon": -57.55, "st": "en.wikipedia \"Mar del Plata\" coordinates", "su": "https://en.wikipedia.org/wiki/Mar_del_Plata"},
+ "ar-buenos-aires": {"lat": -34.60388889, "lon": -58.38138889, "st": "en.wikipedia \"Buenos Aires\" coordinates", "su": "https://en.wikipedia.org/wiki/Buenos_Aires"},
+ "ar-resistencia": {"lat": -27.45138889, "lon": -58.98666667, "st": "en.wikipedia \"Resistencia, Chaco\" coordinates", "su": "https://en.wikipedia.org/wiki/Resistencia,_Chaco"},
+ "ar-colastine": {"lat": -31.61666667, "lon": -60.6, "st": "es.wikipedia \"Colastiné Norte\" coordinates", "su": "https://es.wikipedia.org/wiki/Colastiné_Norte"}
+}

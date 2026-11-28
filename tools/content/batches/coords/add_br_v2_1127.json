@@ -1,0 +1,8 @@
+{
+ "br-rio-de-janeiro": {"lat": -22.91111111, "lon": -43.20555556, "st": "en.wikipedia \"Rio de Janeiro\" coordinates", "su": "https://en.wikipedia.org/wiki/Rio_de_Janeiro"},
+ "br-pindorama": {"lat": -21.18583333, "lon": -48.90722222, "st": "en.wikipedia \"Pindorama, São Paulo\" coordinates", "su": "https://en.wikipedia.org/wiki/Pindorama,_São_Paulo"},
+ "br-itabira": {"lat": -19.61888889, "lon": -43.22694444, "st": "en.wikipedia \"Itabira\" coordinates", "su": "https://en.wikipedia.org/wiki/Itabira"},
+ "br-espaco-pasargada": {"lat": -8.059689, "lon": -34.881223, "st": "Wikidata Q10274960 (Espaço Pasárgada) P625", "su": "https://www.wikidata.org/wiki/Q10274960"},
+ "br-belo-horizonte": {"lat": -19.91666667, "lon": -43.93333333, "st": "en.wikipedia \"Belo Horizonte\" coordinates", "su": "https://en.wikipedia.org/wiki/Belo_Horizonte"},
+ "br-rio-japura": {"lat": -3.1655555555556, "lon": -64.780833333333, "st": "Wikidata Q171840 (Rio Japurá) P625", "su": "https://www.wikidata.org/wiki/Q171840"}
+}

@@ -1,0 +1,20 @@
+{
+ "bo-la-coronilla": {
+  "lat": -17.4046875,
+  "lon": -66.1603037,
+  "st": "es.wikipedia \"Heroínas de la Coronilla\" coordinates",
+  "su": "https://es.wikipedia.org/wiki/Hero%C3%ADnas_de_la_Coronilla"
+ },
+ "bo-copacabana": {
+  "lat": -16.16666667,
+  "lon": -69.08333333,
+  "st": "en.wikipedia \"Copacabana, Bolivia\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Copacabana,_Bolivia"
+ },
+ "bo-cotagaita": {
+  "lat": -20.81777778,
+  "lon": -65.65861111,
+  "st": "es.wikipedia \"Santiago de Cotagaita\" coordinates",
+  "su": "https://es.wikipedia.org/wiki/Santiago_de_Cotagaita"
+ }
+}

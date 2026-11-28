@@ -1,0 +1,14 @@
+{
+ "uy-colonia-del-sacramento": {
+  "lat": -34.47138889,
+  "lon": -57.84416667,
+  "st": "en.wikipedia \"Colonia del Sacramento\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Colonia_del_Sacramento"
+ },
+ "uy-montevideo": {
+  "lat": -34.90555556,
+  "lon": -56.18416667,
+  "st": "en.wikipedia \"Montevideo\" coordinates",
+  "su": "https://en.wikipedia.org/wiki/Montevideo"
+ }
+}

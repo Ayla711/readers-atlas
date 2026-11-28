@@ -1,0 +1,9 @@
+{
+ "pe-country-club-lima": {"lat": -12.09805556, "lon": -77.04888889, "st": "es.wikipedia \"Hotel Country Club de Lima\" coordinates", "su": "https://es.wikipedia.org/wiki/Hotel_Country_Club_de_Lima"},
+ "pe-huamachuco": {"lat": -7.81202778, "lon": -78.04869444, "st": "en.wikipedia \"Huamachuco\" coordinates", "su": "https://en.wikipedia.org/wiki/Huamachuco"},
+ "pe-abancay": {"lat": -13.63333333, "lon": -72.88333333, "st": "en.wikipedia \"Abancay\" coordinates", "su": "https://en.wikipedia.org/wiki/Abancay"},
+ "pe-huaca-pucllana": {"lat": -12.11111111, "lon": -77.03388889, "st": "en.wikipedia \"Huaca Pucllana\" coordinates", "su": "https://en.wikipedia.org/wiki/Huaca_Pucllana"},
+ "pe-plaza-san-martin": {"lat": -12.0515, "lon": -77.0345, "st": "en.wikipedia \"Plaza San Martín, Lima\" coordinates", "su": "https://en.wikipedia.org/wiki/Plaza_San_Mart%C3%ADn,_Lima"},
+ "pe-hotel-paracas": {"lat": -13.83583333, "lon": -76.25444444, "st": "es.wikipedia \"Hotel Paracas\" coordinates", "su": "https://es.wikipedia.org/wiki/Hotel_Paracas"},
+ "pe-huancayo": {"lat": -12.06666667, "lon": -75.21666667, "st": "en.wikipedia \"Huancayo\" coordinates", "su": "https://en.wikipedia.org/wiki/Huancayo"}
+}
