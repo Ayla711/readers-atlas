@@ -124,5 +124,7 @@ window.RA_DATA.books = [
   // —— 11-27 selection re-check, rule v2 (add_bo_v2_1127.py) ——
   { id: "juan-de-la-rosa", title: "Juan de la Rosa: Memoirs of the Last Soldier of the Independence Movement", title_zh: "胡安·德拉罗萨", title_orig: "Juan de la Rosa. Memorias del último soldado de la independencia", author: "Nataniel Aguirre", author_zh: "纳塔尼埃尔·阿吉雷", year: "1885", orig_lang: "es", public_domain: false, source_url: null, aliases: ["Juan de la Rosa", "Juanito"] },
   { id: "raza-de-bronce", title: "Race of Bronze", title_zh: "青铜的种族", title_orig: "Raza de bronce", author: "Alcides Arguedas", author_zh: "阿尔西德斯·阿格达斯", year: "1919", orig_lang: "es", public_domain: false, source_url: null, aliases: ["Raza de bronce", "Wata-Wara"] },
-  { id: "la-chaskanawi", title: "La Chaskañawi", title_zh: "星眸姑娘", title_orig: "La Chaskañawi", author: "Carlos Medinaceli", author_zh: "卡洛斯·梅迪纳塞利", year: "1947", orig_lang: "es", public_domain: false, source_url: null, aliases: ["La Chaskañawi", "La chaskañawi", "Claudina"] }
+  { id: "la-chaskanawi", title: "La Chaskañawi", title_zh: "星眸姑娘", title_orig: "La Chaskañawi", author: "Carlos Medinaceli", author_zh: "卡洛斯·梅迪纳塞利", year: "1947", orig_lang: "es", public_domain: false, source_url: null, aliases: ["La Chaskañawi", "La chaskañawi", "Claudina"] },
+  // —— 11-28 Guyana, one more book (add_gy_v2_1128.py) ——
+  { id: "a-handful-of-dust", title: "A Handful of Dust", title_zh: "一抔尘土", title_orig: "A Handful of Dust", author: "Evelyn Waugh", author_zh: "伊夫林·沃", year: "1934", orig_lang: "en", public_domain: false, source_url: null, aliases: ["A Handful of Dust", "Mr Todd", "The Man Who Liked Dickens", "Tony Last"] }
 ];

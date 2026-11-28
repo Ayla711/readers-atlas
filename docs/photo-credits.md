@@ -1819,3 +1819,4 @@
 | Arauca River | Oara | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Canoa_en_el_rio_arauca,_apure,_venezuela.jpg) |
 | La Coronilla, Cochabamba | Albaro2020 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Escultura_hero%C3%ADnas_de_la_coronilla_Cochabamba_01.jpg) |
 | Copacabana, Lake Titicaca | Samarasiña | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Playa_de_Copacabana,_Bolivia.jpg) |
+| St Ignatius, Rupununi | Treez44est | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Rupununi_Savannah.jpg) |

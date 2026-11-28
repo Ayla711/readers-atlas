@@ -2056,4 +2056,4 @@ window.RA_COUNTRIES = [
  }
 ];
 // Totals over every open country, for the world page.
-window.RA_WORLD_STATS = {"countries": 66, "books": 1830, "lines": 1757, "places": 2016};
+window.RA_WORLD_STATS = {"countries": 66, "books": 1831, "lines": 1758, "places": 2017};
