@@ -1,0 +1,6 @@
+{
+ "ca-new-waterford": {"lat": 46.25222, "lon": -60.09389, "st": "en.wikipedia \"New Waterford, Nova Scotia\" coordinates", "su": "https://en.wikipedia.org/wiki/New_Waterford,_Nova_Scotia"},
+ "ca-scots-bay": {"lat": 45.30056, "lon": -64.395, "st": "en.wikipedia \"Scots Bay, Nova Scotia\" coordinates", "su": "https://en.wikipedia.org/wiki/Scots_Bay,_Nova_Scotia"},
+ "ca-st-johns": {"lat": 47.5614, "lon": -52.7119, "st": "en.wikipedia \"St. John's, Newfoundland and Labrador\" coordinates", "su": "https://en.wikipedia.org/wiki/St._John%27s,_Newfoundland_and_Labrador"},
+ "ca-trinity": {"lat": 48.37556, "lon": -53.39472, "st": "en.wikipedia \"Trinity, Newfoundland and Labrador\" coordinates", "su": "https://en.wikipedia.org/wiki/Trinity,_Newfoundland_and_Labrador"}
+}
